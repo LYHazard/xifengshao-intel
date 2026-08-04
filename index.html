@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>西风哨 · 路透/彭博涉华舆情情报系统</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- 可折叠报头 -->
+<header class="topbar" id="topbar">
+  <div class="topbar-inner">
+    <button class="brand" id="brandBtn" title="回到最新一日">
+      <span class="brand-mark">西</span>
+      <span class="brand-name">西风哨</span>
+    </button>
+    <div class="topbar-meta" id="topMeta"></div>
+    <button class="collapse-btn" id="collapseBtn" title="折叠 / 展开">▾</button>
+  </div>
+  <div class="topbar-detail" id="topDetail"></div>
+</header>
+
+<div class="layout">
+  <!-- 左侧导航栏 -->
+  <aside class="sidebar" id="sidebar">
+    <div class="nav-label">每日文档</div>
+    <nav class="nav-days" id="navDays"></nav>
+
+    <div class="nav-label">情报视图</div>
+    <div class="nav-extra">
+      <button class="nav-item" id="navArchive">全档案情报</button>
+      <button class="nav-item" id="navSearch">搜索</button>
+    </div>
+
+    <div class="search-panel" id="searchPanel" hidden>
+      <input type="search" id="searchInput" placeholder="搜标题 / 摘要 / 记者 / 信源 / 议题…">
+      <div class="search-scope" id="searchScope"></div>
+    </div>
+
+    <div class="sidebar-foot" id="sidebarFoot"></div>
+  </aside>
+
+  <!-- 主内容区 -->
+  <main class="main" id="main"></main>
+</div>
+
+<!-- 详情弹层 -->
+<div class="modal-backdrop" id="modalBackdrop">
+  <div class="modal" id="modal" role="dialog" aria-modal="true"></div>
+</div>
+
+<footer class="footer">
+  <p>西风哨 · 数据存于本机 <code>data/articles/</code>，每日扫描归档；站点为只读情报视图。</p>
+  <p class="footer-dim" id="footerMeta"></p>
+</footer>
+
+<script src="data/index.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
