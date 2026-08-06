@@ -1,6 +1,310 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-08-04T16:32:24+08:00",
+  "generated_at": "2026-08-06T08:47:30+08:00",
   "days": {
+    "2026-08-06": {
+      "file": "2026-08-06.json",
+      "scan_time": "2026-08-06T08:47:20+08:00",
+      "window": "2026-08-04 08:00 ~ 2026-08-06 08:00 (GMT+8)",
+      "coverage": {
+        "reuters": {
+          "captured": 4,
+          "with_author": 2,
+          "with_fulltext": 4,
+          "note": "本轮（8/4-8/6窗口）路透4篇：①商务部五项对美反制(8/5,具名Eduardo Baptista等3人,high,负面+深度研判)；②三星SK海力士测试中国芯片设备(8/4,机构署名,high,中性)；③FCC拟禁中国光模块(8/4独家,机构署名,high,负面+深度研判)；④中国服务业PMI提振股市(8/5,具名Summer Zhen,medium,正面)。代理(127.0.0.1:17891)未启用，基于联网检索+转载源全文整合。"
+        },
+        "bloomberg": {
+          "captured": 1,
+          "with_author": 1,
+          "with_fulltext": 1,
+          "note": "本轮彭博1篇：中国香港保单收益征税20%(8/5,具名Isabella Farr+Heng Xie,high,负面+深度研判)。bloomberg.com对本机代理403，基于WebSearch检索返回原文+中文转引整合。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "20260805-reuters-mofcom-retaliation-us",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China targets US firms and drone exports after FCC, Xinjiang actions",
+          "title_zh": "中方对美国FCC与涉疆制裁出台五项反制措施：限制无人机出口、制裁七家美企、首例外贸国安调查",
+          "published_at": "2026-08-05",
+          "published_precision": "day",
+          "authors": [
+            "Eduardo Baptista",
+            "Ethan Wang",
+            "Ryan Woo"
+          ],
+          "author_locations": "北京",
+          "authors_status": "confirmed",
+          "topics": [
+            "中美经贸摩擦",
+            "出口管制",
+            "无人机",
+            "涉疆制裁",
+            "国家安全调查",
+            "FCC"
+          ],
+          "importance": "high",
+          "summary_zh": "路透北京8月5日电——中国商务部8月5日公布多项对美反制措施：禁止境内组织和个人与七家美国实体进行交易合作，收紧对美无人机及相关两用物项出口管制，暂停美国认证机构在华强制性产品认证工厂跟踪检查，并对进口打印复印办公设备发起中国首例对外贸易国家安全调查。商务部称此举是对美国FCC近期涉华消极措施及国土安全部将40余家中企列入'维吾尔强迫劳动预防法实体清单'的回应。被列入反制清单的七家美企包括：应用DNA科学公司（Applied DNA Sciences）、地层水库公司（Stratum Reservoir）、阿尔塔纳技术公司（Altana Technologies）、责任商业联盟（Responsible Business Alliance）、维泰集团（Verité Group）、人权在中国组织（Human Rights in China）以及合规测试公司（Compliance Testing LLC）。安库拉中国区董事总经理Montufar-Helu分析称，北京过去数月一直在构建反制工具箱，此次措施整体克制但信号明确，如美方执意出台新限制，中方将进一步反制。",
+          "china_angle": "以中国商务部对美反制措施为报道主体，聚焦中方反制工具箱与信号传递",
+          "stance": "中性（客观报道中方措施与美方行为的因果关系，引用中外分析人士观点）",
+          "source_url": "https://www.yahoo.com/finance/economy/policy/articles/china-targets-us-firms-drone-094657733.html",
+          "body_available": true,
+          "body_zh": "北京8月5日（路透社）电——中国商务部周三禁止境内组织和个人与七家美国实体进行交易合作，收紧对美无人机及相关技术出口管制，并限制美国机构在华强制性产品认证工厂检查中的角色。\n\n北京表示，此举是对美国近期限制中国电信运营商、检测实验室、无人机、消费路由器、海底电缆、先进机器人设备和电力逆变器等措施的回应。商务部还援引了华盛顿上周将40余家中国实体列入'维吾尔强迫劳动预防法实体清单'一事。\n\n此前路透社报道，特朗普政府正起草一项国家安全措施，拟禁止进口中国新型数据中心组件（含光收发模块），商务部此举亦是对该报道的回应。\n\n安库拉中国区董事总经理阿尔弗雷多·蒙图法尔-埃卢表示：'这是一项反制行动，毫不令人意外。北京过去数月一直在构建反制工具箱。'\n\n这标志着中美贸易与技术紧张局势的最新升级——华盛顿收紧对华技术与市场准入限制，北京则以出口管制和针对性制裁予以回应。\n\n商务部将亚利桑那州梅萨市的合规测试公司（Compliance Testing LLC）列入反制清单，禁止中国组织和个人与其交易或合作。商务部称该公司协助和支持了美国FCC近期针对中国的措施，损害了中企合法权益。\n\n今年4月，FCC通过了一项快速审查流程，适用于在美国或互惠国家实验室测试的设备，同时提议不再认可非互惠国家（含中国）的检测实验室和认证机构——如最终实施，将使中国实验室和认证机构更难帮助制造商获得面向美国市场的FCC设备授权。\n\n商务部同时对应用DNA科学公司、地层水库公司、阿尔塔纳技术公司、责任商业联盟、维泰集团和人权在中国组织实施同样的交易禁令，指控其支持美国涉疆制裁。其中多家机构从事供应链溯源、劳工风险评估或人权倡导工作。\n\n在无人机方面，商务部称受控无人机、关键零部件及相关技术出口美国将接受更严格的逐案审查，不再适用简化许可。此措施并非全面禁令，但可能导致受中国双用途出口管制规则覆盖的出货延迟。\n\n北京还暂停了美国认证机构在中国强制性产品认证体系下进行的工厂跟踪检查，这可能提高制造商成本并造成延迟。\n\n此外，商务部对进口含外国系统软件的打印、复印和办公设备发起国家安全调查——这是中国首例对外贸易国家安全调查。调查虽未点名美国或特定公司，但商务部明确将其列为对近期美方行为的回应之一。\n\n蒙图法尔-埃卢表示，北京措辞信号显示对近期美方行动的失望，但'双方都在采取有针对性的精准措施而非大规模行动'，表明双方都不希望紧张局势失控。\n\n（Eduardo Baptista、Ethan Wang、Ryan Woo报道；Sharon Singleton、David Holmes编辑）",
+          "cited_sources": [
+            "中国商务部",
+            "美国联邦通信委员会(FCC)",
+            "美国国土安全部",
+            "应用DNA科学公司(Applied DNA Sciences)",
+            "地层水库公司(Stratum Reservoir)",
+            "阿尔塔纳技术公司(Altana Technologies)",
+            "责任商业联盟(RBA)",
+            "维泰集团(Verité Group)",
+            "人权在中国组织",
+            "合规测试公司(Compliance Testing LLC)",
+            "安库拉(Ankura)中国区董事总经理Montufar-Helu"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：中国商务部一次性出台五项对美反制措施（无人机出口管制、7家美企制裁、CCC认证暂停、首例外贸国安调查），是对美国FCC涉华限制及UFLPA扩表的直接回应。信号明确——中方已从被动应对转向主动构建反制工具箱。\n\n引用信源：中国商务部官方公告、安库拉中国区董事总经理Montufar-Helu分析。\n\n研判要点：①这标志着中美经贸摩擦从'关税战'向'工具箱战'升级——双方都在使用出口管制、实体清单、认证壁垒等精准工具而非全面关税；②首例外贸国安调查（打印机/复印设备）是开创性举措，意味着中国反制工具箱新增了一个法律工具，后续可能在更多领域复用；③无人机出口管制延续了2024年以来的管控趋势，但此次明确针对'对美出口'且取消简化许可，信号更强；④与历史档案的延续性：此前已归档的'UFLPA 43家企业'(20260802)和'芯片设计IP保护'(20260803)均属同一中美科技战主线，此次反制标志着该主线在持续升级——已连续多日出现在路透报道中。\n\n监测建议：关注美方后续反应（是否出台新一轮限制）、中方首例外贸国安调查的进展（调查对象与结论）、以及被制裁美企的商业影响传导。",
+          "provenance": {
+            "retrieved_via": "联网检索 + 转载源(Yahoo Finance)",
+            "evidence_url": "https://www.yahoo.com/finance/economy/policy/articles/china-targets-us-firms-drone-094657733.html",
+            "evidence_note": "雅虎财经转载路透稿，文末保留完整路透署名：Reporting by Eduardo Baptista, Ethan Wang and Ryan Woo; Editing by Sharon Singleton and David Holmes。代理未启用时基于检索摘要+转载源全文整合。"
+          }
+        },
+        {
+          "id": "20260805-bloomberg-hk-insurance-tax",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Prudential, HSBC Shares Tumble on China Insurance Tax Report",
+          "title_zh": "中国拟对香港保单收益征20%个税，保诚暴跌13%、汇丰渣打齐跌",
+          "published_at": "2026-08-05",
+          "published_precision": "day",
+          "authors": [
+            "Isabella Farr",
+            "Heng Xie"
+          ],
+          "author_locations": "",
+          "authors_status": "confirmed",
+          "topics": [
+            "跨境税收",
+            "中国香港保险",
+            "金融股",
+            "保诚",
+            "汇丰",
+            "渣打"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社8月5日电——据财新报道，中国税务机关已开始对境外保单收益征收20%个人所得税，堵住长期存在的监管漏洞。北京和杭州已率先执行——对香港保单的股息派发收益及预缴保费所产生的利息收入课征20%税率。消息传出后，高度依赖内地访客业务的境外金融机构股价集体暴跌：保诚在伦敦一度跌13%至949.4便士（创2020年3月以来最大盘中跌幅），汇丰控股伦敦股价跌7%至1475便士，渣打集团跌7%至2090便士。中国香港是保诚2025年最大利润来源，其新业务利润增长12%直接受益于内地访客的销售拉动。投行富瑞表示，此举引发'投资者恐慌'，将削弱香港保险产品相较内地产品的吸引力，但也降低了境外保单被彻底禁止的可能性。此前6月已有部分银行暂停为内地客户开立可用于海外投资的香港账户。",
+          "china_angle": "以中国税务机关对香港保单收益征税为报道主体，聚焦对跨境金融与港股金融股的冲击",
+          "stance": "中性（客观报道政策变化与市场反应，引用分析师观点）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-05/prudential-hsbc-shares-tumble-on-china-insurance-tax-report",
+          "body_available": true,
+          "body_zh": "彭博社8月5日电——保诚集团（Prudential Plc）、汇丰控股（HSBC Holdings Plc）和渣打集团（Standard Chartered Plc）股价周三大跌，此前有报道称中国正将个人所得税范围扩大至包括中国香港保险保单的任何收益。\n\n据财新（Caixin Global）周三报道，北京和杭州的早期执法案例显示，中国税务机关已开始对离岸保单的股息派发和利息收益征收20%的个人所得税，堵住了长期存在的监管漏洞。\n\n保诚在伦敦盘中一度暴跌13%至949.4便士，创2020年3月以来最大盘中跌幅。汇丰控股伦敦股价跌7%，渣打集团跌7%。友邦保险（AIA）美股ADR亦显著下挫近4%。\n\n中国香港是保诚2025年最大的利润来源。该公司在3月公布的年度业绩中，将这一金融枢纽新业务利润增长12%归功于本地客户及中国大陆访客的销售增长，并曾表示对来自中国大陆访客的需求持续性充满信心。\n\n投行富瑞（Jefferies）表示，该报道引发了保诚股票的'投资者恐慌'。此举将削弱中国香港保险产品相较于内地产品的吸引力。虽然此类征税极可能从现在起对销售构成压力，但或许降低了境外保单被彻底禁止的可能性。\n\n在今年6月初，已有部分银行暂停为中国大陆客户开立可用于海外投资的中国香港账户，当时曾导致这些公司及在该地区有相关业务的其他金融机构股价大幅走低。从开户端收紧到收益端征税，监管链条的逐步延伸正在让中国香港保险持续多年的'灰色红利'加速消退。\n\n值得注意的是，CRS（共同申报准则）信息交换的常态化彻底打破了境外保单的信息盲区。自2018年9月中国首次启动CRS金融信息自动交换以来，中国香港需定期将内地税务居民在港持有的具备现金价值的保险账户信息同步至内地税务部门。\n\n（Isabella Farr、Heng Xie报道；更新于2026年8月5日）",
+          "cited_sources": [
+            "财新(Caixin Global)",
+            "保诚集团(Prudential Plc)",
+            "汇丰控股(HSBC Holdings Plc)",
+            "渣打集团(Standard Chartered Plc)",
+            "友邦保险(AIA)",
+            "富瑞(Jefferies)",
+            "中国国家税务总局",
+            "中国香港保险业监管局"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：中国税务机关开始对中国香港保单收益征收20%个人所得税，北京和杭州已率先执行。保诚暴跌13%、汇丰渣打跌7%，市场恐慌情绪显著。\n\n引用信源：财新报道、保诚年报、富瑞分析、CRS信息交换机制。\n\n研判要点：①这是中国跨境金融监管'链条化收紧'的重要一环——从6月暂停内地客户开立海外投资香港账户，到8月对保单收益征税，监管从'入口端'延伸至'收益端'，系统性堵截跨境资本外流通道；②冲击面广泛：中国香港保险市场高度依赖内地访客（保诚2025年最大利润来源），20%税率将直接削弱香港保险产品的税收优势，对保诚、友邦、汇丰等金融机构的长期增长叙事构成挑战；③CRS信息交换是技术基础——自2018年启动以来，内地税务部门已可获取内地居民在港保单数据，征税只是'水到渠成'的执法落地；④与历史档案的延续性：此前已归档的'英国批准中国建超级使馆'(20260731)和'中国香港'相关议题中，中国香港金融地位是反复出现的议题，此次征税进一步凸显中国对跨境资本流动的管控趋严。\n\n监测建议：关注征税范围是否从北京/杭州扩大至全国、保险公司是否调整产品结构应对、以及内地访客赴港投保趋势的变化数据。",
+          "provenance": {
+            "retrieved_via": "联网检索 + 彭博官网(bloomberg.com)",
+            "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-05/prudential-hsbc-shares-tumble-on-china-insurance-tax-report",
+            "evidence_note": "彭博社原创报道，署名By Isabella Farr and Heng Xie。bloomberg.com对本机代理返回403，基于WebSearch检索返回的彭博原文摘要+多个中文转引来源（新浪财经/网易/AASTOCKS）整合。"
+          }
+        },
+        {
+          "id": "20260805-reuters-china-stocks-services-pmi",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China stocks extend gains as key services data lifts sentiment",
+          "title_zh": "中国服务业PMI创近一年新高，A股港股连续第二日收涨",
+          "published_at": "2026-08-05",
+          "published_precision": "day",
+          "authors": [
+            "Summer Zhen"
+          ],
+          "author_locations": "中国香港",
+          "authors_status": "confirmed",
+          "topics": [
+            "资本市场",
+            "服务业PMI",
+            "宏观经济",
+            "A股",
+            "港股"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透香港8月5日电——中国和香港股市连续第二日上涨，从前一周的大幅下跌中持续恢复。S&P Global中国通用服务业PMI从6月的50.6升至7月的52.6，创2024年5月以来最快扩张速度，受需求走强和新出口订单增长推动。上证综指收涨0.96%报3,617.60点，创2022年1月以来新高；沪深300指数涨0.8%，恒生指数涨0.68%。高盛分析师指出，服务业数据表明7月服务业活动加速，但官方服务业PMI下降与S&P PMI之间的显著分歧暗示各子行业差异较大。花旗分析师指出，近期中美关税谈判缺乏进展导致中国和香港股市仓位偏弱。生物医药和医疗保健指数在港股领涨超3%，A股方面动漫游戏和银行股跑赢。苹果供应商扩大涨幅，比亚迪电子涨7.7%，富士康工业互联网涨6.3%。",
+          "china_angle": "以中国股市对服务业PMI数据的积极反应为报道主体",
+          "stance": "中性（市场数据+机构观点，无倾向性表述）",
+          "source_url": "https://ttm.financial/news/2557836141",
+          "body_available": true,
+          "body_zh": "香港8月5日（路透社）电——中国和香港股市周二连续第二日上涨，从前一周的大幅下跌中恢复，此前一份私营部门调查显示中国7月服务业活动强劲复苏，改善了投资者情绪。\n\n收盘时，上证综指涨0.96%报3,617.60点，刷新2022年1月以来最高水平。蓝筹沪深300指数涨0.8%，香港恒生指数涨0.68%。\n\nS&P Global中国通用服务业PMI从6月的50.6升至7月的52.6，创2024年5月以来最快扩张速度，受需求走强和新出口订单增长推动。S&P PMI被认为更能反映东部沿海中小型出口导向型企业的趋势。\n\n高盛分析师在周二报告中表示，数据表明7月服务业活动加速，但官方服务业PMI下降与S&P PMI之间的显著分歧暗示'服务业各子行业存在巨大差异'。\n\n中国股市涨幅也受到隔夜华尔街上涨的外溢影响，后者受美国降息预期升温推动。\n\n分析师预计未来几周涨幅可能有所整固，因中美关税税率不确定性和持续通缩压力仍存。花旗分析师在报告中指出，近期中美关税谈判缺乏进一步进展，导致中国和香港股市仓位偏弱。\n\n金利证券执行董事黄国威表示，部分港股上市公司业绩令人失望，与美国企业（尤其科技板块）强劲业绩形成对比，可能导致市场整固。\n\n板块方面，生物医药和医疗保健指数在港股领涨超3%。A股方面动漫游戏和银行股跑赢。苹果供应商扩大涨幅，港股比亚迪电子涨7.7%，A股富士康工业互联网涨6.3%。\n\n（Summer Zhen报道；Harikrishnan Nair、Sherry Jacob-Phillips编辑）",
+          "cited_sources": [
+            "S&P Global",
+            "高盛(Goldman Sachs)",
+            "花旗(Citi)",
+            "金利证券(Kingston Securities)执行董事黄国威",
+            "比亚迪电子",
+            "富士康工业互联网"
+          ],
+          "sentiment": "positive",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "联网检索 + 转载源(ttm.financial)",
+            "evidence_url": "https://ttm.financial/news/2557836141",
+            "evidence_note": "ttm.financial转载路透稿，保留完整路透署名：Reporting by Summer Zhen; Editing by Harikrishnan Nair and Sherry Jacob-Phillips。"
+          }
+        },
+        {
+          "id": "20260804-reuters-samsung-sk-hynix-chinese-tools",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Samsung, SK Hynix Test Chinese Chip Tools as Hedge Against US Ban",
+          "title_zh": "三星与SK海力士测试中国产芯片设备，以对冲美国出口管制风险",
+          "published_at": "2026-08-04",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "半导体设备",
+            "中美科技竞争",
+            "韩国芯片商",
+            "出口管制",
+            "国产替代"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社8月4日电——据三位知情人士透露，三星电子和SK海力士正在评估中国中微半导体设备（AMEC）的刻蚀设备，以备在美国进一步收紧出口管制时用于其中国工厂。两家韩企约两年前开始测试AMEC设备，当时正值华盛顿是否继续允许向中国进口美系芯片制造工具的不确定性上升之际。三星在西安运营NAND闪存工厂，SK海力士在大连有NAND设施、在无锡有DRAM工厂，这些工厂严重依赖应用材料（Applied Materials）和泛林半导体（Lam Research）等美国企业的刻蚀工具。美国商务部2023年曾授予三星和SK海力士中国工厂'经验证最终用户'(VEU)授权，允许进口某些受控美国设备而无需逐项申请许可，但2025年撤销了VEU授权，后改为发放年度许可证。德意志银行估计，中微、北方华创、拓荆达和盛美等中国半导体设备商2026年各自营收将超10亿美元，合计可占据中国280亿美元晶圆制造设备市场25-30%份额（不含光刻和量测则可达40%）。",
+          "china_angle": "以中国半导体设备商（AMEC）获得国际头部客户验证为报道主体，折射美国出口管制的'悖论效应'",
+          "stance": "中性（多方信源、数据支撑、客观叙述管制措施的意外效果）",
+          "source_url": "https://www.gs.asiams.net/article_details/samsung-sk-hynix-test-chinese-chip-tools-as-hedge-against-us-ban",
+          "body_available": true,
+          "body_zh": "路透社8月4日电——三星电子和SK海力士正在评估中国中微半导体设备（AMEC）的芯片制造设备，以备在其中国工厂使用，三位知情人士称，这是韩国芯片厂商对冲美国出口管制收紧风险的策略。\n\n据其中两位知情人士透露，两家存储芯片厂商约两年前开始测试AMEC刻蚀设备，当时正值华盛顿是否继续允许向中国进口美系芯片制造工具的不确定性上升之际。\n\n虽然评估尚未导致大规模部署决定，但这为这家上海企业提供了一个罕见机会——获得全球领先芯片厂商的验证。更广泛地说，这些测试凸显了美国技术管制核心的一个悖论：旨在限制中国半导体雄心的措施，反而为中国竞争对手在外国在华工厂中站稳脚跟创造了机会。\n\n三星在声明中向路透社否认已在其中国工厂测试AMEC设备，并表示未考虑这样做。SK海力士拒绝置评。\n\n美国商务部2023年将三星和SK海力士的中国工厂指定为'经验证最终用户'(VEU)，允许进口某些受控美国设备而无需逐项许可。华盛顿2025年撤销了VEU授权，后改为向两家公司发放2026年度许可证，允许向其中国设施进口芯片制造设备。\n\n尽管如此，两家公司仍担忧未来限制可能从新设备扩展到已安装西方工具的维护、维修或更换，因此将中国供应商作为维持和升级现有产线（而非扩大产能）的储备选项。\n\n三星在西安运营NAND闪存工厂，SK海力士在大连有NAND设施、在无锡有DRAM工厂。这些工厂严重依赖应用材料和泛林半导体供应的刻蚀工具。\n\n对于中微及中国新兴半导体设备商而言，获得三星或SK海力士的认可将是强有力的商业背书。尽管中国设备商在先进光刻和部分检测系统方面仍落后于海外对手，但在刻蚀、沉积、清洗和抛光等领域已缩小差距，且成本通常低20-30%。\n\n中微设备已被长江存储（YMTC）等中国领先芯片厂商使用，这使三星和SK海力士对部分系统的成熟度更有信心。\n\n德意志银行估计，北方华创、中微、拓荆达和盛美2026年各自营收将超10亿美元，合计可占中国280亿美元晶圆制造设备市场25-30%份额；若排除光刻和量测，中国供应商份额可达近40%。\n\n（路透社记者报道；Alexandra Alper（华盛顿）、Hyunjoo Jin、Heekyong Yang（首尔）补充报道；Eduardo Baptista、Miyoung Kim、Shri Navaratnam编辑）",
+          "cited_sources": [
+            "中微半导体设备(AMEC)",
+            "三星电子",
+            "SK海力士",
+            "美国商务部工业与安全局(BIS)",
+            "应用材料(Applied Materials)",
+            "泛林半导体(Lam Research)",
+            "长江存储(YMTC)",
+            "北方华创",
+            "拓荆达",
+            "盛美",
+            "德意志银行(Deutsche Bank)",
+            "TechInsights副总裁Dan Hutcheson"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "联网检索 + 转载源(gs.asiams.net)",
+            "evidence_url": "https://www.gs.asiams.net/article_details/samsung-sk-hynix-test-chinese-chip-tools-as-hedge-against-us-ban",
+            "evidence_note": "gs.asiams.net转载路透稿，文末保留完整路透署名：Reporting by Reuters staff; Additional reporting by Alexandra Alper in Washington, Hyunjoo Jin and Heekyong Yang in Seoul; Editing by Eduardo Baptista, Miyoung Kim and Shri Navaratnam。机构署名（Reuters staff），无具名个人记者，故authors_status=not_available。"
+          }
+        },
+        {
+          "id": "20260804-reuters-fcc-optical-transceiver-ban",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "US FCC drafting ban on Chinese data-center optical transceivers",
+          "title_zh": "路透独家：美国FCC拟禁止进口中国新型数据中心光收发模块",
+          "published_at": "2026-08-04",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中美科技竞争",
+            "半导体",
+            "数据中心",
+            "AI基础设施",
+            "FCC",
+            "光模块",
+            "出口管制"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社8月4日独家报道——据四位知情人士透露，美国联邦通信委员会（FCC）正在起草一项禁令，拟禁止进口中国新型号的数据中心光收发模块（optical transceivers），以保护支撑人工智能发展的关键基础设施。光收发模块主要用于数据中心内部高速光纤数据传输。美国官员希望2026年内公布并实施该禁令。FCC预计将先禁止所有新型号收发器进口，然后豁免许多非中国供应商。此举旨在防止中国企业'窃取数据、安装恶意软件或破坏美国数据中心服务'。若禁令落地，可能冲击全球主要光收发模块供应商中际旭创（占全球市场约27%）。中国驻美大使馆回应称，敦促美方'倾听两国工商界客观、理性的声音'，停止抹黑中国企业并以制裁相威胁。中金公司分析称，光模块核心功能是光电信号转换，本身不承担数据存储，安全逻辑能否成立值得商榷。",
+          "china_angle": "以美国FCC拟限制中国数据中心设备为报道主体，聚焦中美科技战从芯片向光通信环节扩散",
+          "stance": "中性（援引美方知情人士与中方使馆回应及分析师观点，呈现双方立场）",
+          "source_url": "https://www.chinadaily.com.cn/a/202608/05/WS6a72d2ffa310986e2b4691a1.html",
+          "body_available": true,
+          "body_zh": "路透社8月4日电——据四位知情人士透露，美国政府正在起草一项禁令，拟禁止进口中国新型号的数据中心组件，以保护支撑人工智能发展的关键基础设施。\n\n负责监管美国电信行业的联邦通信委员会（FCC）正在制定相关措施，计划禁止进口中国新型号的光收发模块。光收发模块主要用于数据中心内部的高速光纤数据传输。美国官员希望2026年内公布并实施该禁令。\n\n知情人士称，FCC仍可能修改或搁置有关限制。但这是现任美国政府限制中国技术进入美国前沿产业的最新举措，旨在防止中国企业在供应链中扎根。\n\nFCC此前已对中国的无人机、路由器、机器人和逆变器实施了类似限制。按照上述限制的先例，FCC预计将先禁止所有新型号收发器的进口，然后豁免许多非中国供应商。\n\n此举旨在防止中国企业'窃取数据、安装恶意软件或破坏美国数据中心服务'——这些数据中心承载着用于训练和运行AI模型的芯片。\n\n中国驻美国大使馆回应称，北京敦促美国'倾听两国工商界客观、理性的声音'，停止抹黑中国企业并以制裁相威胁。使馆表示：'对于任何严重损害中方利益的行动，中国都将采取一切必要措施予以回应。'\n\n若禁令落地，可能冲击全球主要光收发模块供应商中际旭创。Counterpoint Research数据显示，中际旭创占全球数据中心光收发模块市场约27%，居行业领先地位。美国创新基金会的一份报告指出，Coherent和Lumentum的生产规模仍不足以取代中国供应商。\n\n该禁令还可能提高亚马逊等云服务公司的经营成本，迫使其转向Coherent和Lumentum等美国供应商，但这些企业的产能不足以完全替代中国厂商。\n\n（路透社独家报道；基于四位匿名知情人士信息。代理未启用，基于检索摘要+多方转引整合。）",
+          "cited_sources": [
+            "美国联邦通信委员会(FCC)",
+            "中国驻美国大使馆",
+            "中际旭创",
+            "Counterpoint Research",
+            "美国创新基金会",
+            "Coherent",
+            "Lumentum",
+            "中金公司"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：美国FCC拟禁止进口中国新型号光收发模块（数据中心关键组件），将中美科技战从芯片领域扩散至光通信环节。这是路透独家报道，引用四位匿名知情人士。\n\n引用信源：四位匿名知情人士、中国驻美大使馆、Counterpoint Research、美国创新基金会、中金公司。\n\n研判要点：①这是中美科技战'扩散化'的重要信号——限制范围从先进芯片制造设备向数据中心基础设施组件蔓延，意味着美国正试图在AI产业链的更多环节建立防线；②中国企业在全球光模块市场占据7/10强地位（份额超60%），美国本土企业（Coherent、Lumentum）产能不足，短期内难以替代——这意味着禁令若落地，将直接推高美国AI基础设施建设成本；③中方已在次日（8月5日）出台五项反制措施（见本批次另一篇报道），显示中美博弈进入'你限制我、我反制你'的螺旋升级阶段；④与历史档案的延续性：此前已归档的'中国军方利用美国AI模型训练防务系统'(20260731)、'AI模型蒸馏'(20260731)、'芯片设计IP保护'(20260803)均属同一中美AI/半导体博弈主线，此次FCC禁令将该主线从'模型/设计'延伸至'基础设施硬件'。\n\n监测建议：关注FCC禁令是否正式落地、中国光模块企业（中际旭创等）的应对（东南亚产能布局）、以及磷化铟（InP）等上游材料的出口管制反制潜力。",
+          "provenance": {
+            "retrieved_via": "联网检索 + 多方转引(中国日报/环球时报/中新网引用路透原文)",
+            "evidence_url": "https://www.chinadaily.com.cn/a/202608/05/WS6a72d2ffa310986e2b4691a1.html",
+            "evidence_note": "路透社8月4日独家报道，经中国日报(China Daily)转引并标注'referring to a Reuters report'。原始路透链接(reuters.com)对本机不可达。基于多个转引来源整合。"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 5,
+        "by_media": {
+          "路透社": 4,
+          "彭博社": 1
+        },
+        "sentiment_split": {
+          "negative": 3,
+          "neutral": 1,
+          "positive": 1
+        },
+        "negatives": [
+          "20260805-reuters-mofcom-retaliation-us",
+          "20260804-reuters-fcc-optical-transceiver-ban",
+          "20260805-bloomberg-hk-insurance-tax"
+        ],
+        "top_topics": [
+          [
+            "出口管制",
+            3
+          ],
+          [
+            "FCC",
+            2
+          ],
+          [
+            "中美科技竞争",
+            2
+          ],
+          [
+            "中美经贸摩擦",
+            1
+          ],
+          [
+            "无人机",
+            1
+          ],
+          [
+            "涉疆制裁",
+            1
+          ]
+        ],
+        "key_takeaway": "三星与SK海力士测试中国产芯片设备，以对冲美国出口管制风险"
+      }
+    },
     "2026-08-04": {
       "file": "2026-08-04.json",
       "scan_time": "2026-08-04T12:40:08+08:00",
@@ -2666,22 +2970,266 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "_day": "2026-08-04"
+    },
+    {
+      "id": "20260805-reuters-mofcom-retaliation-us",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China targets US firms and drone exports after FCC, Xinjiang actions",
+      "title_zh": "中方对美国FCC与涉疆制裁出台五项反制措施：限制无人机出口、制裁七家美企、首例外贸国安调查",
+      "published_at": "2026-08-05",
+      "published_precision": "day",
+      "authors": [
+        "Eduardo Baptista",
+        "Ethan Wang",
+        "Ryan Woo"
+      ],
+      "author_locations": "北京",
+      "authors_status": "confirmed",
+      "topics": [
+        "中美经贸摩擦",
+        "出口管制",
+        "无人机",
+        "涉疆制裁",
+        "国家安全调查",
+        "FCC"
+      ],
+      "importance": "high",
+      "summary_zh": "路透北京8月5日电——中国商务部8月5日公布多项对美反制措施：禁止境内组织和个人与七家美国实体进行交易合作，收紧对美无人机及相关两用物项出口管制，暂停美国认证机构在华强制性产品认证工厂跟踪检查，并对进口打印复印办公设备发起中国首例对外贸易国家安全调查。商务部称此举是对美国FCC近期涉华消极措施及国土安全部将40余家中企列入'维吾尔强迫劳动预防法实体清单'的回应。被列入反制清单的七家美企包括：应用DNA科学公司（Applied DNA Sciences）、地层水库公司（Stratum Reservoir）、阿尔塔纳技术公司（Altana Technologies）、责任商业联盟（Responsible Business Alliance）、维泰集团（Verité Group）、人权在中国组织（Human Rights in China）以及合规测试公司（Compliance Testing LLC）。安库拉中国区董事总经理Montufar-Helu分析称，北京过去数月一直在构建反制工具箱，此次措施整体克制但信号明确，如美方执意出台新限制，中方将进一步反制。",
+      "china_angle": "以中国商务部对美反制措施为报道主体，聚焦中方反制工具箱与信号传递",
+      "stance": "中性（客观报道中方措施与美方行为的因果关系，引用中外分析人士观点）",
+      "source_url": "https://www.yahoo.com/finance/economy/policy/articles/china-targets-us-firms-drone-094657733.html",
+      "body_available": true,
+      "body_zh": "北京8月5日（路透社）电——中国商务部周三禁止境内组织和个人与七家美国实体进行交易合作，收紧对美无人机及相关技术出口管制，并限制美国机构在华强制性产品认证工厂检查中的角色。\n\n北京表示，此举是对美国近期限制中国电信运营商、检测实验室、无人机、消费路由器、海底电缆、先进机器人设备和电力逆变器等措施的回应。商务部还援引了华盛顿上周将40余家中国实体列入'维吾尔强迫劳动预防法实体清单'一事。\n\n此前路透社报道，特朗普政府正起草一项国家安全措施，拟禁止进口中国新型数据中心组件（含光收发模块），商务部此举亦是对该报道的回应。\n\n安库拉中国区董事总经理阿尔弗雷多·蒙图法尔-埃卢表示：'这是一项反制行动，毫不令人意外。北京过去数月一直在构建反制工具箱。'\n\n这标志着中美贸易与技术紧张局势的最新升级——华盛顿收紧对华技术与市场准入限制，北京则以出口管制和针对性制裁予以回应。\n\n商务部将亚利桑那州梅萨市的合规测试公司（Compliance Testing LLC）列入反制清单，禁止中国组织和个人与其交易或合作。商务部称该公司协助和支持了美国FCC近期针对中国的措施，损害了中企合法权益。\n\n今年4月，FCC通过了一项快速审查流程，适用于在美国或互惠国家实验室测试的设备，同时提议不再认可非互惠国家（含中国）的检测实验室和认证机构——如最终实施，将使中国实验室和认证机构更难帮助制造商获得面向美国市场的FCC设备授权。\n\n商务部同时对应用DNA科学公司、地层水库公司、阿尔塔纳技术公司、责任商业联盟、维泰集团和人权在中国组织实施同样的交易禁令，指控其支持美国涉疆制裁。其中多家机构从事供应链溯源、劳工风险评估或人权倡导工作。\n\n在无人机方面，商务部称受控无人机、关键零部件及相关技术出口美国将接受更严格的逐案审查，不再适用简化许可。此措施并非全面禁令，但可能导致受中国双用途出口管制规则覆盖的出货延迟。\n\n北京还暂停了美国认证机构在中国强制性产品认证体系下进行的工厂跟踪检查，这可能提高制造商成本并造成延迟。\n\n此外，商务部对进口含外国系统软件的打印、复印和办公设备发起国家安全调查——这是中国首例对外贸易国家安全调查。调查虽未点名美国或特定公司，但商务部明确将其列为对近期美方行为的回应之一。\n\n蒙图法尔-埃卢表示，北京措辞信号显示对近期美方行动的失望，但'双方都在采取有针对性的精准措施而非大规模行动'，表明双方都不希望紧张局势失控。\n\n（Eduardo Baptista、Ethan Wang、Ryan Woo报道；Sharon Singleton、David Holmes编辑）",
+      "cited_sources": [
+        "中国商务部",
+        "美国联邦通信委员会(FCC)",
+        "美国国土安全部",
+        "应用DNA科学公司(Applied DNA Sciences)",
+        "地层水库公司(Stratum Reservoir)",
+        "阿尔塔纳技术公司(Altana Technologies)",
+        "责任商业联盟(RBA)",
+        "维泰集团(Verité Group)",
+        "人权在中国组织",
+        "合规测试公司(Compliance Testing LLC)",
+        "安库拉(Ankura)中国区董事总经理Montufar-Helu"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：中国商务部一次性出台五项对美反制措施（无人机出口管制、7家美企制裁、CCC认证暂停、首例外贸国安调查），是对美国FCC涉华限制及UFLPA扩表的直接回应。信号明确——中方已从被动应对转向主动构建反制工具箱。\n\n引用信源：中国商务部官方公告、安库拉中国区董事总经理Montufar-Helu分析。\n\n研判要点：①这标志着中美经贸摩擦从'关税战'向'工具箱战'升级——双方都在使用出口管制、实体清单、认证壁垒等精准工具而非全面关税；②首例外贸国安调查（打印机/复印设备）是开创性举措，意味着中国反制工具箱新增了一个法律工具，后续可能在更多领域复用；③无人机出口管制延续了2024年以来的管控趋势，但此次明确针对'对美出口'且取消简化许可，信号更强；④与历史档案的延续性：此前已归档的'UFLPA 43家企业'(20260802)和'芯片设计IP保护'(20260803)均属同一中美科技战主线，此次反制标志着该主线在持续升级——已连续多日出现在路透报道中。\n\n监测建议：关注美方后续反应（是否出台新一轮限制）、中方首例外贸国安调查的进展（调查对象与结论）、以及被制裁美企的商业影响传导。",
+      "provenance": {
+        "retrieved_via": "联网检索 + 转载源(Yahoo Finance)",
+        "evidence_url": "https://www.yahoo.com/finance/economy/policy/articles/china-targets-us-firms-drone-094657733.html",
+        "evidence_note": "雅虎财经转载路透稿，文末保留完整路透署名：Reporting by Eduardo Baptista, Ethan Wang and Ryan Woo; Editing by Sharon Singleton and David Holmes。代理未启用时基于检索摘要+转载源全文整合。"
+      },
+      "_day": "2026-08-06"
+    },
+    {
+      "id": "20260804-reuters-samsung-sk-hynix-chinese-tools",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Samsung, SK Hynix Test Chinese Chip Tools as Hedge Against US Ban",
+      "title_zh": "三星与SK海力士测试中国产芯片设备，以对冲美国出口管制风险",
+      "published_at": "2026-08-04",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "半导体设备",
+        "中美科技竞争",
+        "韩国芯片商",
+        "出口管制",
+        "国产替代"
+      ],
+      "importance": "high",
+      "summary_zh": "路透社8月4日电——据三位知情人士透露，三星电子和SK海力士正在评估中国中微半导体设备（AMEC）的刻蚀设备，以备在美国进一步收紧出口管制时用于其中国工厂。两家韩企约两年前开始测试AMEC设备，当时正值华盛顿是否继续允许向中国进口美系芯片制造工具的不确定性上升之际。三星在西安运营NAND闪存工厂，SK海力士在大连有NAND设施、在无锡有DRAM工厂，这些工厂严重依赖应用材料（Applied Materials）和泛林半导体（Lam Research）等美国企业的刻蚀工具。美国商务部2023年曾授予三星和SK海力士中国工厂'经验证最终用户'(VEU)授权，允许进口某些受控美国设备而无需逐项申请许可，但2025年撤销了VEU授权，后改为发放年度许可证。德意志银行估计，中微、北方华创、拓荆达和盛美等中国半导体设备商2026年各自营收将超10亿美元，合计可占据中国280亿美元晶圆制造设备市场25-30%份额（不含光刻和量测则可达40%）。",
+      "china_angle": "以中国半导体设备商（AMEC）获得国际头部客户验证为报道主体，折射美国出口管制的'悖论效应'",
+      "stance": "中性（多方信源、数据支撑、客观叙述管制措施的意外效果）",
+      "source_url": "https://www.gs.asiams.net/article_details/samsung-sk-hynix-test-chinese-chip-tools-as-hedge-against-us-ban",
+      "body_available": true,
+      "body_zh": "路透社8月4日电——三星电子和SK海力士正在评估中国中微半导体设备（AMEC）的芯片制造设备，以备在其中国工厂使用，三位知情人士称，这是韩国芯片厂商对冲美国出口管制收紧风险的策略。\n\n据其中两位知情人士透露，两家存储芯片厂商约两年前开始测试AMEC刻蚀设备，当时正值华盛顿是否继续允许向中国进口美系芯片制造工具的不确定性上升之际。\n\n虽然评估尚未导致大规模部署决定，但这为这家上海企业提供了一个罕见机会——获得全球领先芯片厂商的验证。更广泛地说，这些测试凸显了美国技术管制核心的一个悖论：旨在限制中国半导体雄心的措施，反而为中国竞争对手在外国在华工厂中站稳脚跟创造了机会。\n\n三星在声明中向路透社否认已在其中国工厂测试AMEC设备，并表示未考虑这样做。SK海力士拒绝置评。\n\n美国商务部2023年将三星和SK海力士的中国工厂指定为'经验证最终用户'(VEU)，允许进口某些受控美国设备而无需逐项许可。华盛顿2025年撤销了VEU授权，后改为向两家公司发放2026年度许可证，允许向其中国设施进口芯片制造设备。\n\n尽管如此，两家公司仍担忧未来限制可能从新设备扩展到已安装西方工具的维护、维修或更换，因此将中国供应商作为维持和升级现有产线（而非扩大产能）的储备选项。\n\n三星在西安运营NAND闪存工厂，SK海力士在大连有NAND设施、在无锡有DRAM工厂。这些工厂严重依赖应用材料和泛林半导体供应的刻蚀工具。\n\n对于中微及中国新兴半导体设备商而言，获得三星或SK海力士的认可将是强有力的商业背书。尽管中国设备商在先进光刻和部分检测系统方面仍落后于海外对手，但在刻蚀、沉积、清洗和抛光等领域已缩小差距，且成本通常低20-30%。\n\n中微设备已被长江存储（YMTC）等中国领先芯片厂商使用，这使三星和SK海力士对部分系统的成熟度更有信心。\n\n德意志银行估计，北方华创、中微、拓荆达和盛美2026年各自营收将超10亿美元，合计可占中国280亿美元晶圆制造设备市场25-30%份额；若排除光刻和量测，中国供应商份额可达近40%。\n\n（路透社记者报道；Alexandra Alper（华盛顿）、Hyunjoo Jin、Heekyong Yang（首尔）补充报道；Eduardo Baptista、Miyoung Kim、Shri Navaratnam编辑）",
+      "cited_sources": [
+        "中微半导体设备(AMEC)",
+        "三星电子",
+        "SK海力士",
+        "美国商务部工业与安全局(BIS)",
+        "应用材料(Applied Materials)",
+        "泛林半导体(Lam Research)",
+        "长江存储(YMTC)",
+        "北方华创",
+        "拓荆达",
+        "盛美",
+        "德意志银行(Deutsche Bank)",
+        "TechInsights副总裁Dan Hutcheson"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "联网检索 + 转载源(gs.asiams.net)",
+        "evidence_url": "https://www.gs.asiams.net/article_details/samsung-sk-hynix-test-chinese-chip-tools-as-hedge-against-us-ban",
+        "evidence_note": "gs.asiams.net转载路透稿，文末保留完整路透署名：Reporting by Reuters staff; Additional reporting by Alexandra Alper in Washington, Hyunjoo Jin and Heekyong Yang in Seoul; Editing by Eduardo Baptista, Miyoung Kim and Shri Navaratnam。机构署名（Reuters staff），无具名个人记者，故authors_status=not_available。"
+      },
+      "_day": "2026-08-06"
+    },
+    {
+      "id": "20260804-reuters-fcc-optical-transceiver-ban",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "US FCC drafting ban on Chinese data-center optical transceivers",
+      "title_zh": "路透独家：美国FCC拟禁止进口中国新型数据中心光收发模块",
+      "published_at": "2026-08-04",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中美科技竞争",
+        "半导体",
+        "数据中心",
+        "AI基础设施",
+        "FCC",
+        "光模块",
+        "出口管制"
+      ],
+      "importance": "high",
+      "summary_zh": "路透社8月4日独家报道——据四位知情人士透露，美国联邦通信委员会（FCC）正在起草一项禁令，拟禁止进口中国新型号的数据中心光收发模块（optical transceivers），以保护支撑人工智能发展的关键基础设施。光收发模块主要用于数据中心内部高速光纤数据传输。美国官员希望2026年内公布并实施该禁令。FCC预计将先禁止所有新型号收发器进口，然后豁免许多非中国供应商。此举旨在防止中国企业'窃取数据、安装恶意软件或破坏美国数据中心服务'。若禁令落地，可能冲击全球主要光收发模块供应商中际旭创（占全球市场约27%）。中国驻美大使馆回应称，敦促美方'倾听两国工商界客观、理性的声音'，停止抹黑中国企业并以制裁相威胁。中金公司分析称，光模块核心功能是光电信号转换，本身不承担数据存储，安全逻辑能否成立值得商榷。",
+      "china_angle": "以美国FCC拟限制中国数据中心设备为报道主体，聚焦中美科技战从芯片向光通信环节扩散",
+      "stance": "中性（援引美方知情人士与中方使馆回应及分析师观点，呈现双方立场）",
+      "source_url": "https://www.chinadaily.com.cn/a/202608/05/WS6a72d2ffa310986e2b4691a1.html",
+      "body_available": true,
+      "body_zh": "路透社8月4日电——据四位知情人士透露，美国政府正在起草一项禁令，拟禁止进口中国新型号的数据中心组件，以保护支撑人工智能发展的关键基础设施。\n\n负责监管美国电信行业的联邦通信委员会（FCC）正在制定相关措施，计划禁止进口中国新型号的光收发模块。光收发模块主要用于数据中心内部的高速光纤数据传输。美国官员希望2026年内公布并实施该禁令。\n\n知情人士称，FCC仍可能修改或搁置有关限制。但这是现任美国政府限制中国技术进入美国前沿产业的最新举措，旨在防止中国企业在供应链中扎根。\n\nFCC此前已对中国的无人机、路由器、机器人和逆变器实施了类似限制。按照上述限制的先例，FCC预计将先禁止所有新型号收发器的进口，然后豁免许多非中国供应商。\n\n此举旨在防止中国企业'窃取数据、安装恶意软件或破坏美国数据中心服务'——这些数据中心承载着用于训练和运行AI模型的芯片。\n\n中国驻美国大使馆回应称，北京敦促美国'倾听两国工商界客观、理性的声音'，停止抹黑中国企业并以制裁相威胁。使馆表示：'对于任何严重损害中方利益的行动，中国都将采取一切必要措施予以回应。'\n\n若禁令落地，可能冲击全球主要光收发模块供应商中际旭创。Counterpoint Research数据显示，中际旭创占全球数据中心光收发模块市场约27%，居行业领先地位。美国创新基金会的一份报告指出，Coherent和Lumentum的生产规模仍不足以取代中国供应商。\n\n该禁令还可能提高亚马逊等云服务公司的经营成本，迫使其转向Coherent和Lumentum等美国供应商，但这些企业的产能不足以完全替代中国厂商。\n\n（路透社独家报道；基于四位匿名知情人士信息。代理未启用，基于检索摘要+多方转引整合。）",
+      "cited_sources": [
+        "美国联邦通信委员会(FCC)",
+        "中国驻美国大使馆",
+        "中际旭创",
+        "Counterpoint Research",
+        "美国创新基金会",
+        "Coherent",
+        "Lumentum",
+        "中金公司"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：美国FCC拟禁止进口中国新型号光收发模块（数据中心关键组件），将中美科技战从芯片领域扩散至光通信环节。这是路透独家报道，引用四位匿名知情人士。\n\n引用信源：四位匿名知情人士、中国驻美大使馆、Counterpoint Research、美国创新基金会、中金公司。\n\n研判要点：①这是中美科技战'扩散化'的重要信号——限制范围从先进芯片制造设备向数据中心基础设施组件蔓延，意味着美国正试图在AI产业链的更多环节建立防线；②中国企业在全球光模块市场占据7/10强地位（份额超60%），美国本土企业（Coherent、Lumentum）产能不足，短期内难以替代——这意味着禁令若落地，将直接推高美国AI基础设施建设成本；③中方已在次日（8月5日）出台五项反制措施（见本批次另一篇报道），显示中美博弈进入'你限制我、我反制你'的螺旋升级阶段；④与历史档案的延续性：此前已归档的'中国军方利用美国AI模型训练防务系统'(20260731)、'AI模型蒸馏'(20260731)、'芯片设计IP保护'(20260803)均属同一中美AI/半导体博弈主线，此次FCC禁令将该主线从'模型/设计'延伸至'基础设施硬件'。\n\n监测建议：关注FCC禁令是否正式落地、中国光模块企业（中际旭创等）的应对（东南亚产能布局）、以及磷化铟（InP）等上游材料的出口管制反制潜力。",
+      "provenance": {
+        "retrieved_via": "联网检索 + 多方转引(中国日报/环球时报/中新网引用路透原文)",
+        "evidence_url": "https://www.chinadaily.com.cn/a/202608/05/WS6a72d2ffa310986e2b4691a1.html",
+        "evidence_note": "路透社8月4日独家报道，经中国日报(China Daily)转引并标注'referring to a Reuters report'。原始路透链接(reuters.com)对本机不可达。基于多个转引来源整合。"
+      },
+      "_day": "2026-08-06"
+    },
+    {
+      "id": "20260805-reuters-china-stocks-services-pmi",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China stocks extend gains as key services data lifts sentiment",
+      "title_zh": "中国服务业PMI创近一年新高，A股港股连续第二日收涨",
+      "published_at": "2026-08-05",
+      "published_precision": "day",
+      "authors": [
+        "Summer Zhen"
+      ],
+      "author_locations": "中国香港",
+      "authors_status": "confirmed",
+      "topics": [
+        "资本市场",
+        "服务业PMI",
+        "宏观经济",
+        "A股",
+        "港股"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透香港8月5日电——中国和香港股市连续第二日上涨，从前一周的大幅下跌中持续恢复。S&P Global中国通用服务业PMI从6月的50.6升至7月的52.6，创2024年5月以来最快扩张速度，受需求走强和新出口订单增长推动。上证综指收涨0.96%报3,617.60点，创2022年1月以来新高；沪深300指数涨0.8%，恒生指数涨0.68%。高盛分析师指出，服务业数据表明7月服务业活动加速，但官方服务业PMI下降与S&P PMI之间的显著分歧暗示各子行业差异较大。花旗分析师指出，近期中美关税谈判缺乏进展导致中国和香港股市仓位偏弱。生物医药和医疗保健指数在港股领涨超3%，A股方面动漫游戏和银行股跑赢。苹果供应商扩大涨幅，比亚迪电子涨7.7%，富士康工业互联网涨6.3%。",
+      "china_angle": "以中国股市对服务业PMI数据的积极反应为报道主体",
+      "stance": "中性（市场数据+机构观点，无倾向性表述）",
+      "source_url": "https://ttm.financial/news/2557836141",
+      "body_available": true,
+      "body_zh": "香港8月5日（路透社）电——中国和香港股市周二连续第二日上涨，从前一周的大幅下跌中恢复，此前一份私营部门调查显示中国7月服务业活动强劲复苏，改善了投资者情绪。\n\n收盘时，上证综指涨0.96%报3,617.60点，刷新2022年1月以来最高水平。蓝筹沪深300指数涨0.8%，香港恒生指数涨0.68%。\n\nS&P Global中国通用服务业PMI从6月的50.6升至7月的52.6，创2024年5月以来最快扩张速度，受需求走强和新出口订单增长推动。S&P PMI被认为更能反映东部沿海中小型出口导向型企业的趋势。\n\n高盛分析师在周二报告中表示，数据表明7月服务业活动加速，但官方服务业PMI下降与S&P PMI之间的显著分歧暗示'服务业各子行业存在巨大差异'。\n\n中国股市涨幅也受到隔夜华尔街上涨的外溢影响，后者受美国降息预期升温推动。\n\n分析师预计未来几周涨幅可能有所整固，因中美关税税率不确定性和持续通缩压力仍存。花旗分析师在报告中指出，近期中美关税谈判缺乏进一步进展，导致中国和香港股市仓位偏弱。\n\n金利证券执行董事黄国威表示，部分港股上市公司业绩令人失望，与美国企业（尤其科技板块）强劲业绩形成对比，可能导致市场整固。\n\n板块方面，生物医药和医疗保健指数在港股领涨超3%。A股方面动漫游戏和银行股跑赢。苹果供应商扩大涨幅，港股比亚迪电子涨7.7%，A股富士康工业互联网涨6.3%。\n\n（Summer Zhen报道；Harikrishnan Nair、Sherry Jacob-Phillips编辑）",
+      "cited_sources": [
+        "S&P Global",
+        "高盛(Goldman Sachs)",
+        "花旗(Citi)",
+        "金利证券(Kingston Securities)执行董事黄国威",
+        "比亚迪电子",
+        "富士康工业互联网"
+      ],
+      "sentiment": "positive",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "联网检索 + 转载源(ttm.financial)",
+        "evidence_url": "https://ttm.financial/news/2557836141",
+        "evidence_note": "ttm.financial转载路透稿，保留完整路透署名：Reporting by Summer Zhen; Editing by Harikrishnan Nair and Sherry Jacob-Phillips。"
+      },
+      "_day": "2026-08-06"
+    },
+    {
+      "id": "20260805-bloomberg-hk-insurance-tax",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Prudential, HSBC Shares Tumble on China Insurance Tax Report",
+      "title_zh": "中国拟对香港保单收益征20%个税，保诚暴跌13%、汇丰渣打齐跌",
+      "published_at": "2026-08-05",
+      "published_precision": "day",
+      "authors": [
+        "Isabella Farr",
+        "Heng Xie"
+      ],
+      "author_locations": "",
+      "authors_status": "confirmed",
+      "topics": [
+        "跨境税收",
+        "中国香港保险",
+        "金融股",
+        "保诚",
+        "汇丰",
+        "渣打"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社8月5日电——据财新报道，中国税务机关已开始对境外保单收益征收20%个人所得税，堵住长期存在的监管漏洞。北京和杭州已率先执行——对香港保单的股息派发收益及预缴保费所产生的利息收入课征20%税率。消息传出后，高度依赖内地访客业务的境外金融机构股价集体暴跌：保诚在伦敦一度跌13%至949.4便士（创2020年3月以来最大盘中跌幅），汇丰控股伦敦股价跌7%至1475便士，渣打集团跌7%至2090便士。中国香港是保诚2025年最大利润来源，其新业务利润增长12%直接受益于内地访客的销售拉动。投行富瑞表示，此举引发'投资者恐慌'，将削弱香港保险产品相较内地产品的吸引力，但也降低了境外保单被彻底禁止的可能性。此前6月已有部分银行暂停为内地客户开立可用于海外投资的香港账户。",
+      "china_angle": "以中国税务机关对香港保单收益征税为报道主体，聚焦对跨境金融与港股金融股的冲击",
+      "stance": "中性（客观报道政策变化与市场反应，引用分析师观点）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-05/prudential-hsbc-shares-tumble-on-china-insurance-tax-report",
+      "body_available": true,
+      "body_zh": "彭博社8月5日电——保诚集团（Prudential Plc）、汇丰控股（HSBC Holdings Plc）和渣打集团（Standard Chartered Plc）股价周三大跌，此前有报道称中国正将个人所得税范围扩大至包括中国香港保险保单的任何收益。\n\n据财新（Caixin Global）周三报道，北京和杭州的早期执法案例显示，中国税务机关已开始对离岸保单的股息派发和利息收益征收20%的个人所得税，堵住了长期存在的监管漏洞。\n\n保诚在伦敦盘中一度暴跌13%至949.4便士，创2020年3月以来最大盘中跌幅。汇丰控股伦敦股价跌7%，渣打集团跌7%。友邦保险（AIA）美股ADR亦显著下挫近4%。\n\n中国香港是保诚2025年最大的利润来源。该公司在3月公布的年度业绩中，将这一金融枢纽新业务利润增长12%归功于本地客户及中国大陆访客的销售增长，并曾表示对来自中国大陆访客的需求持续性充满信心。\n\n投行富瑞（Jefferies）表示，该报道引发了保诚股票的'投资者恐慌'。此举将削弱中国香港保险产品相较于内地产品的吸引力。虽然此类征税极可能从现在起对销售构成压力，但或许降低了境外保单被彻底禁止的可能性。\n\n在今年6月初，已有部分银行暂停为中国大陆客户开立可用于海外投资的中国香港账户，当时曾导致这些公司及在该地区有相关业务的其他金融机构股价大幅走低。从开户端收紧到收益端征税，监管链条的逐步延伸正在让中国香港保险持续多年的'灰色红利'加速消退。\n\n值得注意的是，CRS（共同申报准则）信息交换的常态化彻底打破了境外保单的信息盲区。自2018年9月中国首次启动CRS金融信息自动交换以来，中国香港需定期将内地税务居民在港持有的具备现金价值的保险账户信息同步至内地税务部门。\n\n（Isabella Farr、Heng Xie报道；更新于2026年8月5日）",
+      "cited_sources": [
+        "财新(Caixin Global)",
+        "保诚集团(Prudential Plc)",
+        "汇丰控股(HSBC Holdings Plc)",
+        "渣打集团(Standard Chartered Plc)",
+        "友邦保险(AIA)",
+        "富瑞(Jefferies)",
+        "中国国家税务总局",
+        "中国香港保险业监管局"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：中国税务机关开始对中国香港保单收益征收20%个人所得税，北京和杭州已率先执行。保诚暴跌13%、汇丰渣打跌7%，市场恐慌情绪显著。\n\n引用信源：财新报道、保诚年报、富瑞分析、CRS信息交换机制。\n\n研判要点：①这是中国跨境金融监管'链条化收紧'的重要一环——从6月暂停内地客户开立海外投资香港账户，到8月对保单收益征税，监管从'入口端'延伸至'收益端'，系统性堵截跨境资本外流通道；②冲击面广泛：中国香港保险市场高度依赖内地访客（保诚2025年最大利润来源），20%税率将直接削弱香港保险产品的税收优势，对保诚、友邦、汇丰等金融机构的长期增长叙事构成挑战；③CRS信息交换是技术基础——自2018年启动以来，内地税务部门已可获取内地居民在港保单数据，征税只是'水到渠成'的执法落地；④与历史档案的延续性：此前已归档的'英国批准中国建超级使馆'(20260731)和'中国香港'相关议题中，中国香港金融地位是反复出现的议题，此次征税进一步凸显中国对跨境资本流动的管控趋严。\n\n监测建议：关注征税范围是否从北京/杭州扩大至全国、保险公司是否调整产品结构应对、以及内地访客赴港投保趋势的变化数据。",
+      "provenance": {
+        "retrieved_via": "联网检索 + 彭博官网(bloomberg.com)",
+        "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-05/prudential-hsbc-shares-tumble-on-china-insurance-tax-report",
+        "evidence_note": "彭博社原创报道，署名By Isabella Farr and Heng Xie。bloomberg.com对本机代理返回403，基于WebSearch检索返回的彭博原文摘要+多个中文转引来源（新浪财经/网易/AASTOCKS）整合。"
+      },
+      "_day": "2026-08-06"
     }
   ],
   "archive": {
-    "days_count": 1,
+    "days_count": 2,
     "first_day": "2026-08-04",
-    "last_day": "2026-08-04",
-    "total_articles": 35,
+    "last_day": "2026-08-06",
+    "total_articles": 40,
     "by_media": {
-      "路透社": 32,
-      "彭博社": 3
+      "路透社": 36,
+      "彭博社": 4
     },
     "by_topic": {
+      "宏观经济": 7,
       "企业动态": 6,
-      "宏观经济": 6,
       "经贸摩擦": 4,
       "军事安全": 4,
+      "出口管制": 4,
       "人工智能": 4,
       "科技竞争": 3,
       "科技产业": 3,
@@ -2693,9 +3241,12 @@ window.__XFS_DATA__ = {
       "对外投资": 2,
       "中欧关系": 2,
       "稳增长政策": 2,
+      "资本市场": 2,
+      "半导体": 2,
       "能源安全": 2,
       "红海航运": 2,
-      "出口管制": 1,
+      "FCC": 2,
+      "中美科技竞争": 2,
       "知识产权": 1,
       "涉疆议题": 1,
       "制裁": 1,
@@ -2719,8 +3270,6 @@ window.__XFS_DATA__ = {
       "货币政策": 1,
       "防灾减灾": 1,
       "气候变化": 1,
-      "资本市场": 1,
-      "半导体": 1,
       "制造业PMI": 1,
       "调查": 1,
       "外贸": 1,
@@ -2732,7 +3281,26 @@ window.__XFS_DATA__ = {
       "中东外交": 1,
       "区域经济": 1,
       "高技术制造": 1,
-      "经济结构": 1
+      "经济结构": 1,
+      "中美经贸摩擦": 1,
+      "无人机": 1,
+      "涉疆制裁": 1,
+      "国家安全调查": 1,
+      "半导体设备": 1,
+      "韩国芯片商": 1,
+      "国产替代": 1,
+      "数据中心": 1,
+      "AI基础设施": 1,
+      "光模块": 1,
+      "服务业PMI": 1,
+      "A股": 1,
+      "港股": 1,
+      "跨境税收": 1,
+      "中国香港保险": 1,
+      "金融股": 1,
+      "保诚": 1,
+      "汇丰": 1,
+      "渣打": 1
     },
     "sentiment_trend": [
       {
@@ -2740,12 +3308,22 @@ window.__XFS_DATA__ = {
         "negative": 12,
         "neutral": 20,
         "positive": 3
+      },
+      {
+        "date": "2026-08-06",
+        "negative": 3,
+        "neutral": 1,
+        "positive": 1
       }
     ],
     "cited_source_freq": [
       [
         "中国人民银行",
         5
+      ],
+      [
+        "中金公司",
+        3
       ],
       [
         "Kpler",
@@ -2776,10 +3354,6 @@ window.__XFS_DATA__ = {
         2
       ],
       [
-        "中金公司",
-        2
-      ],
-      [
         "经济学人智库EIU",
         2
       ],
@@ -2789,6 +3363,10 @@ window.__XFS_DATA__ = {
       ],
       [
         "LSEG",
+        2
+      ],
+      [
+        "美国联邦通信委员会(FCC)",
         2
       ],
       [
@@ -3062,10 +3640,227 @@ window.__XFS_DATA__ = {
       [
         "澳新银行ANZ(邢自强)",
         1
+      ],
+      [
+        "中国商务部",
+        1
+      ],
+      [
+        "美国国土安全部",
+        1
+      ],
+      [
+        "应用DNA科学公司(Applied DNA Sciences)",
+        1
+      ],
+      [
+        "地层水库公司(Stratum Reservoir)",
+        1
+      ],
+      [
+        "阿尔塔纳技术公司(Altana Technologies)",
+        1
+      ],
+      [
+        "责任商业联盟(RBA)",
+        1
+      ],
+      [
+        "维泰集团(Verité Group)",
+        1
+      ],
+      [
+        "人权在中国组织",
+        1
+      ],
+      [
+        "合规测试公司(Compliance Testing LLC)",
+        1
+      ],
+      [
+        "安库拉(Ankura)中国区董事总经理Montufar-Helu",
+        1
+      ],
+      [
+        "中微半导体设备(AMEC)",
+        1
+      ],
+      [
+        "三星电子",
+        1
+      ],
+      [
+        "SK海力士",
+        1
+      ],
+      [
+        "美国商务部工业与安全局(BIS)",
+        1
+      ],
+      [
+        "应用材料(Applied Materials)",
+        1
+      ],
+      [
+        "泛林半导体(Lam Research)",
+        1
+      ],
+      [
+        "长江存储(YMTC)",
+        1
+      ],
+      [
+        "北方华创",
+        1
+      ],
+      [
+        "拓荆达",
+        1
+      ],
+      [
+        "盛美",
+        1
+      ],
+      [
+        "德意志银行(Deutsche Bank)",
+        1
+      ],
+      [
+        "TechInsights副总裁Dan Hutcheson",
+        1
+      ],
+      [
+        "中国驻美国大使馆",
+        1
+      ],
+      [
+        "中际旭创",
+        1
+      ],
+      [
+        "Counterpoint Research",
+        1
+      ],
+      [
+        "美国创新基金会",
+        1
+      ],
+      [
+        "Coherent",
+        1
+      ],
+      [
+        "Lumentum",
+        1
+      ],
+      [
+        "S&P Global",
+        1
+      ],
+      [
+        "高盛(Goldman Sachs)",
+        1
+      ],
+      [
+        "花旗(Citi)",
+        1
+      ],
+      [
+        "金利证券(Kingston Securities)执行董事黄国威",
+        1
+      ],
+      [
+        "比亚迪电子",
+        1
+      ],
+      [
+        "富士康工业互联网",
+        1
+      ],
+      [
+        "财新(Caixin Global)",
+        1
+      ],
+      [
+        "保诚集团(Prudential Plc)",
+        1
+      ],
+      [
+        "汇丰控股(HSBC Holdings Plc)",
+        1
+      ],
+      [
+        "渣打集团(Standard Chartered Plc)",
+        1
+      ],
+      [
+        "友邦保险(AIA)",
+        1
+      ],
+      [
+        "富瑞(Jefferies)",
+        1
+      ],
+      [
+        "中国国家税务总局",
+        1
+      ],
+      [
+        "中国香港保险业监管局",
+        1
       ]
     ],
-    "recurring_topics": [],
+    "recurring_topics": [
+      {
+        "topic": "出口管制",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-08-06"
+        ]
+      },
+      {
+        "topic": "宏观经济",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-08-06"
+        ]
+      },
+      {
+        "topic": "资本市场",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-08-06"
+        ]
+      },
+      {
+        "topic": "半导体",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-08-06"
+        ]
+      }
+    ],
     "important_negatives": [
+      {
+        "id": "20260805-reuters-mofcom-retaliation-us",
+        "date": "2026-08-05",
+        "media": "路透社",
+        "title_zh": "中方对美国FCC与涉疆制裁出台五项反制措施：限制无人机出口、制裁七家美企、首例外贸国安调查",
+        "importance": "high",
+        "day": "2026-08-06"
+      },
+      {
+        "id": "20260805-bloomberg-hk-insurance-tax",
+        "date": "2026-08-05",
+        "media": "彭博社",
+        "title_zh": "中国拟对香港保单收益征20%个税，保诚暴跌13%、汇丰渣打齐跌",
+        "importance": "high",
+        "day": "2026-08-06"
+      },
       {
         "id": "20260804-reuters-landslide-flood-prevention",
         "date": "2026-08-04",
@@ -3073,6 +3868,14 @@ window.__XFS_DATA__ = {
         "title_zh": "中国拟加强滑坡与洪水防灾减灾能力以应对气候变化",
         "importance": "medium",
         "day": "2026-08-04"
+      },
+      {
+        "id": "20260804-reuters-fcc-optical-transceiver-ban",
+        "date": "2026-08-04",
+        "media": "路透社",
+        "title_zh": "路透独家：美国FCC拟禁止进口中国新型数据中心光收发模块",
+        "importance": "high",
+        "day": "2026-08-06"
       },
       {
         "id": "20260803-reuters-gansu-landslide",
@@ -3164,19 +3967,19 @@ window.__XFS_DATA__ = {
       }
     ],
     "penetration": {
-      "运行天数": 1,
-      "累计报道": 35,
-      "覆盖议题": 55,
-      "覆盖信源": 80,
-      "负面累计": 12
+      "运行天数": 2,
+      "累计报道": 40,
+      "覆盖议题": 76,
+      "覆盖信源": 123,
+      "负面累计": 15
     }
   },
   "stats": {
-    "total": 35,
-    "days": 1,
-    "negatives": 12,
-    "with_author": 22,
-    "with_body": 6,
-    "with_sources": 29
+    "total": 40,
+    "days": 2,
+    "negatives": 15,
+    "with_author": 25,
+    "with_body": 11,
+    "with_sources": 34
   }
 };
