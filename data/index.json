@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-06T08:58:20+08:00",
+  "generated_at": "2026-08-06T09:05:38+08:00",
   "days": {
     "2026-08-06": {
       "file": "2026-08-06.json",
-      "scan_time": "2026-08-06T08:49:42+08:00",
-      "window": "2026-08-04 08:00 ~ 2026-08-06 08:49 (GMT+8)",
+      "scan_time": "2026-08-06T09:05:31+08:00",
+      "window": "2026-08-04 08:00 ~ 2026-08-06T09:05:31+08:00 (GMT+8)",
       "coverage": {
         "reuters": {
-          "captured": 7,
+          "captured": 8,
           "with_author": 4,
-          "with_fulltext": 7,
-          "note": "本轮（8/4-8/6窗口）路透累计8篇：①商务部五项对美反制(8/5,具名3人,high,负面+深度研判)；②三星SK海力士测试中国芯片设备(8/4,机构署名,high,中性)；③FCC拟禁中国光模块(8/4独家,机构署名,high,负面+深度研判)；④中国服务业PMI提振股市(8/5,具名Summer Zhen,medium,正面)；⑤美国拟设多晶硅最低价+关税独家(8/4,具名Nichola Groom,high,负面+深度研判)；⑥多晶硅15%关税落地后续(8/5,具名Groom/Alper/Renshaw,high,负面+深度研判)；⑦中方就日本防卫白皮书向日交涉(8/5,机构署名,high,负面+深度研判)；⑧全球AI股抛售拖累半导体(8/3,机构署名,medium,负面)。代理未启用，基于联网检索+转载源全文整合。"
+          "with_fulltext": 8,
+          "note": "本轮（8/4-8/6窗口）路透累计8篇：①商务部五项对美反制(8/5,具名3人,high,负面+深度研判)；②三星SK海力士测试中国芯片设备(8/4,机构署名,high,中性)；③FCC拟禁中国光模块(8/4独家,机构署名,high,负面+深度研判)；④中国服务业PMI提振股市(8/5,具名Summer Zhen,medium,正面)；⑤美国拟设多晶硅最低价+关税独家(8/4,具名Nichola Groom,high,负面+深度研判)；⑥多晶硅15%关税落地后续(8/5,具名Groom/Alper/Renshaw,high,负面+深度研判)；⑦中方就日本防卫白皮书向日交涉(8/5,机构署名,high,负面+深度研判)；⑧全球AI股抛售拖累半导体(8/3,机构署名,medium,负面)。代理未启用，基于联网检索+转载源全文整合。 ⑧二次重扫补录(8/6):中国房企重返ABS市场(路透香港,medium,中性,作者not_available)。"
         },
         "bloomberg": {
           "captured": 2,
@@ -21,6 +21,44 @@
       },
       "enriched_at": null,
       "articles": [
+        {
+          "id": "20260806-reuters-china-developers-abs-return",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Chinese developers come home to asset-backed securitisation",
+          "title_zh": "中国房企在缺席三年后重返资产证券化(ABS)市场",
+          "published_at": "2026-08-06",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "香港",
+          "authors_status": "not_available",
+          "topics": [
+            "房地产",
+            "资产证券化",
+            "融资",
+            "宏观经济"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透香港8月6日电——在监管放宽房企打包出售未来现金流募资规则后，中国房地产开发商在缺席三年后正重返资产证券化(ABS)市场。这一变化发生在行业深度调整后融资环境边际改善的背景下：据中国指数研究院数据，2026年上半年房企ABS融资达1221亿元，同比增长27.5%，占同期债券融资总额近四成；6月单月ABS占比更达58.4%，超越信用债成为当月首要融资品种。世茂集团近期获债权人批准展期4.5亿元ABS付款，瑞安房地产逾56亿元虹桥新天地二期ABS亦获上交所通过，显示优质资产证券化通道正在重启。业内视其为房企从'依赖主体信用借钱'向'依靠资产质量融资'转型的信号。",
+          "china_angle": "以中国房地产行业融资结构变化为报道主体，呈现房企ABS通道在三年缺席后重启",
+          "stance": "中性（市场数据与政策变化，无倾向性表述）",
+          "source_url": "https://www.newslocker.com/en-uk/profession/financial/chinese-developers-come-home-to-asset-backed-securitisation",
+          "body_available": true,
+          "body_zh": "香港8月6日(路透社)电——在监管放宽了房企打包并出售未来现金流以募集资金的规则之后，中国房地产开发商在缺席三年后正重返资产证券化(ABS)市场。\n\n• 这一变化发生在行业经历深度调整、融资环境边际改善的背景之下。据中国指数研究院数据，2026年上半年房企ABS融资达1221亿元，同比增长27.5%，占同期债券融资总额近四成；6月单月ABS融资占比高达58.4%，超越信用债成为当月首要融资品种。\n\n• 具体案例显示通道正在重启：陷入流动性困境的世茂集团近期获债权人批准，将一笔4.5亿元资产支持证券(ABS)的付款期限展期；瑞安房地产旗下虹桥新天地二期绿色资产支持专项计划(拟发行56.29亿元)状态更新为'已通过'。\n\n• 分析认为，房企正从'依赖主体信用借钱'向'依靠资产质量融资'跨越——将长租公寓、商业综合体等重资产转化为可流通金融产品，以长久期、低成本资金置换债务，压降有息负债、缓解流动性风险。\n\n• 政策层面，房地产开发融资方式改革持续推进，各地房地产融资协调机制将优质项目纳入'白名单'定向授信，融资风控逻辑从'总对总'下沉到'项目制'，隔离集团与项目风险。\n\n(路透社香港电；本文记者署名经检索未获，如实保留 not_available)",
+          "cited_sources": [
+            "中国指数研究院(中指研究院)",
+            "金融监管部门(放宽ABS发行规则)",
+            "上海证券交易所(ABS审核通过)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "联网检索(本机代理127.0.0.1:17891未启用，退回纯检索)",
+            "evidence_url": "https://www.newslocker.com/en-uk/profession/financial/chinese-developers-come-home-to-asset-backed-securitisation",
+            "evidence_note": "经 newslocker 转载路透电头全文(HONG KONG, August 6 (Reuters))抓取导语与核心事实；记者署名经检索未获，保留 not_available。补充数据(中指研究院1221亿、世茂展期、瑞安56亿获批)来自同主题公开报道交叉印证。"
+          }
+        },
         {
           "id": "20260805-reuters-mofcom-retaliation-us",
           "media": "Reuters",
@@ -445,14 +483,14 @@
         }
       ],
       "daily_analysis": {
-        "total": 9,
+        "total": 10,
         "by_media": {
-          "路透社": 7,
+          "路透社": 8,
           "彭博社": 2
         },
         "sentiment_split": {
           "negative": 6,
-          "neutral": 2,
+          "neutral": 3,
           "positive": 1
         },
         "negatives": [
@@ -485,7 +523,7 @@
             2
           ],
           [
-            "太阳能",
+            "宏观经济",
             2
           ]
         ],
@@ -3588,19 +3626,58 @@
         "evidence_note": "彭博社原创报道（署名来源' Bloomberg'，经《洛杉矶时报》于2026-08-05 6:26 AM PT syndication 转载，全文已取得450KB页面并提取正文）。彭博原创标记明确（页面标注' Bloomberg Aug. 5, 2026'），属真实彭博原稿；syndication页面未显示具名个人记者，依彭博署规作者栏置 not_available，未编造。另经 Artificial Analysis 基准数据交叉验证价格对比。"
       },
       "_day": "2026-08-06"
+    },
+    {
+      "id": "20260806-reuters-china-developers-abs-return",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Chinese developers come home to asset-backed securitisation",
+      "title_zh": "中国房企在缺席三年后重返资产证券化(ABS)市场",
+      "published_at": "2026-08-06",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "香港",
+      "authors_status": "not_available",
+      "topics": [
+        "房地产",
+        "资产证券化",
+        "融资",
+        "宏观经济"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透香港8月6日电——在监管放宽房企打包出售未来现金流募资规则后，中国房地产开发商在缺席三年后正重返资产证券化(ABS)市场。这一变化发生在行业深度调整后融资环境边际改善的背景下：据中国指数研究院数据，2026年上半年房企ABS融资达1221亿元，同比增长27.5%，占同期债券融资总额近四成；6月单月ABS占比更达58.4%，超越信用债成为当月首要融资品种。世茂集团近期获债权人批准展期4.5亿元ABS付款，瑞安房地产逾56亿元虹桥新天地二期ABS亦获上交所通过，显示优质资产证券化通道正在重启。业内视其为房企从'依赖主体信用借钱'向'依靠资产质量融资'转型的信号。",
+      "china_angle": "以中国房地产行业融资结构变化为报道主体，呈现房企ABS通道在三年缺席后重启",
+      "stance": "中性（市场数据与政策变化，无倾向性表述）",
+      "source_url": "https://www.newslocker.com/en-uk/profession/financial/chinese-developers-come-home-to-asset-backed-securitisation",
+      "body_available": true,
+      "body_zh": "香港8月6日(路透社)电——在监管放宽了房企打包并出售未来现金流以募集资金的规则之后，中国房地产开发商在缺席三年后正重返资产证券化(ABS)市场。\n\n• 这一变化发生在行业经历深度调整、融资环境边际改善的背景之下。据中国指数研究院数据，2026年上半年房企ABS融资达1221亿元，同比增长27.5%，占同期债券融资总额近四成；6月单月ABS融资占比高达58.4%，超越信用债成为当月首要融资品种。\n\n• 具体案例显示通道正在重启：陷入流动性困境的世茂集团近期获债权人批准，将一笔4.5亿元资产支持证券(ABS)的付款期限展期；瑞安房地产旗下虹桥新天地二期绿色资产支持专项计划(拟发行56.29亿元)状态更新为'已通过'。\n\n• 分析认为，房企正从'依赖主体信用借钱'向'依靠资产质量融资'跨越——将长租公寓、商业综合体等重资产转化为可流通金融产品，以长久期、低成本资金置换债务，压降有息负债、缓解流动性风险。\n\n• 政策层面，房地产开发融资方式改革持续推进，各地房地产融资协调机制将优质项目纳入'白名单'定向授信，融资风控逻辑从'总对总'下沉到'项目制'，隔离集团与项目风险。\n\n(路透社香港电；本文记者署名经检索未获，如实保留 not_available)",
+      "cited_sources": [
+        "中国指数研究院(中指研究院)",
+        "金融监管部门(放宽ABS发行规则)",
+        "上海证券交易所(ABS审核通过)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "联网检索(本机代理127.0.0.1:17891未启用，退回纯检索)",
+        "evidence_url": "https://www.newslocker.com/en-uk/profession/financial/chinese-developers-come-home-to-asset-backed-securitisation",
+        "evidence_note": "经 newslocker 转载路透电头全文(HONG KONG, August 6 (Reuters))抓取导语与核心事实；记者署名经检索未获，保留 not_available。补充数据(中指研究院1221亿、世茂展期、瑞安56亿获批)来自同主题公开报道交叉印证。"
+      },
+      "_day": "2026-08-06"
     }
   ],
   "archive": {
     "days_count": 2,
     "first_day": "2026-08-04",
     "last_day": "2026-08-06",
-    "total_articles": 44,
+    "total_articles": 45,
     "by_media": {
-      "路透社": 39,
+      "路透社": 40,
       "彭博社": 5
     },
     "by_topic": {
-      "宏观经济": 7,
+      "宏观经济": 8,
       "出口管制": 6,
       "企业动态": 6,
       "军事安全": 5,
@@ -3682,7 +3759,10 @@
       "中日关系": 1,
       "防卫白皮书": 1,
       "AI价格战": 1,
-      "开源模型": 1
+      "开源模型": 1,
+      "房地产": 1,
+      "资产证券化": 1,
+      "融资": 1
     },
     "sentiment_trend": [
       {
@@ -3694,7 +3774,7 @@
       {
         "date": "2026-08-06",
         "negative": 6,
-        "neutral": 2,
+        "neutral": 3,
         "positive": 1
       }
     ],
@@ -4314,6 +4394,18 @@
       [
         "OpenAI(GPT系列)",
         1
+      ],
+      [
+        "中国指数研究院(中指研究院)",
+        1
+      ],
+      [
+        "金融监管部门(放宽ABS发行规则)",
+        1
+      ],
+      [
+        "上海证券交易所(ABS审核通过)",
+        1
       ]
     ],
     "recurring_topics": [
@@ -4522,18 +4614,18 @@
     ],
     "penetration": {
       "运行天数": 2,
-      "累计报道": 44,
-      "覆盖议题": 83,
-      "覆盖信源": 154,
+      "累计报道": 45,
+      "覆盖议题": 86,
+      "覆盖信源": 157,
       "负面累计": 18
     }
   },
   "stats": {
-    "total": 44,
+    "total": 45,
     "days": 2,
     "negatives": 18,
     "with_author": 27,
-    "with_body": 15,
-    "with_sources": 38
+    "with_body": 16,
+    "with_sources": 39
   }
 }
