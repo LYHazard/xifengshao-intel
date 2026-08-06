@@ -1,22 +1,22 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-08-06T08:47:30+08:00",
+  "generated_at": "2026-08-06T08:58:20+08:00",
   "days": {
     "2026-08-06": {
       "file": "2026-08-06.json",
-      "scan_time": "2026-08-06T08:47:20+08:00",
-      "window": "2026-08-04 08:00 ~ 2026-08-06 08:00 (GMT+8)",
+      "scan_time": "2026-08-06T08:49:42+08:00",
+      "window": "2026-08-04 08:00 ~ 2026-08-06 08:49 (GMT+8)",
       "coverage": {
         "reuters": {
-          "captured": 4,
-          "with_author": 2,
-          "with_fulltext": 4,
-          "note": "本轮（8/4-8/6窗口）路透4篇：①商务部五项对美反制(8/5,具名Eduardo Baptista等3人,high,负面+深度研判)；②三星SK海力士测试中国芯片设备(8/4,机构署名,high,中性)；③FCC拟禁中国光模块(8/4独家,机构署名,high,负面+深度研判)；④中国服务业PMI提振股市(8/5,具名Summer Zhen,medium,正面)。代理(127.0.0.1:17891)未启用，基于联网检索+转载源全文整合。"
+          "captured": 7,
+          "with_author": 4,
+          "with_fulltext": 7,
+          "note": "本轮（8/4-8/6窗口）路透累计8篇：①商务部五项对美反制(8/5,具名3人,high,负面+深度研判)；②三星SK海力士测试中国芯片设备(8/4,机构署名,high,中性)；③FCC拟禁中国光模块(8/4独家,机构署名,high,负面+深度研判)；④中国服务业PMI提振股市(8/5,具名Summer Zhen,medium,正面)；⑤美国拟设多晶硅最低价+关税独家(8/4,具名Nichola Groom,high,负面+深度研判)；⑥多晶硅15%关税落地后续(8/5,具名Groom/Alper/Renshaw,high,负面+深度研判)；⑦中方就日本防卫白皮书向日交涉(8/5,机构署名,high,负面+深度研判)；⑧全球AI股抛售拖累半导体(8/3,机构署名,medium,负面)。代理未启用，基于联网检索+转载源全文整合。"
         },
         "bloomberg": {
-          "captured": 1,
+          "captured": 2,
           "with_author": 1,
-          "with_fulltext": 1,
-          "note": "本轮彭博1篇：中国香港保单收益征税20%(8/5,具名Isabella Farr+Heng Xie,high,负面+深度研判)。bloomberg.com对本机代理403，基于WebSearch检索返回原文+中文转引整合。"
+          "with_fulltext": 2,
+          "note": "本轮彭博累计2篇：①中国香港保单收益征20%个税(8/5,具名Isabella Farr+Heng Xie,high,负面+深度研判)；②中国AI攻势将OpenAI/Anthropic逼入价格死亡区(8/5,彭博原创经LA Times syndication全文,high,中性)。bloomberg.com对本机代理403，基于WebSearch检索+彭博原文/ syndication 整合。"
         }
       },
       "enriched_at": null,
@@ -122,6 +122,136 @@ window.__XFS_DATA__ = {
           }
         },
         {
+          "id": "20260805-reuters-polysilicon-15pct-tariff",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Trump administration to impose 15% tariff in polysilicon probe meant to counter China",
+          "title_zh": "特朗普政府将对多晶硅衍生品征15%关税并设最低进口价（路透后续）",
+          "published_at": "2026-08-05",
+          "published_precision": "day",
+          "authors": [
+            "Nichola Groom",
+            "Alexandra Alper",
+            "Jarrett Renshaw"
+          ],
+          "author_locations": "洛杉矶 / 华盛顿",
+          "authors_status": "confirmed",
+          "topics": [
+            "中美经贸摩擦",
+            "出口管制",
+            "太阳能",
+            "半导体",
+            "多晶硅",
+            "Section 232"
+          ],
+          "importance": "high",
+          "summary_zh": "路透8月5日华盛顿电——据四名知情人士透露，特朗普政府最早将于周四宣布对多晶硅制成的产品征收15%关税，并设定一系列最低进口价，旨在保护美国多晶硅工厂免受中国芯片供应链崛起的冲击。这份总统公告预计将对多晶硅、硅片、电池与组件（太阳能面板）设定最低进口价，并对多晶硅衍生品征收15%关税。美国商务部与白宫未立即回应置评。这是路透此前独家报道的「最低进口价+关税」混合体系方案的后续落地——美方在太阳能与半导体双线上对华收紧贸易保护。",
+          "china_angle": "以美国对华多晶硅最终关税方案为报道主体，聚焦中美太阳能/半导体供应链博弈的落地",
+          "stance": "中性（援引美方多名知情人士与官方未回应，呈现政策走向）",
+          "source_url": "https://www.yahoo.com/news/politics/articles/trump-administration-impose-15-tariff-195246558.html",
+          "body_available": true,
+          "body_zh": "路透社华盛顿8月5日电——据四名知情人士透露，特朗普政府最早将于周四宣布对多晶硅制成的产品征收15%关税，并设定一系列最低进口价——多晶硅是用于太阳能面板与半导体的关键原材料，此举旨在保护美国多晶硅工厂免受中国芯片供应链日益增长雄心的冲击。\n\n这四名消息人士称，美国总统特朗普的公告预计将包括对多晶硅、硅片、电池与组件（即太阳能面板）设定最低进口价，并对多晶硅衍生品征收15%关税。\n\n政府计划采取「最低进口价+关税」混合体系的方案，此前由路透率先报道。特朗普通过商务部发起的、历时一年的多晶硅国家安全调查，也对正在成长的美国本土太阳能制造业具有重大影响——而此时这位美国领导人已撤销了联邦对可再生能源的支持。\n\n美国商务部与白宫未立即回应置评请求。\n\n（Nichola Groom 洛杉矶报道；Alexandra Alper、Jarrett Renshaw 华盛顿报道；Lisa Shumaker编辑）",
+          "cited_sources": [
+            "美国商务部",
+            "美国白宫",
+            "四名知情人士"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：路透8月5日后续确认，特朗普政府将落地「15%关税+最低进口价」混合方案，覆盖多晶硅、硅片、电池与组件全链条，针对中国芯片供应链崛起。这是8月4日路透独家「拟设最低价」报道的落地确认。\n\n引用信源：四名知情人士、美国商务部、白宫（未回应）。\n\n研判要点：①方案从「讨论中」升级为「即将宣布」，节奏快、信号强，显示美方对华供应链设防已进入执行阶段；②覆盖环节从多晶硅延伸至硅片、电池、组件，意味着中国光伏全产业链对美出口成本将系统性抬升；③与同日「商务部五项对美反制」(20260805)形成直接对冲——美方落地关税、中方反制工具箱同步加码，贸易摩擦螺旋未见缓和迹象；④与历史档案延续性：继「FCC光模块禁令」(20260804)、「多晶硅最低价独家」(20260804)之后，本稿是同一主线的第三击，凸显美国正以Section 232为杠杆在AI/能源材料环节系统化设防。\n\n监测建议：关注公告正式文本（税率/最低价具体数值与生效时点）、中国商务部是否将光伏多晶硅列入反制、以及美股太阳能与半导体板块反应。",
+          "provenance": {
+            "retrieved_via": "联网检索 + 转载源(Yahoo News/Politics 转引路透)",
+            "evidence_url": "https://www.yahoo.com/news/politics/articles/trump-administration-impose-15-tariff-195246558.html",
+            "evidence_note": "Yahoo News/Politics 转载路透稿，文末保留完整路透署名：Reporting by Nichola Groom in Los Angeles; Alexandra Alper in Washington and Jarrett Renshaw in Washington; Editing by Lisa Shumaker。全文已取得并译中文。"
+          }
+        },
+        {
+          "id": "20260805-reuters-china-japan-defence-whitepaper",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China complains to Japan over defence white paper, foreign ministry says",
+          "title_zh": "中方就日本防卫白皮书向日本提出交涉，外交部称其炒作「中国威胁」并妄议台湾",
+          "published_at": "2026-08-05",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中日关系",
+            "涉台议题",
+            "军事安全",
+            "防卫白皮书"
+          ],
+          "importance": "high",
+          "summary_zh": "路透北京8月5日电——中国外交部周三表示，已就日本新发布的防卫白皮书向日本提出交涉，指责其炒作「中国威胁」并对台湾作出「不当评论」。这份8月4日发布的年度报告声称中国加强了台湾周边军事活动，并称「中日台整体军事平衡正迅速向中国倾斜」。外交部回应称台湾问题纯属中国内政、日方无权置喙，中方相关军事活动正当合理。中日关系自去年11月日本首相高市早苗（Sanae Takaichi）称若中国攻台危及日本生存将部署自卫队后跌至多年最低；中方曾要求日方收回「恶劣」言论。外交部同时敦促国际社会遏制东京的军备扩张。",
+          "china_angle": "以日本防卫白皮书涉华/涉台表述及中方交涉为报道主体，聚焦中日安全摩擦",
+          "stance": "中性（援引中方外交部回应与日方白皮书内容，呈现双方立场）",
+          "source_url": "https://www.yahoo.com/news/articles/china-complains-japan-over-defence-101911170.html",
+          "body_available": true,
+          "body_zh": "路透社北京8月5日电——中国外交部周三表示，已就日本新发布的防卫白皮书向日本提出交涉，指责其炒作「中国威胁」并对台湾作出「不当评论」。\n\n这份于周二发布的日本年度报告声称，中国加强了其自称领土的台湾周边的军事活动——尽管台北方面拒绝这一主张。报告称「中日台整体军事平衡正迅速向中国倾斜」。\n\n在回应路透关于该白皮书的问询时，中国外交部表示，台湾问题纯属中国内政，日方无权置喙。「如何解决台湾问题是中国人自己的事，不容日方干涉，」外交部称，并补充说中方相关军事活动正当合理。\n\n中日关系在去年11月跌至多年来最低——当时日本首相高市早苗（Sanae Takaichi）称，若中国对台攻击也威胁到日本生存，日本可部署自卫队，北京要求她收回所谓「恶劣」言论。\n\n日本政府正将其加速的军备扩张不仅描绘为保卫国家之道，更视为通往繁荣之路，在白皮书中主张军备生产可支撑经济增长。中国则指责日本加速「再军事化」而非反省侵略历史。「我们敦促日本停止为军事扩张寻找借口，不要沿错误道路越走越远，」中国外交部称，并呼吁国际社会遏制东京的军备扩张。\n\n（北京新闻部报道；Saad Sayeed编辑）",
+          "cited_sources": [
+            "中国外交部",
+            "日本防卫省（防卫白皮书）",
+            "日本首相高市早苗(Sanae Takaichi)相关表态"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：日本发布《防卫白皮书2026》，将中国列为「最大战略挑战」、称台海军事平衡迅速向中国倾斜，并首次将军备生产包装为经济增长引擎；中国外交部提出交涉，重申台湾是中国内政、日方无权干涉，并敦促国际社会遏制日本军备扩张。\n\n引用信源：中国外交部、日本防卫白皮书、日本首相相关表态。\n\n研判要点：①这是中日安全互信持续恶化的又一标志——日方将「中国威胁」常态化、并借台海叙事为自身突破和平宪法、扩军备战制造理由；②白皮书涉台表述直接触碰中方红线（「台湾周边军事活动」「中日台平衡」），中方以「妄议内政」定性，预示外交摩擦升温；③历史叙事交锋升级：中方重提日本侵略历史、要求其「深刻反省」，与日方「再军事化」主张形成尖锐对立，东亚安全环境趋紧；④与历史档案延续性：本系统已归档多篇涉台/军事安全议题（如「中国海警在台以东巡逻」20260731、「南海巡逻」20260801），日本防卫白皮书将台湾议题与地区军事平衡挂钩，进一步印证台海正被多边安全叙事「国际化」，需持续追踪中日、美日同盟在台海问题上的联动。\n\n监测建议：关注日本后续军备扩张具体举措（远程导弹、武器出口规则）、中方是否升级外交反制、以及美日同盟协调对台海议题的表态。",
+          "provenance": {
+            "retrieved_via": "联网检索 + 转载源(Yahoo News 转引路透)",
+            "evidence_url": "https://www.yahoo.com/news/articles/china-complains-japan-over-defence-101911170.html",
+            "evidence_note": "Yahoo News 转载路透稿，文末保留完整路透署名：Reporting by Beijing Newsroom; Editing by Saad Sayeed。机构署名（北京新闻部），无具名个人记者，故authors_status=not_available。另经中国日报、新华社交叉验证外交部回应原文。全文已取得并译中文。"
+          }
+        },
+        {
+          "id": "20260805-bloomberg-china-ai-death-zone",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China's AI blitz puts OpenAI and Anthropic in a 'death zone' on price",
+          "title_zh": "中国AI攻势将OpenAI与Anthropic逼入价格「死亡区」",
+          "published_at": "2026-08-05",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "人工智能",
+            "中美科技竞争",
+            "AI价格战",
+            "开源模型"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社8月5日报道——中国AI领域一连串模型发布正迅速缩小与硅谷的差距，并制造出一个所谓的「死亡区」：任何缺乏前沿技术或颠覆性定价的企业都难以立足。阿里巴巴本周以Qwen3.8-Max登顶全球基准（表现比肩Anthropic旗舰Fable 5）；两周前月之暗面Kimi K3以低调预算媲美最贵美国模型；字节跳动Seedance 2.5称霸视频生成；DeepSeek以V4 Flash改写价格经济学——独立评测机构Artificial Analysis数据显示，复杂真实工作负载下DeepSeek V4 Flash成本仅0.03美元，而Claude Fable 5为3.15美元。彭博行业研究分析师Rob Lea称「中国AI供应商已陷入残酷价格战，以市场份额优先于盈利」；AI先驱李开复表示若无中国开源模型，OpenAI与Anthropic「会一路笑到银行」，如今有了更便宜的替代。文章指这正加深中美科技摩擦，华盛顿在Kimi突破后以知识产权为由威胁制裁。",
+          "china_angle": "以中国AI模型集体突破与价格优势为报道主体，聚焦中美AI竞争力此消彼长",
+          "stance": "中性（呈现中国AI进展与美方反应，含多方分析师观点与中美科技摩擦背景）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-05/china-ai-blitz-openai-anthropic-death-zone-price",
+          "body_available": true,
+          "body_zh": "彭博社8月5日报道——中国AI领域一连串模型发布正迅速缩小与硅谷的差距，并制造出一个所谓的「死亡区」：任何没有前沿突破技术或颠覆性定价能力的企业都难以立足。\n\n阿里巴巴本周以Qwen3.8-Max加入登上全球基准榜首的中国新模型行列，这款迄今最强模型似乎已比肩或超越Anthropic的旗舰Fable 5。两周前，月之暗面（Moonshot AI）的Kimi K3以远为节俭的预算展现出与最贵美国模型相当的性能，重新引发对美国芯片制裁能否拖慢中国科技崛起的质疑。此外，字节跳动的Seedance 2.5在视频生成领域已将对手甩在身后；深度求索（DeepSeek）——中国冲击美国AI霸权的最初颠覆者——今夏携V4 Flash回归，在定价上实现突破。曾经孤立的震荡如今已成 Cascading 的连锁浪潮——不仅提供低价替代，更在推理、编程与复杂任务上给出与OpenAI及其美国同行正面对抗的高端能力。\n\n「自2025年1月以来最重要的变化是，中国的进步不再像单一公司的突破，」北京科技分析师、《Hello China Tech》通讯作者Poe Zhao表示，「首个DeepSeek时刻看似例外，近期发布显示中国如今已拥有可重复产出逼近全球前沿模型的体系。」加之6月智谱（Z.ai）GLM-5.2——当时全球排名最高的开源模型——八周内五款模型的攻势表明，中国开发者正接近甚至在部分领域超越常被奉为前沿领袖的美国先驱。\n\n核心卖点不仅是低价，更是极致效率。独立评测机构Artificial Analysis的基准测试显示，执行复杂真实工作负载时，DeepSeek V4 Flash成本仅0.03美元，而Claude Fable 5高达3.15美元。当中国只要几分钱、美国企业却收几美元时，两国争夺AI客户——尤其是世界其他地区客户——的竞赛开始呈现实质不同。\n\n「许多国家正在观望美中竞争，现在不愿选边站，因为竞赛才刚开始，」亚洲集团（Asia Group）合伙人兼数字业务主席陈（George Chen）表示。特朗普与习近平都将AI领导地位列为国家战略优先。\n\n迅猛进展正加深中美科技摩擦，在月之暗面Kimi突破后，华盛顿以知识产权为由威胁制裁。特朗普表示其政府正权衡中国威胁与对Anthropic的Fable、OpenAI的GPT系列等产品增设安全管控的需要。\n\n「中国AI供应商已陷入残酷价格战，以市场份额优先于盈利，」彭博行业研究（Bloomberg Intelligence）高级分析师Rob Lea称。\n\n「如果没有这些中国开源模型，OpenAI和Anthropic会一路笑到银行，」AI先驱、其初创公司01.ai向全球客户提供开源模型的李开复（Kai-Fu Lee）表示，「现在有了替代，而且更便宜。」\n\n在Artificial Analysis广为流传的基准图上，已浮现所谓的「DeepSeek死亡区」：对同类产品收费更高、或对同价产品能力更弱，那就几乎不必尝试。跨出这一危险区边界已成为长期生存的关键。中端对手如今承压，要么降价匹配这家杭州初创公司，要么砸钱打造更聪明的模型。更大的GLM-5.2、Kimi K3与Qwen3.8-Max均位于更高性能区间。\n\n「我认为DeepSeek V4 Flash真正改变经济学的是智能体（agentic）工作负载，」上海初创咨询公司ZenGen Labs创始人Dermot McGrath表示。\n\n（彭博社原创，经《洛杉矶时报》 syndication 转载；在视频生成领域，OpenAI搁置Sora后该市场门户大开，中国势头最为明显。）",
+          "cited_sources": [
+            "阿里巴巴(Qwen3.8-Max)",
+            "月之暗面/Moonshot AI(Kimi K3)",
+            "字节跳动(Seedance 2.5)",
+            "深度求索(DeepSeek V4 Flash)",
+            "智谱(Z.ai/GLM-5.2)",
+            "Artificial Analysis(独立评测机构)",
+            "彭博行业研究Bloomberg Intelligence(Rob Lea)",
+            "亚洲集团Asia Group(George Chen)",
+            "01.ai/创新工场(李开复)",
+            "ZenGen Labs(Dermot McGrath)",
+            "Hello China Tech(Poe Zhao)",
+            "Anthropic(Fable 5)",
+            "OpenAI(GPT系列)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "联网检索 + 彭博官网(bloomberg.com) + 《洛杉矶时报》syndication 全文",
+            "evidence_url": "https://www.latimes.com/business/story/2026-08-05/china-ai-blitz-openai-anthropic-death-zone-price",
+            "evidence_note": "彭博社原创报道（署名来源' Bloomberg'，经《洛杉矶时报》于2026-08-05 6:26 AM PT syndication 转载，全文已取得450KB页面并提取正文）。彭博原创标记明确（页面标注' Bloomberg Aug. 5, 2026'），属真实彭博原稿；syndication页面未显示具名个人记者，依彭博署规作者栏置 not_available，未编造。另经 Artificial Analysis 基准数据交叉验证价格对比。"
+          }
+        },
+        {
           "id": "20260805-reuters-china-stocks-services-pmi",
           "media": "Reuters",
           "media_zh": "路透社",
@@ -162,7 +292,7 @@ window.__XFS_DATA__ = {
           "provenance": {
             "retrieved_via": "联网检索 + 转载源(ttm.financial)",
             "evidence_url": "https://ttm.financial/news/2557836141",
-            "evidence_note": "ttm.financial转载路透稿，保留完整路透署名：Reporting by Summer Zhen; Editing by Harikrishnan Nair and Sherry Jacob-Phillips。"
+            "evidence_note": "ttm.financial 转载路透稿，保留完整路透署名：Reporting by Summer Zhen; Editing by Harikrishnan Nair and Sherry Jacob-Phillips。注：原文归档日期2026-08-05依据正文内容（S&P Global 7月服务业PMI、上证综指3,617.60等2026年数据）判定无误；该转载站点news ID存在内容轮转，本次复核代理抓取返回为另一篇2025年旧稿，故以已捕获之2026正文为准，source_url保留原链接仅作追溯。"
           }
         },
         {
@@ -258,27 +388,96 @@ window.__XFS_DATA__ = {
             "evidence_url": "https://www.chinadaily.com.cn/a/202608/05/WS6a72d2ffa310986e2b4691a1.html",
             "evidence_note": "路透社8月4日独家报道，经中国日报(China Daily)转引并标注'referring to a Reuters report'。原始路透链接(reuters.com)对本机不可达。基于多个转引来源整合。"
           }
+        },
+        {
+          "id": "20260804-reuters-polysilicon-price-floor",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Exclusive: US weighs polysilicon price floor, tariffs to counter China in solar and chips",
+          "title_zh": "路透独家：美国拟设多晶硅最低价+关税，在太阳能与芯片领域对华竞争",
+          "published_at": "2026-08-04",
+          "published_precision": "day",
+          "authors": [
+            "Nichola Groom"
+          ],
+          "author_locations": "洛杉矶",
+          "authors_status": "confirmed",
+          "topics": [
+            "中美经贸摩擦",
+            "出口管制",
+            "太阳能",
+            "半导体",
+            "多晶硅",
+            "Section 232"
+          ],
+          "importance": "high",
+          "summary_zh": "路透8月4日独家报道——据四名知情人士透露，特朗普政府正准备对多晶硅及相关产品设定最低进口价（price floor）并加征关税，将这一太阳能面板与半导体制造的关键材料置于美国对华人工智能与能源竞争的核心。该决定预计本月晚些时候出台，意在保护美国赫姆洛克半导体（Hemlock Semiconductor）与瓦克化学（Wacker Chemie）等本土多晶硅工厂免受中国芯片供应链崛起的冲击，源自由美国商务部发起、历时一年的多晶硅国家安全调查（Section 232）。中国驻美大使馆批评该调查，敦促美方「尽快停止Section 232关税措施，通过平等对话妥善解决各方关切」。美国太阳能制造自2022年国会税收激励后扩张，但多集中在组件组装、仍依赖进口硅片与电池；行业团体警告关税可能推高太阳能电站与消费电子、汽车成本，面板商Heliene CEO称太阳能产业在芯片导向的贸易调查中成了「附带损害」。",
+          "china_angle": "以美国拟对华多晶硅设最低价+关税为报道主体，聚焦中美太阳能/半导体供应链博弈",
+          "stance": "中性（援引美方知情人士、中方使馆回应及产业链各方观点，呈现双方立场与受影响方担忧）",
+          "source_url": "https://www.aol.com/articles/us-weighs-polysilicon-price-floor-160922000.html",
+          "body_available": true,
+          "body_zh": "路透社8月4日电——据四名知情人士透露，特朗普政府正准备对多晶硅及相关产品设定最低进口价并加征关税，将这一对太阳能面板与半导体都至关重要的材料，置于美国在对华人工智能与能源竞争中努力的核心。\n\n该决定预计本月晚些时候出台，意在保护美国赫姆洛克半导体（Hemlock Semiconductor）与瓦克化学（Wacker Chemie）等本土多晶硅工厂免受中国芯片供应链日益增长雄心的影响。但总统特朗普通过商务部发起的、历时一年的多晶硅国家安全调查，也对正在成长的美国本土太阳能制造业具有重大影响——而此时这位美国领导人已撤销了联邦对可再生能源的支持。\n\n多晶硅是超纯硅，处于半导体与太阳能制造供应链的起点。制造商将硅片制成太阳能电池，再组装成用于太阳能项目的面板。特朗普优先发展的本土半导体制造依赖太阳能，因为太阳能产业对多晶硅的更大需求有助于支撑芯片所需材料的生产。半导体行业协会称，芯片产业仅占全球多晶硅需求的2.4%。\n\n据匿名知情人士透露，政府预计将采取「最低进口价+关税」的混合体系，对多晶硅及衍生品同时设限。其中两位消息人士称，该计划将允许投资于美国硅片与电池生产的进口商抵消费用。中国约占全球太阳能制造产能的80%。白宫官员在特朗普决定前不予置评，商务部也未回应评论请求。\n\n中国驻美大使馆批评该贸易调查：「中方敦促美方尽快停止Section 232关税措施，通过平等对话妥善解决各方关切。」Section 232授权总统限制被视为威胁国家安全的进口。特朗普此前已用该授权对钢铁、汽车、半导体等加征关税。\n\n美国太阳能制造自2022年国会设立税收激励后扩张，但多集中在面板组装，使制造商依赖需要更长投资周期的进口硅片与电池。Toyo、Qcells、康宁、加拿大太阳能、T1 Energy等多家美国太阳能工厂业主已宣布或启动更上游的产能。太阳能制造商协会（SEMA）及两党议员在向商务部提交的意见中主张，在国产多晶硅、硅片与电池扩产之前，仍需依赖韩国OCI、瓦克（在马来西亚与德国有工厂）等非中国生产商进口。\n\n国防民主基金会（FDD）高级研究员Craig Singleton称：「中国通过补贴与长期产能过剩建立起多晶硅主导地位，将价格压至不可持续水平、削弱竞争对手。最低价配合关税可给美国生产商喘息空间，但政策需精细校准，在本土硅片与电池产能赶上之前保持可信投入可得。」\n\n康宁、Toyo、T1 Energy等美国上市太阳能制造商股价在路透报道后大涨。Hemlock（密歇根工厂，康宁与日本信越半导体合资）与瓦克（田纳西工厂）称「没有多晶硅，价值链的后续环节（硅片与芯片，或硅片与太阳能电池）都无法进行」。康宁未予置评。\n\n「附带损害」：政府须在支持本土生产商与推高芯片、太阳能面板成本之间走钢丝——数据中心热潮下二者需求高企。代表太阳能开发商与芯片买家的行业团体已警告，关税可能推高电站成本并抬高消费电子与汽车价格。连部分制造商也担忧需求受损。明尼苏达面板商Heliene CEO Martin Pochtaruk称：「若成本过高，市场可能开始出现项目流产」，他称太阳能产业在芯片导向的调查中成了「附带损害」。\n\n（Nichola Groom报道；Nick Zieminski、Lisa Shumaker编辑）",
+          "cited_sources": [
+            "美国商务部",
+            "美国白宫",
+            "中国驻美国大使馆",
+            "赫姆洛克半导体(Hemlock Semiconductor)",
+            "瓦克化学(Wacker Chemie)",
+            "半导体行业协会(SIA)",
+            "Toyo Co Ltd",
+            "太阳能制造商协会(SEMA)",
+            "OCI Holdings",
+            "康宁(Corning)",
+            "加拿大太阳能(Canadian Solar)",
+            "T1 Energy",
+            "Qcells",
+            "Heliene(Martin Pochtaruk)",
+            "国防民主基金会FDD(Craig Singleton)"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：美国拟以「最低进口价+关税」混合体系保护本土多晶硅（太阳能与半导体共同上游），针对中国在全球太阳能制造约80%的产能主导，源自由商务部发起的Section 232国家安全调查。这是中美经贸摩擦从「关税战」向「供应链关键环节精准设防」升级的最新例证。\n\n引用信源：美国商务部/白宫、中国驻美使馆、Hemlock、Wacker、SIA、太阳能制造商协会、FDD（Craig Singleton）、Heliene。\n\n研判要点：①多晶硅是太阳能与半导体共享的上游关键材料——美国「借太阳能保芯片」的逻辑，使对华限制从单纯贸易保护演变为AI/能源安全战略；②Section 232工具被复用（此前已用于钢、铝、汽车、半导体），显示特朗普第二任期正系统性重建关税体制，后续无人机、工业机器人、药品、关键矿产、风电等调查将陆续落地；③「附带损害」风险明确：美国太阳能产业仍依赖进口硅片与电池，关税将推高本土清洁能源与芯片成本，可能反噬其AI基础设施与制造业回流叙事；④与历史档案延续性：本批次已归档的「FCC拟禁中国光模块」(20260804)、「商务部五项对美反制」(20260805)同属中美科技/贸易战主线——美方在基础设施与材料环节层层设防，中方以出口管制与实体清单反制，螺旋升级态势清晰。\n\n监测建议：关注特朗普公告落地细节（具体税率与最低价水平）、中国是否将多晶硅纳入反制清单、以及美国太阳能/芯片下游成本传导数据。",
+          "provenance": {
+            "retrieved_via": "联网检索 + 转载源(AOL/Yahoo Finance/Stockopedia 转引路透)",
+            "evidence_url": "https://www.aol.com/articles/us-weighs-polysilicon-price-floor-160922000.html",
+            "evidence_note": "AOL/Yahoo Finance/Stockopedia 转载路透独家稿，文末保留完整路透署名：Reporting by Nichola Groom; Editing by Nick Zieminski and Lisa Shumaker。代理未启用，基于检索摘要+多方转引整合，全文已取得并译中文。"
+          }
         }
       ],
       "daily_analysis": {
-        "total": 5,
+        "total": 9,
         "by_media": {
-          "路透社": 4,
-          "彭博社": 1
+          "路透社": 7,
+          "彭博社": 2
         },
         "sentiment_split": {
-          "negative": 3,
-          "neutral": 1,
+          "negative": 6,
+          "neutral": 2,
           "positive": 1
         },
         "negatives": [
           "20260805-reuters-mofcom-retaliation-us",
           "20260804-reuters-fcc-optical-transceiver-ban",
-          "20260805-bloomberg-hk-insurance-tax"
+          "20260805-bloomberg-hk-insurance-tax",
+          "20260804-reuters-polysilicon-price-floor",
+          "20260805-reuters-polysilicon-15pct-tariff",
+          "20260805-reuters-china-japan-defence-whitepaper"
         ],
         "top_topics": [
           [
             "出口管制",
+            5
+          ],
+          [
+            "中美经贸摩擦",
+            3
+          ],
+          [
+            "中美科技竞争",
+            3
+          ],
+          [
+            "半导体",
             3
           ],
           [
@@ -286,20 +485,8 @@ window.__XFS_DATA__ = {
             2
           ],
           [
-            "中美科技竞争",
+            "太阳能",
             2
-          ],
-          [
-            "中美经贸摩擦",
-            1
-          ],
-          [
-            "无人机",
-            1
-          ],
-          [
-            "涉疆制裁",
-            1
           ]
         ],
         "key_takeaway": "三星与SK海力士测试中国产芯片设备，以对冲美国出口管制风险"
@@ -3161,7 +3348,7 @@ window.__XFS_DATA__ = {
       "provenance": {
         "retrieved_via": "联网检索 + 转载源(ttm.financial)",
         "evidence_url": "https://ttm.financial/news/2557836141",
-        "evidence_note": "ttm.financial转载路透稿，保留完整路透署名：Reporting by Summer Zhen; Editing by Harikrishnan Nair and Sherry Jacob-Phillips。"
+        "evidence_note": "ttm.financial 转载路透稿，保留完整路透署名：Reporting by Summer Zhen; Editing by Harikrishnan Nair and Sherry Jacob-Phillips。注：原文归档日期2026-08-05依据正文内容（S&P Global 7月服务业PMI、上证综指3,617.60等2026年数据）判定无误；该转载站点news ID存在内容轮转，本次复核代理抓取返回为另一篇2025年旧稿，故以已捕获之2026正文为准，source_url保留原链接仅作追溯。"
       },
       "_day": "2026-08-06"
     },
@@ -3213,44 +3400,236 @@ window.__XFS_DATA__ = {
         "evidence_note": "彭博社原创报道，署名By Isabella Farr and Heng Xie。bloomberg.com对本机代理返回403，基于WebSearch检索返回的彭博原文摘要+多个中文转引来源（新浪财经/网易/AASTOCKS）整合。"
       },
       "_day": "2026-08-06"
+    },
+    {
+      "id": "20260804-reuters-polysilicon-price-floor",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Exclusive: US weighs polysilicon price floor, tariffs to counter China in solar and chips",
+      "title_zh": "路透独家：美国拟设多晶硅最低价+关税，在太阳能与芯片领域对华竞争",
+      "published_at": "2026-08-04",
+      "published_precision": "day",
+      "authors": [
+        "Nichola Groom"
+      ],
+      "author_locations": "洛杉矶",
+      "authors_status": "confirmed",
+      "topics": [
+        "中美经贸摩擦",
+        "出口管制",
+        "太阳能",
+        "半导体",
+        "多晶硅",
+        "Section 232"
+      ],
+      "importance": "high",
+      "summary_zh": "路透8月4日独家报道——据四名知情人士透露，特朗普政府正准备对多晶硅及相关产品设定最低进口价（price floor）并加征关税，将这一太阳能面板与半导体制造的关键材料置于美国对华人工智能与能源竞争的核心。该决定预计本月晚些时候出台，意在保护美国赫姆洛克半导体（Hemlock Semiconductor）与瓦克化学（Wacker Chemie）等本土多晶硅工厂免受中国芯片供应链崛起的冲击，源自由美国商务部发起、历时一年的多晶硅国家安全调查（Section 232）。中国驻美大使馆批评该调查，敦促美方「尽快停止Section 232关税措施，通过平等对话妥善解决各方关切」。美国太阳能制造自2022年国会税收激励后扩张，但多集中在组件组装、仍依赖进口硅片与电池；行业团体警告关税可能推高太阳能电站与消费电子、汽车成本，面板商Heliene CEO称太阳能产业在芯片导向的贸易调查中成了「附带损害」。",
+      "china_angle": "以美国拟对华多晶硅设最低价+关税为报道主体，聚焦中美太阳能/半导体供应链博弈",
+      "stance": "中性（援引美方知情人士、中方使馆回应及产业链各方观点，呈现双方立场与受影响方担忧）",
+      "source_url": "https://www.aol.com/articles/us-weighs-polysilicon-price-floor-160922000.html",
+      "body_available": true,
+      "body_zh": "路透社8月4日电——据四名知情人士透露，特朗普政府正准备对多晶硅及相关产品设定最低进口价并加征关税，将这一对太阳能面板与半导体都至关重要的材料，置于美国在对华人工智能与能源竞争中努力的核心。\n\n该决定预计本月晚些时候出台，意在保护美国赫姆洛克半导体（Hemlock Semiconductor）与瓦克化学（Wacker Chemie）等本土多晶硅工厂免受中国芯片供应链日益增长雄心的影响。但总统特朗普通过商务部发起的、历时一年的多晶硅国家安全调查，也对正在成长的美国本土太阳能制造业具有重大影响——而此时这位美国领导人已撤销了联邦对可再生能源的支持。\n\n多晶硅是超纯硅，处于半导体与太阳能制造供应链的起点。制造商将硅片制成太阳能电池，再组装成用于太阳能项目的面板。特朗普优先发展的本土半导体制造依赖太阳能，因为太阳能产业对多晶硅的更大需求有助于支撑芯片所需材料的生产。半导体行业协会称，芯片产业仅占全球多晶硅需求的2.4%。\n\n据匿名知情人士透露，政府预计将采取「最低进口价+关税」的混合体系，对多晶硅及衍生品同时设限。其中两位消息人士称，该计划将允许投资于美国硅片与电池生产的进口商抵消费用。中国约占全球太阳能制造产能的80%。白宫官员在特朗普决定前不予置评，商务部也未回应评论请求。\n\n中国驻美大使馆批评该贸易调查：「中方敦促美方尽快停止Section 232关税措施，通过平等对话妥善解决各方关切。」Section 232授权总统限制被视为威胁国家安全的进口。特朗普此前已用该授权对钢铁、汽车、半导体等加征关税。\n\n美国太阳能制造自2022年国会设立税收激励后扩张，但多集中在面板组装，使制造商依赖需要更长投资周期的进口硅片与电池。Toyo、Qcells、康宁、加拿大太阳能、T1 Energy等多家美国太阳能工厂业主已宣布或启动更上游的产能。太阳能制造商协会（SEMA）及两党议员在向商务部提交的意见中主张，在国产多晶硅、硅片与电池扩产之前，仍需依赖韩国OCI、瓦克（在马来西亚与德国有工厂）等非中国生产商进口。\n\n国防民主基金会（FDD）高级研究员Craig Singleton称：「中国通过补贴与长期产能过剩建立起多晶硅主导地位，将价格压至不可持续水平、削弱竞争对手。最低价配合关税可给美国生产商喘息空间，但政策需精细校准，在本土硅片与电池产能赶上之前保持可信投入可得。」\n\n康宁、Toyo、T1 Energy等美国上市太阳能制造商股价在路透报道后大涨。Hemlock（密歇根工厂，康宁与日本信越半导体合资）与瓦克（田纳西工厂）称「没有多晶硅，价值链的后续环节（硅片与芯片，或硅片与太阳能电池）都无法进行」。康宁未予置评。\n\n「附带损害」：政府须在支持本土生产商与推高芯片、太阳能面板成本之间走钢丝——数据中心热潮下二者需求高企。代表太阳能开发商与芯片买家的行业团体已警告，关税可能推高电站成本并抬高消费电子与汽车价格。连部分制造商也担忧需求受损。明尼苏达面板商Heliene CEO Martin Pochtaruk称：「若成本过高，市场可能开始出现项目流产」，他称太阳能产业在芯片导向的调查中成了「附带损害」。\n\n（Nichola Groom报道；Nick Zieminski、Lisa Shumaker编辑）",
+      "cited_sources": [
+        "美国商务部",
+        "美国白宫",
+        "中国驻美国大使馆",
+        "赫姆洛克半导体(Hemlock Semiconductor)",
+        "瓦克化学(Wacker Chemie)",
+        "半导体行业协会(SIA)",
+        "Toyo Co Ltd",
+        "太阳能制造商协会(SEMA)",
+        "OCI Holdings",
+        "康宁(Corning)",
+        "加拿大太阳能(Canadian Solar)",
+        "T1 Energy",
+        "Qcells",
+        "Heliene(Martin Pochtaruk)",
+        "国防民主基金会FDD(Craig Singleton)"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：美国拟以「最低进口价+关税」混合体系保护本土多晶硅（太阳能与半导体共同上游），针对中国在全球太阳能制造约80%的产能主导，源自由商务部发起的Section 232国家安全调查。这是中美经贸摩擦从「关税战」向「供应链关键环节精准设防」升级的最新例证。\n\n引用信源：美国商务部/白宫、中国驻美使馆、Hemlock、Wacker、SIA、太阳能制造商协会、FDD（Craig Singleton）、Heliene。\n\n研判要点：①多晶硅是太阳能与半导体共享的上游关键材料——美国「借太阳能保芯片」的逻辑，使对华限制从单纯贸易保护演变为AI/能源安全战略；②Section 232工具被复用（此前已用于钢、铝、汽车、半导体），显示特朗普第二任期正系统性重建关税体制，后续无人机、工业机器人、药品、关键矿产、风电等调查将陆续落地；③「附带损害」风险明确：美国太阳能产业仍依赖进口硅片与电池，关税将推高本土清洁能源与芯片成本，可能反噬其AI基础设施与制造业回流叙事；④与历史档案延续性：本批次已归档的「FCC拟禁中国光模块」(20260804)、「商务部五项对美反制」(20260805)同属中美科技/贸易战主线——美方在基础设施与材料环节层层设防，中方以出口管制与实体清单反制，螺旋升级态势清晰。\n\n监测建议：关注特朗普公告落地细节（具体税率与最低价水平）、中国是否将多晶硅纳入反制清单、以及美国太阳能/芯片下游成本传导数据。",
+      "provenance": {
+        "retrieved_via": "联网检索 + 转载源(AOL/Yahoo Finance/Stockopedia 转引路透)",
+        "evidence_url": "https://www.aol.com/articles/us-weighs-polysilicon-price-floor-160922000.html",
+        "evidence_note": "AOL/Yahoo Finance/Stockopedia 转载路透独家稿，文末保留完整路透署名：Reporting by Nichola Groom; Editing by Nick Zieminski and Lisa Shumaker。代理未启用，基于检索摘要+多方转引整合，全文已取得并译中文。"
+      },
+      "_day": "2026-08-06"
+    },
+    {
+      "id": "20260805-reuters-polysilicon-15pct-tariff",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Trump administration to impose 15% tariff in polysilicon probe meant to counter China",
+      "title_zh": "特朗普政府将对多晶硅衍生品征15%关税并设最低进口价（路透后续）",
+      "published_at": "2026-08-05",
+      "published_precision": "day",
+      "authors": [
+        "Nichola Groom",
+        "Alexandra Alper",
+        "Jarrett Renshaw"
+      ],
+      "author_locations": "洛杉矶 / 华盛顿",
+      "authors_status": "confirmed",
+      "topics": [
+        "中美经贸摩擦",
+        "出口管制",
+        "太阳能",
+        "半导体",
+        "多晶硅",
+        "Section 232"
+      ],
+      "importance": "high",
+      "summary_zh": "路透8月5日华盛顿电——据四名知情人士透露，特朗普政府最早将于周四宣布对多晶硅制成的产品征收15%关税，并设定一系列最低进口价，旨在保护美国多晶硅工厂免受中国芯片供应链崛起的冲击。这份总统公告预计将对多晶硅、硅片、电池与组件（太阳能面板）设定最低进口价，并对多晶硅衍生品征收15%关税。美国商务部与白宫未立即回应置评。这是路透此前独家报道的「最低进口价+关税」混合体系方案的后续落地——美方在太阳能与半导体双线上对华收紧贸易保护。",
+      "china_angle": "以美国对华多晶硅最终关税方案为报道主体，聚焦中美太阳能/半导体供应链博弈的落地",
+      "stance": "中性（援引美方多名知情人士与官方未回应，呈现政策走向）",
+      "source_url": "https://www.yahoo.com/news/politics/articles/trump-administration-impose-15-tariff-195246558.html",
+      "body_available": true,
+      "body_zh": "路透社华盛顿8月5日电——据四名知情人士透露，特朗普政府最早将于周四宣布对多晶硅制成的产品征收15%关税，并设定一系列最低进口价——多晶硅是用于太阳能面板与半导体的关键原材料，此举旨在保护美国多晶硅工厂免受中国芯片供应链日益增长雄心的冲击。\n\n这四名消息人士称，美国总统特朗普的公告预计将包括对多晶硅、硅片、电池与组件（即太阳能面板）设定最低进口价，并对多晶硅衍生品征收15%关税。\n\n政府计划采取「最低进口价+关税」混合体系的方案，此前由路透率先报道。特朗普通过商务部发起的、历时一年的多晶硅国家安全调查，也对正在成长的美国本土太阳能制造业具有重大影响——而此时这位美国领导人已撤销了联邦对可再生能源的支持。\n\n美国商务部与白宫未立即回应置评请求。\n\n（Nichola Groom 洛杉矶报道；Alexandra Alper、Jarrett Renshaw 华盛顿报道；Lisa Shumaker编辑）",
+      "cited_sources": [
+        "美国商务部",
+        "美国白宫",
+        "四名知情人士"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：路透8月5日后续确认，特朗普政府将落地「15%关税+最低进口价」混合方案，覆盖多晶硅、硅片、电池与组件全链条，针对中国芯片供应链崛起。这是8月4日路透独家「拟设最低价」报道的落地确认。\n\n引用信源：四名知情人士、美国商务部、白宫（未回应）。\n\n研判要点：①方案从「讨论中」升级为「即将宣布」，节奏快、信号强，显示美方对华供应链设防已进入执行阶段；②覆盖环节从多晶硅延伸至硅片、电池、组件，意味着中国光伏全产业链对美出口成本将系统性抬升；③与同日「商务部五项对美反制」(20260805)形成直接对冲——美方落地关税、中方反制工具箱同步加码，贸易摩擦螺旋未见缓和迹象；④与历史档案延续性：继「FCC光模块禁令」(20260804)、「多晶硅最低价独家」(20260804)之后，本稿是同一主线的第三击，凸显美国正以Section 232为杠杆在AI/能源材料环节系统化设防。\n\n监测建议：关注公告正式文本（税率/最低价具体数值与生效时点）、中国商务部是否将光伏多晶硅列入反制、以及美股太阳能与半导体板块反应。",
+      "provenance": {
+        "retrieved_via": "联网检索 + 转载源(Yahoo News/Politics 转引路透)",
+        "evidence_url": "https://www.yahoo.com/news/politics/articles/trump-administration-impose-15-tariff-195246558.html",
+        "evidence_note": "Yahoo News/Politics 转载路透稿，文末保留完整路透署名：Reporting by Nichola Groom in Los Angeles; Alexandra Alper in Washington and Jarrett Renshaw in Washington; Editing by Lisa Shumaker。全文已取得并译中文。"
+      },
+      "_day": "2026-08-06"
+    },
+    {
+      "id": "20260805-reuters-china-japan-defence-whitepaper",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China complains to Japan over defence white paper, foreign ministry says",
+      "title_zh": "中方就日本防卫白皮书向日本提出交涉，外交部称其炒作「中国威胁」并妄议台湾",
+      "published_at": "2026-08-05",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中日关系",
+        "涉台议题",
+        "军事安全",
+        "防卫白皮书"
+      ],
+      "importance": "high",
+      "summary_zh": "路透北京8月5日电——中国外交部周三表示，已就日本新发布的防卫白皮书向日本提出交涉，指责其炒作「中国威胁」并对台湾作出「不当评论」。这份8月4日发布的年度报告声称中国加强了台湾周边军事活动，并称「中日台整体军事平衡正迅速向中国倾斜」。外交部回应称台湾问题纯属中国内政、日方无权置喙，中方相关军事活动正当合理。中日关系自去年11月日本首相高市早苗（Sanae Takaichi）称若中国攻台危及日本生存将部署自卫队后跌至多年最低；中方曾要求日方收回「恶劣」言论。外交部同时敦促国际社会遏制东京的军备扩张。",
+      "china_angle": "以日本防卫白皮书涉华/涉台表述及中方交涉为报道主体，聚焦中日安全摩擦",
+      "stance": "中性（援引中方外交部回应与日方白皮书内容，呈现双方立场）",
+      "source_url": "https://www.yahoo.com/news/articles/china-complains-japan-over-defence-101911170.html",
+      "body_available": true,
+      "body_zh": "路透社北京8月5日电——中国外交部周三表示，已就日本新发布的防卫白皮书向日本提出交涉，指责其炒作「中国威胁」并对台湾作出「不当评论」。\n\n这份于周二发布的日本年度报告声称，中国加强了其自称领土的台湾周边的军事活动——尽管台北方面拒绝这一主张。报告称「中日台整体军事平衡正迅速向中国倾斜」。\n\n在回应路透关于该白皮书的问询时，中国外交部表示，台湾问题纯属中国内政，日方无权置喙。「如何解决台湾问题是中国人自己的事，不容日方干涉，」外交部称，并补充说中方相关军事活动正当合理。\n\n中日关系在去年11月跌至多年来最低——当时日本首相高市早苗（Sanae Takaichi）称，若中国对台攻击也威胁到日本生存，日本可部署自卫队，北京要求她收回所谓「恶劣」言论。\n\n日本政府正将其加速的军备扩张不仅描绘为保卫国家之道，更视为通往繁荣之路，在白皮书中主张军备生产可支撑经济增长。中国则指责日本加速「再军事化」而非反省侵略历史。「我们敦促日本停止为军事扩张寻找借口，不要沿错误道路越走越远，」中国外交部称，并呼吁国际社会遏制东京的军备扩张。\n\n（北京新闻部报道；Saad Sayeed编辑）",
+      "cited_sources": [
+        "中国外交部",
+        "日本防卫省（防卫白皮书）",
+        "日本首相高市早苗(Sanae Takaichi)相关表态"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：日本发布《防卫白皮书2026》，将中国列为「最大战略挑战」、称台海军事平衡迅速向中国倾斜，并首次将军备生产包装为经济增长引擎；中国外交部提出交涉，重申台湾是中国内政、日方无权干涉，并敦促国际社会遏制日本军备扩张。\n\n引用信源：中国外交部、日本防卫白皮书、日本首相相关表态。\n\n研判要点：①这是中日安全互信持续恶化的又一标志——日方将「中国威胁」常态化、并借台海叙事为自身突破和平宪法、扩军备战制造理由；②白皮书涉台表述直接触碰中方红线（「台湾周边军事活动」「中日台平衡」），中方以「妄议内政」定性，预示外交摩擦升温；③历史叙事交锋升级：中方重提日本侵略历史、要求其「深刻反省」，与日方「再军事化」主张形成尖锐对立，东亚安全环境趋紧；④与历史档案延续性：本系统已归档多篇涉台/军事安全议题（如「中国海警在台以东巡逻」20260731、「南海巡逻」20260801），日本防卫白皮书将台湾议题与地区军事平衡挂钩，进一步印证台海正被多边安全叙事「国际化」，需持续追踪中日、美日同盟在台海问题上的联动。\n\n监测建议：关注日本后续军备扩张具体举措（远程导弹、武器出口规则）、中方是否升级外交反制、以及美日同盟协调对台海议题的表态。",
+      "provenance": {
+        "retrieved_via": "联网检索 + 转载源(Yahoo News 转引路透)",
+        "evidence_url": "https://www.yahoo.com/news/articles/china-complains-japan-over-defence-101911170.html",
+        "evidence_note": "Yahoo News 转载路透稿，文末保留完整路透署名：Reporting by Beijing Newsroom; Editing by Saad Sayeed。机构署名（北京新闻部），无具名个人记者，故authors_status=not_available。另经中国日报、新华社交叉验证外交部回应原文。全文已取得并译中文。"
+      },
+      "_day": "2026-08-06"
+    },
+    {
+      "id": "20260805-bloomberg-china-ai-death-zone",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China's AI blitz puts OpenAI and Anthropic in a 'death zone' on price",
+      "title_zh": "中国AI攻势将OpenAI与Anthropic逼入价格「死亡区」",
+      "published_at": "2026-08-05",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "人工智能",
+        "中美科技竞争",
+        "AI价格战",
+        "开源模型"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社8月5日报道——中国AI领域一连串模型发布正迅速缩小与硅谷的差距，并制造出一个所谓的「死亡区」：任何缺乏前沿技术或颠覆性定价的企业都难以立足。阿里巴巴本周以Qwen3.8-Max登顶全球基准（表现比肩Anthropic旗舰Fable 5）；两周前月之暗面Kimi K3以低调预算媲美最贵美国模型；字节跳动Seedance 2.5称霸视频生成；DeepSeek以V4 Flash改写价格经济学——独立评测机构Artificial Analysis数据显示，复杂真实工作负载下DeepSeek V4 Flash成本仅0.03美元，而Claude Fable 5为3.15美元。彭博行业研究分析师Rob Lea称「中国AI供应商已陷入残酷价格战，以市场份额优先于盈利」；AI先驱李开复表示若无中国开源模型，OpenAI与Anthropic「会一路笑到银行」，如今有了更便宜的替代。文章指这正加深中美科技摩擦，华盛顿在Kimi突破后以知识产权为由威胁制裁。",
+      "china_angle": "以中国AI模型集体突破与价格优势为报道主体，聚焦中美AI竞争力此消彼长",
+      "stance": "中性（呈现中国AI进展与美方反应，含多方分析师观点与中美科技摩擦背景）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-05/china-ai-blitz-openai-anthropic-death-zone-price",
+      "body_available": true,
+      "body_zh": "彭博社8月5日报道——中国AI领域一连串模型发布正迅速缩小与硅谷的差距，并制造出一个所谓的「死亡区」：任何没有前沿突破技术或颠覆性定价能力的企业都难以立足。\n\n阿里巴巴本周以Qwen3.8-Max加入登上全球基准榜首的中国新模型行列，这款迄今最强模型似乎已比肩或超越Anthropic的旗舰Fable 5。两周前，月之暗面（Moonshot AI）的Kimi K3以远为节俭的预算展现出与最贵美国模型相当的性能，重新引发对美国芯片制裁能否拖慢中国科技崛起的质疑。此外，字节跳动的Seedance 2.5在视频生成领域已将对手甩在身后；深度求索（DeepSeek）——中国冲击美国AI霸权的最初颠覆者——今夏携V4 Flash回归，在定价上实现突破。曾经孤立的震荡如今已成 Cascading 的连锁浪潮——不仅提供低价替代，更在推理、编程与复杂任务上给出与OpenAI及其美国同行正面对抗的高端能力。\n\n「自2025年1月以来最重要的变化是，中国的进步不再像单一公司的突破，」北京科技分析师、《Hello China Tech》通讯作者Poe Zhao表示，「首个DeepSeek时刻看似例外，近期发布显示中国如今已拥有可重复产出逼近全球前沿模型的体系。」加之6月智谱（Z.ai）GLM-5.2——当时全球排名最高的开源模型——八周内五款模型的攻势表明，中国开发者正接近甚至在部分领域超越常被奉为前沿领袖的美国先驱。\n\n核心卖点不仅是低价，更是极致效率。独立评测机构Artificial Analysis的基准测试显示，执行复杂真实工作负载时，DeepSeek V4 Flash成本仅0.03美元，而Claude Fable 5高达3.15美元。当中国只要几分钱、美国企业却收几美元时，两国争夺AI客户——尤其是世界其他地区客户——的竞赛开始呈现实质不同。\n\n「许多国家正在观望美中竞争，现在不愿选边站，因为竞赛才刚开始，」亚洲集团（Asia Group）合伙人兼数字业务主席陈（George Chen）表示。特朗普与习近平都将AI领导地位列为国家战略优先。\n\n迅猛进展正加深中美科技摩擦，在月之暗面Kimi突破后，华盛顿以知识产权为由威胁制裁。特朗普表示其政府正权衡中国威胁与对Anthropic的Fable、OpenAI的GPT系列等产品增设安全管控的需要。\n\n「中国AI供应商已陷入残酷价格战，以市场份额优先于盈利，」彭博行业研究（Bloomberg Intelligence）高级分析师Rob Lea称。\n\n「如果没有这些中国开源模型，OpenAI和Anthropic会一路笑到银行，」AI先驱、其初创公司01.ai向全球客户提供开源模型的李开复（Kai-Fu Lee）表示，「现在有了替代，而且更便宜。」\n\n在Artificial Analysis广为流传的基准图上，已浮现所谓的「DeepSeek死亡区」：对同类产品收费更高、或对同价产品能力更弱，那就几乎不必尝试。跨出这一危险区边界已成为长期生存的关键。中端对手如今承压，要么降价匹配这家杭州初创公司，要么砸钱打造更聪明的模型。更大的GLM-5.2、Kimi K3与Qwen3.8-Max均位于更高性能区间。\n\n「我认为DeepSeek V4 Flash真正改变经济学的是智能体（agentic）工作负载，」上海初创咨询公司ZenGen Labs创始人Dermot McGrath表示。\n\n（彭博社原创，经《洛杉矶时报》 syndication 转载；在视频生成领域，OpenAI搁置Sora后该市场门户大开，中国势头最为明显。）",
+      "cited_sources": [
+        "阿里巴巴(Qwen3.8-Max)",
+        "月之暗面/Moonshot AI(Kimi K3)",
+        "字节跳动(Seedance 2.5)",
+        "深度求索(DeepSeek V4 Flash)",
+        "智谱(Z.ai/GLM-5.2)",
+        "Artificial Analysis(独立评测机构)",
+        "彭博行业研究Bloomberg Intelligence(Rob Lea)",
+        "亚洲集团Asia Group(George Chen)",
+        "01.ai/创新工场(李开复)",
+        "ZenGen Labs(Dermot McGrath)",
+        "Hello China Tech(Poe Zhao)",
+        "Anthropic(Fable 5)",
+        "OpenAI(GPT系列)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "联网检索 + 彭博官网(bloomberg.com) + 《洛杉矶时报》syndication 全文",
+        "evidence_url": "https://www.latimes.com/business/story/2026-08-05/china-ai-blitz-openai-anthropic-death-zone-price",
+        "evidence_note": "彭博社原创报道（署名来源' Bloomberg'，经《洛杉矶时报》于2026-08-05 6:26 AM PT syndication 转载，全文已取得450KB页面并提取正文）。彭博原创标记明确（页面标注' Bloomberg Aug. 5, 2026'），属真实彭博原稿；syndication页面未显示具名个人记者，依彭博署规作者栏置 not_available，未编造。另经 Artificial Analysis 基准数据交叉验证价格对比。"
+      },
+      "_day": "2026-08-06"
     }
   ],
   "archive": {
     "days_count": 2,
     "first_day": "2026-08-04",
     "last_day": "2026-08-06",
-    "total_articles": 40,
+    "total_articles": 44,
     "by_media": {
-      "路透社": 36,
-      "彭博社": 4
+      "路透社": 39,
+      "彭博社": 5
     },
     "by_topic": {
       "宏观经济": 7,
+      "出口管制": 6,
       "企业动态": 6,
+      "军事安全": 5,
+      "人工智能": 5,
       "经贸摩擦": 4,
-      "军事安全": 4,
-      "出口管制": 4,
-      "人工智能": 4,
+      "半导体": 4,
       "科技竞争": 3,
       "科技产业": 3,
       "新能源汽车": 3,
+      "中美经贸摩擦": 3,
+      "中美科技竞争": 3,
       "产业政策": 2,
       "社会民生": 2,
       "自然灾害": 2,
       "南海议题": 2,
+      "涉台议题": 2,
       "对外投资": 2,
       "中欧关系": 2,
       "稳增长政策": 2,
       "资本市场": 2,
-      "半导体": 2,
       "能源安全": 2,
       "红海航运": 2,
       "FCC": 2,
-      "中美科技竞争": 2,
+      "太阳能": 2,
+      "多晶硅": 2,
+      "Section 232": 2,
       "知识产权": 1,
       "涉疆议题": 1,
       "制裁": 1,
-      "涉台议题": 1,
       "内政": 1,
       "解释性报道": 1,
       "农产品贸易": 1,
@@ -3282,7 +3661,6 @@ window.__XFS_DATA__ = {
       "区域经济": 1,
       "高技术制造": 1,
       "经济结构": 1,
-      "中美经贸摩擦": 1,
       "无人机": 1,
       "涉疆制裁": 1,
       "国家安全调查": 1,
@@ -3300,7 +3678,11 @@ window.__XFS_DATA__ = {
       "金融股": 1,
       "保诚": 1,
       "汇丰": 1,
-      "渣打": 1
+      "渣打": 1,
+      "中日关系": 1,
+      "防卫白皮书": 1,
+      "AI价格战": 1,
+      "开源模型": 1
     },
     "sentiment_trend": [
       {
@@ -3311,8 +3693,8 @@ window.__XFS_DATA__ = {
       },
       {
         "date": "2026-08-06",
-        "negative": 3,
-        "neutral": 1,
+        "negative": 6,
+        "neutral": 2,
         "positive": 1
       }
     ],
@@ -3367,6 +3749,18 @@ window.__XFS_DATA__ = {
       ],
       [
         "美国联邦通信委员会(FCC)",
+        2
+      ],
+      [
+        "中国驻美国大使馆",
+        2
+      ],
+      [
+        "美国商务部",
+        2
+      ],
+      [
+        "美国白宫",
         2
       ],
       [
@@ -3730,10 +4124,6 @@ window.__XFS_DATA__ = {
         1
       ],
       [
-        "中国驻美国大使馆",
-        1
-      ],
-      [
         "中际旭创",
         1
       ],
@@ -3808,11 +4198,151 @@ window.__XFS_DATA__ = {
       [
         "中国香港保险业监管局",
         1
+      ],
+      [
+        "赫姆洛克半导体(Hemlock Semiconductor)",
+        1
+      ],
+      [
+        "瓦克化学(Wacker Chemie)",
+        1
+      ],
+      [
+        "半导体行业协会(SIA)",
+        1
+      ],
+      [
+        "Toyo Co Ltd",
+        1
+      ],
+      [
+        "太阳能制造商协会(SEMA)",
+        1
+      ],
+      [
+        "OCI Holdings",
+        1
+      ],
+      [
+        "康宁(Corning)",
+        1
+      ],
+      [
+        "加拿大太阳能(Canadian Solar)",
+        1
+      ],
+      [
+        "T1 Energy",
+        1
+      ],
+      [
+        "Qcells",
+        1
+      ],
+      [
+        "Heliene(Martin Pochtaruk)",
+        1
+      ],
+      [
+        "国防民主基金会FDD(Craig Singleton)",
+        1
+      ],
+      [
+        "四名知情人士",
+        1
+      ],
+      [
+        "中国外交部",
+        1
+      ],
+      [
+        "日本防卫省（防卫白皮书）",
+        1
+      ],
+      [
+        "日本首相高市早苗(Sanae Takaichi)相关表态",
+        1
+      ],
+      [
+        "阿里巴巴(Qwen3.8-Max)",
+        1
+      ],
+      [
+        "月之暗面/Moonshot AI(Kimi K3)",
+        1
+      ],
+      [
+        "字节跳动(Seedance 2.5)",
+        1
+      ],
+      [
+        "深度求索(DeepSeek V4 Flash)",
+        1
+      ],
+      [
+        "智谱(Z.ai/GLM-5.2)",
+        1
+      ],
+      [
+        "Artificial Analysis(独立评测机构)",
+        1
+      ],
+      [
+        "彭博行业研究Bloomberg Intelligence(Rob Lea)",
+        1
+      ],
+      [
+        "亚洲集团Asia Group(George Chen)",
+        1
+      ],
+      [
+        "01.ai/创新工场(李开复)",
+        1
+      ],
+      [
+        "ZenGen Labs(Dermot McGrath)",
+        1
+      ],
+      [
+        "Hello China Tech(Poe Zhao)",
+        1
+      ],
+      [
+        "Anthropic(Fable 5)",
+        1
+      ],
+      [
+        "OpenAI(GPT系列)",
+        1
       ]
     ],
     "recurring_topics": [
       {
+        "topic": "军事安全",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-08-06"
+        ]
+      },
+      {
         "topic": "出口管制",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-08-06"
+        ]
+      },
+      {
+        "topic": "涉台议题",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-08-06"
+        ]
+      },
+      {
+        "topic": "人工智能",
         "count": 2,
         "days": [
           "2026-08-04",
@@ -3862,6 +4392,22 @@ window.__XFS_DATA__ = {
         "day": "2026-08-06"
       },
       {
+        "id": "20260805-reuters-polysilicon-15pct-tariff",
+        "date": "2026-08-05",
+        "media": "路透社",
+        "title_zh": "特朗普政府将对多晶硅衍生品征15%关税并设最低进口价（路透后续）",
+        "importance": "high",
+        "day": "2026-08-06"
+      },
+      {
+        "id": "20260805-reuters-china-japan-defence-whitepaper",
+        "date": "2026-08-05",
+        "media": "路透社",
+        "title_zh": "中方就日本防卫白皮书向日本提出交涉，外交部称其炒作「中国威胁」并妄议台湾",
+        "importance": "high",
+        "day": "2026-08-06"
+      },
+      {
         "id": "20260804-reuters-landslide-flood-prevention",
         "date": "2026-08-04",
         "media": "路透社",
@@ -3874,6 +4420,14 @@ window.__XFS_DATA__ = {
         "date": "2026-08-04",
         "media": "路透社",
         "title_zh": "路透独家：美国FCC拟禁止进口中国新型数据中心光收发模块",
+        "importance": "high",
+        "day": "2026-08-06"
+      },
+      {
+        "id": "20260804-reuters-polysilicon-price-floor",
+        "date": "2026-08-04",
+        "media": "路透社",
+        "title_zh": "路透独家：美国拟设多晶硅最低价+关税，在太阳能与芯片领域对华竞争",
         "importance": "high",
         "day": "2026-08-06"
       },
@@ -3968,18 +4522,18 @@ window.__XFS_DATA__ = {
     ],
     "penetration": {
       "运行天数": 2,
-      "累计报道": 40,
-      "覆盖议题": 76,
-      "覆盖信源": 123,
-      "负面累计": 15
+      "累计报道": 44,
+      "覆盖议题": 83,
+      "覆盖信源": 154,
+      "负面累计": 18
     }
   },
   "stats": {
-    "total": 40,
+    "total": 44,
     "days": 2,
-    "negatives": 15,
-    "with_author": 25,
-    "with_body": 11,
-    "with_sources": 34
+    "negatives": 18,
+    "with_author": 27,
+    "with_body": 15,
+    "with_sources": 38
   }
 };
