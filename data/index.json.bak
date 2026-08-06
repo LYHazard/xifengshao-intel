@@ -1,16 +1,16 @@
-window.__XFS_DATA__ = {
-  "generated_at": "2026-08-06T11:23:46+08:00",
+{
+  "generated_at": "2026-08-06T09:05:38+08:00",
   "days": {
     "2026-08-06": {
       "file": "2026-08-06.json",
-      "scan_time": "2026-08-06T11:23:33+08:00",
+      "scan_time": "2026-08-06T09:05:31+08:00",
       "window": "2026-08-04 08:00 ~ 2026-08-06T09:05:31+08:00 (GMT+8)",
       "coverage": {
         "reuters": {
-          "captured": 15,
+          "captured": 8,
           "with_author": 4,
           "with_fulltext": 8,
-          "note": "本轮（8/4-8/6窗口）路透累计8篇：①商务部五项对美反制(8/5,具名3人,high,负面+深度研判)；②三星SK海力士测试中国芯片设备(8/4,机构署名,high,中性)；③FCC拟禁中国光模块(8/4独家,机构署名,high,负面+深度研判)；④中国服务业PMI提振股市(8/5,具名Summer Zhen,medium,正面)；⑤美国拟设多晶硅最低价+关税独家(8/4,具名Nichola Groom,high,负面+深度研判)；⑥多晶硅15%关税落地后续(8/5,具名Groom/Alper/Renshaw,high,负面+深度研判)；⑦中方就日本防卫白皮书向日交涉(8/5,机构署名,high,负面+深度研判)；⑧全球AI股抛售拖累半导体(8/3,机构署名,medium,负面)。代理未启用，基于联网检索+转载源全文整合。 ⑧二次重扫补录(8/6):中国房企重返ABS市场(路透香港,medium,中性,作者not_available)。\n⑨三次重扫补录(8/6):追加7条全新路透涉华报道——亚太股市/伊朗和谈、前国防工业监管官员获刑10年、FBI在Patel任内与中国俄建执法联系(独家)、鸿海7月营收新高、台湾大型军演、通用续签上汽合资20年、金与正警告日本试射战斧导弹。均按检索级登记，仅附摘要与原始链接，未转载正文。"
+          "note": "本轮（8/4-8/6窗口）路透累计8篇：①商务部五项对美反制(8/5,具名3人,high,负面+深度研判)；②三星SK海力士测试中国芯片设备(8/4,机构署名,high,中性)；③FCC拟禁中国光模块(8/4独家,机构署名,high,负面+深度研判)；④中国服务业PMI提振股市(8/5,具名Summer Zhen,medium,正面)；⑤美国拟设多晶硅最低价+关税独家(8/4,具名Nichola Groom,high,负面+深度研判)；⑥多晶硅15%关税落地后续(8/5,具名Groom/Alper/Renshaw,high,负面+深度研判)；⑦中方就日本防卫白皮书向日交涉(8/5,机构署名,high,负面+深度研判)；⑧全球AI股抛售拖累半导体(8/3,机构署名,medium,负面)。代理未启用，基于联网检索+转载源全文整合。 ⑧二次重扫补录(8/6):中国房企重返ABS市场(路透香港,medium,中性,作者not_available)。"
         },
         "bloomberg": {
           "captured": 2,
@@ -21,98 +21,6 @@ window.__XFS_DATA__ = {
       },
       "enriched_at": null,
       "articles": [
-        {
-          "id": "20260806-reuters-fbi-china-russia-ties",
-          "media": "Reuters",
-          "media_zh": "路透社",
-          "title_en": "Under Patel, FBI forges unprecedented law enforcement ties with China, Russia",
-          "title_zh": "路透独家：在Patel任内，FBI与中国、俄罗斯建立前所未有的执法合作关系",
-          "published_at": "2026-08-06",
-          "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
-          "topics": [
-            "中美关系",
-            "执法合作",
-            "地缘政治",
-            "俄罗斯"
-          ],
-          "importance": "high",
-          "summary_zh": "路透独家报道：在局长Kash Patel任内，美国联邦调查局（FBI）与中国、俄罗斯建立起前所未有的执法联系。",
-          "china_angle": "中美俄执法合作新动向",
-          "stance": "中性（独家报道）",
-          "source_url": "https://www.reuters.com/world/china/under-patel-fbi-forges-unprecedented-law-enforcement-ties-with-china-russia-2026-08-05/",
-          "body_available": false,
-          "sentiment": "neutral",
-          "is_negative": false,
-          "provenance": {
-            "retrieved_via": "联网检索聚合",
-            "evidence_url": "https://www.reuters.com/world/china/under-patel-fbi-forges-unprecedented-law-enforcement-ties-with-china-russia-2026-08-05/",
-            "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-          }
-        },
-        {
-          "id": "20260806-reuters-taiwan-war-games",
-          "media": "Reuters",
-          "media_zh": "路透社",
-          "title_en": "Taiwan launches major war games to test command flexibility",
-          "title_zh": "台湾启动大型军演以测试指挥临机应变能力",
-          "published_at": "2026-08-06",
-          "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
-          "topics": [
-            "台海",
-            "军事",
-            "区域安全"
-          ],
-          "importance": "high",
-          "summary_zh": "路透报道：台湾于周三启动大型军事演习，测试指挥官在敌情突变时的临机应变能力，并首次临时限制网络访问。",
-          "china_angle": "台海军事动态",
-          "stance": "中性（军事报道）",
-          "source_url": "https://www.reuters.com/world/china/taiwan-launches-major-war-games-test-command-flexibility-2026-08-05/",
-          "body_available": false,
-          "sentiment": "neutral",
-          "is_negative": false,
-          "provenance": {
-            "retrieved_via": "联网检索聚合",
-            "evidence_url": "https://www.reuters.com/world/china/taiwan-launches-major-war-games-test-command-flexibility-2026-08-05/",
-            "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-          }
-        },
-        {
-          "id": "20260806-reuters-kim-yojong-japan",
-          "media": "Reuters",
-          "media_zh": "路透社",
-          "title_en": "North Korea's Kim Yo Jong warns of new military options over Japan's strike capabilities",
-          "title_zh": "金与正就日本试射美制战斧巡航导弹警告将采取「额外军事选项」",
-          "published_at": "2026-08-06",
-          "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
-          "topics": [
-            "朝鲜",
-            "中日关系",
-            "区域安全",
-            "导弹"
-          ],
-          "importance": "high",
-          "summary_zh": "路透援引朝中社报道：金与正就日本试射美制战斧巡航导弹提出警告，称将采取「额外军事选项」回应日本军事化转向。",
-          "china_angle": "东北亚安全态势",
-          "stance": "中性（援引报道）",
-          "source_url": "https://www.reuters.com/world/china/kim-yo-jong-criticises-japans-tomahawk-missile-test-kcna-reports-2026-08-04/",
-          "body_available": false,
-          "sentiment": "neutral",
-          "is_negative": false,
-          "provenance": {
-            "retrieved_via": "联网检索聚合",
-            "evidence_url": "https://www.reuters.com/world/china/kim-yo-jong-criticises-japans-tomahawk-missile-test-kcna-reports-2026-08-04/",
-            "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-          }
-        },
         {
           "id": "20260806-reuters-china-developers-abs-return",
           "media": "Reuters",
@@ -149,129 +57,6 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索(本机代理127.0.0.1:17891未启用，退回纯检索)",
             "evidence_url": "https://www.newslocker.com/en-uk/profession/financial/chinese-developers-come-home-to-asset-backed-securitisation",
             "evidence_note": "经 newslocker 转载路透电头全文(HONG KONG, August 6 (Reuters))抓取导语与核心事实；记者署名经检索未获，保留 not_available。补充数据(中指研究院1221亿、世茂展期、瑞安56亿获批)来自同主题公开报道交叉印证。"
-          }
-        },
-        {
-          "id": "20260806-reuters-asia-shares-iran-talks",
-          "media": "Reuters",
-          "media_zh": "路透社",
-          "title_en": "Asia shares ease on tech pullback, oil stable as Iran talks stay in focus",
-          "title_zh": "亚太股市因科技股回调走软，伊朗和谈前景下油价持稳",
-          "published_at": "2026-08-06",
-          "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
-          "topics": [
-            "全球市场",
-            "原油",
-            "中东局势",
-            "科技股"
-          ],
-          "importance": "medium",
-          "summary_zh": "路透市场综述：周四亚太股市在上一日AI驱动上涨后暂作喘息，油价随伊朗和谈前景维持区间震荡，市场评估伊朗和平协议的可能性。",
-          "china_angle": "全球风险情绪与中国市场联动",
-          "stance": "中性（市场综述）",
-          "source_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-06/",
-          "body_available": false,
-          "sentiment": "neutral",
-          "is_negative": false,
-          "provenance": {
-            "retrieved_via": "联网检索聚合",
-            "evidence_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-06/",
-            "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-          }
-        },
-        {
-          "id": "20260806-reuters-defence-regulator-10y",
-          "media": "Reuters",
-          "media_zh": "路透社",
-          "title_en": "China sentences former defence industry regulator to 10 years for graft, influence peddling",
-          "title_zh": "中国一前国防工业监管官员因贪腐与影响力交易获刑10年",
-          "published_at": "2026-08-06",
-          "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
-          "topics": [
-            "反腐",
-            "国防工业",
-            "司法"
-          ],
-          "importance": "medium",
-          "summary_zh": "路透报道：一名中国前国防工业监管官员因受贿罪与影响力交易被判有期徒刑10年。",
-          "china_angle": "中国国防工业领域反腐",
-          "stance": "中性（司法报道）",
-          "source_url": "https://www.reuters.com/legal/litigation/china-sentences-former-defence-industry-regulator-10-years-graft-influence-2026-08-05/",
-          "body_available": false,
-          "sentiment": "neutral",
-          "is_negative": false,
-          "provenance": {
-            "retrieved_via": "联网检索聚合",
-            "evidence_url": "https://www.reuters.com/legal/litigation/china-sentences-former-defence-industry-regulator-10-years-graft-influence-2026-08-05/",
-            "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-          }
-        },
-        {
-          "id": "20260806-reuters-foxconn-july-record",
-          "media": "Reuters",
-          "media_zh": "路透社",
-          "title_en": "AI demand pushes Foxconn's monthly revenue to record in July",
-          "title_zh": "AI需求拉动鸿海7月营收创单月历史新高",
-          "published_at": "2026-08-06",
-          "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
-          "topics": [
-            "科技制造",
-            "AI需求",
-            "财报",
-            "台企"
-          ],
-          "importance": "medium",
-          "summary_zh": "路透报道：受人工智能服务器需求拉动，鸿海（Foxconn）7月营收创下历史单月新高。",
-          "china_angle": "AI需求带动中国代工龙头",
-          "stance": "中性（财报报道）",
-          "source_url": "https://www.reuters.com/business/retail-consumer/foxconns-monthly-revenue-hits-record-july-ai-demand-2026-08-05/",
-          "body_available": false,
-          "sentiment": "neutral",
-          "is_negative": false,
-          "provenance": {
-            "retrieved_via": "联网检索聚合",
-            "evidence_url": "https://www.reuters.com/business/retail-consumer/foxconns-monthly-revenue-hits-record-july-ai-demand-2026-08-05/",
-            "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-          }
-        },
-        {
-          "id": "20260806-reuters-gm-saic-jv-renew",
-          "media": "Reuters",
-          "media_zh": "路透社",
-          "title_en": "GM renews China joint venture with SAIC for 20 years after restructuring",
-          "title_zh": "通用汽车与上汽续签中国合资协议20年",
-          "published_at": "2026-08-06",
-          "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
-          "topics": [
-            "汽车",
-            "中外合资",
-            "商业",
-            "出口"
-          ],
-          "importance": "medium",
-          "summary_zh": "路透报道：通用汽车与上汽集团续签中国合资协议20年，并将中国作为出口基地，以应对中国品牌在国内外市场的竞争。",
-          "china_angle": "跨国车企在华布局",
-          "stance": "中性（商业报道）",
-          "source_url": "https://www.reuters.com/business/autos-transportation/gm-renews-china-joint-venture-with-saic-20-years-after-restructuring-2026-08-05/",
-          "body_available": false,
-          "sentiment": "neutral",
-          "is_negative": false,
-          "provenance": {
-            "retrieved_via": "联网检索聚合",
-            "evidence_url": "https://www.reuters.com/business/autos-transportation/gm-renews-china-joint-venture-with-saic-20-years-after-restructuring-2026-08-05/",
-            "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
           }
         },
         {
@@ -698,14 +483,14 @@ window.__XFS_DATA__ = {
         }
       ],
       "daily_analysis": {
-        "total": 17,
+        "total": 10,
         "by_media": {
-          "路透社": 15,
+          "路透社": 8,
           "彭博社": 2
         },
         "sentiment_split": {
           "negative": 6,
-          "neutral": 10,
+          "neutral": 3,
           "positive": 1
         },
         "negatives": [
@@ -3880,237 +3665,15 @@ window.__XFS_DATA__ = {
         "evidence_note": "经 newslocker 转载路透电头全文(HONG KONG, August 6 (Reuters))抓取导语与核心事实；记者署名经检索未获，保留 not_available。补充数据(中指研究院1221亿、世茂展期、瑞安56亿获批)来自同主题公开报道交叉印证。"
       },
       "_day": "2026-08-06"
-    },
-    {
-      "id": "20260806-reuters-asia-shares-iran-talks",
-      "media": "Reuters",
-      "media_zh": "路透社",
-      "title_en": "Asia shares ease on tech pullback, oil stable as Iran talks stay in focus",
-      "title_zh": "亚太股市因科技股回调走软，伊朗和谈前景下油价持稳",
-      "published_at": "2026-08-06",
-      "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
-      "topics": [
-        "全球市场",
-        "原油",
-        "中东局势",
-        "科技股"
-      ],
-      "importance": "medium",
-      "summary_zh": "路透市场综述：周四亚太股市在上一日AI驱动上涨后暂作喘息，油价随伊朗和谈前景维持区间震荡，市场评估伊朗和平协议的可能性。",
-      "china_angle": "全球风险情绪与中国市场联动",
-      "stance": "中性（市场综述）",
-      "source_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-06/",
-      "body_available": false,
-      "sentiment": "neutral",
-      "is_negative": false,
-      "provenance": {
-        "retrieved_via": "联网检索聚合",
-        "evidence_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-06/",
-        "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-      },
-      "_day": "2026-08-06"
-    },
-    {
-      "id": "20260806-reuters-defence-regulator-10y",
-      "media": "Reuters",
-      "media_zh": "路透社",
-      "title_en": "China sentences former defence industry regulator to 10 years for graft, influence peddling",
-      "title_zh": "中国一前国防工业监管官员因贪腐与影响力交易获刑10年",
-      "published_at": "2026-08-06",
-      "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
-      "topics": [
-        "反腐",
-        "国防工业",
-        "司法"
-      ],
-      "importance": "medium",
-      "summary_zh": "路透报道：一名中国前国防工业监管官员因受贿罪与影响力交易被判有期徒刑10年。",
-      "china_angle": "中国国防工业领域反腐",
-      "stance": "中性（司法报道）",
-      "source_url": "https://www.reuters.com/legal/litigation/china-sentences-former-defence-industry-regulator-10-years-graft-influence-2026-08-05/",
-      "body_available": false,
-      "sentiment": "neutral",
-      "is_negative": false,
-      "provenance": {
-        "retrieved_via": "联网检索聚合",
-        "evidence_url": "https://www.reuters.com/legal/litigation/china-sentences-former-defence-industry-regulator-10-years-graft-influence-2026-08-05/",
-        "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-      },
-      "_day": "2026-08-06"
-    },
-    {
-      "id": "20260806-reuters-fbi-china-russia-ties",
-      "media": "Reuters",
-      "media_zh": "路透社",
-      "title_en": "Under Patel, FBI forges unprecedented law enforcement ties with China, Russia",
-      "title_zh": "路透独家：在Patel任内，FBI与中国、俄罗斯建立前所未有的执法合作关系",
-      "published_at": "2026-08-06",
-      "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
-      "topics": [
-        "中美关系",
-        "执法合作",
-        "地缘政治",
-        "俄罗斯"
-      ],
-      "importance": "high",
-      "summary_zh": "路透独家报道：在局长Kash Patel任内，美国联邦调查局（FBI）与中国、俄罗斯建立起前所未有的执法联系。",
-      "china_angle": "中美俄执法合作新动向",
-      "stance": "中性（独家报道）",
-      "source_url": "https://www.reuters.com/world/china/under-patel-fbi-forges-unprecedented-law-enforcement-ties-with-china-russia-2026-08-05/",
-      "body_available": false,
-      "sentiment": "neutral",
-      "is_negative": false,
-      "provenance": {
-        "retrieved_via": "联网检索聚合",
-        "evidence_url": "https://www.reuters.com/world/china/under-patel-fbi-forges-unprecedented-law-enforcement-ties-with-china-russia-2026-08-05/",
-        "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-      },
-      "_day": "2026-08-06"
-    },
-    {
-      "id": "20260806-reuters-foxconn-july-record",
-      "media": "Reuters",
-      "media_zh": "路透社",
-      "title_en": "AI demand pushes Foxconn's monthly revenue to record in July",
-      "title_zh": "AI需求拉动鸿海7月营收创单月历史新高",
-      "published_at": "2026-08-06",
-      "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
-      "topics": [
-        "科技制造",
-        "AI需求",
-        "财报",
-        "台企"
-      ],
-      "importance": "medium",
-      "summary_zh": "路透报道：受人工智能服务器需求拉动，鸿海（Foxconn）7月营收创下历史单月新高。",
-      "china_angle": "AI需求带动中国代工龙头",
-      "stance": "中性（财报报道）",
-      "source_url": "https://www.reuters.com/business/retail-consumer/foxconns-monthly-revenue-hits-record-july-ai-demand-2026-08-05/",
-      "body_available": false,
-      "sentiment": "neutral",
-      "is_negative": false,
-      "provenance": {
-        "retrieved_via": "联网检索聚合",
-        "evidence_url": "https://www.reuters.com/business/retail-consumer/foxconns-monthly-revenue-hits-record-july-ai-demand-2026-08-05/",
-        "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-      },
-      "_day": "2026-08-06"
-    },
-    {
-      "id": "20260806-reuters-taiwan-war-games",
-      "media": "Reuters",
-      "media_zh": "路透社",
-      "title_en": "Taiwan launches major war games to test command flexibility",
-      "title_zh": "台湾启动大型军演以测试指挥临机应变能力",
-      "published_at": "2026-08-06",
-      "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
-      "topics": [
-        "台海",
-        "军事",
-        "区域安全"
-      ],
-      "importance": "high",
-      "summary_zh": "路透报道：台湾于周三启动大型军事演习，测试指挥官在敌情突变时的临机应变能力，并首次临时限制网络访问。",
-      "china_angle": "台海军事动态",
-      "stance": "中性（军事报道）",
-      "source_url": "https://www.reuters.com/world/china/taiwan-launches-major-war-games-test-command-flexibility-2026-08-05/",
-      "body_available": false,
-      "sentiment": "neutral",
-      "is_negative": false,
-      "provenance": {
-        "retrieved_via": "联网检索聚合",
-        "evidence_url": "https://www.reuters.com/world/china/taiwan-launches-major-war-games-test-command-flexibility-2026-08-05/",
-        "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-      },
-      "_day": "2026-08-06"
-    },
-    {
-      "id": "20260806-reuters-gm-saic-jv-renew",
-      "media": "Reuters",
-      "media_zh": "路透社",
-      "title_en": "GM renews China joint venture with SAIC for 20 years after restructuring",
-      "title_zh": "通用汽车与上汽续签中国合资协议20年",
-      "published_at": "2026-08-06",
-      "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
-      "topics": [
-        "汽车",
-        "中外合资",
-        "商业",
-        "出口"
-      ],
-      "importance": "medium",
-      "summary_zh": "路透报道：通用汽车与上汽集团续签中国合资协议20年，并将中国作为出口基地，以应对中国品牌在国内外市场的竞争。",
-      "china_angle": "跨国车企在华布局",
-      "stance": "中性（商业报道）",
-      "source_url": "https://www.reuters.com/business/autos-transportation/gm-renews-china-joint-venture-with-saic-20-years-after-restructuring-2026-08-05/",
-      "body_available": false,
-      "sentiment": "neutral",
-      "is_negative": false,
-      "provenance": {
-        "retrieved_via": "联网检索聚合",
-        "evidence_url": "https://www.reuters.com/business/autos-transportation/gm-renews-china-joint-venture-with-saic-20-years-after-restructuring-2026-08-05/",
-        "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-      },
-      "_day": "2026-08-06"
-    },
-    {
-      "id": "20260806-reuters-kim-yojong-japan",
-      "media": "Reuters",
-      "media_zh": "路透社",
-      "title_en": "North Korea's Kim Yo Jong warns of new military options over Japan's strike capabilities",
-      "title_zh": "金与正就日本试射美制战斧巡航导弹警告将采取「额外军事选项」",
-      "published_at": "2026-08-06",
-      "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
-      "topics": [
-        "朝鲜",
-        "中日关系",
-        "区域安全",
-        "导弹"
-      ],
-      "importance": "high",
-      "summary_zh": "路透援引朝中社报道：金与正就日本试射美制战斧巡航导弹提出警告，称将采取「额外军事选项」回应日本军事化转向。",
-      "china_angle": "东北亚安全态势",
-      "stance": "中性（援引报道）",
-      "source_url": "https://www.reuters.com/world/china/kim-yo-jong-criticises-japans-tomahawk-missile-test-kcna-reports-2026-08-04/",
-      "body_available": false,
-      "sentiment": "neutral",
-      "is_negative": false,
-      "provenance": {
-        "retrieved_via": "联网检索聚合",
-        "evidence_url": "https://www.reuters.com/world/china/kim-yo-jong-criticises-japans-tomahawk-missile-test-kcna-reports-2026-08-04/",
-        "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-      },
-      "_day": "2026-08-06"
     }
   ],
   "archive": {
     "days_count": 2,
     "first_day": "2026-08-04",
     "last_day": "2026-08-06",
-    "total_articles": 52,
+    "total_articles": 45,
     "by_media": {
-      "路透社": 47,
+      "路透社": 40,
       "彭博社": 5
     },
     "by_topic": {
@@ -4135,16 +3698,12 @@ window.__XFS_DATA__ = {
       "中欧关系": 2,
       "稳增长政策": 2,
       "资本市场": 2,
-      "出口": 2,
       "能源安全": 2,
       "红海航运": 2,
-      "中东局势": 2,
       "FCC": 2,
       "太阳能": 2,
       "多晶硅": 2,
       "Section 232": 2,
-      "中日关系": 2,
-      "区域安全": 2,
       "知识产权": 1,
       "涉疆议题": 1,
       "制裁": 1,
@@ -4170,9 +3729,11 @@ window.__XFS_DATA__ = {
       "制造业PMI": 1,
       "调查": 1,
       "外贸": 1,
+      "出口": 1,
       "AI产业链": 1,
       "GDP": 1,
       "结构性失衡": 1,
+      "中东局势": 1,
       "中东外交": 1,
       "区域经济": 1,
       "高技术制造": 1,
@@ -4195,33 +3756,13 @@ window.__XFS_DATA__ = {
       "保诚": 1,
       "汇丰": 1,
       "渣打": 1,
+      "中日关系": 1,
       "防卫白皮书": 1,
       "AI价格战": 1,
       "开源模型": 1,
       "房地产": 1,
       "资产证券化": 1,
-      "融资": 1,
-      "全球市场": 1,
-      "原油": 1,
-      "科技股": 1,
-      "反腐": 1,
-      "国防工业": 1,
-      "司法": 1,
-      "中美关系": 1,
-      "执法合作": 1,
-      "地缘政治": 1,
-      "俄罗斯": 1,
-      "科技制造": 1,
-      "AI需求": 1,
-      "财报": 1,
-      "台企": 1,
-      "台海": 1,
-      "军事": 1,
-      "汽车": 1,
-      "中外合资": 1,
-      "商业": 1,
-      "朝鲜": 1,
-      "导弹": 1
+      "融资": 1
     },
     "sentiment_trend": [
       {
@@ -4233,7 +3774,7 @@ window.__XFS_DATA__ = {
       {
         "date": "2026-08-06",
         "negative": 6,
-        "neutral": 10,
+        "neutral": 3,
         "positive": 1
       }
     ],
@@ -4923,22 +4464,6 @@ window.__XFS_DATA__ = {
           "2026-08-04",
           "2026-08-06"
         ]
-      },
-      {
-        "topic": "出口",
-        "count": 2,
-        "days": [
-          "2026-08-04",
-          "2026-08-06"
-        ]
-      },
-      {
-        "topic": "中东局势",
-        "count": 2,
-        "days": [
-          "2026-08-04",
-          "2026-08-06"
-        ]
       }
     ],
     "important_negatives": [
@@ -5089,18 +4614,18 @@ window.__XFS_DATA__ = {
     ],
     "penetration": {
       "运行天数": 2,
-      "累计报道": 52,
-      "覆盖议题": 108,
+      "累计报道": 45,
+      "覆盖议题": 86,
       "覆盖信源": 157,
       "负面累计": 18
     }
   },
   "stats": {
-    "total": 52,
+    "total": 45,
     "days": 2,
     "negatives": 18,
     "with_author": 27,
     "with_body": 16,
     "with_sources": 39
   }
-};
+}
