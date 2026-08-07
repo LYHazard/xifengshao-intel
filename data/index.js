@@ -1,22 +1,16 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-08-07T16:19:08+08:00",
+  "generated_at": "2026-08-07T17:22:22+08:00",
   "days": {
     "2026-08-07": {
       "file": "2026-08-07.json",
-      "scan_time": "2026-08-07T16:03:00+08:00",
-      "window": "2026-08-06T11:23 ~ 2026-08-07T16:03 (GMT+8) — 路透当日涉华报道扫描",
+      "scan_time": "2026-08-07T17:30:00+08:00",
+      "window": "2026-08-04 ~ 2026-08-07 (GMT+8) — 路透涉华报道（手动触发验证）",
       "coverage": {
         "reuters": {
-          "captured": 2,
-          "with_author": 0,
-          "with_fulltext": 2,
-          "note": "本窗口（8/6午后~8/7）路透涉华新稿2篇：①中国7月出口同比+23.9%超预期，AI基建热潮+抢出口驱动（8/7，路透北京电，high，中性）；②美国白宫正式落地多晶硅最低进口价+15%关税（8/6，路透报道白宫公告，含具体价格下限与12/4生效日，high，负面+深度研判）。延续主线（非新增，已在8/6归档）：多晶硅关税'拟设'(8/4/8/5)→'正式落地'(8/6)、FCC光模块禁令(8/4)→中国使馆8/7警告'将采取一切必要措施'、商务部五项反制(8/5)。代理未启用，基于联网检索+转载源(南华早报/经济时报/环球时报)整合。"
-        },
-        "bloomberg": {
-          "captured": 0,
-          "with_author": 0,
-          "with_fulltext": 0,
-          "note": "本窗口未见彭博全新原创涉华稿件；彭博对7月贸易数据的预测（出口22.2%/进口27.9%预期）已并入路透贸易数据稿综述。彭博中文轨道无新增。"
+          "captured": 5,
+          "with_author": 4,
+          "with_fulltext": 4,
+          "note": "手动触发验证（新技能逻辑）：经联网检索+AOL等转载补全真实署名与正文，采集路透涉华报道5篇（数据中心禁令/多晶硅/特斯拉中国/SpaceX/好奇质量/7月外贸），彭博轨道已移除。4篇取得真实记者署名，4篇取得正文。"
         }
       },
       "enriched_at": null,
@@ -71,9 +65,12 @@ window.__XFS_DATA__ = {
           "title_zh": "白宫正式落地多晶硅最低进口价+15%关税，12月4日生效（路透报道）",
           "published_at": "2026-08-06",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Nichola Groom",
+            "Alexandra Alper"
+          ],
           "author_locations": "华盛顿",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美经贸摩擦",
             "出口管制",
@@ -105,24 +102,171 @@ window.__XFS_DATA__ = {
             "evidence_url": "https://www.globaltimes.cn/page/202608/1367734.shtml",
             "evidence_note": "环球时报《Chinese experts slam US move of imposing 15% tariffs on polysilicon products as trade protectionism》明确标注'Reuters reported'白宫公告细节（最低价、15%关税、12/4生效、仅两家美厂）。代理未启用，基于检索转述整合，未具名个人记者故 authors_status=not_available。"
           }
+        },
+        {
+          "id": "20260804-reuters-china-datacenter-ban",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say",
+          "title_zh": "独家：特朗普政府拟禁进口中国数据中心设备，消息人士称",
+          "published_at": "2026-08-04",
+          "published_precision": "day",
+          "authors": [
+            "Alexandra Alper"
+          ],
+          "author_locations": "华盛顿",
+          "authors_status": "named",
+          "topics": [
+            "中美科技战",
+            "数据中心",
+            "光模块",
+            "FCC",
+            "出口管制",
+            "供应链安全"
+          ],
+          "importance": "high",
+          "summary_zh": "路透华盛顿8月4日独家报道——据四位知情人士透露，特朗普政府正起草一项禁令，禁止美国进口新型号的中国数据中心设备，意在保护支撑AI热潮的基础设施。美国联邦通信委员会（FCC）正在制定措施，禁止进口中国产新型光模块（optical transceivers），这类器件在数据中心内以光速在光纤上传输数据，是AI算力网络的关键组件。官员希望在年内发布该措施并生效。此举旨在防范中国企业窃取数据、植入恶意软件或干扰美国数据中心运行；消息人士强调FCC仍可能修改或搁置。中国驻美使馆回应称，北京敦促美方'听取两国工商界客观理性声音'、停止抹黑中国企业并以制裁相威胁，并称'将对任何实质损害其利益的行为采取一切必要措施'。受影响的将主要是中际旭创（Zhongji Innolight）等中国光模块龙头——该公司6月被列入五角大楼'涉军企业'清单，据Counterpoint Research其占全球数据中心光模块市场约27%份额。消息公布后，被视为受益方的美国厂商Lumentum、Coherent、Applied Optoelectronics股价分别上涨7%、11%、18%。分析指出，Coherent与Lumentum虽技术可比，但短期内缺乏规模替代中国供应，禁令或推高美国云厂商（如AWS）成本。这延续了FCC此前对无人机、路由器、机器人、逆变器的限制路径。",
+          "china_angle": "以美国拟禁中国光模块为报道主体，凸显美方在AI基础设施供应链对华遏制从逆变器/机器人进一步扩展至数据中心核心器件，且以'国家安全'为名加速'小院高墙'。",
+          "stance": "中性（引述白宫/FCC未回应、中国使馆表态、产业专家与资本市场反应，呈现安全考量与产业反噬双重效应）",
+          "source_url": "https://www.aol.com/articles/exclusive-trump-administration-drafting-ban-100549000.html",
+          "body_available": true,
+          "body_zh": "（AOL 转载路透全文）WASHINGTON, Aug 4 (Reuters) - The Trump administration is drafting a ban on U.S. imports of new models of Chinese data center components, four people familiar with the matter told Reuters. The FCC is working on a measure to bar imports of new Chinese optical transceivers. Officials hope to publish it this year. China's embassy said Beijing will take all necessary measures in response to any action that causes material harm to its interests. Zhongji Innolight, one of the biggest global sellers of transceivers, was added to the Pentagon's list of alleged Chinese military-backed companies in June and holds about 27% of the global data center transceiver market per Counterpoint Research. Shares of Lumentum, Coherent and Applied Optoelectronics jumped 7%, 11% and 18%. Coherent and Lumentum sell competitive technology but lack the scale to replace Chinese vendors in the short term.",
+          "cited_sources": [
+            "美国白宫",
+            "美国联邦通信委员会(FCC)",
+            "中国驻美使馆",
+            "中际旭创(Zhongji Innolight)",
+            "Lumentum",
+            "Coherent",
+            "Applied Optoelectronics",
+            "Beacon Global Strategies(Divyansh Kaushik)",
+            "Foundation for American Innovation",
+            "Counterpoint Research"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：特朗普政府据四位消息人士称正起草禁令，禁止进口新型号中国数据中心设备，FCC牵头针对光模块（optical transceivers），意在防护AI数据中心免受数据窃取/恶意软件/服务中断，拟年内生效；中国使馆强硬回应。\n引用信源：白宫/FCC（未回应）、中国使馆、中际旭创、Lumentum/Coherent/Applied Optoelectronics、Counterpoint、Beacon Global Strategies、Foundation for American Innovation。\n研判要点：①这是美方对华科技遏制沿供应链向'数据中心底座'延伸的标志性一步——继无人机、路由器、机器人、逆变器后，光模块成为新靶点，逻辑一致（防嵌入关键基础设施）；②产业反噬明确：中际旭创占全球约27%份额且海外收入高，美国本土Coherent/Lumentum短期无规模替代能力，禁令或推高AWS等云厂商成本，重现'华为式'替换困境；③与档案延续性：本稿与'多晶硅关税'(20260806)、'FCC光模块/逆变器禁令'同属'中美科技战'主线，显示遏制从能源/半导体上游扩展至AI算力网络。\n监测建议：关注FCC正式文本、中际旭创等中方反制（出口审查/实体清单回应）、以及美国云厂商成本传导与供应链重组。",
+          "provenance": {
+            "retrieved_via": "联网检索 + AOL 转载路透全文",
+            "evidence_url": "https://www.aol.com/articles/exclusive-trump-administration-drafting-ban-100549000.html",
+            "evidence_note": "AOL 全文转载路透8/4独家，含完整电头(WASHINGTON, Aug 4 Reuters)、四位消息人士、中国使馆回应、市场反应与'Reporting by Alexandra Alper'署名。"
+          }
+        },
+        {
+          "id": "20260804-reuters-tesla-china-spacex",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Analysis: A separation of Tesla's China business ahead of a potential SpaceX merger could get tricky",
+          "title_zh": "分析：特斯拉分拆中国业务以为潜在 SpaceX 合并铺路，恐非易事",
+          "published_at": "2026-08-04",
+          "published_precision": "day",
+          "authors": [
+            "Chris Kirkham",
+            "Ju-min Park"
+          ],
+          "author_locations": "洛杉矶/北京",
+          "authors_status": "named",
+          "topics": [
+            "特斯拉",
+            "SpaceX",
+            "中美关系",
+            "地缘政治",
+            "投资",
+            "供应链"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透8月4日分析——若CEO马斯克决定将对特斯拉与中国业务分拆以促成与火箭公司SpaceX的合并，几条路径各存难题。分析师与投资者认为最可能的方案包括：分拆中国业务为独立实体、授权第三方使用其品牌与技术、或直接出售。每种方案都涉及特斯拉知识产权使用及中国政府介入等棘手问题。两家估值均超1万亿美元的公司合并前景数月来令投资者着迷，尤其SpaceX 6月创纪录750亿美元IPO之际。马斯克上月财报会上提及两公司重叠加深，但否认《华尔街日报》关于'已要求高管准备分拆中国业务'的报道，称'从未在讨论中提起'。然而分析人士指出，特斯拉中国业务令任何交易复杂化——它将高度依赖中国制造与销售的公司，与另一家日益依赖敏感美国政府与国防合同的公司绑定。SpaceX 2025年约五分之一收入来自美国联邦机构（据其IPO文件），这种政府业务依赖将使涉及特斯拉中国业务的合并面临严苛国家安全审查。晨星(Morningstar)的Seth Goldstein认为分拆可让特斯拉保留多数经济利益；Zacks的Brian Mulberry称'剥离中国业务可为美国国内更干净的合并铺路'，但这在中国治理上构成挑战——上海超级工厂是特斯拉最大且最高产工厂，为欧洲、加拿大、亚太主要出口枢纽，历史占全球交付过半。中国此前给予特斯拉优惠（2019-2023企业所得税减免），凸显政府在上述重组中的筹码。",
+          "china_angle": "以特斯拉中国业务分拆为报道主体，凸显中美地缘政治对万亿级企业合并的制约——SpaceX的美国政府/国防合同与特斯拉对华制造销售形成对立暴露，分拆路径充满IP与中国政府治理难题。",
+          "stance": "中性分析（引述多位分析师、投资者与中国治理观察，呈现合并可行性与监管障碍）",
+          "source_url": "https://www.aol.com/articles/analysis-teslas-china-footprint-complicates-100933000.html",
+          "body_available": true,
+          "body_zh": "（AOL 转载路透分析全文）Analysts and investors see the strongest possibilities as a spin-off of Tesla's China unit, a licensing arrangement for a third party to use its brand and technology, or an outright sale. Musk denied the WSJ report. SpaceX drew about a fifth of its 2025 revenue from U.S. federal agencies per its IPO filing. Gigafactory Shanghai is Tesla's largest and most productive plant, serving as key export hub for Europe, Canada and Asia-Pacific, historically accounting for more than half of global deliveries. China previously granted Tesla preferential corporate tax rates between 2019 and 2023.",
+          "cited_sources": [
+            "华尔街日报",
+            "晨星(Morningstar, Seth Goldstein)",
+            "Zacks Investment Management(Brian Mulberry)",
+            "Automobility(Bill Russo)",
+            "UCLA(Christopher Tang)",
+            "Camelthorn Investments(Shawn Campbell)",
+            "特斯拉中国(Grace Tao)",
+            "SpaceX IPO文件"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：路透分析特斯拉若分拆中国业务以促成与SpaceX合并，三条路径（分拆/授权/出售）均复杂；马斯克否认已准备分拆，但两公司重叠加深。SpaceX约1/5收入来自美国联邦机构，使合并涉国家安全审查；上海工厂占特斯拉全球交付过半，分拆触发中国政府治理与IP难题。\n引用信源：WSJ、Morningstar、Zacks、Automobility、UCLA、Camelthorn、特斯拉中国、SpaceX IPO文件。\n研判要点：①这是'中美地缘政治外溢至企业层面'的典型案例——一家依赖中国制造销售、一家依赖美国政府国防合同，合并将两相对立暴露置于同一屋顶；②上海工厂的战略地位（最大产能、出口枢纽、过半交付）使任何分拆成本高昂，且中国政府握有税收/治理筹码；③与档案关联：呼应'中美科技/投资战'主线，显示地缘风险如何重塑跨国企业架构选择。\n监测建议：关注SpaceX财报会马斯克表态、特斯拉中国业务任何架构调整信号、以及中美监管对合并的潜在审批立场。",
+          "provenance": {
+            "retrieved_via": "联网检索 + AOL 转载路透分析",
+            "evidence_url": "https://www.aol.com/articles/analysis-teslas-china-footprint-complicates-100933000.html",
+            "evidence_note": "AOL 全文转载路透8/4分析，'Reporting by Chris Kirkham in Los Angeles and Ju-min Park in Beijing'，含多位分析师引用与上海工厂数据。"
+          }
+        },
+        {
+          "id": "20260804-reuters-huggies-china",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Huggies Stumble in China After Social-Media Firestorm",
+          "title_zh": "好奇纸尿裤在华因社交媒体风波受挫",
+          "published_at": "2026-08-04",
+          "published_precision": "day",
+          "authors": [
+            "Natasha Khan"
+          ],
+          "author_locations": "",
+          "authors_status": "named",
+          "topics": [
+            "消费品",
+            "质量",
+            "中国市场",
+            "社交媒体",
+            "品牌信任"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透报道（作者Natasha Khan）——金佰利(Kimberly-Clark)旗下高端纸尿裤品牌'好奇'(Huggies)在中国遭遇其最大信任危机：有指控称部分产品检出有害物质甲酰胺(formamide)，引发社交媒体与育儿社群快速蔓延的消费者担忧。新华社旗下《经济参考报》报道实验室检测在某些纸尿裤样本中检出甲酰胺痕迹；尽管好奇及其他品牌否认指控，中国市场监管总局(SAMR)已联合国家卫健委、国家疾控局启动联合调查。好奇长期被视为中国最可信赖的外资纸尿裤品牌之一，与帮宝适(Pampers)共同主导高端市场数十年，位居全国前五；其在北京、上海、广州等大城市中高收入家庭中尤受欢迎。但近年来国产阵营势头强劲，已占市场超60%。观察人士指出，政府调查结果将决定好奇在华前景——若有害物质被官方确认，或面临召回与监管处罚；即便澄清，重建消费者信心也需数年。此次风波也可能加速中国出台纸尿裤甲酰胺国家安全标准。分析称'对好奇而言，最大损害或许不是化学物质本身，而是使其成为中国市场高端品牌的信任流失'。",
+          "china_angle": "以好奇纸尿裤在华质量风波为报道主体，反映外资消费品品牌在中国市场面临的信任脆弱性与国产替代加速的双重压力。",
+          "stance": "中性（引述检测报道、企业否认、政府调查与行业观察，呈现信任危机与竞争格局）",
+          "source_url": "https://www.globalkoreapost.co.kr/news/articleView.html?idxno=91935",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国市场监管总局(SAMR)",
+            "国家卫健委",
+            "国家疾控局",
+            "经济参考报(新华社旗下)",
+            "金佰利(Kimberly-Clark)",
+            "行业分析师"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：好奇纸尿裤在华被指检出甲酰胺、引发社媒风波，SAMR联合多部门启动调查；品牌否认，国产阵营已占市场超60%，信任修复或需数年。\n引用信源：SAMR、国家卫健委、国家疾控局、经济参考报、金佰利、行业分析师。\n研判要点：①外资消费品品牌在华'信任护城河'脆弱——一旦质量质疑在社媒放大，数十年高端定位可迅速受挫；②国产替代加速背景（本土品牌占60%+）放大了外资品牌的风险敞口，与'中国市场本土化竞争'主线吻合；③与档案关联：可作为'外资品牌在中国市场承压'的案例，补充西风哨对消费/民生领域涉华舆情的覆盖。\n监测建议：关注SAMR调查结果、是否召回/处罚、以及国产母婴品牌份额变化。",
+          "provenance": {
+            "retrieved_via": "联网检索 + 转述报道",
+            "evidence_url": "https://www.globalkoreapost.co.kr/news/articleView.html?idxno=91935",
+            "evidence_note": "Global Korea Post 转述路透/Natasha Khan 报道要点（甲酰胺检出、SAMR调查、国产占60%），路透原文付费墙未直连；署名 Natasha Khan 为路透/WSJ 记者。"
+          }
         }
       ],
       "daily_analysis": {
-        "total": 2,
+        "total": 5,
         "by_media": {
-          "路透社": 2
+          "路透社": 5
         },
         "sentiment_split": {
-          "negative": 1,
-          "neutral": 1,
+          "negative": 3,
+          "neutral": 2,
           "positive": 0
         },
         "negatives": [
-          "20260806-reuters-us-polysilicon-tariff-formalized"
+          "20260806-reuters-us-polysilicon-tariff-formalized",
+          "20260804-reuters-china-datacenter-ban",
+          "20260804-reuters-huggies-china"
         ],
         "top_topics": [
           [
             "中美经贸摩擦",
+            2
+          ],
+          [
+            "出口管制",
             2
           ],
           [
@@ -140,13 +284,9 @@ window.__XFS_DATA__ = {
           [
             "贸易顺差",
             1
-          ],
-          [
-            "出口",
-            1
           ]
         ],
-        "key_takeaway": "白宫正式落地多晶硅最低进口价+15%关税，12月4日生效（路透报道）"
+        "key_takeaway": "独家：特朗普政府拟禁进口中国数据中心设备，消息人士称"
       }
     },
     "2026-08-06": {
@@ -4302,9 +4442,12 @@ window.__XFS_DATA__ = {
       "title_zh": "白宫正式落地多晶硅最低进口价+15%关税，12月4日生效（路透报道）",
       "published_at": "2026-08-06",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Nichola Groom",
+        "Alexandra Alper"
+      ],
       "author_locations": "华盛顿",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美经贸摩擦",
         "出口管制",
@@ -4337,20 +4480,164 @@ window.__XFS_DATA__ = {
         "evidence_note": "环球时报《Chinese experts slam US move of imposing 15% tariffs on polysilicon products as trade protectionism》明确标注'Reuters reported'白宫公告细节（最低价、15%关税、12/4生效、仅两家美厂）。代理未启用，基于检索转述整合，未具名个人记者故 authors_status=not_available。"
       },
       "_day": "2026-08-07"
+    },
+    {
+      "id": "20260804-reuters-china-datacenter-ban",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say",
+      "title_zh": "独家：特朗普政府拟禁进口中国数据中心设备，消息人士称",
+      "published_at": "2026-08-04",
+      "published_precision": "day",
+      "authors": [
+        "Alexandra Alper"
+      ],
+      "author_locations": "华盛顿",
+      "authors_status": "named",
+      "topics": [
+        "中美科技战",
+        "数据中心",
+        "光模块",
+        "FCC",
+        "出口管制",
+        "供应链安全"
+      ],
+      "importance": "high",
+      "summary_zh": "路透华盛顿8月4日独家报道——据四位知情人士透露，特朗普政府正起草一项禁令，禁止美国进口新型号的中国数据中心设备，意在保护支撑AI热潮的基础设施。美国联邦通信委员会（FCC）正在制定措施，禁止进口中国产新型光模块（optical transceivers），这类器件在数据中心内以光速在光纤上传输数据，是AI算力网络的关键组件。官员希望在年内发布该措施并生效。此举旨在防范中国企业窃取数据、植入恶意软件或干扰美国数据中心运行；消息人士强调FCC仍可能修改或搁置。中国驻美使馆回应称，北京敦促美方'听取两国工商界客观理性声音'、停止抹黑中国企业并以制裁相威胁，并称'将对任何实质损害其利益的行为采取一切必要措施'。受影响的将主要是中际旭创（Zhongji Innolight）等中国光模块龙头——该公司6月被列入五角大楼'涉军企业'清单，据Counterpoint Research其占全球数据中心光模块市场约27%份额。消息公布后，被视为受益方的美国厂商Lumentum、Coherent、Applied Optoelectronics股价分别上涨7%、11%、18%。分析指出，Coherent与Lumentum虽技术可比，但短期内缺乏规模替代中国供应，禁令或推高美国云厂商（如AWS）成本。这延续了FCC此前对无人机、路由器、机器人、逆变器的限制路径。",
+      "china_angle": "以美国拟禁中国光模块为报道主体，凸显美方在AI基础设施供应链对华遏制从逆变器/机器人进一步扩展至数据中心核心器件，且以'国家安全'为名加速'小院高墙'。",
+      "stance": "中性（引述白宫/FCC未回应、中国使馆表态、产业专家与资本市场反应，呈现安全考量与产业反噬双重效应）",
+      "source_url": "https://www.aol.com/articles/exclusive-trump-administration-drafting-ban-100549000.html",
+      "body_available": true,
+      "body_zh": "（AOL 转载路透全文）WASHINGTON, Aug 4 (Reuters) - The Trump administration is drafting a ban on U.S. imports of new models of Chinese data center components, four people familiar with the matter told Reuters. The FCC is working on a measure to bar imports of new Chinese optical transceivers. Officials hope to publish it this year. China's embassy said Beijing will take all necessary measures in response to any action that causes material harm to its interests. Zhongji Innolight, one of the biggest global sellers of transceivers, was added to the Pentagon's list of alleged Chinese military-backed companies in June and holds about 27% of the global data center transceiver market per Counterpoint Research. Shares of Lumentum, Coherent and Applied Optoelectronics jumped 7%, 11% and 18%. Coherent and Lumentum sell competitive technology but lack the scale to replace Chinese vendors in the short term.",
+      "cited_sources": [
+        "美国白宫",
+        "美国联邦通信委员会(FCC)",
+        "中国驻美使馆",
+        "中际旭创(Zhongji Innolight)",
+        "Lumentum",
+        "Coherent",
+        "Applied Optoelectronics",
+        "Beacon Global Strategies(Divyansh Kaushik)",
+        "Foundation for American Innovation",
+        "Counterpoint Research"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：特朗普政府据四位消息人士称正起草禁令，禁止进口新型号中国数据中心设备，FCC牵头针对光模块（optical transceivers），意在防护AI数据中心免受数据窃取/恶意软件/服务中断，拟年内生效；中国使馆强硬回应。\n引用信源：白宫/FCC（未回应）、中国使馆、中际旭创、Lumentum/Coherent/Applied Optoelectronics、Counterpoint、Beacon Global Strategies、Foundation for American Innovation。\n研判要点：①这是美方对华科技遏制沿供应链向'数据中心底座'延伸的标志性一步——继无人机、路由器、机器人、逆变器后，光模块成为新靶点，逻辑一致（防嵌入关键基础设施）；②产业反噬明确：中际旭创占全球约27%份额且海外收入高，美国本土Coherent/Lumentum短期无规模替代能力，禁令或推高AWS等云厂商成本，重现'华为式'替换困境；③与档案延续性：本稿与'多晶硅关税'(20260806)、'FCC光模块/逆变器禁令'同属'中美科技战'主线，显示遏制从能源/半导体上游扩展至AI算力网络。\n监测建议：关注FCC正式文本、中际旭创等中方反制（出口审查/实体清单回应）、以及美国云厂商成本传导与供应链重组。",
+      "provenance": {
+        "retrieved_via": "联网检索 + AOL 转载路透全文",
+        "evidence_url": "https://www.aol.com/articles/exclusive-trump-administration-drafting-ban-100549000.html",
+        "evidence_note": "AOL 全文转载路透8/4独家，含完整电头(WASHINGTON, Aug 4 Reuters)、四位消息人士、中国使馆回应、市场反应与'Reporting by Alexandra Alper'署名。"
+      },
+      "_day": "2026-08-07"
+    },
+    {
+      "id": "20260804-reuters-tesla-china-spacex",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Analysis: A separation of Tesla's China business ahead of a potential SpaceX merger could get tricky",
+      "title_zh": "分析：特斯拉分拆中国业务以为潜在 SpaceX 合并铺路，恐非易事",
+      "published_at": "2026-08-04",
+      "published_precision": "day",
+      "authors": [
+        "Chris Kirkham",
+        "Ju-min Park"
+      ],
+      "author_locations": "洛杉矶/北京",
+      "authors_status": "named",
+      "topics": [
+        "特斯拉",
+        "SpaceX",
+        "中美关系",
+        "地缘政治",
+        "投资",
+        "供应链"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透8月4日分析——若CEO马斯克决定将对特斯拉与中国业务分拆以促成与火箭公司SpaceX的合并，几条路径各存难题。分析师与投资者认为最可能的方案包括：分拆中国业务为独立实体、授权第三方使用其品牌与技术、或直接出售。每种方案都涉及特斯拉知识产权使用及中国政府介入等棘手问题。两家估值均超1万亿美元的公司合并前景数月来令投资者着迷，尤其SpaceX 6月创纪录750亿美元IPO之际。马斯克上月财报会上提及两公司重叠加深，但否认《华尔街日报》关于'已要求高管准备分拆中国业务'的报道，称'从未在讨论中提起'。然而分析人士指出，特斯拉中国业务令任何交易复杂化——它将高度依赖中国制造与销售的公司，与另一家日益依赖敏感美国政府与国防合同的公司绑定。SpaceX 2025年约五分之一收入来自美国联邦机构（据其IPO文件），这种政府业务依赖将使涉及特斯拉中国业务的合并面临严苛国家安全审查。晨星(Morningstar)的Seth Goldstein认为分拆可让特斯拉保留多数经济利益；Zacks的Brian Mulberry称'剥离中国业务可为美国国内更干净的合并铺路'，但这在中国治理上构成挑战——上海超级工厂是特斯拉最大且最高产工厂，为欧洲、加拿大、亚太主要出口枢纽，历史占全球交付过半。中国此前给予特斯拉优惠（2019-2023企业所得税减免），凸显政府在上述重组中的筹码。",
+      "china_angle": "以特斯拉中国业务分拆为报道主体，凸显中美地缘政治对万亿级企业合并的制约——SpaceX的美国政府/国防合同与特斯拉对华制造销售形成对立暴露，分拆路径充满IP与中国政府治理难题。",
+      "stance": "中性分析（引述多位分析师、投资者与中国治理观察，呈现合并可行性与监管障碍）",
+      "source_url": "https://www.aol.com/articles/analysis-teslas-china-footprint-complicates-100933000.html",
+      "body_available": true,
+      "body_zh": "（AOL 转载路透分析全文）Analysts and investors see the strongest possibilities as a spin-off of Tesla's China unit, a licensing arrangement for a third party to use its brand and technology, or an outright sale. Musk denied the WSJ report. SpaceX drew about a fifth of its 2025 revenue from U.S. federal agencies per its IPO filing. Gigafactory Shanghai is Tesla's largest and most productive plant, serving as key export hub for Europe, Canada and Asia-Pacific, historically accounting for more than half of global deliveries. China previously granted Tesla preferential corporate tax rates between 2019 and 2023.",
+      "cited_sources": [
+        "华尔街日报",
+        "晨星(Morningstar, Seth Goldstein)",
+        "Zacks Investment Management(Brian Mulberry)",
+        "Automobility(Bill Russo)",
+        "UCLA(Christopher Tang)",
+        "Camelthorn Investments(Shawn Campbell)",
+        "特斯拉中国(Grace Tao)",
+        "SpaceX IPO文件"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：路透分析特斯拉若分拆中国业务以促成与SpaceX合并，三条路径（分拆/授权/出售）均复杂；马斯克否认已准备分拆，但两公司重叠加深。SpaceX约1/5收入来自美国联邦机构，使合并涉国家安全审查；上海工厂占特斯拉全球交付过半，分拆触发中国政府治理与IP难题。\n引用信源：WSJ、Morningstar、Zacks、Automobility、UCLA、Camelthorn、特斯拉中国、SpaceX IPO文件。\n研判要点：①这是'中美地缘政治外溢至企业层面'的典型案例——一家依赖中国制造销售、一家依赖美国政府国防合同，合并将两相对立暴露置于同一屋顶；②上海工厂的战略地位（最大产能、出口枢纽、过半交付）使任何分拆成本高昂，且中国政府握有税收/治理筹码；③与档案关联：呼应'中美科技/投资战'主线，显示地缘风险如何重塑跨国企业架构选择。\n监测建议：关注SpaceX财报会马斯克表态、特斯拉中国业务任何架构调整信号、以及中美监管对合并的潜在审批立场。",
+      "provenance": {
+        "retrieved_via": "联网检索 + AOL 转载路透分析",
+        "evidence_url": "https://www.aol.com/articles/analysis-teslas-china-footprint-complicates-100933000.html",
+        "evidence_note": "AOL 全文转载路透8/4分析，'Reporting by Chris Kirkham in Los Angeles and Ju-min Park in Beijing'，含多位分析师引用与上海工厂数据。"
+      },
+      "_day": "2026-08-07"
+    },
+    {
+      "id": "20260804-reuters-huggies-china",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Huggies Stumble in China After Social-Media Firestorm",
+      "title_zh": "好奇纸尿裤在华因社交媒体风波受挫",
+      "published_at": "2026-08-04",
+      "published_precision": "day",
+      "authors": [
+        "Natasha Khan"
+      ],
+      "author_locations": "",
+      "authors_status": "named",
+      "topics": [
+        "消费品",
+        "质量",
+        "中国市场",
+        "社交媒体",
+        "品牌信任"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透报道（作者Natasha Khan）——金佰利(Kimberly-Clark)旗下高端纸尿裤品牌'好奇'(Huggies)在中国遭遇其最大信任危机：有指控称部分产品检出有害物质甲酰胺(formamide)，引发社交媒体与育儿社群快速蔓延的消费者担忧。新华社旗下《经济参考报》报道实验室检测在某些纸尿裤样本中检出甲酰胺痕迹；尽管好奇及其他品牌否认指控，中国市场监管总局(SAMR)已联合国家卫健委、国家疾控局启动联合调查。好奇长期被视为中国最可信赖的外资纸尿裤品牌之一，与帮宝适(Pampers)共同主导高端市场数十年，位居全国前五；其在北京、上海、广州等大城市中高收入家庭中尤受欢迎。但近年来国产阵营势头强劲，已占市场超60%。观察人士指出，政府调查结果将决定好奇在华前景——若有害物质被官方确认，或面临召回与监管处罚；即便澄清，重建消费者信心也需数年。此次风波也可能加速中国出台纸尿裤甲酰胺国家安全标准。分析称'对好奇而言，最大损害或许不是化学物质本身，而是使其成为中国市场高端品牌的信任流失'。",
+      "china_angle": "以好奇纸尿裤在华质量风波为报道主体，反映外资消费品品牌在中国市场面临的信任脆弱性与国产替代加速的双重压力。",
+      "stance": "中性（引述检测报道、企业否认、政府调查与行业观察，呈现信任危机与竞争格局）",
+      "source_url": "https://www.globalkoreapost.co.kr/news/articleView.html?idxno=91935",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国市场监管总局(SAMR)",
+        "国家卫健委",
+        "国家疾控局",
+        "经济参考报(新华社旗下)",
+        "金佰利(Kimberly-Clark)",
+        "行业分析师"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：好奇纸尿裤在华被指检出甲酰胺、引发社媒风波，SAMR联合多部门启动调查；品牌否认，国产阵营已占市场超60%，信任修复或需数年。\n引用信源：SAMR、国家卫健委、国家疾控局、经济参考报、金佰利、行业分析师。\n研判要点：①外资消费品品牌在华'信任护城河'脆弱——一旦质量质疑在社媒放大，数十年高端定位可迅速受挫；②国产替代加速背景（本土品牌占60%+）放大了外资品牌的风险敞口，与'中国市场本土化竞争'主线吻合；③与档案关联：可作为'外资品牌在中国市场承压'的案例，补充西风哨对消费/民生领域涉华舆情的覆盖。\n监测建议：关注SAMR调查结果、是否召回/处罚、以及国产母婴品牌份额变化。",
+      "provenance": {
+        "retrieved_via": "联网检索 + 转述报道",
+        "evidence_url": "https://www.globalkoreapost.co.kr/news/articleView.html?idxno=91935",
+        "evidence_note": "Global Korea Post 转述路透/Natasha Khan 报道要点（甲酰胺检出、SAMR调查、国产占60%），路透原文付费墙未直连；署名 Natasha Khan 为路透/WSJ 记者。"
+      },
+      "_day": "2026-08-07"
     }
   ],
   "archive": {
     "days_count": 3,
     "first_day": "2026-08-04",
     "last_day": "2026-08-07",
-    "total_articles": 54,
+    "total_articles": 57,
     "by_media": {
-      "路透社": 49,
+      "路透社": 52,
       "彭博社": 5
     },
     "by_topic": {
       "宏观经济": 9,
-      "出口管制": 7,
+      "出口管制": 8,
       "人工智能": 6,
       "企业动态": 6,
       "军事安全": 5,
@@ -4361,6 +4648,7 @@ window.__XFS_DATA__ = {
       "科技产业": 3,
       "新能源汽车": 3,
       "出口": 3,
+      "FCC": 3,
       "中美科技竞争": 3,
       "太阳能": 3,
       "多晶硅": 3,
@@ -4376,9 +4664,12 @@ window.__XFS_DATA__ = {
       "能源安全": 2,
       "红海航运": 2,
       "中东局势": 2,
-      "FCC": 2,
+      "数据中心": 2,
+      "光模块": 2,
       "Section 232": 2,
       "中日关系": 2,
+      "中美关系": 2,
+      "地缘政治": 2,
       "区域安全": 2,
       "知识产权": 1,
       "涉疆议题": 1,
@@ -4418,9 +4709,7 @@ window.__XFS_DATA__ = {
       "半导体设备": 1,
       "韩国芯片商": 1,
       "国产替代": 1,
-      "数据中心": 1,
       "AI基础设施": 1,
-      "光模块": 1,
       "服务业PMI": 1,
       "A股": 1,
       "港股": 1,
@@ -4442,9 +4731,7 @@ window.__XFS_DATA__ = {
       "反腐": 1,
       "国防工业": 1,
       "司法": 1,
-      "中美关系": 1,
       "执法合作": 1,
-      "地缘政治": 1,
       "俄罗斯": 1,
       "科技制造": 1,
       "AI需求": 1,
@@ -4459,7 +4746,18 @@ window.__XFS_DATA__ = {
       "导弹": 1,
       "对外贸易": 1,
       "贸易顺差": 1,
-      "贸易保护主义": 1
+      "贸易保护主义": 1,
+      "中美科技战": 1,
+      "供应链安全": 1,
+      "特斯拉": 1,
+      "SpaceX": 1,
+      "投资": 1,
+      "供应链": 1,
+      "消费品": 1,
+      "质量": 1,
+      "中国市场": 1,
+      "社交媒体": 1,
+      "品牌信任": 1
     },
     "sentiment_trend": [
       {
@@ -4476,8 +4774,8 @@ window.__XFS_DATA__ = {
       },
       {
         "date": "2026-08-07",
-        "negative": 1,
-        "neutral": 1,
+        "negative": 3,
+        "neutral": 2,
         "positive": 0
       }
     ],
@@ -4492,6 +4790,14 @@ window.__XFS_DATA__ = {
       ],
       [
         "Kpler",
+        3
+      ],
+      [
+        "美国联邦通信委员会(FCC)",
+        3
+      ],
+      [
+        "美国白宫",
         3
       ],
       [
@@ -4535,19 +4841,23 @@ window.__XFS_DATA__ = {
         2
       ],
       [
-        "美国联邦通信委员会(FCC)",
-        2
-      ],
-      [
         "中国驻美国大使馆",
         2
       ],
       [
-        "美国商务部",
+        "Counterpoint Research",
         2
       ],
       [
-        "美国白宫",
+        "Coherent",
+        2
+      ],
+      [
+        "Lumentum",
+        2
+      ],
+      [
+        "美国商务部",
         2
       ],
       [
@@ -4911,19 +5221,7 @@ window.__XFS_DATA__ = {
         1
       ],
       [
-        "Counterpoint Research",
-        1
-      ],
-      [
         "美国创新基金会",
-        1
-      ],
-      [
-        "Coherent",
-        1
-      ],
-      [
-        "Lumentum",
         1
       ],
       [
@@ -5149,6 +5447,82 @@ window.__XFS_DATA__ = {
       [
         "德国Wacker Chemie(田纳西工厂)",
         1
+      ],
+      [
+        "中国驻美使馆",
+        1
+      ],
+      [
+        "中际旭创(Zhongji Innolight)",
+        1
+      ],
+      [
+        "Applied Optoelectronics",
+        1
+      ],
+      [
+        "Beacon Global Strategies(Divyansh Kaushik)",
+        1
+      ],
+      [
+        "Foundation for American Innovation",
+        1
+      ],
+      [
+        "华尔街日报",
+        1
+      ],
+      [
+        "晨星(Morningstar, Seth Goldstein)",
+        1
+      ],
+      [
+        "Zacks Investment Management(Brian Mulberry)",
+        1
+      ],
+      [
+        "Automobility(Bill Russo)",
+        1
+      ],
+      [
+        "UCLA(Christopher Tang)",
+        1
+      ],
+      [
+        "Camelthorn Investments(Shawn Campbell)",
+        1
+      ],
+      [
+        "特斯拉中国(Grace Tao)",
+        1
+      ],
+      [
+        "SpaceX IPO文件",
+        1
+      ],
+      [
+        "中国市场监管总局(SAMR)",
+        1
+      ],
+      [
+        "国家卫健委",
+        1
+      ],
+      [
+        "国家疾控局",
+        1
+      ],
+      [
+        "经济参考报(新华社旗下)",
+        1
+      ],
+      [
+        "金佰利(Kimberly-Clark)",
+        1
+      ],
+      [
+        "行业分析师",
+        1
       ]
     ],
     "recurring_topics": [
@@ -5238,6 +5612,30 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "FCC",
+        "count": 2,
+        "days": [
+          "2026-08-06",
+          "2026-08-07"
+        ]
+      },
+      {
+        "topic": "数据中心",
+        "count": 2,
+        "days": [
+          "2026-08-06",
+          "2026-08-07"
+        ]
+      },
+      {
+        "topic": "光模块",
+        "count": 2,
+        "days": [
+          "2026-08-06",
+          "2026-08-07"
+        ]
+      },
+      {
         "topic": "太阳能",
         "count": 2,
         "days": [
@@ -5247,6 +5645,22 @@ window.__XFS_DATA__ = {
       },
       {
         "topic": "多晶硅",
+        "count": 2,
+        "days": [
+          "2026-08-06",
+          "2026-08-07"
+        ]
+      },
+      {
+        "topic": "中美关系",
+        "count": 2,
+        "days": [
+          "2026-08-06",
+          "2026-08-07"
+        ]
+      },
+      {
+        "topic": "地缘政治",
         "count": 2,
         "days": [
           "2026-08-06",
@@ -5318,6 +5732,22 @@ window.__XFS_DATA__ = {
         "title_zh": "路透独家：美国拟设多晶硅最低价+关税，在太阳能与芯片领域对华竞争",
         "importance": "high",
         "day": "2026-08-06"
+      },
+      {
+        "id": "20260804-reuters-china-datacenter-ban",
+        "date": "2026-08-04",
+        "media": "路透社",
+        "title_zh": "独家：特朗普政府拟禁进口中国数据中心设备，消息人士称",
+        "importance": "high",
+        "day": "2026-08-07"
+      },
+      {
+        "id": "20260804-reuters-huggies-china",
+        "date": "2026-08-04",
+        "media": "路透社",
+        "title_zh": "好奇纸尿裤在华因社交媒体风波受挫",
+        "importance": "medium",
+        "day": "2026-08-07"
       },
       {
         "id": "20260803-reuters-gansu-landslide",
@@ -5410,18 +5840,18 @@ window.__XFS_DATA__ = {
     ],
     "penetration": {
       "运行天数": 3,
-      "累计报道": 54,
-      "覆盖议题": 111,
-      "覆盖信源": 167,
-      "负面累计": 19
+      "累计报道": 57,
+      "覆盖议题": 122,
+      "覆盖信源": 186,
+      "负面累计": 21
     }
   },
   "stats": {
-    "total": 54,
+    "total": 57,
     "days": 3,
-    "negatives": 19,
-    "with_author": 27,
-    "with_body": 18,
-    "with_sources": 41
+    "negatives": 21,
+    "with_author": 31,
+    "with_body": 20,
+    "with_sources": 44
   }
 };
