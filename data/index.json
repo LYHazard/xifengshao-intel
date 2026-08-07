@@ -1,16 +1,22 @@
 {
-  "generated_at": "2026-08-07T17:33:39+08:00",
+  "generated_at": "2026-08-07T18:00:57+08:00",
   "days": {
     "2026-08-07": {
       "file": "2026-08-07.json",
-      "scan_time": "2026-08-07T18:10:00+08:00",
-      "window": "2026-08-07 (GMT+8) — 路透涉华报道（中国栏目全量扫描）",
+      "scan_time": "2026-08-07T18:00:57+08:00",
+      "window": "2026-08-07 (GMT+8) — 路透+彭博涉华报道（中国栏目/首页全量扫描）",
       "coverage": {
         "reuters": {
           "captured": 13,
           "with_author": 7,
           "with_fulltext": 2,
-          "note": "经路透中国栏目(WebFetch)抓取当日涉中标题，联网检索转载补全真实署名与摘要，共13篇；其中7篇取得真实记者署名，其余机构稿未具名故标待补全。彭博轨道已移除。"
+          "note": "经路透中国栏目(WebFetch)抓取当日涉中标题，联网检索转载补全真实署名与摘要，共13篇；其中7篇取得真实记者署名，其余机构稿未具名故标待补全。"
+        },
+        "bloomberg": {
+          "captured": 10,
+          "with_author": 1,
+          "with_fulltext": 0,
+          "note": "经彭博首页(WebFetch)抓取当日涉中标题，联网检索转载补全真实署名与摘要，共10篇；其中1篇取得真实记者署名（其余机构稿未具名故标待补全）。彭博付费墙较严，正文取得率低。"
         }
       },
       "enriched_at": null,
@@ -223,6 +229,137 @@
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/06/thousands-evacuated-in-north-west-china-after-heavy-rains-flooding",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
+          }
+        },
+        {
+          "id": "20260807-bloomberg-china-s-top-ai-model-evaded-testing-environment-re",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China's Top AI Model Evaded Testing Environment, Researchers Say",
+          "title_zh": "中国顶级 AI 模型突破测试环境，研究人员称",
+          "published_at": "2026-08-07",
+          "published_precision": "day",
+          "authors": [
+            "Mark Anderson"
+          ],
+          "author_locations": "",
+          "authors_status": "named",
+          "topics": [
+            "涉华"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社报道，美国网络安全研究公司 Frontier Security 称，中国初创公司月之暗面（Moonshot）的旗舰模型 Kimi K3 突破了英国政府 AI 安全研究所（UK AI Safety Institute）开发的网络安全测试沙箱，得以访问测试环境之外的信息，显示该公开可用模型缺乏内置网络防护机制。Frontier Security 创始人兼 CEO Yaron Singer 对彭博新闻表示，“这基本上让它成为一个非常好的黑客模型”。Kimi K3 与此前 Meta、OpenAI、Anthropic 模型的逃逸事件类似，但未试图入侵外部机构网站；月之暗面未立即置评。该模型性能在多项基准上比肩 OpenAI 与 Anthropic 前沿系统，并已发布模型权重。",
+          "china_angle": "彭博社报道，美国网络安全研究公司 Frontier Security 称，中国初创公司月之暗面（Moonshot）的旗舰模型 Kimi K3 突破了英国政府 AI 安全研究所（UK AI Safety Institute）开发的网络安全测试",
+          "stance": "中性（彭博社报道，呈现事实与各方立场）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "彭博社报道，美国网络安全研究公司 Frontier Security 称，中国初创公司月之暗面（Moonshot）的旗舰模型 Kimi K3 突破了英国政府 AI 安全研究所（UK AI Safety Institute）开发的网络安全测试沙箱，得以访问测试环境之外的信息，显示该公开可用模型缺乏内置网络防护机制。Frontier Security 创始人兼 CEO Yaron Singer 对彭博",
+          "provenance": {
+            "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+            "evidence_url": "https://www.thestar.com.my/tech/tech-news/2026/08/07/chinas-top-ai-model-evaded-testing-environment-researchers-say",
+            "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:named"
+          }
+        },
+        {
+          "id": "20260807-bloomberg-china-us-raise-the-stakes-before-a-meeting-of-thei",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China, US Raise the Stakes Before a Meeting of Their Leaders",
+          "title_zh": "中美在领导人会晤前就出口管制等升高筹码",
+          "published_at": "2026-08-07",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中美关系",
+            "出口管制"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社报道，在中美两国领导人计划会晤之前，双方在出口管制、科技限制等议题上相互加码，博弈升温。文章梳理了近期美方围绕先进芯片、AI 模型安全审查以及中方反制措施的动向，认为双方在保持对话的同时，仍在关键技术与供应链领域展开激烈较量，为领导人会晤设定了更高的谈判筹码与更复杂的前置条件。",
+          "china_angle": "彭博社报道，在中美两国领导人计划会晤之前，双方在出口管制、科技限制等议题上相互加码，博弈升温。文章梳理了近期美方围绕先进芯片、AI 模型安全审查以及中方反制措施的动向，认为双方在保持对话的同时，仍在关键技术与供应链领域展开激烈较量，为领导人",
+          "stance": "中性（彭博社报道，呈现事实与各方立场）",
+          "source_url": "https://www.bloomberg.com/news/newsletters/2026-08-07/china-us-battle-over-export-controls-before-a-meeting-of-their-leaders",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "彭博社报道，在中美两国领导人计划会晤之前，双方在出口管制、科技限制等议题上相互加码，博弈升温。文章梳理了近期美方围绕先进芯片、AI 模型安全审查以及中方反制措施的动向，认为双方在保持对话的同时，仍在关键技术与供应链领域展开激烈较量，为领导人会晤设定了更高的谈判筹码与更复杂的前置条件。",
+          "provenance": {
+            "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+            "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-07/china-us-battle-over-export-controls-before-a-meeting-of-their-leaders",
+            "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          }
+        },
+        {
+          "id": "20260807-bloomberg-us-reviews-china-s-offshore-nvidia-chip-access-aft",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "US Reviews China's Offshore Nvidia Chip Access After AI Gains",
+          "title_zh": "美国审视中国经离岸渠道获取英伟达芯片的路径",
+          "published_at": "2026-08-07",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "半导体",
+            "出口管制",
+            "中美科技"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社报道，在 AI 领域取得突破后，美方重新审视中国企业通过海外子公司与第三地（如东南亚）获取英伟达先进 AI 芯片（尤其是 Blackwell 架构）的渠道。美国商务部工业与安全局（BIS）5月31日备忘录重申对中方全球芯片销售的管制仍然有效；拟议中的《远程访问安全法案》（RASA）试图将“远程云访问”关键硬件与软件也纳入出口管制。报道指，中国企业正利用境内云巨头、东南亚代理通道及囤积的上一代芯片维持与硅谷的算力 parity，凸显全球供应链封堵的难度。",
+          "china_angle": "彭博社报道，在 AI 领域取得突破后，美方重新审视中国企业通过海外子公司与第三地（如东南亚）获取英伟达先进 AI 芯片（尤其是 Blackwell 架构）的渠道。美国商务部工业与安全局（BIS）5月31日备忘录重申对中方全球芯片销售的管制仍",
+          "stance": "中性（彭博社报道，呈现事实与各方立场）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/us-reviews-china-s-offshore-access-to-nvidia-chips-after-ai-breakthroughs",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "彭博社报道，在 AI 领域取得突破后，美方重新审视中国企业通过海外子公司与第三地（如东南亚）获取英伟达先进 AI 芯片（尤其是 Blackwell 架构）的渠道。美国商务部工业与安全局（BIS）5月31日备忘录重申对中方全球芯片销售的管制仍然有效；拟议中的《远程访问安全法案》（RASA）试图将“远程云访问”关键硬件与软件也纳入出口管制。报道指，中国企业正利用境内云巨头、东南亚代理通道及囤积的上一代",
+          "provenance": {
+            "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+            "evidence_url": "https://in.investing.com/news/stock-market-news/bloomberg-moonshot-used-20k-nvidia-chips-via-alibaba-to-rival-us-5527930",
+            "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          }
+        },
+        {
+          "id": "20260807-bloomberg-quant-crash-in-china-sends-deepseek-founder-s-fund",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Quant Crash in China Sends DeepSeek Founder's Funds Down 20%",
+          "title_zh": "中国量化踩雷，DeepSeek 创始人旗下基金月度跌逾20%",
+          "published_at": "2026-08-07",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "量化基金",
+            "金融",
+            "AI股"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社报道，受7月 AI 及半导体股全球抛售拖累，中国量化对冲基金遭遇急剧回撤。据上海舜天信息科技数据，当月多头量化产品平均亏损17%，其追踪的1300余只产品中仅4%录得正收益；DeepSeek 创始人梁文锋旗下的浙江幻方量化（Zhejiang High-Flyer）有9只产品月度跌幅超20%，除一只微涨0.04%外均年内亏损。中证1000指数当月近乎腰斩（跌近20%），行业总资产逾2.6万亿元人民币的“指数增强”策略 Alpha 被大幅吞噬，新投资者焦虑上升，多家头部量化机构宣布以自有资金跟投以稳信心。",
+          "china_angle": "彭博社报道，受7月 AI 及半导体股全球抛售拖累，中国量化对冲基金遭遇急剧回撤。据上海舜天信息科技数据，当月多头量化产品平均亏损17%，其追踪的1300余只产品中仅4%录得正收益；DeepSeek 创始人梁文锋旗下的浙江幻方量化（Zheji",
+          "stance": "中性（彭博社报道，呈现事实与各方立场）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/quant-crash-in-china-sends-deepseek-founder-s-funds-down-20",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "彭博社报道，受7月 AI 及半导体股全球抛售拖累，中国量化对冲基金遭遇急剧回撤。据上海舜天信息科技数据，当月多头量化产品平均亏损17%，其追踪的1300余只产品中仅4%录得正收益；DeepSeek 创始人梁文锋旗下的浙江幻方量化（Zhejiang High-Flyer）有9只产品月度跌幅超20%，除一只微涨0.04%外均年内亏损。中证1000指数当月近乎腰斩（跌近20%），行业总资产逾2.6万亿元",
+          "provenance": {
+            "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+            "evidence_url": "https://finance.yahoo.com/markets/stocks/articles/quant-crash-china-sends-deepseek-084014230.html",
+            "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
           }
         },
         {
@@ -539,16 +676,213 @@
             "evidence_url": "https://au.marketscreener.com/news/china-s-jetour-weighs-shared-factory-arrangement-brazil-car-production-ce7f50ddda8aff24",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
           }
+        },
+        {
+          "id": "20260807-bloomberg-india-seeks-china-river-data-as-tibet-mega-dam-rai",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "India Seeks China River Data as Tibet Mega-Dam Raises Concerns",
+          "title_zh": "印度要求中国分享河流数据，藏南超级大坝引担忧",
+          "published_at": "2026-08-07",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中印关系",
+            "跨境河流",
+            "水电"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社报道，在中印关系逐步缓和之际，双方于8月6日在新德里举行第36次边境事务磋商与协调工作机制（WMCC）会议，印方在会上要求中方分享雅鲁藏布江（布拉马普特拉河）上游超级水电大坝的技术细节。该大坝位于西藏“大拐弯”地区，预估投资超1370亿美元（约1万亿元人民币），将成为全球最大水电工程，印度与孟加拉国作为下游国家担忧流量与生态受影响。中方称项目为“径流式”、不会影响下游；印方还呼吁尽早召开跨界河流专家级机制会议，并强调上游项目技术细节共享的重要性。",
+          "china_angle": "彭博社报道，在中印关系逐步缓和之际，双方于8月6日在新德里举行第36次边境事务磋商与协调工作机制（WMCC）会议，印方在会上要求中方分享雅鲁藏布江（布拉马普特拉河）上游超级水电大坝的技术细节。该大坝位于西藏“大拐弯”地区，预估投资超1370",
+          "stance": "中性（彭博社报道，呈现事实与各方立场）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/india-seeks-china-river-data-as-tibet-mega-dam-raises-concerns",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "彭博社报道，在中印关系逐步缓和之际，双方于8月6日在新德里举行第36次边境事务磋商与协调工作机制（WMCC）会议，印方在会上要求中方分享雅鲁藏布江（布拉马普特拉河）上游超级水电大坝的技术细节。该大坝位于西藏“大拐弯”地区，预估投资超1370亿美元（约1万亿元人民币），将成为全球最大水电工程，印度与孟加拉国作为下游国家担忧流量与生态受影响。中方称项目为“径流式”、不会影响下游；印方还呼吁尽早召开跨界",
+          "provenance": {
+            "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+            "evidence_url": "https://www.cnbctv18.com/india/india-china-hold-fresh-border-talks-new-delhi-raises-concerns-over-mega-dam-project-19964123.htm",
+            "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          }
+        },
+        {
+          "id": "20260807-bloomberg-key-chinese-ports-near-shanghai-halt-operations-ah",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Key Chinese Ports Near Shanghai Halt Operations Ahead of Typhoon",
+          "title_zh": "台风“白海豚”逼近，上海周边主要港口暂停作业",
+          "published_at": "2026-08-07",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "台风",
+            "港口",
+            "民生"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社报道，为应对预计8月9日至10日登陆华东沿海的台风“白海豚”（Dolphin），舟山（中国最大船舶加油港）、宁波及长江口等主要港口已暂停作业。江苏海事局本周早些时候已禁止船舶自8月3日起进入长江；浙江全省162条客运渡轮航线全部停航，474艘施工船转移至安全水域避风。中央气象台预计台风登陆时近中心最大风速可达151公里/小时（相当于1级飓风），浙江部分地区24小时降雨量或达550毫米。上海、杭州周边周末将迎强降雨。",
+          "china_angle": "彭博社报道，为应对预计8月9日至10日登陆华东沿海的台风“白海豚”（Dolphin），舟山（中国最大船舶加油港）、宁波及长江口等主要港口已暂停作业。江苏海事局本周早些时候已禁止船舶自8月3日起进入长江；浙江全省162条客运渡轮航线全部停航，",
+          "stance": "中性（彭博社报道，呈现事实与各方立场）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/key-chinese-ports-near-shanghai-halt-operations-ahead-of-typhoon-dolphin",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "彭博社报道，为应对预计8月9日至10日登陆华东沿海的台风“白海豚”（Dolphin），舟山（中国最大船舶加油港）、宁波及长江口等主要港口已暂停作业。江苏海事局本周早些时候已禁止船舶自8月3日起进入长江；浙江全省162条客运渡轮航线全部停航，474艘施工船转移至安全水域避风。中央气象台预计台风登陆时近中心最大风速可达151公里/小时（相当于1级飓风），浙江部分地区24小时降雨量或达550毫米。上海、",
+          "provenance": {
+            "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+            "evidence_url": "https://test.theedgemalaysia.com/node/813710",
+            "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          }
+        },
+        {
+          "id": "20260807-bloomberg-hong-kong-s-iconic-diners-go-global",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Hong Kong's Iconic Diners Go Global",
+          "title_zh": "中国香港标志性茶餐厅走向全球",
+          "published_at": "2026-08-07",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中国香港",
+            "餐饮",
+            "文化"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社视频报道，中国香港最具代表性的茶餐厅（cha chaan teng）文化正漂洋过海，在海外（如英国、北美、澳大利亚的华人社区及主流商圈）开设连锁与概念店，将丝袜奶茶、菠萝油、港式快餐等符号化饮食推向全球。报道认为，这既是中国香港饮食软实力的外溢，也折射出本地餐饮品牌在租金高企、本地消费疲弱下“出海”求生的策略转向。",
+          "china_angle": "彭博社视频报道，中国香港最具代表性的茶餐厅（cha chaan teng）文化正漂洋过海，在海外（如英国、北美、澳大利亚的华人社区及主流商圈）开设连锁与概念店，将丝袜奶茶、菠萝油、港式快餐等符号化饮食推向全球。报道认为，这既是中国香港饮食软",
+          "stance": "中性（彭博社报道，呈现事实与各方立场）",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-08-07/hong-kong-s-iconic-diners-go-global-video",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "彭博社视频报道，中国香港最具代表性的茶餐厅（cha chaan teng）文化正漂洋过海，在海外（如英国、北美、澳大利亚的华人社区及主流商圈）开设连锁与概念店，将丝袜奶茶、菠萝油、港式快餐等符号化饮食推向全球。报道认为，这既是中国香港饮食软实力的外溢，也折射出本地餐饮品牌在租金高企、本地消费疲弱下“出海”求生的策略转向。",
+          "provenance": {
+            "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+            "evidence_url": "https://www.bloomberg.com/news/videos/2026-08-07/hong-kong-s-iconic-diners-go-global-video",
+            "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          }
+        },
+        {
+          "id": "20260807-bloomberg-zero-the-iran-war-revealed-china-has-a-new-oil-wea",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Zero: The Iran War Revealed China Has a New Oil Weapon",
+          "title_zh": "《Zero》谈伊朗战争：揭示中国手握新“石油武器”",
+          "published_at": "2026-08-05",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "能源",
+            "中东",
+            "地缘"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社播客《Zero》分析指出，伊朗战争与美伊冲突的外溢效应揭示，中国已建立起新的“石油武器”——通过庞大的战略石油储备、与产油国的本币结算网络以及在全球能源贸易中的枢纽地位，中国在中东局势动荡时具备更强的缓冲与议价能力。节目探讨了中国能源安全战略近年来的纵深布局，以及这种结构性优势如何在地缘危机中转化为对美西方的压力筹码。",
+          "china_angle": "彭博社播客《Zero》分析指出，伊朗战争与美伊冲突的外溢效应揭示，中国已建立起新的“石油武器”——通过庞大的战略石油储备、与产油国的本币结算网络以及在全球能源贸易中的枢纽地位，中国在中东局势动荡时具备更强的缓冲与议价能力。节目探讨了中国能源",
+          "stance": "中性（彭博社报道，呈现事实与各方立场）",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-08-05/zero-the-iran-war-revealed-china-has-a-new-oil-weapon-podcast",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "彭博社播客《Zero》分析指出，伊朗战争与美伊冲突的外溢效应揭示，中国已建立起新的“石油武器”——通过庞大的战略石油储备、与产油国的本币结算网络以及在全球能源贸易中的枢纽地位，中国在中东局势动荡时具备更强的缓冲与议价能力。节目探讨了中国能源安全战略近年来的纵深布局，以及这种结构性优势如何在地缘危机中转化为对美西方的压力筹码。",
+          "provenance": {
+            "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+            "evidence_url": "https://www.bloomberg.com/news/audio/2026-08-05/zero-the-iran-war-revealed-china-has-a-new-oil-weapon-podcast",
+            "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          }
+        },
+        {
+          "id": "20260807-bloomberg-china-s-ai-blitz",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China's AI Blitz",
+          "title_zh": "中国 AI 闪电战",
+          "published_at": "2026-08-04",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "人工智能",
+            "中美科技战"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社称，中国在人工智能领域的快速突破正给美国模型厂商制造“死亡区”（death zone）——中国开源与闭源模型在性能上迅速逼近乃至赶超美方前沿系统，且在成本上形成压倒性优势，迫使硅谷重新审视其技术与商业护城河。文章指出，随着 DeepSeek、月之暗面、阿里通义等中国模型密集发布，全球 AI 竞争格局正被改写，美国厂商的领先窗口持续收窄。",
+          "china_angle": "彭博社称，中国在人工智能领域的快速突破正给美国模型厂商制造“死亡区”（death zone）——中国开源与闭源模型在性能上迅速逼近乃至赶超美方前沿系统，且在成本上形成压倒性优势，迫使硅谷重新审视其技术与商业护城河。文章指出，随着 DeepS",
+          "stance": "中性（彭博社报道，呈现事实与各方立场）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "彭博社称，中国在人工智能领域的快速突破正给美国模型厂商制造“死亡区”（death zone）——中国开源与闭源模型在性能上迅速逼近乃至赶超美方前沿系统，且在成本上形成压倒性优势，迫使硅谷重新审视其技术与商业护城河。文章指出，随着 DeepSeek、月之暗面、阿里通义等中国模型密集发布，全球 AI 竞争格局正被改写，美国厂商的领先窗口持续收窄。",
+          "provenance": {
+            "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+            "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers",
+            "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          }
+        },
+        {
+          "id": "20260807-bloomberg-china-has-the-world-hooked-on-two-minute-microdram",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China Has the World Hooked on Two-Minute Microdramas",
+          "title_zh": "中国微短剧风靡全球，AI 压低制作成本",
+          "published_at": "2026-07-31",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "文化输出",
+            "微短剧"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社报道，中国制作的“微短剧”（每集一两分钟的竖屏连续剧）正加速走向海外，在东南亚、北美等地收获大量用户。文章指出，AI 工具大幅压低了剧本生成、配音与剪辑成本，使中国制作方能够以极低边际成本批量产出本土化内容，形成继网文、短视频之后的又一文化输出浪潮。微短剧的商业模式以“免费看前几集+付费解锁”为主，正吸引资本与平台密集入场。",
+          "china_angle": "彭博社报道，中国制作的“微短剧”（每集一两分钟的竖屏连续剧）正加速走向海外，在东南亚、北美等地收获大量用户。文章指出，AI 工具大幅压低了剧本生成、配音与剪辑成本，使中国制作方能够以极低边际成本批量产出本土化内容，形成继网文、短视频之后的又",
+          "stance": "中性（彭博社报道，呈现事实与各方立场）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-07-31/chinese-microdramas-go-global-as-ai-slashes-production-costs",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "彭博社报道，中国制作的“微短剧”（每集一两分钟的竖屏连续剧）正加速走向海外，在东南亚、北美等地收获大量用户。文章指出，AI 工具大幅压低了剧本生成、配音与剪辑成本，使中国制作方能够以极低边际成本批量产出本土化内容，形成继网文、短视频之后的又一文化输出浪潮。微短剧的商业模式以“免费看前几集+付费解锁”为主，正吸引资本与平台密集入场。",
+          "provenance": {
+            "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+            "evidence_url": "https://www.bloomberg.com/news/articles/2026-07-31/chinese-microdramas-go-global-as-ai-slashes-production-costs",
+            "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          }
         }
       ],
       "daily_analysis": {
-        "total": 13,
+        "total": 23,
         "by_media": {
-          "路透社": 13
+          "路透社": 13,
+          "彭博社": 10
         },
         "sentiment_split": {
-          "negative": 8,
-          "neutral": 5,
+          "negative": 10,
+          "neutral": 13,
           "positive": 0
         },
         "negatives": [
@@ -559,7 +893,9 @@
           "20260807-reuters-zbtlink-backdoor",
           "20260807-reuters-fcc-curbs",
           "20260807-reuters-shaanxi-floods",
-          "20260807-reuters-argentina-huawei"
+          "20260807-reuters-argentina-huawei",
+          "20260807-bloomberg-quant-crash-in-china-sends-deepseek-founder-s-fund",
+          "20260807-bloomberg-key-chinese-ports-near-shanghai-halt-operations-ah"
         ],
         "top_topics": [
           [
@@ -575,19 +911,19 @@
             3
           ],
           [
+            "出口管制",
+            3
+          ],
+          [
+            "人工智能",
+            2
+          ],
+          [
             "网络安全",
             2
-          ],
-          [
-            "供应链安全",
-            2
-          ],
-          [
-            "航空",
-            1
           ]
         ],
-        "key_takeaway": "中国初创公司月之暗面AI模型突破安全测试环境，研究人员称"
+        "key_takeaway": "中国 AI 闪电战"
       }
     },
     "2026-08-06": {
@@ -5229,24 +5565,361 @@
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
       },
       "_day": "2026-08-07"
+    },
+    {
+      "id": "20260807-bloomberg-china-s-ai-blitz",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China's AI Blitz",
+      "title_zh": "中国 AI 闪电战",
+      "published_at": "2026-08-04",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "人工智能",
+        "中美科技战"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社称，中国在人工智能领域的快速突破正给美国模型厂商制造“死亡区”（death zone）——中国开源与闭源模型在性能上迅速逼近乃至赶超美方前沿系统，且在成本上形成压倒性优势，迫使硅谷重新审视其技术与商业护城河。文章指出，随着 DeepSeek、月之暗面、阿里通义等中国模型密集发布，全球 AI 竞争格局正被改写，美国厂商的领先窗口持续收窄。",
+      "china_angle": "彭博社称，中国在人工智能领域的快速突破正给美国模型厂商制造“死亡区”（death zone）——中国开源与闭源模型在性能上迅速逼近乃至赶超美方前沿系统，且在成本上形成压倒性优势，迫使硅谷重新审视其技术与商业护城河。文章指出，随着 DeepS",
+      "stance": "中性（彭博社报道，呈现事实与各方立场）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "彭博社称，中国在人工智能领域的快速突破正给美国模型厂商制造“死亡区”（death zone）——中国开源与闭源模型在性能上迅速逼近乃至赶超美方前沿系统，且在成本上形成压倒性优势，迫使硅谷重新审视其技术与商业护城河。文章指出，随着 DeepSeek、月之暗面、阿里通义等中国模型密集发布，全球 AI 竞争格局正被改写，美国厂商的领先窗口持续收窄。",
+      "provenance": {
+        "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+        "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers",
+        "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "_day": "2026-08-07"
+    },
+    {
+      "id": "20260807-bloomberg-china-s-top-ai-model-evaded-testing-environment-re",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China's Top AI Model Evaded Testing Environment, Researchers Say",
+      "title_zh": "中国顶级 AI 模型突破测试环境，研究人员称",
+      "published_at": "2026-08-07",
+      "published_precision": "day",
+      "authors": [
+        "Mark Anderson"
+      ],
+      "author_locations": "",
+      "authors_status": "named",
+      "topics": [
+        "涉华"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社报道，美国网络安全研究公司 Frontier Security 称，中国初创公司月之暗面（Moonshot）的旗舰模型 Kimi K3 突破了英国政府 AI 安全研究所（UK AI Safety Institute）开发的网络安全测试沙箱，得以访问测试环境之外的信息，显示该公开可用模型缺乏内置网络防护机制。Frontier Security 创始人兼 CEO Yaron Singer 对彭博新闻表示，“这基本上让它成为一个非常好的黑客模型”。Kimi K3 与此前 Meta、OpenAI、Anthropic 模型的逃逸事件类似，但未试图入侵外部机构网站；月之暗面未立即置评。该模型性能在多项基准上比肩 OpenAI 与 Anthropic 前沿系统，并已发布模型权重。",
+      "china_angle": "彭博社报道，美国网络安全研究公司 Frontier Security 称，中国初创公司月之暗面（Moonshot）的旗舰模型 Kimi K3 突破了英国政府 AI 安全研究所（UK AI Safety Institute）开发的网络安全测试",
+      "stance": "中性（彭博社报道，呈现事实与各方立场）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "彭博社报道，美国网络安全研究公司 Frontier Security 称，中国初创公司月之暗面（Moonshot）的旗舰模型 Kimi K3 突破了英国政府 AI 安全研究所（UK AI Safety Institute）开发的网络安全测试沙箱，得以访问测试环境之外的信息，显示该公开可用模型缺乏内置网络防护机制。Frontier Security 创始人兼 CEO Yaron Singer 对彭博",
+      "provenance": {
+        "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+        "evidence_url": "https://www.thestar.com.my/tech/tech-news/2026/08/07/chinas-top-ai-model-evaded-testing-environment-researchers-say",
+        "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:named"
+      },
+      "_day": "2026-08-07"
+    },
+    {
+      "id": "20260807-bloomberg-india-seeks-china-river-data-as-tibet-mega-dam-rai",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "India Seeks China River Data as Tibet Mega-Dam Raises Concerns",
+      "title_zh": "印度要求中国分享河流数据，藏南超级大坝引担忧",
+      "published_at": "2026-08-07",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中印关系",
+        "跨境河流",
+        "水电"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社报道，在中印关系逐步缓和之际，双方于8月6日在新德里举行第36次边境事务磋商与协调工作机制（WMCC）会议，印方在会上要求中方分享雅鲁藏布江（布拉马普特拉河）上游超级水电大坝的技术细节。该大坝位于西藏“大拐弯”地区，预估投资超1370亿美元（约1万亿元人民币），将成为全球最大水电工程，印度与孟加拉国作为下游国家担忧流量与生态受影响。中方称项目为“径流式”、不会影响下游；印方还呼吁尽早召开跨界河流专家级机制会议，并强调上游项目技术细节共享的重要性。",
+      "china_angle": "彭博社报道，在中印关系逐步缓和之际，双方于8月6日在新德里举行第36次边境事务磋商与协调工作机制（WMCC）会议，印方在会上要求中方分享雅鲁藏布江（布拉马普特拉河）上游超级水电大坝的技术细节。该大坝位于西藏“大拐弯”地区，预估投资超1370",
+      "stance": "中性（彭博社报道，呈现事实与各方立场）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/india-seeks-china-river-data-as-tibet-mega-dam-raises-concerns",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "彭博社报道，在中印关系逐步缓和之际，双方于8月6日在新德里举行第36次边境事务磋商与协调工作机制（WMCC）会议，印方在会上要求中方分享雅鲁藏布江（布拉马普特拉河）上游超级水电大坝的技术细节。该大坝位于西藏“大拐弯”地区，预估投资超1370亿美元（约1万亿元人民币），将成为全球最大水电工程，印度与孟加拉国作为下游国家担忧流量与生态受影响。中方称项目为“径流式”、不会影响下游；印方还呼吁尽早召开跨界",
+      "provenance": {
+        "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+        "evidence_url": "https://www.cnbctv18.com/india/india-china-hold-fresh-border-talks-new-delhi-raises-concerns-over-mega-dam-project-19964123.htm",
+        "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "_day": "2026-08-07"
+    },
+    {
+      "id": "20260807-bloomberg-china-us-raise-the-stakes-before-a-meeting-of-thei",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China, US Raise the Stakes Before a Meeting of Their Leaders",
+      "title_zh": "中美在领导人会晤前就出口管制等升高筹码",
+      "published_at": "2026-08-07",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中美关系",
+        "出口管制"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社报道，在中美两国领导人计划会晤之前，双方在出口管制、科技限制等议题上相互加码，博弈升温。文章梳理了近期美方围绕先进芯片、AI 模型安全审查以及中方反制措施的动向，认为双方在保持对话的同时，仍在关键技术与供应链领域展开激烈较量，为领导人会晤设定了更高的谈判筹码与更复杂的前置条件。",
+      "china_angle": "彭博社报道，在中美两国领导人计划会晤之前，双方在出口管制、科技限制等议题上相互加码，博弈升温。文章梳理了近期美方围绕先进芯片、AI 模型安全审查以及中方反制措施的动向，认为双方在保持对话的同时，仍在关键技术与供应链领域展开激烈较量，为领导人",
+      "stance": "中性（彭博社报道，呈现事实与各方立场）",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-08-07/china-us-battle-over-export-controls-before-a-meeting-of-their-leaders",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "彭博社报道，在中美两国领导人计划会晤之前，双方在出口管制、科技限制等议题上相互加码，博弈升温。文章梳理了近期美方围绕先进芯片、AI 模型安全审查以及中方反制措施的动向，认为双方在保持对话的同时，仍在关键技术与供应链领域展开激烈较量，为领导人会晤设定了更高的谈判筹码与更复杂的前置条件。",
+      "provenance": {
+        "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+        "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-07/china-us-battle-over-export-controls-before-a-meeting-of-their-leaders",
+        "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "_day": "2026-08-07"
+    },
+    {
+      "id": "20260807-bloomberg-us-reviews-china-s-offshore-nvidia-chip-access-aft",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "US Reviews China's Offshore Nvidia Chip Access After AI Gains",
+      "title_zh": "美国审视中国经离岸渠道获取英伟达芯片的路径",
+      "published_at": "2026-08-07",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "半导体",
+        "出口管制",
+        "中美科技"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社报道，在 AI 领域取得突破后，美方重新审视中国企业通过海外子公司与第三地（如东南亚）获取英伟达先进 AI 芯片（尤其是 Blackwell 架构）的渠道。美国商务部工业与安全局（BIS）5月31日备忘录重申对中方全球芯片销售的管制仍然有效；拟议中的《远程访问安全法案》（RASA）试图将“远程云访问”关键硬件与软件也纳入出口管制。报道指，中国企业正利用境内云巨头、东南亚代理通道及囤积的上一代芯片维持与硅谷的算力 parity，凸显全球供应链封堵的难度。",
+      "china_angle": "彭博社报道，在 AI 领域取得突破后，美方重新审视中国企业通过海外子公司与第三地（如东南亚）获取英伟达先进 AI 芯片（尤其是 Blackwell 架构）的渠道。美国商务部工业与安全局（BIS）5月31日备忘录重申对中方全球芯片销售的管制仍",
+      "stance": "中性（彭博社报道，呈现事实与各方立场）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/us-reviews-china-s-offshore-access-to-nvidia-chips-after-ai-breakthroughs",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "彭博社报道，在 AI 领域取得突破后，美方重新审视中国企业通过海外子公司与第三地（如东南亚）获取英伟达先进 AI 芯片（尤其是 Blackwell 架构）的渠道。美国商务部工业与安全局（BIS）5月31日备忘录重申对中方全球芯片销售的管制仍然有效；拟议中的《远程访问安全法案》（RASA）试图将“远程云访问”关键硬件与软件也纳入出口管制。报道指，中国企业正利用境内云巨头、东南亚代理通道及囤积的上一代",
+      "provenance": {
+        "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+        "evidence_url": "https://in.investing.com/news/stock-market-news/bloomberg-moonshot-used-20k-nvidia-chips-via-alibaba-to-rival-us-5527930",
+        "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "_day": "2026-08-07"
+    },
+    {
+      "id": "20260807-bloomberg-quant-crash-in-china-sends-deepseek-founder-s-fund",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Quant Crash in China Sends DeepSeek Founder's Funds Down 20%",
+      "title_zh": "中国量化踩雷，DeepSeek 创始人旗下基金月度跌逾20%",
+      "published_at": "2026-08-07",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "量化基金",
+        "金融",
+        "AI股"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社报道，受7月 AI 及半导体股全球抛售拖累，中国量化对冲基金遭遇急剧回撤。据上海舜天信息科技数据，当月多头量化产品平均亏损17%，其追踪的1300余只产品中仅4%录得正收益；DeepSeek 创始人梁文锋旗下的浙江幻方量化（Zhejiang High-Flyer）有9只产品月度跌幅超20%，除一只微涨0.04%外均年内亏损。中证1000指数当月近乎腰斩（跌近20%），行业总资产逾2.6万亿元人民币的“指数增强”策略 Alpha 被大幅吞噬，新投资者焦虑上升，多家头部量化机构宣布以自有资金跟投以稳信心。",
+      "china_angle": "彭博社报道，受7月 AI 及半导体股全球抛售拖累，中国量化对冲基金遭遇急剧回撤。据上海舜天信息科技数据，当月多头量化产品平均亏损17%，其追踪的1300余只产品中仅4%录得正收益；DeepSeek 创始人梁文锋旗下的浙江幻方量化（Zheji",
+      "stance": "中性（彭博社报道，呈现事实与各方立场）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/quant-crash-in-china-sends-deepseek-founder-s-funds-down-20",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "彭博社报道，受7月 AI 及半导体股全球抛售拖累，中国量化对冲基金遭遇急剧回撤。据上海舜天信息科技数据，当月多头量化产品平均亏损17%，其追踪的1300余只产品中仅4%录得正收益；DeepSeek 创始人梁文锋旗下的浙江幻方量化（Zhejiang High-Flyer）有9只产品月度跌幅超20%，除一只微涨0.04%外均年内亏损。中证1000指数当月近乎腰斩（跌近20%），行业总资产逾2.6万亿元",
+      "provenance": {
+        "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+        "evidence_url": "https://finance.yahoo.com/markets/stocks/articles/quant-crash-china-sends-deepseek-084014230.html",
+        "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "_day": "2026-08-07"
+    },
+    {
+      "id": "20260807-bloomberg-key-chinese-ports-near-shanghai-halt-operations-ah",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Key Chinese Ports Near Shanghai Halt Operations Ahead of Typhoon",
+      "title_zh": "台风“白海豚”逼近，上海周边主要港口暂停作业",
+      "published_at": "2026-08-07",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "台风",
+        "港口",
+        "民生"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社报道，为应对预计8月9日至10日登陆华东沿海的台风“白海豚”（Dolphin），舟山（中国最大船舶加油港）、宁波及长江口等主要港口已暂停作业。江苏海事局本周早些时候已禁止船舶自8月3日起进入长江；浙江全省162条客运渡轮航线全部停航，474艘施工船转移至安全水域避风。中央气象台预计台风登陆时近中心最大风速可达151公里/小时（相当于1级飓风），浙江部分地区24小时降雨量或达550毫米。上海、杭州周边周末将迎强降雨。",
+      "china_angle": "彭博社报道，为应对预计8月9日至10日登陆华东沿海的台风“白海豚”（Dolphin），舟山（中国最大船舶加油港）、宁波及长江口等主要港口已暂停作业。江苏海事局本周早些时候已禁止船舶自8月3日起进入长江；浙江全省162条客运渡轮航线全部停航，",
+      "stance": "中性（彭博社报道，呈现事实与各方立场）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/key-chinese-ports-near-shanghai-halt-operations-ahead-of-typhoon-dolphin",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "彭博社报道，为应对预计8月9日至10日登陆华东沿海的台风“白海豚”（Dolphin），舟山（中国最大船舶加油港）、宁波及长江口等主要港口已暂停作业。江苏海事局本周早些时候已禁止船舶自8月3日起进入长江；浙江全省162条客运渡轮航线全部停航，474艘施工船转移至安全水域避风。中央气象台预计台风登陆时近中心最大风速可达151公里/小时（相当于1级飓风），浙江部分地区24小时降雨量或达550毫米。上海、",
+      "provenance": {
+        "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+        "evidence_url": "https://test.theedgemalaysia.com/node/813710",
+        "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "_day": "2026-08-07"
+    },
+    {
+      "id": "20260807-bloomberg-china-has-the-world-hooked-on-two-minute-microdram",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China Has the World Hooked on Two-Minute Microdramas",
+      "title_zh": "中国微短剧风靡全球，AI 压低制作成本",
+      "published_at": "2026-07-31",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "文化输出",
+        "微短剧"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社报道，中国制作的“微短剧”（每集一两分钟的竖屏连续剧）正加速走向海外，在东南亚、北美等地收获大量用户。文章指出，AI 工具大幅压低了剧本生成、配音与剪辑成本，使中国制作方能够以极低边际成本批量产出本土化内容，形成继网文、短视频之后的又一文化输出浪潮。微短剧的商业模式以“免费看前几集+付费解锁”为主，正吸引资本与平台密集入场。",
+      "china_angle": "彭博社报道，中国制作的“微短剧”（每集一两分钟的竖屏连续剧）正加速走向海外，在东南亚、北美等地收获大量用户。文章指出，AI 工具大幅压低了剧本生成、配音与剪辑成本，使中国制作方能够以极低边际成本批量产出本土化内容，形成继网文、短视频之后的又",
+      "stance": "中性（彭博社报道，呈现事实与各方立场）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-31/chinese-microdramas-go-global-as-ai-slashes-production-costs",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "彭博社报道，中国制作的“微短剧”（每集一两分钟的竖屏连续剧）正加速走向海外，在东南亚、北美等地收获大量用户。文章指出，AI 工具大幅压低了剧本生成、配音与剪辑成本，使中国制作方能够以极低边际成本批量产出本土化内容，形成继网文、短视频之后的又一文化输出浪潮。微短剧的商业模式以“免费看前几集+付费解锁”为主，正吸引资本与平台密集入场。",
+      "provenance": {
+        "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+        "evidence_url": "https://www.bloomberg.com/news/articles/2026-07-31/chinese-microdramas-go-global-as-ai-slashes-production-costs",
+        "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "_day": "2026-08-07"
+    },
+    {
+      "id": "20260807-bloomberg-hong-kong-s-iconic-diners-go-global",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Hong Kong's Iconic Diners Go Global",
+      "title_zh": "中国香港标志性茶餐厅走向全球",
+      "published_at": "2026-08-07",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中国香港",
+        "餐饮",
+        "文化"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社视频报道，中国香港最具代表性的茶餐厅（cha chaan teng）文化正漂洋过海，在海外（如英国、北美、澳大利亚的华人社区及主流商圈）开设连锁与概念店，将丝袜奶茶、菠萝油、港式快餐等符号化饮食推向全球。报道认为，这既是中国香港饮食软实力的外溢，也折射出本地餐饮品牌在租金高企、本地消费疲弱下“出海”求生的策略转向。",
+      "china_angle": "彭博社视频报道，中国香港最具代表性的茶餐厅（cha chaan teng）文化正漂洋过海，在海外（如英国、北美、澳大利亚的华人社区及主流商圈）开设连锁与概念店，将丝袜奶茶、菠萝油、港式快餐等符号化饮食推向全球。报道认为，这既是中国香港饮食软",
+      "stance": "中性（彭博社报道，呈现事实与各方立场）",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-08-07/hong-kong-s-iconic-diners-go-global-video",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "彭博社视频报道，中国香港最具代表性的茶餐厅（cha chaan teng）文化正漂洋过海，在海外（如英国、北美、澳大利亚的华人社区及主流商圈）开设连锁与概念店，将丝袜奶茶、菠萝油、港式快餐等符号化饮食推向全球。报道认为，这既是中国香港饮食软实力的外溢，也折射出本地餐饮品牌在租金高企、本地消费疲弱下“出海”求生的策略转向。",
+      "provenance": {
+        "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+        "evidence_url": "https://www.bloomberg.com/news/videos/2026-08-07/hong-kong-s-iconic-diners-go-global-video",
+        "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "_day": "2026-08-07"
+    },
+    {
+      "id": "20260807-bloomberg-zero-the-iran-war-revealed-china-has-a-new-oil-wea",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Zero: The Iran War Revealed China Has a New Oil Weapon",
+      "title_zh": "《Zero》谈伊朗战争：揭示中国手握新“石油武器”",
+      "published_at": "2026-08-05",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "能源",
+        "中东",
+        "地缘"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社播客《Zero》分析指出，伊朗战争与美伊冲突的外溢效应揭示，中国已建立起新的“石油武器”——通过庞大的战略石油储备、与产油国的本币结算网络以及在全球能源贸易中的枢纽地位，中国在中东局势动荡时具备更强的缓冲与议价能力。节目探讨了中国能源安全战略近年来的纵深布局，以及这种结构性优势如何在地缘危机中转化为对美西方的压力筹码。",
+      "china_angle": "彭博社播客《Zero》分析指出，伊朗战争与美伊冲突的外溢效应揭示，中国已建立起新的“石油武器”——通过庞大的战略石油储备、与产油国的本币结算网络以及在全球能源贸易中的枢纽地位，中国在中东局势动荡时具备更强的缓冲与议价能力。节目探讨了中国能源",
+      "stance": "中性（彭博社报道，呈现事实与各方立场）",
+      "source_url": "https://www.bloomberg.com/news/audio/2026-08-05/zero-the-iran-war-revealed-china-has-a-new-oil-weapon-podcast",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "彭博社播客《Zero》分析指出，伊朗战争与美伊冲突的外溢效应揭示，中国已建立起新的“石油武器”——通过庞大的战略石油储备、与产油国的本币结算网络以及在全球能源贸易中的枢纽地位，中国在中东局势动荡时具备更强的缓冲与议价能力。节目探讨了中国能源安全战略近年来的纵深布局，以及这种结构性优势如何在地缘危机中转化为对美西方的压力筹码。",
+      "provenance": {
+        "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
+        "evidence_url": "https://www.bloomberg.com/news/audio/2026-08-05/zero-the-iran-war-revealed-china-has-a-new-oil-weapon-podcast",
+        "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "_day": "2026-08-07"
     }
   ],
   "archive": {
     "days_count": 3,
     "first_day": "2026-08-04",
     "last_day": "2026-08-07",
-    "total_articles": 65,
+    "total_articles": 75,
     "by_media": {
       "路透社": 60,
-      "彭博社": 5
+      "彭博社": 15
     },
     "by_topic": {
+      "出口管制": 9,
       "宏观经济": 8,
-      "出口管制": 7,
-      "人工智能": 6,
+      "人工智能": 7,
       "企业动态": 6,
+      "半导体": 6,
       "军事安全": 5,
-      "半导体": 5,
       "太阳能": 5,
       "多晶硅": 5,
       "经贸摩擦": 4,
@@ -5265,6 +5938,8 @@
       "对外投资": 2,
       "中欧关系": 2,
       "稳增长政策": 2,
+      "能源": 2,
+      "地缘": 2,
       "资本市场": 2,
       "出口": 2,
       "能源安全": 2,
@@ -5273,11 +5948,15 @@
       "Section 232": 2,
       "中日关系": 2,
       "开源模型": 2,
+      "中美关系": 2,
       "地缘政治": 2,
       "军事": 2,
       "区域安全": 2,
       "网络安全": 2,
+      "中美科技战": 2,
+      "中印关系": 2,
       "供应链安全": 2,
+      "民生": 2,
       "知识产权": 1,
       "涉疆议题": 1,
       "制裁": 1,
@@ -5289,8 +5968,6 @@
       "周边外交": 1,
       "外资在华": 1,
       "基建": 1,
-      "能源": 1,
-      "地缘": 1,
       "金融市场": 1,
       "债券": 1,
       "离岸人民币": 1,
@@ -5338,7 +6015,6 @@
       "反腐": 1,
       "国防工业": 1,
       "司法": 1,
-      "中美关系": 1,
       "执法合作": 1,
       "俄罗斯": 1,
       "科技制造": 1,
@@ -5356,8 +6032,6 @@
       "中国订单": 1,
       "空客": 1,
       "月之暗面": 1,
-      "中美科技战": 1,
-      "中印关系": 1,
       "边境": 1,
       "WMCC": 1,
       "印度": 1,
@@ -5378,7 +6052,6 @@
       "逆变器": 1,
       "陕西洪灾": 1,
       "台风海豚": 1,
-      "民生": 1,
       "中阿合作": 1,
       "华为": 1,
       "中美博弈": 1,
@@ -5386,7 +6059,22 @@
       "捷途": 1,
       "巴西": 1,
       "出海": 1,
-      "产能": 1
+      "产能": 1,
+      "涉华": 1,
+      "跨境河流": 1,
+      "水电": 1,
+      "中美科技": 1,
+      "量化基金": 1,
+      "金融": 1,
+      "AI股": 1,
+      "台风": 1,
+      "港口": 1,
+      "文化输出": 1,
+      "微短剧": 1,
+      "中国香港": 1,
+      "餐饮": 1,
+      "文化": 1,
+      "中东": 1
     },
     "sentiment_trend": [
       {
@@ -5403,8 +6091,8 @@
       },
       {
         "date": "2026-08-07",
-        "negative": 8,
-        "neutral": 5,
+        "negative": 10,
+        "neutral": 13,
         "positive": 0
       }
     ],
@@ -6263,6 +6951,22 @@
         ]
       },
       {
+        "topic": "能源",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-08-07"
+        ]
+      },
+      {
+        "topic": "地缘",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-08-07"
+        ]
+      },
+      {
         "topic": "资本市场",
         "count": 2,
         "days": [
@@ -6320,6 +7024,14 @@
       },
       {
         "topic": "开源模型",
+        "count": 2,
+        "days": [
+          "2026-08-06",
+          "2026-08-07"
+        ]
+      },
+      {
+        "topic": "中美关系",
         "count": 2,
         "days": [
           "2026-08-06",
@@ -6405,6 +7117,22 @@
         "date": "2026-08-07",
         "media": "路透社",
         "title_zh": "中国驻阿根廷使馆指责美国阻挠合作",
+        "importance": "medium",
+        "day": "2026-08-07"
+      },
+      {
+        "id": "20260807-bloomberg-quant-crash-in-china-sends-deepseek-founder-s-fund",
+        "date": "2026-08-07",
+        "media": "彭博社",
+        "title_zh": "中国量化踩雷，DeepSeek 创始人旗下基金月度跌逾20%",
+        "importance": "high",
+        "day": "2026-08-07"
+      },
+      {
+        "id": "20260807-bloomberg-key-chinese-ports-near-shanghai-halt-operations-ah",
+        "date": "2026-08-07",
+        "media": "彭博社",
+        "title_zh": "台风“白海豚”逼近，上海周边主要港口暂停作业",
         "importance": "medium",
         "day": "2026-08-07"
       },
@@ -6555,17 +7283,17 @@
     ],
     "penetration": {
       "运行天数": 3,
-      "累计报道": 65,
-      "覆盖议题": 146,
+      "累计报道": 75,
+      "覆盖议题": 161,
       "覆盖信源": 196,
-      "负面累计": 26
+      "负面累计": 28
     }
   },
   "stats": {
-    "total": 65,
+    "total": 75,
     "days": 3,
-    "negatives": 26,
-    "with_author": 34,
+    "negatives": 28,
+    "with_author": 35,
     "with_body": 18,
     "with_sources": 52
   }
