@@ -1,6 +1,719 @@
 {
-  "generated_at": "2026-08-11T09:40:08+08:00",
+  "generated_at": "2026-08-12T10:11:10+08:00",
   "days": {
+    "2026-08-12": {
+      "file": "2026-08-12.json",
+      "scan_time": "2026-08-12T11:30:00+08:00",
+      "window": "2026-08-11 ~ 2026-08-12（近24小时涉中窗口；路透中国栏目/世界栏与彭博首页直连均被JS墙/反爬拦截，统一转 WebSearch 多组关键词兜底，通道C）",
+      "coverage": {
+        "reuters": {
+          "captured": 9,
+          "with_author": 3,
+          "with_fulltext": 0,
+          "note": "通道C：路透中国栏目(https://www.reuters.com/world/china/)与世界栏(https://www.reuters.com/world/)WebFetch 直连均被JS墙拦截（'Please enable JS and disable any ad blocker'），重试后仍失败，转 WebSearch 多组关键词（Reuters China latest / 路透社 中国 最新 / China Taiwan trade tariff / China economy / China missile / 路透 中国 稀土 等）兜底，并对每条标题用引号+媒体名检索转载源(雅虎/The Hindu/星报/Aletihad/astroawani/twitterviewer)补全真实署名与摘要，共9篇；其中3篇取得真实记者署名（Andrea Shalal / Lucy Craymer / Liz Lee、Nicoco Chan），6篇机构稿未具名。本窗口延续8/11滚动文件的涉中主线（台海、稀土、芯片、台风），新增特朗普延长对华关税休战、白宫芯片营收分成或扩围、外资第九月净卖亚洲等。"
+        },
+        "bloomberg": {
+          "captured": 7,
+          "with_author": 0,
+          "with_fulltext": 0,
+          "note": "通道C：彭博首页直连被反爬/机器人验证拦截，无法直连，转 WebSearch 多组关键词（Bloomberg China latest / 彭博 中国 最新 / 芯片 关税 稀土 / China tech giants Nvidia 等）兜底，并经彭博/中央社/华尔街见闻/观察者网/央视财经等转载源补全，共7篇（含中国扩大稀土管制→ASML、智元超越宇树登顶、恒科大修订、中方约谈腾讯字节弃用英伟达、比亚迪7月销量、腾讯WorkBuddy、国产AI芯片份额近90%）。彭博付费墙严，7篇均未取得真实记者具名（机构稿）。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "20260812-reuters-trump-extends-china-tariff-deadline",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Trump signs order extending China tariff deadline for 90 days, official says",
+          "title_zh": "特朗普签署行政令，将对华关税休战期再延90天",
+          "published_at": "2026-08-12",
+          "published_precision": "day",
+          "authors": [
+            "Andrea Shalal"
+          ],
+          "author_locations": "华盛顿",
+          "authors_status": "named",
+          "topics": [
+            "中美经贸",
+            "关税",
+            "贸易休战",
+            "特朗普"
+          ],
+          "importance": "high",
+          "summary_zh": "路透华盛顿8月12日电——美国总统特朗普签署行政令，将原定当日凌晨（北京时间8月12日04:01 GMT）到期的对华关税休战期再延长90天，避免中美互征关税回弹至三位数（美方对华关税将升至145%、中方对美升至125%），实质上等于双边贸易禁运。白宫官员称，此举为双方留出进一步谈判空间，特朗普在记者会上形容与中方'关系非常好'，并称期待年底前与习近平主席会晤。此前5月日内瓦、7月斯德哥尔摩两轮磋商仅达成框架性暂停，未能就结构性议题（稀土磁体流向、产业补贴、出口管制）取得突破；分析认为，延长休战为潜在'特习会'铺路，但关税不确定性仍是全球供应链与消费价格的悬顶之剑。",
+          "china_angle": "以特朗普签署行政令延长对华关税休战90天为报道主体，凸显中美贸易战在高层会晤前暂时'降温'，但结构性矛盾（稀土、半导体、产能过剩）未解，属中方视角下'以时间换空间'的阶段性缓和。",
+          "stance": "中性（引述白宫官员与特朗普表态，呈现休战延长事实与未决议题）",
+          "source_url": "https://www.reuters.com/world/trump-signs-order-extending-china-tariff-deadline-90-days-2026-08-12/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "白宫官员",
+            "美国总统特朗普",
+            "美国财政部",
+            "路透社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：特朗普8/12签署行政令，将对华关税休战期延长90天，避免中美关税在8/12到期日回弹至145%/125%（实质贸易禁运）。研判：这是继5月日内瓦、7月斯德哥尔摩后第三度'暂停'，为潜在'特习会'（年底前）创造窗口；但稀土磁体流向、产业补贴、出口管制等结构性议题未解，属于'以时间换空间'。与'中国稀土出口管制''英伟达对华芯片营收分成'同属中美经贸主线，短期缓和但长期博弈延续。后续关注90天后是否再延、以及稀土/芯片议题是否纳入元首会晤成果。",
+          "provenance": {
+            "retrieved_via": "通道C：彭博/阿联酋通讯社等转载补全（路透直连被JS墙拦截）",
+            "evidence_url": "https://en.aletihad.ae/news/mena-world/4597092/trump-signs-order-extending-china-tariff-deadline-for-90-day",
+            "evidence_note": "Reuters 8月12日华盛顿电，署名 Andrea Shalal、编辑 Chris Reese；作者状态:named"
+          }
+        },
+        {
+          "id": "20260812-reuters-whitehouse-chips-deals-china",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "White House says chips deals could perhaps expand to other companies",
+          "title_zh": "白宫称英伟达/AMD对华芯片营收分成协议或扩至更多企业；中方约谈腾讯字节",
+          "published_at": "2026-08-12",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "华盛顿",
+          "authors_status": "not_available",
+          "topics": [
+            "半导体",
+            "英伟达",
+            "AMD",
+            "出口管制",
+            "AI芯片"
+          ],
+          "importance": "high",
+          "summary_zh": "路透华盛顿8月12日电——白宫新闻秘书莱维特表示，在英伟达与AMD同意将面向中国销售特定先进芯片营收的15%上缴美国政府后，这类交易'或许可以扩展到其他芯片公司'，称其是'有创意的想法和方案'。与此同时，三位知情人士告诉路透，中国监管部门已约谈腾讯、字节跳动等互联网巨头，询问其采购英伟达H20等外国AI芯片的原因并表达信息安全关切，敦促改用国产供应；英伟达上一财年来自中国销售收入达170亿美元（占总营收13%），相关审查威胁其重要收入流。华为正开发可匹敌H20性能的国产处理器，北京亦持续推动科技行业提升自给率。",
+          "china_angle": "以白宫称对华芯片营收分成协议或扩大、中方约谈科技巨头弃用英伟达为双线切入点，凸显中美在AI芯片领域的'制度博弈'：美方以'抽成'换出口许可、中方以'安全审查'逼国产替代，属芯片自主与出口管制主线的最新交锋。",
+          "stance": "中性（引述白宫与知情人士，呈现双向管制动向）",
+          "source_url": "https://www.reuters.com/technology/white-house-chips-deals-expand-2026-08-12/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "白宫新闻秘书 Leavitt",
+            "英伟达",
+            "AMD",
+            "腾讯",
+            "字节跳动",
+            "华为",
+            "路透社知情人士"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：白宫8/12称英伟达/AMD将中国先进芯片营收15%上缴美政府的协议或扩至更多企业；同日路透披露中方约谈腾讯、字节，促其弃用英伟达H20等外国AI芯片、改用国产。研判：这是'美抽成换许可、中安全审查逼替代'的双向收紧——美方把芯片出口变成'财政分红+可控'，中方把采购选择变成'安全合规'议题，华为昇腾等国产链间接受益。与'中国AI芯片国产份额近90%''白宫延长对华关税休战'同源，构成'贸易休战+科技紧绷'的复合格局。后续关注协议是否扩围、及腾讯/字节采购转向速度。",
+          "provenance": {
+            "retrieved_via": "通道C：WebSearch 检索路透标题+媒体名，astroawani 等转载补全",
+            "evidence_url": "https://international.astroawani.com/global-news/white-house-says-chips-deals-could-perhaps-expand-other-companies-534014",
+            "evidence_note": "Reuters 8月12日报道；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260812-bloomberg-china-rare-earth-asml",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China Expands Rare Earth Controls, Global Chip Supply Chain Braces for Disruption",
+          "title_zh": "中国扩大稀土出口管制，全球芯片供应链严阵以待（ASML或延误数周）",
+          "published_at": "2026-08-12",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "北京",
+          "authors_status": "not_available",
+          "topics": [
+            "稀土",
+            "出口管制",
+            "ASML",
+            "半导体",
+            "中美贸易"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社8月12日报道——在中国宣布扩大稀土矿物出口管制后，全球半导体供应链正准备应对中美贸易战升温带来的供应扰动；知情人士称，全球唯一能制造最先进芯片设备的阿斯麦（ASML）正为供应受扰做准备，因其有条款要求外国企业出口含中国稀土的产品前须获中方批准，ASML 或因此延误数周。彭博引述消息称，中方新规要求外国企业出口任何含微量中国稀土的原物料须获批准，且最终用于特定电脑芯片、具潜在军事用途的AI出口申请须逐案审批——这是北京锁定半导体与AI产业、对外国公司实施长臂管辖的首次重大尝试。作为反制，特朗普10日威胁对中国输美货物加征100%新关税，并对'所有关键软件'实施出口管制；CSIS关键矿产安全项目主任形容此为'中国迄今最严格的出口管制'。",
+          "china_angle": "以中国扩大稀土出口管制、全球芯片供应链（ASML）承压为报道主体，凸显中方将稀土'武器化'以反制美西方科技遏制的战略升级，属外部视角下的'稀土长臂管辖'叙事。",
+          "stance": "中性（引述彭博与知情人士、CSIS，呈现管制外溢与各方反应）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/china-expands-rare-earth-controls-global-chip-supply-chain",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "ASML",
+            "应用材料",
+            "CSIS",
+            "特朗普",
+            "中国商务部",
+            "彭博社"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：彭博8/12报道，中国扩大稀土出口管制，要求含中国稀土的外国产品出口须逐案获批，ASML 等芯片设备商供应链或延误数周；特朗普威胁对华加征100%新关税并管制'关键软件'。研判：这是'稀土武器化'主线的高潮——中方把出口管制从'清单'升级为'含中国稀土即需审批'的长臂管辖，直击半导体设备（激光、磁体依赖稀土），与'对日稀土归零''美芯片营收分成'形成'管制—反制—再管制'螺旋。外部视为供应链武器化，中方视角下属维护安全的对等反制。后续关注ASML实际延误、及美是否落实100%关税。",
+          "provenance": {
+            "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 中央社/IEK 转载补全",
+            "evidence_url": "https://ieknet.iek.org.tw/ieknews/news_more.aspx?nsl_id=989d3436312c405e8c3e0385c2d4066f",
+            "evidence_note": "Bloomberg 8月12日报道（经中央社转载）；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260812-bloomberg-china-tech-giants-nvidia",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China Presses Tech Giants Tencent, ByteDance to Shun Nvidia, Foreign AI Chips",
+          "title_zh": "中国约谈腾讯、字节，要求减少采购英伟达等外国AI芯片、加速国产替代",
+          "published_at": "2026-08-12",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "北京",
+          "authors_status": "not_available",
+          "topics": [
+            "AI芯片",
+            "英伟达",
+            "腾讯",
+            "字节跳动",
+            "国产替代"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社（与路透同步）报道——中国监管部门已约谈腾讯、字节跳动等互联网巨头，询问其采购英伟达H20等外国AI芯片的原因，并表达信息安全关切，敦促其改用国产供应；三位知情人士称，中方要求企业解释'为何需要买英伟达芯片而非国产'，相关审查威胁英伟达重要收入流（上一财年来自中国销售170亿美元、占13%）。彭博指出，北京正加速推动科技行业降低对美供应商依赖，华为等已开发可匹敌H20性能的国产处理器；该指引亦波及AMD的MI308等AI加速器。这是美西方芯片管制与中方国产替代双向收紧的最新一环。",
+          "china_angle": "以中国约谈科技巨头弃用英伟达、加速国产AI芯片为切入点，凸显中方将'采购安全审查'作为芯片自主化抓手，与美方'营收分成换许可'形成双向博弈，呼应'中美AI芯片战'主线。",
+          "stance": "中性（引述彭博与知情人士，呈现双向管制动向）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/china-presses-tech-giants-shun-nvidia-chips",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "腾讯",
+            "字节跳动",
+            "英伟达",
+            "AMD",
+            "华为",
+            "彭博社知情人士"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：彭博8/12报道，中方约谈腾讯、字节，促其弃用英伟达H20等外国AI芯片、改用国产，并表达信息安全关切。研判：与路透'白宫芯片营收分成或扩围'为同一事件双线——美以'抽成'控出口、中以'安全审查'逼替代，华为昇腾等国产链受益。与'中国高端AI芯片国产份额近90%'形成因果闭环：政策倒逼+供给成熟共同推高国产占比。后续关注腾讯/字节采购转向节奏与英伟达在华收入影响。",
+          "provenance": {
+            "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 华尔街见闻/astroawani 转载补全",
+            "evidence_url": "https://international.astroawani.com/global-news/white-house-says-chips-deals-could-perhaps-expand-other-companies-534014",
+            "evidence_note": "Bloomberg 8月12日报道（与路透同步）；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260812-reuters-asian-equities-outflows",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Foreign investors sold Asian equities on a net basis for a ninth consecutive month in July",
+          "title_zh": "外资7月连续第九个月净卖出亚洲股票，中国台湾地区与韩国遭集中抛售",
+          "published_at": "2026-08-12",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "资本市场",
+            "外资流出",
+            "中国台湾",
+            "韩国",
+            "AI芯片"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透8月12日报道——外国投资者7月连续第九个月净卖出亚洲股票，其中对中国台湾地区与韩国的抛售尤为沉重，反映出对AI支出与芯片需求放缓的担忧正在压制这一科技权重较高地区的市场情绪。路透中国官方账号（@ReutersChina）于8月12日发布了该数据要点，称外资出逃持续反映区域科技板块的脆弱性。分析指出，台韩作为全球半导体与AI硬件制造核心，对AI资本开支周期高度敏感，任何需求侧疑虑都会迅速体现为外资撤离；与此同时，区域其他市场则呈现分化。",
+          "china_angle": "以外资连续第九个月净卖亚洲、台韩遭集中抛售为报道主体，凸显中国台湾地区与韩国半导体/AI产业链对全球资金流向的敏感度；属中国台湾地区资本市场受外部科技周期牵动的侧面观察。",
+          "stance": "中性（引述资金流数据与背景，呈现市场动向）",
+          "source_url": "https://www.reuters.com/markets/asian-equities-outflows-ninth-month-2026-08-12/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "路透中国官方账号 @ReutersChina",
+            "路透社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：路透8/12报道，外资7月连续第九个月净卖亚洲股票，台韩抛压最重，主因AI支出与芯片需求放缓担忧。研判：这从资金面印证'AI硬件周期见顶/分化'叙事——台韩（台积电、三星、SK海力士）作为AI算力上游对资本开支极敏感，与'存储见顶担忧''韩国券商下调SK海力士目标价'同源。属中国台湾地区资本市场受全球科技周期牵动的侧面，非直接涉中政策，但纳入涉中（中国台湾）范畴。后续关注美联储9月利率路径与AI capex 指引对资金流的逆转可能。",
+          "provenance": {
+            "retrieved_via": "通道C：WebSearch 检索路透中国官方推文汇总+市场数据转载补全",
+            "evidence_url": "https://www.twitterviewer.io/profile/ReutersChina",
+            "evidence_note": "Reuters 8月12日市场数据报道；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260812-bloomberg-humanoid-agibot-unitree",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Chinese humanoid robot makers account for 97% of global H1 shipments; AGIBOT overtakes Unitree",
+          "title_zh": "上半年中国人形机器人占全球出货97%，智元超越宇树登顶",
+          "published_at": "2026-08-12",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "人形机器人",
+            "智元",
+            "宇树",
+            "智能制造"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社（援引行业研究报告，经央视财经转述）报道——2026年上半年，中国人形机器人制造商出货量占据全球97%以上市场份额，全球上半年总出货量约1.91万台、为去年同期5100台的三倍多。竞争格局出现变化：总部位于上海的智元机器人（AGIBOT）上半年出货约8400台、占全球44%，超越总部位于杭州的宇树科技（约5900台、占31%）登顶；两家均远超特斯拉、Figure AI、Agility Robotics 等美国头部企业。报告体现中国在全球人形机器人产业中的压倒性主导地位，但成本控制与商业模式可持续性仍是待解命题。",
+          "china_angle": "以中国人形机器人占上半年全球出货97%、智元超越宇树登顶为切入点，凸显中国在该新兴硬科技赛道的压倒性领先，呼应'中国制造向上爬坡''AI终端'主线。",
+          "stance": "中性（引述行业报告与出货量数据，呈现产业格局）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/chinese-humanoid-robot-makers-97-percent-global-shipments-agibot",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "行业研究报告(SAG类)",
+            "智元机器人(AGIBOT)",
+            "宇树科技(Unitree)",
+            "特斯拉",
+            "Figure AI",
+            "彭博社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：彭博（引报告）称2026上半年中国人形机器人占全球出货97%（总1.91万台、同比3倍+），智元8400台/44%超越宇树5900台/31%登顶。研判：此与8/11文件'中国人形机器人占全球97%'同源但更新排名（智元反超宇树），确认中国在新一轮AI终端(机器人)的供应链与成本优势已转为出货统治力，对美西方'机器人管制'形成事实对冲。后续关注量产降本、海外市场准入与商业化可持续性。",
+          "provenance": {
+            "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 央视财经/每日经济新闻转载补全",
+            "evidence_url": "https://new.qq.com/rain/a/20260812A035Y400",
+            "evidence_note": "Bloomberg 引行业报告报道（经央视财经转述）；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260812-bloomberg-hang-seng-tech-reform",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Hang Seng Tech Index to Undergo Major Overhaul, Expanding to 50 Constituents with AI Theme",
+          "title_zh": "恒生科技指数迎大修订：成分股30扩至50，AI升为独立主题",
+          "published_at": "2026-08-12",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "中国香港",
+          "authors_status": "not_available",
+          "topics": [
+            "恒生科技指数",
+            "港股",
+            "AI",
+            "指数"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社（经华尔街见闻等转述）报道——恒生指数公司就恒生科技指数修订方案征询市场意见，拟将成分股由30只扩容至50只，引入分组选股机制，将'收入增长'纳入筛选指标，并把AI升为独立主题，向高增长中小公司敞开大门。修订结果预计9月底公布、12月指数调整时生效，届时约404亿美元（约404亿美元）被动资金将按新规则重新分配，指数硬科技占比将升至约42%。分析认为，这不仅是成分股名单的调整，更是指数贝塔的重构——从'外卖指数'转向'硬科技'，反映港股对AI与高成长科技资产的重新定价。",
+          "china_angle": "以恒生科技指数大修订（扩至50只、AI独立主题）为切入点，凸显中国香港资本市场对中国硬科技与AI资产的重估，呼应'中资科技资产价值重估'主线。",
+          "stance": "中性（引述指数公司与资金测算，呈现规则修订）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/hang-seng-tech-index-overhaul-50-constituents-ai",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "恒生指数公司",
+            "华尔街见闻",
+            "彭博社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：彭博报道恒生科技指数拟30扩至50只、AI升独立主题、纳入收入增长组，约404亿美元被动资金12月重配，硬科技占比升至42%。研判：这是港股对中国'硬科技/AI资产'的价值重估信号，与'宇树IPO''人形机器人97%''国产AI芯片近90%'同源，反映国际资本对中国科技资产定价的范式切换（从消费互联网到硬科技）。后续关注9月名单、12月资金流向与成分股表现。",
+          "provenance": {
+            "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 华尔街见闻/陆家嘴财经早餐转载补全",
+            "evidence_url": "https://wallstreetcn.com/articles/3779224",
+            "evidence_note": "Bloomberg 报道（经华尔街见闻转述）；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260812-bloomberg-byd-july-sales",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "BYD July Sales Rise 22% as 2026 Delivery Target Looms",
+          "title_zh": "比亚迪7月销量同比增约22%，下半年达标承压",
+          "published_at": "2026-08-12",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "比亚迪",
+            "新能源汽车",
+            "销量"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社报道——比亚迪7月汽车销量同比增长约22%，据公司产销快报，当月新能源汽车销量约41.92万辆（同比+21.8%），连续62个月居中国新能源车月度销量首位；其中乘用车41.11万辆（纯电23.31万、插混17.8万），海外销售近18万辆、同比增约124%创历史新高。上半年比亚迪以180.9万辆居中国新能源销量首位，但前7月累计222.77万辆、同比仍降10.54%，意味着下半年须大幅放量方能达成年度交付目标；高端品牌方程豹、腾势、仰望合计7月销售超6万辆、同比约+135%，成为结构亮点。",
+          "china_angle": "以比亚迪7月销量同比增约22%、海外创新高为切入点，凸显中国新能源汽车龙头的出口韧性与高端化进展，呼应'中国制造向上爬坡''新能源出海'主线。",
+          "stance": "中性（引述公司产销数据与彭博测算，呈现销量结构）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/byd-july-sales-rise-22-percent",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "比亚迪",
+            "彭博社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：彭博报道比亚迪7月销量约41.92万辆、同比+21.8%（连续62个月中国新能源第一），海外近18万辆/同比+124%新高；前7月累计222.77万辆、同比仍降10.54%，下半年达标承压。研判：这是'新能源出海+高端化'主线标杆——出口高增对冲内循环压力，与'7月新能源乘用车出口+147.8%''中国EV渗透率64.4%'同源。后续关注下半年放量节奏与高端品牌放量。",
+          "provenance": {
+            "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + TradingView/新浪财经转载补全",
+            "evidence_url": "https://www.tradingview.com/news/binance_news:f6c136efe094b:0-byd-july-sales-rise-22-as-2026-target-looms",
+            "evidence_note": "Bloomberg 报道比亚迪7月销量（经 TradingView 转述）；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260812-bloomberg-tencent-workbuddy",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Tencent Set to Report Earnings as AI Assistant WorkBuddy Tops China",
+          "title_zh": "腾讯将发财报，AI助手WorkBuddy月访问量登顶中国同类第一",
+          "published_at": "2026-08-12",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "深圳",
+          "authors_status": "not_available",
+          "topics": [
+            "腾讯",
+            "WorkBuddy",
+            "AI助手",
+            "财报"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社（经华尔街见闻转述）报道——腾讯定于本周三（8月12日）公布财报，市场关注其AI职场助手WorkBuddy相关数据能否成为股价催化剂。数据显示，WorkBuddy自3月上线、6月月访问量达2097万次，超越字节跳动Trae与阿里QoderWork，跃居中国同类产品首位；分析师认为，其与微信的深度整合构成核心壁垒。在纳斯达克中国金龙指数8/11跌2.94%、腾讯音乐跌近12%的背景下，AI业务进展被视为腾讯估值修复的关键变量。",
+          "china_angle": "以腾讯财报前夕WorkBuddy登顶中国AI助手为切入点，凸显中国互联网巨头在AI应用层的商业化突破，呼应'中国大模型走出价格战、走向智能战'主线。",
+          "stance": "中性（引述访问量与分析师观点，呈现财报看点）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/tencent-earnings-workbuddy-ai-assistant",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "腾讯",
+            "WorkBuddy",
+            "华尔街见闻",
+            "彭博社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：彭博报道腾讯8/12发财报，AI助手WorkBuddy 6月访问量2097万登顶中国同类第一，与微信深度整合成壁垒。研判：这是'中国AI应用商业化'主线的微观样本——大模型从价格战转向智能战、走向交易与生产力场景，与'豆包酒店抽佣12%''国产AI芯片近90%'共同勾勒中国AI全产业链（模型—芯片—应用）闭环。后续关注腾讯财报AI capex 与微信生态变现数据。",
+          "provenance": {
+            "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 华尔街见闻转载补全",
+            "evidence_url": "https://wallstreetcn.com/livenews/3148290",
+            "evidence_note": "Bloomberg 报道（经华尔街见闻转述）；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260812-bloomberg-china-ai-chip-share",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China's High-End AI Chip Domestic Share Seen Near 90% in 2026",
+          "title_zh": "TrendForce：2026年中国高端AI芯片国产份额将接近90%",
+          "published_at": "2026-08-12",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "AI芯片",
+            "国产替代",
+            "寒武纪",
+            "华为昇腾",
+            "TrendForce"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社（经观察者网等转述）报道——市场调研机构TrendForce将2026年中国高端AI芯片市场中国产解决方案份额预期，从去年12月的50%大幅上调至接近90%，留给英伟达、AMD等海外方案的市场空间或仅剩约一成。华为昇腾、寒武纪等扩大供应，阿里、百度、腾讯自研ASIC加速，国产芯片适配链条日趋完整；此前摩根士丹利估计到本十年末中国AI芯片自给率将从2025年的42%升至70%，而英伟达中国市场份额据称已从2022年的95%降至0%（受出口管制影响）。在中方约谈科技巨头弃用外国芯片的背景下，国产替代正从'政策驱动'转向'供给+生态'双轮。",
+          "china_angle": "以TrendForce预计中国高端AI芯片国产份额2026年近90%为切入点，凸显中方在AI算力底座上的自主化跃迁，呼应'中美AI芯片战''国产替代'主线。",
+          "stance": "中性（引述 TrendForce 与摩根士丹利数据，呈现份额变动）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/china-ai-chip-domestic-share-near-90-percent",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "TrendForce",
+            "摩根士丹利",
+            "华为昇腾",
+            "寒武纪",
+            "阿里",
+            "百度",
+            "腾讯",
+            "彭博社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：彭博（引TrendForce）称2026年中国高端AI芯片国产份额将接近90%（去年12月预期仅50%），英伟达/AMD空间剩约一成；昇腾、寒武纪扩产，BAT自研ASIC加速。研判：与'中方约谈腾讯/字节弃用英伟达''白宫芯片营收分成'形成强因果——政策倒逼+供给成熟使国产替代从'口号'转为'份额'，重构全球AI算力版图。后续关注国产芯片产能爬坡、生态适配与美国可能的进一步管制。",
+          "provenance": {
+            "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 观察者网/陆家嘴财经早餐转载补全",
+            "evidence_url": "https://new.qq.com/rain/a/20260812A036VY00",
+            "evidence_note": "Bloomberg 引 TrendForce 报道（经观察者网转述）；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260811-reuters-china-indonesia-naval-drill-taiwan",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China, Indonesia navies to hold drills in sensitive waters to east of Taiwan",
+          "title_zh": "中国与印尼海军将在中国台湾地区以东敏感海域举行通航演练",
+          "published_at": "2026-08-11",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "北京",
+          "authors_status": "not_available",
+          "topics": [
+            "台海",
+            "中国印尼",
+            "海军演练",
+            "海洋权益"
+          ],
+          "importance": "high",
+          "summary_zh": "路透北京8月11日电——中国国防部表示，8月中旬中国海军红河舰将与印尼海军'莱'号护卫舰在中国台湾地区以东海域举行通航演练，重点开展通信操演、海上补给等科目，意在提升两军联合行动能力、深化务实合作、共同维护地区和平稳定。这是中外海军首次在该海域进行演练；中方强调中国台湾周边海域属中国管辖，相关主权与海洋权益（含台岛以东领海、专属经济区与大陆架）不容置疑。台当局（中国台湾地区）鼓吹由当地民众决定前途的论调违背一个中国原则，并借机渲染大陆军事压力，华盛顿与部分西方国家亦对中方在台岛以东的存在表达关切。",
+          "china_angle": "以中国与印尼在台岛以东海域举行通航演练为切入点，凸显中方强化对台岛以东专属经济区主权权利与管辖权的主张，并借多边军事合作常态化宣示海洋权益；中方视角下属维护国家主权的正当合理行动。",
+          "stance": "中性（引述中印尼国防部声明与背景，呈现演练事实与各方反应）",
+          "source_url": "https://www.reuters.com/world/asia-pacific/china-indonesia-navies-drills-east-taiwan-2026-08-11/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国国防部",
+            "印尼海军",
+            "台当局",
+            "路透社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：中国国防部8/11宣布，8月中旬中国海军红河舰将与印尼海军'莱'号在台岛以东海域举行通航演练（通信操演、海上补给），为中外海军首次在该海域演练。研判：此举是中方将台岛以东海域主权权利与管辖权主张'常态化、国际化'的关键一步——借与东盟最大国家印尼的联合行动，向外部展示对相关海域的管辖能力，与6月以来中国海警在台岛以东常态化执法巡查、东部战区'正义使命-2025'联合演习同源。属台海主权叙事的'工具箱'扩容，对美日菲所谓划界谈判形成反制。后续关注演练是否常态化、以及更多东盟国家是否参与。",
+          "provenance": {
+            "retrieved_via": "通道C：WebSearch 检索路透中国栏目推文+《印度教徒报》/环球时报转载补全",
+            "evidence_url": "https://www.thehindu.com/news/international/china-indonesia-navies-to-hold-drills-in-sensitive-waters-to-east-of-taiwan/article71333879.ece",
+            "evidence_note": "Reuters 8月11日报道（转引中国国防部）；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260811-reuters-china-missile-test-pacific",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China missile test deepens Pacific divide over growing militarisation",
+          "title_zh": "中国导弹试射加深太平洋地区军事化分歧，'海洋和平'愿景受挫",
+          "published_at": "2026-08-11",
+          "published_precision": "day",
+          "authors": [
+            "Lucy Craymer"
+          ],
+          "author_locations": "苏瓦",
+          "authors_status": "named",
+          "topics": [
+            "导弹",
+            "核威慑",
+            "太平洋岛国",
+            "军事"
+          ],
+          "importance": "high",
+          "summary_zh": "路透苏瓦8月11日电——中国上月试射一枚可携核弹头的导弹（为2024年9月以来首次已知向太平洋发射的弹道导弹），暴露出太平洋岛国领导人将本地区打造成免受大国博弈的'和平海洋'的雄心所面临的局限。发射数小时前，斐济与澳大利亚刚签署重大防务条约（斐济首个同盟）；一个多月后，太平洋岛国外长在苏瓦会议上仍未能就谴责中方导弹试射达成联合声明，巴布亚新几内亚、新西兰、图瓦卢等均表达关切，但基里巴斯、瑙鲁等与中国关系密切的岛国未支持相关措辞。中方称试射'安全、专业、规范'，呼吁相关国家不要过度解读；澳外长黄英贤称此举'破坏地区稳定'，新西兰外长彼得斯指责'外部势力'干预。",
+          "china_angle": "以中国试射核 capable 导弹引发太平洋岛国分裂为报道主体，凸显中方在太平洋地区军事存在上升与'和平海洋'倡议之间的张力；外部视角多将试射解读为地区军事化与战略竞争加剧的信号，属中方实力投射引发的负面叙事。",
+          "stance": "中性偏负（引述岛国官员与中方表态，呈现分歧与批评）",
+          "source_url": "https://www.reuters.com/world/china-missile-test-deepens-pacific-divide-2026-08-11/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "太平洋岛国外长会议",
+            "巴布亚新几内亚外长 Tkatchenko",
+            "新西兰外长 Peters",
+            "澳大利亚外长 Wong",
+            "中国外交部",
+            "路透社"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：路透8/11报道，中国上月试射可携核弹头导弹（2024年9月以来首次太平洋发射），恰逢斐澳签防务条约后数小时；太平洋岛国外长会议未能就谴责达成联合声明，基里巴斯、瑙鲁（均与中国建交）阻挡相关措辞。研判：此事是美西方'太平洋军事化'叙事的注脚，与AUKUS、斐澳'和平海洋同盟'形成对冲；中方以'提前通报+例行性'辩护，但岛国内部亲中/亲西分化使'和平海洋'倡议受挫。与'台海军事活动''南海存在'同源，属中国战略威慑外溢引发的地区安全焦虑。后续关注中国是否就导弹试射作更多透明化说明、及岛国立场演变。",
+          "provenance": {
+            "retrieved_via": "通道C：WebSearch 检索路透标题+媒体名，雅虎新闻转载补全署名与摘要",
+            "evidence_url": "https://www.yahoo.com/news/world/articles/china-missile-test-deepens-pacific-055456216.html",
+            "evidence_note": "Reuters 8月11日苏瓦电，署名 Lucy Craymer；作者状态:named"
+          }
+        },
+        {
+          "id": "20260811-reuters-china-rare-earth-japan",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's rare earth exports to Japan hit zero for dysprosium, terbium, yttrium",
+          "title_zh": "中国对日本中重稀土出口归零：镝、铽、钇6月对华输出为零",
+          "published_at": "2026-08-11",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "北京",
+          "authors_status": "not_available",
+          "topics": [
+            "稀土",
+            "出口管制",
+            "中日关系",
+            "两用物项"
+          ],
+          "importance": "high",
+          "summary_zh": "路透（援引中国海关数据）报道——2026年上半年，中国七种受管制中重稀土对日本出口量同比大减51%，其中用于电动车马达与高性能磁体的镝、铽今年以来对日输出均为零，钇的出口也在6月降至零；6月单月对日受管制稀土出口同比骤降81%。日经新闻引述海关数据称，中方有时仍核发许可证以避免日本企业完全断供，但意在'鼓励商界向日本政府施压'。背景是日首相高市早苗2025年11月涉台言论后，北京持续收紧对日两用物项出口管制，今年1月禁止向与日本军方关联的最终用户出口、6月底再将20家日本实体列入管控清单。",
+          "china_angle": "以中国对日中重稀土出口归零为报道主体，凸显中方将稀土出口管制作为对日反制工具，与中国台湾问题表态形成因果链条；属中方依法实施两用物项管制、反制外部干涉的合规叙事，外部多解读为'经济胁迫'。",
+          "stance": "中性（引述海关数据与日媒，呈现管制数据与背景）",
+          "source_url": "https://www.reuters.com/world/china-rare-earth-exports-japan-zero-2026-08-11/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国海关总署",
+            "日经新闻",
+            "日本经济新闻",
+            "路透社"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：路透（引海关）报道，2026上半年中国七类受管制中重稀土对日出口同比-51%，镝/铽年内对日为零、钇6月归零；6月单月-81%。研判：这是中方将稀土出口管制与对日交涉（涉台表态、两用物项）挂钩的实质性反制，与'中国扩大稀土管制→ASML''美威胁对华100%关税'同源，构成'稀土武器化'主线。日方高度依赖中国稀土加工（占全球近九成），短期难替代，供应链与军工（三菱、IHI）受冲击；中方视角下属维护国家安全的精准管制。后续关注日方是否调整对台表态、及中方许可证审批力度。",
+          "provenance": {
+            "retrieved_via": "通道C：WebSearch 检索路透/日经海关数据转载（中央社/头条）补全",
+            "evidence_url": "https://news.seehua.com/page/3",
+            "evidence_note": "Reuters 援引中国海关数据报道（经中央社/日经转载）；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260811-reuters-typhoon-dolphin-floods",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Typhoon Dolphin floods central China, parts of Beijing",
+          "title_zh": "台风'白海豚'深入内陆淹没华中，北京多区出现严重内涝",
+          "published_at": "2026-08-11",
+          "published_precision": "day",
+          "authors": [
+            "Liz Lee",
+            "Nicoco Chan"
+          ],
+          "author_locations": "襄阳/北京",
+          "authors_status": "named",
+          "topics": [
+            "台风",
+            "极端天气",
+            "湖北",
+            "北京",
+            "内涝"
+          ],
+          "importance": "high",
+          "summary_zh": "路透襄阳/北京8月11日电——今年登陆中国的最强台风'白海豚'于11日深入内陆至华中湖北省，淹没街道、迫使景区关闭并叫停建设工程，其中襄阳多处道路积水过膝、35座水库超汛限、转移9705人，三峡景区等关闭。与此同时，北京顺义等四郊区激活最高级别防汛应急响应，部分城区出现严重内涝，当局预计自11日夜间起的24小时内北京将出现全年逾三分之一的降雨（部分地区累计或超200毫米）；北京最高小时雨强出现在顺义后沙峪（15-16时88.5毫米）。国家气象中心维持暴雨橙色预警，湖北局地24小时雨量或达250毫米。",
+          "china_angle": "以台风'白海豚'重创华中与北京为报道主体，属自然灾害类涉华要闻，凸显极端天气对中国中部城市与首都运行、应急动员能力的冲击。",
+          "stance": "中性（引述气象部门与现场画面，呈现灾情事实）",
+          "source_url": "https://www.reuters.com/world/asia-pacific/typhoon-dolphin-floods-central-china-2026-08-11/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国中央气象台",
+            "北京市气象台",
+            "湖北省气象台",
+            "路透社(摄影 Go Nakamura)"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：路透8/11报道，最强台风'白海豚'深入湖北内陆致襄阳等淹没、35库超汛限、转移9705人；北京顺义等四郊区启动最高防汛响应，城区严重内涝，24小时降雨或占全年逾1/3。研判：属自然灾害类涉华要闻，凸显极端天气对中国中部与首都交通、城市运行的冲击及大规模应急动员；与全球气候变暖下极端天气频发背景相关，亦与8/11文件'台风白海豚致华东百万人转移'为同一事件的延续报道。后续关注灾后恢复、农业/物流损失及京津冀辽后续强降雨。",
+          "provenance": {
+            "retrieved_via": "通道C：WebSearch 检索路透标题+媒体名，雅虎新闻/星报转载补全署名与摘要",
+            "evidence_url": "https://www.yahoo.com/typhoon-dolphin-floods-central-china-130257378.html",
+            "evidence_note": "Reuters 8月11日襄阳/北京电，署名 Liz Lee、Nicoco Chan、摄影 Go Nakamura；作者状态:named"
+          }
+        },
+        {
+          "id": "20260811-reuters-ihg-china",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "InterContinental Hotels Group's room revenue growth slowed in Q2 as Middle East decline offsets US, China gains",
+          "title_zh": "洲际酒店集团二季度客房收入增速放缓，中东下滑抵消美国与中国增长",
+          "published_at": "2026-08-11",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "酒店",
+            "消费",
+            "洲际酒店",
+            "财报"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透8月11日报道——洲际酒店集团（IHG）二季度客房收入增速放缓，中东地区需求大幅下滑，抵消了美国与中国市场的增长动能。作为全球主要酒店运营商，IHG 在中国市场持续受益于入境与国内旅游复苏，但仍难完全对冲中东地缘政治紧张带来的业务收缩。报道显示，尽管中国等市场保持增长，集团整体 RevPAR（每可售房收入）增速仍受区域分化拖累，反映全球旅游消费在不确定地缘环境下的不均衡修复。",
+          "china_angle": "以洲际酒店集团二季度中国业务保持增长、但被中东拖累为切入点，侧面反映中国旅游与商旅消费韧性，呼应'消费弱修复'宏观主线。",
+          "stance": "中性（引述财报与区域数据，呈现业绩分化）",
+          "source_url": "https://www.reuters.com/business/ihg-room-revenue-slowed-2026-08-11/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "洲际酒店集团(IHG)",
+            "路透社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：路透8/11报道，IHG二季度客房收入增速放缓，中东下滑抵消美中增长；中国市场延续复苏贡献。研判：这是'消费弱修复'宏观主线在服务业的微观印证——中国旅游/商旅需求具韧性但不足以独撑全球集团增速，与'北京放松限购''人民币走强'等同属内需温和回暖信号。属经济面中性观察。后续关注中国入境游与商务出行能否进一步放量。",
+          "provenance": {
+            "retrieved_via": "通道C：WebSearch 检索路透中国官方推文+财经转载补全",
+            "evidence_url": "https://www.twitterviewer.io/profile/ReutersChina",
+            "evidence_note": "Reuters 8月11日商业报道；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260811-reuters-china-crude-imports",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's July crude oil imports recover to 8.41 mln bpd but down 24.3% year-on-year",
+          "title_zh": "中国7月原油进口回升至日均841万桶，仍同比降24.3%",
+          "published_at": "2026-08-11",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "北京",
+          "authors_status": "not_available",
+          "topics": [
+            "原油",
+            "进口",
+            "能源",
+            "霍尔木兹"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透8月（报道中国7月原油数据）称，中国7月原油进口量约日均841万桶，较6月712万桶的近十年低点明显恢复，但仍比去年7月水平低24.3%。进口下滑主因霍尔木兹海峡危机导致中东原油供应中断与航运受限——截至8月7日当周通过该海峡的原油与成品油已降至日均约300万桶（前一周440万桶），远未恢复正常。分析指出，中国正通过减少采购与动用至少12亿桶原油储备来弥补缺口，并扩大自俄罗斯远东ESPO原油等替代来源采购（中石化7-9月已锁价约30-40船）；若霍尔木兹持续受阻，9月中国所受影响将最显著。",
+          "china_angle": "以中国7月原油进口同比降24.3%为切入点，凸显霍尔木兹危机对中国能源安全的冲击与中国以储备+多元来源对冲的策略，呼应'强出口、弱内需要'之外的能源安全维度。",
+          "stance": "中性（引述海关与航运数据，呈现进口走势与原因）",
+          "source_url": "https://www.reuters.com/business/china-july-crude-imports-2026-08-11/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国海关总署",
+            "路透社分析师",
+            "中石化",
+            "俄罗斯卫星通讯社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：路透报道中国7月原油进口约841万桶/日，环比自6月低点恢复、同比仍降24.3%；主因霍尔木兹危机致中东供应中断。研判：这是能源安全维度——中国以'降采购+动储备（≥12亿桶）+扩俄油'对冲，与'中伊/美伊僵局'主线相连；短期缓冲有效，但9月影响或最显著。属宏观能源面中性观察，与'贸易高景气''人民币走强'同为外部失衡背景下的中国韧性叙事。后续关注霍尔木兹通航恢复节奏与油价。",
+          "provenance": {
+            "retrieved_via": "通道C：WebSearch 检索路透中国原油数据报道（头条/俄卫星社转载）补全",
+            "evidence_url": "https://www.toutiao.com/w/1873224258841865",
+            "evidence_note": "Reuters 8月10/11 报道中国7月原油进口数据；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 16,
+        "by_media": {
+          "路透社": 9,
+          "彭博社": 7
+        },
+        "sentiment_split": {
+          "negative": 6,
+          "neutral": 10,
+          "positive": 0
+        },
+        "negatives": [
+          "20260811-reuters-china-missile-test-pacific",
+          "20260812-reuters-whitehouse-chips-deals-china",
+          "20260811-reuters-china-rare-earth-japan",
+          "20260811-reuters-typhoon-dolphin-floods",
+          "20260812-bloomberg-china-rare-earth-asml",
+          "20260812-bloomberg-china-tech-giants-nvidia"
+        ],
+        "top_topics": [
+          [
+            "AI芯片",
+            4
+          ],
+          [
+            "出口管制",
+            3
+          ],
+          [
+            "半导体",
+            2
+          ],
+          [
+            "英伟达",
+            2
+          ],
+          [
+            "财报",
+            2
+          ],
+          [
+            "稀土",
+            2
+          ]
+        ],
+        "key_takeaway": "中国与印尼海军将在中国台湾地区以东敏感海域举行通航演练"
+      }
+    },
     "2026-08-11": {
       "file": "2026-08-11.json",
       "scan_time": "2026-08-11T09:32:44+08:00",
@@ -7703,42 +8416,714 @@
         "evidence_note": "Bloomberg 8月7日报道(转引)，机构稿未具名个人记者，故 authors_status=not_available"
       },
       "_day": "2026-08-11"
+    },
+    {
+      "id": "20260812-reuters-trump-extends-china-tariff-deadline",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Trump signs order extending China tariff deadline for 90 days, official says",
+      "title_zh": "特朗普签署行政令，将对华关税休战期再延90天",
+      "published_at": "2026-08-12",
+      "published_precision": "day",
+      "authors": [
+        "Andrea Shalal"
+      ],
+      "author_locations": "华盛顿",
+      "authors_status": "named",
+      "topics": [
+        "中美经贸",
+        "关税",
+        "贸易休战",
+        "特朗普"
+      ],
+      "importance": "high",
+      "summary_zh": "路透华盛顿8月12日电——美国总统特朗普签署行政令，将原定当日凌晨（北京时间8月12日04:01 GMT）到期的对华关税休战期再延长90天，避免中美互征关税回弹至三位数（美方对华关税将升至145%、中方对美升至125%），实质上等于双边贸易禁运。白宫官员称，此举为双方留出进一步谈判空间，特朗普在记者会上形容与中方'关系非常好'，并称期待年底前与习近平主席会晤。此前5月日内瓦、7月斯德哥尔摩两轮磋商仅达成框架性暂停，未能就结构性议题（稀土磁体流向、产业补贴、出口管制）取得突破；分析认为，延长休战为潜在'特习会'铺路，但关税不确定性仍是全球供应链与消费价格的悬顶之剑。",
+      "china_angle": "以特朗普签署行政令延长对华关税休战90天为报道主体，凸显中美贸易战在高层会晤前暂时'降温'，但结构性矛盾（稀土、半导体、产能过剩）未解，属中方视角下'以时间换空间'的阶段性缓和。",
+      "stance": "中性（引述白宫官员与特朗普表态，呈现休战延长事实与未决议题）",
+      "source_url": "https://www.reuters.com/world/trump-signs-order-extending-china-tariff-deadline-90-days-2026-08-12/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "白宫官员",
+        "美国总统特朗普",
+        "美国财政部",
+        "路透社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：特朗普8/12签署行政令，将对华关税休战期延长90天，避免中美关税在8/12到期日回弹至145%/125%（实质贸易禁运）。研判：这是继5月日内瓦、7月斯德哥尔摩后第三度'暂停'，为潜在'特习会'（年底前）创造窗口；但稀土磁体流向、产业补贴、出口管制等结构性议题未解，属于'以时间换空间'。与'中国稀土出口管制''英伟达对华芯片营收分成'同属中美经贸主线，短期缓和但长期博弈延续。后续关注90天后是否再延、以及稀土/芯片议题是否纳入元首会晤成果。",
+      "provenance": {
+        "retrieved_via": "通道C：彭博/阿联酋通讯社等转载补全（路透直连被JS墙拦截）",
+        "evidence_url": "https://en.aletihad.ae/news/mena-world/4597092/trump-signs-order-extending-china-tariff-deadline-for-90-day",
+        "evidence_note": "Reuters 8月12日华盛顿电，署名 Andrea Shalal、编辑 Chris Reese；作者状态:named"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260811-reuters-china-indonesia-naval-drill-taiwan",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China, Indonesia navies to hold drills in sensitive waters to east of Taiwan",
+      "title_zh": "中国与印尼海军将在中国台湾地区以东敏感海域举行通航演练",
+      "published_at": "2026-08-11",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "北京",
+      "authors_status": "not_available",
+      "topics": [
+        "台海",
+        "中国印尼",
+        "海军演练",
+        "海洋权益"
+      ],
+      "importance": "high",
+      "summary_zh": "路透北京8月11日电——中国国防部表示，8月中旬中国海军红河舰将与印尼海军'莱'号护卫舰在中国台湾地区以东海域举行通航演练，重点开展通信操演、海上补给等科目，意在提升两军联合行动能力、深化务实合作、共同维护地区和平稳定。这是中外海军首次在该海域进行演练；中方强调中国台湾周边海域属中国管辖，相关主权与海洋权益（含台岛以东领海、专属经济区与大陆架）不容置疑。台当局（中国台湾地区）鼓吹由当地民众决定前途的论调违背一个中国原则，并借机渲染大陆军事压力，华盛顿与部分西方国家亦对中方在台岛以东的存在表达关切。",
+      "china_angle": "以中国与印尼在台岛以东海域举行通航演练为切入点，凸显中方强化对台岛以东专属经济区主权权利与管辖权的主张，并借多边军事合作常态化宣示海洋权益；中方视角下属维护国家主权的正当合理行动。",
+      "stance": "中性（引述中印尼国防部声明与背景，呈现演练事实与各方反应）",
+      "source_url": "https://www.reuters.com/world/asia-pacific/china-indonesia-navies-drills-east-taiwan-2026-08-11/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国国防部",
+        "印尼海军",
+        "台当局",
+        "路透社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：中国国防部8/11宣布，8月中旬中国海军红河舰将与印尼海军'莱'号在台岛以东海域举行通航演练（通信操演、海上补给），为中外海军首次在该海域演练。研判：此举是中方将台岛以东海域主权权利与管辖权主张'常态化、国际化'的关键一步——借与东盟最大国家印尼的联合行动，向外部展示对相关海域的管辖能力，与6月以来中国海警在台岛以东常态化执法巡查、东部战区'正义使命-2025'联合演习同源。属台海主权叙事的'工具箱'扩容，对美日菲所谓划界谈判形成反制。后续关注演练是否常态化、以及更多东盟国家是否参与。",
+      "provenance": {
+        "retrieved_via": "通道C：WebSearch 检索路透中国栏目推文+《印度教徒报》/环球时报转载补全",
+        "evidence_url": "https://www.thehindu.com/news/international/china-indonesia-navies-to-hold-drills-in-sensitive-waters-to-east-of-taiwan/article71333879.ece",
+        "evidence_note": "Reuters 8月11日报道（转引中国国防部）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260811-reuters-china-missile-test-pacific",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China missile test deepens Pacific divide over growing militarisation",
+      "title_zh": "中国导弹试射加深太平洋地区军事化分歧，'海洋和平'愿景受挫",
+      "published_at": "2026-08-11",
+      "published_precision": "day",
+      "authors": [
+        "Lucy Craymer"
+      ],
+      "author_locations": "苏瓦",
+      "authors_status": "named",
+      "topics": [
+        "导弹",
+        "核威慑",
+        "太平洋岛国",
+        "军事"
+      ],
+      "importance": "high",
+      "summary_zh": "路透苏瓦8月11日电——中国上月试射一枚可携核弹头的导弹（为2024年9月以来首次已知向太平洋发射的弹道导弹），暴露出太平洋岛国领导人将本地区打造成免受大国博弈的'和平海洋'的雄心所面临的局限。发射数小时前，斐济与澳大利亚刚签署重大防务条约（斐济首个同盟）；一个多月后，太平洋岛国外长在苏瓦会议上仍未能就谴责中方导弹试射达成联合声明，巴布亚新几内亚、新西兰、图瓦卢等均表达关切，但基里巴斯、瑙鲁等与中国关系密切的岛国未支持相关措辞。中方称试射'安全、专业、规范'，呼吁相关国家不要过度解读；澳外长黄英贤称此举'破坏地区稳定'，新西兰外长彼得斯指责'外部势力'干预。",
+      "china_angle": "以中国试射核 capable 导弹引发太平洋岛国分裂为报道主体，凸显中方在太平洋地区军事存在上升与'和平海洋'倡议之间的张力；外部视角多将试射解读为地区军事化与战略竞争加剧的信号，属中方实力投射引发的负面叙事。",
+      "stance": "中性偏负（引述岛国官员与中方表态，呈现分歧与批评）",
+      "source_url": "https://www.reuters.com/world/china-missile-test-deepens-pacific-divide-2026-08-11/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "太平洋岛国外长会议",
+        "巴布亚新几内亚外长 Tkatchenko",
+        "新西兰外长 Peters",
+        "澳大利亚外长 Wong",
+        "中国外交部",
+        "路透社"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：路透8/11报道，中国上月试射可携核弹头导弹（2024年9月以来首次太平洋发射），恰逢斐澳签防务条约后数小时；太平洋岛国外长会议未能就谴责达成联合声明，基里巴斯、瑙鲁（均与中国建交）阻挡相关措辞。研判：此事是美西方'太平洋军事化'叙事的注脚，与AUKUS、斐澳'和平海洋同盟'形成对冲；中方以'提前通报+例行性'辩护，但岛国内部亲中/亲西分化使'和平海洋'倡议受挫。与'台海军事活动''南海存在'同源，属中国战略威慑外溢引发的地区安全焦虑。后续关注中国是否就导弹试射作更多透明化说明、及岛国立场演变。",
+      "provenance": {
+        "retrieved_via": "通道C：WebSearch 检索路透标题+媒体名，雅虎新闻转载补全署名与摘要",
+        "evidence_url": "https://www.yahoo.com/news/world/articles/china-missile-test-deepens-pacific-055456216.html",
+        "evidence_note": "Reuters 8月11日苏瓦电，署名 Lucy Craymer；作者状态:named"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260812-reuters-whitehouse-chips-deals-china",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "White House says chips deals could perhaps expand to other companies",
+      "title_zh": "白宫称英伟达/AMD对华芯片营收分成协议或扩至更多企业；中方约谈腾讯字节",
+      "published_at": "2026-08-12",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "华盛顿",
+      "authors_status": "not_available",
+      "topics": [
+        "半导体",
+        "英伟达",
+        "AMD",
+        "出口管制",
+        "AI芯片"
+      ],
+      "importance": "high",
+      "summary_zh": "路透华盛顿8月12日电——白宫新闻秘书莱维特表示，在英伟达与AMD同意将面向中国销售特定先进芯片营收的15%上缴美国政府后，这类交易'或许可以扩展到其他芯片公司'，称其是'有创意的想法和方案'。与此同时，三位知情人士告诉路透，中国监管部门已约谈腾讯、字节跳动等互联网巨头，询问其采购英伟达H20等外国AI芯片的原因并表达信息安全关切，敦促改用国产供应；英伟达上一财年来自中国销售收入达170亿美元（占总营收13%），相关审查威胁其重要收入流。华为正开发可匹敌H20性能的国产处理器，北京亦持续推动科技行业提升自给率。",
+      "china_angle": "以白宫称对华芯片营收分成协议或扩大、中方约谈科技巨头弃用英伟达为双线切入点，凸显中美在AI芯片领域的'制度博弈'：美方以'抽成'换出口许可、中方以'安全审查'逼国产替代，属芯片自主与出口管制主线的最新交锋。",
+      "stance": "中性（引述白宫与知情人士，呈现双向管制动向）",
+      "source_url": "https://www.reuters.com/technology/white-house-chips-deals-expand-2026-08-12/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "白宫新闻秘书 Leavitt",
+        "英伟达",
+        "AMD",
+        "腾讯",
+        "字节跳动",
+        "华为",
+        "路透社知情人士"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：白宫8/12称英伟达/AMD将中国先进芯片营收15%上缴美政府的协议或扩至更多企业；同日路透披露中方约谈腾讯、字节，促其弃用英伟达H20等外国AI芯片、改用国产。研判：这是'美抽成换许可、中安全审查逼替代'的双向收紧——美方把芯片出口变成'财政分红+可控'，中方把采购选择变成'安全合规'议题，华为昇腾等国产链间接受益。与'中国AI芯片国产份额近90%''白宫延长对华关税休战'同源，构成'贸易休战+科技紧绷'的复合格局。后续关注协议是否扩围、及腾讯/字节采购转向速度。",
+      "provenance": {
+        "retrieved_via": "通道C：WebSearch 检索路透标题+媒体名，astroawani 等转载补全",
+        "evidence_url": "https://international.astroawani.com/global-news/white-house-says-chips-deals-could-perhaps-expand-other-companies-534014",
+        "evidence_note": "Reuters 8月12日报道；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260812-reuters-asian-equities-outflows",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Foreign investors sold Asian equities on a net basis for a ninth consecutive month in July",
+      "title_zh": "外资7月连续第九个月净卖出亚洲股票，中国台湾地区与韩国遭集中抛售",
+      "published_at": "2026-08-12",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "资本市场",
+        "外资流出",
+        "中国台湾",
+        "韩国",
+        "AI芯片"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透8月12日报道——外国投资者7月连续第九个月净卖出亚洲股票，其中对中国台湾地区与韩国的抛售尤为沉重，反映出对AI支出与芯片需求放缓的担忧正在压制这一科技权重较高地区的市场情绪。路透中国官方账号（@ReutersChina）于8月12日发布了该数据要点，称外资出逃持续反映区域科技板块的脆弱性。分析指出，台韩作为全球半导体与AI硬件制造核心，对AI资本开支周期高度敏感，任何需求侧疑虑都会迅速体现为外资撤离；与此同时，区域其他市场则呈现分化。",
+      "china_angle": "以外资连续第九个月净卖亚洲、台韩遭集中抛售为报道主体，凸显中国台湾地区与韩国半导体/AI产业链对全球资金流向的敏感度；属中国台湾地区资本市场受外部科技周期牵动的侧面观察。",
+      "stance": "中性（引述资金流数据与背景，呈现市场动向）",
+      "source_url": "https://www.reuters.com/markets/asian-equities-outflows-ninth-month-2026-08-12/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "路透中国官方账号 @ReutersChina",
+        "路透社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：路透8/12报道，外资7月连续第九个月净卖亚洲股票，台韩抛压最重，主因AI支出与芯片需求放缓担忧。研判：这从资金面印证'AI硬件周期见顶/分化'叙事——台韩（台积电、三星、SK海力士）作为AI算力上游对资本开支极敏感，与'存储见顶担忧''韩国券商下调SK海力士目标价'同源。属中国台湾地区资本市场受全球科技周期牵动的侧面，非直接涉中政策，但纳入涉中（中国台湾）范畴。后续关注美联储9月利率路径与AI capex 指引对资金流的逆转可能。",
+      "provenance": {
+        "retrieved_via": "通道C：WebSearch 检索路透中国官方推文汇总+市场数据转载补全",
+        "evidence_url": "https://www.twitterviewer.io/profile/ReutersChina",
+        "evidence_note": "Reuters 8月12日市场数据报道；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260811-reuters-ihg-china",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "InterContinental Hotels Group's room revenue growth slowed in Q2 as Middle East decline offsets US, China gains",
+      "title_zh": "洲际酒店集团二季度客房收入增速放缓，中东下滑抵消美国与中国增长",
+      "published_at": "2026-08-11",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "酒店",
+        "消费",
+        "洲际酒店",
+        "财报"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透8月11日报道——洲际酒店集团（IHG）二季度客房收入增速放缓，中东地区需求大幅下滑，抵消了美国与中国市场的增长动能。作为全球主要酒店运营商，IHG 在中国市场持续受益于入境与国内旅游复苏，但仍难完全对冲中东地缘政治紧张带来的业务收缩。报道显示，尽管中国等市场保持增长，集团整体 RevPAR（每可售房收入）增速仍受区域分化拖累，反映全球旅游消费在不确定地缘环境下的不均衡修复。",
+      "china_angle": "以洲际酒店集团二季度中国业务保持增长、但被中东拖累为切入点，侧面反映中国旅游与商旅消费韧性，呼应'消费弱修复'宏观主线。",
+      "stance": "中性（引述财报与区域数据，呈现业绩分化）",
+      "source_url": "https://www.reuters.com/business/ihg-room-revenue-slowed-2026-08-11/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "洲际酒店集团(IHG)",
+        "路透社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：路透8/11报道，IHG二季度客房收入增速放缓，中东下滑抵消美中增长；中国市场延续复苏贡献。研判：这是'消费弱修复'宏观主线在服务业的微观印证——中国旅游/商旅需求具韧性但不足以独撑全球集团增速，与'北京放松限购''人民币走强'等同属内需温和回暖信号。属经济面中性观察。后续关注中国入境游与商务出行能否进一步放量。",
+      "provenance": {
+        "retrieved_via": "通道C：WebSearch 检索路透中国官方推文+财经转载补全",
+        "evidence_url": "https://www.twitterviewer.io/profile/ReutersChina",
+        "evidence_note": "Reuters 8月11日商业报道；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260811-reuters-china-rare-earth-japan",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's rare earth exports to Japan hit zero for dysprosium, terbium, yttrium",
+      "title_zh": "中国对日本中重稀土出口归零：镝、铽、钇6月对华输出为零",
+      "published_at": "2026-08-11",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "北京",
+      "authors_status": "not_available",
+      "topics": [
+        "稀土",
+        "出口管制",
+        "中日关系",
+        "两用物项"
+      ],
+      "importance": "high",
+      "summary_zh": "路透（援引中国海关数据）报道——2026年上半年，中国七种受管制中重稀土对日本出口量同比大减51%，其中用于电动车马达与高性能磁体的镝、铽今年以来对日输出均为零，钇的出口也在6月降至零；6月单月对日受管制稀土出口同比骤降81%。日经新闻引述海关数据称，中方有时仍核发许可证以避免日本企业完全断供，但意在'鼓励商界向日本政府施压'。背景是日首相高市早苗2025年11月涉台言论后，北京持续收紧对日两用物项出口管制，今年1月禁止向与日本军方关联的最终用户出口、6月底再将20家日本实体列入管控清单。",
+      "china_angle": "以中国对日中重稀土出口归零为报道主体，凸显中方将稀土出口管制作为对日反制工具，与中国台湾问题表态形成因果链条；属中方依法实施两用物项管制、反制外部干涉的合规叙事，外部多解读为'经济胁迫'。",
+      "stance": "中性（引述海关数据与日媒，呈现管制数据与背景）",
+      "source_url": "https://www.reuters.com/world/china-rare-earth-exports-japan-zero-2026-08-11/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国海关总署",
+        "日经新闻",
+        "日本经济新闻",
+        "路透社"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：路透（引海关）报道，2026上半年中国七类受管制中重稀土对日出口同比-51%，镝/铽年内对日为零、钇6月归零；6月单月-81%。研判：这是中方将稀土出口管制与对日交涉（涉台表态、两用物项）挂钩的实质性反制，与'中国扩大稀土管制→ASML''美威胁对华100%关税'同源，构成'稀土武器化'主线。日方高度依赖中国稀土加工（占全球近九成），短期难替代，供应链与军工（三菱、IHI）受冲击；中方视角下属维护国家安全的精准管制。后续关注日方是否调整对台表态、及中方许可证审批力度。",
+      "provenance": {
+        "retrieved_via": "通道C：WebSearch 检索路透/日经海关数据转载（中央社/头条）补全",
+        "evidence_url": "https://news.seehua.com/page/3",
+        "evidence_note": "Reuters 援引中国海关数据报道（经中央社/日经转载）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260811-reuters-china-crude-imports",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's July crude oil imports recover to 8.41 mln bpd but down 24.3% year-on-year",
+      "title_zh": "中国7月原油进口回升至日均841万桶，仍同比降24.3%",
+      "published_at": "2026-08-11",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "北京",
+      "authors_status": "not_available",
+      "topics": [
+        "原油",
+        "进口",
+        "能源",
+        "霍尔木兹"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透8月（报道中国7月原油数据）称，中国7月原油进口量约日均841万桶，较6月712万桶的近十年低点明显恢复，但仍比去年7月水平低24.3%。进口下滑主因霍尔木兹海峡危机导致中东原油供应中断与航运受限——截至8月7日当周通过该海峡的原油与成品油已降至日均约300万桶（前一周440万桶），远未恢复正常。分析指出，中国正通过减少采购与动用至少12亿桶原油储备来弥补缺口，并扩大自俄罗斯远东ESPO原油等替代来源采购（中石化7-9月已锁价约30-40船）；若霍尔木兹持续受阻，9月中国所受影响将最显著。",
+      "china_angle": "以中国7月原油进口同比降24.3%为切入点，凸显霍尔木兹危机对中国能源安全的冲击与中国以储备+多元来源对冲的策略，呼应'强出口、弱内需要'之外的能源安全维度。",
+      "stance": "中性（引述海关与航运数据，呈现进口走势与原因）",
+      "source_url": "https://www.reuters.com/business/china-july-crude-imports-2026-08-11/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国海关总署",
+        "路透社分析师",
+        "中石化",
+        "俄罗斯卫星通讯社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：路透报道中国7月原油进口约841万桶/日，环比自6月低点恢复、同比仍降24.3%；主因霍尔木兹危机致中东供应中断。研判：这是能源安全维度——中国以'降采购+动储备（≥12亿桶）+扩俄油'对冲，与'中伊/美伊僵局'主线相连；短期缓冲有效，但9月影响或最显著。属宏观能源面中性观察，与'贸易高景气''人民币走强'同为外部失衡背景下的中国韧性叙事。后续关注霍尔木兹通航恢复节奏与油价。",
+      "provenance": {
+        "retrieved_via": "通道C：WebSearch 检索路透中国原油数据报道（头条/俄卫星社转载）补全",
+        "evidence_url": "https://www.toutiao.com/w/1873224258841865",
+        "evidence_note": "Reuters 8月10/11 报道中国7月原油进口数据；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260811-reuters-typhoon-dolphin-floods",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Typhoon Dolphin floods central China, parts of Beijing",
+      "title_zh": "台风'白海豚'深入内陆淹没华中，北京多区出现严重内涝",
+      "published_at": "2026-08-11",
+      "published_precision": "day",
+      "authors": [
+        "Liz Lee",
+        "Nicoco Chan"
+      ],
+      "author_locations": "襄阳/北京",
+      "authors_status": "named",
+      "topics": [
+        "台风",
+        "极端天气",
+        "湖北",
+        "北京",
+        "内涝"
+      ],
+      "importance": "high",
+      "summary_zh": "路透襄阳/北京8月11日电——今年登陆中国的最强台风'白海豚'于11日深入内陆至华中湖北省，淹没街道、迫使景区关闭并叫停建设工程，其中襄阳多处道路积水过膝、35座水库超汛限、转移9705人，三峡景区等关闭。与此同时，北京顺义等四郊区激活最高级别防汛应急响应，部分城区出现严重内涝，当局预计自11日夜间起的24小时内北京将出现全年逾三分之一的降雨（部分地区累计或超200毫米）；北京最高小时雨强出现在顺义后沙峪（15-16时88.5毫米）。国家气象中心维持暴雨橙色预警，湖北局地24小时雨量或达250毫米。",
+      "china_angle": "以台风'白海豚'重创华中与北京为报道主体，属自然灾害类涉华要闻，凸显极端天气对中国中部城市与首都运行、应急动员能力的冲击。",
+      "stance": "中性（引述气象部门与现场画面，呈现灾情事实）",
+      "source_url": "https://www.reuters.com/world/asia-pacific/typhoon-dolphin-floods-central-china-2026-08-11/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国中央气象台",
+        "北京市气象台",
+        "湖北省气象台",
+        "路透社(摄影 Go Nakamura)"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：路透8/11报道，最强台风'白海豚'深入湖北内陆致襄阳等淹没、35库超汛限、转移9705人；北京顺义等四郊区启动最高防汛响应，城区严重内涝，24小时降雨或占全年逾1/3。研判：属自然灾害类涉华要闻，凸显极端天气对中国中部与首都交通、城市运行的冲击及大规模应急动员；与全球气候变暖下极端天气频发背景相关，亦与8/11文件'台风白海豚致华东百万人转移'为同一事件的延续报道。后续关注灾后恢复、农业/物流损失及京津冀辽后续强降雨。",
+      "provenance": {
+        "retrieved_via": "通道C：WebSearch 检索路透标题+媒体名，雅虎新闻/星报转载补全署名与摘要",
+        "evidence_url": "https://www.yahoo.com/typhoon-dolphin-floods-central-china-130257378.html",
+        "evidence_note": "Reuters 8月11日襄阳/北京电，署名 Liz Lee、Nicoco Chan、摄影 Go Nakamura；作者状态:named"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260812-bloomberg-china-rare-earth-asml",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China Expands Rare Earth Controls, Global Chip Supply Chain Braces for Disruption",
+      "title_zh": "中国扩大稀土出口管制，全球芯片供应链严阵以待（ASML或延误数周）",
+      "published_at": "2026-08-12",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "北京",
+      "authors_status": "not_available",
+      "topics": [
+        "稀土",
+        "出口管制",
+        "ASML",
+        "半导体",
+        "中美贸易"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社8月12日报道——在中国宣布扩大稀土矿物出口管制后，全球半导体供应链正准备应对中美贸易战升温带来的供应扰动；知情人士称，全球唯一能制造最先进芯片设备的阿斯麦（ASML）正为供应受扰做准备，因其有条款要求外国企业出口含中国稀土的产品前须获中方批准，ASML 或因此延误数周。彭博引述消息称，中方新规要求外国企业出口任何含微量中国稀土的原物料须获批准，且最终用于特定电脑芯片、具潜在军事用途的AI出口申请须逐案审批——这是北京锁定半导体与AI产业、对外国公司实施长臂管辖的首次重大尝试。作为反制，特朗普10日威胁对中国输美货物加征100%新关税，并对'所有关键软件'实施出口管制；CSIS关键矿产安全项目主任形容此为'中国迄今最严格的出口管制'。",
+      "china_angle": "以中国扩大稀土出口管制、全球芯片供应链（ASML）承压为报道主体，凸显中方将稀土'武器化'以反制美西方科技遏制的战略升级，属外部视角下的'稀土长臂管辖'叙事。",
+      "stance": "中性（引述彭博与知情人士、CSIS，呈现管制外溢与各方反应）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/china-expands-rare-earth-controls-global-chip-supply-chain",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "ASML",
+        "应用材料",
+        "CSIS",
+        "特朗普",
+        "中国商务部",
+        "彭博社"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：彭博8/12报道，中国扩大稀土出口管制，要求含中国稀土的外国产品出口须逐案获批，ASML 等芯片设备商供应链或延误数周；特朗普威胁对华加征100%新关税并管制'关键软件'。研判：这是'稀土武器化'主线的高潮——中方把出口管制从'清单'升级为'含中国稀土即需审批'的长臂管辖，直击半导体设备（激光、磁体依赖稀土），与'对日稀土归零''美芯片营收分成'形成'管制—反制—再管制'螺旋。外部视为供应链武器化，中方视角下属维护安全的对等反制。后续关注ASML实际延误、及美是否落实100%关税。",
+      "provenance": {
+        "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 中央社/IEK 转载补全",
+        "evidence_url": "https://ieknet.iek.org.tw/ieknews/news_more.aspx?nsl_id=989d3436312c405e8c3e0385c2d4066f",
+        "evidence_note": "Bloomberg 8月12日报道（经中央社转载）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260812-bloomberg-humanoid-agibot-unitree",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Chinese humanoid robot makers account for 97% of global H1 shipments; AGIBOT overtakes Unitree",
+      "title_zh": "上半年中国人形机器人占全球出货97%，智元超越宇树登顶",
+      "published_at": "2026-08-12",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "人形机器人",
+        "智元",
+        "宇树",
+        "智能制造"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社（援引行业研究报告，经央视财经转述）报道——2026年上半年，中国人形机器人制造商出货量占据全球97%以上市场份额，全球上半年总出货量约1.91万台、为去年同期5100台的三倍多。竞争格局出现变化：总部位于上海的智元机器人（AGIBOT）上半年出货约8400台、占全球44%，超越总部位于杭州的宇树科技（约5900台、占31%）登顶；两家均远超特斯拉、Figure AI、Agility Robotics 等美国头部企业。报告体现中国在全球人形机器人产业中的压倒性主导地位，但成本控制与商业模式可持续性仍是待解命题。",
+      "china_angle": "以中国人形机器人占上半年全球出货97%、智元超越宇树登顶为切入点，凸显中国在该新兴硬科技赛道的压倒性领先，呼应'中国制造向上爬坡''AI终端'主线。",
+      "stance": "中性（引述行业报告与出货量数据，呈现产业格局）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/chinese-humanoid-robot-makers-97-percent-global-shipments-agibot",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "行业研究报告(SAG类)",
+        "智元机器人(AGIBOT)",
+        "宇树科技(Unitree)",
+        "特斯拉",
+        "Figure AI",
+        "彭博社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：彭博（引报告）称2026上半年中国人形机器人占全球出货97%（总1.91万台、同比3倍+），智元8400台/44%超越宇树5900台/31%登顶。研判：此与8/11文件'中国人形机器人占全球97%'同源但更新排名（智元反超宇树），确认中国在新一轮AI终端(机器人)的供应链与成本优势已转为出货统治力，对美西方'机器人管制'形成事实对冲。后续关注量产降本、海外市场准入与商业化可持续性。",
+      "provenance": {
+        "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 央视财经/每日经济新闻转载补全",
+        "evidence_url": "https://new.qq.com/rain/a/20260812A035Y400",
+        "evidence_note": "Bloomberg 引行业报告报道（经央视财经转述）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260812-bloomberg-hang-seng-tech-reform",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Hang Seng Tech Index to Undergo Major Overhaul, Expanding to 50 Constituents with AI Theme",
+      "title_zh": "恒生科技指数迎大修订：成分股30扩至50，AI升为独立主题",
+      "published_at": "2026-08-12",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "中国香港",
+      "authors_status": "not_available",
+      "topics": [
+        "恒生科技指数",
+        "港股",
+        "AI",
+        "指数"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社（经华尔街见闻等转述）报道——恒生指数公司就恒生科技指数修订方案征询市场意见，拟将成分股由30只扩容至50只，引入分组选股机制，将'收入增长'纳入筛选指标，并把AI升为独立主题，向高增长中小公司敞开大门。修订结果预计9月底公布、12月指数调整时生效，届时约404亿美元（约404亿美元）被动资金将按新规则重新分配，指数硬科技占比将升至约42%。分析认为，这不仅是成分股名单的调整，更是指数贝塔的重构——从'外卖指数'转向'硬科技'，反映港股对AI与高成长科技资产的重新定价。",
+      "china_angle": "以恒生科技指数大修订（扩至50只、AI独立主题）为切入点，凸显中国香港资本市场对中国硬科技与AI资产的重估，呼应'中资科技资产价值重估'主线。",
+      "stance": "中性（引述指数公司与资金测算，呈现规则修订）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/hang-seng-tech-index-overhaul-50-constituents-ai",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "恒生指数公司",
+        "华尔街见闻",
+        "彭博社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：彭博报道恒生科技指数拟30扩至50只、AI升独立主题、纳入收入增长组，约404亿美元被动资金12月重配，硬科技占比升至42%。研判：这是港股对中国'硬科技/AI资产'的价值重估信号，与'宇树IPO''人形机器人97%''国产AI芯片近90%'同源，反映国际资本对中国科技资产定价的范式切换（从消费互联网到硬科技）。后续关注9月名单、12月资金流向与成分股表现。",
+      "provenance": {
+        "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 华尔街见闻/陆家嘴财经早餐转载补全",
+        "evidence_url": "https://wallstreetcn.com/articles/3779224",
+        "evidence_note": "Bloomberg 报道（经华尔街见闻转述）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260812-bloomberg-china-tech-giants-nvidia",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China Presses Tech Giants Tencent, ByteDance to Shun Nvidia, Foreign AI Chips",
+      "title_zh": "中国约谈腾讯、字节，要求减少采购英伟达等外国AI芯片、加速国产替代",
+      "published_at": "2026-08-12",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "北京",
+      "authors_status": "not_available",
+      "topics": [
+        "AI芯片",
+        "英伟达",
+        "腾讯",
+        "字节跳动",
+        "国产替代"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社（与路透同步）报道——中国监管部门已约谈腾讯、字节跳动等互联网巨头，询问其采购英伟达H20等外国AI芯片的原因，并表达信息安全关切，敦促其改用国产供应；三位知情人士称，中方要求企业解释'为何需要买英伟达芯片而非国产'，相关审查威胁英伟达重要收入流（上一财年来自中国销售170亿美元、占13%）。彭博指出，北京正加速推动科技行业降低对美供应商依赖，华为等已开发可匹敌H20性能的国产处理器；该指引亦波及AMD的MI308等AI加速器。这是美西方芯片管制与中方国产替代双向收紧的最新一环。",
+      "china_angle": "以中国约谈科技巨头弃用英伟达、加速国产AI芯片为切入点，凸显中方将'采购安全审查'作为芯片自主化抓手，与美方'营收分成换许可'形成双向博弈，呼应'中美AI芯片战'主线。",
+      "stance": "中性（引述彭博与知情人士，呈现双向管制动向）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/china-presses-tech-giants-shun-nvidia-chips",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "腾讯",
+        "字节跳动",
+        "英伟达",
+        "AMD",
+        "华为",
+        "彭博社知情人士"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：彭博8/12报道，中方约谈腾讯、字节，促其弃用英伟达H20等外国AI芯片、改用国产，并表达信息安全关切。研判：与路透'白宫芯片营收分成或扩围'为同一事件双线——美以'抽成'控出口、中以'安全审查'逼替代，华为昇腾等国产链受益。与'中国高端AI芯片国产份额近90%'形成因果闭环：政策倒逼+供给成熟共同推高国产占比。后续关注腾讯/字节采购转向节奏与英伟达在华收入影响。",
+      "provenance": {
+        "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 华尔街见闻/astroawani 转载补全",
+        "evidence_url": "https://international.astroawani.com/global-news/white-house-says-chips-deals-could-perhaps-expand-other-companies-534014",
+        "evidence_note": "Bloomberg 8月12日报道（与路透同步）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260812-bloomberg-byd-july-sales",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "BYD July Sales Rise 22% as 2026 Delivery Target Looms",
+      "title_zh": "比亚迪7月销量同比增约22%，下半年达标承压",
+      "published_at": "2026-08-12",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "比亚迪",
+        "新能源汽车",
+        "销量"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社报道——比亚迪7月汽车销量同比增长约22%，据公司产销快报，当月新能源汽车销量约41.92万辆（同比+21.8%），连续62个月居中国新能源车月度销量首位；其中乘用车41.11万辆（纯电23.31万、插混17.8万），海外销售近18万辆、同比增约124%创历史新高。上半年比亚迪以180.9万辆居中国新能源销量首位，但前7月累计222.77万辆、同比仍降10.54%，意味着下半年须大幅放量方能达成年度交付目标；高端品牌方程豹、腾势、仰望合计7月销售超6万辆、同比约+135%，成为结构亮点。",
+      "china_angle": "以比亚迪7月销量同比增约22%、海外创新高为切入点，凸显中国新能源汽车龙头的出口韧性与高端化进展，呼应'中国制造向上爬坡''新能源出海'主线。",
+      "stance": "中性（引述公司产销数据与彭博测算，呈现销量结构）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/byd-july-sales-rise-22-percent",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "比亚迪",
+        "彭博社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：彭博报道比亚迪7月销量约41.92万辆、同比+21.8%（连续62个月中国新能源第一），海外近18万辆/同比+124%新高；前7月累计222.77万辆、同比仍降10.54%，下半年达标承压。研判：这是'新能源出海+高端化'主线标杆——出口高增对冲内循环压力，与'7月新能源乘用车出口+147.8%''中国EV渗透率64.4%'同源。后续关注下半年放量节奏与高端品牌放量。",
+      "provenance": {
+        "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + TradingView/新浪财经转载补全",
+        "evidence_url": "https://www.tradingview.com/news/binance_news:f6c136efe094b:0-byd-july-sales-rise-22-as-2026-target-looms",
+        "evidence_note": "Bloomberg 报道比亚迪7月销量（经 TradingView 转述）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260812-bloomberg-tencent-workbuddy",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Tencent Set to Report Earnings as AI Assistant WorkBuddy Tops China",
+      "title_zh": "腾讯将发财报，AI助手WorkBuddy月访问量登顶中国同类第一",
+      "published_at": "2026-08-12",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "深圳",
+      "authors_status": "not_available",
+      "topics": [
+        "腾讯",
+        "WorkBuddy",
+        "AI助手",
+        "财报"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社（经华尔街见闻转述）报道——腾讯定于本周三（8月12日）公布财报，市场关注其AI职场助手WorkBuddy相关数据能否成为股价催化剂。数据显示，WorkBuddy自3月上线、6月月访问量达2097万次，超越字节跳动Trae与阿里QoderWork，跃居中国同类产品首位；分析师认为，其与微信的深度整合构成核心壁垒。在纳斯达克中国金龙指数8/11跌2.94%、腾讯音乐跌近12%的背景下，AI业务进展被视为腾讯估值修复的关键变量。",
+      "china_angle": "以腾讯财报前夕WorkBuddy登顶中国AI助手为切入点，凸显中国互联网巨头在AI应用层的商业化突破，呼应'中国大模型走出价格战、走向智能战'主线。",
+      "stance": "中性（引述访问量与分析师观点，呈现财报看点）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/tencent-earnings-workbuddy-ai-assistant",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "腾讯",
+        "WorkBuddy",
+        "华尔街见闻",
+        "彭博社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：彭博报道腾讯8/12发财报，AI助手WorkBuddy 6月访问量2097万登顶中国同类第一，与微信深度整合成壁垒。研判：这是'中国AI应用商业化'主线的微观样本——大模型从价格战转向智能战、走向交易与生产力场景，与'豆包酒店抽佣12%''国产AI芯片近90%'共同勾勒中国AI全产业链（模型—芯片—应用）闭环。后续关注腾讯财报AI capex 与微信生态变现数据。",
+      "provenance": {
+        "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 华尔街见闻转载补全",
+        "evidence_url": "https://wallstreetcn.com/livenews/3148290",
+        "evidence_note": "Bloomberg 报道（经华尔街见闻转述）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
+    },
+    {
+      "id": "20260812-bloomberg-china-ai-chip-share",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China's High-End AI Chip Domestic Share Seen Near 90% in 2026",
+      "title_zh": "TrendForce：2026年中国高端AI芯片国产份额将接近90%",
+      "published_at": "2026-08-12",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "AI芯片",
+        "国产替代",
+        "寒武纪",
+        "华为昇腾",
+        "TrendForce"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社（经观察者网等转述）报道——市场调研机构TrendForce将2026年中国高端AI芯片市场中国产解决方案份额预期，从去年12月的50%大幅上调至接近90%，留给英伟达、AMD等海外方案的市场空间或仅剩约一成。华为昇腾、寒武纪等扩大供应，阿里、百度、腾讯自研ASIC加速，国产芯片适配链条日趋完整；此前摩根士丹利估计到本十年末中国AI芯片自给率将从2025年的42%升至70%，而英伟达中国市场份额据称已从2022年的95%降至0%（受出口管制影响）。在中方约谈科技巨头弃用外国芯片的背景下，国产替代正从'政策驱动'转向'供给+生态'双轮。",
+      "china_angle": "以TrendForce预计中国高端AI芯片国产份额2026年近90%为切入点，凸显中方在AI算力底座上的自主化跃迁，呼应'中美AI芯片战''国产替代'主线。",
+      "stance": "中性（引述 TrendForce 与摩根士丹利数据，呈现份额变动）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/china-ai-chip-domestic-share-near-90-percent",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "TrendForce",
+        "摩根士丹利",
+        "华为昇腾",
+        "寒武纪",
+        "阿里",
+        "百度",
+        "腾讯",
+        "彭博社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：彭博（引TrendForce）称2026年中国高端AI芯片国产份额将接近90%（去年12月预期仅50%），英伟达/AMD空间剩约一成；昇腾、寒武纪扩产，BAT自研ASIC加速。研判：与'中方约谈腾讯/字节弃用英伟达''白宫芯片营收分成'形成强因果——政策倒逼+供给成熟使国产替代从'口号'转为'份额'，重构全球AI算力版图。后续关注国产芯片产能爬坡、生态适配与美国可能的进一步管制。",
+      "provenance": {
+        "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 观察者网/陆家嘴财经早餐转载补全",
+        "evidence_url": "https://new.qq.com/rain/a/20260812A036VY00",
+        "evidence_note": "Bloomberg 引 TrendForce 报道（经观察者网转述）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-12"
     }
   ],
   "archive": {
-    "days_count": 4,
+    "days_count": 5,
     "first_day": "2026-08-04",
-    "last_day": "2026-08-11",
-    "total_articles": 96,
+    "last_day": "2026-08-12",
+    "total_articles": 112,
     "by_media": {
-      "路透社": 73,
-      "彭博社": 23
+      "路透社": 82,
+      "彭博社": 30
     },
     "by_topic": {
+      "出口管制": 13,
+      "半导体": 13,
       "宏观经济": 11,
-      "半导体": 11,
-      "出口管制": 10,
       "人工智能": 9,
       "企业动态": 6,
       "军事安全": 5,
       "外交": 5,
       "太阳能": 5,
       "多晶硅": 5,
+      "AI芯片": 5,
       "经贸摩擦": 4,
+      "新能源汽车": 4,
       "中美经贸摩擦": 4,
       "中美科技竞争": 4,
+      "国产替代": 4,
+      "中日关系": 4,
+      "台海": 4,
+      "人形机器人": 4,
       "科技竞争": 3,
       "自然灾害": 3,
       "科技产业": 3,
-      "新能源汽车": 3,
+      "能源": 3,
+      "资本市场": 3,
       "出口": 3,
       "FCC": 3,
-      "中日关系": 3,
+      "港股": 3,
       "开源模型": 3,
-      "台海": 3,
+      "财报": 3,
+      "军事": 3,
       "中美科技战": 3,
+      "中国台湾": 3,
       "汉光演习": 3,
-      "人形机器人": 3,
+      "中美经贸": 3,
+      "台风": 3,
+      "智能制造": 3,
+      "英伟达": 3,
       "产业政策": 2,
       "社会民生": 2,
       "南海议题": 2,
@@ -7746,33 +9131,33 @@
       "对外投资": 2,
       "中欧关系": 2,
       "稳增长政策": 2,
-      "能源": 2,
       "地缘": 2,
-      "资本市场": 2,
       "能源安全": 2,
       "红海航运": 2,
       "中东局势": 2,
-      "国产替代": 2,
       "数据中心": 2,
       "A股": 2,
-      "港股": 2,
       "Section 232": 2,
       "防卫白皮书": 2,
+      "原油": 2,
       "中美关系": 2,
       "地缘政治": 2,
-      "军事": 2,
       "区域安全": 2,
+      "导弹": 2,
       "网络安全": 2,
       "中印关系": 2,
-      "中国台湾": 2,
-      "中美经贸": 2,
+      "太平洋岛国": 2,
+      "关税": 2,
       "供应链安全": 2,
       "民生": 2,
-      "台风": 2,
+      "中美贸易": 2,
       "科创板": 2,
       "IPO": 2,
-      "智能制造": 2,
       "外汇": 2,
+      "极端天气": 2,
+      "寒武纪": 2,
+      "稀土": 2,
+      "腾讯": 2,
       "知识产权": 1,
       "涉疆议题": 1,
       "制裁": 1,
@@ -7821,7 +9206,6 @@
       "资产证券化": 1,
       "融资": 1,
       "全球市场": 1,
-      "原油": 1,
       "科技股": 1,
       "反腐": 1,
       "国防工业": 1,
@@ -7830,13 +9214,11 @@
       "俄罗斯": 1,
       "科技制造": 1,
       "AI需求": 1,
-      "财报": 1,
       "台企": 1,
       "汽车": 1,
       "中外合资": 1,
       "商业": 1,
       "朝鲜": 1,
-      "导弹": 1,
       "航空": 1,
       "贸易": 1,
       "中国订单": 1,
@@ -7848,9 +9230,7 @@
       "对华脱钩": 1,
       "贸易保护主义": 1,
       "美中博弈": 1,
-      "太平洋岛国": 1,
       "中国导弹": 1,
-      "关税": 1,
       "智博通": 1,
       "后门": 1,
       "对华科技": 1,
@@ -7888,7 +9268,6 @@
       "通信": 1,
       "跨境电商": 1,
       "供应链": 1,
-      "中美贸易": 1,
       "快时尚": 1,
       "军费": 1,
       "中德经贸": 1,
@@ -7908,7 +9287,6 @@
       "人民币国际化": 1,
       "清算行": 1,
       "中欧金融": 1,
-      "极端天气": 1,
       "华东": 1,
       "交通": 1,
       "反倾销": 1,
@@ -7917,15 +9295,43 @@
       "打新": 1,
       "人才管控": 1,
       "内蒙古": 1,
-      "英伟达": 1,
       "Arm": 1,
       "反垄断": 1,
       "SAMR": 1,
       "人民币汇率": 1,
       "市场": 1,
       "美联储": 1,
-      "AI芯片": 1,
-      "寒武纪": 1
+      "贸易休战": 1,
+      "特朗普": 1,
+      "中国印尼": 1,
+      "海军演练": 1,
+      "海洋权益": 1,
+      "核威慑": 1,
+      "AMD": 1,
+      "外资流出": 1,
+      "韩国": 1,
+      "酒店": 1,
+      "消费": 1,
+      "洲际酒店": 1,
+      "两用物项": 1,
+      "进口": 1,
+      "霍尔木兹": 1,
+      "湖北": 1,
+      "北京": 1,
+      "内涝": 1,
+      "ASML": 1,
+      "智元": 1,
+      "宇树": 1,
+      "恒生科技指数": 1,
+      "AI": 1,
+      "指数": 1,
+      "字节跳动": 1,
+      "比亚迪": 1,
+      "销量": 1,
+      "WorkBuddy": 1,
+      "AI助手": 1,
+      "华为昇腾": 1,
+      "TrendForce": 1
     },
     "sentiment_trend": [
       {
@@ -7951,11 +9357,21 @@
         "negative": 6,
         "neutral": 15,
         "positive": 0
+      },
+      {
+        "date": "2026-08-12",
+        "negative": 6,
+        "neutral": 10,
+        "positive": 0
       }
     ],
     "cited_source_freq": [
       [
         "路透社",
+        18
+      ],
+      [
+        "彭博社",
         12
       ],
       [
@@ -7963,7 +9379,7 @@
         6
       ],
       [
-        "彭博社",
+        "华为",
         6
       ],
       [
@@ -7975,7 +9391,7 @@
         4
       ],
       [
-        "华为",
+        "腾讯",
         4
       ],
       [
@@ -7987,11 +9403,31 @@
         3
       ],
       [
+        "中国海关总署",
+        3
+      ],
+      [
         "Kpler",
         3
       ],
       [
+        "摩根士丹利",
+        3
+      ],
+      [
+        "中国商务部",
+        3
+      ],
+      [
+        "中国外交部",
+        3
+      ],
+      [
         "宇树科技",
+        3
+      ],
+      [
+        "英伟达",
         3
       ],
       [
@@ -8019,6 +9455,10 @@
         2
       ],
       [
+        "比亚迪",
+        2
+      ],
+      [
         "欧盟",
         2
       ],
@@ -8043,15 +9483,7 @@
         2
       ],
       [
-        "摩根士丹利",
-        2
-      ],
-      [
         "LSEG",
-        2
-      ],
-      [
-        "中国商务部",
         2
       ],
       [
@@ -8079,10 +9511,6 @@
         2
       ],
       [
-        "中国外交部",
-        2
-      ],
-      [
         "Meta",
         2
       ],
@@ -8092,6 +9520,38 @@
       ],
       [
         "智能技术分析全球(SAG)",
+        2
+      ],
+      [
+        "中国中央气象台",
+        2
+      ],
+      [
+        "路透社(摄影 Go Nakamura)",
+        2
+      ],
+      [
+        "智元机器人(AGIBOT)",
+        2
+      ],
+      [
+        "彭博社知情人士",
+        2
+      ],
+      [
+        "寒武纪",
+        2
+      ],
+      [
+        "AMD",
+        2
+      ],
+      [
+        "字节跳动",
+        2
+      ],
+      [
+        "华尔街见闻",
         2
       ],
       [
@@ -8164,10 +9624,6 @@
       ],
       [
         "公司财报/公告",
-        1
-      ],
-      [
-        "比亚迪",
         1
       ],
       [
@@ -8272,10 +9728,6 @@
       ],
       [
         "RatingDog",
-        1
-      ],
-      [
-        "中国海关总署",
         1
       ],
       [
@@ -8891,15 +10343,7 @@
         1
       ],
       [
-        "中国中央气象台",
-        1
-      ],
-      [
         "上海机场集团",
-        1
-      ],
-      [
-        "路透社(摄影 Go Nakamura)",
         1
       ],
       [
@@ -8911,19 +10355,7 @@
         1
       ],
       [
-        "智元机器人(AGIBOT)",
-        1
-      ],
-      [
-        "彭博社知情人士",
-        1
-      ],
-      [
         "国家市场监督管理总局(SAMR)",
-        1
-      ],
-      [
-        "英伟达",
         1
       ],
       [
@@ -8959,10 +10391,6 @@
         1
       ],
       [
-        "寒武纪",
-        1
-      ],
-      [
         "天数智芯",
         1
       ],
@@ -8973,31 +10401,173 @@
       [
         "阿里平头哥",
         1
+      ],
+      [
+        "白宫官员",
+        1
+      ],
+      [
+        "美国总统特朗普",
+        1
+      ],
+      [
+        "美国财政部",
+        1
+      ],
+      [
+        "中国国防部",
+        1
+      ],
+      [
+        "印尼海军",
+        1
+      ],
+      [
+        "台当局",
+        1
+      ],
+      [
+        "太平洋岛国外长会议",
+        1
+      ],
+      [
+        "巴布亚新几内亚外长 Tkatchenko",
+        1
+      ],
+      [
+        "新西兰外长 Peters",
+        1
+      ],
+      [
+        "澳大利亚外长 Wong",
+        1
+      ],
+      [
+        "白宫新闻秘书 Leavitt",
+        1
+      ],
+      [
+        "路透社知情人士",
+        1
+      ],
+      [
+        "路透中国官方账号 @ReutersChina",
+        1
+      ],
+      [
+        "洲际酒店集团(IHG)",
+        1
+      ],
+      [
+        "日经新闻",
+        1
+      ],
+      [
+        "日本经济新闻",
+        1
+      ],
+      [
+        "路透社分析师",
+        1
+      ],
+      [
+        "中石化",
+        1
+      ],
+      [
+        "俄罗斯卫星通讯社",
+        1
+      ],
+      [
+        "北京市气象台",
+        1
+      ],
+      [
+        "湖北省气象台",
+        1
+      ],
+      [
+        "ASML",
+        1
+      ],
+      [
+        "应用材料",
+        1
+      ],
+      [
+        "CSIS",
+        1
+      ],
+      [
+        "特朗普",
+        1
+      ],
+      [
+        "行业研究报告(SAG类)",
+        1
+      ],
+      [
+        "宇树科技(Unitree)",
+        1
+      ],
+      [
+        "特斯拉",
+        1
+      ],
+      [
+        "Figure AI",
+        1
+      ],
+      [
+        "恒生指数公司",
+        1
+      ],
+      [
+        "WorkBuddy",
+        1
+      ],
+      [
+        "TrendForce",
+        1
+      ],
+      [
+        "华为昇腾",
+        1
+      ],
+      [
+        "阿里",
+        1
+      ],
+      [
+        "百度",
+        1
       ]
     ],
     "recurring_topics": [
       {
         "topic": "出口管制",
-        "count": 4,
+        "count": 5,
         "days": [
           "2026-08-04",
           "2026-08-06",
           "2026-08-07",
-          "2026-08-11"
-        ]
-      },
-      {
-        "topic": "人工智能",
-        "count": 4,
-        "days": [
-          "2026-08-04",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-11"
+          "2026-08-11",
+          "2026-08-12"
         ]
       },
       {
         "topic": "半导体",
+        "count": 5,
+        "days": [
+          "2026-08-04",
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "人工智能",
         "count": 4,
         "days": [
           "2026-08-04",
@@ -9025,6 +10595,24 @@
         ]
       },
       {
+        "topic": "能源",
+        "count": 3,
+        "days": [
+          "2026-08-04",
+          "2026-08-07",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "资本市场",
+        "count": 3,
+        "days": [
+          "2026-08-04",
+          "2026-08-06",
+          "2026-08-12"
+        ]
+      },
+      {
         "topic": "出口",
         "count": 3,
         "days": [
@@ -9034,12 +10622,84 @@
         ]
       },
       {
+        "topic": "国产替代",
+        "count": 3,
+        "days": [
+          "2026-08-06",
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "港股",
+        "count": 3,
+        "days": [
+          "2026-08-06",
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "中日关系",
+        "count": 3,
+        "days": [
+          "2026-08-06",
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
         "topic": "开源模型",
         "count": 3,
         "days": [
           "2026-08-06",
           "2026-08-07",
           "2026-08-11"
+        ]
+      },
+      {
+        "topic": "台海",
+        "count": 3,
+        "days": [
+          "2026-08-06",
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "军事",
+        "count": 3,
+        "days": [
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "中国台湾",
+        "count": 3,
+        "days": [
+          "2026-08-07",
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "中美经贸",
+        "count": 3,
+        "days": [
+          "2026-08-07",
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "台风",
+        "count": 3,
+        "days": [
+          "2026-08-07",
+          "2026-08-11",
+          "2026-08-12"
         ]
       },
       {
@@ -9067,11 +10727,11 @@
         ]
       },
       {
-        "topic": "能源",
+        "topic": "新能源汽车",
         "count": 2,
         "days": [
           "2026-08-04",
-          "2026-08-07"
+          "2026-08-12"
         ]
       },
       {
@@ -9080,14 +10740,6 @@
         "days": [
           "2026-08-04",
           "2026-08-07"
-        ]
-      },
-      {
-        "topic": "资本市场",
-        "count": 2,
-        "days": [
-          "2026-08-04",
-          "2026-08-06"
         ]
       },
       {
@@ -9123,14 +10775,6 @@
         ]
       },
       {
-        "topic": "国产替代",
-        "count": 2,
-        "days": [
-          "2026-08-06",
-          "2026-08-11"
-        ]
-      },
-      {
         "topic": "数据中心",
         "count": 2,
         "days": [
@@ -9140,14 +10784,6 @@
       },
       {
         "topic": "A股",
-        "count": 2,
-        "days": [
-          "2026-08-06",
-          "2026-08-11"
-        ]
-      },
-      {
-        "topic": "港股",
         "count": 2,
         "days": [
           "2026-08-06",
@@ -9171,7 +10807,7 @@
         ]
       },
       {
-        "topic": "中日关系",
+        "topic": "防卫白皮书",
         "count": 2,
         "days": [
           "2026-08-06",
@@ -9179,11 +10815,11 @@
         ]
       },
       {
-        "topic": "防卫白皮书",
+        "topic": "原油",
         "count": 2,
         "days": [
           "2026-08-06",
-          "2026-08-11"
+          "2026-08-12"
         ]
       },
       {
@@ -9203,31 +10839,23 @@
         ]
       },
       {
-        "topic": "台海",
+        "topic": "财报",
         "count": 2,
         "days": [
           "2026-08-06",
-          "2026-08-11"
+          "2026-08-12"
         ]
       },
       {
-        "topic": "军事",
+        "topic": "导弹",
         "count": 2,
         "days": [
           "2026-08-06",
-          "2026-08-07"
+          "2026-08-12"
         ]
       },
       {
         "topic": "中美科技战",
-        "count": 2,
-        "days": [
-          "2026-08-07",
-          "2026-08-11"
-        ]
-      },
-      {
-        "topic": "中国台湾",
         "count": 2,
         "days": [
           "2026-08-07",
@@ -9243,23 +10871,103 @@
         ]
       },
       {
-        "topic": "中美经贸",
+        "topic": "太平洋岛国",
         "count": 2,
         "days": [
           "2026-08-07",
-          "2026-08-11"
+          "2026-08-12"
         ]
       },
       {
-        "topic": "台风",
+        "topic": "关税",
         "count": 2,
         "days": [
           "2026-08-07",
-          "2026-08-11"
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "中美贸易",
+        "count": 2,
+        "days": [
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "人形机器人",
+        "count": 2,
+        "days": [
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "智能制造",
+        "count": 2,
+        "days": [
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "极端天气",
+        "count": 2,
+        "days": [
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "英伟达",
+        "count": 2,
+        "days": [
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "AI芯片",
+        "count": 2,
+        "days": [
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "寒武纪",
+        "count": 2,
+        "days": [
+          "2026-08-11",
+          "2026-08-12"
         ]
       }
     ],
     "important_negatives": [
+      {
+        "id": "20260812-reuters-whitehouse-chips-deals-china",
+        "date": "2026-08-12",
+        "media": "路透社",
+        "title_zh": "白宫称英伟达/AMD对华芯片营收分成协议或扩至更多企业；中方约谈腾讯字节",
+        "importance": "high",
+        "day": "2026-08-12"
+      },
+      {
+        "id": "20260812-bloomberg-china-rare-earth-asml",
+        "date": "2026-08-12",
+        "media": "彭博社",
+        "title_zh": "中国扩大稀土出口管制，全球芯片供应链严阵以待（ASML或延误数周）",
+        "importance": "high",
+        "day": "2026-08-12"
+      },
+      {
+        "id": "20260812-bloomberg-china-tech-giants-nvidia",
+        "date": "2026-08-12",
+        "media": "彭博社",
+        "title_zh": "中国约谈腾讯、字节，要求减少采购英伟达等外国AI芯片、加速国产替代",
+        "importance": "high",
+        "day": "2026-08-12"
+      },
       {
         "id": "20260811-reuters-typhoon-dolphin",
         "date": "2026-08-11",
@@ -9275,6 +10983,30 @@
         "title_zh": "彭博：中国限制顶尖AI人才出境，并在内蒙古布局大型数据中心",
         "importance": "high",
         "day": "2026-08-11"
+      },
+      {
+        "id": "20260811-reuters-china-missile-test-pacific",
+        "date": "2026-08-11",
+        "media": "路透社",
+        "title_zh": "中国导弹试射加深太平洋地区军事化分歧，'海洋和平'愿景受挫",
+        "importance": "high",
+        "day": "2026-08-12"
+      },
+      {
+        "id": "20260811-reuters-china-rare-earth-japan",
+        "date": "2026-08-11",
+        "media": "路透社",
+        "title_zh": "中国对日本中重稀土出口归零：镝、铽、钇6月对华输出为零",
+        "importance": "high",
+        "day": "2026-08-12"
+      },
+      {
+        "id": "20260811-reuters-typhoon-dolphin-floods",
+        "date": "2026-08-11",
+        "media": "路透社",
+        "title_zh": "台风'白海豚'深入内陆淹没华中，北京多区出现严重内涝",
+        "importance": "high",
+        "day": "2026-08-12"
       },
       {
         "id": "20260810-reuters-moolenaar-chips-china",
@@ -9542,19 +11274,19 @@
       }
     ],
     "penetration": {
-      "运行天数": 4,
-      "累计报道": 96,
-      "覆盖议题": 211,
-      "覆盖信源": 255,
-      "负面累计": 35
+      "运行天数": 5,
+      "累计报道": 112,
+      "覆盖议题": 244,
+      "覆盖信源": 294,
+      "负面累计": 41
     }
   },
   "stats": {
-    "total": 96,
-    "days": 4,
-    "negatives": 35,
-    "with_author": 45,
+    "total": 112,
+    "days": 5,
+    "negatives": 41,
+    "with_author": 48,
     "with_body": 18,
-    "with_sources": 73
+    "with_sources": 89
   }
 }
