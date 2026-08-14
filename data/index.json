@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:51:12+08:00",
+  "generated_at": "2026-08-14T16:00:31+08:00",
   "days": {
     "2026-08-14": {
       "file": "2026-08-14.json",
@@ -190,7 +190,7 @@
           "published_at": "2026-08-14",
           "published_precision": "day",
           "authors": [],
-          "author_locations": "香港",
+          "author_locations": "中国香港",
           "authors_status": "not_available",
           "topics": [
             "京东",
@@ -472,7 +472,7 @@
             "Ziyi Tang",
             "Kane Wu"
           ],
-          "author_locations": "香港",
+          "author_locations": "中国香港",
           "authors_status": "named",
           "topics": [
             "港交所",
@@ -481,8 +481,8 @@
             "AI加速器"
           ],
           "importance": "medium",
-          "summary_zh": "路透8月13日报道（记者 Ziyi Tang、Kane Wu）——中国芯片设计公司 Kiwimoore 已秘密向香港交易所递交上市申请，估值约 20 亿美元，拟于 2027 年上半年挂牌。公司 7 月完成一轮融资，募资约 7 亿元人民币（估值约 80 亿元），由中信证券与农银国际担任保荐人。Kiwimoore 主攻 AI 加速器互联网络技术，是近期中企（尤其半导体与AI相关）密集赴港上市潮中的一例，凸显香港在承接内地硬科技融资上的角色。",
-          "china_angle": "以Kiwimoore秘密递表港交所为报道主体，呈现中资芯片设计企业借香港市场融资、对接国际资本的态势，属中方视角下'香港联通内地硬科技与全球资本'的叙事。",
+          "summary_zh": "路透8月13日报道（记者 Ziyi Tang、Kane Wu）——中国芯片设计公司 Kiwimoore 已秘密向中国香港交易所递交上市申请，估值约 20 亿美元，拟于 2027 年上半年挂牌。公司 7 月完成一轮融资，募资约 7 亿元人民币（估值约 80 亿元），由中信证券与农银国际担任保荐人。Kiwimoore 主攻 AI 加速器互联网络技术，是近期中企（尤其半导体与AI相关）密集赴港上市潮中的一例，凸显中国香港在承接内地硬科技融资上的角色。",
+          "china_angle": "以Kiwimoore秘密递表港交所为报道主体，呈现中资芯片设计企业借中国香港市场融资、对接国际资本的态势，属中方视角下'中国香港联通内地硬科技与全球资本'的叙事。",
           "stance": "中性（引述递表信息与融资背景，呈现事实）",
           "source_url": "https://www.reuters.com/markets/kiwimoore-hong-kong-ipo-2026-08-13/",
           "body_available": false,
@@ -495,7 +495,7 @@
           ],
           "sentiment": "positive",
           "is_negative": false,
-          "deep_analysis": "核心事实：Kiwimoore 秘密递表港交所，估值约20亿美元，拟H1 2027上市；7月融资7亿元人民币（估值80亿）；中信证券+农银国际保荐；做AI加速器互联网络。研判：这是'半导体/AI中企赴港上市潮'的一例，与'Shein 8/28港交所上市'同属香港承接内地硬科技/新消费融资主线，凸显香港在美方上市限制下的替代通道价值。后续关注上市时间表、以及AI加速器赛道的其他递表（如壁仞/燧原）。",
+          "deep_analysis": "核心事实：Kiwimoore 秘密递表港交所，估值约20亿美元，拟H1 2027上市；7月融资7亿元人民币（估值80亿）；中信证券+农银国际保荐；做AI加速器互联网络。研判：这是'半导体/AI中企赴港上市潮'的一例，与'Shein 8/28港交所上市'同属中国香港承接内地硬科技/新消费融资主线，凸显中国香港在美方上市限制下的替代通道价值。后续关注上市时间表、以及AI加速器赛道的其他递表（如壁仞/燧原）。",
           "provenance": {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/markets/kiwimoore-hong-kong-ipo-2026-08-13/",
@@ -576,7 +576,7 @@
           ],
           "sentiment": "positive",
           "is_negative": false,
-          "deep_analysis": "核心事实：文远知行考虑拓展澳/韩/日/东南亚，已进入丹麦（第6个欧洲国）；右舵robotaxi落地新加坡香港；Q2海外收入+164%、总营收+82%；车队1800+，年底目标5000 L4。研判：与'小马智行+Uber'同源，中企L4借海外牌照与右舵场景加速出海，形成对欧美同行的非本土市场挤压。后续关注澳韩日监管开放节奏、以及5000辆目标下的量产/安全员成本。",
+          "deep_analysis": "核心事实：文远知行考虑拓展澳/韩/日/东南亚，已进入丹麦（第6个欧洲国）；右舵robotaxi落地新加坡中国香港；Q2海外收入+164%、总营收+82%；车队1800+，年底目标5000 L4。研判：与'小马智行+Uber'同源，中企L4借海外牌照与右舵场景加速出海，形成对欧美同行的非本土市场挤压。后续关注澳韩日监管开放节奏、以及5000辆目标下的量产/安全员成本。",
           "provenance": {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/business/weride-australia-korea-japan-expansion-2026-08-13/",
@@ -595,7 +595,7 @@
             "Kane Wu",
             "Selena Li"
           ],
-          "author_locations": "香港",
+          "author_locations": "中国香港",
           "authors_status": "named",
           "topics": [
             "港交所",
@@ -605,8 +605,8 @@
             "出海"
           ],
           "importance": "medium",
-          "summary_zh": "路透8月13日报道（记者 Kane Wu、Selena Li）——快时尚跨境电商 Shein 拟于 8月28日 在港交所上市，估值约 300 亿至 400 亿美元（峰值曾接近 1000 亿美元）。Shein 注册于新加坡，2012 年创立于中国。公司最新一季亏损 9900 万美元，主因美国取消小额包裹免税待遇冲击其廉价直邮模式。此番上市是继 Kiwimoore 后中资/华裔背景企业赴港融资的又一例，凸显香港对出海企业的吸引力，也折射出 Shein 在监管与盈利上的双重压力。",
-          "china_angle": "以Shein拟港交所上市为报道主体，呈现华裔背景出海企业借香港对接国际资本、但受美关税政策拖累盈利的态势，属中方视角下'香港融资枢纽+出海企业承压'的复合叙事。",
+          "summary_zh": "路透8月13日报道（记者 Kane Wu、Selena Li）——快时尚跨境电商 Shein 拟于 8月28日 在港交所上市，估值约 300 亿至 400 亿美元（峰值曾接近 1000 亿美元）。Shein 注册于新加坡，2012 年创立于中国。公司最新一季亏损 9900 万美元，主因美国取消小额包裹免税待遇冲击其廉价直邮模式。此番上市是继 Kiwimoore 后中资/华裔背景企业赴港融资的又一例，凸显中国香港对出海企业的吸引力，也折射出 Shein 在监管与盈利上的双重压力。",
+          "china_angle": "以Shein拟港交所上市为报道主体，呈现华裔背景出海企业借中国香港对接国际资本、但受美关税政策拖累盈利的态势，属中方视角下'中国香港融资枢纽+出海企业承压'的复合叙事。",
           "stance": "中性（引述上市计划、估值与亏损数据，呈现事实与背景）",
           "source_url": "https://www.reuters.com/markets/shein-hong-kong-listing-aug-28-2026-08-13/",
           "body_available": false,
@@ -618,7 +618,7 @@
           ],
           "sentiment": "neutral",
           "is_negative": false,
-          "deep_analysis": "核心事实：Shein 拟8/28港交所上市，估值300~400亿美元（峰值近1000亿）；新加坡注册、2012中国创立；季亏9900万美元（美取消小包免税）。研判：与'Kiwimoore递表'同属赴港上市潮，但 Shein 受美'取消小额包裹免税'直接冲击盈利，估值较峰值腰斩，凸显出海快时尚在关税新政下的脆弱性。香港上市为其提供弹药但难解模式风险。后续关注上市后股价、以及美国是否进一步收紧'原产地'认定。",
+          "deep_analysis": "核心事实：Shein 拟8/28港交所上市，估值300~400亿美元（峰值近1000亿）；新加坡注册、2012中国创立；季亏9900万美元（美取消小包免税）。研判：与'Kiwimoore递表'同属赴港上市潮，但 Shein 受美'取消小额包裹免税'直接冲击盈利，估值较峰值腰斩，凸显出海快时尚在关税新政下的脆弱性。中国香港上市为其提供弹药但难解模式风险。后续关注上市后股价、以及美国是否进一步收紧'原产地'认定。",
           "provenance": {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/markets/shein-hong-kong-listing-aug-28-2026-08-13/",
@@ -10366,7 +10366,7 @@
         "Ziyi Tang",
         "Kane Wu"
       ],
-      "author_locations": "香港",
+      "author_locations": "中国香港",
       "authors_status": "named",
       "topics": [
         "港交所",
@@ -10375,8 +10375,8 @@
         "AI加速器"
       ],
       "importance": "medium",
-      "summary_zh": "路透8月13日报道（记者 Ziyi Tang、Kane Wu）——中国芯片设计公司 Kiwimoore 已秘密向香港交易所递交上市申请，估值约 20 亿美元，拟于 2027 年上半年挂牌。公司 7 月完成一轮融资，募资约 7 亿元人民币（估值约 80 亿元），由中信证券与农银国际担任保荐人。Kiwimoore 主攻 AI 加速器互联网络技术，是近期中企（尤其半导体与AI相关）密集赴港上市潮中的一例，凸显香港在承接内地硬科技融资上的角色。",
-      "china_angle": "以Kiwimoore秘密递表港交所为报道主体，呈现中资芯片设计企业借香港市场融资、对接国际资本的态势，属中方视角下'香港联通内地硬科技与全球资本'的叙事。",
+      "summary_zh": "路透8月13日报道（记者 Ziyi Tang、Kane Wu）——中国芯片设计公司 Kiwimoore 已秘密向中国香港交易所递交上市申请，估值约 20 亿美元，拟于 2027 年上半年挂牌。公司 7 月完成一轮融资，募资约 7 亿元人民币（估值约 80 亿元），由中信证券与农银国际担任保荐人。Kiwimoore 主攻 AI 加速器互联网络技术，是近期中企（尤其半导体与AI相关）密集赴港上市潮中的一例，凸显中国香港在承接内地硬科技融资上的角色。",
+      "china_angle": "以Kiwimoore秘密递表港交所为报道主体，呈现中资芯片设计企业借中国香港市场融资、对接国际资本的态势，属中方视角下'中国香港联通内地硬科技与全球资本'的叙事。",
       "stance": "中性（引述递表信息与融资背景，呈现事实）",
       "source_url": "https://www.reuters.com/markets/kiwimoore-hong-kong-ipo-2026-08-13/",
       "body_available": false,
@@ -10389,7 +10389,7 @@
       ],
       "sentiment": "positive",
       "is_negative": false,
-      "deep_analysis": "核心事实：Kiwimoore 秘密递表港交所，估值约20亿美元，拟H1 2027上市；7月融资7亿元人民币（估值80亿）；中信证券+农银国际保荐；做AI加速器互联网络。研判：这是'半导体/AI中企赴港上市潮'的一例，与'Shein 8/28港交所上市'同属香港承接内地硬科技/新消费融资主线，凸显香港在美方上市限制下的替代通道价值。后续关注上市时间表、以及AI加速器赛道的其他递表（如壁仞/燧原）。",
+      "deep_analysis": "核心事实：Kiwimoore 秘密递表港交所，估值约20亿美元，拟H1 2027上市；7月融资7亿元人民币（估值80亿）；中信证券+农银国际保荐；做AI加速器互联网络。研判：这是'半导体/AI中企赴港上市潮'的一例，与'Shein 8/28港交所上市'同属中国香港承接内地硬科技/新消费融资主线，凸显中国香港在美方上市限制下的替代通道价值。后续关注上市时间表、以及AI加速器赛道的其他递表（如壁仞/燧原）。",
       "provenance": {
         "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
         "evidence_url": "https://www.reuters.com/markets/kiwimoore-hong-kong-ipo-2026-08-13/",
@@ -10510,7 +10510,7 @@
       ],
       "sentiment": "positive",
       "is_negative": false,
-      "deep_analysis": "核心事实：文远知行考虑拓展澳/韩/日/东南亚，已进入丹麦（第6个欧洲国）；右舵robotaxi落地新加坡香港；Q2海外收入+164%、总营收+82%；车队1800+，年底目标5000 L4。研判：与'小马智行+Uber'同源，中企L4借海外牌照与右舵场景加速出海，形成对欧美同行的非本土市场挤压。后续关注澳韩日监管开放节奏、以及5000辆目标下的量产/安全员成本。",
+      "deep_analysis": "核心事实：文远知行考虑拓展澳/韩/日/东南亚，已进入丹麦（第6个欧洲国）；右舵robotaxi落地新加坡中国香港；Q2海外收入+164%、总营收+82%；车队1800+，年底目标5000 L4。研判：与'小马智行+Uber'同源，中企L4借海外牌照与右舵场景加速出海，形成对欧美同行的非本土市场挤压。后续关注澳韩日监管开放节奏、以及5000辆目标下的量产/安全员成本。",
       "provenance": {
         "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
         "evidence_url": "https://www.reuters.com/business/weride-australia-korea-japan-expansion-2026-08-13/",
@@ -10530,7 +10530,7 @@
         "Kane Wu",
         "Selena Li"
       ],
-      "author_locations": "香港",
+      "author_locations": "中国香港",
       "authors_status": "named",
       "topics": [
         "港交所",
@@ -10540,8 +10540,8 @@
         "出海"
       ],
       "importance": "medium",
-      "summary_zh": "路透8月13日报道（记者 Kane Wu、Selena Li）——快时尚跨境电商 Shein 拟于 8月28日 在港交所上市，估值约 300 亿至 400 亿美元（峰值曾接近 1000 亿美元）。Shein 注册于新加坡，2012 年创立于中国。公司最新一季亏损 9900 万美元，主因美国取消小额包裹免税待遇冲击其廉价直邮模式。此番上市是继 Kiwimoore 后中资/华裔背景企业赴港融资的又一例，凸显香港对出海企业的吸引力，也折射出 Shein 在监管与盈利上的双重压力。",
-      "china_angle": "以Shein拟港交所上市为报道主体，呈现华裔背景出海企业借香港对接国际资本、但受美关税政策拖累盈利的态势，属中方视角下'香港融资枢纽+出海企业承压'的复合叙事。",
+      "summary_zh": "路透8月13日报道（记者 Kane Wu、Selena Li）——快时尚跨境电商 Shein 拟于 8月28日 在港交所上市，估值约 300 亿至 400 亿美元（峰值曾接近 1000 亿美元）。Shein 注册于新加坡，2012 年创立于中国。公司最新一季亏损 9900 万美元，主因美国取消小额包裹免税待遇冲击其廉价直邮模式。此番上市是继 Kiwimoore 后中资/华裔背景企业赴港融资的又一例，凸显中国香港对出海企业的吸引力，也折射出 Shein 在监管与盈利上的双重压力。",
+      "china_angle": "以Shein拟港交所上市为报道主体，呈现华裔背景出海企业借中国香港对接国际资本、但受美关税政策拖累盈利的态势，属中方视角下'中国香港融资枢纽+出海企业承压'的复合叙事。",
       "stance": "中性（引述上市计划、估值与亏损数据，呈现事实与背景）",
       "source_url": "https://www.reuters.com/markets/shein-hong-kong-listing-aug-28-2026-08-13/",
       "body_available": false,
@@ -10553,7 +10553,7 @@
       ],
       "sentiment": "neutral",
       "is_negative": false,
-      "deep_analysis": "核心事实：Shein 拟8/28港交所上市，估值300~400亿美元（峰值近1000亿）；新加坡注册、2012中国创立；季亏9900万美元（美取消小包免税）。研判：与'Kiwimoore递表'同属赴港上市潮，但 Shein 受美'取消小额包裹免税'直接冲击盈利，估值较峰值腰斩，凸显出海快时尚在关税新政下的脆弱性。香港上市为其提供弹药但难解模式风险。后续关注上市后股价、以及美国是否进一步收紧'原产地'认定。",
+      "deep_analysis": "核心事实：Shein 拟8/28港交所上市，估值300~400亿美元（峰值近1000亿）；新加坡注册、2012中国创立；季亏9900万美元（美取消小包免税）。研判：与'Kiwimoore递表'同属赴港上市潮，但 Shein 受美'取消小额包裹免税'直接冲击盈利，估值较峰值腰斩，凸显出海快时尚在关税新政下的脆弱性。中国香港上市为其提供弹药但难解模式风险。后续关注上市后股价、以及美国是否进一步收紧'原产地'认定。",
       "provenance": {
         "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
         "evidence_url": "https://www.reuters.com/markets/shein-hong-kong-listing-aug-28-2026-08-13/",
@@ -10611,7 +10611,7 @@
       "published_at": "2026-08-14",
       "published_precision": "day",
       "authors": [],
-      "author_locations": "香港",
+      "author_locations": "中国香港",
       "authors_status": "not_available",
       "topics": [
         "京东",
