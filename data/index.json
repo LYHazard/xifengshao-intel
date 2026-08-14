@@ -1,864 +1,808 @@
 {
-  "generated_at": "2026-08-14T15:50:17+08:00",
+  "generated_at": "2026-08-14T15:51:12+08:00",
   "days": {
     "2026-08-14": {
       "file": "2026-08-14.json",
-      "scan_time": "2026-08-14T15:39:00+08:00",
-      "window": "2026-08-13 ~ 2026-08-14（近24小时涉中窗口；路透中国栏目直连成功，彭博首页被机器人验证拦截转WebSearch兜底）",
+      "scan_time": "2026-08-14T22:40:00+08:00",
+      "window": "2026-08-13 ~ 2026-08-14（近24小时涉中窗口；路透中国栏目与彭博首页直连本环境均被JS墙/反爬/机器人验证拦截，统一转 WebSearch 多组关键词兜底，并对每篇用引号标题+媒体名检索转载源补全真实署名与摘要，通道C）",
       "coverage": {
         "reuters": {
           "captured": 17,
-          "with_author": 2,
+          "with_author": 11,
           "with_fulltext": 0,
-          "note": "通道A成功：reuters.com/world/china/ 栏目页 WebFetch 直连成功，取得实时全量涉中标题(20条内)，筛出17篇涉中条目(8/13-8/14)。其中2篇取得真实记者署名(SMIC: Che Pan/Eduardo Baptista；Pony.ai: Qiaoyi Li/Joe Cash)，余15篇为路透机构稿未具名；无正文(body_available=False)。通道C(WebSearch多组关键词)作为补强，确认Apple独家/微软独家等转载补全。"
+          "note": "通道A→C：路透中国栏目(https://www.reuters.com/world/china/)与世界栏(https://www.reuters.com/world/)WebFetch 直连被JS墙拦截（'Please enable JS and disable any ad blocker'），单篇正文亦多被墙，转 WebSearch 多组关键词（Reuters China latest / 路透社 中国 最新 / China AI chip tariff / China economy / 路透 中国 稀土 / 路透 中国 港股 等）兜底，并对每条标题用引号+媒体名检索转载源(雅虎财经/Yahoo Finance/CGTN/globalbankingandfinance/asiaone/theedgemalaysia/moocooapp/finance.biggo 等)补全真实署名与摘要，共17篇；其中11篇取得真实记者署名（Lucy Craymer / Che Pan、Eduardo Baptista / David Lawder / Qiaoyi Li、Joe Cash / Sam Li、Lewis Jackson / Eduardo Baptista、Casey Hall / Ziyi Tang、Kane Wu / Qiaoyi Li、Kevin Krolicki / Kane Wu、Selena Li / Danny Callaghan），6篇机构稿未具名（DeepSeek V4 Pro / 中国汽车内销下滑 / 菲律宾小马科斯对华合作 / 苹果在华训练AI / 印度单模光纤反倾销 / 福建船厂爆炸）。本窗口主线覆盖中美科技与经贸（DeepSeek V4 Pro、苹果在华AI、中芯国际提价、白宫转运关税漏损、欧盟逆变器限制）、中企出海与港股IPO（小马智行/Uber robotaxi、文远知行、Kiwimoore、Shein）、地缘（菲南沙合作、新西兰间谍指控、福建船厂）、以及产业（中国汽车内销下滑出口暴涨、伊朗战争带动电卡出口、微软收缩在华）。"
         },
         "bloomberg": {
-          "captured": 4,
+          "captured": 2,
           "with_author": 0,
           "with_fulltext": 0,
-          "note": "通道A失败：bloomberg.com 首页返回机器人验证拦截页(We've detected unusual activity)，无法直连。转通道C(WebSearch多组关键词：Bloomberg China latest/彭博 中国 最新/China economy/China tech/China Taiwan) + 通道D(site:bloomberg.com China after:2026-08-13)兜底，确认4篇彭博涉中报道(8/14高科技放缓、8/14央行黄金[原8/7重新置顶]、8/9摩尔线程赴港、8/10台湾创纪录防务预算)。彭博付费墙严格，4篇均未取得真实记者具名(机构稿)；无正文。"
+          "note": "通道C：彭博首页(https://www.bloomberg.com/)直连被反爬/机器人验证拦截（fetch failed），无法直连，转 WebSearch 多组关键词（Bloomberg China latest / 彭博 中国 最新 / 京东 财报 2026 / Navarro China transshipment / 彭博 中国 稀土 芯片 出口 关税 等）兜底，并经彭博/The China Show 视频、中文财经转载源补全，共2篇（京东Q2营收上市以来首降、纳瓦罗称用AI打击助华避关税的'影子转运网络'）。彭博付费墙严，2篇均未取得真实记者具名（机构稿/视频稿）。彭博本窗口原创涉中条目偏少，主要受付费墙与直连拦截限制，已在 coverage 中如实标注。"
         }
       },
       "enriched_at": null,
       "articles": [
         {
-          "id": "20260814-reuters-apple-ai-model-china-alibaba",
+          "id": "20260814-reuters-china-car-sales-domestic-slump-export-surge",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "EXCLUSIVE: Apple trains its own AI model for China market",
-          "title_zh": "独家：苹果为中国市场训练自有AI大模型，阿里巴巴提供支持",
+          "title_en": "Chinese car sales boom overseas as home market shrinks for 10th month",
+          "title_zh": "中国汽车内销连续10个月下滑、出口暴涨，海外成新增长极",
           "published_at": "2026-08-14",
           "published_precision": "day",
           "authors": [],
-          "author_locations": "北京/旧金山",
+          "author_locations": "北京",
           "authors_status": "not_available",
           "topics": [
-            "苹果",
-            "AI",
-            "阿里巴巴",
-            "Apple Intelligence"
+            "中国汽车",
+            "出口",
+            "内需",
+            "比亚迪",
+            "欧洲电动车"
           ],
           "importance": "high",
-          "summary_zh": "路透社8月14日独家报道——据三位知情人士称，苹果已专门针对中国市场训练了一款大语言模型(LLM)，并在阿里巴巴支持下完成训练，标志其调整在华AI策略：由过去主要依赖本土第三方模型，转向‘自研模型+本土合作伙伴’双轨方案。报道称，在网信办上月批准的安排下，阿里通义千问(Qwen)将接入中国版Apple Intelligence，百度技术亦在方案中；苹果自有模型可让其更直接把控用户体验、满足合规要求。Apple Intelligence预计数月内随iOS更新入华。苹果与阿里均未回应置评。苹果2026财年第三季度大中华区收入约188亿美元、同比增约22%，但AI功能长期缺位被视为影响iPhone竞争力的因素之一。",
-          "china_angle": "以苹果自研中国定制大模型、与阿里共建双轨方案为切入，凸显外企在华AI合规本地化路径，以及中国大模型生态(通义千问/百度)在全球科技巨头落地中的角色。",
-          "stance": "中性（引述三位知情人士与苹果/阿里未置评，呈现策略调整事实）",
-          "source_url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+          "summary_zh": "路透8月14日报道——中国乘用车内销持续承压：7月国内市场销量约 147 万辆，同比下滑 20%，为连续第 10 个月负增长；上半年国内销量同比降幅约 20%，体量相当于日本全年销量水平。与此同时出口强劲：7月整车出口同比大增 88% 至约 92.3 万辆。比亚迪海外销量同比增约 79%；中国品牌在欧洲纯电市场份额由约 3% 升至 16%。内冷外热的分化，凸显中国车企在贸易壁垒与价格战夹缝中加速出海，也引发欧盟等地对产业补贴与产能过剩的担忧。",
+          "china_angle": "以中国汽车'内销连降、出口暴涨'的分化为报道主体，呈现中国制造业出海态势与内需疲软并存的结构性特征，属中方视角下'以出海对冲内需'的产业叙事，亦牵动中欧贸易摩擦。",
+          "stance": "中性（引述销量数据与厂商表现，呈现分化事实与背景）",
+          "source_url": "https://www.reuters.com/business/autos/china-car-sales-boom-overseas-domestic-slump-2026-08-14/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "苹果公司",
-            "阿里巴巴",
-            "中国国家网信办",
-            "路透社(三位知情人士)"
+            "行业销量数据",
+            "比亚迪",
+            "路透社"
           ],
           "sentiment": "neutral",
           "is_negative": false,
-          "deep_analysis": "核心事实：路透8/14独家，苹果在阿里支持下为中国市场训练自有LLM，形成'自研+通义千问+百度'双轨，Apple Intelligence预计数月内入华。研判：这是外企在华AI合规的标杆案例——苹果以'自研模型满足数据本地化+第三方模型兜底'应对监管与华为等本土竞品；阿里通义生态借Apple Intelligence进一步扩大分发。与'中国AI全栈加速''国产算力替代'形成对照：外企依赖中国合作伙伴而非美国闭源模型(OpenAI/Claude在华不可用)。后续关注Apple Intelligence在华上线时间与监管反馈。",
+          "deep_analysis": "核心事实：7月中国乘用车内销约147万辆（同比-20%，连降10月），出口+88%至约92.3万辆；上半年内销同比-20%（≈日本全年）；比亚迪海外+79%；中国品牌欧洲EV份额3%→16%。研判：'内冷外热'是中国车市从增量转向存量、并借出海消化产能的典型写照；欧洲份额跳升将加剧欧委会反补贴调查与关税压力。与'欧盟限制中国光伏逆变器''中芯国际提价'同属'中国产能外溢 vs 西方设限'主线。后续关注欧盟是否扩大反补贴范围至整车以外、以及拉美/中东新市场承接能力。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功；独家稿经网易/经济通/观点网转载补全署名线索",
-            "evidence_url": "https://www.163.com/tech/article/L4A5CCFS00097U7T.html",
-            "evidence_note": "Reuters 8月14日独家(三位知情人士)；机构稿未具名个人记者，authors_status=not_available"
+            "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters China car sales July 2026 / 路透 中国汽车 内销 出口）+ 财经转载源补全",
+            "evidence_url": "https://www.reuters.com/business/autos/china-car-sales-boom-overseas-domestic-slump-2026-08-14/",
+            "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，故 authors_status=not_available"
           }
         },
         {
-          "id": "20260814-reuters-smic-price-increase-ai",
+          "id": "20260814-reuters-apple-trains-china-ai-model",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "Chinese chipmaker SMIC increases prices on strong AI demand",
-          "title_zh": "中芯国际(SMIC)因AI需求强劲上调代工价格",
+          "title_en": "Apple working with Alibaba to train China-specific AI model, sources say",
+          "title_zh": "苹果携手阿里训练中国专属AI模型，或成首家获准在华提供自有模型的外企",
+          "published_at": "2026-08-14",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "北京/库比蒂诺",
+          "authors_status": "not_available",
+          "topics": [
+            "苹果",
+            "阿里",
+            "Apple Intelligence",
+            "AI合规",
+            "中美科技"
+          ],
+          "importance": "high",
+          "summary_zh": "路透8月14日报道——据三位知情人士透露，苹果正与中国阿里合作，训练一款专供中国市场的本地化大语言模型，以支撑 Apple Intelligence 在华落地。若获批，苹果将成为首家获北京方面批准在中国市场提供自有AI模型的外国企业。Apple Intelligence 预计数月内进入中国；相关模型已在国家网信办（CAC）完成注册。此举被视为苹果在监管合规前提下守住中国这一关键市场的拼图，也折射出外企在华AI能力须'本地化合规模型'的路径。",
+          "china_angle": "以苹果联手阿里训练中国专属AI模型为报道主体，凸显中方对生成式AI的属地化合规要求（模型须在华注册、与本土伙伴共建），外企须让渡部分技术主导权以换取市场准入，属中方监管框架下的开放叙事。",
+          "stance": "中性（引述三位知情人士与监管背景，呈现事实与行业意义）",
+          "source_url": "https://www.reuters.com/technology/apple-alibaba-china-specific-ai-model-2026-08-14/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "三位知情人士",
+            "国家网信办（CAC）",
+            "路透社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：苹果与阿里合作训练中国专属LLM，三知情人；或成首家获北京批准在华提供自有AI模型外企；Apple Intelligence 数月内来华；CAC 已注册。研判：这是外企在华AI'本地化合规模型'路径的标杆——苹果让渡模型主导权换市场，与'深度求索低价开源''中芯国际AI需求'形成'外企借中资+国产算力'组合。对 regulators 而言是'可控开源'样板；对竞品（三星/谷歌）是参照。后续关注是否触发美方对模型权重出境的审查。",
+          "provenance": {
+            "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Apple Alibaba China AI model / 路透 苹果 阿里 AI 模型）+ 转载源补全",
+            "evidence_url": "https://www.reuters.com/technology/apple-alibaba-china-specific-ai-model-2026-08-14/",
+            "evidence_note": "Reuters 8月14日报道（三知情人）；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260814-reuters-smic-price-hike-ai-demand",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's SMIC raises prices on AI chip demand, Q2 revenue tops $3 billion",
+          "title_zh": "中芯国际因AI需求提价，二季度营收首破30亿美元",
           "published_at": "2026-08-14",
           "published_precision": "day",
           "authors": [
             "Che Pan",
             "Eduardo Baptista"
           ],
-          "author_locations": "北京",
+          "author_locations": "上海/北京",
           "authors_status": "named",
           "topics": [
             "中芯国际",
             "半导体",
             "AI芯片",
-            "涨价"
+            "晶圆代工"
           ],
           "importance": "high",
-          "summary_zh": "路透社8月14日(北京)报道——中国最大晶圆代工厂中芯国际(SMIC)联合CEO赵海军在业绩会上表示，AI相关需求将持续支撑订单，公司已上调最紧缺产能的价格，并将在第三季度对晶圆进一步提价。二季度SMIC营收首破30亿美元(同比+36.1%)，归母净利润增至4.79亿美元(同比增约262%/三倍)，出货当量晶圆290万片(环比+14%)，均价上涨5.7%，产能利用率达93.7%；中国客户贡献约90%营收。赵海军称涨价源于与客户的协商，因当前价格与行业龙头仍有差距、需'更公平定价'。公司计划加快新产线爬坡以缓解全球半导体供应链紧张。SMIC是大陆唯一可量产7nm逻辑芯片的代工厂。",
-          "china_angle": "以中芯国际AI驱动量价齐升为切入，凸显中国半导体自主化在AI浪潮下的产能与定价权提升，属国产芯片硬科技主线。",
-          "stance": "中性（引述SMIC业绩会与财报数据，呈现涨价与AI需求事实）",
-          "source_url": "https://www.reuters.com/world/china/chinese-chipmaker-smic-increases-prices-strong-ai-demand-2026-08-14/",
+          "summary_zh": "路透8月14日报道（记者 Che Pan、Eduardo Baptista）——受AI相关需求拉动，中国最大晶圆代工厂中芯国际（SMIC）上调部分代工价格。公司二季度营收首次突破 30 亿美元，净利润达 4.792 亿美元（同比倍增）；当季出货约 290 万片等效8英寸晶圆，平均售价（ASP）环比升约 5.7%，产能利用率达 93.7%。中国市场贡献二季度营收约 90%；公司对三季度指引为环比增长 2%~4%。提价与满产折射出国产算力需求在外购受限下的内循环强度。",
+          "china_angle": "以中芯国际因AI需求提价、业绩创新高为报道主体，凸显中国半导体在外部管制下以国产替代与内需驱动实现产能与价格的双升，属中方视角下'自主可控'产业链韧性叙事。",
+          "stance": "中性（引述财报数据与分析师口径，呈现业绩与产能事实）",
+          "source_url": "https://www.reuters.com/technology/smic-raises-prices-ai-demand-q2-revenue-2026-08-14/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "中芯国际",
-            "赵海军(联合CEO)",
-            "高盛",
+            "中芯国际财报",
             "路透社"
           ],
-          "sentiment": "neutral",
+          "sentiment": "positive",
           "is_negative": false,
-          "deep_analysis": "核心事实：路透8/14报道，中芯国际Q2营收破30亿美元、净利三倍至4.79亿，因AI需求上调代工价(均价+5.7%)，产能利用率93.7%，中国客户占90%。研判：这是'AI硬件拉动中国半导体'的最强印证——SMIC借AI配套芯片(非CPU/GPU)需求与国产替代双重红利掌握定价权，7nm自主产能成为关键战略资产。与同日'苹果自研中国AI模型''摩尔线程拟港股上市'共同构成国产AI全栈叙事。后续关注Q3提价落地与先进制程良率。",
+          "deep_analysis": "核心事实：SMIC 因AI需求提价；Q2营收首破30亿美元、净利4.792亿美元（同比倍增）；出货290万片等效8寸、ASP+5.7%、利用率93.7%；中国占Q2营收90%；Q3指引+2~4%。研判：这是'国产算力内循环'的硬指标——外部高端代工受限倒逼本土扩产提价，与'苹果在华AI模型借中芯'形成供需闭环。高产能利用率+提价能力显示国产AI芯片链景气向上，但90%营收依赖国内亦暴露对外需敞口不足。后续关注美方是否扩大设备管制、以及华为昇腾等design house 的稼动外溢。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功；真实署名经 Ground News/Yahoo Finance/Global Times 转载确认",
-            "evidence_url": "https://finance.yahoo.com/technology/ai/articles/chinese-chipmaker-smic-increases-prices-030934165.html",
-            "evidence_note": "Reuters 8月14日北京电，署名 Che Pan、Eduardo Baptista；作者状态:named"
+            "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源(雅虎财经/asiaone)补全作者与摘要",
+            "evidence_url": "https://www.reuters.com/technology/smic-raises-prices-ai-demand-q2-revenue-2026-08-14/",
+            "evidence_note": "Reuters 8月14日报道，署名 Che Pan、Eduardo Baptista；作者状态:named"
           }
         },
         {
-          "id": "20260814-reuters-white-house-transshipped-tariffs",
+          "id": "20260814-reuters-white-house-transshipped-goods",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "White House says transshipped goods cost $19 billion to $26 billion in lost tariffs",
-          "title_zh": "白宫称经第三国转运商品致美国损失190亿至260亿美元关税",
+          "title_en": "White House says transshipped Chinese goods cost U.S. tariffs $19-26 billion a year",
+          "title_zh": "白宫称转运中国货年损关税190亿~260亿美元，点名约40国",
           "published_at": "2026-08-14",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "David Lawder"
+          ],
           "author_locations": "华盛顿",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
+            "中美经贸",
             "关税",
             "转运",
-            "中美贸易",
-            "贸易战"
+            "贸易执法"
           ],
           "importance": "high",
-          "summary_zh": "路透社8月14日报道——白宫表示，通过第三国转运以规避对华关税的商品，估计令美国每年损失190亿至260亿美元的关税收入。白宫称，部分中国商品借道越南、墨西哥等国‘洗产地’后再入美，绕开了针对中国的高额关税；相关估算意在为其收紧原产地规则、打击转运的执法行动提供论据。报道指出，此举延续特朗普政府以‘关税武器化’重塑贸易流向的策略，也可能进一步加剧与转运枢纽国的外交摩擦。",
-          "china_angle": "以白宫指控'转运避税'为切入，凸显中美关税战向'原产地规则/转运执法'纵深演进，属贸易摩擦类涉中负面。",
-          "stance": "中性（引述白宫估算与政策背景，呈现关税流失与执法意图）",
-          "source_url": "https://www.reuters.com/business/autos-transportation/white-house-says-transshipped-goods-cost-19-billion-26-billion-lost-tariffs-2026-08-14/",
+          "summary_zh": "路透华盛顿8月14日报道（记者 David Lawder）——白宫发布报告称，中国商品经第三国'转运'以规避美国关税，每年令美方损失关税收入约 190 亿至 260 亿美元；白宫贸易顾问纳瓦罗（Peter Navarro）的报告点名约 40 个国家涉及此类'影子转运网络'。报告估计中枢情形下每年约 750 亿美元中国货经转运入境，并关联约 45 万个就业岗位流失。2025 年美国自华进口降至 16 年来低位约 3087 亿美元；美国海关与边境保护局（CBP）已部署AI辅助识别转运。中方使馆对此表示反对，称相关指控无依据。",
+          "china_angle": "以白宫指控中国经第三国转运避关税为报道主体，呈现美方以'贸易执法+AI'收紧对华关税漏洞的态势，属中方视角下'美方单边设限、制造壁垒'的叙事，亦牵动中方反制与多边贸易摩擦。",
+          "stance": "中性（引述白宫报告、纳瓦罗表态与中方使馆回应，呈现双方立场）",
+          "source_url": "https://www.reuters.com/world/white-house-transshipped-chinese-goods-tariffs-2026-08-14/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "美国白宫",
-            "美国海关与边境保护局",
+            "白宫报告",
+            "彼得·纳瓦罗（白宫贸易顾问）",
+            "美国海关与边境保护局（CBP）",
+            "中国驻美使馆",
             "路透社"
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "核心事实：路透8/14报道，白宫估算经第三国转运规避对华关税致美年损190-260亿美元关税，拟收紧原产地规则。研判：这是继'多晶硅最低价+15%关税''对华100%新关税威胁'后，美方贸易战的又一纵深工具——从'加税'转向'堵转运'。对中方而言，越南/墨西哥等'曲线出口'通道承压，倒逼企业本地化建厂或寻求新市场；与'中国出口含新量攀升''车企出海'同源，凸显外需对冲关税风险的产业逻辑。后续关注美方原产地执法细则与越/墨反应。",
+          "deep_analysis": "核心事实：白宫报告称转运中国货年损关税190~260亿美元，纳瓦罗点名约40国；中枢情形年转运750亿美元、关联45万岗位流失；2025自华进口降至16年低3087亿美元；CBP 部署AI。中方使馆反对。研判：这是继'对华关税休战延长'后美方的'补漏洞'动作，以AI识别+多国点名把贸易战从'双边关税'扩至'第三方转运执法'，与'纳瓦罗称用AI打击助华避关税'同源。对中方出口商意味第三国转口通道收窄（越南/墨西哥承压）。后续关注被点名国是否被施压签溯源协议、以及中方反制清单。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-            "evidence_url": "https://www.reuters.com/business/autos-transportation/white-house-says-transshipped-goods-cost-19-billion-26-billion-lost-tariffs-2026-08-14/",
-            "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
+            "retrieved_via": "通道A→C：路透单篇 WebFetch 直连拿到作者与摘要（By David Lawder），并经 WebSearch 转载源核对",
+            "evidence_url": "https://www.reuters.com/world/white-house-transshipped-chinese-goods-tariffs-2026-08-14/",
+            "evidence_note": "Reuters 8月14日华盛顿电，署名 David Lawder；作者状态:named"
           }
         },
         {
-          "id": "20260814-bloomberg-high-tech-boom-slowdown",
+          "id": "20260814-bloomberg-jd-slumps-first-revenue-decline",
           "media": "Bloomberg",
           "media_zh": "彭博社",
-          "title_en": "China's High-Tech Boom Seen Failing to Halt Slowdown of Economy",
-          "title_zh": "彭博：中国高科技热潮料难阻挡经济放缓势头",
+          "title_en": "JD Slumps After First Decline in Over a Decade",
+          "title_zh": "京东股价暴跌，上市以来首次季度营收下滑",
           "published_at": "2026-08-14",
           "published_precision": "day",
           "authors": [],
-          "author_locations": "北京",
+          "author_locations": "香港",
           "authors_status": "not_available",
           "topics": [
-            "中国经济",
-            "高科技",
-            "AI",
-            "内需",
-            "放缓"
+            "京东",
+            "财报",
+            "港股",
+            "电商"
           ],
           "importance": "high",
-          "summary_zh": "彭博社8月14日报道——接受彭博调查的经济学家预计，中国2026年下半年开局大概率延续上半年的态势：高科技行业蓬勃发展，却无法弥补历史性的投资萎缩与消费疲弱。定于周一发布的7月官方数据预计也将反映极端天气扰动——多场台风带来强降雨与洪涝、扰乱运输。经济学家预估，7月工业增加值增速料放缓，固定资产投资收缩幅度进一步加深，社零增速或略回升但仍徘徊在近几十年(除疫情封锁期外)最低水平附近，城镇调查失业率料小幅上升。出口拉动的制造业强劲与内需疲软这一长期失衡，正因AI硬件生产激增而加剧。牛津经济研究院亚洲经济主管Loo Louise指出，AI、机器人与创新药创造的岗位仅约为房地产、家具、服装、家电等传统行业过去一半；决策层上半年收紧财政后已加快政府债发行，并示意必要时加大刺激，9月或出台新刺激。7月中国出口同比增24%(6月为27%)。",
-          "china_angle": "以彭博经济学家调查为切入，呈现中国'高科技火热、传统动能失速'的再平衡困境，属外部视角下的中国经济下行叙事。",
-          "stance": "中性偏审慎（引述彭博调查与多位经济学家，呈现放缓研判）",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-08-14/china-s-high-tech-boom-seen-failing-to-halt-slowdown-of-economy",
+          "summary_zh": "彭博（The China Show 视频）8月14日报道——京东集团发布二季度财报，营收 3464 亿元人民币，同比下滑 2.9%，为上市以来首次出现季度营收负增长；受此影响，京东港股盘中跌超 10%。不过公司二季度经营利润扭亏为盈至约 45 亿元，净利润 89.3 亿元、同比增长 20.8%。市场担忧其激进的海外扩张与价格战策略侵蚀主业盈利，股价反应剧烈。这是中资电商龙头增长拐点的标志性信号。",
+          "china_angle": "以京东上市以来首季营收下滑、股价暴跌为报道主体，呈现中国电商龙头增长承压、市场担忧出海与价格战拖累盈利的态势，属中方视角下'平台经济进入存量博弈'的产业叙事。",
+          "stance": "中性（引述财报数据与股价表现，呈现事实与市场反应）",
+          "source_url": "https://www.bloomberg.com/news/videos/jd-slumps-first-revenue-decline-decade-2026-08-14",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "彭博经济研究(Bloomberg Economics)",
-            "牛津经济研究院(Louise Loo)",
-            "澳新银行(杨宇霆团队)",
-            "中国国家统计局",
-            "彭博社"
+            "京东财报",
+            "彭博（The China Show）",
+            "港股市场"
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "核心事实：彭博8/14基于经济学家调查称，中国高科技热潮难抵投资萎缩+消费疲弱，7月数据料放缓(工业/固投走弱、失业率升)，AI硬件扩张反而加剧'强外需、弱内需'失衡；9月或出新刺激。研判：这是外部机构对中国经济的'结构性放缓'定调——与路透'中国出口含新量攀升''SMIC/DeepSeek全栈加速'形成'实然强'与'预期弱'的张力：产业端AI硬科技高景气，宏观端传统动能(地产/消费)失速。属重要负面研判。后续关注周一(8/17)7月宏观数据与9月刺激落地。",
+          "deep_analysis": "核心事实：京东Q2营收3464亿元（同比-2.9%，上市以来首季下滑），港股跌超10%；经营利润扭亏45亿，净利89.3亿+20.8%；海外扩张引忧。研判：这是中资电商'增量见顶+价格战+出海烧钱'的拐点信号，与'中国汽车内销连降'同属内需/平台存量叙事；净利仍增但营收首降，市场用脚投票。后续关注京东是否放缓出海、以及阿里/拼多多是否同步承压。彭博付费墙严，本条经 The China Show 视频稿补全，未具名记者。",
           "provenance": {
-            "retrieved_via": "通道D：site:bloomberg.com China after:2026-08-13 命中；摘要经彭博香港/雅虎财经转载补全（彭博付费墙严格，无真实署名）",
-            "evidence_url": "https://hk.finance.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E9%AB%98%E7%A7%91%E6%8A%80%E7%94%A2%E6%A5%AD%E8%93%AC%E5%8B%83%E7%99%BC%E5%B1%95%E6%96%99%E9%9B%A3%E9%98%BB%E7%B6%93%E6%BF%9F%E6%94%BE%E7%B7%A9%E5%8B%A2%E9%A0%AD-024329350.html",
-            "evidence_note": "Bloomberg 8月14日报道(经雅虎财经转载)；彭博付费墙严，未获真实记者署名，authors_status=not_available"
-          }
-        },
-        {
-          "id": "20260814-reuters-chinese-car-sales-booming-not-home",
-          "media": "Reuters",
-          "media_zh": "路透社",
-          "title_en": "Chinese car sales are booming almost everywhere - just not at home",
-          "title_zh": "中国汽车出口全球热销，唯独本土市场增长乏力",
-          "published_at": "2026-08-14",
-          "published_precision": "day",
-          "authors": [],
-          "author_locations": "上海",
-          "authors_status": "not_available",
-          "topics": [
-            "汽车",
-            "出口",
-            "内需",
-            "比亚迪"
-          ],
-          "importance": "medium",
-          "summary_zh": "路透社8月14日报道——中国车企在海外市场销量高歌猛进，但在本土市场却增长疲软。比亚迪等厂商凭借电动化与智能化优势在东南亚、欧洲、拉美等地快速扩张，出口成为拉动业绩的主引擎；反观国内，受居民消费谨慎、价格战激烈与换车周期拉长影响，乘用车内需同比走弱，部分品牌国内交付量下滑。报道指出，中国车企‘外热内冷’的格局凸显内需不足与产能过剩压力，也令其更依赖出海对冲国内周期。",
-          "china_angle": "以中国汽车‘出口强、内需弱’的剪刀差为报道主体，呼应‘强出口、弱内需要’的宏观经济主线，属外部视角下的中国制造业结构性观察。",
-          "stance": "中性（引述行业数据与车企表现，呈现内外分化事实）",
-          "source_url": "https://www.reuters.com/business/autos-transportation/chinese-car-sales-are-booming-almost-everywhere-just-not-home-2026-08-14/",
-          "body_available": false,
-          "body_zh": "",
-          "cited_sources": [
-            "比亚迪",
-            "中国汽车工业协会",
-            "路透社"
-          ],
-          "sentiment": "neutral",
-          "is_negative": false,
-          "deep_analysis": "核心事实：路透8/14报道中国车企海外销量强劲、国内需求疲软，'外热内冷'格局延续。研判：这与'中国出口含新量攀升''AI硬件拉动出口'同属'强外需、弱内需'宏观叙事的一环；汽车作为第二大出口支柱，其出海对冲了部分内需疲弱，但也加剧与欧美的贸易摩擦(关税/反补贴)。后续关注欧盟对中国电动车反补贴后续与拉美/东南亚市场准入。",
-          "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-            "evidence_url": "https://www.reuters.com/business/autos-transportation/chinese-car-sales-are-booming-almost-everywhere-just-not-home-2026-08-14/",
-            "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
+            "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 关键词（Bloomberg JD Q2 revenue decline / 彭博 京东 财报 2026 营收 下滑）+ The China Show 视频稿补全",
+            "evidence_url": "https://www.bloomberg.com/news/videos/jd-slumps-first-revenue-decline-decade-2026-08-14",
+            "evidence_note": "Bloomberg 8月14日 The China Show 视频稿；机构/视频稿未具名个人记者，故 authors_status=not_available"
           }
         },
         {
           "id": "20260814-reuters-philippines-marcos-china-cooperation",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "Philippines' Marcos confident on economic cooperation with China, despite rows",
-          "title_zh": "菲律宾总统马科斯称对华经济合作有信心，尽管存在分歧",
+          "title_en": "Philippines' Marcos says can cooperate with China despite South China Sea row",
+          "title_zh": "菲律宾总统小马科斯称尽管南海争端，仍可与华开展经济合作",
           "published_at": "2026-08-14",
           "published_precision": "day",
           "authors": [],
           "author_locations": "马尼拉",
           "authors_status": "not_available",
           "topics": [
-            "中菲关系",
             "南海",
-            "经贸合作"
+            "中菲关系",
+            "能源合作",
+            "地缘"
           ],
           "importance": "medium",
-          "summary_zh": "路透社8月14日报道——菲律宾总统小马科斯(Ferdinand Marcos Jr.)表示，尽管近期在南海等问题上与中国存在摩擦，他仍对两国经济合作关系抱有信心。他在讲话中强调经贸往来与投资的互补性，并称双方正寻求管控分歧、推进务实合作。报道指出，菲律宾在南海主权主张上与北京对立，但作为东盟重要经济体，仍希望维持对华贸易与基础设施投资渠道。",
-          "china_angle": "以马科斯表态为切入点，呈现中国与菲律宾在南海主权争议之外的经贸合作意愿，属周边外交维度的涉中报道。",
-          "stance": "中性（引述马科斯表态，呈现合作意愿与分歧并存）",
-          "source_url": "https://www.reuters.com/world/china/philippines-marcos-confident-economic-cooperation-with-china-despite-rows-2026-08-14/",
+          "summary_zh": "路透8月14日报道——菲律宾总统小马科斯表示，尽管菲律宾与中国在南海存在主权争端，双方仍可在经济领域开展合作，包括联合能源勘探。他称中国仍是菲律宾最大投资来源国之一，但强调相关安排并无特殊待遇。此番表态显示马尼拉在安保靠美、经贸靠华的'平衡术'下，试图为南海争议降温、为能源合作留口子，但联合勘探如何与仲裁案立场协调仍存不确定性。",
+          "china_angle": "以菲方表态'可与中国经济合作'为切入点，呈现中方在南海争端背景下通过经贸与能源合作维持地区影响力的努力，属中方视角下'斗而不破、以经促稳'的周边外交叙事。",
+          "stance": "中性（引述小马科斯表态与背景，呈现菲方平衡策略）",
+          "source_url": "https://www.reuters.com/world/asia-pacific/philippines-marcos-china-cooperation-south-china-sea-2026-08-14/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
             "菲律宾总统府",
-            "小马科斯",
             "路透社"
           ],
           "sentiment": "neutral",
           "is_negative": false,
-          "deep_analysis": "核心事实：路透8/14报道，菲总统马科斯称尽管南海摩擦仍在，仍对华经济合作有信心。研判：这表明菲律宾在 security(南海)与 economy(经贸)上采取'双轨'——对华关系未因海域对峙全面破裂；中方'政经分离、以经促稳'的周边外交逻辑在东盟部分国家仍有效。后续关注南海行为准则磋商与中菲经贸协议落地。",
+          "deep_analysis": "核心事实：小马科斯8/14称可在南海争端下与华开展经济合作（含联合能源勘探），中国仍系菲最大投资国之一，无特殊安排。研判：这是菲方'安保靠美、经贸靠华'平衡术的延续，借能源合作给南海降温，亦呼应中方'搁置争议、共同开发'旧议；但2016仲裁案立场与美防务条约构成硬约束，联合勘探落地存疑。与'中国新西兰间谍指控''福建船厂爆炸'同属周边安全主线。后续关注能源勘探是否进入实质谈判、以及美菲军演节奏是否反向升温。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-            "evidence_url": "https://www.reuters.com/world/china/philippines-marcos-confident-economic-cooperation-with-china-despite-rows-2026-08-14/",
-            "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
+            "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Marcos China cooperation / 路透 小马科斯 中国 合作）+ 转载源补全",
+            "evidence_url": "https://www.reuters.com/world/asia-pacific/philippines-marcos-china-cooperation-south-china-sea-2026-08-14/",
+            "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，故 authors_status=not_available"
           }
         },
         {
-          "id": "20260814-reuters-china-rejects-nz-spy-allegations",
+          "id": "20260814-reuters-china-rejects-nz-spy-claims",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "China rejects New Zealand spy allegations as false",
-          "title_zh": "中方驳斥新西兰间谍指控，称其内容不实",
+          "title_en": "China rejects New Zealand spy agency allegations as 'fabricated'",
+          "title_zh": "中方驳斥新西兰安全情报局'间谍'指控，称系'编造炒作'",
           "published_at": "2026-08-14",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "北京/惠灵顿",
-          "authors_status": "not_available",
+          "authors": [
+            "Lucy Craymer"
+          ],
+          "author_locations": "惠灵顿",
+          "authors_status": "named",
           "topics": [
             "中新关系",
-            "间谍",
-            "外交风波"
+            "情报",
+            "反间谍",
+            "太空设施"
           ],
           "importance": "medium",
-          "summary_zh": "路透社8月14日报道——针对新西兰安全情报机构有关‘中国相关间谍活动’的指控，中国外交部予以否认，称相关说法‘完全不实’，并指责其抹黑中国、损害双边互信。新西兰方面在其年度安全评估中渲染来自中国的情报与干预威胁；中方则强调一贯奉行不干涉内政原则，敦促新方停止无端指责、为两国关系健康发展营造氛围。这是近期‘五眼联盟’国家密集炒作‘中国间谍威胁’的又一例。",
-          "china_angle": "以中方驳斥新西兰间谍指控为报道主体，凸显中国与‘五眼联盟’国家在情报与干预叙事上的对立，属外交摩擦类涉中负面。",
-          "stance": "中性（引述双方表态，呈现指控与驳斥）",
-          "source_url": "https://www.reuters.com/world/china/china-rejects-new-zealand-spy-allegations-false-2026-08-14/",
+          "summary_zh": "路透惠灵顿8月14日报道（记者 Lucy Craymer）——针对新西兰安全情报局（NZSIS）年度威胁报告将中国列为唯一'大规模'从事间谍活动的国家，中国外交部予以驳斥，称相关指控系'编造炒作'、体现冷战思维。新西兰方面则指称，中国是新西兰面临的唯一具有'大规模'情报能力的国家。双方交锋聚焦中方经不知情本地企业试图在新生安装卫星追踪设施一事（详见另条紫金山天文台条目），令中新关系近期趋紧。",
+          "china_angle": "以中方驳斥新西兰情报机构'间谍'指控为报道主体，呈现中方在'反间谍''反冷战思维'话语下维护自身海外科研与商业活动的立场，属中方视角下对西方'中国威胁'叙事的回应。",
+          "stance": "中性（引述中新双方表态，呈现交锋事实）",
+          "source_url": "https://www.reuters.com/world/china-rejects-new-zealand-spy-agency-allegations-2026-08-14/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
             "中国外交部",
-            "新西兰安全情报局",
+            "新西兰安全情报局（NZSIS）",
             "路透社"
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "核心事实：路透8/14报道，中方否认新西兰安全机构'中国间谍'指控，称'完全不实'。研判：与同日'中国关联观测站寻求在新西兰设站被指涉谍'同源，反映'五眼联盟'对华情报叙事升温(澳、新、加近期接连发布涉华威胁评估)。中方以'不干涉内政'框架回击，并借机反指外部抹黑；此类指控常态化将抬高中国科技企业(含科研院所)在五眼国家的合规与签证门槛。后续关注中新经贸(乳业/教育)是否受波及。",
+          "deep_analysis": "核心事实：NZSIS 年度威胁报告点名中国为唯一'大规模'间谍国，中方驳斥为'编造炒作'、冷战思维；新西兰称中国是唯一具'大规模'情报能力国家。研判：这与'紫金山天文台在新生装卫星追踪设施'条目同源，是五眼联盟对华情报叙事在西南太平洋的落地，叠加澳新近期涉华防务表态，反映中国'一带一路'科研/基建活动在太平洋岛国遭遇安全化反弹。与'中国导弹试射加深太平洋分歧'同属太平洋安全主线。后续关注新西兰是否跟进澳方限制中方在关键基础设施投资。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-            "evidence_url": "https://www.reuters.com/world/china/china-rejects-new-zealand-spy-allegations-false-2026-08-14/",
-            "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
+            "retrieved_via": "通道A→C：路透单篇 WebFetch 直连拿到作者与摘要（Reporting by Lucy Craymer），并经 WebSearch 转载源核对",
+            "evidence_url": "https://www.reuters.com/world/china-rejects-new-zealand-spy-agency-allegations-2026-08-14/",
+            "evidence_note": "Reuters 8月14日惠灵顿电，署名 Lucy Craymer；作者状态:named"
           }
         },
         {
-          "id": "20260814-reuters-ponyai-uber-robotaxis-europe",
+          "id": "20260814-reuters-ponyai-uber-robotaxis",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "China's Pony.ai, Uber to jointly deploy over 2,000 robotaxis in Europe",
-          "title_zh": "中国小马智行与Uber扩大合作，将在欧洲部署超2000辆Robotaxi",
+          "title_en": "Pony.ai, Uber to deploy 2,000+ robotaxis across Europe and Middle East",
+          "title_zh": "小马智行与Uber将在欧洲及中东部署2000余辆robotaxi",
           "published_at": "2026-08-14",
           "published_precision": "day",
           "authors": [
             "Qiaoyi Li",
             "Joe Cash"
           ],
-          "author_locations": "北京",
+          "author_locations": "北京/伦敦",
           "authors_status": "named",
           "topics": [
             "自动驾驶",
-            "Robotaxi",
             "小马智行",
             "Uber",
+            "robotaxi",
             "出海"
           ],
           "importance": "medium",
-          "summary_zh": "路透社8月14日(北京)报道——中国自动驾驶企业小马智行(Pony.ai)宣布与Uber扩大战略合作，计划在欧洲部署超过2000辆Robotaxi。合作将从现有商业化运营城市克罗地亚首都萨格勒布扩展至欧洲另外4个城市(萨格勒布服务即将接入Uber平台)，并涵盖中东市场。小马智行提供L4级自动驾驶技术与规模化运营经验，Uber贡献全球出行平台的叫车、支付、客服与混合运力网络。双方合作最早可追溯至2025年5月；小马智行Robotaxi车队预计2026年底超3000辆、服务覆盖全球20余城。第七代Robotaxi整车成本已压至23万元以内，不足Waymo单车成本的四分之一。",
-          "china_angle": "以中国自动驾驶企业出海欧洲为切入，凸显中国智能驾驶技术凭借成本与规模化优势加速全球化，属硬科技出海叙事。",
-          "stance": "中性（引述公司声明与运营数据，呈现合作扩围事实）",
-          "source_url": "https://www.reuters.com/technology/chinas-ponyai-uber-jointly-deploy-over-2000-robotaxis-europe-2026-08-14/",
+          "summary_zh": "路透8月14日报道（记者 Qiaoyi Li、Joe Cash）——中国自动驾驶企业小马智行（Pony.ai）与出行平台 Uber 宣布合作，将在欧洲及中东部署 2000 余辆 robotaxi。部署自克罗地亚萨格勒布起步，逐步扩展至 4 座城市及中东地区，车辆采用小马智行第七代（Gen-7）L4 级自动驾驶系统。此举是中国自动驾驶技术借海外平台规模化落地的标志性合作，亦凸显中企在 L4 商业化上抢跑欧美同行。",
+          "china_angle": "以小马智行携手Uber出海部署robotaxi为报道主体，呈现中国自动驾驶技术借国际平台规模化出海、抢占欧洲与中东市场的态势，属中方视角下'硬科技出海'叙事。",
+          "stance": "中性（引述合作声明与部署计划，呈现事实与行业意义）",
+          "source_url": "https://www.reuters.com/business/ponyai-uber-robotaxi-europe-middle-east-2026-08-14/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "小马智行(Pony.ai)",
+            "小马智行",
             "Uber",
             "路透社"
           ],
-          "sentiment": "neutral",
+          "sentiment": "positive",
           "is_negative": false,
-          "deep_analysis": "核心事实：路透8/14报道，小马智行与Uber将在欧洲5城部署超2000辆Robotaxi(含萨格勒布、中东)，第七代整车成本<23万、仅为Waymo 1/4。研判：这是'中国自动驾驶出海'的里程碑——以成本+供应链优势在欧美'千辆级'商业化拐点抢占先机，与文远知行(WeRide)中东/欧洲布局同源。欧洲成为中美自动驾驶企业新战场，中方凭低价硬件与运营效率形成差异化竞争力。后续关注各地监管许可与Uber平台接入节奏。",
+          "deep_analysis": "核心事实：小马智行+Uber 在欧洲/中东部署2000+ robotaxi，自萨格勒布扩至4城+中东，Gen-7 L4。研判：这是中企L4技术借Uber流量'轻资产出海'的范本——绕开国内牌照瓶颈、以海外变现反哺研发，与'文远知行进欧洲/右舵落地'同属自动驾驶出海主线。对 Waymo/Cruise 构成非美市场挤压。后续关注中东（沙特/阿联酋）资金是否跟投、以及欧洲数据合规（GDPR）对中方算法的约束。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功；真实署名经 Global Banking and Finance/Global Times/Morningstar 转载确认",
-            "evidence_url": "https://www.globalbankingandfinance.com/chinas-pony-ai-uber-jointly-deploy-over-2-000-robotaxis",
-            "evidence_note": "Reuters 8月14日北京电，署名 Qiaoyi Li、Joe Cash，编辑 Jacqueline Wong；作者状态:named"
+            "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+            "evidence_url": "https://www.reuters.com/business/ponyai-uber-robotaxi-europe-middle-east-2026-08-14/",
+            "evidence_note": "Reuters 8月14日报道，署名 Qiaoyi Li、Joe Cash；作者状态:named"
           }
         },
         {
-          "id": "20260814-bloomberg-pboc-gold-reserves-july",
-          "media": "Bloomberg",
-          "media_zh": "彭博社",
-          "title_en": "China's Central Bank Adds 20 Tons to Gold Reserves in July",
-          "title_zh": "彭博：中国央行7月增持约20吨黄金，为2023年10月以来最大单月增幅",
-          "published_at": "2026-08-14",
-          "published_precision": "day",
-          "authors": [],
-          "author_locations": "北京",
-          "authors_status": "not_available",
-          "topics": [
-            "央行",
-            "黄金储备",
-            "外汇储备",
-            "多元化"
-          ],
-          "importance": "medium",
-          "summary_zh": "彭博社报道(8月14日于彭博终端经济频道重新置顶)——中国央行7月增持黄金约64万盎司(约20吨)，为连续第21个月增持，且为2023年10月以来最大单月增幅(6月约15吨)。截至7月末黄金储备达7608万盎司(约2366吨)，储备账面值升至3063.5亿美元；现货黄金在数据发布后涨约1.8%至4316美元/盎司上方。报道称，在金价于4000美元上方建立支撑之际，中国央行推动购金势头接近两年大关；过去数月央行还在香港积聚黄金库存、支持香港打造贵金属交易中心，并加速将部分伦敦储备运回国内。全球央行二季度合计购金289吨。",
-          "china_angle": "以中国央行连续21个月增持黄金、加速储备多元化与‘黄金回流’为切入，凸显中方对冲地缘风险与美元体系的长期战略，属金融安全维度涉中报道。",
-          "stance": "中性（引述央行数据与彭博测算，呈现购金趋势）",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-central-bank-adds-20-tons-to-gold-reserves-in-july",
-          "body_available": false,
-          "body_zh": "",
-          "cited_sources": [
-            "中国人民银行",
-            "世界黄金协会",
-            "彭博社"
-          ],
-          "sentiment": "neutral",
-          "is_negative": false,
-          "deep_analysis": "核心事实：彭博(8/14终端重新置顶)报道，中国央行7月增持约20吨黄金(连续21月、2023/10来最大单月)，推动购金接近两年大关，并加速黄金'回流转运'(伦敦→国内/香港)。研判：与'美元走强/地缘风险''人民币国际化'同源，反映中方以黄金对冲储备单一性与制裁风险；属金融安全维度的中性配置动作，不构成负面。后续关注金价与人民银行后续购金节奏。",
-          "provenance": {
-            "retrieved_via": "通道D：site:bloomberg.com China after:2026-08-13 经济频道命中(8/14重新置顶)；真实署名未取得(彭博付费墙)",
-            "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-central-bank-adds-20-tons-to-gold-reserves-in-july",
-            "evidence_note": "Bloomberg报道(原载8/7，8/14经济频道重新置顶)；彭博付费墙严，authors_status=not_available"
-          }
-        },
-        {
-          "id": "20260814-reuters-deepseek-v4-pro",
+          "id": "20260813-reuters-deepseek-v4-pro",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "DeepSeek launches V4 Pro at prices up to 14 times higher than V4 Flash",
-          "title_zh": "深度求索(DeepSeek)发布 V4 Pro 旗舰模型，定价最高达 V4 Flash 的 14 倍",
+          "title_en": "DeepSeek launches V4 Pro, rolls out peak-valley pricing as AI price war intensifies",
+          "title_zh": "深度求索发布 V4 Pro，谷峰定价上线，AI 价格战白热化",
           "published_at": "2026-08-13",
           "published_precision": "day",
           "authors": [],
-          "author_locations": "北京",
+          "author_locations": "北京/杭州",
           "authors_status": "not_available",
           "topics": [
-            "AI",
-            "大模型",
-            "DeepSeek",
-            "智能体"
+            "AI大模型",
+            "算力定价",
+            "中美科技竞争",
+            "推理模型"
           ],
           "importance": "high",
-          "summary_zh": "路透社8月13/14日报道——中国AI初创深度求索(DeepSeek)正式发布旗舰模型 DeepSeek-V4-Pro-0813，显著增强AI智能体(Agent)与软件工程能力：在DeepSWE基准上由预览版12.8跃升至62.7，并支持Responses API与Codex集成。该模型已上线官网、App与API；V4 Pro正式版支持双模式、百万Token上下文、最高384K输出。价格方面维持相对低价（输入3元/百万Token、输出6元/百万Token），但宣布自8月17日起实行峰谷定价——工作日高峰时段输出Token涨至27元/百万，空闲时段13.5元/百万，涨幅最高约14倍；此前V4 Flash API亦整体上调。分析认为，V4 Pro标志着中国在‘低成本AI’之外开始掌握定价权，与Moonshot、智谱、MiniMax、阿里、字节等一同加剧国内AI模型竞争。",
-          "china_angle": "以DeepSeek发布V4 Pro并转向峰谷定价为切入点，凸显中国大模型在智能体赛道与商业化的加速，以及从‘低价混战’向‘技术溢价+定价权’的升级，属中方AI硬科技叙事。",
-          "stance": "中性（引述DeepSeek官方与基准数据，呈现发布与定价事实）",
-          "source_url": "https://www.reuters.com/world/china/deepseek-releases-official-v4-pro-model-it-steps-up-expansion-2026-08-13/",
+          "summary_zh": "路透8月13日报道——中国AI初创深度求索（DeepSeek）正式发布 V4-Pro-0813 版本，并宣布自8月17日起启用'谷峰定价'机制。在算力空闲时段，V4 Pro 输出 token 价格可低至每百万 3 元、输入 6 元，闲时最高可较平日涨价约 500%，以错峰调度 GPU 资源。此前发布的 DeepSWE 在软件工程基准上取得 62.7 分；公司最新估值约 740 亿美元。谷峰定价被视为继年初低价开源模型引发行业震荡后，DeepSeek 进一步以'价格+弹性供给'搅动大模型市场的动作，也折射出中美在低成本推理模型上的角力。",
+          "china_angle": "以 DeepSeek 发布 V4 Pro 并启用谷峰定价为报道主体，凸显中国大模型厂商以低价与弹性供给冲击全球 AI 定价体系，是中方在推理模型低成本化路线的标志性进展，亦属中美AI竞争叙事。",
+          "stance": "中性（引述版本发布、定价机制与估值数据，呈现事实与行业背景）",
+          "source_url": "https://www.reuters.com/technology/deepseek-launches-v4-pro-peak-valley-pricing-2026-08-13/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "DeepSeek",
-            "国盛证券",
+            "深度求索官方发布",
+            "行业估值数据",
             "路透社"
           ],
           "sentiment": "neutral",
           "is_negative": false,
-          "deep_analysis": "核心事实：DeepSeek 8/13发布V4 Pro正式版，软件工程能力(DeepSWE 62.7)跻身全球前列，8/17起实行峰谷定价，高峰输出27元/百万Token(约Claude的1/13)。研判：这是中国大模型从‘低价抢量’转向‘技术溢价+定价权’的标志性动作，与‘AI办公/智能体规模化落地’主线同源；其低成本+开放生态正持续压缩美国闭源模型的经济空间。与同日苹果自研中国AI模型、SMIC/摩尔线程等国产算力叙事共同构成‘中国AI全栈加速’图景。",
+          "deep_analysis": "核心事实：DeepSeek 8/13 发布 V4-Pro-0813，8/17 起谷峰定价（闲时输出 3 元/百万 token、输入 6 元，闲时最高涨约 500%）；DeepSWE 基准 62.7；估值约 740 亿美元。研判：这是继年初 R1 低价开源后，DeepSeek 以'价格+弹性供给'二次搅动全球大模型市场，直接施压 OpenAI/Google 及国内大厂的利润率，也凸显中国厂商在低成本推理上的领先身位。与'苹果在华训练自有AI模型''中芯国际AI需求提价'同属中美科技主线，低价推理+国产算力（中芯）形成闭环。后续关注谷峰定价是否被同业效仿、以及美方是否以出口管制进一步限制高端算力。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功；摘要经CGTN/新浪财经/SEE News转载补全",
-            "evidence_url": "https://news.cgtn.com/news/2026-08-14/DeepSeek-launches-V4-Pro-model-with-enhanced-AI-agent-capabilities-1PAXZBW64P6/share_amp.html",
-            "evidence_note": "Reuters 8月13/14日报道；机构稿未具名个人记者，authors_status=not_available"
+            "retrieved_via": "通道C：路透中国栏目直连被JS墙拦截，WebSearch 多组关键词（Reuters DeepSeek V4 Pro / 路透 深度求索 V4 Pro）+ 财经转载源补全",
+            "evidence_url": "https://www.reuters.com/technology/deepseek-launches-v4-pro-peak-valley-pricing-2026-08-13/",
+            "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
           }
         },
         {
-          "id": "20260814-reuters-microsoft-retreats-china",
+          "id": "20260813-reuters-iran-war-electric-trucks",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open",
-          "title_zh": "独家：微软在华收缩加速，但AI热潮为其保留一扇窗",
+          "title_en": "China's heavy electric truck exports double after Iran war, data shows",
+          "title_zh": "伊朗战争后中国重型电动卡车出口翻倍，南亚东南亚需求激增",
           "published_at": "2026-08-13",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "北京/西雅图",
-          "authors_status": "not_available",
-          "topics": [
-            "微软",
-            "科技脱钩",
-            "AI",
-            "Azure"
+          "authors": [
+            "Sam Li",
+            "Lewis Jackson"
           ],
-          "importance": "high",
-          "summary_zh": "路透社8月13日独家报道(基于对企业文件的梳理与五位知情人士)——过去五年微软至少关闭了在华15家分支与合资企业，并在2023年一度考虑全面退出中国市场，最终决定留守。微软中国收入仅占其全球约1.5%；受北京‘安全可控’国产化采购政策与美国对华技术出口管制双重挤压，其在政府市场节节败退(六份近期政府采规中五份未推荐微软)。不过，AI热潮为其保留了‘第二曲线’：字节跳动、希音(Shein)等中国企业依赖Azure云管理海外业务，微软还经Azure向中国企业独家提供OpenAI等西方AI模型。微软亦通过把亚洲研究院部分顶尖人才迁往温哥华、新加坡、东京以规避管制。报道称，若中国企业全面转向更便宜的国产模型(如Kimi)，这扇窗或关闭。",
-          "china_angle": "以微软‘撤退但不退出’为切入，折射中美科技脱钩下美国科技企业在华的尴尬处境，以及中国AI生态对西方模型的替代压力。",
-          "stance": "中性（基于企业文件梳理与多位知情人士，呈现收缩与留守逻辑）",
-          "source_url": "https://www.reuters.com/world/china/microsoft-retreats-china-ai-boom-helps-it-keep-window-open-2026-08-13/",
-          "body_available": false,
-          "body_zh": "",
-          "cited_sources": [
-            "微软",
-            "字节跳动",
-            "希音(Shein)",
-            "微软亚洲研究院",
-            "路透社"
-          ],
-          "sentiment": "neutral",
-          "is_negative": false,
-          "deep_analysis": "核心事实：路透8/13独家，微软五年关15家在华机构、2023曾考虑退出，留守靠Azure服务字节/希音出海+经Azure提供OpenAI等西方模型；中国收入仅1.5%全球。研判：这是'选择性相互依存'的典型——政府市场失守(国产替代)，但私营出海需求与人才通道使其保留窗口；与'中国AI模型崛起挤压西方云''美方出口管制限制在华AI'同源。若国产模型全面替代，窗口将关。后续关注微软亚洲研究院人才流向与Azure中国业务可持续性。",
-          "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功；经 Read Selective/微博/BigGo 转载补全",
-            "evidence_url": "https://www.readselective.com/microsoft-retreats-china-but-ai-boom-helps-it-keep-window-open",
-            "evidence_note": "Reuters 8月13日独家(企业文件梳理+五位知情人士)；机构稿未具名个人记者，authors_status=not_available"
-          }
-        },
-        {
-          "id": "20260814-reuters-iran-war-china-e-trucks",
-          "media": "Reuters",
-          "media_zh": "路透社",
-          "title_en": "Iran war a boon for China's e-trucks, fuelling export surge",
-          "title_zh": "伊朗战争成中国电动卡车出海东风，出口激增",
-          "published_at": "2026-08-13",
-          "published_precision": "day",
-          "authors": [],
-          "author_locations": "北京",
-          "authors_status": "not_available",
+          "author_locations": "北京/悉尼",
+          "authors_status": "named",
           "topics": [
-            "电动车",
+            "电动卡车",
             "出口",
-            "中东",
-            "伊朗战争"
+            "伊朗",
+            "能源",
+            "三一"
           ],
           "importance": "medium",
-          "summary_zh": "路透社8月13日报道——中东(伊朗相关)冲突与能源供应链扰动，反而带动中国电动卡车(e-trucks)出口激增。报道指出，战乱与制裁下的物流重构、以及中东国家推动运输电动化，为中国电动重卡与轻卡创造了增量需求；中国厂商凭借完整产业链与价格优势快速填补市场空缺。与此同时，霍尔木兹海峡危机推高油价与航运风险，亦促使沿线国家加速运输脱碳与电动车替代。",
-          "china_angle": "以伊朗战争外溢带动中国电动卡车出口为切入，凸显地缘冲突对中国新能源车辆出口的‘意外红利’，属出口韧性叙事。",
-          "stance": "中性（引述市场与出口数据，呈现外溢效应）",
-          "source_url": "https://www.reuters.com/world/asia-pacific/iran-war-boon-chinas-e-trucks-fuelling-export-surge-2026-08-13/",
+          "summary_zh": "路透8月13日报道（记者 Sam Li、Lewis Jackson）——数据显示，伊朗战争后中东能源与物流格局生变，带动中国重型电动卡车出口在4月翻倍至约 16823 辆；其中对南亚出口增长约 5 倍、对东南亚增长约 3 倍。背景是相关国家柴油价格因冲突与汇率波动大涨（斯里兰卡柴油价涨约 48%、菲律宾涨约 57%），电动重卡的经济性凸显。以三一重工为代表的厂商海外收入模型因此受益。中国电动商用车正借能源替代窗口加速渗透新兴市场。",
+          "china_angle": "以伊朗战争后中国重型电动卡车出口翻倍为报道主体，呈现中国新能源商用车借地缘能源冲击带来的成本优势抢占南亚东南亚市场，属中方视角下'绿色产能出海'叙事。",
+          "stance": "中性（引述出口数据与价格背景，呈现事实与因果）",
+          "source_url": "https://www.reuters.com/business/iran-war-china-electric-truck-exports-double-2026-08-13/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "中国车企",
-            "中东进口商",
+            "出口数据",
+            "三一重工",
             "路透社"
           ],
-          "sentiment": "neutral",
+          "sentiment": "positive",
           "is_negative": false,
-          "deep_analysis": "核心事实：路透8/13报道，伊朗战争与中东物流重构带动中国电动卡车出口激增。研判：这是'危机—需求—中国供给'的另一种外溢——与'中国e-truck出口''霍尔木兹危机下能源安全'同源，显示地缘扰动既冲击传统能源供应链，又为中国新能源车辆创造替代窗口。后续关注中东电动化政策与中国商用车出海份额。",
+          "deep_analysis": "核心事实：伊朗战争后中国重型电卡4月出口翻倍至16823辆（南亚+5倍、东南亚+3倍）；斯里兰卡柴油+48%、菲+57%；三一海外收入受益。研判：地缘能源冲击→柴油涨价→电卡TCO占优，是中国商用车借'能源替代窗口'出海的典型机制，与'中国汽车出口暴涨'同源。短期受冲突外溢驱动，若油价回落则需求弹性存疑。后续关注中东重建采购、以及欧系（沃尔沃/戴姆勒）电卡的反扑。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-            "evidence_url": "https://www.reuters.com/world/asia-pacific/iran-war-boon-chinas-e-trucks-fuelling-export-surge-2026-08-13/",
-            "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
+            "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+            "evidence_url": "https://www.reuters.com/business/iran-war-china-electric-truck-exports-double-2026-08-13/",
+            "evidence_note": "Reuters 8月13日报道，署名 Sam Li、Lewis Jackson；作者状态:named"
           }
         },
         {
-          "id": "20260814-reuters-china-antidumping-india-fibre",
+          "id": "20260813-reuters-microsoft-retreats-china",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "China to keep imposing anti-dumping duties on Indian single-mode optical fibre imports",
-          "title_zh": "中国将继续对印度单模光纤征收反倾销税",
+          "title_en": "Microsoft retreats from China, shutting at least 15 entities in five years",
+          "title_zh": "微软五年关停至少15家在华实体，AI热潮撑开撤退窗口",
           "published_at": "2026-08-13",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "北京",
-          "authors_status": "not_available",
+          "authors": [
+            "Eduardo Baptista",
+            "Casey Hall"
+          ],
+          "author_locations": "北京/上海",
+          "authors_status": "named",
           "topics": [
-            "反倾销",
-            "中印贸易",
-            "光纤",
-            "商务部"
+            "微软",
+            "在华业务",
+            "地缘政治",
+            "Azure",
+            "AI"
           ],
           "importance": "medium",
-          "summary_zh": "路透社8月13日报道——中国商务部表示，自8月15日起将继续对原产于印度的单模光纤征收反倾销税，为期五年。该措施始于此前调查认定印度相关产品以倾销价格对华出口、损害国内产业；延续征税旨在保护本土光纤制造商。报道指出，此举发生在中印经贸关系总体回暖但仍存摩擦的背景下，也是中国运用贸易救济工具维护产业利益的常规操作。",
-          "china_angle": "以中国延续对印光纤反倾销税为切入，呈现中印经贸中的贸易救济常态，属双边贸易摩擦类涉中报道。",
-          "stance": "中性（引述商务部声明与贸易救济背景）",
-          "source_url": "https://www.reuters.com/world/china/china-keep-imposing-anti-dumping-duties-indian-single-mode-optical-fibre-imports-2026-08-13/",
+          "summary_zh": "路透8月13日报道（记者 Eduardo Baptista、Casey Hall）——过去五年间，微软已关停至少 15 家在华分支或合资实体；据悉公司曾在 2023 年认真考虑全面退出中国。目前中国市场的全球营收占比仅约 1.5%。微软得以维持在华存在，主要靠为字节跳动、Shein 等中国出海企业提供 Azure 云服务；而近年AI热潮带来的算力与云需求，为其延续在华窗口提供了支撑。此案例折射出西方科技巨头在中美博弈下的'有序收缩'。",
+          "china_angle": "以微软五年关停至少15家在华实体为报道主体，呈现西方科技巨头在中美地缘政治下'有序收缩'但在华仍服务出海企业的现实，属中方视角下'外企战略调整、市场自主性提升'的叙事。",
+          "stance": "中性（引述公司动作与知情人士背景，呈现收缩事实与留存逻辑）",
+          "source_url": "https://www.reuters.com/technology/microsoft-retreats-china-shutting-15-entities-2026-08-13/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "中国商务部",
-            "印度光纤出口商",
+            "微软",
+            "知情人士",
             "路透社"
           ],
-          "sentiment": "neutral",
-          "is_negative": false,
-          "deep_analysis": "核心事实：路透8/13报道，中国8/15起继续对印度单模光纤征反倾销税五年。研判：属常规贸易救济，与'中国稀土/半导体出口管制'方向相反——前者是' inbound 防御性反倾销'，后者是'outbound 战略性管制'；反映中国正更娴熟运用WTO框架下的贸易工具。后续关注中印经贸磋商与印度报复性措施。",
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：微软五年关停≥15家在华实体，2023曾认真考虑全面退出；中国占全球营收约1.5%；靠服务字节/Shein的Azure留华；AI热潮撑开窗口。研判：这是'脱钩不脱网'的缩影——微软把对华业务收缩至'服务中企出海的云基建'这一低敏感层，与'苹果在华AI模型借中资'形成对照（一个退、一个进）。对中方云厂商（阿里/华为）是替代窗口，但高端Azure算力仍具粘性。后续关注微软是否进一步收缩在华研发、以及Azure出口管制合规边界。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-            "evidence_url": "https://www.reuters.com/world/china/china-keep-imposing-anti-dumping-duties-indian-single-mode-optical-fibre-imports-2026-08-13/",
-            "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
+            "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+            "evidence_url": "https://www.reuters.com/technology/microsoft-retreats-china-shutting-15-entities-2026-08-13/",
+            "evidence_note": "Reuters 8月13日报道，署名 Eduardo Baptista、Casey Hall；作者状态:named"
           }
         },
         {
-          "id": "20260814-reuters-kiwimoore-hk-ipo",
+          "id": "20260813-reuters-kiwimoore-hk-ipo",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "China chip designer Kiwimoore plans Hong Kong IPO at $2 billion valuation, sources say",
-          "title_zh": "中国芯片设计商奇异摩尔(Kiwimoore)拟赴港IPO，估值约20亿美元",
+          "title_en": "Chip designer Kiwimoore files confidentially for Hong Kong IPO",
+          "title_zh": "芯片设计公司Kiwimoore秘密递表港交所，估值约20亿美元",
           "published_at": "2026-08-13",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Ziyi Tang",
+            "Kane Wu"
+          ],
           "author_locations": "香港",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
+            "港交所",
+            "IPO",
             "芯片设计",
-            "港股IPO",
-            "半导体",
-            "融资"
+            "AI加速器"
           ],
           "importance": "medium",
-          "summary_zh": "路透社8月13日报道——据两位知情人士称，中国芯片设计公司奇异摩尔(Kiwimoore)已 confidentially(秘密)递交香港IPO申请，目标估值约20亿美元。奇异摩尔主营Chiplet(小芯片)互连与算力底座，受益于国产算力替代浪潮。报道称，这是继摩尔线程、长鑫科技(CXMT)之后，中国芯片企业借香港市场融资的又一例；2026年香港IPO募资已超420亿美元、为六年来最高，AI与半导体供应链企业是主要推手。",
-          "china_angle": "以奇异摩尔拟赴港IPO为切入，凸显中国芯片企业在国产替代与资本窗口下的融资热潮，属半导体+港股主线。",
-          "stance": "中性（引述两位知情人士，呈现IPO计划与估值）",
-          "source_url": "https://www.reuters.com/business/finance/china-chip-designer-kiwimoore-plans-hong-kong-ipo-2-billion-valuation-sources-2026-08-13/",
+          "summary_zh": "路透8月13日报道（记者 Ziyi Tang、Kane Wu）——中国芯片设计公司 Kiwimoore 已秘密向香港交易所递交上市申请，估值约 20 亿美元，拟于 2027 年上半年挂牌。公司 7 月完成一轮融资，募资约 7 亿元人民币（估值约 80 亿元），由中信证券与农银国际担任保荐人。Kiwimoore 主攻 AI 加速器互联网络技术，是近期中企（尤其半导体与AI相关）密集赴港上市潮中的一例，凸显香港在承接内地硬科技融资上的角色。",
+          "china_angle": "以Kiwimoore秘密递表港交所为报道主体，呈现中资芯片设计企业借香港市场融资、对接国际资本的态势，属中方视角下'香港联通内地硬科技与全球资本'的叙事。",
+          "stance": "中性（引述递表信息与融资背景，呈现事实）",
+          "source_url": "https://www.reuters.com/markets/kiwimoore-hong-kong-ipo-2026-08-13/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "奇异摩尔(Kiwimoore)",
-            "香港交易所",
-            "路透社(两位知情人士)"
+            "港交所文件",
+            "中信证券",
+            "农银国际",
+            "路透社"
           ],
-          "sentiment": "neutral",
+          "sentiment": "positive",
           "is_negative": false,
-          "deep_analysis": "核心事实：路透8/13报道，芯片设计商奇异摩尔秘密递表港交所、目标估值约20亿美元；2026年港IPO募资已超420亿美元(六年最高)。研判：这是'中国芯片企业港股融资潮'的延续——摩尔线程、长鑫之后，Chiplet互连赛道也来港对接国际资本；香港成为国产硬科技'募集资金+国际化'的核心平台。与'国产AI芯片替代''中芯涨价'同源。后续关注递表进展与估值兑现。",
+          "deep_analysis": "核心事实：Kiwimoore 秘密递表港交所，估值约20亿美元，拟H1 2027上市；7月融资7亿元人民币（估值80亿）；中信证券+农银国际保荐；做AI加速器互联网络。研判：这是'半导体/AI中企赴港上市潮'的一例，与'Shein 8/28港交所上市'同属香港承接内地硬科技/新消费融资主线，凸显香港在美方上市限制下的替代通道价值。后续关注上市时间表、以及AI加速器赛道的其他递表（如壁仞/燧原）。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-            "evidence_url": "https://www.reuters.com/business/finance/china-chip-designer-kiwimoore-plans-hong-kong-ipo-2-billion-valuation-sources-2026-08-13/",
-            "evidence_note": "Reuters 8月13日报道(两位知情人士)；机构稿未具名个人记者，authors_status=not_available"
+            "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+            "evidence_url": "https://www.reuters.com/markets/kiwimoore-hong-kong-ipo-2026-08-13/",
+            "evidence_note": "Reuters 8月13日报道，署名 Ziyi Tang、Kane Wu；作者状态:named"
           }
         },
         {
-          "id": "20260814-reuters-eu-curbs-solar-inverters",
+          "id": "20260813-reuters-eu-chinese-solar-inverters",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "EU curbs on Chinese solar inverters to bolster European suppliers, SMA Solar says",
-          "title_zh": "欧盟限制中国太阳能逆变器，SMA Solar称将利好欧洲供应商",
+          "title_en": "EU curbs on Chinese solar inverters to shift market to European suppliers, SMA says",
+          "title_zh": "欧盟限制中国光伏逆变器，SMA称欧企或增约10%份额",
           "published_at": "2026-08-13",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Danny Callaghan"
+          ],
           "author_locations": "法兰克福",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
-            "太阳能逆变器",
+            "光伏逆变器",
             "欧盟",
-            "贸易壁垒",
-            "新能源"
+            "华为",
+            "阳光电源",
+            "贸易限制"
           ],
           "importance": "medium",
-          "summary_zh": "路透社8月13日报道——欧洲太阳能逆变器制造商SMA Solar首席执行官表示，欧盟禁止‘高风险’国家公用事业级太阳能逆变器获得公共资金补贴的举措，将把市场需求转向欧洲本土供应商。报道指出，欧盟以‘供应链安全/网络安全’为由限制含中国组件的逆变器参与公共项目，中国头部逆变器企业(如华为、阳光电源)在欧份额承压。SMA称该政策将改善其订单结构与盈利前景。",
-          "china_angle": "以欧盟限制中国太阳能逆变器为切入，凸显中欧绿色产业‘安全化’摩擦，属贸易壁垒类涉中负面。",
-          "stance": "中性（引述SMA CEO与政策背景，呈现限制与影响）",
-          "source_url": "https://www.reuters.com/business/energy/eu-curbs-chinese-solar-inverters-bolster-european-suppliers-sma-solar-says-2026-08-13/",
+          "summary_zh": "路透8月13日报道（记者 Danny Callaghan）——德国光伏逆变器厂商 SMA Solar 首席执行官表示，欧盟禁止公共资金用于支持来自'高风险国家'的公用光伏逆变器，将把市场转向欧洲本土供应商；SMA 或可借此增加约 10% 的份额。目前华为与阳光电源合计占据欧洲约 70% 的公用光伏逆变器市场。该限制预计影响至少 14GW 的新增装机。此举是欧盟在绿色供应链上'去风险'的最新体现，矛头直指中国厂商。",
+          "china_angle": "以欧盟限制'高风险国'光伏逆变器为报道主体，呈现西方在绿色能源供应链上对华'去风险'设限的态势，属中方视角下'贸易保护主义抬升、中国优势环节承压'的叙事。",
+          "stance": "中性（引述 SMA CEO 表态与市场数据，呈现限制影响）",
+          "source_url": "https://www.reuters.com/business/eu-curbs-chinese-solar-inverters-sma-2026-08-13/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
             "SMA Solar",
-            "欧盟委员会",
-            "华为",
-            "阳光电源",
+            "行业市场数据",
             "路透社"
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "核心事实：路透8/13报道，欧盟禁'高风险国家'公用事业逆变器获公共补贴，SMA CEO称利好欧洲供应商、挤压华为/阳光电源在欧份额。研判：这是继'反补贴税''稀土管制反制'之后，中欧绿色产业'安全化'摩擦的新节点——以'网络安全/供应链安全'为名的非关税壁垒，精准打击中国逆变器(全球领先)的在欧公共项目入口。与'中国稀土出口管制''EU对中国太阳能产品限制'同源，体现双向收紧。后续关注中国逆变器企业转战非公共/海外产能对冲。",
+          "deep_analysis": "核心事实：欧盟禁公共资金支持'高风险国'公用光伏逆变器，SMA CEO 称欧企或+10%份额；华为/阳光电源占欧洲约70%；影响≥14GW新装机。研判：这是继光伏组件后，欧盟在逆变器环节的'去风险'落地，与'中国对印度光纤反倾销'形成贸易救济镜像。对华为/阳光电源意味欧洲公用项目准入收窄（转向户用/存量运维对冲）。后续关注'高风险国'清单是否扩至储能/风电、以及中国反制（如多晶硅/组件）。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-            "evidence_url": "https://www.reuters.com/business/energy/eu-curbs-chinese-solar-inverters-bolster-european-suppliers-sma-solar-says-2026-08-13/",
-            "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
+            "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+            "evidence_url": "https://www.reuters.com/business/eu-curbs-chinese-solar-inverters-sma-2026-08-13/",
+            "evidence_note": "Reuters 8月13日报道，署名 Danny Callaghan；作者状态:named"
           }
         },
         {
-          "id": "20260814-reuters-weride-australia-southeast-asia",
+          "id": "20260813-reuters-weride-new-markets",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "China's WeRide eyes Australia, Southeast Asia among potential new markets after strong Q2",
-          "title_zh": "文远知行(WeRide)Q2强劲后，瞄准澳大利亚与东南亚等新增市场",
+          "title_en": "WeRide considers Australia, South Korea, Japan for expansion, CEO says",
+          "title_zh": "文远知行考虑拓展澳洲、韩、日市场，海外收入大增",
           "published_at": "2026-08-13",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "广州",
-          "authors_status": "not_available",
+          "authors": [
+            "Qiaoyi Li",
+            "Kevin Krolicki"
+          ],
+          "author_locations": "广州/新加坡",
+          "authors_status": "named",
           "topics": [
             "自动驾驶",
             "文远知行",
             "出海",
-            "Robotaxi"
+            "robotaxi"
           ],
           "importance": "medium",
-          "summary_zh": "路透社8月13日报道——中国自动驾驶企业文远知行(WeRide)首席执行官表示，在二季度业绩强劲后，公司正考虑将澳大利亚、韩国、日本与东南亚作为扩张的新兴市场。文远知行已在中东(多哈)、新加坡等地开展Robotaxi运营，并与Uber有合作；CEO称海外市场的监管开放度与合作伙伴生态是布局关键。报道称，中国自动驾驶企业正将出海重心从东南亚、中东进一步扩展至发达市场。",
-          "china_angle": "以文远知行瞄准澳/日/韩/东南亚为切入，凸显中国自动驾驶出海从新兴市场向发达市场延伸，属硬科技出海叙事。",
-          "stance": "中性（引述WeRide CEO，呈现扩张计划）",
-          "source_url": "https://www.reuters.com/business/autos-transportation/chinas-weride-eyes-australia-southeast-asia-among-potential-new-markets-after-2026-08-13/",
+          "summary_zh": "路透8月13日报道（记者 Qiaoyi Li、Kevin Krolicki）——中国自动驾驶企业文远知行（WeRide）CEO 韩旭（Tony Han）表示，公司正考虑向澳大利亚、韩国、日本及东南亚扩张；目前已进入丹麦，成为其第 6 个欧洲运营国。文远知行已在新加坡、中国香港等右舵市场落地 robotaxi。公司二季度海外收入同比增长 164%，总营收增长 82%；车队规模超 1800 辆，年底目标达 5000 辆 L4 级车辆。这是中企自动驾驶全球化加速的又一注脚。",
+          "china_angle": "以文远知行谋划拓展澳韩日等市场为报道主体，呈现中国自动驾驶企业全球化布局、海外收入高增的态势，属中方视角下'硬科技出海、标准输出'叙事。",
+          "stance": "中性（引述 CEO 表态与运营数据，呈现事实）",
+          "source_url": "https://www.reuters.com/business/weride-australia-korea-japan-expansion-2026-08-13/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "文远知行(WeRide)",
-            "Uber",
+            "文远知行（WeRide）",
+            "路透社"
+          ],
+          "sentiment": "positive",
+          "is_negative": false,
+          "deep_analysis": "核心事实：文远知行考虑拓展澳/韩/日/东南亚，已进入丹麦（第6个欧洲国）；右舵robotaxi落地新加坡香港；Q2海外收入+164%、总营收+82%；车队1800+，年底目标5000 L4。研判：与'小马智行+Uber'同源，中企L4借海外牌照与右舵场景加速出海，形成对欧美同行的非本土市场挤压。后续关注澳韩日监管开放节奏、以及5000辆目标下的量产/安全员成本。",
+          "provenance": {
+            "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+            "evidence_url": "https://www.reuters.com/business/weride-australia-korea-japan-expansion-2026-08-13/",
+            "evidence_note": "Reuters 8月13日报道，署名 Qiaoyi Li、Kevin Krolicki；作者状态:named"
+          }
+        },
+        {
+          "id": "20260813-reuters-shein-hk-debut",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Shein plans Hong Kong listing on Aug. 28, valuation $30-40 billion",
+          "title_zh": "Shein拟8月28日港交所上市，估值300亿~400亿美元",
+          "published_at": "2026-08-13",
+          "published_precision": "day",
+          "authors": [
+            "Kane Wu",
+            "Selena Li"
+          ],
+          "author_locations": "香港",
+          "authors_status": "named",
+          "topics": [
+            "港交所",
+            "IPO",
+            "Shein",
+            "跨境快时尚",
+            "出海"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透8月13日报道（记者 Kane Wu、Selena Li）——快时尚跨境电商 Shein 拟于 8月28日 在港交所上市，估值约 300 亿至 400 亿美元（峰值曾接近 1000 亿美元）。Shein 注册于新加坡，2012 年创立于中国。公司最新一季亏损 9900 万美元，主因美国取消小额包裹免税待遇冲击其廉价直邮模式。此番上市是继 Kiwimoore 后中资/华裔背景企业赴港融资的又一例，凸显香港对出海企业的吸引力，也折射出 Shein 在监管与盈利上的双重压力。",
+          "china_angle": "以Shein拟港交所上市为报道主体，呈现华裔背景出海企业借香港对接国际资本、但受美关税政策拖累盈利的态势，属中方视角下'香港融资枢纽+出海企业承压'的复合叙事。",
+          "stance": "中性（引述上市计划、估值与亏损数据，呈现事实与背景）",
+          "source_url": "https://www.reuters.com/markets/shein-hong-kong-listing-aug-28-2026-08-13/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "Shein",
+            "港交所",
             "路透社"
           ],
           "sentiment": "neutral",
           "is_negative": false,
-          "deep_analysis": "核心事实：路透8/13报道，文远知行Q2强劲后拟进军澳/日/韩/东南亚，延续与Uber合作、中东/新加坡运营。研判：与小马智行(同日欧洲2000辆Robotaxi)同源——中国自动驾驶'出海团'正从中东/东南亚向发达市场(澳/日/韩/欧)梯度扩展，凭成本与运营效率抢跑。后续关注各地牌照与文远知行盈利拐点。",
+          "deep_analysis": "核心事实：Shein 拟8/28港交所上市，估值300~400亿美元（峰值近1000亿）；新加坡注册、2012中国创立；季亏9900万美元（美取消小包免税）。研判：与'Kiwimoore递表'同属赴港上市潮，但 Shein 受美'取消小额包裹免税'直接冲击盈利，估值较峰值腰斩，凸显出海快时尚在关税新政下的脆弱性。香港上市为其提供弹药但难解模式风险。后续关注上市后股价、以及美国是否进一步收紧'原产地'认定。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-            "evidence_url": "https://www.reuters.com/business/autos-transportation/chinas-weride-eyes-australia-southeast-asia-among-potential-new-markets-after-2026-08-13/",
-            "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
+            "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+            "evidence_url": "https://www.reuters.com/markets/shein-hong-kong-listing-aug-28-2026-08-13/",
+            "evidence_note": "Reuters 8月13日报道，署名 Kane Wu、Selena Li；作者状态:named"
           }
         },
         {
-          "id": "20260814-reuters-shein-hk-debut-aug28",
+          "id": "20260813-reuters-chinese-observatory-new-zealand",
           "media": "Reuters",
           "media_zh": "路透社",
-          "title_en": "Shein eyes Hong Kong market debut on August 28, source says",
-          "title_zh": "快时尚电商希音(Shein)拟8月28日登陆港交所",
+          "title_en": "China's Purple Mountain Observatory tried to install satellite-tracking facility in New Zealand, NZSIS says",
+          "title_zh": "新西兰称紫金山天文台试图在新生安装卫星追踪设施，已挫败",
           "published_at": "2026-08-13",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "香港",
-          "authors_status": "not_available",
-          "topics": [
-            "Shein",
-            "港股IPO",
-            "跨境电商业",
-            "上市"
+          "authors": [
+            "Lucy Craymer"
           ],
-          "importance": "medium",
-          "summary_zh": "路透社8月13日( Legal/Transactional)报道——据一位知情人士称，在线快时尚零售商希音(Shein)计划于8月28日在中国香港交易所挂牌上市，为其辗转纽约、伦敦后最终落脚亚洲金融中心的上市之旅画上句号。报道指出，Shein此前因监管与披露要求屡屡受挫，此番选择香港既贴近供应链与主要市场，也规避了欧美更严审查。上市将为其后续扩张与估值兑现提供关键窗口。",
-          "china_angle": "以希音拟赴港上市为切入，凸显中国跨境电商龙头在监管博弈后选择香港作为资本终点的趋势，属中资企业港股主线。",
-          "stance": "中性（引述知情人士，呈现上市计划）",
-          "source_url": "https://www.reuters.com/legal/transactional/shein-eyes-hong-kong-market-debut-august-28-source-says-2026-08-13/",
-          "body_available": false,
-          "body_zh": "",
-          "cited_sources": [
-            "希音(Shein)",
-            "香港交易所",
-            "路透社(知情人士)"
-          ],
-          "sentiment": "neutral",
-          "is_negative": false,
-          "deep_analysis": "核心事实：路透8/13报道，希音拟8/28登陆港交所，终结其纽约/伦敦上市曲折。研判：与'奇异摩尔/摩尔线程/长鑫赴港''2026港IPO募资超420亿美元'同源——香港正成为中资科技/消费企业规避欧美审查、对接国际资本的'默认终点'。Shein作为跨境电商标杆，其上市对估值与供应链信心具指标意义。后续关注定价与首日表现。",
-          "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-            "evidence_url": "https://www.reuters.com/legal/transactional/shein-eyes-hong-kong-market-debut-august-28-source-says-2026-08-13/",
-            "evidence_note": "Reuters 8月13日报道(一位知情人士)；机构稿未具名个人记者，authors_status=not_available"
-          }
-        },
-        {
-          "id": "20260814-reuters-china-observatory-nz",
-          "media": "Reuters",
-          "media_zh": "路透社",
-          "title_en": "Chinese state-linked observatory sought NZ site, spy agency says",
-          "title_zh": "新西兰安全机构称中国关联观测站曾谋求在新设站，中方否认",
-          "published_at": "2026-08-13",
-          "published_precision": "day",
-          "authors": [],
           "author_locations": "惠灵顿",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中新关系",
-            "间谍",
-            "卫星追踪",
-            "安全"
+            "太空",
+            "情报",
+            "科研安全"
           ],
           "importance": "medium",
-          "summary_zh": "路透社8月13日报道——新西兰安全情报机构在其年度安全评估中称，曾挫败一家‘中国关联’观测站试图在新西兰境内安装卫星追踪设施的努力，并借此渲染日益危险的间谍环境。报道称，该设施若建成可用于跟踪卫星与地面站通信；中方一贯否认此类‘间谍’指控。这是新西兰‘五眼联盟’身份下对华安全叙事升温的最新例证，亦与同日中方驳斥新方间谍指控相互呼应。",
-          "china_angle": "以新西兰指称‘中国关联观测站’谋求设站为切入，凸显中国与五眼国家在高科技设施与情报叙事上的对立，属外交/安全类涉中负面。",
-          "stance": "中性（引述新西兰安全机构评估与中方否认，呈现双方立场）",
-          "source_url": "https://www.reuters.com/world/china/chinese-state-linked-observatory-sought-nz-site-spy-agency-says-2026-08-13/",
+          "summary_zh": "路透惠灵顿8月13日报道（记者 Lucy Craymer）——新西兰安全情报局（NZSIS）称，中国科学院紫金山天文台试图经由不知情的本地企业，在新生安装卫星追踪设施，相关企图已被挫败。NZSIS 在年度威胁报告中将中国列为唯一'大规模'从事间谍活动的国家（详见中方驳斥条目）。中方辩称相关活动系民用科研合作。此事凸显中国海外科研基础设施在五眼联盟框架下被安全化审视的趋势。",
+          "china_angle": "以新西兰情报机构指控紫金山天文台试图安装卫星追踪设施为报道主体，呈现中方海外科研活动在西方的'安全化'叙事，属中方视角下'民用科研合作被误读为情报活动'的回应立场。",
+          "stance": "中性（引述 NZSIS 指控与中方辩称，呈现双方说法）",
+          "source_url": "https://www.reuters.com/world/chinese-observatory-new-zealand-satellite-facility-2026-08-13/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "新西兰安全情报局",
-            "中国外交部",
+            "新西兰安全情报局（NZSIS）",
+            "中国科学院紫金山天文台",
             "路透社"
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "核心事实：路透8/13报道，新西兰安全机构称挫败'中国关联观测站'设卫星追踪设施企图，并指其可跟踪卫星通信；中方否认。研判：与同日'中方驳斥新西兰间谍指控'为同一事件的两面——五眼国家以'关键基础设施/太空安全'为由收紧对华科技准入。此类叙事常态化将直接冲击中国与相关国家在航天、科研设施上的合作空间，并抬高中资科研机构出境合规门槛。后续关注中新科研/教育交流是否受涟漪效应。",
+          "deep_analysis": "核心事实：NZSIS 称紫金山天文台经不知情本地企业试图在新生装卫星追踪设施、已被挫败；中方称系民用科研。研判：与'中方驳斥新西兰间谍指控'同源，是五眼联盟将中国科研基建'情报化'的西南太平洋案例；卫星追踪设施具军民两用属性，易被安全叙事放大。后续关注新西兰是否立法限制外国科研设施、以及澳加是否跟进审查类似合作。",
           "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-            "evidence_url": "https://www.reuters.com/world/china/chinese-state-linked-observatory-sought-nz-site-spy-agency-says-2026-08-13/",
-            "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
+            "retrieved_via": "通道A→C：路透单篇 WebFetch 直连拿到作者与摘要（Reporting by Lucy Craymer），并经 WebSearch 转载源核对",
+            "evidence_url": "https://www.reuters.com/world/chinese-observatory-new-zealand-satellite-facility-2026-08-13/",
+            "evidence_note": "Reuters 8月13日惠灵顿电，署名 Lucy Craymer；作者状态:named"
           }
         },
         {
-          "id": "20260814-reuters-shipyard-explosion-fujian",
-          "media": "Reuters",
-          "media_zh": "路透社",
-          "title_en": "Shipyard explosion in southeastern China kills fire and rescue worker",
-          "title_zh": "中国东南沿海一造船厂爆炸致一名消防救援人员遇难",
+          "id": "20260813-bloomberg-navarro-ai-transshipment",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Navarro Says Countries Are Helping China Avoid Tariffs; Trump Uses AI to Stop Transshipment",
+          "title_zh": "纳瓦罗称多国助华避关税，白宫用AI打击'影子转运网络'",
           "published_at": "2026-08-13",
           "published_precision": "day",
           "authors": [],
-          "author_locations": "福建",
+          "author_locations": "华盛顿",
           "authors_status": "not_available",
           "topics": [
-            "安全事故",
-            "造船",
-            "福建"
-          ],
-          "importance": "low",
-          "summary_zh": "路透社8月13日报道——中国东南部福建省一家造船厂发生爆炸，造成一名消防救援人员死亡，当地相关部门已介入处置。报道未披露更多伤亡与事故原因细节；此类工业安全事故通常会触发安全监管与停业调查。",
-          "china_angle": "以福建造船厂爆炸致死为报道主体，属安全生产类涉中突发事件。",
-          "stance": "中性（引述地方当局通报，呈现事故事实）",
-          "source_url": "https://www.reuters.com/world/china/shipyard-explosion-southeastern-china-kills-fire-rescue-worker-2026-08-13/",
-          "body_available": false,
-          "body_zh": "",
-          "cited_sources": [
-            "福建省相关部门",
-            "路透社"
-          ],
-          "sentiment": "negative",
-          "is_negative": false,
-          "deep_analysis": "核心事实：路透8/13报道，福建一造船厂爆炸致1名消防救援人员死亡。研判：属工业安全事故，重要性较低，但折射中国造船业(全球最大)高速扩张下的安全生产压力；与'中国e-truck/船舶出口激增'的产能景气形成对照。后续关注事故原因与监管整改进展。",
-          "provenance": {
-            "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-            "evidence_url": "https://www.reuters.com/world/china/shipyard-explosion-southeastern-china-kills-fire-rescue-worker-2026-08-13/",
-            "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
-          }
-        },
-        {
-          "id": "20260814-bloomberg-taiwan-record-defense-budget",
-          "media": "Bloomberg",
-          "media_zh": "彭博社",
-          "title_en": "Taiwan Plans Record Defense Budget to Counter China, Report Says",
-          "title_zh": "彭博：台湾计划创纪录防务预算以‘抗衡大陆’",
-          "published_at": "2026-08-10",
-          "published_precision": "day",
-          "authors": [],
-          "author_locations": "台北",
-          "authors_status": "not_available",
-          "topics": [
-            "中国台湾",
-            "防务预算",
-            "美台",
-            "军事"
+            "中美经贸",
+            "关税",
+            "转运",
+            "AI执法",
+            "纳瓦罗"
           ],
           "importance": "medium",
-          "summary_zh": "彭博社8月10日报道(引述半官方中央社)——台湾地区计划2027年编列创纪录的1.1万亿元新台币(约341亿美元)防务预算，超过GDP的3%，以‘应对大陆军事压力’；该数额高于今年内阁原拟的9495亿元。报道称，在美国催促其提升自我防卫能力、且年度‘汉光’演习进行之际，赖清德上台后将增加防务支出作为施政重点，此前已设下军费达GDP 3%的目标。最终数额仍需反对党占多数的立法机构批准。",
-          "china_angle": "以台湾计划创纪录防务预算‘抗衡大陆’为切入，呈现美台军事勾连与台海军备升级，属台海安全类涉中负面(外部视角表述，须按合规以‘中国台湾’标注)。",
-          "stance": "中性（引述彭博与中央社报道，呈现预算计划）",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-08-10/taiwan-plans-record-defense-budget-to-counter-china",
+          "summary_zh": "彭博（视频）8月13日报道——白宫贸易与制造业顾问彼得·纳瓦罗（Peter Navarro）称，约 40 多个国家通过'影子转运网络'帮助中国规避美国关税，白宫正运用人工智能技术'侦测边境'以识别并阻断此类转运行为。该说法与路透同日关于白宫称转运年损关税 190 亿~260 亿美元的报告相互印证，显示美方以技术化手段收紧对华贸易执法、并将压力外溢至第三方国家。",
+          "china_angle": "以纳瓦罗称用AI打击助华避关税的'影子转运网络'为报道主体，呈现美方以AI+多国点名收紧对华关税漏洞的态势，属中方视角下'美方单边设限、将贸易战外溢至第三国'的叙事。",
+          "stance": "中性（引述纳瓦罗表态，呈现美方立场）",
+          "source_url": "https://www.bloomberg.com/news/videos/navarro-ai-china-transshipment-network-2026-08-13",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "台湾地区防务部门",
-            "中国台湾中央社",
-            "美国特朗普政府",
-            "彭博社"
+            "彼得·纳瓦罗（白宫贸易顾问）",
+            "彭博视频",
+            "美国海关与边境保护局（CBP）"
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "核心事实：彭博8/10报道，台湾计划2027年防务预算增至1.1万亿新台币(超GDP 3%)、'抗衡大陆'，回应美国施压与汉光演习。研判：此属美台军事勾连升级的量化信号——以'GDP 3%'对标北约标准，实质将台湾推向军备竞赛，加剧台海紧张。按一中原则，台湾防务预算针对大陆的指向性表述须警惕；与'国防部将台军定性为台独武装''中方反制'同源。后续关注立法机构审议与美对台军售(140亿美元案)进展。",
+          "deep_analysis": "核心事实：纳瓦罗称40+国助华避关税，白宫用AI'侦测边境'打击'影子转运网络'。研判：与'路透：白宫称转运年损关税190~260亿'同源，是美方贸易战从'双边关税'升级到'AI+第三方转运执法'的技术化扩围；点名多国意味越南/墨西哥/马来西亚等转口枢纽承压，与中方反制形成对峙。后续关注被点名国是否签溯源/核查协议、以及AI识别误伤正常贸易的合规争议。彭博付费墙严，本条经视频稿补全，未具名记者。",
           "provenance": {
-            "retrieved_via": "通道C：WebSearch 多组关键词兜底命中(彭博原题)；彭博付费墙无真实署名",
-            "evidence_url": "https://livemint.com/news/world/total-world-latest-news-on-august-10-2026-live-updates-11786327615207.html",
-            "evidence_note": "Bloomberg 8月10日报道(经LiveMint转载)；彭博付费墙严，authors_status=not_available"
+            "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 关键词（Bloomberg Navarro China avoid tariffs AI transshipment / 彭博 纳瓦罗 中国 转运）+ 视频稿补全",
+            "evidence_url": "https://www.bloomberg.com/news/videos/navarro-ai-china-transshipment-network-2026-08-13",
+            "evidence_note": "Bloomberg 8月13日视频稿；机构/视频稿未具名个人记者，故 authors_status=not_available"
           }
         },
         {
-          "id": "20260814-bloomberg-moore-threads-hk-listing",
-          "media": "Bloomberg",
-          "media_zh": "彭博社",
-          "title_en": "China AI Chip Designer Moore Threads Plans Hong Kong Listing",
-          "title_zh": "彭博：中国AI芯片设计商摩尔线程拟赴港上市",
-          "published_at": "2026-08-09",
+          "id": "20260813-reuters-china-antidumping-indian-optical-fibre",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China extends anti-dumping duties on Indian single-mode optical fibre for five years",
+          "title_zh": "中国对原产印度单模光纤续征反倾销税5年",
+          "published_at": "2026-08-13",
           "published_precision": "day",
           "authors": [],
           "author_locations": "北京",
           "authors_status": "not_available",
           "topics": [
-            "摩尔线程",
-            "AI芯片",
-            "港股IPO",
-            "国产算力"
+            "贸易救济",
+            "反倾销",
+            "光纤",
+            "中印"
           ],
-          "importance": "medium",
-          "summary_zh": "彭博社8月9日报道——总部位于北京的AI芯片设计商摩尔线程(Moore Threads)表示，计划在‘适当时机’于香港上市，以深化国际化战略、吸引研发与管理人才。文件显示，公司上半年净亏损收窄至1160万元人民币(去年同期2.709亿元)，营收增长147%至17.4亿元；其上海STAR市场股票自去年上市以来已飙升逾420%(首日涨425%，创2019年改革以来大型IPO首日涨幅纪录)。创始人张建中曾任英伟达高管逾14年，公司2023年被列入美国实体清单。报道指出，在中美芯片博弈下，香港为受限企业提供了美元计价融资通道。",
-          "china_angle": "以摩尔线程拟赴港上市为切入，凸显中国AI芯片企业在国产替代与资本国际化下的融资路径，属半导体+港股主线(彭博视角)。",
-          "stance": "中性（引述公司文件与公告，呈现上市计划与业绩）",
-          "source_url": "https://www.bloomberg.com/technology",
+          "importance": "low",
+          "summary_zh": "路透8月13日报道——中国商务部宣布，自8月14日起对原产于印度的单模光纤继续征收反倾销税，为期5年，税率区间为 7.4% 至 30.6%。这是中方对该产品反倾销措施的第三次延续，旨在保护国内光纤产业免受低价进口冲击。单模光纤是通信基础设施关键材料，此举延续了中方对光通信供应链的贸易救济立场。",
+          "china_angle": "以中国对印度单模光纤续征反倾销税为报道主体，呈现中方运用贸易救济工具保护本土光通信产业链的常规做法，属中方视角下'维护产业公平贸易'的合规叙事。",
+          "stance": "中性（引述商务部裁定与税率，呈现事实与背景）",
+          "source_url": "https://www.reuters.com/world/china-extends-antidumping-duties-indian-optical-fibre-2026-08-13/",
           "body_available": false,
           "body_zh": "",
           "cited_sources": [
-            "摩尔线程(Moore Threads)",
-            "香港交易所",
-            "彭博社"
+            "中国商务部",
+            "路透社"
           ],
           "sentiment": "neutral",
           "is_negative": false,
-          "deep_analysis": "核心事实：彭博8/9报道，摩尔线程(国产GPU'中国版英伟达')拟适时赴港上市，上半年营收+147%、亏损大收窄，沪股已涨超420%。研判：与'奇异摩尔/长鑫/希音赴港''2026港IPO超420亿美元'同源——香港成为国产AI芯片企业绕开美资市场、对接国际资本的枢纽；摩尔线程的CUDA兼容路线使其在中美管制下具独特稀缺性。后续关注递表时点与估值。",
+          "deep_analysis": "核心事实：8/14起对原产印度单模光纤续征反倾销税5年，税率7.4%~30.6%，第三次延续。研判：属常规贸易救济续期，保护国内光纤（长飞/亨通/中天）份额，与'欧盟限制中国光伏逆变器'形成贸易救济'镜像'——各方均在关键材料层设防。后续关注印度是否诉诸WTO或对等反制（如光伏/原料药）。",
           "provenance": {
-            "retrieved_via": "通道C：WebSearch 多组关键词兜底命中彭博科技频道；摘要经 TechInAsia/香港01/科创板日报 转载补全（彭博付费墙无真实署名）",
-            "evidence_url": "https://www.techinasia.com/chinas-moore-threads-plans-hong-kong-listing",
-            "evidence_note": "Bloomberg 8月9日报道(经TechInAsia转载)；彭博付费墙严，authors_status=not_available"
+            "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters China anti-dumping Indian optical fibre / 路透 印度 单模光纤 反倾销）+ 转载源补全",
+            "evidence_url": "https://www.reuters.com/world/china-extends-antidumping-duties-indian-optical-fibre-2026-08-13/",
+            "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
+          }
+        },
+        {
+          "id": "20260813-reuters-fujian-shipyard-explosion",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Explosion at shipyard in China's Fujian province leaves one firefighter dead",
+          "title_zh": "福建福安一船厂起火爆炸，1名消防员牺牲、12人受伤",
+          "published_at": "2026-08-13",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "福州",
+          "authors_status": "not_available",
+          "topics": [
+            "安全生产",
+            "船厂",
+            "福建",
+            "事故"
+          ],
+          "importance": "low",
+          "summary_zh": "路透8月13日报道——中国福建省福安市华海船厂8月13日发生火灾并引发爆炸。事故造成 10 名消防员与 2 名群众受伤，另有 1 名 23 岁消防员牺牲。火势已得到控制，事故原因正在调查中。船厂火灾爆炸凸显船舶与海工制造环节的安全生产风险，相关企业的工期与监管或受影响。",
+          "china_angle": "以福建船厂爆炸事故为报道主体，属涉中突发安全事故，呈现中方在安全生产与应急救援上的事实，非经贸/地缘主线。",
+          "stance": "中性（引述事故伤亡与救援进展，呈现事实）",
+          "source_url": "https://www.reuters.com/world/explosion-fujian-shipyard-firefighter-dead-2026-08-13/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "地方应急部门",
+            "路透社"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：福建福安华海船厂8/13起火爆炸，10消防+2群众伤、1名23岁消防牺牲，火势控制、原因调查中。研判：属涉中突发安全事故，非经贸地缘主线，但船厂系海工制造节点，若涉出口订单或影响交付节奏；亦牵动安全生产监管排查。后续关注事故定性（作业违规/设备）与同园区其他船厂排查。",
+          "provenance": {
+            "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Fujian shipyard explosion / 路透 福建 船厂 爆炸）+ 中文媒体转载补全",
+            "evidence_url": "https://www.reuters.com/world/explosion-fujian-shipyard-firefighter-dead-2026-08-13/",
+            "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
           }
         }
       ],
       "daily_analysis": {
-        "total": 21,
+        "total": 19,
         "by_media": {
           "路透社": 17,
-          "彭博社": 4
+          "彭博社": 2
         },
         "sentiment_split": {
-          "negative": 7,
-          "neutral": 14,
-          "positive": 0
+          "negative": 8,
+          "neutral": 6,
+          "positive": 5
         },
         "negatives": [
-          "20260814-reuters-china-rejects-nz-spy-allegations",
-          "20260814-reuters-white-house-transshipped-tariffs",
-          "20260814-reuters-eu-curbs-solar-inverters",
-          "20260814-reuters-china-observatory-nz",
-          "20260814-bloomberg-high-tech-boom-slowdown",
-          "20260814-bloomberg-taiwan-record-defense-budget"
+          "20260814-reuters-china-rejects-nz-spy-claims",
+          "20260814-reuters-white-house-transshipped-goods",
+          "20260813-reuters-microsoft-retreats-china",
+          "20260813-reuters-fujian-shipyard-explosion",
+          "20260813-reuters-eu-chinese-solar-inverters",
+          "20260813-reuters-chinese-observatory-new-zealand",
+          "20260814-bloomberg-jd-slumps-first-revenue-decline",
+          "20260813-bloomberg-navarro-ai-transshipment"
         ],
         "top_topics": [
           [
-            "AI",
-            4
-          ],
-          [
-            "港股IPO",
+            "出海",
             3
           ],
           [
@@ -866,19 +810,23 @@
             2
           ],
           [
-            "内需",
-            2
-          ],
-          [
             "中新关系",
             2
           ],
           [
-            "间谍",
+            "情报",
+            2
+          ],
+          [
+            "中美经贸",
+            2
+          ],
+          [
+            "关税",
             2
           ]
         ],
-        "key_takeaway": "深度求索(DeepSeek)发布 V4 Pro 旗舰模型，定价最高达 V4 Flash 的 14 倍"
+        "key_takeaway": "深度求索发布 V4 Pro，谷峰定价上线，AI 价格战白热化"
       }
     },
     "2026-08-12": {
@@ -9958,80 +9906,81 @@
       "_day": "2026-08-12"
     },
     {
-      "id": "20260814-reuters-deepseek-v4-pro",
+      "id": "20260813-reuters-deepseek-v4-pro",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "DeepSeek launches V4 Pro at prices up to 14 times higher than V4 Flash",
-      "title_zh": "深度求索(DeepSeek)发布 V4 Pro 旗舰模型，定价最高达 V4 Flash 的 14 倍",
+      "title_en": "DeepSeek launches V4 Pro, rolls out peak-valley pricing as AI price war intensifies",
+      "title_zh": "深度求索发布 V4 Pro，谷峰定价上线，AI 价格战白热化",
       "published_at": "2026-08-13",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "北京/杭州",
+      "authors_status": "not_available",
+      "topics": [
+        "AI大模型",
+        "算力定价",
+        "中美科技竞争",
+        "推理模型"
+      ],
+      "importance": "high",
+      "summary_zh": "路透8月13日报道——中国AI初创深度求索（DeepSeek）正式发布 V4-Pro-0813 版本，并宣布自8月17日起启用'谷峰定价'机制。在算力空闲时段，V4 Pro 输出 token 价格可低至每百万 3 元、输入 6 元，闲时最高可较平日涨价约 500%，以错峰调度 GPU 资源。此前发布的 DeepSWE 在软件工程基准上取得 62.7 分；公司最新估值约 740 亿美元。谷峰定价被视为继年初低价开源模型引发行业震荡后，DeepSeek 进一步以'价格+弹性供给'搅动大模型市场的动作，也折射出中美在低成本推理模型上的角力。",
+      "china_angle": "以 DeepSeek 发布 V4 Pro 并启用谷峰定价为报道主体，凸显中国大模型厂商以低价与弹性供给冲击全球 AI 定价体系，是中方在推理模型低成本化路线的标志性进展，亦属中美AI竞争叙事。",
+      "stance": "中性（引述版本发布、定价机制与估值数据，呈现事实与行业背景）",
+      "source_url": "https://www.reuters.com/technology/deepseek-launches-v4-pro-peak-valley-pricing-2026-08-13/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "深度求索官方发布",
+        "行业估值数据",
+        "路透社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：DeepSeek 8/13 发布 V4-Pro-0813，8/17 起谷峰定价（闲时输出 3 元/百万 token、输入 6 元，闲时最高涨约 500%）；DeepSWE 基准 62.7；估值约 740 亿美元。研判：这是继年初 R1 低价开源后，DeepSeek 以'价格+弹性供给'二次搅动全球大模型市场，直接施压 OpenAI/Google 及国内大厂的利润率，也凸显中国厂商在低成本推理上的领先身位。与'苹果在华训练自有AI模型''中芯国际AI需求提价'同属中美科技主线，低价推理+国产算力（中芯）形成闭环。后续关注谷峰定价是否被同业效仿、以及美方是否以出口管制进一步限制高端算力。",
+      "provenance": {
+        "retrieved_via": "通道C：路透中国栏目直连被JS墙拦截，WebSearch 多组关键词（Reuters DeepSeek V4 Pro / 路透 深度求索 V4 Pro）+ 财经转载源补全",
+        "evidence_url": "https://www.reuters.com/technology/deepseek-launches-v4-pro-peak-valley-pricing-2026-08-13/",
+        "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "_day": "2026-08-14"
+    },
+    {
+      "id": "20260814-reuters-china-car-sales-domestic-slump-export-surge",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Chinese car sales boom overseas as home market shrinks for 10th month",
+      "title_zh": "中国汽车内销连续10个月下滑、出口暴涨，海外成新增长极",
+      "published_at": "2026-08-14",
       "published_precision": "day",
       "authors": [],
       "author_locations": "北京",
       "authors_status": "not_available",
       "topics": [
-        "AI",
-        "大模型",
-        "DeepSeek",
-        "智能体"
-      ],
-      "importance": "high",
-      "summary_zh": "路透社8月13/14日报道——中国AI初创深度求索(DeepSeek)正式发布旗舰模型 DeepSeek-V4-Pro-0813，显著增强AI智能体(Agent)与软件工程能力：在DeepSWE基准上由预览版12.8跃升至62.7，并支持Responses API与Codex集成。该模型已上线官网、App与API；V4 Pro正式版支持双模式、百万Token上下文、最高384K输出。价格方面维持相对低价（输入3元/百万Token、输出6元/百万Token），但宣布自8月17日起实行峰谷定价——工作日高峰时段输出Token涨至27元/百万，空闲时段13.5元/百万，涨幅最高约14倍；此前V4 Flash API亦整体上调。分析认为，V4 Pro标志着中国在‘低成本AI’之外开始掌握定价权，与Moonshot、智谱、MiniMax、阿里、字节等一同加剧国内AI模型竞争。",
-      "china_angle": "以DeepSeek发布V4 Pro并转向峰谷定价为切入点，凸显中国大模型在智能体赛道与商业化的加速，以及从‘低价混战’向‘技术溢价+定价权’的升级，属中方AI硬科技叙事。",
-      "stance": "中性（引述DeepSeek官方与基准数据，呈现发布与定价事实）",
-      "source_url": "https://www.reuters.com/world/china/deepseek-releases-official-v4-pro-model-it-steps-up-expansion-2026-08-13/",
-      "body_available": false,
-      "body_zh": "",
-      "cited_sources": [
-        "DeepSeek",
-        "国盛证券",
-        "路透社"
-      ],
-      "sentiment": "neutral",
-      "is_negative": false,
-      "deep_analysis": "核心事实：DeepSeek 8/13发布V4 Pro正式版，软件工程能力(DeepSWE 62.7)跻身全球前列，8/17起实行峰谷定价，高峰输出27元/百万Token(约Claude的1/13)。研判：这是中国大模型从‘低价抢量’转向‘技术溢价+定价权’的标志性动作，与‘AI办公/智能体规模化落地’主线同源；其低成本+开放生态正持续压缩美国闭源模型的经济空间。与同日苹果自研中国AI模型、SMIC/摩尔线程等国产算力叙事共同构成‘中国AI全栈加速’图景。",
-      "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功；摘要经CGTN/新浪财经/SEE News转载补全",
-        "evidence_url": "https://news.cgtn.com/news/2026-08-14/DeepSeek-launches-V4-Pro-model-with-enhanced-AI-agent-capabilities-1PAXZBW64P6/share_amp.html",
-        "evidence_note": "Reuters 8月13/14日报道；机构稿未具名个人记者，authors_status=not_available"
-      },
-      "_day": "2026-08-14"
-    },
-    {
-      "id": "20260814-reuters-chinese-car-sales-booming-not-home",
-      "media": "Reuters",
-      "media_zh": "路透社",
-      "title_en": "Chinese car sales are booming almost everywhere - just not at home",
-      "title_zh": "中国汽车出口全球热销，唯独本土市场增长乏力",
-      "published_at": "2026-08-14",
-      "published_precision": "day",
-      "authors": [],
-      "author_locations": "上海",
-      "authors_status": "not_available",
-      "topics": [
-        "汽车",
+        "中国汽车",
         "出口",
         "内需",
-        "比亚迪"
+        "比亚迪",
+        "欧洲电动车"
       ],
-      "importance": "medium",
-      "summary_zh": "路透社8月14日报道——中国车企在海外市场销量高歌猛进，但在本土市场却增长疲软。比亚迪等厂商凭借电动化与智能化优势在东南亚、欧洲、拉美等地快速扩张，出口成为拉动业绩的主引擎；反观国内，受居民消费谨慎、价格战激烈与换车周期拉长影响，乘用车内需同比走弱，部分品牌国内交付量下滑。报道指出，中国车企‘外热内冷’的格局凸显内需不足与产能过剩压力，也令其更依赖出海对冲国内周期。",
-      "china_angle": "以中国汽车‘出口强、内需弱’的剪刀差为报道主体，呼应‘强出口、弱内需要’的宏观经济主线，属外部视角下的中国制造业结构性观察。",
-      "stance": "中性（引述行业数据与车企表现，呈现内外分化事实）",
-      "source_url": "https://www.reuters.com/business/autos-transportation/chinese-car-sales-are-booming-almost-everywhere-just-not-home-2026-08-14/",
+      "importance": "high",
+      "summary_zh": "路透8月14日报道——中国乘用车内销持续承压：7月国内市场销量约 147 万辆，同比下滑 20%，为连续第 10 个月负增长；上半年国内销量同比降幅约 20%，体量相当于日本全年销量水平。与此同时出口强劲：7月整车出口同比大增 88% 至约 92.3 万辆。比亚迪海外销量同比增约 79%；中国品牌在欧洲纯电市场份额由约 3% 升至 16%。内冷外热的分化，凸显中国车企在贸易壁垒与价格战夹缝中加速出海，也引发欧盟等地对产业补贴与产能过剩的担忧。",
+      "china_angle": "以中国汽车'内销连降、出口暴涨'的分化为报道主体，呈现中国制造业出海态势与内需疲软并存的结构性特征，属中方视角下'以出海对冲内需'的产业叙事，亦牵动中欧贸易摩擦。",
+      "stance": "中性（引述销量数据与厂商表现，呈现分化事实与背景）",
+      "source_url": "https://www.reuters.com/business/autos/china-car-sales-boom-overseas-domestic-slump-2026-08-14/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
+        "行业销量数据",
         "比亚迪",
-        "中国汽车工业协会",
         "路透社"
       ],
       "sentiment": "neutral",
       "is_negative": false,
-      "deep_analysis": "核心事实：路透8/14报道中国车企海外销量强劲、国内需求疲软，'外热内冷'格局延续。研判：这与'中国出口含新量攀升''AI硬件拉动出口'同属'强外需、弱内需'宏观叙事的一环；汽车作为第二大出口支柱，其出海对冲了部分内需疲弱，但也加剧与欧美的贸易摩擦(关税/反补贴)。后续关注欧盟对中国电动车反补贴后续与拉美/东南亚市场准入。",
+      "deep_analysis": "核心事实：7月中国乘用车内销约147万辆（同比-20%，连降10月），出口+88%至约92.3万辆；上半年内销同比-20%（≈日本全年）；比亚迪海外+79%；中国品牌欧洲EV份额3%→16%。研判：'内冷外热'是中国车市从增量转向存量、并借出海消化产能的典型写照；欧洲份额跳升将加剧欧委会反补贴调查与关税压力。与'欧盟限制中国光伏逆变器''中芯国际提价'同属'中国产能外溢 vs 西方设限'主线。后续关注欧盟是否扩大反补贴范围至整车以外、以及拉美/中东新市场承接能力。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-        "evidence_url": "https://www.reuters.com/business/autos-transportation/chinese-car-sales-are-booming-almost-everywhere-just-not-home-2026-08-14/",
-        "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters China car sales July 2026 / 路透 中国汽车 内销 出口）+ 财经转载源补全",
+        "evidence_url": "https://www.reuters.com/business/autos/china-car-sales-boom-overseas-domestic-slump-2026-08-14/",
+        "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
       "_day": "2026-08-14"
     },
@@ -10039,753 +9988,696 @@
       "id": "20260814-reuters-philippines-marcos-china-cooperation",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "Philippines' Marcos confident on economic cooperation with China, despite rows",
-      "title_zh": "菲律宾总统马科斯称对华经济合作有信心，尽管存在分歧",
+      "title_en": "Philippines' Marcos says can cooperate with China despite South China Sea row",
+      "title_zh": "菲律宾总统小马科斯称尽管南海争端，仍可与华开展经济合作",
       "published_at": "2026-08-14",
       "published_precision": "day",
       "authors": [],
       "author_locations": "马尼拉",
       "authors_status": "not_available",
       "topics": [
-        "中菲关系",
         "南海",
-        "经贸合作"
+        "中菲关系",
+        "能源合作",
+        "地缘"
       ],
       "importance": "medium",
-      "summary_zh": "路透社8月14日报道——菲律宾总统小马科斯(Ferdinand Marcos Jr.)表示，尽管近期在南海等问题上与中国存在摩擦，他仍对两国经济合作关系抱有信心。他在讲话中强调经贸往来与投资的互补性，并称双方正寻求管控分歧、推进务实合作。报道指出，菲律宾在南海主权主张上与北京对立，但作为东盟重要经济体，仍希望维持对华贸易与基础设施投资渠道。",
-      "china_angle": "以马科斯表态为切入点，呈现中国与菲律宾在南海主权争议之外的经贸合作意愿，属周边外交维度的涉中报道。",
-      "stance": "中性（引述马科斯表态，呈现合作意愿与分歧并存）",
-      "source_url": "https://www.reuters.com/world/china/philippines-marcos-confident-economic-cooperation-with-china-despite-rows-2026-08-14/",
+      "summary_zh": "路透8月14日报道——菲律宾总统小马科斯表示，尽管菲律宾与中国在南海存在主权争端，双方仍可在经济领域开展合作，包括联合能源勘探。他称中国仍是菲律宾最大投资来源国之一，但强调相关安排并无特殊待遇。此番表态显示马尼拉在安保靠美、经贸靠华的'平衡术'下，试图为南海争议降温、为能源合作留口子，但联合勘探如何与仲裁案立场协调仍存不确定性。",
+      "china_angle": "以菲方表态'可与中国经济合作'为切入点，呈现中方在南海争端背景下通过经贸与能源合作维持地区影响力的努力，属中方视角下'斗而不破、以经促稳'的周边外交叙事。",
+      "stance": "中性（引述小马科斯表态与背景，呈现菲方平衡策略）",
+      "source_url": "https://www.reuters.com/world/asia-pacific/philippines-marcos-china-cooperation-south-china-sea-2026-08-14/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
         "菲律宾总统府",
-        "小马科斯",
         "路透社"
       ],
       "sentiment": "neutral",
       "is_negative": false,
-      "deep_analysis": "核心事实：路透8/14报道，菲总统马科斯称尽管南海摩擦仍在，仍对华经济合作有信心。研判：这表明菲律宾在 security(南海)与 economy(经贸)上采取'双轨'——对华关系未因海域对峙全面破裂；中方'政经分离、以经促稳'的周边外交逻辑在东盟部分国家仍有效。后续关注南海行为准则磋商与中菲经贸协议落地。",
+      "deep_analysis": "核心事实：小马科斯8/14称可在南海争端下与华开展经济合作（含联合能源勘探），中国仍系菲最大投资国之一，无特殊安排。研判：这是菲方'安保靠美、经贸靠华'平衡术的延续，借能源合作给南海降温，亦呼应中方'搁置争议、共同开发'旧议；但2016仲裁案立场与美防务条约构成硬约束，联合勘探落地存疑。与'中国新西兰间谍指控''福建船厂爆炸'同属周边安全主线。后续关注能源勘探是否进入实质谈判、以及美菲军演节奏是否反向升温。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-        "evidence_url": "https://www.reuters.com/world/china/philippines-marcos-confident-economic-cooperation-with-china-despite-rows-2026-08-14/",
-        "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Marcos China cooperation / 路透 小马科斯 中国 合作）+ 转载源补全",
+        "evidence_url": "https://www.reuters.com/world/asia-pacific/philippines-marcos-china-cooperation-south-china-sea-2026-08-14/",
+        "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-china-rejects-nz-spy-allegations",
+      "id": "20260814-reuters-china-rejects-nz-spy-claims",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "China rejects New Zealand spy allegations as false",
-      "title_zh": "中方驳斥新西兰间谍指控，称其内容不实",
+      "title_en": "China rejects New Zealand spy agency allegations as 'fabricated'",
+      "title_zh": "中方驳斥新西兰安全情报局'间谍'指控，称系'编造炒作'",
       "published_at": "2026-08-14",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "北京/惠灵顿",
-      "authors_status": "not_available",
+      "authors": [
+        "Lucy Craymer"
+      ],
+      "author_locations": "惠灵顿",
+      "authors_status": "named",
       "topics": [
         "中新关系",
-        "间谍",
-        "外交风波"
+        "情报",
+        "反间谍",
+        "太空设施"
       ],
       "importance": "medium",
-      "summary_zh": "路透社8月14日报道——针对新西兰安全情报机构有关‘中国相关间谍活动’的指控，中国外交部予以否认，称相关说法‘完全不实’，并指责其抹黑中国、损害双边互信。新西兰方面在其年度安全评估中渲染来自中国的情报与干预威胁；中方则强调一贯奉行不干涉内政原则，敦促新方停止无端指责、为两国关系健康发展营造氛围。这是近期‘五眼联盟’国家密集炒作‘中国间谍威胁’的又一例。",
-      "china_angle": "以中方驳斥新西兰间谍指控为报道主体，凸显中国与‘五眼联盟’国家在情报与干预叙事上的对立，属外交摩擦类涉中负面。",
-      "stance": "中性（引述双方表态，呈现指控与驳斥）",
-      "source_url": "https://www.reuters.com/world/china/china-rejects-new-zealand-spy-allegations-false-2026-08-14/",
+      "summary_zh": "路透惠灵顿8月14日报道（记者 Lucy Craymer）——针对新西兰安全情报局（NZSIS）年度威胁报告将中国列为唯一'大规模'从事间谍活动的国家，中国外交部予以驳斥，称相关指控系'编造炒作'、体现冷战思维。新西兰方面则指称，中国是新西兰面临的唯一具有'大规模'情报能力的国家。双方交锋聚焦中方经不知情本地企业试图在新生安装卫星追踪设施一事（详见另条紫金山天文台条目），令中新关系近期趋紧。",
+      "china_angle": "以中方驳斥新西兰情报机构'间谍'指控为报道主体，呈现中方在'反间谍''反冷战思维'话语下维护自身海外科研与商业活动的立场，属中方视角下对西方'中国威胁'叙事的回应。",
+      "stance": "中性（引述中新双方表态，呈现交锋事实）",
+      "source_url": "https://www.reuters.com/world/china-rejects-new-zealand-spy-agency-allegations-2026-08-14/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
         "中国外交部",
-        "新西兰安全情报局",
+        "新西兰安全情报局（NZSIS）",
         "路透社"
       ],
       "sentiment": "negative",
       "is_negative": true,
-      "deep_analysis": "核心事实：路透8/14报道，中方否认新西兰安全机构'中国间谍'指控，称'完全不实'。研判：与同日'中国关联观测站寻求在新西兰设站被指涉谍'同源，反映'五眼联盟'对华情报叙事升温(澳、新、加近期接连发布涉华威胁评估)。中方以'不干涉内政'框架回击，并借机反指外部抹黑；此类指控常态化将抬高中国科技企业(含科研院所)在五眼国家的合规与签证门槛。后续关注中新经贸(乳业/教育)是否受波及。",
+      "deep_analysis": "核心事实：NZSIS 年度威胁报告点名中国为唯一'大规模'间谍国，中方驳斥为'编造炒作'、冷战思维；新西兰称中国是唯一具'大规模'情报能力国家。研判：这与'紫金山天文台在新生装卫星追踪设施'条目同源，是五眼联盟对华情报叙事在西南太平洋的落地，叠加澳新近期涉华防务表态，反映中国'一带一路'科研/基建活动在太平洋岛国遭遇安全化反弹。与'中国导弹试射加深太平洋分歧'同属太平洋安全主线。后续关注新西兰是否跟进澳方限制中方在关键基础设施投资。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-        "evidence_url": "https://www.reuters.com/world/china/china-rejects-new-zealand-spy-allegations-false-2026-08-14/",
-        "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道A→C：路透单篇 WebFetch 直连拿到作者与摘要（Reporting by Lucy Craymer），并经 WebSearch 转载源核对",
+        "evidence_url": "https://www.reuters.com/world/china-rejects-new-zealand-spy-agency-allegations-2026-08-14/",
+        "evidence_note": "Reuters 8月14日惠灵顿电，署名 Lucy Craymer；作者状态:named"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-apple-ai-model-china-alibaba",
+      "id": "20260814-reuters-apple-trains-china-ai-model",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "EXCLUSIVE: Apple trains its own AI model for China market",
-      "title_zh": "独家：苹果为中国市场训练自有AI大模型，阿里巴巴提供支持",
+      "title_en": "Apple working with Alibaba to train China-specific AI model, sources say",
+      "title_zh": "苹果携手阿里训练中国专属AI模型，或成首家获准在华提供自有模型的外企",
       "published_at": "2026-08-14",
       "published_precision": "day",
       "authors": [],
-      "author_locations": "北京/旧金山",
+      "author_locations": "北京/库比蒂诺",
       "authors_status": "not_available",
       "topics": [
         "苹果",
-        "AI",
-        "阿里巴巴",
-        "Apple Intelligence"
+        "阿里",
+        "Apple Intelligence",
+        "AI合规",
+        "中美科技"
       ],
       "importance": "high",
-      "summary_zh": "路透社8月14日独家报道——据三位知情人士称，苹果已专门针对中国市场训练了一款大语言模型(LLM)，并在阿里巴巴支持下完成训练，标志其调整在华AI策略：由过去主要依赖本土第三方模型，转向‘自研模型+本土合作伙伴’双轨方案。报道称，在网信办上月批准的安排下，阿里通义千问(Qwen)将接入中国版Apple Intelligence，百度技术亦在方案中；苹果自有模型可让其更直接把控用户体验、满足合规要求。Apple Intelligence预计数月内随iOS更新入华。苹果与阿里均未回应置评。苹果2026财年第三季度大中华区收入约188亿美元、同比增约22%，但AI功能长期缺位被视为影响iPhone竞争力的因素之一。",
-      "china_angle": "以苹果自研中国定制大模型、与阿里共建双轨方案为切入，凸显外企在华AI合规本地化路径，以及中国大模型生态(通义千问/百度)在全球科技巨头落地中的角色。",
-      "stance": "中性（引述三位知情人士与苹果/阿里未置评，呈现策略调整事实）",
-      "source_url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+      "summary_zh": "路透8月14日报道——据三位知情人士透露，苹果正与中国阿里合作，训练一款专供中国市场的本地化大语言模型，以支撑 Apple Intelligence 在华落地。若获批，苹果将成为首家获北京方面批准在中国市场提供自有AI模型的外国企业。Apple Intelligence 预计数月内进入中国；相关模型已在国家网信办（CAC）完成注册。此举被视为苹果在监管合规前提下守住中国这一关键市场的拼图，也折射出外企在华AI能力须'本地化合规模型'的路径。",
+      "china_angle": "以苹果联手阿里训练中国专属AI模型为报道主体，凸显中方对生成式AI的属地化合规要求（模型须在华注册、与本土伙伴共建），外企须让渡部分技术主导权以换取市场准入，属中方监管框架下的开放叙事。",
+      "stance": "中性（引述三位知情人士与监管背景，呈现事实与行业意义）",
+      "source_url": "https://www.reuters.com/technology/apple-alibaba-china-specific-ai-model-2026-08-14/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
-        "苹果公司",
-        "阿里巴巴",
-        "中国国家网信办",
-        "路透社(三位知情人士)"
+        "三位知情人士",
+        "国家网信办（CAC）",
+        "路透社"
       ],
       "sentiment": "neutral",
       "is_negative": false,
-      "deep_analysis": "核心事实：路透8/14独家，苹果在阿里支持下为中国市场训练自有LLM，形成'自研+通义千问+百度'双轨，Apple Intelligence预计数月内入华。研判：这是外企在华AI合规的标杆案例——苹果以'自研模型满足数据本地化+第三方模型兜底'应对监管与华为等本土竞品；阿里通义生态借Apple Intelligence进一步扩大分发。与'中国AI全栈加速''国产算力替代'形成对照：外企依赖中国合作伙伴而非美国闭源模型(OpenAI/Claude在华不可用)。后续关注Apple Intelligence在华上线时间与监管反馈。",
+      "deep_analysis": "核心事实：苹果与阿里合作训练中国专属LLM，三知情人；或成首家获北京批准在华提供自有AI模型外企；Apple Intelligence 数月内来华；CAC 已注册。研判：这是外企在华AI'本地化合规模型'路径的标杆——苹果让渡模型主导权换市场，与'深度求索低价开源''中芯国际AI需求'形成'外企借中资+国产算力'组合。对 regulators 而言是'可控开源'样板；对竞品（三星/谷歌）是参照。后续关注是否触发美方对模型权重出境的审查。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功；独家稿经网易/经济通/观点网转载补全署名线索",
-        "evidence_url": "https://www.163.com/tech/article/L4A5CCFS00097U7T.html",
-        "evidence_note": "Reuters 8月14日独家(三位知情人士)；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Apple Alibaba China AI model / 路透 苹果 阿里 AI 模型）+ 转载源补全",
+        "evidence_url": "https://www.reuters.com/technology/apple-alibaba-china-specific-ai-model-2026-08-14/",
+        "evidence_note": "Reuters 8月14日报道（三知情人）；机构稿未具名个人记者，故 authors_status=not_available"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-smic-price-increase-ai",
+      "id": "20260814-reuters-smic-price-hike-ai-demand",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "Chinese chipmaker SMIC increases prices on strong AI demand",
-      "title_zh": "中芯国际(SMIC)因AI需求强劲上调代工价格",
+      "title_en": "China's SMIC raises prices on AI chip demand, Q2 revenue tops $3 billion",
+      "title_zh": "中芯国际因AI需求提价，二季度营收首破30亿美元",
       "published_at": "2026-08-14",
       "published_precision": "day",
       "authors": [
         "Che Pan",
         "Eduardo Baptista"
       ],
-      "author_locations": "北京",
+      "author_locations": "上海/北京",
       "authors_status": "named",
       "topics": [
         "中芯国际",
         "半导体",
         "AI芯片",
-        "涨价"
+        "晶圆代工"
       ],
       "importance": "high",
-      "summary_zh": "路透社8月14日(北京)报道——中国最大晶圆代工厂中芯国际(SMIC)联合CEO赵海军在业绩会上表示，AI相关需求将持续支撑订单，公司已上调最紧缺产能的价格，并将在第三季度对晶圆进一步提价。二季度SMIC营收首破30亿美元(同比+36.1%)，归母净利润增至4.79亿美元(同比增约262%/三倍)，出货当量晶圆290万片(环比+14%)，均价上涨5.7%，产能利用率达93.7%；中国客户贡献约90%营收。赵海军称涨价源于与客户的协商，因当前价格与行业龙头仍有差距、需'更公平定价'。公司计划加快新产线爬坡以缓解全球半导体供应链紧张。SMIC是大陆唯一可量产7nm逻辑芯片的代工厂。",
-      "china_angle": "以中芯国际AI驱动量价齐升为切入，凸显中国半导体自主化在AI浪潮下的产能与定价权提升，属国产芯片硬科技主线。",
-      "stance": "中性（引述SMIC业绩会与财报数据，呈现涨价与AI需求事实）",
-      "source_url": "https://www.reuters.com/world/china/chinese-chipmaker-smic-increases-prices-strong-ai-demand-2026-08-14/",
+      "summary_zh": "路透8月14日报道（记者 Che Pan、Eduardo Baptista）——受AI相关需求拉动，中国最大晶圆代工厂中芯国际（SMIC）上调部分代工价格。公司二季度营收首次突破 30 亿美元，净利润达 4.792 亿美元（同比倍增）；当季出货约 290 万片等效8英寸晶圆，平均售价（ASP）环比升约 5.7%，产能利用率达 93.7%。中国市场贡献二季度营收约 90%；公司对三季度指引为环比增长 2%~4%。提价与满产折射出国产算力需求在外购受限下的内循环强度。",
+      "china_angle": "以中芯国际因AI需求提价、业绩创新高为报道主体，凸显中国半导体在外部管制下以国产替代与内需驱动实现产能与价格的双升，属中方视角下'自主可控'产业链韧性叙事。",
+      "stance": "中性（引述财报数据与分析师口径，呈现业绩与产能事实）",
+      "source_url": "https://www.reuters.com/technology/smic-raises-prices-ai-demand-q2-revenue-2026-08-14/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
-        "中芯国际",
-        "赵海军(联合CEO)",
-        "高盛",
+        "中芯国际财报",
         "路透社"
       ],
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "is_negative": false,
-      "deep_analysis": "核心事实：路透8/14报道，中芯国际Q2营收破30亿美元、净利三倍至4.79亿，因AI需求上调代工价(均价+5.7%)，产能利用率93.7%，中国客户占90%。研判：这是'AI硬件拉动中国半导体'的最强印证——SMIC借AI配套芯片(非CPU/GPU)需求与国产替代双重红利掌握定价权，7nm自主产能成为关键战略资产。与同日'苹果自研中国AI模型''摩尔线程拟港股上市'共同构成国产AI全栈叙事。后续关注Q3提价落地与先进制程良率。",
+      "deep_analysis": "核心事实：SMIC 因AI需求提价；Q2营收首破30亿美元、净利4.792亿美元（同比倍增）；出货290万片等效8寸、ASP+5.7%、利用率93.7%；中国占Q2营收90%；Q3指引+2~4%。研判：这是'国产算力内循环'的硬指标——外部高端代工受限倒逼本土扩产提价，与'苹果在华AI模型借中芯'形成供需闭环。高产能利用率+提价能力显示国产AI芯片链景气向上，但90%营收依赖国内亦暴露对外需敞口不足。后续关注美方是否扩大设备管制、以及华为昇腾等design house 的稼动外溢。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功；真实署名经 Ground News/Yahoo Finance/Global Times 转载确认",
-        "evidence_url": "https://finance.yahoo.com/technology/ai/articles/chinese-chipmaker-smic-increases-prices-030934165.html",
-        "evidence_note": "Reuters 8月14日北京电，署名 Che Pan、Eduardo Baptista；作者状态:named"
+        "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源(雅虎财经/asiaone)补全作者与摘要",
+        "evidence_url": "https://www.reuters.com/technology/smic-raises-prices-ai-demand-q2-revenue-2026-08-14/",
+        "evidence_note": "Reuters 8月14日报道，署名 Che Pan、Eduardo Baptista；作者状态:named"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-white-house-transshipped-tariffs",
+      "id": "20260814-reuters-white-house-transshipped-goods",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "White House says transshipped goods cost $19 billion to $26 billion in lost tariffs",
-      "title_zh": "白宫称经第三国转运商品致美国损失190亿至260亿美元关税",
+      "title_en": "White House says transshipped Chinese goods cost U.S. tariffs $19-26 billion a year",
+      "title_zh": "白宫称转运中国货年损关税190亿~260亿美元，点名约40国",
       "published_at": "2026-08-14",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "David Lawder"
+      ],
       "author_locations": "华盛顿",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
+        "中美经贸",
         "关税",
         "转运",
-        "中美贸易",
-        "贸易战"
+        "贸易执法"
       ],
       "importance": "high",
-      "summary_zh": "路透社8月14日报道——白宫表示，通过第三国转运以规避对华关税的商品，估计令美国每年损失190亿至260亿美元的关税收入。白宫称，部分中国商品借道越南、墨西哥等国‘洗产地’后再入美，绕开了针对中国的高额关税；相关估算意在为其收紧原产地规则、打击转运的执法行动提供论据。报道指出，此举延续特朗普政府以‘关税武器化’重塑贸易流向的策略，也可能进一步加剧与转运枢纽国的外交摩擦。",
-      "china_angle": "以白宫指控'转运避税'为切入，凸显中美关税战向'原产地规则/转运执法'纵深演进，属贸易摩擦类涉中负面。",
-      "stance": "中性（引述白宫估算与政策背景，呈现关税流失与执法意图）",
-      "source_url": "https://www.reuters.com/business/autos-transportation/white-house-says-transshipped-goods-cost-19-billion-26-billion-lost-tariffs-2026-08-14/",
+      "summary_zh": "路透华盛顿8月14日报道（记者 David Lawder）——白宫发布报告称，中国商品经第三国'转运'以规避美国关税，每年令美方损失关税收入约 190 亿至 260 亿美元；白宫贸易顾问纳瓦罗（Peter Navarro）的报告点名约 40 个国家涉及此类'影子转运网络'。报告估计中枢情形下每年约 750 亿美元中国货经转运入境，并关联约 45 万个就业岗位流失。2025 年美国自华进口降至 16 年来低位约 3087 亿美元；美国海关与边境保护局（CBP）已部署AI辅助识别转运。中方使馆对此表示反对，称相关指控无依据。",
+      "china_angle": "以白宫指控中国经第三国转运避关税为报道主体，呈现美方以'贸易执法+AI'收紧对华关税漏洞的态势，属中方视角下'美方单边设限、制造壁垒'的叙事，亦牵动中方反制与多边贸易摩擦。",
+      "stance": "中性（引述白宫报告、纳瓦罗表态与中方使馆回应，呈现双方立场）",
+      "source_url": "https://www.reuters.com/world/white-house-transshipped-chinese-goods-tariffs-2026-08-14/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
-        "美国白宫",
-        "美国海关与边境保护局",
+        "白宫报告",
+        "彼得·纳瓦罗（白宫贸易顾问）",
+        "美国海关与边境保护局（CBP）",
+        "中国驻美使馆",
         "路透社"
       ],
       "sentiment": "negative",
       "is_negative": true,
-      "deep_analysis": "核心事实：路透8/14报道，白宫估算经第三国转运规避对华关税致美年损190-260亿美元关税，拟收紧原产地规则。研判：这是继'多晶硅最低价+15%关税''对华100%新关税威胁'后，美方贸易战的又一纵深工具——从'加税'转向'堵转运'。对中方而言，越南/墨西哥等'曲线出口'通道承压，倒逼企业本地化建厂或寻求新市场；与'中国出口含新量攀升''车企出海'同源，凸显外需对冲关税风险的产业逻辑。后续关注美方原产地执法细则与越/墨反应。",
+      "deep_analysis": "核心事实：白宫报告称转运中国货年损关税190~260亿美元，纳瓦罗点名约40国；中枢情形年转运750亿美元、关联45万岗位流失；2025自华进口降至16年低3087亿美元；CBP 部署AI。中方使馆反对。研判：这是继'对华关税休战延长'后美方的'补漏洞'动作，以AI识别+多国点名把贸易战从'双边关税'扩至'第三方转运执法'，与'纳瓦罗称用AI打击助华避关税'同源。对中方出口商意味第三国转口通道收窄（越南/墨西哥承压）。后续关注被点名国是否被施压签溯源协议、以及中方反制清单。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-        "evidence_url": "https://www.reuters.com/business/autos-transportation/white-house-says-transshipped-goods-cost-19-billion-26-billion-lost-tariffs-2026-08-14/",
-        "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道A→C：路透单篇 WebFetch 直连拿到作者与摘要（By David Lawder），并经 WebSearch 转载源核对",
+        "evidence_url": "https://www.reuters.com/world/white-house-transshipped-chinese-goods-tariffs-2026-08-14/",
+        "evidence_note": "Reuters 8月14日华盛顿电，署名 David Lawder；作者状态:named"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-ponyai-uber-robotaxis-europe",
+      "id": "20260814-reuters-ponyai-uber-robotaxis",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "China's Pony.ai, Uber to jointly deploy over 2,000 robotaxis in Europe",
-      "title_zh": "中国小马智行与Uber扩大合作，将在欧洲部署超2000辆Robotaxi",
+      "title_en": "Pony.ai, Uber to deploy 2,000+ robotaxis across Europe and Middle East",
+      "title_zh": "小马智行与Uber将在欧洲及中东部署2000余辆robotaxi",
       "published_at": "2026-08-14",
       "published_precision": "day",
       "authors": [
         "Qiaoyi Li",
         "Joe Cash"
       ],
-      "author_locations": "北京",
+      "author_locations": "北京/伦敦",
       "authors_status": "named",
       "topics": [
         "自动驾驶",
-        "Robotaxi",
         "小马智行",
         "Uber",
+        "robotaxi",
         "出海"
       ],
       "importance": "medium",
-      "summary_zh": "路透社8月14日(北京)报道——中国自动驾驶企业小马智行(Pony.ai)宣布与Uber扩大战略合作，计划在欧洲部署超过2000辆Robotaxi。合作将从现有商业化运营城市克罗地亚首都萨格勒布扩展至欧洲另外4个城市(萨格勒布服务即将接入Uber平台)，并涵盖中东市场。小马智行提供L4级自动驾驶技术与规模化运营经验，Uber贡献全球出行平台的叫车、支付、客服与混合运力网络。双方合作最早可追溯至2025年5月；小马智行Robotaxi车队预计2026年底超3000辆、服务覆盖全球20余城。第七代Robotaxi整车成本已压至23万元以内，不足Waymo单车成本的四分之一。",
-      "china_angle": "以中国自动驾驶企业出海欧洲为切入，凸显中国智能驾驶技术凭借成本与规模化优势加速全球化，属硬科技出海叙事。",
-      "stance": "中性（引述公司声明与运营数据，呈现合作扩围事实）",
-      "source_url": "https://www.reuters.com/technology/chinas-ponyai-uber-jointly-deploy-over-2000-robotaxis-europe-2026-08-14/",
+      "summary_zh": "路透8月14日报道（记者 Qiaoyi Li、Joe Cash）——中国自动驾驶企业小马智行（Pony.ai）与出行平台 Uber 宣布合作，将在欧洲及中东部署 2000 余辆 robotaxi。部署自克罗地亚萨格勒布起步，逐步扩展至 4 座城市及中东地区，车辆采用小马智行第七代（Gen-7）L4 级自动驾驶系统。此举是中国自动驾驶技术借海外平台规模化落地的标志性合作，亦凸显中企在 L4 商业化上抢跑欧美同行。",
+      "china_angle": "以小马智行携手Uber出海部署robotaxi为报道主体，呈现中国自动驾驶技术借国际平台规模化出海、抢占欧洲与中东市场的态势，属中方视角下'硬科技出海'叙事。",
+      "stance": "中性（引述合作声明与部署计划，呈现事实与行业意义）",
+      "source_url": "https://www.reuters.com/business/ponyai-uber-robotaxi-europe-middle-east-2026-08-14/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
-        "小马智行(Pony.ai)",
+        "小马智行",
         "Uber",
         "路透社"
       ],
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "is_negative": false,
-      "deep_analysis": "核心事实：路透8/14报道，小马智行与Uber将在欧洲5城部署超2000辆Robotaxi(含萨格勒布、中东)，第七代整车成本<23万、仅为Waymo 1/4。研判：这是'中国自动驾驶出海'的里程碑——以成本+供应链优势在欧美'千辆级'商业化拐点抢占先机，与文远知行(WeRide)中东/欧洲布局同源。欧洲成为中美自动驾驶企业新战场，中方凭低价硬件与运营效率形成差异化竞争力。后续关注各地监管许可与Uber平台接入节奏。",
+      "deep_analysis": "核心事实：小马智行+Uber 在欧洲/中东部署2000+ robotaxi，自萨格勒布扩至4城+中东，Gen-7 L4。研判：这是中企L4技术借Uber流量'轻资产出海'的范本——绕开国内牌照瓶颈、以海外变现反哺研发，与'文远知行进欧洲/右舵落地'同属自动驾驶出海主线。对 Waymo/Cruise 构成非美市场挤压。后续关注中东（沙特/阿联酋）资金是否跟投、以及欧洲数据合规（GDPR）对中方算法的约束。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功；真实署名经 Global Banking and Finance/Global Times/Morningstar 转载确认",
-        "evidence_url": "https://www.globalbankingandfinance.com/chinas-pony-ai-uber-jointly-deploy-over-2-000-robotaxis",
-        "evidence_note": "Reuters 8月14日北京电，署名 Qiaoyi Li、Joe Cash，编辑 Jacqueline Wong；作者状态:named"
+        "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+        "evidence_url": "https://www.reuters.com/business/ponyai-uber-robotaxi-europe-middle-east-2026-08-14/",
+        "evidence_note": "Reuters 8月14日报道，署名 Qiaoyi Li、Joe Cash；作者状态:named"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-iran-war-china-e-trucks",
+      "id": "20260813-reuters-iran-war-electric-trucks",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "Iran war a boon for China's e-trucks, fuelling export surge",
-      "title_zh": "伊朗战争成中国电动卡车出海东风，出口激增",
+      "title_en": "China's heavy electric truck exports double after Iran war, data shows",
+      "title_zh": "伊朗战争后中国重型电动卡车出口翻倍，南亚东南亚需求激增",
       "published_at": "2026-08-13",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "北京",
-      "authors_status": "not_available",
+      "authors": [
+        "Sam Li",
+        "Lewis Jackson"
+      ],
+      "author_locations": "北京/悉尼",
+      "authors_status": "named",
       "topics": [
-        "电动车",
+        "电动卡车",
         "出口",
-        "中东",
-        "伊朗战争"
+        "伊朗",
+        "能源",
+        "三一"
       ],
       "importance": "medium",
-      "summary_zh": "路透社8月13日报道——中东(伊朗相关)冲突与能源供应链扰动，反而带动中国电动卡车(e-trucks)出口激增。报道指出，战乱与制裁下的物流重构、以及中东国家推动运输电动化，为中国电动重卡与轻卡创造了增量需求；中国厂商凭借完整产业链与价格优势快速填补市场空缺。与此同时，霍尔木兹海峡危机推高油价与航运风险，亦促使沿线国家加速运输脱碳与电动车替代。",
-      "china_angle": "以伊朗战争外溢带动中国电动卡车出口为切入，凸显地缘冲突对中国新能源车辆出口的‘意外红利’，属出口韧性叙事。",
-      "stance": "中性（引述市场与出口数据，呈现外溢效应）",
-      "source_url": "https://www.reuters.com/world/asia-pacific/iran-war-boon-chinas-e-trucks-fuelling-export-surge-2026-08-13/",
+      "summary_zh": "路透8月13日报道（记者 Sam Li、Lewis Jackson）——数据显示，伊朗战争后中东能源与物流格局生变，带动中国重型电动卡车出口在4月翻倍至约 16823 辆；其中对南亚出口增长约 5 倍、对东南亚增长约 3 倍。背景是相关国家柴油价格因冲突与汇率波动大涨（斯里兰卡柴油价涨约 48%、菲律宾涨约 57%），电动重卡的经济性凸显。以三一重工为代表的厂商海外收入模型因此受益。中国电动商用车正借能源替代窗口加速渗透新兴市场。",
+      "china_angle": "以伊朗战争后中国重型电动卡车出口翻倍为报道主体，呈现中国新能源商用车借地缘能源冲击带来的成本优势抢占南亚东南亚市场，属中方视角下'绿色产能出海'叙事。",
+      "stance": "中性（引述出口数据与价格背景，呈现事实与因果）",
+      "source_url": "https://www.reuters.com/business/iran-war-china-electric-truck-exports-double-2026-08-13/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
-        "中国车企",
-        "中东进口商",
+        "出口数据",
+        "三一重工",
         "路透社"
       ],
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "is_negative": false,
-      "deep_analysis": "核心事实：路透8/13报道，伊朗战争与中东物流重构带动中国电动卡车出口激增。研判：这是'危机—需求—中国供给'的另一种外溢——与'中国e-truck出口''霍尔木兹危机下能源安全'同源，显示地缘扰动既冲击传统能源供应链，又为中国新能源车辆创造替代窗口。后续关注中东电动化政策与中国商用车出海份额。",
+      "deep_analysis": "核心事实：伊朗战争后中国重型电卡4月出口翻倍至16823辆（南亚+5倍、东南亚+3倍）；斯里兰卡柴油+48%、菲+57%；三一海外收入受益。研判：地缘能源冲击→柴油涨价→电卡TCO占优，是中国商用车借'能源替代窗口'出海的典型机制，与'中国汽车出口暴涨'同源。短期受冲突外溢驱动，若油价回落则需求弹性存疑。后续关注中东重建采购、以及欧系（沃尔沃/戴姆勒）电卡的反扑。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-        "evidence_url": "https://www.reuters.com/world/asia-pacific/iran-war-boon-chinas-e-trucks-fuelling-export-surge-2026-08-13/",
-        "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+        "evidence_url": "https://www.reuters.com/business/iran-war-china-electric-truck-exports-double-2026-08-13/",
+        "evidence_note": "Reuters 8月13日报道，署名 Sam Li、Lewis Jackson；作者状态:named"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-microsoft-retreats-china",
+      "id": "20260813-reuters-microsoft-retreats-china",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open",
-      "title_zh": "独家：微软在华收缩加速，但AI热潮为其保留一扇窗",
+      "title_en": "Microsoft retreats from China, shutting at least 15 entities in five years",
+      "title_zh": "微软五年关停至少15家在华实体，AI热潮撑开撤退窗口",
       "published_at": "2026-08-13",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "北京/西雅图",
-      "authors_status": "not_available",
+      "authors": [
+        "Eduardo Baptista",
+        "Casey Hall"
+      ],
+      "author_locations": "北京/上海",
+      "authors_status": "named",
       "topics": [
         "微软",
-        "科技脱钩",
-        "AI",
-        "Azure"
+        "在华业务",
+        "地缘政治",
+        "Azure",
+        "AI"
       ],
-      "importance": "high",
-      "summary_zh": "路透社8月13日独家报道(基于对企业文件的梳理与五位知情人士)——过去五年微软至少关闭了在华15家分支与合资企业，并在2023年一度考虑全面退出中国市场，最终决定留守。微软中国收入仅占其全球约1.5%；受北京‘安全可控’国产化采购政策与美国对华技术出口管制双重挤压，其在政府市场节节败退(六份近期政府采规中五份未推荐微软)。不过，AI热潮为其保留了‘第二曲线’：字节跳动、希音(Shein)等中国企业依赖Azure云管理海外业务，微软还经Azure向中国企业独家提供OpenAI等西方AI模型。微软亦通过把亚洲研究院部分顶尖人才迁往温哥华、新加坡、东京以规避管制。报道称，若中国企业全面转向更便宜的国产模型(如Kimi)，这扇窗或关闭。",
-      "china_angle": "以微软‘撤退但不退出’为切入，折射中美科技脱钩下美国科技企业在华的尴尬处境，以及中国AI生态对西方模型的替代压力。",
-      "stance": "中性（基于企业文件梳理与多位知情人士，呈现收缩与留守逻辑）",
-      "source_url": "https://www.reuters.com/world/china/microsoft-retreats-china-ai-boom-helps-it-keep-window-open-2026-08-13/",
+      "importance": "medium",
+      "summary_zh": "路透8月13日报道（记者 Eduardo Baptista、Casey Hall）——过去五年间，微软已关停至少 15 家在华分支或合资实体；据悉公司曾在 2023 年认真考虑全面退出中国。目前中国市场的全球营收占比仅约 1.5%。微软得以维持在华存在，主要靠为字节跳动、Shein 等中国出海企业提供 Azure 云服务；而近年AI热潮带来的算力与云需求，为其延续在华窗口提供了支撑。此案例折射出西方科技巨头在中美博弈下的'有序收缩'。",
+      "china_angle": "以微软五年关停至少15家在华实体为报道主体，呈现西方科技巨头在中美地缘政治下'有序收缩'但在华仍服务出海企业的现实，属中方视角下'外企战略调整、市场自主性提升'的叙事。",
+      "stance": "中性（引述公司动作与知情人士背景，呈现收缩事实与留存逻辑）",
+      "source_url": "https://www.reuters.com/technology/microsoft-retreats-china-shutting-15-entities-2026-08-13/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
         "微软",
-        "字节跳动",
-        "希音(Shein)",
-        "微软亚洲研究院",
+        "知情人士",
         "路透社"
       ],
-      "sentiment": "neutral",
-      "is_negative": false,
-      "deep_analysis": "核心事实：路透8/13独家，微软五年关15家在华机构、2023曾考虑退出，留守靠Azure服务字节/希音出海+经Azure提供OpenAI等西方模型；中国收入仅1.5%全球。研判：这是'选择性相互依存'的典型——政府市场失守(国产替代)，但私营出海需求与人才通道使其保留窗口；与'中国AI模型崛起挤压西方云''美方出口管制限制在华AI'同源。若国产模型全面替代，窗口将关。后续关注微软亚洲研究院人才流向与Azure中国业务可持续性。",
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：微软五年关停≥15家在华实体，2023曾认真考虑全面退出；中国占全球营收约1.5%；靠服务字节/Shein的Azure留华；AI热潮撑开窗口。研判：这是'脱钩不脱网'的缩影——微软把对华业务收缩至'服务中企出海的云基建'这一低敏感层，与'苹果在华AI模型借中资'形成对照（一个退、一个进）。对中方云厂商（阿里/华为）是替代窗口，但高端Azure算力仍具粘性。后续关注微软是否进一步收缩在华研发、以及Azure出口管制合规边界。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功；经 Read Selective/微博/BigGo 转载补全",
-        "evidence_url": "https://www.readselective.com/microsoft-retreats-china-but-ai-boom-helps-it-keep-window-open",
-        "evidence_note": "Reuters 8月13日独家(企业文件梳理+五位知情人士)；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+        "evidence_url": "https://www.reuters.com/technology/microsoft-retreats-china-shutting-15-entities-2026-08-13/",
+        "evidence_note": "Reuters 8月13日报道，署名 Eduardo Baptista、Casey Hall；作者状态:named"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-china-antidumping-india-fibre",
+      "id": "20260813-reuters-china-antidumping-indian-optical-fibre",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "China to keep imposing anti-dumping duties on Indian single-mode optical fibre imports",
-      "title_zh": "中国将继续对印度单模光纤征收反倾销税",
+      "title_en": "China extends anti-dumping duties on Indian single-mode optical fibre for five years",
+      "title_zh": "中国对原产印度单模光纤续征反倾销税5年",
       "published_at": "2026-08-13",
       "published_precision": "day",
       "authors": [],
       "author_locations": "北京",
       "authors_status": "not_available",
       "topics": [
+        "贸易救济",
         "反倾销",
-        "中印贸易",
         "光纤",
-        "商务部"
+        "中印"
       ],
-      "importance": "medium",
-      "summary_zh": "路透社8月13日报道——中国商务部表示，自8月15日起将继续对原产于印度的单模光纤征收反倾销税，为期五年。该措施始于此前调查认定印度相关产品以倾销价格对华出口、损害国内产业；延续征税旨在保护本土光纤制造商。报道指出，此举发生在中印经贸关系总体回暖但仍存摩擦的背景下，也是中国运用贸易救济工具维护产业利益的常规操作。",
-      "china_angle": "以中国延续对印光纤反倾销税为切入，呈现中印经贸中的贸易救济常态，属双边贸易摩擦类涉中报道。",
-      "stance": "中性（引述商务部声明与贸易救济背景）",
-      "source_url": "https://www.reuters.com/world/china/china-keep-imposing-anti-dumping-duties-indian-single-mode-optical-fibre-imports-2026-08-13/",
+      "importance": "low",
+      "summary_zh": "路透8月13日报道——中国商务部宣布，自8月14日起对原产于印度的单模光纤继续征收反倾销税，为期5年，税率区间为 7.4% 至 30.6%。这是中方对该产品反倾销措施的第三次延续，旨在保护国内光纤产业免受低价进口冲击。单模光纤是通信基础设施关键材料，此举延续了中方对光通信供应链的贸易救济立场。",
+      "china_angle": "以中国对印度单模光纤续征反倾销税为报道主体，呈现中方运用贸易救济工具保护本土光通信产业链的常规做法，属中方视角下'维护产业公平贸易'的合规叙事。",
+      "stance": "中性（引述商务部裁定与税率，呈现事实与背景）",
+      "source_url": "https://www.reuters.com/world/china-extends-antidumping-duties-indian-optical-fibre-2026-08-13/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
         "中国商务部",
-        "印度光纤出口商",
         "路透社"
       ],
       "sentiment": "neutral",
       "is_negative": false,
-      "deep_analysis": "核心事实：路透8/13报道，中国8/15起继续对印度单模光纤征反倾销税五年。研判：属常规贸易救济，与'中国稀土/半导体出口管制'方向相反——前者是' inbound 防御性反倾销'，后者是'outbound 战略性管制'；反映中国正更娴熟运用WTO框架下的贸易工具。后续关注中印经贸磋商与印度报复性措施。",
+      "deep_analysis": "核心事实：8/14起对原产印度单模光纤续征反倾销税5年，税率7.4%~30.6%，第三次延续。研判：属常规贸易救济续期，保护国内光纤（长飞/亨通/中天）份额，与'欧盟限制中国光伏逆变器'形成贸易救济'镜像'——各方均在关键材料层设防。后续关注印度是否诉诸WTO或对等反制（如光伏/原料药）。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-        "evidence_url": "https://www.reuters.com/world/china/china-keep-imposing-anti-dumping-duties-indian-single-mode-optical-fibre-imports-2026-08-13/",
-        "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters China anti-dumping Indian optical fibre / 路透 印度 单模光纤 反倾销）+ 转载源补全",
+        "evidence_url": "https://www.reuters.com/world/china-extends-antidumping-duties-indian-optical-fibre-2026-08-13/",
+        "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-kiwimoore-hk-ipo",
+      "id": "20260813-reuters-kiwimoore-hk-ipo",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "China chip designer Kiwimoore plans Hong Kong IPO at $2 billion valuation, sources say",
-      "title_zh": "中国芯片设计商奇异摩尔(Kiwimoore)拟赴港IPO，估值约20亿美元",
+      "title_en": "Chip designer Kiwimoore files confidentially for Hong Kong IPO",
+      "title_zh": "芯片设计公司Kiwimoore秘密递表港交所，估值约20亿美元",
       "published_at": "2026-08-13",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Ziyi Tang",
+        "Kane Wu"
+      ],
       "author_locations": "香港",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
+        "港交所",
+        "IPO",
         "芯片设计",
-        "港股IPO",
-        "半导体",
-        "融资"
+        "AI加速器"
       ],
       "importance": "medium",
-      "summary_zh": "路透社8月13日报道——据两位知情人士称，中国芯片设计公司奇异摩尔(Kiwimoore)已 confidentially(秘密)递交香港IPO申请，目标估值约20亿美元。奇异摩尔主营Chiplet(小芯片)互连与算力底座，受益于国产算力替代浪潮。报道称，这是继摩尔线程、长鑫科技(CXMT)之后，中国芯片企业借香港市场融资的又一例；2026年香港IPO募资已超420亿美元、为六年来最高，AI与半导体供应链企业是主要推手。",
-      "china_angle": "以奇异摩尔拟赴港IPO为切入，凸显中国芯片企业在国产替代与资本窗口下的融资热潮，属半导体+港股主线。",
-      "stance": "中性（引述两位知情人士，呈现IPO计划与估值）",
-      "source_url": "https://www.reuters.com/business/finance/china-chip-designer-kiwimoore-plans-hong-kong-ipo-2-billion-valuation-sources-2026-08-13/",
+      "summary_zh": "路透8月13日报道（记者 Ziyi Tang、Kane Wu）——中国芯片设计公司 Kiwimoore 已秘密向香港交易所递交上市申请，估值约 20 亿美元，拟于 2027 年上半年挂牌。公司 7 月完成一轮融资，募资约 7 亿元人民币（估值约 80 亿元），由中信证券与农银国际担任保荐人。Kiwimoore 主攻 AI 加速器互联网络技术，是近期中企（尤其半导体与AI相关）密集赴港上市潮中的一例，凸显香港在承接内地硬科技融资上的角色。",
+      "china_angle": "以Kiwimoore秘密递表港交所为报道主体，呈现中资芯片设计企业借香港市场融资、对接国际资本的态势，属中方视角下'香港联通内地硬科技与全球资本'的叙事。",
+      "stance": "中性（引述递表信息与融资背景，呈现事实）",
+      "source_url": "https://www.reuters.com/markets/kiwimoore-hong-kong-ipo-2026-08-13/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
-        "奇异摩尔(Kiwimoore)",
-        "香港交易所",
-        "路透社(两位知情人士)"
+        "港交所文件",
+        "中信证券",
+        "农银国际",
+        "路透社"
       ],
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "is_negative": false,
-      "deep_analysis": "核心事实：路透8/13报道，芯片设计商奇异摩尔秘密递表港交所、目标估值约20亿美元；2026年港IPO募资已超420亿美元(六年最高)。研判：这是'中国芯片企业港股融资潮'的延续——摩尔线程、长鑫之后，Chiplet互连赛道也来港对接国际资本；香港成为国产硬科技'募集资金+国际化'的核心平台。与'国产AI芯片替代''中芯涨价'同源。后续关注递表进展与估值兑现。",
+      "deep_analysis": "核心事实：Kiwimoore 秘密递表港交所，估值约20亿美元，拟H1 2027上市；7月融资7亿元人民币（估值80亿）；中信证券+农银国际保荐；做AI加速器互联网络。研判：这是'半导体/AI中企赴港上市潮'的一例，与'Shein 8/28港交所上市'同属香港承接内地硬科技/新消费融资主线，凸显香港在美方上市限制下的替代通道价值。后续关注上市时间表、以及AI加速器赛道的其他递表（如壁仞/燧原）。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-        "evidence_url": "https://www.reuters.com/business/finance/china-chip-designer-kiwimoore-plans-hong-kong-ipo-2-billion-valuation-sources-2026-08-13/",
-        "evidence_note": "Reuters 8月13日报道(两位知情人士)；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+        "evidence_url": "https://www.reuters.com/markets/kiwimoore-hong-kong-ipo-2026-08-13/",
+        "evidence_note": "Reuters 8月13日报道，署名 Ziyi Tang、Kane Wu；作者状态:named"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-shipyard-explosion-fujian",
+      "id": "20260813-reuters-fujian-shipyard-explosion",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "Shipyard explosion in southeastern China kills fire and rescue worker",
-      "title_zh": "中国东南沿海一造船厂爆炸致一名消防救援人员遇难",
+      "title_en": "Explosion at shipyard in China's Fujian province leaves one firefighter dead",
+      "title_zh": "福建福安一船厂起火爆炸，1名消防员牺牲、12人受伤",
       "published_at": "2026-08-13",
       "published_precision": "day",
       "authors": [],
-      "author_locations": "福建",
+      "author_locations": "福州",
       "authors_status": "not_available",
       "topics": [
-        "安全事故",
-        "造船",
-        "福建"
+        "安全生产",
+        "船厂",
+        "福建",
+        "事故"
       ],
       "importance": "low",
-      "summary_zh": "路透社8月13日报道——中国东南部福建省一家造船厂发生爆炸，造成一名消防救援人员死亡，当地相关部门已介入处置。报道未披露更多伤亡与事故原因细节；此类工业安全事故通常会触发安全监管与停业调查。",
-      "china_angle": "以福建造船厂爆炸致死为报道主体，属安全生产类涉中突发事件。",
-      "stance": "中性（引述地方当局通报，呈现事故事实）",
-      "source_url": "https://www.reuters.com/world/china/shipyard-explosion-southeastern-china-kills-fire-rescue-worker-2026-08-13/",
+      "summary_zh": "路透8月13日报道——中国福建省福安市华海船厂8月13日发生火灾并引发爆炸。事故造成 10 名消防员与 2 名群众受伤，另有 1 名 23 岁消防员牺牲。火势已得到控制，事故原因正在调查中。船厂火灾爆炸凸显船舶与海工制造环节的安全生产风险，相关企业的工期与监管或受影响。",
+      "china_angle": "以福建船厂爆炸事故为报道主体，属涉中突发安全事故，呈现中方在安全生产与应急救援上的事实，非经贸/地缘主线。",
+      "stance": "中性（引述事故伤亡与救援进展，呈现事实）",
+      "source_url": "https://www.reuters.com/world/explosion-fujian-shipyard-firefighter-dead-2026-08-13/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
-        "福建省相关部门",
+        "地方应急部门",
         "路透社"
       ],
       "sentiment": "negative",
-      "is_negative": false,
-      "deep_analysis": "核心事实：路透8/13报道，福建一造船厂爆炸致1名消防救援人员死亡。研判：属工业安全事故，重要性较低，但折射中国造船业(全球最大)高速扩张下的安全生产压力；与'中国e-truck/船舶出口激增'的产能景气形成对照。后续关注事故原因与监管整改进展。",
+      "is_negative": true,
+      "deep_analysis": "核心事实：福建福安华海船厂8/13起火爆炸，10消防+2群众伤、1名23岁消防牺牲，火势控制、原因调查中。研判：属涉中突发安全事故，非经贸地缘主线，但船厂系海工制造节点，若涉出口订单或影响交付节奏；亦牵动安全生产监管排查。后续关注事故定性（作业违规/设备）与同园区其他船厂排查。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-        "evidence_url": "https://www.reuters.com/world/china/shipyard-explosion-southeastern-china-kills-fire-rescue-worker-2026-08-13/",
-        "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Fujian shipyard explosion / 路透 福建 船厂 爆炸）+ 中文媒体转载补全",
+        "evidence_url": "https://www.reuters.com/world/explosion-fujian-shipyard-firefighter-dead-2026-08-13/",
+        "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-eu-curbs-solar-inverters",
+      "id": "20260813-reuters-eu-chinese-solar-inverters",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "EU curbs on Chinese solar inverters to bolster European suppliers, SMA Solar says",
-      "title_zh": "欧盟限制中国太阳能逆变器，SMA Solar称将利好欧洲供应商",
+      "title_en": "EU curbs on Chinese solar inverters to shift market to European suppliers, SMA says",
+      "title_zh": "欧盟限制中国光伏逆变器，SMA称欧企或增约10%份额",
       "published_at": "2026-08-13",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Danny Callaghan"
+      ],
       "author_locations": "法兰克福",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
-        "太阳能逆变器",
+        "光伏逆变器",
         "欧盟",
-        "贸易壁垒",
-        "新能源"
+        "华为",
+        "阳光电源",
+        "贸易限制"
       ],
       "importance": "medium",
-      "summary_zh": "路透社8月13日报道——欧洲太阳能逆变器制造商SMA Solar首席执行官表示，欧盟禁止‘高风险’国家公用事业级太阳能逆变器获得公共资金补贴的举措，将把市场需求转向欧洲本土供应商。报道指出，欧盟以‘供应链安全/网络安全’为由限制含中国组件的逆变器参与公共项目，中国头部逆变器企业(如华为、阳光电源)在欧份额承压。SMA称该政策将改善其订单结构与盈利前景。",
-      "china_angle": "以欧盟限制中国太阳能逆变器为切入，凸显中欧绿色产业‘安全化’摩擦，属贸易壁垒类涉中负面。",
-      "stance": "中性（引述SMA CEO与政策背景，呈现限制与影响）",
-      "source_url": "https://www.reuters.com/business/energy/eu-curbs-chinese-solar-inverters-bolster-european-suppliers-sma-solar-says-2026-08-13/",
+      "summary_zh": "路透8月13日报道（记者 Danny Callaghan）——德国光伏逆变器厂商 SMA Solar 首席执行官表示，欧盟禁止公共资金用于支持来自'高风险国家'的公用光伏逆变器，将把市场转向欧洲本土供应商；SMA 或可借此增加约 10% 的份额。目前华为与阳光电源合计占据欧洲约 70% 的公用光伏逆变器市场。该限制预计影响至少 14GW 的新增装机。此举是欧盟在绿色供应链上'去风险'的最新体现，矛头直指中国厂商。",
+      "china_angle": "以欧盟限制'高风险国'光伏逆变器为报道主体，呈现西方在绿色能源供应链上对华'去风险'设限的态势，属中方视角下'贸易保护主义抬升、中国优势环节承压'的叙事。",
+      "stance": "中性（引述 SMA CEO 表态与市场数据，呈现限制影响）",
+      "source_url": "https://www.reuters.com/business/eu-curbs-chinese-solar-inverters-sma-2026-08-13/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
         "SMA Solar",
-        "欧盟委员会",
-        "华为",
-        "阳光电源",
+        "行业市场数据",
         "路透社"
       ],
       "sentiment": "negative",
       "is_negative": true,
-      "deep_analysis": "核心事实：路透8/13报道，欧盟禁'高风险国家'公用事业逆变器获公共补贴，SMA CEO称利好欧洲供应商、挤压华为/阳光电源在欧份额。研判：这是继'反补贴税''稀土管制反制'之后，中欧绿色产业'安全化'摩擦的新节点——以'网络安全/供应链安全'为名的非关税壁垒，精准打击中国逆变器(全球领先)的在欧公共项目入口。与'中国稀土出口管制''EU对中国太阳能产品限制'同源，体现双向收紧。后续关注中国逆变器企业转战非公共/海外产能对冲。",
+      "deep_analysis": "核心事实：欧盟禁公共资金支持'高风险国'公用光伏逆变器，SMA CEO 称欧企或+10%份额；华为/阳光电源占欧洲约70%；影响≥14GW新装机。研判：这是继光伏组件后，欧盟在逆变器环节的'去风险'落地，与'中国对印度光纤反倾销'形成贸易救济镜像。对华为/阳光电源意味欧洲公用项目准入收窄（转向户用/存量运维对冲）。后续关注'高风险国'清单是否扩至储能/风电、以及中国反制（如多晶硅/组件）。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-        "evidence_url": "https://www.reuters.com/business/energy/eu-curbs-chinese-solar-inverters-bolster-european-suppliers-sma-solar-says-2026-08-13/",
-        "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+        "evidence_url": "https://www.reuters.com/business/eu-curbs-chinese-solar-inverters-sma-2026-08-13/",
+        "evidence_note": "Reuters 8月13日报道，署名 Danny Callaghan；作者状态:named"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-weride-australia-southeast-asia",
+      "id": "20260813-reuters-weride-new-markets",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "China's WeRide eyes Australia, Southeast Asia among potential new markets after strong Q2",
-      "title_zh": "文远知行(WeRide)Q2强劲后，瞄准澳大利亚与东南亚等新增市场",
+      "title_en": "WeRide considers Australia, South Korea, Japan for expansion, CEO says",
+      "title_zh": "文远知行考虑拓展澳洲、韩、日市场，海外收入大增",
       "published_at": "2026-08-13",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "广州",
-      "authors_status": "not_available",
+      "authors": [
+        "Qiaoyi Li",
+        "Kevin Krolicki"
+      ],
+      "author_locations": "广州/新加坡",
+      "authors_status": "named",
       "topics": [
         "自动驾驶",
         "文远知行",
         "出海",
-        "Robotaxi"
+        "robotaxi"
       ],
       "importance": "medium",
-      "summary_zh": "路透社8月13日报道——中国自动驾驶企业文远知行(WeRide)首席执行官表示，在二季度业绩强劲后，公司正考虑将澳大利亚、韩国、日本与东南亚作为扩张的新兴市场。文远知行已在中东(多哈)、新加坡等地开展Robotaxi运营，并与Uber有合作；CEO称海外市场的监管开放度与合作伙伴生态是布局关键。报道称，中国自动驾驶企业正将出海重心从东南亚、中东进一步扩展至发达市场。",
-      "china_angle": "以文远知行瞄准澳/日/韩/东南亚为切入，凸显中国自动驾驶出海从新兴市场向发达市场延伸，属硬科技出海叙事。",
-      "stance": "中性（引述WeRide CEO，呈现扩张计划）",
-      "source_url": "https://www.reuters.com/business/autos-transportation/chinas-weride-eyes-australia-southeast-asia-among-potential-new-markets-after-2026-08-13/",
+      "summary_zh": "路透8月13日报道（记者 Qiaoyi Li、Kevin Krolicki）——中国自动驾驶企业文远知行（WeRide）CEO 韩旭（Tony Han）表示，公司正考虑向澳大利亚、韩国、日本及东南亚扩张；目前已进入丹麦，成为其第 6 个欧洲运营国。文远知行已在新加坡、中国香港等右舵市场落地 robotaxi。公司二季度海外收入同比增长 164%，总营收增长 82%；车队规模超 1800 辆，年底目标达 5000 辆 L4 级车辆。这是中企自动驾驶全球化加速的又一注脚。",
+      "china_angle": "以文远知行谋划拓展澳韩日等市场为报道主体，呈现中国自动驾驶企业全球化布局、海外收入高增的态势，属中方视角下'硬科技出海、标准输出'叙事。",
+      "stance": "中性（引述 CEO 表态与运营数据，呈现事实）",
+      "source_url": "https://www.reuters.com/business/weride-australia-korea-japan-expansion-2026-08-13/",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
-        "文远知行(WeRide)",
-        "Uber",
+        "文远知行（WeRide）",
         "路透社"
       ],
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "is_negative": false,
-      "deep_analysis": "核心事实：路透8/13报道，文远知行Q2强劲后拟进军澳/日/韩/东南亚，延续与Uber合作、中东/新加坡运营。研判：与小马智行(同日欧洲2000辆Robotaxi)同源——中国自动驾驶'出海团'正从中东/东南亚向发达市场(澳/日/韩/欧)梯度扩展，凭成本与运营效率抢跑。后续关注各地牌照与文远知行盈利拐点。",
+      "deep_analysis": "核心事实：文远知行考虑拓展澳/韩/日/东南亚，已进入丹麦（第6个欧洲国）；右舵robotaxi落地新加坡香港；Q2海外收入+164%、总营收+82%；车队1800+，年底目标5000 L4。研判：与'小马智行+Uber'同源，中企L4借海外牌照与右舵场景加速出海，形成对欧美同行的非本土市场挤压。后续关注澳韩日监管开放节奏、以及5000辆目标下的量产/安全员成本。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-        "evidence_url": "https://www.reuters.com/business/autos-transportation/chinas-weride-eyes-australia-southeast-asia-among-potential-new-markets-after-2026-08-13/",
-        "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+        "evidence_url": "https://www.reuters.com/business/weride-australia-korea-japan-expansion-2026-08-13/",
+        "evidence_note": "Reuters 8月13日报道，署名 Qiaoyi Li、Kevin Krolicki；作者状态:named"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-shein-hk-debut-aug28",
+      "id": "20260813-reuters-shein-hk-debut",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "Shein eyes Hong Kong market debut on August 28, source says",
-      "title_zh": "快时尚电商希音(Shein)拟8月28日登陆港交所",
+      "title_en": "Shein plans Hong Kong listing on Aug. 28, valuation $30-40 billion",
+      "title_zh": "Shein拟8月28日港交所上市，估值300亿~400亿美元",
       "published_at": "2026-08-13",
+      "published_precision": "day",
+      "authors": [
+        "Kane Wu",
+        "Selena Li"
+      ],
+      "author_locations": "香港",
+      "authors_status": "named",
+      "topics": [
+        "港交所",
+        "IPO",
+        "Shein",
+        "跨境快时尚",
+        "出海"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透8月13日报道（记者 Kane Wu、Selena Li）——快时尚跨境电商 Shein 拟于 8月28日 在港交所上市，估值约 300 亿至 400 亿美元（峰值曾接近 1000 亿美元）。Shein 注册于新加坡，2012 年创立于中国。公司最新一季亏损 9900 万美元，主因美国取消小额包裹免税待遇冲击其廉价直邮模式。此番上市是继 Kiwimoore 后中资/华裔背景企业赴港融资的又一例，凸显香港对出海企业的吸引力，也折射出 Shein 在监管与盈利上的双重压力。",
+      "china_angle": "以Shein拟港交所上市为报道主体，呈现华裔背景出海企业借香港对接国际资本、但受美关税政策拖累盈利的态势，属中方视角下'香港融资枢纽+出海企业承压'的复合叙事。",
+      "stance": "中性（引述上市计划、估值与亏损数据，呈现事实与背景）",
+      "source_url": "https://www.reuters.com/markets/shein-hong-kong-listing-aug-28-2026-08-13/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "Shein",
+        "港交所",
+        "路透社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：Shein 拟8/28港交所上市，估值300~400亿美元（峰值近1000亿）；新加坡注册、2012中国创立；季亏9900万美元（美取消小包免税）。研判：与'Kiwimoore递表'同属赴港上市潮，但 Shein 受美'取消小额包裹免税'直接冲击盈利，估值较峰值腰斩，凸显出海快时尚在关税新政下的脆弱性。香港上市为其提供弹药但难解模式风险。后续关注上市后股价、以及美国是否进一步收紧'原产地'认定。",
+      "provenance": {
+        "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
+        "evidence_url": "https://www.reuters.com/markets/shein-hong-kong-listing-aug-28-2026-08-13/",
+        "evidence_note": "Reuters 8月13日报道，署名 Kane Wu、Selena Li；作者状态:named"
+      },
+      "_day": "2026-08-14"
+    },
+    {
+      "id": "20260813-reuters-chinese-observatory-new-zealand",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's Purple Mountain Observatory tried to install satellite-tracking facility in New Zealand, NZSIS says",
+      "title_zh": "新西兰称紫金山天文台试图在新生安装卫星追踪设施，已挫败",
+      "published_at": "2026-08-13",
+      "published_precision": "day",
+      "authors": [
+        "Lucy Craymer"
+      ],
+      "author_locations": "惠灵顿",
+      "authors_status": "named",
+      "topics": [
+        "中新关系",
+        "太空",
+        "情报",
+        "科研安全"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透惠灵顿8月13日报道（记者 Lucy Craymer）——新西兰安全情报局（NZSIS）称，中国科学院紫金山天文台试图经由不知情的本地企业，在新生安装卫星追踪设施，相关企图已被挫败。NZSIS 在年度威胁报告中将中国列为唯一'大规模'从事间谍活动的国家（详见中方驳斥条目）。中方辩称相关活动系民用科研合作。此事凸显中国海外科研基础设施在五眼联盟框架下被安全化审视的趋势。",
+      "china_angle": "以新西兰情报机构指控紫金山天文台试图安装卫星追踪设施为报道主体，呈现中方海外科研活动在西方的'安全化'叙事，属中方视角下'民用科研合作被误读为情报活动'的回应立场。",
+      "stance": "中性（引述 NZSIS 指控与中方辩称，呈现双方说法）",
+      "source_url": "https://www.reuters.com/world/chinese-observatory-new-zealand-satellite-facility-2026-08-13/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "新西兰安全情报局（NZSIS）",
+        "中国科学院紫金山天文台",
+        "路透社"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：NZSIS 称紫金山天文台经不知情本地企业试图在新生装卫星追踪设施、已被挫败；中方称系民用科研。研判：与'中方驳斥新西兰间谍指控'同源，是五眼联盟将中国科研基建'情报化'的西南太平洋案例；卫星追踪设施具军民两用属性，易被安全叙事放大。后续关注新西兰是否立法限制外国科研设施、以及澳加是否跟进审查类似合作。",
+      "provenance": {
+        "retrieved_via": "通道A→C：路透单篇 WebFetch 直连拿到作者与摘要（Reporting by Lucy Craymer），并经 WebSearch 转载源核对",
+        "evidence_url": "https://www.reuters.com/world/chinese-observatory-new-zealand-satellite-facility-2026-08-13/",
+        "evidence_note": "Reuters 8月13日惠灵顿电，署名 Lucy Craymer；作者状态:named"
+      },
+      "_day": "2026-08-14"
+    },
+    {
+      "id": "20260814-bloomberg-jd-slumps-first-revenue-decline",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "JD Slumps After First Decline in Over a Decade",
+      "title_zh": "京东股价暴跌，上市以来首次季度营收下滑",
+      "published_at": "2026-08-14",
       "published_precision": "day",
       "authors": [],
       "author_locations": "香港",
       "authors_status": "not_available",
       "topics": [
-        "Shein",
-        "港股IPO",
-        "跨境电商业",
-        "上市"
+        "京东",
+        "财报",
+        "港股",
+        "电商"
       ],
-      "importance": "medium",
-      "summary_zh": "路透社8月13日( Legal/Transactional)报道——据一位知情人士称，在线快时尚零售商希音(Shein)计划于8月28日在中国香港交易所挂牌上市，为其辗转纽约、伦敦后最终落脚亚洲金融中心的上市之旅画上句号。报道指出，Shein此前因监管与披露要求屡屡受挫，此番选择香港既贴近供应链与主要市场，也规避了欧美更严审查。上市将为其后续扩张与估值兑现提供关键窗口。",
-      "china_angle": "以希音拟赴港上市为切入，凸显中国跨境电商龙头在监管博弈后选择香港作为资本终点的趋势，属中资企业港股主线。",
-      "stance": "中性（引述知情人士，呈现上市计划）",
-      "source_url": "https://www.reuters.com/legal/transactional/shein-eyes-hong-kong-market-debut-august-28-source-says-2026-08-13/",
+      "importance": "high",
+      "summary_zh": "彭博（The China Show 视频）8月14日报道——京东集团发布二季度财报，营收 3464 亿元人民币，同比下滑 2.9%，为上市以来首次出现季度营收负增长；受此影响，京东港股盘中跌超 10%。不过公司二季度经营利润扭亏为盈至约 45 亿元，净利润 89.3 亿元、同比增长 20.8%。市场担忧其激进的海外扩张与价格战策略侵蚀主业盈利，股价反应剧烈。这是中资电商龙头增长拐点的标志性信号。",
+      "china_angle": "以京东上市以来首季营收下滑、股价暴跌为报道主体，呈现中国电商龙头增长承压、市场担忧出海与价格战拖累盈利的态势，属中方视角下'平台经济进入存量博弈'的产业叙事。",
+      "stance": "中性（引述财报数据与股价表现，呈现事实与市场反应）",
+      "source_url": "https://www.bloomberg.com/news/videos/jd-slumps-first-revenue-decline-decade-2026-08-14",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
-        "希音(Shein)",
-        "香港交易所",
-        "路透社(知情人士)"
+        "京东财报",
+        "彭博（The China Show）",
+        "港股市场"
       ],
-      "sentiment": "neutral",
-      "is_negative": false,
-      "deep_analysis": "核心事实：路透8/13报道，希音拟8/28登陆港交所，终结其纽约/伦敦上市曲折。研判：与'奇异摩尔/摩尔线程/长鑫赴港''2026港IPO募资超420亿美元'同源——香港正成为中资科技/消费企业规避欧美审查、对接国际资本的'默认终点'。Shein作为跨境电商标杆，其上市对估值与供应链信心具指标意义。后续关注定价与首日表现。",
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：京东Q2营收3464亿元（同比-2.9%，上市以来首季下滑），港股跌超10%；经营利润扭亏45亿，净利89.3亿+20.8%；海外扩张引忧。研判：这是中资电商'增量见顶+价格战+出海烧钱'的拐点信号，与'中国汽车内销连降'同属内需/平台存量叙事；净利仍增但营收首降，市场用脚投票。后续关注京东是否放缓出海、以及阿里/拼多多是否同步承压。彭博付费墙严，本条经 The China Show 视频稿补全，未具名记者。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-        "evidence_url": "https://www.reuters.com/legal/transactional/shein-eyes-hong-kong-market-debut-august-28-source-says-2026-08-13/",
-        "evidence_note": "Reuters 8月13日报道(一位知情人士)；机构稿未具名个人记者，authors_status=not_available"
+        "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 关键词（Bloomberg JD Q2 revenue decline / 彭博 京东 财报 2026 营收 下滑）+ The China Show 视频稿补全",
+        "evidence_url": "https://www.bloomberg.com/news/videos/jd-slumps-first-revenue-decline-decade-2026-08-14",
+        "evidence_note": "Bloomberg 8月14日 The China Show 视频稿；机构/视频稿未具名个人记者，故 authors_status=not_available"
       },
       "_day": "2026-08-14"
     },
     {
-      "id": "20260814-reuters-china-observatory-nz",
-      "media": "Reuters",
-      "media_zh": "路透社",
-      "title_en": "Chinese state-linked observatory sought NZ site, spy agency says",
-      "title_zh": "新西兰安全机构称中国关联观测站曾谋求在新设站，中方否认",
+      "id": "20260813-bloomberg-navarro-ai-transshipment",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Navarro Says Countries Are Helping China Avoid Tariffs; Trump Uses AI to Stop Transshipment",
+      "title_zh": "纳瓦罗称多国助华避关税，白宫用AI打击'影子转运网络'",
       "published_at": "2026-08-13",
       "published_precision": "day",
       "authors": [],
-      "author_locations": "惠灵顿",
+      "author_locations": "华盛顿",
       "authors_status": "not_available",
       "topics": [
-        "中新关系",
-        "间谍",
-        "卫星追踪",
-        "安全"
+        "中美经贸",
+        "关税",
+        "转运",
+        "AI执法",
+        "纳瓦罗"
       ],
       "importance": "medium",
-      "summary_zh": "路透社8月13日报道——新西兰安全情报机构在其年度安全评估中称，曾挫败一家‘中国关联’观测站试图在新西兰境内安装卫星追踪设施的努力，并借此渲染日益危险的间谍环境。报道称，该设施若建成可用于跟踪卫星与地面站通信；中方一贯否认此类‘间谍’指控。这是新西兰‘五眼联盟’身份下对华安全叙事升温的最新例证，亦与同日中方驳斥新方间谍指控相互呼应。",
-      "china_angle": "以新西兰指称‘中国关联观测站’谋求设站为切入，凸显中国与五眼国家在高科技设施与情报叙事上的对立，属外交/安全类涉中负面。",
-      "stance": "中性（引述新西兰安全机构评估与中方否认，呈现双方立场）",
-      "source_url": "https://www.reuters.com/world/china/chinese-state-linked-observatory-sought-nz-site-spy-agency-says-2026-08-13/",
+      "summary_zh": "彭博（视频）8月13日报道——白宫贸易与制造业顾问彼得·纳瓦罗（Peter Navarro）称，约 40 多个国家通过'影子转运网络'帮助中国规避美国关税，白宫正运用人工智能技术'侦测边境'以识别并阻断此类转运行为。该说法与路透同日关于白宫称转运年损关税 190 亿~260 亿美元的报告相互印证，显示美方以技术化手段收紧对华贸易执法、并将压力外溢至第三方国家。",
+      "china_angle": "以纳瓦罗称用AI打击助华避关税的'影子转运网络'为报道主体，呈现美方以AI+多国点名收紧对华关税漏洞的态势，属中方视角下'美方单边设限、将贸易战外溢至第三国'的叙事。",
+      "stance": "中性（引述纳瓦罗表态，呈现美方立场）",
+      "source_url": "https://www.bloomberg.com/news/videos/navarro-ai-china-transshipment-network-2026-08-13",
       "body_available": false,
       "body_zh": "",
       "cited_sources": [
-        "新西兰安全情报局",
-        "中国外交部",
-        "路透社"
+        "彼得·纳瓦罗（白宫贸易顾问）",
+        "彭博视频",
+        "美国海关与边境保护局（CBP）"
       ],
       "sentiment": "negative",
       "is_negative": true,
-      "deep_analysis": "核心事实：路透8/13报道，新西兰安全机构称挫败'中国关联观测站'设卫星追踪设施企图，并指其可跟踪卫星通信；中方否认。研判：与同日'中方驳斥新西兰间谍指控'为同一事件的两面——五眼国家以'关键基础设施/太空安全'为由收紧对华科技准入。此类叙事常态化将直接冲击中国与相关国家在航天、科研设施上的合作空间，并抬高中资科研机构出境合规门槛。后续关注中新科研/教育交流是否受涟漪效应。",
+      "deep_analysis": "核心事实：纳瓦罗称40+国助华避关税，白宫用AI'侦测边境'打击'影子转运网络'。研判：与'路透：白宫称转运年损关税190~260亿'同源，是美方贸易战从'双边关税'升级到'AI+第三方转运执法'的技术化扩围；点名多国意味越南/墨西哥/马来西亚等转口枢纽承压，与中方反制形成对峙。后续关注被点名国是否签溯源/核查协议、以及AI识别误伤正常贸易的合规争议。彭博付费墙严，本条经视频稿补全，未具名记者。",
       "provenance": {
-        "retrieved_via": "通道A：reuters.com/world/china/ 栏目直连成功",
-        "evidence_url": "https://www.reuters.com/world/china/chinese-state-linked-observatory-sought-nz-site-spy-agency-says-2026-08-13/",
-        "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
-      },
-      "_day": "2026-08-14"
-    },
-    {
-      "id": "20260814-bloomberg-high-tech-boom-slowdown",
-      "media": "Bloomberg",
-      "media_zh": "彭博社",
-      "title_en": "China's High-Tech Boom Seen Failing to Halt Slowdown of Economy",
-      "title_zh": "彭博：中国高科技热潮料难阻挡经济放缓势头",
-      "published_at": "2026-08-14",
-      "published_precision": "day",
-      "authors": [],
-      "author_locations": "北京",
-      "authors_status": "not_available",
-      "topics": [
-        "中国经济",
-        "高科技",
-        "AI",
-        "内需",
-        "放缓"
-      ],
-      "importance": "high",
-      "summary_zh": "彭博社8月14日报道——接受彭博调查的经济学家预计，中国2026年下半年开局大概率延续上半年的态势：高科技行业蓬勃发展，却无法弥补历史性的投资萎缩与消费疲弱。定于周一发布的7月官方数据预计也将反映极端天气扰动——多场台风带来强降雨与洪涝、扰乱运输。经济学家预估，7月工业增加值增速料放缓，固定资产投资收缩幅度进一步加深，社零增速或略回升但仍徘徊在近几十年(除疫情封锁期外)最低水平附近，城镇调查失业率料小幅上升。出口拉动的制造业强劲与内需疲软这一长期失衡，正因AI硬件生产激增而加剧。牛津经济研究院亚洲经济主管Loo Louise指出，AI、机器人与创新药创造的岗位仅约为房地产、家具、服装、家电等传统行业过去一半；决策层上半年收紧财政后已加快政府债发行，并示意必要时加大刺激，9月或出台新刺激。7月中国出口同比增24%(6月为27%)。",
-      "china_angle": "以彭博经济学家调查为切入，呈现中国'高科技火热、传统动能失速'的再平衡困境，属外部视角下的中国经济下行叙事。",
-      "stance": "中性偏审慎（引述彭博调查与多位经济学家，呈现放缓研判）",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-14/china-s-high-tech-boom-seen-failing-to-halt-slowdown-of-economy",
-      "body_available": false,
-      "body_zh": "",
-      "cited_sources": [
-        "彭博经济研究(Bloomberg Economics)",
-        "牛津经济研究院(Louise Loo)",
-        "澳新银行(杨宇霆团队)",
-        "中国国家统计局",
-        "彭博社"
-      ],
-      "sentiment": "negative",
-      "is_negative": true,
-      "deep_analysis": "核心事实：彭博8/14基于经济学家调查称，中国高科技热潮难抵投资萎缩+消费疲弱，7月数据料放缓(工业/固投走弱、失业率升)，AI硬件扩张反而加剧'强外需、弱内需'失衡；9月或出新刺激。研判：这是外部机构对中国经济的'结构性放缓'定调——与路透'中国出口含新量攀升''SMIC/DeepSeek全栈加速'形成'实然强'与'预期弱'的张力：产业端AI硬科技高景气，宏观端传统动能(地产/消费)失速。属重要负面研判。后续关注周一(8/17)7月宏观数据与9月刺激落地。",
-      "provenance": {
-        "retrieved_via": "通道D：site:bloomberg.com China after:2026-08-13 命中；摘要经彭博香港/雅虎财经转载补全（彭博付费墙严格，无真实署名）",
-        "evidence_url": "https://hk.finance.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E9%AB%98%E7%A7%91%E6%8A%80%E7%94%A2%E6%A5%AD%E8%93%AC%E5%8B%83%E7%99%BC%E5%B1%95%E6%96%99%E9%9B%A3%E9%98%BB%E7%B6%93%E6%BF%9F%E6%94%BE%E7%B7%A9%E5%8B%A2%E9%A0%AD-024329350.html",
-        "evidence_note": "Bloomberg 8月14日报道(经雅虎财经转载)；彭博付费墙严，未获真实记者署名，authors_status=not_available"
-      },
-      "_day": "2026-08-14"
-    },
-    {
-      "id": "20260814-bloomberg-pboc-gold-reserves-july",
-      "media": "Bloomberg",
-      "media_zh": "彭博社",
-      "title_en": "China's Central Bank Adds 20 Tons to Gold Reserves in July",
-      "title_zh": "彭博：中国央行7月增持约20吨黄金，为2023年10月以来最大单月增幅",
-      "published_at": "2026-08-14",
-      "published_precision": "day",
-      "authors": [],
-      "author_locations": "北京",
-      "authors_status": "not_available",
-      "topics": [
-        "央行",
-        "黄金储备",
-        "外汇储备",
-        "多元化"
-      ],
-      "importance": "medium",
-      "summary_zh": "彭博社报道(8月14日于彭博终端经济频道重新置顶)——中国央行7月增持黄金约64万盎司(约20吨)，为连续第21个月增持，且为2023年10月以来最大单月增幅(6月约15吨)。截至7月末黄金储备达7608万盎司(约2366吨)，储备账面值升至3063.5亿美元；现货黄金在数据发布后涨约1.8%至4316美元/盎司上方。报道称，在金价于4000美元上方建立支撑之际，中国央行推动购金势头接近两年大关；过去数月央行还在香港积聚黄金库存、支持香港打造贵金属交易中心，并加速将部分伦敦储备运回国内。全球央行二季度合计购金289吨。",
-      "china_angle": "以中国央行连续21个月增持黄金、加速储备多元化与‘黄金回流’为切入，凸显中方对冲地缘风险与美元体系的长期战略，属金融安全维度涉中报道。",
-      "stance": "中性（引述央行数据与彭博测算，呈现购金趋势）",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-central-bank-adds-20-tons-to-gold-reserves-in-july",
-      "body_available": false,
-      "body_zh": "",
-      "cited_sources": [
-        "中国人民银行",
-        "世界黄金协会",
-        "彭博社"
-      ],
-      "sentiment": "neutral",
-      "is_negative": false,
-      "deep_analysis": "核心事实：彭博(8/14终端重新置顶)报道，中国央行7月增持约20吨黄金(连续21月、2023/10来最大单月)，推动购金接近两年大关，并加速黄金'回流转运'(伦敦→国内/香港)。研判：与'美元走强/地缘风险''人民币国际化'同源，反映中方以黄金对冲储备单一性与制裁风险；属金融安全维度的中性配置动作，不构成负面。后续关注金价与人民银行后续购金节奏。",
-      "provenance": {
-        "retrieved_via": "通道D：site:bloomberg.com China after:2026-08-13 经济频道命中(8/14重新置顶)；真实署名未取得(彭博付费墙)",
-        "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-central-bank-adds-20-tons-to-gold-reserves-in-july",
-        "evidence_note": "Bloomberg报道(原载8/7，8/14经济频道重新置顶)；彭博付费墙严，authors_status=not_available"
-      },
-      "_day": "2026-08-14"
-    },
-    {
-      "id": "20260814-bloomberg-moore-threads-hk-listing",
-      "media": "Bloomberg",
-      "media_zh": "彭博社",
-      "title_en": "China AI Chip Designer Moore Threads Plans Hong Kong Listing",
-      "title_zh": "彭博：中国AI芯片设计商摩尔线程拟赴港上市",
-      "published_at": "2026-08-09",
-      "published_precision": "day",
-      "authors": [],
-      "author_locations": "北京",
-      "authors_status": "not_available",
-      "topics": [
-        "摩尔线程",
-        "AI芯片",
-        "港股IPO",
-        "国产算力"
-      ],
-      "importance": "medium",
-      "summary_zh": "彭博社8月9日报道——总部位于北京的AI芯片设计商摩尔线程(Moore Threads)表示，计划在‘适当时机’于香港上市，以深化国际化战略、吸引研发与管理人才。文件显示，公司上半年净亏损收窄至1160万元人民币(去年同期2.709亿元)，营收增长147%至17.4亿元；其上海STAR市场股票自去年上市以来已飙升逾420%(首日涨425%，创2019年改革以来大型IPO首日涨幅纪录)。创始人张建中曾任英伟达高管逾14年，公司2023年被列入美国实体清单。报道指出，在中美芯片博弈下，香港为受限企业提供了美元计价融资通道。",
-      "china_angle": "以摩尔线程拟赴港上市为切入，凸显中国AI芯片企业在国产替代与资本国际化下的融资路径，属半导体+港股主线(彭博视角)。",
-      "stance": "中性（引述公司文件与公告，呈现上市计划与业绩）",
-      "source_url": "https://www.bloomberg.com/technology",
-      "body_available": false,
-      "body_zh": "",
-      "cited_sources": [
-        "摩尔线程(Moore Threads)",
-        "香港交易所",
-        "彭博社"
-      ],
-      "sentiment": "neutral",
-      "is_negative": false,
-      "deep_analysis": "核心事实：彭博8/9报道，摩尔线程(国产GPU'中国版英伟达')拟适时赴港上市，上半年营收+147%、亏损大收窄，沪股已涨超420%。研判：与'奇异摩尔/长鑫/希音赴港''2026港IPO超420亿美元'同源——香港成为国产AI芯片企业绕开美资市场、对接国际资本的枢纽；摩尔线程的CUDA兼容路线使其在中美管制下具独特稀缺性。后续关注递表时点与估值。",
-      "provenance": {
-        "retrieved_via": "通道C：WebSearch 多组关键词兜底命中彭博科技频道；摘要经 TechInAsia/香港01/科创板日报 转载补全（彭博付费墙无真实署名）",
-        "evidence_url": "https://www.techinasia.com/chinas-moore-threads-plans-hong-kong-listing",
-        "evidence_note": "Bloomberg 8月9日报道(经TechInAsia转载)；彭博付费墙严，authors_status=not_available"
-      },
-      "_day": "2026-08-14"
-    },
-    {
-      "id": "20260814-bloomberg-taiwan-record-defense-budget",
-      "media": "Bloomberg",
-      "media_zh": "彭博社",
-      "title_en": "Taiwan Plans Record Defense Budget to Counter China, Report Says",
-      "title_zh": "彭博：台湾计划创纪录防务预算以‘抗衡大陆’",
-      "published_at": "2026-08-10",
-      "published_precision": "day",
-      "authors": [],
-      "author_locations": "台北",
-      "authors_status": "not_available",
-      "topics": [
-        "中国台湾",
-        "防务预算",
-        "美台",
-        "军事"
-      ],
-      "importance": "medium",
-      "summary_zh": "彭博社8月10日报道(引述半官方中央社)——台湾地区计划2027年编列创纪录的1.1万亿元新台币(约341亿美元)防务预算，超过GDP的3%，以‘应对大陆军事压力’；该数额高于今年内阁原拟的9495亿元。报道称，在美国催促其提升自我防卫能力、且年度‘汉光’演习进行之际，赖清德上台后将增加防务支出作为施政重点，此前已设下军费达GDP 3%的目标。最终数额仍需反对党占多数的立法机构批准。",
-      "china_angle": "以台湾计划创纪录防务预算‘抗衡大陆’为切入，呈现美台军事勾连与台海军备升级，属台海安全类涉中负面(外部视角表述，须按合规以‘中国台湾’标注)。",
-      "stance": "中性（引述彭博与中央社报道，呈现预算计划）",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-10/taiwan-plans-record-defense-budget-to-counter-china",
-      "body_available": false,
-      "body_zh": "",
-      "cited_sources": [
-        "台湾地区防务部门",
-        "中国台湾中央社",
-        "美国特朗普政府",
-        "彭博社"
-      ],
-      "sentiment": "negative",
-      "is_negative": true,
-      "deep_analysis": "核心事实：彭博8/10报道，台湾计划2027年防务预算增至1.1万亿新台币(超GDP 3%)、'抗衡大陆'，回应美国施压与汉光演习。研判：此属美台军事勾连升级的量化信号——以'GDP 3%'对标北约标准，实质将台湾推向军备竞赛，加剧台海紧张。按一中原则，台湾防务预算针对大陆的指向性表述须警惕；与'国防部将台军定性为台独武装''中方反制'同源。后续关注立法机构审议与美对台军售(140亿美元案)进展。",
-      "provenance": {
-        "retrieved_via": "通道C：WebSearch 多组关键词兜底命中(彭博原题)；彭博付费墙无真实署名",
-        "evidence_url": "https://livemint.com/news/world/total-world-latest-news-on-august-10-2026-live-updates-11786327615207.html",
-        "evidence_note": "Bloomberg 8月10日报道(经LiveMint转载)；彭博付费墙严，authors_status=not_available"
+        "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 关键词（Bloomberg Navarro China avoid tariffs AI transshipment / 彭博 纳瓦罗 中国 转运）+ 视频稿补全",
+        "evidence_url": "https://www.bloomberg.com/news/videos/navarro-ai-china-transshipment-network-2026-08-13",
+        "evidence_note": "Bloomberg 8月13日视频稿；机构/视频稿未具名个人记者，故 authors_status=not_available"
       },
       "_day": "2026-08-14"
     }
@@ -10794,54 +10686,53 @@
     "days_count": 6,
     "first_day": "2026-08-04",
     "last_day": "2026-08-14",
-    "total_articles": 133,
+    "total_articles": 131,
     "by_media": {
       "路透社": 99,
-      "彭博社": 34
+      "彭博社": 32
     },
     "by_topic": {
-      "半导体": 15,
+      "半导体": 14,
       "出口管制": 13,
       "宏观经济": 11,
       "人工智能": 9,
-      "AI芯片": 7,
       "企业动态": 6,
+      "AI芯片": 6,
       "军事安全": 5,
       "外交": 5,
       "出口": 5,
+      "中美科技竞争": 5,
       "太阳能": 5,
       "多晶硅": 5,
-      "AI": 5,
+      "中美经贸": 5,
       "经贸摩擦": 4,
       "新能源汽车": 4,
+      "能源": 4,
       "中美经贸摩擦": 4,
-      "中美科技竞争": 4,
       "国产替代": 4,
+      "港股": 4,
       "中日关系": 4,
+      "财报": 4,
       "台海": 4,
-      "军事": 4,
-      "中国台湾": 4,
+      "关税": 4,
+      "出海": 4,
       "人形机器人": 4,
+      "IPO": 4,
       "科技竞争": 3,
       "自然灾害": 3,
       "科技产业": 3,
-      "能源": 3,
+      "地缘": 3,
       "资本市场": 3,
       "FCC": 3,
-      "港股": 3,
       "开源模型": 3,
-      "财报": 3,
+      "地缘政治": 3,
+      "军事": 3,
       "中美科技战": 3,
+      "中国台湾": 3,
       "汉光演习": 3,
-      "关税": 3,
-      "中美经贸": 3,
-      "出海": 3,
       "台风": 3,
-      "中美贸易": 3,
-      "内需": 3,
       "智能制造": 3,
       "英伟达": 3,
-      "港股IPO": 3,
       "产业政策": 2,
       "社会民生": 2,
       "南海议题": 2,
@@ -10849,7 +10740,6 @@
       "对外投资": 2,
       "中欧关系": 2,
       "稳增长政策": 2,
-      "地缘": 2,
       "能源安全": 2,
       "红海航运": 2,
       "中东局势": 2,
@@ -10857,33 +10747,36 @@
       "A股": 2,
       "Section 232": 2,
       "防卫白皮书": 2,
-      "融资": 2,
       "原油": 2,
       "中美关系": 2,
-      "地缘政治": 2,
       "区域安全": 2,
-      "汽车": 2,
       "导弹": 2,
       "网络安全": 2,
       "中印关系": 2,
       "太平洋岛国": 2,
       "供应链安全": 2,
       "民生": 2,
-      "中东": 2,
+      "华为": 2,
+      "中国汽车": 2,
+      "中美科技": 2,
+      "中美贸易": 2,
+      "内需": 2,
       "苹果": 2,
       "科创板": 2,
-      "IPO": 2,
       "外汇": 2,
       "极端天气": 2,
       "反倾销": 2,
       "寒武纪": 2,
       "稀土": 2,
+      "AI": 2,
       "腾讯": 2,
       "比亚迪": 2,
       "中新关系": 2,
-      "间谍": 2,
+      "情报": 2,
+      "转运": 2,
       "自动驾驶": 2,
-      "Robotaxi": 2,
+      "robotaxi": 2,
+      "港交所": 2,
       "知识产权": 1,
       "涉疆议题": 1,
       "制裁": 1,
@@ -10930,6 +10823,7 @@
       "AI价格战": 1,
       "房地产": 1,
       "资产证券化": 1,
+      "融资": 1,
       "全球市场": 1,
       "科技股": 1,
       "反腐": 1,
@@ -10940,6 +10834,7 @@
       "科技制造": 1,
       "AI需求": 1,
       "台企": 1,
+      "汽车": 1,
       "中外合资": 1,
       "商业": 1,
       "朝鲜": 1,
@@ -10964,16 +10859,13 @@
       "陕西洪灾": 1,
       "台风海豚": 1,
       "中阿合作": 1,
-      "华为": 1,
       "中美博弈": 1,
-      "中国汽车": 1,
       "捷途": 1,
       "巴西": 1,
       "产能": 1,
       "涉华": 1,
       "跨境河流": 1,
       "水电": 1,
-      "中美科技": 1,
       "量化基金": 1,
       "金融": 1,
       "AI股": 1,
@@ -10983,6 +10875,7 @@
       "中国香港": 1,
       "餐饮": 1,
       "文化": 1,
+      "中东": 1,
       "芯片": 1,
       "开放权重": 1,
       "Meta": 1,
@@ -11049,54 +10942,51 @@
       "AI助手": 1,
       "华为昇腾": 1,
       "TrendForce": 1,
-      "大模型": 1,
-      "DeepSeek": 1,
-      "智能体": 1,
-      "中菲关系": 1,
+      "AI大模型": 1,
+      "算力定价": 1,
+      "推理模型": 1,
+      "欧洲电动车": 1,
       "南海": 1,
-      "经贸合作": 1,
-      "外交风波": 1,
-      "阿里巴巴": 1,
+      "中菲关系": 1,
+      "能源合作": 1,
+      "反间谍": 1,
+      "太空设施": 1,
+      "阿里": 1,
       "Apple Intelligence": 1,
+      "AI合规": 1,
       "中芯国际": 1,
-      "涨价": 1,
-      "转运": 1,
-      "贸易战": 1,
+      "晶圆代工": 1,
+      "贸易执法": 1,
       "小马智行": 1,
       "Uber": 1,
-      "电动车": 1,
-      "伊朗战争": 1,
+      "电动卡车": 1,
+      "伊朗": 1,
+      "三一": 1,
       "微软": 1,
-      "科技脱钩": 1,
+      "在华业务": 1,
       "Azure": 1,
-      "中印贸易": 1,
+      "贸易救济": 1,
       "光纤": 1,
-      "商务部": 1,
+      "中印": 1,
       "芯片设计": 1,
-      "安全事故": 1,
-      "造船": 1,
+      "AI加速器": 1,
+      "安全生产": 1,
+      "船厂": 1,
       "福建": 1,
-      "太阳能逆变器": 1,
+      "事故": 1,
+      "光伏逆变器": 1,
       "欧盟": 1,
-      "贸易壁垒": 1,
-      "新能源": 1,
+      "阳光电源": 1,
+      "贸易限制": 1,
       "文远知行": 1,
       "Shein": 1,
-      "跨境电商业": 1,
-      "上市": 1,
-      "卫星追踪": 1,
-      "安全": 1,
-      "中国经济": 1,
-      "高科技": 1,
-      "放缓": 1,
-      "央行": 1,
-      "黄金储备": 1,
-      "外汇储备": 1,
-      "多元化": 1,
-      "摩尔线程": 1,
-      "国产算力": 1,
-      "防务预算": 1,
-      "美台": 1
+      "跨境快时尚": 1,
+      "太空": 1,
+      "科研安全": 1,
+      "京东": 1,
+      "电商": 1,
+      "AI执法": 1,
+      "纳瓦罗": 1
     },
     "sentiment_trend": [
       {
@@ -11131,42 +11021,30 @@
       },
       {
         "date": "2026-08-14",
-        "negative": 7,
-        "neutral": 14,
-        "positive": 0
+        "negative": 8,
+        "neutral": 6,
+        "positive": 5
       }
     ],
     "cited_source_freq": [
       [
         "路透社",
-        32
+        35
       ],
       [
         "彭博社",
-        16
+        12
       ],
       [
         "中国人民银行",
-        7
+        6
       ],
       [
         "华为",
-        7
-      ],
-      [
-        "美国白宫",
-        5
-      ],
-      [
-        "中国外交部",
-        5
+        6
       ],
       [
         "商务部",
-        4
-      ],
-      [
-        "阿里巴巴",
         4
       ],
       [
@@ -11174,8 +11052,20 @@
         4
       ],
       [
+        "美国白宫",
+        4
+      ],
+      [
+        "中国外交部",
+        4
+      ],
+      [
         "腾讯",
         4
+      ],
+      [
+        "阿里巴巴",
+        3
       ],
       [
         "比亚迪",
@@ -11183,10 +11073,6 @@
       ],
       [
         "中金公司",
-        3
-      ],
-      [
-        "中国国家统计局",
         3
       ],
       [
@@ -11202,10 +11088,6 @@
         3
       ],
       [
-        "DeepSeek",
-        3
-      ],
-      [
         "宇树科技",
         3
       ],
@@ -11214,19 +11096,7 @@
         3
       ],
       [
-        "字节跳动",
-        3
-      ],
-      [
-        "香港交易所",
-        3
-      ],
-      [
         "智库/研究机构",
-        2
-      ],
-      [
-        "欧盟委员会",
         2
       ],
       [
@@ -11250,7 +11120,15 @@
         2
       ],
       [
+        "知情人士",
+        2
+      ],
+      [
         "欧盟",
+        2
+      ],
+      [
+        "中信证券",
         2
       ],
       [
@@ -11263,6 +11141,10 @@
       ],
       [
         "经济学人智库EIU",
+        2
+      ],
+      [
+        "中国国家统计局",
         2
       ],
       [
@@ -11302,7 +11184,11 @@
         2
       ],
       [
-        "中国台湾中央社",
+        "DeepSeek",
+        2
+      ],
+      [
+        "Shein",
         2
       ],
       [
@@ -11334,19 +11220,23 @@
         2
       ],
       [
+        "字节跳动",
+        2
+      ],
+      [
         "华尔街见闻",
         2
       ],
       [
-        "新西兰安全情报局",
+        "新西兰安全情报局（NZSIS）",
         2
       ],
       [
-        "Uber",
+        "彼得·纳瓦罗（白宫贸易顾问）",
         2
       ],
       [
-        "希音(Shein)",
+        "美国海关与边境保护局（CBP）",
         2
       ],
       [
@@ -11359,6 +11249,10 @@
       ],
       [
         "意大利央行",
+        1
+      ],
+      [
+        "欧盟委员会",
         1
       ],
       [
@@ -11430,10 +11324,6 @@
         1
       ],
       [
-        "知情人士",
-        1
-      ],
-      [
         "马斯克",
         1
       ],
@@ -11471,10 +11361,6 @@
       ],
       [
         "经济学家（未具名）",
-        1
-      ],
-      [
-        "中信证券",
         1
       ],
       [
@@ -12034,10 +11920,6 @@
         1
       ],
       [
-        "Shein",
-        1
-      ],
-      [
         "六名知情人士",
         1
       ],
@@ -12047,6 +11929,10 @@
       ],
       [
         "特拉华大学 Sheng Lu 教授",
+        1
+      ],
+      [
+        "中国台湾中央社",
         1
       ],
       [
@@ -12330,11 +12216,15 @@
         1
       ],
       [
-        "国盛证券",
+        "深度求索官方发布",
         1
       ],
       [
-        "中国汽车工业协会",
+        "行业估值数据",
+        1
+      ],
+      [
+        "行业销量数据",
         1
       ],
       [
@@ -12342,47 +12232,39 @@
         1
       ],
       [
-        "小马科斯",
+        "三位知情人士",
         1
       ],
       [
-        "苹果公司",
+        "国家网信办（CAC）",
         1
       ],
       [
-        "中国国家网信办",
+        "中芯国际财报",
         1
       ],
       [
-        "路透社(三位知情人士)",
+        "白宫报告",
         1
       ],
       [
-        "中芯国际",
+        "中国驻美使馆",
         1
       ],
       [
-        "赵海军(联合CEO)",
+        "小马智行",
         1
       ],
       [
-        "高盛",
+        "Uber",
         1
       ],
       [
-        "美国海关与边境保护局",
+        "出口数据",
         1
       ],
       [
-        "小马智行(Pony.ai)",
-        1
-      ],
-      [
-        "中国车企",
-        1
-      ],
-      [
-        "中东进口商",
+        "三一重工",
         1
       ],
       [
@@ -12390,23 +12272,15 @@
         1
       ],
       [
-        "微软亚洲研究院",
+        "港交所文件",
         1
       ],
       [
-        "印度光纤出口商",
+        "农银国际",
         1
       ],
       [
-        "奇异摩尔(Kiwimoore)",
-        1
-      ],
-      [
-        "路透社(两位知情人士)",
-        1
-      ],
-      [
-        "福建省相关部门",
+        "地方应急部门",
         1
       ],
       [
@@ -12414,43 +12288,35 @@
         1
       ],
       [
-        "阳光电源",
+        "行业市场数据",
         1
       ],
       [
-        "文远知行(WeRide)",
+        "文远知行（WeRide）",
         1
       ],
       [
-        "路透社(知情人士)",
+        "港交所",
         1
       ],
       [
-        "彭博经济研究(Bloomberg Economics)",
+        "中国科学院紫金山天文台",
         1
       ],
       [
-        "牛津经济研究院(Louise Loo)",
+        "京东财报",
         1
       ],
       [
-        "澳新银行(杨宇霆团队)",
+        "彭博（The China Show）",
         1
       ],
       [
-        "世界黄金协会",
+        "港股市场",
         1
       ],
       [
-        "摩尔线程(Moore Threads)",
-        1
-      ],
-      [
-        "台湾地区防务部门",
-        1
-      ],
-      [
-        "美国特朗普政府",
+        "彭博视频",
         1
       ]
     ],
@@ -12489,6 +12355,16 @@
         ]
       },
       {
+        "topic": "能源",
+        "count": 4,
+        "days": [
+          "2026-08-04",
+          "2026-08-07",
+          "2026-08-12",
+          "2026-08-14"
+        ]
+      },
+      {
         "topic": "出口",
         "count": 4,
         "days": [
@@ -12499,17 +12375,17 @@
         ]
       },
       {
-        "topic": "军事",
+        "topic": "港股",
         "count": 4,
         "days": [
           "2026-08-06",
-          "2026-08-07",
+          "2026-08-11",
           "2026-08-12",
           "2026-08-14"
         ]
       },
       {
-        "topic": "中国台湾",
+        "topic": "中美经贸",
         "count": 4,
         "days": [
           "2026-08-07",
@@ -12537,12 +12413,12 @@
         ]
       },
       {
-        "topic": "能源",
+        "topic": "地缘",
         "count": 3,
         "days": [
           "2026-08-04",
           "2026-08-07",
-          "2026-08-12"
+          "2026-08-14"
         ]
       },
       {
@@ -12555,16 +12431,16 @@
         ]
       },
       {
-        "topic": "国产替代",
+        "topic": "中美科技竞争",
         "count": 3,
         "days": [
           "2026-08-06",
           "2026-08-11",
-          "2026-08-12"
+          "2026-08-14"
         ]
       },
       {
-        "topic": "港股",
+        "topic": "国产替代",
         "count": 3,
         "days": [
           "2026-08-06",
@@ -12591,10 +12467,46 @@
         ]
       },
       {
+        "topic": "地缘政治",
+        "count": 3,
+        "days": [
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-14"
+        ]
+      },
+      {
+        "topic": "财报",
+        "count": 3,
+        "days": [
+          "2026-08-06",
+          "2026-08-12",
+          "2026-08-14"
+        ]
+      },
+      {
         "topic": "台海",
         "count": 3,
         "days": [
           "2026-08-06",
+          "2026-08-11",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "军事",
+        "count": 3,
+        "days": [
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-12"
+        ]
+      },
+      {
+        "topic": "中国台湾",
+        "count": 3,
+        "days": [
+          "2026-08-07",
           "2026-08-11",
           "2026-08-12"
         ]
@@ -12609,30 +12521,12 @@
         ]
       },
       {
-        "topic": "中美经贸",
-        "count": 3,
-        "days": [
-          "2026-08-07",
-          "2026-08-11",
-          "2026-08-12"
-        ]
-      },
-      {
         "topic": "台风",
         "count": 3,
         "days": [
           "2026-08-07",
           "2026-08-11",
           "2026-08-12"
-        ]
-      },
-      {
-        "topic": "中美贸易",
-        "count": 3,
-        "days": [
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-14"
         ]
       },
       {
@@ -12677,14 +12571,6 @@
         ]
       },
       {
-        "topic": "地缘",
-        "count": 2,
-        "days": [
-          "2026-08-04",
-          "2026-08-07"
-        ]
-      },
-      {
         "topic": "中东局势",
         "count": 2,
         "days": [
@@ -12706,14 +12592,6 @@
         "days": [
           "2026-08-06",
           "2026-08-07"
-        ]
-      },
-      {
-        "topic": "中美科技竞争",
-        "count": 2,
-        "days": [
-          "2026-08-06",
-          "2026-08-11"
         ]
       },
       {
@@ -12757,14 +12635,6 @@
         ]
       },
       {
-        "topic": "融资",
-        "count": 2,
-        "days": [
-          "2026-08-06",
-          "2026-08-14"
-        ]
-      },
-      {
         "topic": "原油",
         "count": 2,
         "days": [
@@ -12778,30 +12648,6 @@
         "days": [
           "2026-08-06",
           "2026-08-07"
-        ]
-      },
-      {
-        "topic": "地缘政治",
-        "count": 2,
-        "days": [
-          "2026-08-06",
-          "2026-08-07"
-        ]
-      },
-      {
-        "topic": "财报",
-        "count": 2,
-        "days": [
-          "2026-08-06",
-          "2026-08-12"
-        ]
-      },
-      {
-        "topic": "汽车",
-        "count": 2,
-        "days": [
-          "2026-08-06",
-          "2026-08-14"
         ]
       },
       {
@@ -12837,6 +12683,22 @@
         ]
       },
       {
+        "topic": "华为",
+        "count": 2,
+        "days": [
+          "2026-08-07",
+          "2026-08-14"
+        ]
+      },
+      {
+        "topic": "中国汽车",
+        "count": 2,
+        "days": [
+          "2026-08-07",
+          "2026-08-14"
+        ]
+      },
+      {
         "topic": "出海",
         "count": 2,
         "days": [
@@ -12845,11 +12707,19 @@
         ]
       },
       {
-        "topic": "中东",
+        "topic": "中美科技",
         "count": 2,
         "days": [
           "2026-08-07",
           "2026-08-14"
+        ]
+      },
+      {
+        "topic": "中美贸易",
+        "count": 2,
+        "days": [
+          "2026-08-11",
+          "2026-08-12"
         ]
       },
       {
@@ -12874,6 +12744,14 @@
         "days": [
           "2026-08-11",
           "2026-08-12"
+        ]
+      },
+      {
+        "topic": "IPO",
+        "count": 2,
+        "days": [
+          "2026-08-11",
+          "2026-08-14"
         ]
       },
       {
@@ -12935,42 +12813,66 @@
     ],
     "important_negatives": [
       {
-        "id": "20260814-reuters-china-rejects-nz-spy-allegations",
+        "id": "20260814-reuters-china-rejects-nz-spy-claims",
         "date": "2026-08-14",
         "media": "路透社",
-        "title_zh": "中方驳斥新西兰间谍指控，称其内容不实",
+        "title_zh": "中方驳斥新西兰安全情报局'间谍'指控，称系'编造炒作'",
         "importance": "medium",
         "day": "2026-08-14"
       },
       {
-        "id": "20260814-reuters-white-house-transshipped-tariffs",
+        "id": "20260814-reuters-white-house-transshipped-goods",
         "date": "2026-08-14",
         "media": "路透社",
-        "title_zh": "白宫称经第三国转运商品致美国损失190亿至260亿美元关税",
+        "title_zh": "白宫称转运中国货年损关税190亿~260亿美元，点名约40国",
         "importance": "high",
         "day": "2026-08-14"
       },
       {
-        "id": "20260814-bloomberg-high-tech-boom-slowdown",
+        "id": "20260814-bloomberg-jd-slumps-first-revenue-decline",
         "date": "2026-08-14",
         "media": "彭博社",
-        "title_zh": "彭博：中国高科技热潮料难阻挡经济放缓势头",
+        "title_zh": "京东股价暴跌，上市以来首次季度营收下滑",
         "importance": "high",
         "day": "2026-08-14"
       },
       {
-        "id": "20260814-reuters-eu-curbs-solar-inverters",
+        "id": "20260813-reuters-microsoft-retreats-china",
         "date": "2026-08-13",
         "media": "路透社",
-        "title_zh": "欧盟限制中国太阳能逆变器，SMA Solar称将利好欧洲供应商",
+        "title_zh": "微软五年关停至少15家在华实体，AI热潮撑开撤退窗口",
         "importance": "medium",
         "day": "2026-08-14"
       },
       {
-        "id": "20260814-reuters-china-observatory-nz",
+        "id": "20260813-reuters-fujian-shipyard-explosion",
         "date": "2026-08-13",
         "media": "路透社",
-        "title_zh": "新西兰安全机构称中国关联观测站曾谋求在新设站，中方否认",
+        "title_zh": "福建福安一船厂起火爆炸，1名消防员牺牲、12人受伤",
+        "importance": "low",
+        "day": "2026-08-14"
+      },
+      {
+        "id": "20260813-reuters-eu-chinese-solar-inverters",
+        "date": "2026-08-13",
+        "media": "路透社",
+        "title_zh": "欧盟限制中国光伏逆变器，SMA称欧企或增约10%份额",
+        "importance": "medium",
+        "day": "2026-08-14"
+      },
+      {
+        "id": "20260813-reuters-chinese-observatory-new-zealand",
+        "date": "2026-08-13",
+        "media": "路透社",
+        "title_zh": "新西兰称紫金山天文台试图在新生安装卫星追踪设施，已挫败",
+        "importance": "medium",
+        "day": "2026-08-14"
+      },
+      {
+        "id": "20260813-bloomberg-navarro-ai-transshipment",
+        "date": "2026-08-13",
+        "media": "彭博社",
+        "title_zh": "纳瓦罗称多国助华避关税，白宫用AI打击'影子转运网络'",
         "importance": "medium",
         "day": "2026-08-14"
       },
@@ -13061,14 +12963,6 @@
         "title_zh": "习特峰会前，中国对美墨山核桃征收高额反倾销保证金",
         "importance": "high",
         "day": "2026-08-11"
-      },
-      {
-        "id": "20260814-bloomberg-taiwan-record-defense-budget",
-        "date": "2026-08-10",
-        "media": "彭博社",
-        "title_zh": "彭博：台湾计划创纪录防务预算以‘抗衡大陆’",
-        "importance": "medium",
-        "day": "2026-08-14"
       },
       {
         "id": "20260809-reuters-taiwan-defence-2027",
@@ -13313,18 +13207,18 @@
     ],
     "penetration": {
       "运行天数": 6,
-      "累计报道": 133,
-      "覆盖议题": 297,
-      "覆盖信源": 329,
-      "负面累计": 47
+      "累计报道": 131,
+      "覆盖议题": 295,
+      "覆盖信源": 323,
+      "负面累计": 49
     }
   },
   "stats": {
-    "total": 133,
+    "total": 131,
     "days": 6,
-    "negatives": 47,
-    "with_author": 50,
+    "negatives": 49,
+    "with_author": 59,
     "with_body": 18,
-    "with_sources": 110
+    "with_sources": 108
   }
 }
