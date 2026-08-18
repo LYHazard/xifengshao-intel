@@ -1,5 +1,5 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-08-17T17:34:00+08:00",
+  "generated_at": "2026-08-18T18:25:47+08:00",
   "days": {
     "2026-08-17": {
       "file": "2026-08-17.json",
@@ -13,10 +13,10 @@ window.__XFS_DATA__ = {
           "note": "通道A→C：路透中国栏目(https://www.reuters.com/world/china/)WebFetch 直连成功，取得8/16~8/17涉中标题与URL（希音IPO、中国台湾防务、阿里售灵犀、习近平主持江泽民百年诞辰、汉堡市场、亚股中国领涨、特朗普缩减美韩军演、新西兰a2牛奶等）；单篇正文被JS墙拦截，转 WebSearch 多组关键词（引号标题+媒体名）经 Yahoo Finance/AOL/ChannelNewsAsia 等转载源补全真实署名与摘要。经 Google News RSS 补充确认涉中条目（7月宏观、房价、原油囤购、清洁电力浪费、Breakingviews对欧贸易）。共12篇；7篇取得真实记者署名（Summer Zhen/Kane Wu、Ben Blanchard、Kane Wu/Eduardo Baptista、Sophie Yu/Casey Hall、Kevin Yao/Ethan Wang、Stella Qiu、Costas Pitas/David Lawder），5篇机构稿/专栏未具名（习近平纪念、房价、原油囤购、清洁电力浪费、Breakingviews）。其中房价/原油/清洁电力/Breakingviews 因单篇JS墙，article URL 由标题重建并标注。本窗口主线：中国经济7月全面走弱、房地产低迷、人民币走强、中企出海（希音/阿里）、新能源消纳困境、台海军备与美韩军演降温。"
         },
         "bloomberg": {
-          "captured": 6,
-          "with_author": 0,
+          "captured": 7,
+          "with_author": 1,
           "with_fulltext": 0,
-          "note": "通道C：彭博首页(https://www.bloomberg.com/)直连被反爬/机器人验证拦截（fetch failed），无法直连，转 WebSearch 多组关键词（Bloomberg China economy/yuan/HK stocks/home prices/Qwen/江泽民）+ Bloomberg Markets 页与中文财经/视频转载源兜底，共6篇（经济全面走弱、人民币三年半新高、中国香港股市反弹、房价降幅最缓、通义千问下载破30亿、习近平主持江泽民百年诞辰）。彭博付费墙严，6篇均未取得真实记者具名（机构稿/视频稿），authors_status=not_available。URL 中经济篇经 Bloomberg Markets 页确认，其余由标题重建并标注。彭博本窗口原创涉中条目偏少，主要受付费墙与直连拦截限制，已如实标注。"
+          "note": "通道C：彭博首页(https://www.bloomberg.com/)直连被反爬/机器人验证拦截（fetch failed），无法直连，转 WebSearch 多组关键词（Bloomberg China economy/yuan/HK stocks/home prices/Qwen/江泽民）+ Bloomberg Markets 页与中文财经/视频转载源兜底，共6篇（经济全面走弱、人民币三年半新高、中国香港股市反弹、房价降幅最缓、通义千问下载破30亿、习近平主持江泽民百年诞辰）。彭博付费墙严，6篇均未取得真实记者具名（机构稿/视频稿），authors_status=not_available。URL 中经济篇经 Bloomberg Markets 页确认，其余由标题重建并标注。彭博本窗口原创涉中条目偏少，主要受付费墙与直连拦截限制，已如实标注。【补录】2026-08-18 补入彭博《AI Today》通讯1篇（中国开放权重AI模型促使美国行业重估战略，作者 Saritha Rai，已具名），原8/17扫描未覆盖通讯(newsletter)形态而漏采。"
         }
       },
       "enriched_at": null,
@@ -331,6 +331,52 @@ window.__XFS_DATA__ = {
             "彭博社",
             "官方数据/企业披露",
             "市场数据"
+          ]
+        },
+        {
+          "id": "20260817-bloomberg-china-open-weight-ai-today",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China’s open-weight AI models are prompting US players to reconsider their strategy",
+          "title_zh": "中国开放权重AI模型正促使美国行业参与者重新评估战略",
+          "published_at": "2026-08-17",
+          "published_precision": "day",
+          "authors": [
+            "Saritha Rai"
+          ],
+          "author_locations": "",
+          "authors_status": "named",
+          "topics": [
+            "中美AI竞争",
+            "开放权重模型",
+            "开源AI",
+            "美国监管",
+            "行业游说"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博《AI Today》通讯（作者 Saritha Rai）8月17日报道——一封措辞恳切、标注日期为7月24日、由逾20余家科技企业在华盛顿递交的联名信引发关注：信中企业标识排布长达一页半。以英伟达（Nvidia）、微软（Microsoft）领衔，Meta、Hugging Face、安德森·霍洛维茨（a16z）等联署，警告监管方不要对“开放权重”（open-weight）AI模型施加“过早”限制——此类模型可被下载、修改与再分发，约束极少。引人注目的是，在闭源闭源之争中利益最大的两家实验室 Anthropic 与 OpenAI 并未署名。通讯副标题点明：英伟达与 Meta 的发布，是对“美国护城河正在失效”的默认承认。",
+          "china_angle": "以“中国开放权重模型倒逼美国业界重估战略”为报道主线，凸显中国开源/开放权重AI（DeepSeek、通义、Kimi等）已实质性改变美方生态与监管博弈；中方开源路径从“可选项”变为“必选项”，是中美AI竞争叙事中的关键转折信号。",
+          "stance": "中性（彭博《AI Today》通讯，引述联名信与行业动态，呈现美国业界在开放权重模型上的立场分化）",
+          "source_url": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy",
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：7/24 逾20余家美企（Nvidia、Microsoft、Meta、Hugging Face、a16z 领衔）向华盛顿递交联名信，反对对开放权重模型“过早”设限；Anthropic、OpenAI 缺席（闭源专有模型上利益最大）。研判：① 信号意义大于政策本身——美方前沿实验室与开放阵营罕见割裂，反映中国开源模型（低成本、可本地部署）已在美国开发者与企业中形成真实替代引力，迫使美企游说保全开放生态；② 彭博以“Nvidia/Meta 发布即承认美国护城河不保”作副标题，点出美方“封闭前沿+出口管制”路线在开源扩散前的被动；③ 与近期线索互证：硅谷近200家初创协会联署反对限制中国开放权重模型（8/10 新浪援引）、OpenRouter 美国流量中中国模型占比攀升、通义下载破30亿——中国开源权重已成美国监管与产业无法忽视的变量。后续关注：美监管是否就开放权重模型立法设限，及 Anthropic/OpenAI 的差异化立场。",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 多组关键词 + WebFetch 彭博 origin 直连取得导语段与署名；付费墙后正文其余段落不可得）",
+            "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy",
+            "evidence_note": "Bloomberg AI Today 通讯 2026-08-17，作者 Saritha Rai；导语段经 WebFetch 取得；彭博付费墙，正文后续段落未获取；属 backfill（原8/17扫描未覆盖通讯(newsletter)形态而漏采）"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "Nvidia",
+            "Microsoft",
+            "Meta",
+            "Hugging Face",
+            "Andreessen Horowitz (a16z)",
+            "Anthropic",
+            "OpenAI",
+            "美国监管方（白宫/相关机构）"
           ]
         },
         {
@@ -726,14 +772,14 @@ window.__XFS_DATA__ = {
         }
       ],
       "daily_analysis": {
-        "total": 18,
+        "total": 19,
         "by_media": {
           "路透社": 12,
-          "彭博社": 6
+          "彭博社": 7
         },
         "sentiment_split": {
           "negative": 7,
-          "neutral": 6,
+          "neutral": 7,
           "positive": 5
         },
         "negatives": [
@@ -20343,16 +20389,63 @@ window.__XFS_DATA__ = {
         "市场数据"
       ],
       "_day": "2026-08-17"
+    },
+    {
+      "id": "20260817-bloomberg-china-open-weight-ai-today",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China’s open-weight AI models are prompting US players to reconsider their strategy",
+      "title_zh": "中国开放权重AI模型正促使美国行业参与者重新评估战略",
+      "published_at": "2026-08-17",
+      "published_precision": "day",
+      "authors": [
+        "Saritha Rai"
+      ],
+      "author_locations": "",
+      "authors_status": "named",
+      "topics": [
+        "中美AI竞争",
+        "开放权重模型",
+        "开源AI",
+        "美国监管",
+        "行业游说"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博《AI Today》通讯（作者 Saritha Rai）8月17日报道——一封措辞恳切、标注日期为7月24日、由逾20余家科技企业在华盛顿递交的联名信引发关注：信中企业标识排布长达一页半。以英伟达（Nvidia）、微软（Microsoft）领衔，Meta、Hugging Face、安德森·霍洛维茨（a16z）等联署，警告监管方不要对“开放权重”（open-weight）AI模型施加“过早”限制——此类模型可被下载、修改与再分发，约束极少。引人注目的是，在闭源闭源之争中利益最大的两家实验室 Anthropic 与 OpenAI 并未署名。通讯副标题点明：英伟达与 Meta 的发布，是对“美国护城河正在失效”的默认承认。",
+      "china_angle": "以“中国开放权重模型倒逼美国业界重估战略”为报道主线，凸显中国开源/开放权重AI（DeepSeek、通义、Kimi等）已实质性改变美方生态与监管博弈；中方开源路径从“可选项”变为“必选项”，是中美AI竞争叙事中的关键转折信号。",
+      "stance": "中性（彭博《AI Today》通讯，引述联名信与行业动态，呈现美国业界在开放权重模型上的立场分化）",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy",
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：7/24 逾20余家美企（Nvidia、Microsoft、Meta、Hugging Face、a16z 领衔）向华盛顿递交联名信，反对对开放权重模型“过早”设限；Anthropic、OpenAI 缺席（闭源专有模型上利益最大）。研判：① 信号意义大于政策本身——美方前沿实验室与开放阵营罕见割裂，反映中国开源模型（低成本、可本地部署）已在美国开发者与企业中形成真实替代引力，迫使美企游说保全开放生态；② 彭博以“Nvidia/Meta 发布即承认美国护城河不保”作副标题，点出美方“封闭前沿+出口管制”路线在开源扩散前的被动；③ 与近期线索互证：硅谷近200家初创协会联署反对限制中国开放权重模型（8/10 新浪援引）、OpenRouter 美国流量中中国模型占比攀升、通义下载破30亿——中国开源权重已成美国监管与产业无法忽视的变量。后续关注：美监管是否就开放权重模型立法设限，及 Anthropic/OpenAI 的差异化立场。",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 多组关键词 + WebFetch 彭博 origin 直连取得导语段与署名；付费墙后正文其余段落不可得）",
+        "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy",
+        "evidence_note": "Bloomberg AI Today 通讯 2026-08-17，作者 Saritha Rai；导语段经 WebFetch 取得；彭博付费墙，正文后续段落未获取；属 backfill（原8/17扫描未覆盖通讯(newsletter)形态而漏采）"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "Nvidia",
+        "Microsoft",
+        "Meta",
+        "Hugging Face",
+        "Andreessen Horowitz (a16z)",
+        "Anthropic",
+        "OpenAI",
+        "美国监管方（白宫/相关机构）"
+      ],
+      "_day": "2026-08-17"
     }
   ],
   "archive": {
     "days_count": 13,
     "first_day": "2026-08-04",
     "last_day": "2026-08-17",
-    "total_articles": 240,
+    "total_articles": 241,
     "by_media": {
       "路透社": 174,
-      "彭博社": 77
+      "彭博社": 78
     },
     "by_topic": {
       "出口管制": 23,
@@ -20824,7 +20917,12 @@ window.__XFS_DATA__ = {
       "中国金融": 1,
       "通义千问": 1,
       "中共高层": 1,
-      "政治": 1
+      "政治": 1,
+      "中美AI竞争": 1,
+      "开放权重模型": 1,
+      "开源AI": 1,
+      "美国监管": 1,
+      "行业游说": 1
     },
     "sentiment_trend": [
       {
@@ -20902,7 +21000,7 @@ window.__XFS_DATA__ = {
       {
         "date": "2026-08-17",
         "negative": 7,
-        "neutral": 6,
+        "neutral": 7,
         "positive": 5
       }
     ],
@@ -21000,6 +21098,14 @@ window.__XFS_DATA__ = {
         4
       ],
       [
+        "Anthropic",
+        3
+      ],
+      [
+        "OpenAI",
+        3
+      ],
+      [
         "新华社",
         3
       ],
@@ -21009,6 +21115,10 @@ window.__XFS_DATA__ = {
       ],
       [
         "中金公司",
+        3
+      ],
+      [
+        "Meta",
         3
       ],
       [
@@ -21053,14 +21163,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "智库/研究机构",
-        2
-      ],
-      [
-        "Anthropic",
-        2
-      ],
-      [
-        "OpenAI",
         2
       ],
       [
@@ -21121,10 +21223,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "Qcells",
-        2
-      ],
-      [
-        "Meta",
         2
       ],
       [
@@ -22813,6 +22911,26 @@ window.__XFS_DATA__ = {
       ],
       [
         "彭博社行情",
+        1
+      ],
+      [
+        "Nvidia",
+        1
+      ],
+      [
+        "Microsoft",
+        1
+      ],
+      [
+        "Hugging Face",
+        1
+      ],
+      [
+        "Andreessen Horowitz (a16z)",
+        1
+      ],
+      [
+        "美国监管方（白宫/相关机构）",
         1
       ]
     ],
@@ -25066,18 +25184,18 @@ window.__XFS_DATA__ = {
     ],
     "penetration": {
       "运行天数": 13,
-      "累计报道": 240,
-      "覆盖议题": 470,
-      "覆盖信源": 477,
+      "累计报道": 241,
+      "覆盖议题": 475,
+      "覆盖信源": 482,
       "负面累计": 88
     }
   },
   "stats": {
-    "total": 240,
+    "total": 241,
     "days": 13,
     "negatives": 83,
-    "with_author": 94,
+    "with_author": 95,
     "with_body": 18,
-    "with_sources": 217
+    "with_sources": 218
   }
 };
