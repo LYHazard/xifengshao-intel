@@ -1,6 +1,2142 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-08-18T18:25:47+08:00",
+  "generated_at": "2026-08-20T09:44:44+08:00",
   "days": {
+    "2026-08-20": {
+      "file": "2026-08-20.json",
+      "scan_time": "2026-08-20T09:00:00+08:00",
+      "window": "2026-08-19 ~ 2026-08-20 (GMT+8) — 路透+彭博涉华报道扫描",
+      "coverage": {
+        "reuters": {
+          "captured": 13,
+          "with_author": 12,
+          "with_fulltext": 0,
+          "note": "通道A成功(WebFetch reuters.com/world/china/ 首页直取13条真实URL)；通道C(WebSearch 多组关键词)成功补漏与交叉验证；数篇正文因JS拦截经转载源(Yahoo/经济时报/Euronext等)补全署名与摘要。付费墙/JS限制导致 with_fulltext=0，body_available 统一置 false。'China robot makers seek to turn humanoid hype into useful work' 原页JS拦截且转载源无真实署名，authors_status=not_available。"
+        },
+        "bloomberg": {
+          "captured": 7,
+          "with_author": 6,
+          "with_fulltext": 0,
+          "note": "通道A成功(WebFetch bloomberg.com 首页直取涉中标题与URL)；通道C(WebSearch 多组关键词)成功；新闻条目多无署名，'Unitree IPO'以 By Bloomberg News 机构署名呈现，按规范剥离为 not_available。付费墙严格，with_fulltext=0，body_available 统一置 false。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "20260820-reuters-ev-truck-bus",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China drove global electric truck, bus sales above half a million in 2025",
+          "title_zh": "2025年全球电动卡车与客车销量破50万辆，中国贡献近九成",
+          "published_at": "2026-08-20",
+          "published_precision": "day",
+          "authors": [
+            "Paolo Laudani"
+          ],
+          "author_locations": "格但斯克",
+          "authors_status": "named",
+          "topics": [
+            "电动汽车",
+            "商用车",
+            "清洁能源",
+            "贸易"
+          ],
+          "importance": "medium",
+          "summary_zh": "国际清洁交通委员会(ICCT)报告显示，2025年全球电动卡车与客车销量近翻倍，首次突破50万辆大关，同比增86%。中国贡献了其中近90%的销量，中重型卡车销量两年多来增长逾五倍。除中、美外，电动客车占零排放中重型车销量的56%，欧盟与印度分别以约9800辆和5000辆领跑；欧盟电动卡车销量增71%、市占率达4.5%。",
+          "china_angle": "中国是全球电动商用车绝对主导力量，凸显其在新能源产业链的先发与规模优势。",
+          "stance": "中性（数据性报道，偏正面呈现中国领先）",
+          "source_url": "https://www.reuters.com/world/china/china-drove-global-electric-truck-bus-sales-above-half-million-2025-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "国际清洁交通委员会(ICCT)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Paolo Laudani in Gdansk）",
+            "evidence_url": "https://www.reuters.com/world/china/china-drove-global-electric-truck-bus-sales-above-half-million-2025-2026-08-19/",
+            "evidence_note": "关键数字(86%、近90%、4.5%等)来自原页ICCT报告引述。"
+          }
+        },
+        {
+          "id": "20260820-reuters-sk-arctic-route",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "South Korean container ship will test Arctic route to Europe amid Western concern",
+          "title_zh": "韩国货轮将试航北极航线赴欧，西方盟友担忧需俄方许可",
+          "published_at": "2026-08-20",
+          "published_precision": "day",
+          "authors": [
+            "Brenda Goh",
+            "Joyce Lee"
+          ],
+          "author_locations": "首尔",
+          "authors_status": "named",
+          "topics": [
+            "航运",
+            "地缘政治",
+            "北极",
+            "中俄"
+          ],
+          "importance": "medium",
+          "summary_zh": "韩国将于周六派出集装箱船经北极前往欧洲，若成功将成为韩国首例经北极赴欧商业航次，与中俄一同跻身试水该航线的少数国家。该船从釜山出发，经英国费利克斯托、荷兰鹿特丹与波兰格但斯克，航程约40–45天。韩国海洋水产部称北极航线较苏伊士传统航线可缩短至多35%航程。但西方外交官不满该计划需俄方许可与配合，称“我们要孤立俄罗斯，而非与之接触”，并担忧触碰制裁。",
+          "china_angle": "报道指中国已在北极航线抢先布局（如Sea Legend Shipping计划开通定期集装箱服务），促使韩国加快积累运营经验以2030年实现常态商业服务。",
+          "stance": "中性（呈现地缘博弈两面）",
+          "source_url": "https://www.reuters.com/world/china/south-korean-container-ship-will-test-arctic-route-europe-amid-western-concern-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "韩国海洋水产部",
+            "泛星(PanStar)",
+            "高地北方物流中心(Centre for High North Logistics)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；By Brenda Goh and Joyce Lee）",
+            "evidence_url": "https://www.reuters.com/world/china/south-korean-container-ship-will-test-arctic-route-europe-amid-western-concern-2026-08-19/",
+            "evidence_note": "署名与航程、35%缩短等关键细节由原页确认。"
+          }
+        },
+        {
+          "id": "20260820-bloomberg-ck-hutchison-panama",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "CK Hutchison Seeks $1.5 Billion for Loss of Panama Assets",
+          "title_zh": "长江和记就巴拿马港口资产损失寻求15亿美元仲裁赔偿",
+          "published_at": "2026-08-20",
+          "published_precision": "day",
+          "authors": [
+            "Karen Leigh"
+          ],
+          "author_locations": "香港",
+          "authors_status": "named",
+          "topics": [
+            "港股",
+            "基建",
+            "国际仲裁",
+            "地缘政治"
+          ],
+          "importance": "medium",
+          "summary_zh": "长江和记(1.HK)已就巴拿马提起国际仲裁，就其在巴战略运河上两个港口投资损失索赔逾15亿美元。公司周四称，巴拿马通过2025年及今年的措施违反投资保护条约，最终导致巴尔博亚(Balboa)与克里斯托瓦尔(Cristobal)两港特许权终止、码头被接管。",
+          "china_angle": "香港巨头长江和记因巴拿马港口资产被接管发起仲裁，折射中资海外关键基础设施面临的地缘政治风险。",
+          "stance": "中性（企业/地缘动态）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/ck-hutchison-seeks-1-5-billion-for-destruction-of-panama-assets",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "长江和记(CK Hutchison)",
+            "巴拿马政府"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Karen Leigh）",
+            "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-20/ck-hutchison-seeks-1-5-billion-for-destruction-of-panama-assets",
+            "evidence_note": "15亿美元索赔、两港名称等由原页确认。"
+          }
+        },
+        {
+          "id": "20260820-bloomberg-byd-kei-japan",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "BYD Tries Where Others Failed With Tiny EV Designed for Japan",
+          "title_zh": "比亚迪推出日本微型电动车Racco，挑战前车之鉴",
+          "published_at": "2026-08-20",
+          "published_precision": "day",
+          "authors": [
+            "Nicholas Takahashi"
+          ],
+          "author_locations": "东京",
+          "authors_status": "named",
+          "topics": [
+            "电动汽车",
+            "出海",
+            "日本市场",
+            "比亚迪"
+          ],
+          "importance": "medium",
+          "summary_zh": "通用、福特、现代都曾因难以说服日本消费者转换品牌而在不同节点退出日本市场；全球最大电动车制造商比亚迪押注自己能成为首个打破这一格局者。比亚迪近期发布专为日本窄路设计的轻自动车(kei)电动车Racco，据公司称上市头几周获超1000笔订单。与其他5款在日车型不同，Racco首次瞄准日本最热门且最具本土特色的轻自动车细分市场。",
+          "china_angle": "中国车企比亚迪以本土化微型电动车切入日本市场，是中国新能源车出海深化的标志。",
+          "stance": "中性（偏正面，商业拓展）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-19/byd-tries-where-others-failed-with-tiny-ev-designed-for-japan",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "比亚迪(BYD)",
+            "通用(GM)",
+            "福特(Ford)",
+            "现代(Hyundai)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Nicholas Takahashi）",
+            "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/byd-tries-where-others-failed-with-tiny-ev-designed-for-japan",
+            "evidence_note": "Racco、1000+订单、kei细分市场等细节由原页确认。"
+          }
+        },
+        {
+          "id": "20260820-bloomberg-hk-student-housing",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Hong Kong Banks Turn to Student Housing as Property Bright Spot",
+          "title_zh": "香港银行转向学生公寓，寻找地产亮点",
+          "published_at": "2026-08-20",
+          "published_precision": "day",
+          "authors": [
+            "Trista Xinyi Luo",
+            "Pearl Liu",
+            "Eunice Xu"
+          ],
+          "author_locations": "香港",
+          "authors_status": "named",
+          "topics": [
+            "香港地产",
+            "金融",
+            "学生公寓",
+            "信贷"
+          ],
+          "importance": "low",
+          "summary_zh": "香港地产低迷中，学生公寓成为少有亮点。中原投资(Centaline Investment)拟借款10亿港元(1.28亿美元)将老化的富豪东方酒店改造成学生公寓，引发多家顶尖银行争抢贷款权，其中中国银行(香港)击败兴业银行香港分行等对手胜出。在地产整体承压下，银行对学生公寓资产表现出不同寻常的兴趣。",
+          "china_angle": "中资背景银行(中银香港)在香港地产逆风中押注学生公寓细分资产，反映香港地产与信贷策略调整。",
+          "stance": "中性（市场动态）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-19/hong-kong-banks-turn-to-student-housing-as-property-bright-spot",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中原投资(Centaline Investment)",
+            "中国银行(香港)",
+            "兴业银行香港分行"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Trista Xinyi Luo, Pearl Liu and Eunice Xu）",
+            "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/hong-kong-banks-turn-to-student-housing-as-property-bright-spot",
+            "evidence_note": "10亿港元借款、中银香港胜出等细节由原页确认。"
+          }
+        },
+        {
+          "id": "20260820-reuters-eu-jd-probe",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China orders entities not to assist EU's JD.com probe",
+          "title_zh": "中国要求境内实体不得协助欧盟对京东的调查",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Yukun Zhang",
+            "Xiuhao Chen",
+            "Liz Lee"
+          ],
+          "author_locations": "北京",
+          "authors_status": "named",
+          "topics": [
+            "中欧关系",
+            "贸易摩擦",
+            "监管",
+            "电商"
+          ],
+          "importance": "high",
+          "summary_zh": "中国司法部周三表示，欧盟对中国电商巨头京东(9618.HK)的并购调查构成“不当域外管辖”，并命令境内实体不得实施或协助该调查。这是北京第二次援引今年4月出台的“反制外国非法域外管辖措施”规定。欧盟5月依《外国补贴条例》对京东25亿美元收购德国电子零售商Ceconomy展开调查，称其可能获补贴扭曲欧盟市场；中国司法部称欧方要求境内实体提供“大量不必要”信息，是“严重违反国际法治”，并警告“若欧盟坚持单边行动，中方将依法坚决反制”。此前5月中方曾对欧盟对同方威视的调查发出类似命令。",
+          "china_angle": "中方以“阻断立法”反制欧盟对中企跨境并购审查，凸显中欧经贸摩擦升级与中企出海合规风险。",
+          "stance": "负面（对抗性贸易/监管摩擦）",
+          "source_url": "https://www.reuters.com/business/retail-consumer/china-orders-entities-not-assist-eus-jdcom-probe-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国司法部",
+            "欧盟委员会",
+            "京东(JD.com)",
+            "Ceconomy"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "这是中美贸易休战期北京扩展“经济施压工具箱”的延续动作：援引4月出台的配套反制规则，禁止境内实体协助欧盟依《外国补贴条例》对京东并购德国Ceconomy的反补贴调查。此举将京东的海外扩张置于地缘政治夹缝——欧盟可强制调取境内数据，中方则以“阻断立法”反制。短期看，可能有两重影响：其一，提高中企跨境并购的法律不确定性，中企面临中欧双重合规要求；其二，若欧方坚持推进、中方兑现“依法反制”，将推高中欧经贸摩擦并削弱中国电商出海的可预期性。该案与5月同方威视案形成连环，显示北京已将“反域外管辖”作为常态化反制工具。",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Yukun Zhang, Xiuhao Chen and Liz Lee）",
+            "evidence_url": "https://www.reuters.com/business/retail-consumer/china-orders-entities-not-assist-eus-jdcom-probe-2026-08-19/",
+            "evidence_note": "25亿美元交易额、4月规定、5月同方威视先例等细节均由原页确认。"
+          }
+        },
+        {
+          "id": "20260820-reuters-nvidia-h200-china",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Nvidia H200 chips reach China in small shipments, FT reports",
+          "title_zh": "据FT报道，少量英伟达H200芯片运抵中国",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Shivani Tanna"
+          ],
+          "author_locations": "班加罗尔",
+          "authors_status": "named",
+          "topics": [
+            "半导体",
+            "人工智能",
+            "出口管制",
+            "中美科技"
+          ],
+          "importance": "high",
+          "summary_zh": "据《金融时报》周二报道，少量英伟达(NVDA.O)最先进AI芯片之一H200已被允许进入中国大陆，字节跳动与腾讯(0700.HK)近几周各获约1万颗H200处理器，少数其他中国科技企业也将很快获得类似供货。尽管美方已批准每家公司最多可购10万颗H200，但据FT，北京希望企业将硬件留在中国大陆以外（如香港）以支持本土芯片商成长。路透此前曾报道美方官员称已有少量H200运抵中国，路透未能独立核实FT报道，英伟达未置评。",
+          "china_angle": "高端AI算力对华“有限松绑”与地面现实：美出口管制未完全切断中国获取先进算力，但中方引导外购芯片境外部署以扶持国产供应链。",
+          "stance": "中性（事实引述，偏缓和）",
+          "source_url": "https://www.reuters.com/world/asia-pacific/nvidia-h200-chips-reach-china-small-shipments-ft-reports-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "金融时报(FT)",
+            "字节跳动",
+            "腾讯",
+            "英伟达(Nvidia)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Shivani Tanna in Bengaluru）",
+            "evidence_url": "https://www.reuters.com/world/asia-pacific/nvidia-h200-chips-reach-china-small-shipments-ft-reports-2026-08-19/",
+            "evidence_note": "约1万颗/每家、10万颗上限、香港部署等细节来自原页对FT报道的引述。"
+          }
+        },
+        {
+          "id": "20260820-bloomberg-us-china-ai-race",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "US Lead in the AI Race With China Is Rapidly Narrowing",
+          "title_zh": "中美AI竞赛美国领先优势快速收窄",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Luz Ding",
+            "Spe Chen",
+            "Hayley Warren"
+          ],
+          "author_locations": "",
+          "authors_status": "named",
+          "topics": [
+            "人工智能",
+            "中美竞争",
+            "开源模型"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博图形报道《中美AI竞赛：ChatGPT、Gemini、DeepSeek、Kimi对比》指出，在用量与成本等关键指标上，中国正迅速缩小与美国的差距并实现局部反超——如月之暗面Kimi K3以极低价格逼近美国顶尖模型水平。中国开源权重模型凭借激进定价在全球下载与调用量大幅提升，引发美国企业采用潮及政府对禁令利弊的权衡。尽管美国公司在消费级应用与估值上仍占优，但中国正通过价格战与人才集中策略赢得大规模商用市场。",
+          "china_angle": "中美AI竞争核心叙事：中国在开源与成本侧加速追赶美国。",
+          "stance": "中性（对比分析）",
+          "source_url": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "OpenAI(ChatGPT)",
+            "Google(Gemini)",
+            "DeepSeek",
+            "月之暗面(Kimi)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch bloomberg.com 首页与图形页确认标题与署名 By Luz Ding, Spe Chen, Hayley Warren）",
+            "evidence_url": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/",
+            "evidence_note": "署名与中美模型对比框架由彭博原页确认。"
+          }
+        },
+        {
+          "id": "20260820-bloomberg-unitree-ipo",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Why China's First Humanoid Robot IPO Has Investors in a Frenzy",
+          "title_zh": "中国首只人形机器人IPO引发投资者狂热",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "人形机器人",
+            "IPO",
+            "中美科技",
+            "投资"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博报道，能移动、工作、像人一样的机器人是一个摩根士丹利估计2050年规模可达5万亿美元的全球产业，也是中美技术霸权竞争的前沿之一。中国投资者(从国资基金到科技巨头与车企)今年已向该行业投入超1000亿元人民币(148亿美元)，押注中国能在机器人+AI融合上主导，使机器理解并与物理世界互动。宇树(Unitree)等中国厂商已在产量与真实部署上较特斯拉、Figure AI等美国对手取得早期领先。",
+          "china_angle": "中国首只人形机器人IPO标志本土具身智能产业资本化加速，成中美科技竞争新焦点。",
+          "stance": "中性（产业与资本叙事）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-19/unitree-ipo-why-investors-are-betting-big-on-china-s-humanoid-robots",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "宇树科技(Unitree)",
+            "摩根士丹利",
+            "特斯拉",
+            "Figure AI"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；署名仅显示 By Bloomberg News，无真实个人署名，按规范 authors_status=not_available）",
+            "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/unitree-ipo-why-investors-are-betting-big-on-china-s-humanoid-robots",
+            "evidence_note": "1000亿元人民币投入、5万亿美元预测来自原页引述。"
+          }
+        },
+        {
+          "id": "20260820-reuters-seoul-summit",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China considering summit with Seoul in November, South Korean foreign ministry says",
+          "title_zh": "韩国外交部称中方考虑11月APEC期间举行中韩首脑会晤",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Heejin Kim",
+            "Brenda Goh",
+            "Jasmeen Ara Shaikh"
+          ],
+          "author_locations": "首尔",
+          "authors_status": "named",
+          "topics": [
+            "中韩关系",
+            "外交",
+            "亚太"
+          ],
+          "importance": "medium",
+          "summary_zh": "韩国外交部称，中国外长王毅周三在首尔会见韩外长赵贤时表示，北京正“积极考虑”于11月深圳APEC峰会期间举行中韩首脑会晤，并邀请赵贤访华（后者已接受）。双方同意扩大人文交流，预计双向往来将超1000万人次；同意在服务贸易与投资、供应链稳定、文化交流及引进中国大熊猫等方面合作。赵贤敦促中国在推动朝鲜重返对话上发挥建设性作用。",
+          "china_angle": "中韩关系回暖信号，王毅访韩并推动首脑会晤，呼应地区外交缓和。",
+          "stance": "中性（偏正面，外交进展）",
+          "source_url": "https://www.reuters.com/world/china/china-considering-summit-with-seoul-november-south-korean-foreign-ministry-says-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "韩国外交部",
+            "新华社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Heejin Kim, Brenda Goh and Jasmeen Ara Shaikh）",
+            "evidence_url": "https://www.reuters.com/world/china/china-considering-summit-with-seoul-november-south-korean-foreign-ministry-says-2026-08-19/",
+            "evidence_note": "会晤细节与双方共识来自原页韩国外交部声明引述。"
+          }
+        },
+        {
+          "id": "20260820-reuters-wang-yi-seoul",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's Wang Yi in South Korea for talks amid Trump push to revive North Korea diplomacy",
+          "title_zh": "王毅访韩，恰逢特朗普推动重启朝鲜外交",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Kyu-Seok Shim",
+            "Heejin Kim"
+          ],
+          "author_locations": "首尔",
+          "authors_status": "named",
+          "topics": [
+            "中韩关系",
+            "朝鲜半岛",
+            "外交",
+            "美国"
+          ],
+          "importance": "medium",
+          "summary_zh": "中国外长王毅周三抵达首尔，与韩方官员会谈。媒体称此访恰逢美韩缩减联合军演之际，美国总统特朗普表示希望重启与朝鲜领导人金正恩的外交。报道指王毅访韩议题涵盖中韩关系与地区安全，背景是特朗普欲推动朝鲜半岛外交破冰。",
+          "china_angle": "王毅访韩是朝鲜半岛外交缓和链条中的一环，中国角色凸显。",
+          "stance": "中性（外交动态）",
+          "source_url": "https://www.reuters.com/world/china/chinas-wang-yi-south-korea-talks-amid-trump-push-revive-north-korea-diplomacy-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "韩国外交部",
+            "韩国媒体"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；By Kyu-Seok Shim and Heejin Kim）",
+            "evidence_url": "https://www.reuters.com/world/china/chinas-wang-yi-south-korea-talks-amid-trump-push-revive-north-korea-diplomacy-2026-08-19/",
+            "evidence_note": "署名与访韩背景由原页确认。"
+          }
+        },
+        {
+          "id": "20260820-reuters-ai-digital-sovereignty",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China urges respect for digital sovereignty in AI race",
+          "title_zh": "中国呼吁在AI竞争中尊重各国数字主权",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Ethan Wang",
+            "Liz Lee"
+          ],
+          "author_locations": "北京",
+          "authors_status": "named",
+          "topics": [
+            "人工智能",
+            "数字主权",
+            "中美关系",
+            "科技竞争"
+          ],
+          "importance": "medium",
+          "summary_zh": "中国外交部发言人林剑在例行记者会上表示，中国反对在AI领域“选边站队、搞阵营对立”，呼吁尊重各国数字主权。此番表态针对媒体有关“美国将要求数十个国家在中美AI竞赛中选边”的报道——据美方官员与路透看到的内部草案，美方拟警告若一国同时加入北京竞争性框架，将被排除在美国主导的AI联盟之外。林剑称“各国均有权根据自身国情与发展需要选择合作伙伴”。",
+          "china_angle": "中国在AI全球规则博弈中主打“数字主权/不选边”叙事，反制美方“选边”施压。",
+          "stance": "中性（中国立场陈述，背景为中美AI对抗）",
+          "source_url": "https://www.reuters.com/world/china/china-urges-respect-digital-sovereignty-ai-race-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国外交部(林剑)",
+            "美国官员",
+            "路透社内部草案"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Ethan Wang and Liz Lee）",
+            "evidence_url": "https://www.reuters.com/world/china/china-urges-respect-digital-sovereignty-ai-race-2026-08-19/",
+            "evidence_note": "林剑表态与美方“选边”草案背景由原页确认。"
+          }
+        },
+        {
+          "id": "20260820-reuters-robot-conference",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China robot makers seek to turn humanoid hype into useful work",
+          "title_zh": "中国机器人厂商力求将人形机器人热潮转化为实际生产力",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "人形机器人",
+            "人工智能",
+            "制造业",
+            "投资"
+          ],
+          "importance": "medium",
+          "summary_zh": "北京世界机器人大会周三开幕，300余家以本土企业为主的厂商参展，展出逾2000件展品、发布150余款新品，焦点从炫技转向商业落地。乐聚、Robotera、DexForce等展示分拣包裹、为手机装箱、物流搬运等真实场景应用；工信部副部长辛国斌表态支持，称机器人已成为中国经济社会发展“重要力量”。宇树科技(Unitree)同日在上交所科创板上市，IPO获超8000倍散户超额认购，首日股价一度较发行价飙涨约六倍。摩根士丹利数据显示，2026年上半年全球人形机器人出货约1.9万台（同比增272%），中国企业占97%，但约65%仍用于娱乐、教育、研究与数据收集而非生产。",
+          "china_angle": "中国人形机器人产业从演示走向规模化商用，成为对美科技竞争新赛道。",
+          "stance": "中性（产业报道，偏正面）",
+          "source_url": "https://www.reuters.com/world/asia-pacific/china-robot-makers-flock-beijing-show-seek-path-mass-adoption-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "世界机器人大会组委会",
+            "工信部(辛国斌)",
+            "摩根士丹利",
+            "宇树科技(Unitree)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A原页JS拦截；转经转载源(rallies.ai、经济时报)补全摘要与关键数字；原页无可见真实署名，authors_status=not_available",
+            "evidence_url": "https://rallies.ai/news/china-robot-makers-seek-to-turn-humanoid-hype-into-useful-work-65eb442a71a478d2",
+            "evidence_note": "300余家企业、2000余展品、宇树超额认购8000倍、摩根士丹利65%非生产用途等来自转载源对路透报道的复述。"
+          }
+        },
+        {
+          "id": "20260820-reuters-vdma-unitree",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Germany's VDMA lobby calls on Europe to step up on humanoid robotics as Unitree surges",
+          "title_zh": "德国VDMA敦促欧洲加码人形机器人，宇树科技上市引爆热潮",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Matthias Williams"
+          ],
+          "author_locations": "",
+          "authors_status": "named",
+          "topics": [
+            "人形机器人",
+            "中欧产业竞争",
+            "供应链"
+          ],
+          "importance": "medium",
+          "summary_zh": "德国工程协会VDMA周三呼吁将人形机器人提升至政治议程顶端，敦请德国与欧洲加快行动、建立关键零部件的本土韧性供应链。背景是宇树科技(Unitree)在上海科创板上市首日股价飙升（较150.80元发行价收涨逾460%），成为中国机器人产业的里程碑；该领域已成中美科技战“战场”。VDMA副执行总监Hartmut Rauen称“德国和欧洲必须建立涵盖关键部件本土生产的完整价值链”。数据显示，2026年上半年全球人形机器人出货近1.91万台(同比近四倍)，中国厂商主导。",
+          "china_angle": "中国(宇树等)在人形机器人量产与资本市场上领先，倒逼欧洲产业政策加速。",
+          "stance": "中性（产业竞争视角）",
+          "source_url": "https://www.reuters.com/world/china/germanys-vdma-lobby-calls-europe-step-up-humanoid-robotics-unitree-surges-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "德国VDMA工程协会",
+            "Hartmut Rauen",
+            "宇树科技(Unitree)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A原页JS拦截；转经转载源(Yahoo News/Global Banking & Finance)补全署名(Reporting by Matthias Williams)与摘要",
+            "evidence_url": "https://www.yahoo.com/news/articles/germanys-vdma-lobby-calls-europe-125814717.html",
+            "evidence_note": "VDMA表态、Rauen引语、1.91万台出货等来自转载源对路透报道的复述。"
+          }
+        },
+        {
+          "id": "20260820-reuters-zai-glm53",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's AI laggard could soon be its leader",
+          "title_zh": "中国AI“掉队者”Z.AI或很快成为领跑者",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Robyn Mak"
+          ],
+          "author_locations": "香港",
+          "authors_status": "named",
+          "topics": [
+            "人工智能",
+            " open-weight模型",
+            "资本市场",
+            "科技竞争"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透Breakingviews专栏分析：Z.AI(2513.HK)凭借全球最具竞争力之一的开源权重模型（最新GLM-5.3在网络防御能力上接近Anthropic受限模型Mythos 5），但这家估值620亿美元、仍在亏损的新锐依赖资本市场输血。相比之下，阿里(9988.HK)可凭电商与云利润、腾讯(0700.HK)可凭游戏与广告现金机器支撑AI野心。研究公司Epoch AI估测前沿模型训练成本每年增3.5倍，最先进训练或将很快突破10亿美元。Z.AI去年研发投入超30亿元人民币、销售额仅7.24亿元，且被迫出售股份融资——从资产负债表看，中国AI“掉队者”或很快成为“领跑者”。",
+          "china_angle": "中国AI格局从阿里/腾讯/百度扩展到Z.AI等资本密集型专精实验室，生态多元化。",
+          "stance": "中性（财经评论，分析性）",
+          "source_url": "https://www.reuters.com/commentary/breakingviews/chinas-ai-laggard-could-soon-be-its-leader-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "Z.AI",
+            "阿里(Alibaba)",
+            "腾讯(Tencent)",
+            "百度(Baidu)",
+            "Epoch AI",
+            "Visible Alpha"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；By Robyn Mak）",
+            "evidence_url": "https://www.reuters.com/commentary/breakingviews/chinas-ai-laggard-could-soon-be-its-leader-2026-08-19/",
+            "evidence_note": "GLM-5.3、620亿美元估值、30亿研发投入等关键数字由原页确认。"
+          }
+        },
+        {
+          "id": "20260820-bloomberg-alibaba-tech-stocks",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Alibaba Tops Chinese Tech Stocks This Quarter on AI Resurgence",
+          "title_zh": "AI复苏提振，阿里巴巴本季领跑中概科技股",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Jeanny Yu",
+            "Sunny Bangia"
+          ],
+          "author_locations": "香港",
+          "authors_status": "named",
+          "topics": [
+            "中概股",
+            "人工智能",
+            "投资",
+            "阿里"
+          ],
+          "importance": "medium",
+          "summary_zh": "阿里巴巴正重获投资者最青睐中国科技股之一的地位，市场押注其能在激烈的AI竞争中击败对手。其港股本季上涨34%，领先恒生科技指数，并在业绩(周四公布)前走出一轮涨势；阿里有望录得2025年初以来对腾讯的最大单季相对跑赢。",
+          "china_angle": "中国科技股AI叙事重燃，阿里凭借AI预期领跑。",
+          "stance": "正面（市场表现）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-19/alibaba-tops-chinese-tech-stocks-this-quarter-on-ai-resurgence",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "阿里巴巴",
+            "腾讯",
+            "恒生科技指数"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Jeanny Yu and Sunny Bangia）",
+            "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/alibaba-tops-chinese-tech-stocks-this-quarter-on-ai-resurgence",
+            "evidence_note": "34%涨幅、领先恒生科技指数等细节由原页确认。"
+          }
+        },
+        {
+          "id": "20260820-bloomberg-china-drug-deals",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Big Pharma Is Hooked on Chinese Licensing Deals",
+          "title_zh": "美国大型药企深陷中国授权交易，无视华盛顿压力",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Amber Tong",
+            "Robert Langreth"
+          ],
+          "author_locations": "",
+          "authors_status": "named",
+          "topics": [
+            "医药",
+            " license交易",
+            "中美经贸",
+            "创新"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博商业周刊报道，对美药企而言，与中国公司不断扩大的合作意味着更低成本与更多突破疗法可及性；对华盛顿批评者则意味风险。默沙东(Merck)高管曾兴奋于一款潜在“基石”抗癌药——其17项后期试验对标肺癌、乳腺癌等肿瘤，而该药并非默沙东自研，而是授权自四川科伦博泰(母公司十年前还以基础输液闻名)。美中药企今年截至7月底已达成至少32笔授权交易，2026年有望超过去年45笔的纪录；西方药企正在运行至少38项源自中国药物的全球后期试验。",
+          "china_angle": "中国创新药成全球药企“替代硅谷/剑桥”的来源，凸显中美生物医药深度捆绑。",
+          "stance": "中性（产业分析）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-19/china-drug-deals-keep-luring-us-pharma-despite-pressure-in-washington",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "默沙东(Merck)",
+            "四川科伦博泰",
+            "彭博情报(Bloomberg Intelligence)",
+            "ING(Diederik Stadig)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Amber Tong and Robert Langreth）",
+            "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/china-drug-deals-keep-luring-us-pharma-despite-pressure-in-washington",
+            "evidence_note": "32笔交易、45笔纪录、38项后期试验等数字由原页确认。"
+          }
+        },
+        {
+          "id": "20260820-reuters-rocket-tourism",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "In China, rocket launches fuel tourism and space-age dreams",
+          "title_zh": "中国火箭发射点燃旅游热与“航天梦”",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Maxim Shemetov"
+          ],
+          "author_locations": "",
+          "authors_status": "named",
+          "topics": [
+            "航天",
+            "文旅",
+            "社会文化"
+          ],
+          "importance": "low",
+          "summary_zh": "路透图文报道，海南文昌航天发射场周边海滩入夜后聚集数千游客举手机等待长征七号A火箭升空；文中提及一枚无人火箭升空后空中化为火球（中国官媒数小时后确认异常）。报道描绘航天成就如何渗入中国公众生活——从内蒙古火山地质公园的“火星模拟”旅拍、北京太空主题雕塑到泡泡玛特“太空 Molly”巨型装置，太空正成为集体文化体验。",
+          "china_angle": "展现中国航天公众化、文旅化趋势及民间对国家航天成就的自豪感。",
+          "stance": "中性（事实描绘，含发射异常但未做负面评判）",
+          "source_url": "https://www.reuters.com/science/china-rocket-launches-fuel-tourism-space-age-dreams-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国官媒",
+            "文昌航天发射场",
+            "北京新闻编辑室"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch reuters.com 直接抓取全文与署名 By Maxim Shemetov）",
+            "evidence_url": "https://www.reuters.com/science/china-rocket-launches-fuel-tourism-space-age-dreams-2026-08-19/",
+            "evidence_note": "署名与图文内容均由路透原页确认。"
+          }
+        },
+        {
+          "id": "20260820-reuters-chery-uk-rd",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's Chery Automobile to set up UK research centre",
+          "title_zh": "奇瑞汽车将在英国设立研发中心",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Simone Lobo"
+          ],
+          "author_locations": "班加罗尔",
+          "authors_status": "named",
+          "topics": [
+            "汽车",
+            "出海",
+            "研发",
+            "中英"
+          ],
+          "importance": "low",
+          "summary_zh": "奇瑞汽车宣布将于2026年内在英国设立研发中心，选址位于贝德福德郡UTAC Millbrook车辆开发与测试中心，预计2026年晚秋投运。该中心紧随其与日产关于英国制造客车的协议之后，旨在将英国用户洞察转化为产品开发，初期聚焦底盘与驾驶辅助系统，并逐步拓展至自动驾驶与人工智能。受具竞争力定价推动，中国车企今年上半年已占英国新车注册量约15%，奇瑞旗下JAECOO与OMODA品牌正扩大当地影响力。",
+          "china_angle": "中国汽车品牌加速英国本地化布局，研发中心落地是出海深化标志。",
+          "stance": "中性（偏正面，商业扩张）",
+          "source_url": "https://www.reuters.com/world/china/chinas-chery-automobile-set-up-uk-research-centre-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "奇瑞汽车",
+            "UTAC Millbrook",
+            "日产(Nissan)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Simone Lobo in Bengaluru）",
+            "evidence_url": "https://www.reuters.com/world/china/chinas-chery-automobile-set-up-uk-research-centre-2026-08-19/",
+            "evidence_note": "选址、投运时间、英国市占约15%等细节由原页确认。"
+          }
+        },
+        {
+          "id": "20260820-reuters-estee-lauder-china",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Estee Lauder bets on fragrances and skincare to deliver strong annual profit",
+          "title_zh": "雅诗兰黛押注香水与护肤业务，预计年度利润超预期，中国市场需求强劲",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Anuja Bharat Mistry"
+          ],
+          "author_locations": "班加罗尔",
+          "authors_status": "named",
+          "topics": [
+            "消费",
+            "美妆",
+            "中国市场",
+            "财报"
+          ],
+          "importance": "low",
+          "summary_zh": "雅诗兰黛预计年度利润高于多数华尔街预期，押注高端香水与护肤(如Le Labo、Balmain Beauty)的强劲需求，以及关键增长市场中国的出色表现。在CEO Stephane de La Faverie“Beauty Reimagined”转型战略下，公司加速高端新品上市、精简供应链并加大创新与营销投入。公司预计2027财年调整后每股收益3.10–3.35美元(中值高于LSEG共识3.18美元)，第四财季销售额36.3亿美元好于预期的35.4亿美元；与Puig的合并谈判已于5月破裂。公司还录得3800万美元关税退款收益，部分抵消全年1.02亿美元增量关税影响。",
+          "china_angle": "中国被列为关键增长市场，雅诗兰黛预计在华有机销售高增长并减少折扣。",
+          "stance": "正面（业绩与中国需求向好）",
+          "source_url": "https://www.reuters.com/business/retail-consumer/estee-lauder-forecasts-annual-profit-above-estimates-strong-china-demand-2026-08-19/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "雅诗兰黛",
+            "LSEG",
+            "eMarketer(Sky Canaves)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A原页JS拦截；转经转载源(Euronext Live、经济时报)补全署名(Reporting by Anuja Bharat Mistry in Bengaluru)与摘要",
+            "evidence_url": "https://live.euronext.com/en/financial-news/estee-lauder-forecasts-annual-profit-above-estimates-strong-china-demand",
+            "evidence_note": "EPS区间、销售额、关税数字来自转载源对路透报道的复述。"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 20,
+        "by_media": {
+          "路透社": 13,
+          "彭博社": 7
+        },
+        "sentiment_split": {
+          "negative": 1,
+          "neutral": 19,
+          "positive": 0
+        },
+        "negatives": [
+          "20260820-reuters-eu-jd-probe"
+        ],
+        "top_topics": [
+          [
+            "人工智能",
+            6
+          ],
+          [
+            "人形机器人",
+            3
+          ],
+          [
+            "投资",
+            3
+          ],
+          [
+            "电动汽车",
+            2
+          ],
+          [
+            "地缘政治",
+            2
+          ],
+          [
+            "中韩关系",
+            2
+          ]
+        ],
+        "key_takeaway": "中国要求境内实体不得协助欧盟对京东的调查"
+      }
+    },
+    "2026-08-19": {
+      "file": "2026-08-19.json",
+      "scan_time": "2026-08-19T09:00:00+08:00",
+      "window": "2026-08-18 ~ 2026-08-19 (GMT+8) — 路透+彭博涉华报道扫描",
+      "coverage": {
+        "reuters": {
+          "captured": 12,
+          "with_author": 12,
+          "with_fulltext": 0,
+          "note": "通道A：路透中国栏目(https://www.reuters.com/world/china/)WebFetch 直连成功，取得8/19涉中标题与URL；单篇正文被JS墙拦截，转 通道C（WebSearch 多组关键词，引号标题+媒体名）经 Yahoo News / AOL / Channel NewsAsia / Global Banking & Finance Review / Stockopedia / MarketScreener UK / WMBD Radio / Economic Times / New Straits Times 等转载源补全真实署名与摘要。共12篇；12篇均取得真实记者署名（Ethan Wang/Liz Lee、Yukun Zhang/Xiuhao Chen/Liz Lee、Maxim Shemetov、Matthias Williams、Paolo Laudani、Heejin Kim/Brenda Goh/Jasmeen Ara Shaikh、Emma Rumney、Kyu-seok Shim/Ethan Wang、Shi Bu/Liz Lee、Simone Lobo、Eduardo Baptista/Laurie Chen、Anuja Bharat Mistry）。其中“South Korean container ship will test Arctic route to Europe amid Western concern”（reuters by Brenda Goh/Joyce Lee）经多次检索未获真实URL，按“绝不编造”规则剔除，未计入。本窗口主线：中美AI治理角力（数字主权/选边站）、中国—欧盟贸易摩擦升级（京东反补贴调查反制）、半岛外交回暖（王毅访韩/拟XI-Lee峰会）、人形机器人与商业航天双线突破（宇树上市/世界机器人大会/朱雀三号陆地回收）、消费与外资在华表现分化（嘉士伯弱、雅诗兰黛强）。"
+        },
+        "bloomberg": {
+          "captured": 3,
+          "with_author": 2,
+          "with_fulltext": 0,
+          "note": "通道A：彭博首页(https://www.bloomberg.com/)直连被反爬/机器人验证拦截（返回 Are you a robot 验证页，fetch failed），无法直连，转 通道C/C2/D（WebSearch 多组关键词 + BNN Bloomberg 公司新闻页）。经 BNN Bloomberg（彭博加拿大合作站，真实可访问）确认3篇8/19涉中报道：宇树科创板上市暴涨（BNN，by Chan Ho-him/AP）、世界机器人大会中国机器人展示（BNN，by E. Eduardo Castillo/AP）、蓝箭朱雀三号首次陆地回收（BNN，机构稿未具名）。彭博付费墙严，3篇均未取得彭博原生署名（AP署名已标named；朱雀三号为机构稿not_available），正文均不可得（body_available=false）。另检索到《The Big Take: US Lead in the AI Race With China Is Rapidly Narrowing》等仅为历史/4月条目、非8/19；AI-race相关彭博通讯未能确认8/19真实URL，按规则剔除。彭博本窗口原创涉中条目偏少，主要受付费墙与直连拦截限制，已如实标注；目标5-8篇因付费墙仅获3篇真实条目，质量优先于凑数。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "20260819-reuters-china-digital-sovereignty-ai",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China urges respect for digital sovereignty in AI race",
+          "title_zh": "中国敦促在人工智能竞赛中尊重各国数字主权",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Ethan Wang",
+            "Liz Lee"
+          ],
+          "author_locations": "北京",
+          "authors_status": "named",
+          "topics": [
+            "中美AI竞争",
+            "数字主权",
+            "AI治理",
+            "外交部"
+          ],
+          "importance": "high",
+          "summary_zh": "路透8月19日报道——针对美方据报将致信35个《人工智能机遇伙伴关系联合声明》签署方、要求其在美中AI阵营间选边站，中国外交部发言人林剑在例行记者会上表示，中方坚决反对在人工智能问题上搞选边站队、阵营对抗，希望各方摒弃零和思维、尊重各国数字主权，各国有权根据自身国情选择合作伙伴。林剑称AI应成为促进共同繁荣、维护共同安全的动力。报道指出，美方内部草案将警告相关国家若同时加入与美方倡议冲突的其他机制，可能被排除在美国主导的AI合作体系之外。",
+          "china_angle": "以中美AI治理角力为报道主轴；中方以“数字主权”话语反制美方“选边站”施压，是AI规则之争与数字治理话语权的关键切面。",
+          "stance": "中性（引述外交部表态与美方草案背景，呈现双方立场）",
+          "source_url": "https://www.reuters.com/world/china/china-urges-respect-digital-sovereignty-ai-race-2026-08-19/",
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：美方拟致信35国要求在中美AI间选边；林剑回应反对选边、强调数字主权与各国自主选择。研判：继芯片出口管制、实体清单后，美方将博弈前推至AI规则与盟友阵营绑定，中方以“数字主权”“去阵营化”话语对冲；与近期世界人工智能合作组织(上海)成立、中方开源模型全球扩散相互呼应，反映AI竞争正从算力/模型层升至治理与联盟层。",
+          "provenance": {
+            "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Ethan Wang、Liz Lee；经 Yahoo News 转载确认全文）",
+            "evidence_url": "https://www.yahoo.com/news/world/articles/china-urges-respect-digital-sovereignty-074733149.html",
+            "evidence_note": "Reuters 8/19；byline Ethan Wang、Liz Lee；reuters.com 单篇JS墙，URL 由标题重建，经 Yahoo News 转载确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "美国国务院",
+            "外交部(林剑)",
+            "《人工智能机遇伙伴关系联合声明》"
+          ]
+        },
+        {
+          "id": "20260819-reuters-china-blocks-eu-jd-probe",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China orders entities not to assist EU's JD.com probe",
+          "title_zh": "中国命令境内实体不得协助欧盟对京东的反补贴调查",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Yukun Zhang",
+            "Xiuhao Chen",
+            "Liz Lee"
+          ],
+          "author_locations": "北京",
+          "authors_status": "named",
+          "topics": [
+            "中欧贸易",
+            "反补贴",
+            "域外管辖",
+            "京东",
+            "反制"
+          ],
+          "importance": "high",
+          "summary_zh": "路透8月19日报道——中国司法部会同商务部等部门认定，欧盟依据《外国补贴条例》(FSR)在对京东调查中向中国实体提出的跨境信息索取构成“不当域外管辖”，并命令任何组织、个人不得执行或协助该措施。这是中方自4月《反外国不当域外管辖条例》生效以来第二次动用该工具（首次为5月针对欧盟对安检企业同方威视Nuctech的调查）。京东拟以约25亿美元收购德国电子零售商Ceconomy，欧盟于5月28日立案、7月22日发出异议声明，指其或获中国补贴扭曲欧盟市场。中方警告若欧方一意孤行将坚决依法反制。",
+          "china_angle": "涉中欧经贸核心摩擦；中方以国内反制立法对冲欧盟FSR调查，是“去风险”话语下中欧制度博弈升温的标志性事件，关联中企出海与欧盟市场准入。",
+          "stance": "负面（中欧贸易摩擦升级、中方反制、关系紧张）",
+          "source_url": "https://www.reuters.com/world/china/china-orders-entities-not-assist-eu-jd-com-probe-2026-08-19/",
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：司法部认定欧盟对京东FSR调查构成“不当域外管辖”，命令境内实体不得执行/协助；系《反外国不当域外管辖条例》第二次适用（首次Nuctech）。研判：① 中方将反制工具常态化，以国内法对冲欧盟“去风险”式监管，标志中欧从贸易摩擦迈向法律—制度博弈；② 京东收购Ceconomy(25亿美元)受阻，中企欧洲扩张遇制度性壁垒；③ 后续关注10月2日欧委会终裁、中方可能的实体清单/签证反制，以及新能源(金风)、安检等行业的连锁调查风险。",
+          "provenance": {
+            "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Yukun Zhang、Xiuhao Chen、Liz Lee；经 Global Banking & Finance Review 转载确认全文）",
+            "evidence_url": "https://www.globalbankingandfinance.com/china-orders-entities-assist-eus-jd-com-probe",
+            "evidence_note": "Reuters 8/19；byline Yukun Zhang、Xiuhao Chen、Liz Lee；reuters.com JS墙，URL 由标题重建，经 GBAF 转载确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国司法部",
+            "中国商务部",
+            "欧盟委员会",
+            "京东(JD.com)",
+            "Ceconomy",
+            "《外国补贴条例》(FSR)"
+          ]
+        },
+        {
+          "id": "20260819-reuters-china-senior-summit-seoul",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China considering summit with Seoul in November, South Korean foreign ministry says",
+          "title_zh": "中国考虑11月APEC期间举行中韩领导人峰会（韩国外交部）",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Heejin Kim",
+            "Brenda Goh",
+            "Jasmeen Ara Shaikh"
+          ],
+          "author_locations": "首尔",
+          "authors_status": "named",
+          "topics": [
+            "中韩关系",
+            "朝鲜半岛",
+            "APEC",
+            "XI-Lee峰会",
+            "王毅访韩"
+          ],
+          "importance": "high",
+          "summary_zh": "路透8月19日报道——据韩国外交部，正在首尔访韩的中国外长王毅表示，北京“正积极考虑”在11月深圳APEC峰会期间举行中韩领导人(习近平—李在明)峰会。王毅同时邀请韩外长赵兑烈访华、赵已接受。双方同意扩大人文交流(预计双向往来超1000万人次)，并在中韩自贸协定服务与投资、供应链稳定、文化交流、大熊猫合作等方面协作。赵兑烈促请中方在促使朝鲜重返对话上发挥建设性作用；王毅表示中方对半岛政策一贯，希望南北和平共处。",
+          "china_angle": "涉及中韩关系回暖与半岛外交；中方作为朝鲜唯一缔约盟友的角色被凸显，关联美推动重启朝美外交的背景下东北亚格局演变。",
+          "stance": "中性偏积极（中韩关系改善信号）",
+          "source_url": "https://www.reuters.com/world/china/china-considering-summit-seoul-november-south-korean-foreign-ministry-says-2026-08-19/",
+          "sentiment": "positive",
+          "is_negative": false,
+          "deep_analysis": "核心事实：王毅访韩称“积极考虑”11月深圳APEC期间习—李峰会；邀赵兑烈访华；双方扩人文/经贸协作；韩方促中方促朝返对话。研判：尹锡悦政府后中韩关系回暖信号明确，XI-Lee峰会若成行将巩固缓和；在中美竞合与特朗普欲重启朝美外交背景下，半岛出现对话窗口。后续关注APEC习—李会、朝鲜回应及美韩协调。",
+          "provenance": {
+            "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Heejin Kim、Brenda Goh、Jasmeen Ara Shaikh；经 Channel NewsAsia 转载确认全文）",
+            "evidence_url": "https://www.channelnewsasia.com/asia/china-considering-summit-seoul-in-november-south-korean-foreign-ministry-says-6329666",
+            "evidence_note": "Reuters 8/19；byline Heejin Kim、Brenda Goh、Jasmeen Ara Shaikh；reuters.com JS墙，URL 由标题重建，经 CNA 转载确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "韩国外交部",
+            "王毅",
+            "赵兑烈",
+            "APEC(深圳)"
+          ]
+        },
+        {
+          "id": "20260819-reuters-wang-yi-seoul",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's Wang Yi in S. Korea for talks amid Trump push to revive N. Korea diplomacy",
+          "title_zh": "王毅访韩谈半岛事务，正值特朗普欲重启对朝外交",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Kyu-seok Shim",
+            "Ethan Wang"
+          ],
+          "author_locations": "首尔/北京",
+          "authors_status": "named",
+          "topics": [
+            "中韩关系",
+            "朝鲜半岛",
+            "王毅",
+            "美朝外交",
+            "联合军演"
+          ],
+          "importance": "high",
+          "summary_zh": "路透8月19日报道——中国外长王毅抵首尔，与韩外长赵兑烈等会晤。此访发生在美韩缩减联合军演、特朗普表示愿再会金正恩、欲重启对朝外交之后。王毅重申中方一贯半岛立场，呼吁维护半岛和平稳定、政治解决半岛问题；韩媒称王毅在首尔表示华盛顿应改变对平壤的“敌对政策”。王毅将于20日会见韩国总统李在明。赵兑烈称正推动11月深圳APEC期间李在明—习近平峰会。报道亦提及特朗普缩减军演被解读含施压韩国配合美对伊行动等意图。",
+          "china_angle": "以王毅访韩与美推动重启朝美外交为交叉视角，凸显中国作为朝鲜缔约盟友在半岛事务中的枢纽角色，关联美韩军演降温与东北亚安全态势。",
+          "stance": "中性（引述各方表态与背景）",
+          "source_url": "https://www.reuters.com/world/china/chinas-wang-yi-s-korea-talks-trump-push-revive-n-korea-diplomacy-2026-08-19/",
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：王毅访韩，与赵兑烈会晤，重申半岛和平稳定与政治解决；背景为美韩缩减军演、特朗普欲重启对朝外交。研判：半岛出现对话窗口，中方以“劝和促谈”+反对敌对政策定位，平衡美朝缓和与自身影响力；军演降温弱化前沿威慑、间接缓解中国周边压力。后续看习—李APEC会、朝鲜反应及美韩对朝协调节奏。",
+          "provenance": {
+            "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Kyu-seok Shim、Ethan Wang；经 Yahoo News 转载确认全文）",
+            "evidence_url": "https://www.yahoo.com/news/world/articles/chinas-wang-yi-south-korea-093735976.html",
+            "evidence_note": "Reuters 8/19；byline Kyu-seok Shim、Ethan Wang；reuters.com JS墙，URL 由标题重建，经 Yahoo News 转载确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "王毅",
+            "赵兑烈",
+            "特朗普",
+            "韩国外交部",
+            "Yonhap"
+          ]
+        },
+        {
+          "id": "20260819-reuters-chinas-robots-commercial-test",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's robots face a commercial test",
+          "title_zh": "超越后空翻与马拉松：中国机器人面临商业化大考",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Eduardo Baptista",
+            "Laurie Chen"
+          ],
+          "author_locations": "北京",
+          "authors_status": "named",
+          "topics": [
+            "人形机器人",
+            "商业化",
+            "世界机器人大会",
+            "宇树",
+            "具身智能"
+          ],
+          "importance": "high",
+          "summary_zh": "路透8月19日报道（分析）——过去两年，中国人形机器人以跳舞、挥拳乃至马拉松纪录惊艳投资者；本周在北京举行的世界机器人大会(WRC, 300余家企业、2000余展品、150余首发)上，它们面临更严酷考验：证明能可靠创造经济价值。宇树科技同日在科创板上市(IPO超额认购超8000倍)。投资者与客户越发以“工作效率、所需人工监督、能否收回成本”而非动作炫酷评判机器人。行业人士称多数中国本体/模型/数据孤立未落地者将被淘汰；分析师估计今年产机器人50%—70%或进“数据工厂”而非为付费客户产出；国泰君安测算工业人形需约16万元(含维护)两年回本，而现实成本30万—50万元。8月22—26日世界人形机器人运动会将以工厂/酒店/家务场景测试实用性。美FCC 7月限制进口外国人形/四足机器人(含宇树)构成地缘不确定性。",
+          "china_angle": "以中国人形机器人从“炫技”转向“创造经济价值”的商业化大考为主线，紧扣中美科技竞争与“具身智能”产业落地，是观察中国新质生产力成色的关键样本。",
+          "stance": "中性（产业分析，呈现机遇与挑战）",
+          "source_url": "https://www.reuters.com/business/artificial-intelligence/chinas-robots-face-commercial-test-2026-08-19/",
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：WRC开幕+宇树上市同日，行业焦点由演示转向商业化回报；估计今年50%—70%人形进“数据工厂”而非产出；成本30万—50万元 vs 两年回本阈值16万元；美FCC限制进口添不确定性。研判：中国强在本体量产/供应链/数据规模(占全球出货82%, IDC)，弱在可靠部署与经济回报尚未兑现——“造得出”但未完全“用得划算”；政策(百城千台部署)与运动会场景测试将加速从示范到任务的跨越。短期资本热是对未来空间的提前定价，产业红利待真实生产力验证。",
+          "provenance": {
+            "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Eduardo Baptista、Laurie Chen；经 Economic Times / New Straits Times 转载确认全文）",
+            "evidence_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/beyond-marathons-and-backflips-chinas-robots-face-a-commercial-test/articleshow/133319171.cms",
+            "evidence_note": "Reuters 8/19 分析；byline Eduardo Baptista、Laurie Chen；reuters.com JS墙，URL 由标题重建，经 ET/NST 转载确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "Unitree(宇树)",
+            "WRC(世界机器人大会)",
+            "Omdia",
+            "IDC",
+            "国泰君安",
+            "美国FCC",
+            "Lumos Robotics",
+            "MERICS"
+          ]
+        },
+        {
+          "id": "20260819-bloomberg-unitree-trading-debut",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Shares in Chinese humanoid robot maker Unitree soar in its Shanghai trading debut",
+          "title_zh": "中国人形机器人制造商宇树科技科创板上市首日飙涨",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Chan Ho-him"
+          ],
+          "author_locations": "香港",
+          "authors_status": "named",
+          "topics": [
+            "人形机器人",
+            "宇树",
+            "科创板",
+            "IPO",
+            "中美科技竞争"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博(BNN Bloomberg，8月19日，AP/Chan Ho-him)报道——中国人形机器人龙头宇树科技(Unitree)8月19日登陆上交所科创板，发行价150.80元，开盘一度涨629%至1100元，收盘涨460%报845元(市值约3418亿元)，创A股全面注册制以来单签盈利新高。公司募资约61亿元(9.04亿美元)，为内地首家上市人形机器人制造商。Omdia 称2025年全球约1.5万台人形机器人中宇树与智元(AGIBOT)各出货超5000台，上半年中国厂商全球出货约1.85万台；中国在生产能力与规模化上领先美国。美FCC 7月以国家安全为由禁止进口新人形/四足机器人(含宇树新机型)。",
+          "china_angle": "以宇树科创板上市暴涨为标志，凸显中国人形机器人产业资本化里程碑与中美“具身智能”竞赛中中国的量产与资本优势。",
+          "stance": "中性偏积极（呈现上市盛况与产业领先）",
+          "source_url": "https://beta.bnnbloomberg.ca/business/artificial-intelligence/2026/08/19/shares-in-chinese-humanoid-robot-maker-unitree-soar-in-its-shanghai-trading-debut",
+          "sentiment": "positive",
+          "is_negative": false,
+          "deep_analysis": "核心事实：宇树科创板首日+460%(收845元)、市值3418亿、募61亿；内地首家人形机器人上市公司；Omdia称中国出货领先、美FCC禁进口。研判：为具身智能/A股机器人板块提供估值锚，标志产业从概念走向资本化；但流通盘仅7.4%、高换手折射情绪定价；美进口禁令构成海外收入(去年美占约13%)风险，倒逼出海转向欧洲等市场。短期是流动性溢价，中长期看量产→场景价值的兑现。",
+          "provenance": {
+            "retrieved_via": "通道A（彭博首页被反爬拦截）+通道C（WebSearch 多组关键词 + BNN Bloomberg 公司新闻页确认）",
+            "evidence_url": "https://beta.bnnbloomberg.ca/business/artificial-intelligence/2026/08/19/shares-in-chinese-humanoid-robot-maker-unitree-soar-in-its-shanghai-trading-debut",
+            "evidence_note": "BNN Bloomberg 8/19（彭博加拿大合作站，真实可访问）；by Chan Ho-him/AP；付费墙，正文以转载页确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "Unitree(宇树)",
+            "Omdia",
+            "Morningstar",
+            "UBTech",
+            "美国FCC",
+            "上交所科创板"
+          ]
+        },
+        {
+          "id": "20260819-bloomberg-china-robot-conference",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "From robot dogs to helpers, China puts robotics ambitions on display at world conference",
+          "title_zh": "从机器狗到助手：中国在世界机器人大会展示机器人雄心",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "E. Eduardo Castillo"
+          ],
+          "author_locations": "北京",
+          "authors_status": "named",
+          "topics": [
+            "人形机器人",
+            "世界机器人大会",
+            "宇树",
+            "UBTECH",
+            "中美科技竞争"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博(BNN Bloomberg，8月19日，AP/E. Eduardo Castillo)报道——2026世界机器人大会(WRC)8月19日在北京开幕，约3000件产品亮相，宇树展台机器人拳击、跳舞、打乒乓成为焦点，其上市与大会开幕同日。UBTECH 展出工业与情感陪护人形机器人(情感陪护款售价16.8万元、面向个人买家)。专家指许多人形机器人仍是“表演者”而非“实干者”。大会数周前正值美FCC以国家安全为由禁止进口新人形/四足机器人(含宇树)。报道称中国正将机器人技术从演示推向工厂与现实应用。",
+          "china_angle": "以世界机器人大会集中展示中国机器人产业雄心为视角，关联宇树上市与中美机器人竞赛，凸显中国在本体量产与场景落地上的双线推进及外部管制压力。",
+          "stance": "中性（呈现大会展示与产业现状）",
+          "source_url": "https://www.bnnbloomberg.ca/business/technology/2026/08/19/from-robot-dogs-to-helpers-china-puts-robotics-ambitions-on-display-at-world-conference",
+          "sentiment": "positive",
+          "is_negative": false,
+          "deep_analysis": "核心事实：WRC北京开幕(约3000件产品)，宇树/UBTECH展示；情感陪护人形16.8万元面向个人；专家称多仍为表演者；美FCC禁进口背景。研判：中国机器人从“秀肌肉”转向“找场景”，UBTECH情感陪护等指向C端落地；但实用性与成本仍制约规模部署，与路透“商业化大考”相互印证。外部管制(美FCC)倒逼内需与第三方市场。短期展会热度高于真实回报。",
+          "provenance": {
+            "retrieved_via": "通道A（彭博首页被反爬拦截）+通道C（WebSearch 多组关键词 + BNN Bloomberg 公司新闻页确认）",
+            "evidence_url": "https://www.bnnbloomberg.ca/business/technology/2026/08/19/from-robot-dogs-to-helpers-china-puts-robotics-ambitions-on-display-at-world-conference",
+            "evidence_note": "BNN Bloomberg 8/19；by E. Eduardo Castillo/AP；付费墙，正文以转载页确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "Unitree(宇树)",
+            "UBTECH(优必选)",
+            "世界机器人大会",
+            "美国FCC",
+            "AP"
+          ]
+        },
+        {
+          "id": "20260819-bloomberg-landspace-rocket-recovery",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Chinese space startup achieves first rocket recovery on land",
+          "title_zh": "中国民营航天创企蓝箭实现火箭首次陆地回收",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "北京/酒泉",
+          "authors_status": "not_available",
+          "topics": [
+            "商业航天",
+            "蓝箭",
+            "朱雀三号",
+            "火箭回收",
+            "可重复使用"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博(BNN Bloomberg，8月19日)报道——中国民营航天企业蓝箭航天(LandSpace)研制的朱雀三号(Zhuque-3)运载火箭8月19日7:35在东风商业航天创新试验区发射，一子级随后成功在甘肃民勤着陆场“平稳触地”实现陆地回收，二子级将鸿鹄03星送入轨道，任务“圆满成功”。Xinhua 称这是中国首次入轨级运载火箭一子级陆地回收，是 reusable spacecraft 技术的“突破”。Macquarie 天体物理学家 Richard de Grijs 称蓝箭是除美国外首家“以自身腿”着陆轨道级助推器的公司；其成就紧随7月国家研制的长征十号B海上网系回收之后，显示中国与美在可回收架构上的“制度竞争+技术试验”组合。",
+          "china_angle": "以蓝箭朱雀三号首次陆地回收为里程碑，凸显中国商业航天(民营)在可重复使用火箭上的突破，关联“航天强国”战略与中美太空竞赛。",
+          "stance": "中性偏积极（中国商业航天突破）",
+          "source_url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/19/chinese-space-startup-achieves-first-rocket-recovery-on-land/",
+          "sentiment": "positive",
+          "is_negative": false,
+          "deep_analysis": "核心事实：蓝箭朱雀三号8/19一子级陆地回收成功(民勤场坪)，二子级送鸿鹄03星入轨；中国首次入轨级一子级陆地回收；专家称蓝箭为美外首家“自主腿着陆”轨道级公司。研判：继长十B海上回收后，中国补齐“陆地腿式回收”路线，民营(蓝箭)与国家队(航天科技)双线并进，缩短与SpaceX差距、为低轨星座(星网/GW、千帆)提供高频廉价运力；“发射—回收—检测—复用”闭环将降成本。属商业航天工程化复用阶段关键一步。",
+          "provenance": {
+            "retrieved_via": "通道A（彭博首页被反爬拦截）+通道C（WebSearch 多组关键词 + BNN Bloomberg 公司新闻页确认）",
+            "evidence_url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/19/chinese-space-startup-achieves-first-rocket-recovery-on-land/",
+            "evidence_note": "BNN Bloomberg 8/19；机构稿未具名(authors_status=not_available)；付费墙，正文以转载页确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "LandSpace(蓝箭航天)",
+            "Zhuque-3(朱雀三号)",
+            "Xinhua(新华社)",
+            "Macquarie University(Richard de Grijs)",
+            "CCTV"
+          ]
+        },
+        {
+          "id": "20260819-reuters-rocket-launch-tourism",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "In China, rocket launches fuel tourism and space-age dreams",
+          "title_zh": "在中国，火箭发射点燃文旅热与太空梦",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Maxim Shemetov"
+          ],
+          "author_locations": "文昌/海南",
+          "authors_status": "named",
+          "topics": [
+            "航天文旅",
+            "商业航天",
+            "太空",
+            "文化"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透8月20日（发自文昌，报道事件发生于8月19日夜）报道——8月19日晚，海南文昌航天发射场周边海滩聚集数千民众观看长征七号A火箭发射；火箭升空后不久在空中意外爆燃（央视随后确认），但围观人群仍为之沸腾。报道呈现中国航天从偏远沙漠的机密任务走向向公众开放、成为文旅与集体文化体验的变迁：内蒙古乌兰哈达火山地质公园变身“火星模拟”打卡地、北京宋庄“共振”宇航员雕塑、首钢园Pop Mart“太空 Molly”等。中国计划2030年前载人登月、继而火星任务。",
+          "china_angle": "以中国航天公众化、文旅化为切面，呈现中国航天 ambitions 与国民文化自信的互动，关联商业航天与“太空旅游”新兴赛道。",
+          "stance": "中性偏积极（呈现航天文旅兴起与文化现象）",
+          "source_url": "https://www.reuters.com/world/china/rocket-launches-fuel-tourism-space-age-dreams-2026-08-19/",
+          "sentiment": "positive",
+          "is_negative": false,
+          "deep_analysis": "核心事实：8/19夜文昌长征七号A发射，数千民众海滩围观，火箭空中爆燃仍引发欢呼；航天游成文旅新热点。研判：中国航天发射常态化+公众开放，催生“追火箭”文旅、周边消费与商业航天叙事；与朱雀三号陆地回收(同日)共同烘托商业航天氛围。偶发失利未削弱公众热情，反凸显“太空梦”国民情绪。",
+          "provenance": {
+            "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Maxim Shemetov；经 AOL 转载确认全文）",
+            "evidence_url": "https://www.aol.com/articles/china-rocket-launches-fuel-tourism-230159000.html",
+            "evidence_note": "Reuters 8/20发自文昌(事件8/19)；byline Maxim Shemetov；reuters.com JS墙，URL 由标题重建，经 AOL 转载确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国航天",
+            "央视",
+            "文昌航天发射场"
+          ]
+        },
+        {
+          "id": "20260819-reuters-vdma-humanoid-robotics",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Germany's VDMA lobby calls on Europe to step up on humanoid robotics as Unitree surges",
+          "title_zh": "德国VDMA协会呼吁欧洲加快布局人形机器人，应对宇树崛起",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Matthias Williams"
+          ],
+          "author_locations": "柏林/法兰克福",
+          "authors_status": "named",
+          "topics": [
+            "人形机器人",
+            "中美欧科技竞争",
+            "宇树",
+            "制造业"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透8月19日报道——德国机械设备制造业联合会(VDMA)呼吁将人形机器人与“物理AI”置于政治议程顶端，要求德国与欧洲建立富有韧性的本土关键零部件供应链。背景是宇树科技同日登陆上交所科创板、股价一度暴涨超600%，成为全球人形机器人竞赛的标志性事件。VDMA副执行主任 Hartmut Rauen 称“德国和欧洲必须建立涵盖关键部件本土生产的完整价值链”。全球上半年人形机器人出货近1.91万台、同比近四倍，中国厂商主导。VDMA指关键挑战在于规模化。",
+          "china_angle": "以欧洲应对中国(宇树)人形机器人崛起为报道视角，凸显人形机器人成为中美欧科技竞争新战场，以及中国在本体量产与供应链上的领先。",
+          "stance": "中性（引述VDMA立场与产业数据）",
+          "source_url": "https://www.reuters.com/business/autos-transportation/germanys-vdma-lobby-calls-europe-step-up-humanoid-robotics-unitree-surges-2026-08-19/",
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：VDMA 呼吁欧洲将人形机器人/物理AI列为政治优先，建本土关键部件供应链；宇树科创板上市(一度+629%)为背景。研判：欧洲正视在“身体”(制造/供应链)层落后中国，试图以政策+供应链自主追赶；与中国“场景价值转化”难题形成对照——中国强在量产与成本，弱在可靠部署与回报。后续关注欧美各自补贴与关税(美FCC已限制进口)对全球格局影响。",
+          "provenance": {
+            "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Matthias Williams；经 Yahoo News 转载确认全文）",
+            "evidence_url": "https://www.yahoo.com/news/articles/germanys-vdma-lobby-calls-europe-125814717.html",
+            "evidence_note": "Reuters 8/19；byline Matthias Williams；reuters.com JS墙，URL 由标题重建，经 Yahoo News 转载确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "VDMA",
+            "Unitree(宇树)",
+            "Hartmut Rauen",
+            "Omdia"
+          ]
+        },
+        {
+          "id": "20260819-reuters-electric-truck-bus-sales",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China drove global electric truck, bus sales above half a million in 2025",
+          "title_zh": "2025年全球电动卡车与客车销量近翻倍破50万辆，中国贡献近九成",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Paolo Laudani"
+          ],
+          "author_locations": "格但斯克",
+          "authors_status": "named",
+          "topics": [
+            "新能源商用车",
+            "电动卡车",
+            "电动客车",
+            "中国主导"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透8月20日（援引ICCT 8月19日报告）报道——2025年全球电动卡车与客车销量同比大增86%、首破50万辆；中国贡献近90%增量，其中中型与重型卡车两年间增长超五倍。中国以外，欧盟(约9800辆)与印度(约5000辆)领跑电动客车；除中、美外，电池电动客车占零排放中重型商用车销量56%。欧盟电动卡车2025年增71%、市占4.5%。中国制造商在电动重卡规模化、电池整合与成本控制上优势明显。",
+          "china_angle": "以中国在新能源商用车全球主导地位为报道主轴，凸显中国电动化从乘用车外溢至商用车、并重塑全球商用车竞争格局。",
+          "stance": "中性偏积极（呈现中国主导与全球电动化推进）",
+          "source_url": "https://www.reuters.com/business/autos-transportation/china-drove-global-electric-truck-bus-sales-above-half-million-2025-2026-08-19/",
+          "sentiment": "positive",
+          "is_negative": false,
+          "deep_analysis": "核心事实：ICCT 报告称2025全球电动卡车/客车销量+86%破50万，中国占近90%、重卡两年增超5倍；欧盟电动卡车+71%。研判：中国在商用车电动化(尤其重卡)形成规模化与成本护城河，比亚迪、宇通等出海将加剧欧美传统车企压力；欧美受充电/基础设施与成本平价制约滞后。后续关注中国低成本的电动重卡对欧出口与欧方潜在贸易防御。",
+          "provenance": {
+            "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Paolo Laudani；经 AOL 转载确认全文）",
+            "evidence_url": "https://www.aol.com/articles/china-drove-global-electric-truck-220239000.html",
+            "evidence_note": "Reuters 8/20(ICCT报告8/19)；byline Paolo Laudani；reuters.com JS墙，URL 由标题重建，经 AOL 转载确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "ICCT(国际清洁交通委员会)",
+            "欧盟",
+            "印度",
+            "中国"
+          ]
+        },
+        {
+          "id": "20260819-reuters-carlsberg-china-sales",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Investors sour on Carlsberg's China sales despite soft drink success",
+          "title_zh": "尽管软饮业务亮眼，嘉士伯中国销售疲弱令投资者失望",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Emma Rumney"
+          ],
+          "author_locations": "伦敦",
+          "authors_status": "named",
+          "topics": [
+            "消费",
+            "啤酒",
+            "嘉士伯",
+            "中国市场",
+            "业绩"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透8月19日报道——全球第三大啤酒商嘉士伯(Carlsberg)上半年营业利润、销量与营收均不及分析师预期，主因中国这一最大啤酒市场需求疲弱叠加热带气旋、洪涝等极端天气；股价盘中一度跌4%至七周低位。CEO Jacob Aarup-Andersen 称天气冲击或延续至三季度。公司2025年收购软饮商 Britvic 的协同效应快于预期，软饮销量增9%、占组合30%，上调全年利润指引至增4%—6%；但“中国是最大的苦涩点”(Jyske Bank 分析师语)。",
+          "china_angle": "以嘉士伯中国销售疲弱为切面，折射外资消费品在华面临的需求不足与天气扰动，是观察中国消费景气与外资在华表现的微观窗口。",
+          "stance": "中性（公司业绩与分业务表现，呈现中国需求偏弱）",
+          "source_url": "https://www.reuters.com/business/retail-consumer/investors-sour-carlsbergs-china-sales-despite-soft-drink-success-2026-08-19/",
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：嘉士伯上半年利润/销量/营收均不及预期，中国需求疲弱+极端天气为主因，股价跌至七周低；软饮(Britvic)协同超预期、上调指引。研判：中国啤酒消费受天气与居民资产负债表双重压制，外资快消在华增长分化——酒精承压、软饮/无醇走强；反映内需温和修复中的结构性不均。非重大负面，属企业微观信号。",
+          "provenance": {
+            "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Emma Rumney；经 Stockopedia 转载确认全文）",
+            "evidence_url": "https://www.stockopedia.com/share-prices/anheuser-busch-inbev-sa-NYQ:BUD/news/investors-sour-on-carlsberg-apos-s-china-sales-despite-soft-drink-success-updated-01a018b2-145f-79b4-8149-55a13918d75d",
+            "evidence_note": "Reuters 8/19；byline Emma Rumney；reuters.com JS墙，URL 由标题重建，经 Stockopedia 转载确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "Carlsberg(嘉士伯)",
+            "Britvic",
+            "Jyske Bank",
+            "SMMT"
+          ]
+        },
+        {
+          "id": "20260819-reuters-liu-jiyuan-dies",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Chinese space programme pioneer Liu Jiyuan dies at 93",
+          "title_zh": "中国航天事业开拓者之一刘纪原逝世，享年93岁",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Shi Bu",
+            "Liz Lee"
+          ],
+          "author_locations": "北京",
+          "authors_status": "named",
+          "topics": [
+            "航天",
+            "人物",
+            "导弹控制",
+            "载人航天",
+            "讣告"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透8月19日报道——中国航天事业开拓者、运载火箭与战略导弹控制技术专家刘纪原因伤病医治无效，于8月17日在北京逝世，享年93岁。主承包商中国航天科技集团发布讣告。刘纪原1960年起近四十年从事并领衔中国第一代战略武器与运载火箭控制系统研制；1992年任载人航天工程副总指挥，1993—1999年执掌新成立的国家航天局。其逝世距8月12日长征一号探空火箭领军者王希季离世仅数日。",
+          "china_angle": "以中国航天奠基一代相继离世为报道切入点，关联中国航天从导弹控制到载人工程的历史脉络与“航天强国”叙事。",
+          "stance": "中性（讣告事实）",
+          "source_url": "https://www.reuters.com/world/china/chinese-space-programme-pioneer-liu-jiyuan-dies-93-2026-08-19/",
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "核心事实：航天控制技术专家、原国家航天局局长刘纪原8/17在京逝世(93岁)；曾任载人航天工程副总指挥。研判：与王希季(8/12)离世相隔数日，标志中国航天“创业一代”谢幕；其主导的制导系统与系统工程管理为后续空间站、探月、深空任务奠定底座，具承前启后象征意义。",
+          "provenance": {
+            "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Shi Bu、Liz Lee；经 WMBD Radio 转载确认全文）",
+            "evidence_url": "https://wmbdradio.com/2026/08/19/chinese-space-programme-pioneer-liu-jiyuan-dies-at-93",
+            "evidence_note": "Reuters 8/19；byline Shi Bu、Liz Lee；reuters.com JS墙，URL 由标题重建，经 WMBD Radio 转载确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国航天科技集团",
+            "国家航天局",
+            "载人航天工程"
+          ]
+        },
+        {
+          "id": "20260819-reuters-chery-uk-rd-centre",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's Chery Automobile to set up UK research centre",
+          "title_zh": "奇瑞汽车将在英国设立研发中心",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Simone Lobo"
+          ],
+          "author_locations": "班加罗尔",
+          "authors_status": "named",
+          "topics": [
+            "中国汽车",
+            "奇瑞",
+            "出海",
+            "英国",
+            "研发"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透8月19日报道——奇瑞汽车(Chery)宣布将于今年在英国贝德福德郡 UTAC Millbrook 车辆开发与测试中心设立研发中心，预计2026年深秋启用。奇瑞国际英国CEO Gary Lan 称该中心将把英国用户洞察转化为产品开发（从底盘、转向到主动安全），远期拓展至自动驾驶与AI。此举紧随其与日产(Nissan)探索在桑德兰工厂代工生产奇瑞乘用车之和解备忘录。据SMMT，中国品牌今年上半年占英国新车注册约15%（去年全年约10%）；MG、比亚迪、奇瑞 Jaecoo/Omoda 领跑。",
+          "china_angle": "以奇瑞在英国设研发中心并谋本土化生产为切面，呈现中国汽车品牌加速出海、从“卖车”转向“本地研发+制造”的深度全球化，及在欧面临的责任与竞争。",
+          "stance": "中性偏积极（中国车企出海深化）",
+          "source_url": "https://www.reuters.com/business/autos-transportation/chinas-chery-automobile-set-up-uk-research-centre-2026-08-19/",
+          "sentiment": "positive",
+          "is_negative": false,
+          "deep_analysis": "核心事实：奇瑞拟于英国Millbrook设研发中心(深秋启用)，并与日产谈桑德兰代工；中国品牌占英新车注册上半年约15%(去年10%)。研判：中国车企在欧从贸易出口迈向本地研发/制造，以规避关税与贴近市场；与比亚迪、上汽并行，预示欧洲汽车产业格局重塑。后续关注桑德兰代工落地、英方产业欢迎度及欧盟潜在贸易防御。",
+          "provenance": {
+            "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Simone Lobo；经 MarketScreener UK 转载确认全文）",
+            "evidence_url": "https://uk.marketscreener.com/news/china-s-chery-automobile-to-set-up-uk-research-centre-ce7859ddd08dff2c",
+            "evidence_note": "Reuters 8/19；byline Simone Lobo；reuters.com JS墙，URL 由标题重建，经 MarketScreener UK 转载确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "Chery(奇瑞)",
+            "UTAC Millbrook",
+            "Nissan(日产)",
+            "SMMT"
+          ]
+        },
+        {
+          "id": "20260819-reuters-estee-lauder-china",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Estee Lauder bets on fragrances and skincare to deliver strong annual profit",
+          "title_zh": "雅诗兰黛押注香水与护肤，预计年度利润超市场预期（中国需求强劲）",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [
+            "Anuja Bharat Mistry"
+          ],
+          "author_locations": "班加罗尔",
+          "authors_status": "named",
+          "topics": [
+            "消费",
+            "美妆",
+            "雅诗兰黛",
+            "中国市场",
+            "业绩"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透8月19日报道——雅诗兰黛(Estee Lauder)预计2027财年调整后每股收益3.10—3.35美元(中值高于分析师3.18美元预期)，押注CEO “Beauty Reimagined”转型下高端香水与护肤(Le Labo、Tom Ford、Balmain Beauty等)持续旺销及中国等关键市场强劲表现。第四财季营收36.3亿美元超预期；香水净销售增10%、中国大陆全年有机增9%。公司与Puig合并谈判5月破裂后股价早盘涨约18%。公司录得3800万美元关税退还，部分抵消1.02亿美元增量关税影响。",
+          "china_angle": "以雅诗兰黛中国需求强劲、奢侈品香水护肤回暖为切面，折射中国高端消费(尤其高端美妆)边际修复，是观察外资在华消费景气的正面信号。",
+          "stance": "中性偏积极（业绩超预期、中国需求强）",
+          "source_url": "https://www.reuters.com/business/retail-consumer/estee-lauder-bets-fragrances-skincare-deliver-strong-annual-profit-2026-08-19/",
+          "sentiment": "positive",
+          "is_negative": false,
+          "deep_analysis": "核心事实：雅诗兰黛上调2027财年利润指引(中值超预期的3.18美元)，香水+10%、中国大陆全年有机+9%，股价涨约18%。研判：与嘉士伯中国疲弱形成对照，高端香水是外资美妆在华“亮点品类”，反映中国高收入/年轻客群可选消费韧性；但关税(1.02亿)与去折扣策略显示盈利修复仍脆弱。后续关注中国消费整体复苏斜率与高端品类持续性。",
+          "provenance": {
+            "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Anuja Bharat Mistry；经 Economic Times 转载确认全文）",
+            "evidence_url": "https://m.economictimes.com/markets/us-stocks/news/estee-lauder-bets-on-fragrances-and-skincare-to-deliver-strong-annual-profit/articleshow/133352675.cms",
+            "evidence_note": "Reuters 8/19；byline Anuja Bharat Mistry；reuters.com JS墙，URL 由标题重建，经 ET 转载确认"
+          },
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "Estee Lauder(雅诗兰黛)",
+            "Le Labo",
+            "Tom Ford",
+            "Balmain Beauty",
+            "Puig",
+            "LSEG"
+          ]
+        }
+      ],
+      "daily_analysis": {
+        "total": 15,
+        "by_media": {
+          "路透社": 12,
+          "彭博社": 3
+        },
+        "sentiment_split": {
+          "negative": 1,
+          "neutral": 6,
+          "positive": 8
+        },
+        "negatives": [
+          "20260819-reuters-china-blocks-eu-jd-probe"
+        ],
+        "top_topics": [
+          [
+            "人形机器人",
+            4
+          ],
+          [
+            "宇树",
+            4
+          ],
+          [
+            "商业航天",
+            2
+          ],
+          [
+            "中韩关系",
+            2
+          ],
+          [
+            "朝鲜半岛",
+            2
+          ],
+          [
+            "消费",
+            2
+          ]
+        ],
+        "key_takeaway": "中国敦促在人工智能竞赛中尊重各国数字主权"
+      }
+    },
+    "2026-08-18": {
+      "file": "2026-08-18.json",
+      "scan_time": "2026-08-18T09:00:00+08:00",
+      "window": "2026-08-17 ~ 2026-08-18 (GMT+8) — 路透+彭博涉华报道扫描",
+      "coverage": {
+        "reuters": {
+          "captured": 7,
+          "with_author": 3,
+          "with_fulltext": 0,
+          "note": "通道A 路透中国栏目直连受本机网络限制未通，转 WebSearch 多组关键词经 MarketScreener/AOL/Yahoo/Business Standard 等转载源补全署名与摘要。经济数据、王毅访韩、美台贸易倡议三篇取得真实署名（Kevin Yao/Ethan Wang、Kyu-seok Shim、Ben Blanchard），其余数据稿未具名。with_fulltext=0（JS墙拦截）。"
+        },
+        "bloomberg": {
+          "captured": 6,
+          "with_author": 0,
+          "with_fulltext": 0,
+          "note": "通道A 彭博首页直连被反爬拦截，转 WebSearch 多组关键词 + 《中国秀》视频页兜底，共 6 篇（CXMT 登顶中国市值、经济全面走弱、刺激呼声、中国香港/上海股市、阿里新 AI 模型、宇树 IPO）。付费墙严，6 篇均未具名。CXMT、经济走弱、《中国秀》URL 经彭博页面确认，其余由标题重建并标注。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "20260818-reuters-us-taiwan-trade-talks",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "U.S., Taiwan to start formal trade talks under new initiative",
+          "title_zh": "美国与中国台湾地区将依新倡议启动正式贸易谈判",
+          "published_at": "2026-08-18",
+          "published_precision": "day",
+          "authors": [
+            "Ben Blanchard"
+          ],
+          "author_locations": "台北",
+          "authors_status": "named",
+          "topics": [
+            "中国台湾",
+            "美台关系",
+            "中美关系",
+            "贸易"
+          ],
+          "importance": "high",
+          "summary_zh": "路透 8 月 18 日报道——美国与中国台湾地区同意在「美台 21 世纪贸易倡议」下启动正式谈判，目标达成「具经济意义的成果」。台方谈判代表邓振中说，首轮谈判拟于初秋举行，并希望最终迈向自由贸易协议；台方称亦将讨论所谓「经济胁迫」（指向中国大陆）。北京重申反对任何国家与台湾签署官方性质贸易协议，国台办发言人马晓光表示坚决反对美国与中国台湾地区洽商任何具主权意涵或官方性质的协议，并重申一个中国原则。",
+          "china_angle": "涉及中国台湾地区。报道美方与台方推进贸易倡议、北京表示反对，是中美博弈与台海议题的一环，须以「中国台湾」表述；中方立场为一个中国原则与中美三个联合公报。",
+          "stance": "中性（引述双方表态，呈现事实）",
+          "source_url": "https://reuters.omni.se/u-s-taiwan-to-start-formal-trade-talks-under-new-initiative/a/0GeWME",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "美国贸易代表办公室",
+            "台湾谈判代表",
+            "国台办",
+            "路透社"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：美台依「21 世纪贸易倡议」启动正式谈判，台方称将讨论「经济胁迫」；北京重申一个中国原则、反对任何具官方/主权意涵的协议。研判：此类经贸安排被北京视为美台官方往来升温，加剧中美摩擦与台海紧张；后续关注首轮谈判时点、是否触及关税及中方反制措辞。",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 引号标题补全署名：Ben Blanchard）",
+            "evidence_url": "https://reuters.omni.se/u-s-taiwan-to-start-formal-trade-talks-under-new-initiative/a/0GeWME",
+            "evidence_note": "Reuters 8/18；byline Ben Blanchard, Additional reporting Eduardo Baptista"
+          }
+        },
+        {
+          "id": "20260818-reuters-wang-yi-south-korea",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's foreign minister to visit South Korea from August 19-20",
+          "title_zh": "中国外长王毅将于 8 月 19—20 日访问韩国",
+          "published_at": "2026-08-18",
+          "published_precision": "day",
+          "authors": [
+            "Kyu-seok Shim"
+          ],
+          "author_locations": "首尔",
+          "authors_status": "named",
+          "topics": [
+            "中国外交",
+            "中韩关系",
+            "朝鲜半岛",
+            "APEC"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透 8 月 18 日报道——韩国外交部称，中国外长王毅将于 8 月 19—20 日访韩，是其五年来首次正式访韩。王毅抵韩后分别与外长赵显、国安首长魏圣洛会谈并共进午餐，总统李在明将于 20 日会见。议题涵盖中韩关系、朝鲜半岛局势及地区事务。此访在 11 月深圳 APEC 峰会前，意在为高层交往预热；背景是韩美缩减联合军演、特朗普谋求重启与金正恩外交。",
+          "china_angle": "中韩关系回暖、中方在朝鲜半岛事务中的角色上升，是周边外交与地区安全格局的重要一环；访韩亦为 APEC（深圳）期间潜在的中韩/中美元首互动铺路。",
+          "stance": "中性（引述韩方表态与行程，呈现事实）",
+          "source_url": "https://www.reuters.com/world/china/chinas-foreign-minister-wang-yi-visit-south-korea-august-19-20-2026-08-18",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "韩国外交部",
+            "路透社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 引号标题补全署名：Kyu-seok Shim）",
+            "evidence_url": "https://www.aol.com/articles/chinas-foreign-minister-wang-yi-060721000.html",
+            "evidence_note": "Reuters 8/18；byline Kyu-seok Shim, Editing by Ed Davies"
+          }
+        },
+        {
+          "id": "20260818-reuters-china-july-loans",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China July bank loans post record contraction as credit demand falters",
+          "title_zh": "中国 7 月新增人民币贷款创纪录收缩，信贷需求疲弱",
+          "published_at": "2026-08-18",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中国金融",
+            "信贷",
+            "货币政策",
+            "内需"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透基于人行数据测算——7 月新增人民币贷款净减少 3400 亿元，为有记录以来最大单月降幅，也是年内第二次收缩（预期为新增 450 亿元、6 月为新增 1.61 万亿元）。居民贷款（含房贷）减少 4603 亿元、企业贷款减少 1300 亿元，显示居民继续去杠杆、民企借款意愿低迷。M2 同比增 7.7%（低于预期），社融同比增 7.4%。分析指实體利率下行但需求不振，政策或更倚财政发力。",
+          "china_angle": "信贷收缩是内需疲弱与房地产调整的金融侧印证，关系到北京稳增长政策空间与中美经贸基本盘。",
+          "stance": "中性（引述数据与分析师，呈现事实）",
+          "source_url": "https://www.reuters.com/business/china-july-bank-loans-contract-record-2026-08-18/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国人民银行",
+            "路透社测算",
+            "市场数据"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：7 月新增贷款净减 3400 亿（史上最大单月降幅），居民与企业双双去杠杆，社融/M2 增速走低。研判：信贷需求疲弱折射内需与地产迟迟未稳，传统货币宽松边际效用递减，政策天平更倾向「加快已批基建财政投放」而非大幅降息；后续关注企业中长贷与居民中长贷（房贷）能否企稳。",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 引号标题补全）",
+            "evidence_url": "https://www.business-standard.com/world-news/china-july-bank-loans-post-record-contraction-as-credit-demand-falters-126081401360_1.html",
+            "evidence_note": "Reuters 测算，基于 PBOC 8/18 数据"
+          }
+        },
+        {
+          "id": "20260818-reuters-china-stocks",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Shanghai, Hong Kong stocks rise as consumer gains offset tech weakness",
+          "title_zh": "消费与地产股回暖抵消科技走弱，上海、中国香港股市走高",
+          "published_at": "2026-08-18",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中国股市",
+            "中国香港股市",
+            "板块轮动",
+            "刺激预期"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透 8 月 18 日报道——在 7 月偏弱物价与宏观数据后，市场押注北京加码财政/产业政策，A 股与港股呈现板块分化：消费、地产股反弹，抵消科技（AI/半导体）回调。上证综指午盘微涨、恒生指数涨约 0.7%，CSI300 消费必需品指数涨近 3%、地产股指数涨约 2%，而通信服务与 AI 指数下挫。投资者在 AI 硬件链获利了结后转向传统顺周期与高股息。",
+          "china_angle": "股市板块轮动反映市场对「弱数据→强政策」的博弈，是中国需求预期与资金面的晴雨表。",
+          "stance": "中性（引述市场表现与分析师，呈现事实）",
+          "source_url": "https://www.reuters.com/markets/china-stocks-rise-consumer-offset-tech-2026-08-18/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "路透社",
+            "市场数据"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 引号标题补全）",
+            "evidence_url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/global-market-shanghai-hong-kong-stocks-rise-as-consumer-gains-offset-tech-weakness/articleshow/133090625.cms",
+            "evidence_note": "Reuters 报道，8/18 亚洲时段"
+          }
+        },
+        {
+          "id": "20260818-bloomberg-china-show-stimulus",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Stimulus Calls Grow After China Economic Data Disappoints | The China Show",
+          "title_zh": "《中国秀》：经济数据令人失望，刺激呼声升温",
+          "published_at": "2026-08-18",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中国经济",
+            "刺激政策",
+            "《中国秀》"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博《中国秀》（The China Show）8 月 18 日节目——主持人 Yvonne Man、David Ingles 围绕最新宏观数据讨论：工业、消费、投资全面逊预期后，市场与分析师对北京出台进一步稳增长措施的呼声升温。节目定位全球投资者，解读中国政策走向与资产影响。",
+          "china_angle": "彭博面向全球投资者的中国政策解读栏目，是外界观察中国刺激预期的重要窗口。",
+          "stance": "中性（节目综述，呈现事实）",
+          "source_url": "https://www.envoy.cirrus.bloomberg.com/news/videos/2026-08-18/the-china-show-8-18-2026-video",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "彭博社《中国秀》"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 标题确认）",
+            "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/videos/2026-08-18/the-china-show-8-18-2026-video",
+            "evidence_note": "Bloomberg The China Show 8/18"
+          }
+        },
+        {
+          "id": "20260818-bloomberg-china-hk-stocks",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Hong Kong, Shanghai stocks rise as consumer shares offset tech weakness",
+          "title_zh": "中国香港、上海股市反弹，消费股抵消科技走弱",
+          "published_at": "2026-08-18",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中国香港股市",
+            "A股",
+            "板块轮动"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博 8 月 18 日报道——在偏弱宏观与物价数据后，市场押注政策加码，中国香港与上海股市走高：恒生指数涨约 0.7%，消费与地产股领涨，芯片、AI 相关股份回调。南向资金 8 月 18 日再现百亿港元级净流入，月初以来净流入超 270 亿港元。机构认为港股正从悲观情绪中走出，但趋势性上涨仍待基本面与盈利改善。",
+          "china_angle": "中国香港股市作为离岸风向标，其反弹与南向资金流向反映国际与内资对中国政策与基本面的预期变化。",
+          "stance": "中性（引述市场与机构，呈现事实）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-18/hong-kong-shanghai-stocks-rise-consumer-shares-offset-tech",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "彭博社",
+            "市场数据"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 标题确认）",
+            "evidence_url": "https://www.163.com/dy/article/L4MAUTOL0514CQIE.html",
+            "evidence_note": "彭博/网易转述，8/18 港股盘面"
+          }
+        },
+        {
+          "id": "20260818-bloomberg-unitree-ipo",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Unitree Robotics' IPO draws frenzied retail demand",
+          "title_zh": "宇树科技 IPO 引疯狂散户申购",
+          "published_at": "2026-08-18",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "宇树科技",
+            "人形机器人",
+            "IPO",
+            "中国硬科技"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博报道——人形机器人企业宇树科技（Unitree Robotics）IPO 获得散户疯狂申购，面向散户的份额认购倍数超 5500 倍，显示资本市场对中国硬科技（机器人/AI 硬件）的极高热情。该热度与 CXMT 登顶、长鑫/宇树相继引爆认购相互印证，构成中国「硬件公司」投资浪潮的一环。",
+          "china_angle": "宇树 IPO 狂热是「资金从互联网巨头转向硬科技」叙事的注脚，体现中国 AI/机器人产业的资本热度。",
+          "stance": "中性（引述申购数据与背景，呈现事实）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-ipo-frenzied-retail-demand",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "彭博社",
+            "市场数据"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 标题确认，引 CXMT 文互证）",
+            "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era",
+            "evidence_note": "Bloomberg 8/17 CXMT 文提及宇树 IPO 申购超 5500 倍"
+          }
+        },
+        {
+          "id": "20260818-reuters-china-july-data",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's industrial output slows in July as retail sales miss forecasts",
+          "title_zh": "中国 7 月工业产出放缓、零售销售逊于预期",
+          "published_at": "2026-08-17",
+          "published_precision": "day",
+          "authors": [
+            "Kevin Yao",
+            "Ethan Wang"
+          ],
+          "author_locations": "北京",
+          "authors_status": "named",
+          "topics": [
+            "中国经济",
+            "宏观数据",
+            "内需",
+            "极端天气"
+          ],
+          "importance": "high",
+          "summary_zh": "路透 8 月 17 日报道——国家统计局数据显示，7 月规模以上工业增加值同比仅增 4.5%，低于 6 月的 5.3% 与预期的 4.8%；零售销售同比仅增 0.6%，远逊预期的 1.5%，为连续第二个月走弱。固定资産投资 1—7 月同比收缩 6.7%（房地产投资约降 19%）。异常活跃的极端天气（三场台风登陆、数百万人在东部与南部制造枢纽撤离）拖累产出与航运。分析认为，内需疲弱、外需（AI 基建带动出口）成唯一支柱，令下半年增长承压，市场关注北京是否出台新刺激。",
+          "china_angle": "中国 7 月宏观数据全面走弱，是下半年开局疲弱的信号，直接关系全年 4.5%—5% 增长目标的可达性，亦牵动中美经贸与全球需求叙事。",
+          "stance": "中性（引述数据与分析师，呈现事实）",
+          "source_url": "https://www.reuters.com/world/china/chinas-industrial-output-slows-july-retail-sales-miss-forecasts-2026-08-17/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "国家统计局",
+            "路透社",
+            "市场数据"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：工业 +4.5%/零售 +0.6%/固投 1—7 月 -6.7%，均逊预期，且极端天气叠加补贴退坡。研判：经济呈「出口强、内需弱」的两速格局，房地产与投资持续拖累；若三季度无增量财政/地产托底，全年目标达成难度上升。后续关注政治局后续增量政策与 9 月前后是否出台新一轮刺激。",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 引号标题补全署名：Kevin Yao、Ethan Wang）",
+            "evidence_url": "https://in.marketscreener.com/news/china-s-industrial-output-slows-in-july-retail-sales-miss-forecasts-ce7859dfd181f620",
+            "evidence_note": "Reuters 8/17；byline Kevin Yao and Ethan Wang"
+          }
+        },
+        {
+          "id": "20260818-bloomberg-cxmt-most-valuable",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "CXMT's Rise to China's Most Valuable Firm Heralds New Tech Era",
+          "title_zh": "长鑫存储登顶中国市值最高公司，预示硬科技新时代",
+          "published_at": "2026-08-17",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "半导体",
+            "CXMT",
+            "AI 基建",
+            "中概股市值"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博 8 月 17 日报道——存储芯片厂商长鑫存储（CXMT）市值突破 5000 亿美元，超越腾讯成为「最具价值的中国公司」，被视为资本从中国互联网巨头转向与北京战略意图更契合的新一代硬件企业的标志性转折。CXMT 被视为中国 AI 基建版图的核心，上月登陆上海市场后股价暴涨；数日前宇树科技 IPO 散户申购超 5500 倍，显示硬科技投资热潮。两者均深嵌于中国「赶超美国」的技术自主叙事。",
+          "china_angle": "CXMT 登顶折射中国资本与产业政策向半导体/AI 硬件集中，是中美科技竞争与国产替代叙事的关键信号。",
+          "stance": "中性（引述市值与分析师，呈现事实）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "彭博社",
+            "市场数据",
+            "Allspring Global Investments"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 引号标题补全）",
+            "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era",
+            "evidence_note": "Bloomberg 8/17"
+          }
+        },
+        {
+          "id": "20260818-bloomberg-china-economy-slowdown",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China's Economy Extends Slowdown by Weakening Across the Board",
+          "title_zh": "中国经济全面走弱、放缓延续",
+          "published_at": "2026-08-17",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中国经济",
+            "宏观数据",
+            "刺激预期"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博 8 月 17 日报道——中国下半年开局疲弱：7 月工业增加值同比仅增 4.5%（三个月来首次放缓、逊预期），零售销售增速放缓至 0.6%；固定资産投资 1—7 月同比降 6.7%。内需不足与极端天气扰动，叠加数月财政克制，令本已承压的经济雪上加霜。BNP、ING 等分析师称数据「全面令人失望」，预示未来数周出台托底支持的几率上升。",
+          "china_angle": "与路透口径一致，彭博侧确认中国经济 7 月全面走弱，强化全球对中国刺激政策的预期。",
+          "stance": "中性（引述数据与分析师，呈现事实）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "彭博社",
+            "国家统计局",
+            "市场数据"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：工业 +4.5%/零售 +0.6%/固投 1—7 月 -6.7%，彭博称「全面走弱」；极端天气+财政克制是主因。研判：与路透结论互证，下半年增长动能减弱，市场计入「9 月前后增量刺激」概率上升；关注财政（政策性金融工具）与地产边际松绑。",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 引号标题补全）",
+            "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board",
+            "evidence_note": "Bloomberg 8/17"
+          }
+        },
+        {
+          "id": "20260818-reuters-china-property",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China real estate investment extends slump in first seven months",
+          "title_zh": "中国房地产投资前 7 月延续下滑",
+          "published_at": "2026-08-17",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中国房地产",
+            "固定资产投资",
+            "内需"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透 8 月 17 日报道——伴随 7 月宏观数据发布，房地产投资成为整体固定资产投资的主要拖累：1—7 月房地产开发投资同比约降 19%，为连续多月两位数下滑；新房销售面积同步走低。统计局称经济「总体平稳」但国内需求仍弱。分析认为，地产企稳是内需修复的前置条件，当前政策托底力度尚不足以扭转预期。",
+          "china_angle": "房地产是中国内需与居民财富的核心变量，其持续下滑直接拖累增长并放大金融风险，是宏观叙事的关键线索。",
+          "stance": "中性（引述数据与分析师，呈现事实）",
+          "source_url": "https://www.reuters.com/world/china/china-property-investment-jan-jul-2026-08-17/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "国家统计局",
+            "路透社"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "核心事实：1—7 月房地产开发投资同比约降 19%，销售面积走低，为固投主要拖累。研判：地产「量价齐弱」未止，居民加杠杆意愿低、房企现金流紧，拖累上下游与地方政府收入；政策若仅碎片化托底难改预期，后续关注一线城市限购进一步松绑与收储/棚改类增量工具。",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 引号标题补全）",
+            "evidence_url": "https://civl.com/news/story/china-posts-weak-july-economic-figures-with-retail-sales-and-investment-declines-7918a52d",
+            "evidence_note": "NBS 8/17 数据；路透/CNBC/FT 转述"
+          }
+        },
+        {
+          "id": "20260818-reuters-china-deflation",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's consumer, producer prices cool further, deepening deflation压力",
+          "title_zh": "中国 CPI 与 PPI 续走弱，通缩压力加深",
+          "published_at": "2026-08-17",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中国物价",
+            "通缩",
+            "宏观政策"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透 8 月 17 日报道——7 月物价数据延续偏弱：居民消费价格（CPI）同比降温、工业生产者出厂价格（PPI）降幅扩大至三个月最弱，反映国内需求不足与产能过剩压力。通缩倾向压缩企业盈利与债务实际成本，亦限制货币政策实际空间。分析认为，物价持续低位强化了出台需求侧刺激（消费补贴、财政加力）的必要性。",
+          "china_angle": "物价持续偏低是「强供给、弱需求」失衡的价格映射，关系到稳增长政策节奏与中美「中国输出通缩」叙事。",
+          "stance": "中性（引述数据与分析师，呈现事实）",
+          "source_url": "https://www.reuters.com/world/china/china-july-cpi-ppi-cooling-2026-08-17/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "国家统计局",
+            "路透社"
+          ],
+          "sentiment": "negative",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 引号标题补全）",
+            "evidence_url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/global-market-shanghai-hong-kong-stocks-rise-as-consumer-gains-offset-tech-weakness/articleshow/133090625.cms",
+            "evidence_note": "Reuters 报道 7 月 CPI/PPI 偏弱"
+          }
+        },
+        {
+          "id": "20260818-bloomberg-alibaba-ai-model",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Alibaba unveils new AI model that can compose full songs",
+          "title_zh": "阿里巴巴推出可创作完整歌曲的新 AI 模型",
+          "published_at": "2026-08-17",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "阿里巴巴",
+            "通义千问",
+            "生成式 AI",
+            "中国AI"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博 8 月 17 日报道——阿里巴巴发布新 AI 模型，可根据描述情感、故事或音乐风格的提示生成完整歌曲，延续其通义千问家族在生成式 AI 上的扩张。此前通义千问下载量已突破 30 亿次、超越 Meta 与谷歌，成为下载量最高的开源模型家族之一。阿里以开源策略扩大开发者生态，是中国在基础模型领域影响力上升的标志。",
+          "china_angle": "阿里新模型与通义千问生态是中国 AI 开源路线与全球竞争力叙事的组成部分，呼应 CXMT 登顶所揭示的硬科技转向。",
+          "stance": "中性（引述产品与下载数据，呈现事实）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-unveils-ai-model-that-composes-songs",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "彭博社",
+            "市场数据"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道C（WebSearch 标题确认）",
+            "evidence_url": "http://marketmatrix.net/topic/bloomberg.htm",
+            "evidence_note": "Bloomberg 8/17 中文市场矩阵转述"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 13,
+        "by_media": {
+          "路透社": 7,
+          "彭博社": 6
+        },
+        "sentiment_split": {
+          "negative": 6,
+          "neutral": 7,
+          "positive": 0
+        },
+        "negatives": [
+          "20260818-reuters-china-july-data",
+          "20260818-reuters-us-taiwan-trade-talks",
+          "20260818-reuters-china-july-loans",
+          "20260818-reuters-china-property",
+          "20260818-bloomberg-china-economy-slowdown"
+        ],
+        "top_topics": [
+          [
+            "中国经济",
+            3
+          ],
+          [
+            "内需",
+            3
+          ],
+          [
+            "宏观数据",
+            2
+          ],
+          [
+            "中国香港股市",
+            2
+          ],
+          [
+            "板块轮动",
+            2
+          ],
+          [
+            "刺激预期",
+            2
+          ]
+        ],
+        "key_takeaway": "中国 7 月工业产出放缓、零售销售逊于预期"
+      }
+    },
     "2026-08-17": {
       "file": "2026-08-17.json",
       "scan_time": "2026-08-17T09:00:00+08:00",
@@ -20436,69 +22572,2065 @@ window.__XFS_DATA__ = {
         "美国监管方（白宫/相关机构）"
       ],
       "_day": "2026-08-17"
+    },
+    {
+      "id": "20260818-reuters-china-july-data",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's industrial output slows in July as retail sales miss forecasts",
+      "title_zh": "中国 7 月工业产出放缓、零售销售逊于预期",
+      "published_at": "2026-08-17",
+      "published_precision": "day",
+      "authors": [
+        "Kevin Yao",
+        "Ethan Wang"
+      ],
+      "author_locations": "北京",
+      "authors_status": "named",
+      "topics": [
+        "中国经济",
+        "宏观数据",
+        "内需",
+        "极端天气"
+      ],
+      "importance": "high",
+      "summary_zh": "路透 8 月 17 日报道——国家统计局数据显示，7 月规模以上工业增加值同比仅增 4.5%，低于 6 月的 5.3% 与预期的 4.8%；零售销售同比仅增 0.6%，远逊预期的 1.5%，为连续第二个月走弱。固定资産投资 1—7 月同比收缩 6.7%（房地产投资约降 19%）。异常活跃的极端天气（三场台风登陆、数百万人在东部与南部制造枢纽撤离）拖累产出与航运。分析认为，内需疲弱、外需（AI 基建带动出口）成唯一支柱，令下半年增长承压，市场关注北京是否出台新刺激。",
+      "china_angle": "中国 7 月宏观数据全面走弱，是下半年开局疲弱的信号，直接关系全年 4.5%—5% 增长目标的可达性，亦牵动中美经贸与全球需求叙事。",
+      "stance": "中性（引述数据与分析师，呈现事实）",
+      "source_url": "https://www.reuters.com/world/china/chinas-industrial-output-slows-july-retail-sales-miss-forecasts-2026-08-17/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "国家统计局",
+        "路透社",
+        "市场数据"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：工业 +4.5%/零售 +0.6%/固投 1—7 月 -6.7%，均逊预期，且极端天气叠加补贴退坡。研判：经济呈「出口强、内需弱」的两速格局，房地产与投资持续拖累；若三季度无增量财政/地产托底，全年目标达成难度上升。后续关注政治局后续增量政策与 9 月前后是否出台新一轮刺激。",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 引号标题补全署名：Kevin Yao、Ethan Wang）",
+        "evidence_url": "https://in.marketscreener.com/news/china-s-industrial-output-slows-in-july-retail-sales-miss-forecasts-ce7859dfd181f620",
+        "evidence_note": "Reuters 8/17；byline Kevin Yao and Ethan Wang"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260818-reuters-wang-yi-south-korea",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's foreign minister to visit South Korea from August 19-20",
+      "title_zh": "中国外长王毅将于 8 月 19—20 日访问韩国",
+      "published_at": "2026-08-18",
+      "published_precision": "day",
+      "authors": [
+        "Kyu-seok Shim"
+      ],
+      "author_locations": "首尔",
+      "authors_status": "named",
+      "topics": [
+        "中国外交",
+        "中韩关系",
+        "朝鲜半岛",
+        "APEC"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透 8 月 18 日报道——韩国外交部称，中国外长王毅将于 8 月 19—20 日访韩，是其五年来首次正式访韩。王毅抵韩后分别与外长赵显、国安首长魏圣洛会谈并共进午餐，总统李在明将于 20 日会见。议题涵盖中韩关系、朝鲜半岛局势及地区事务。此访在 11 月深圳 APEC 峰会前，意在为高层交往预热；背景是韩美缩减联合军演、特朗普谋求重启与金正恩外交。",
+      "china_angle": "中韩关系回暖、中方在朝鲜半岛事务中的角色上升，是周边外交与地区安全格局的重要一环；访韩亦为 APEC（深圳）期间潜在的中韩/中美元首互动铺路。",
+      "stance": "中性（引述韩方表态与行程，呈现事实）",
+      "source_url": "https://www.reuters.com/world/china/chinas-foreign-minister-wang-yi-visit-south-korea-august-19-20-2026-08-18",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "韩国外交部",
+        "路透社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 引号标题补全署名：Kyu-seok Shim）",
+        "evidence_url": "https://www.aol.com/articles/chinas-foreign-minister-wang-yi-060721000.html",
+        "evidence_note": "Reuters 8/18；byline Kyu-seok Shim, Editing by Ed Davies"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260818-reuters-us-taiwan-trade-talks",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "U.S., Taiwan to start formal trade talks under new initiative",
+      "title_zh": "美国与中国台湾地区将依新倡议启动正式贸易谈判",
+      "published_at": "2026-08-18",
+      "published_precision": "day",
+      "authors": [
+        "Ben Blanchard"
+      ],
+      "author_locations": "台北",
+      "authors_status": "named",
+      "topics": [
+        "中国台湾",
+        "美台关系",
+        "中美关系",
+        "贸易"
+      ],
+      "importance": "high",
+      "summary_zh": "路透 8 月 18 日报道——美国与中国台湾地区同意在「美台 21 世纪贸易倡议」下启动正式谈判，目标达成「具经济意义的成果」。台方谈判代表邓振中说，首轮谈判拟于初秋举行，并希望最终迈向自由贸易协议；台方称亦将讨论所谓「经济胁迫」（指向中国大陆）。北京重申反对任何国家与台湾签署官方性质贸易协议，国台办发言人马晓光表示坚决反对美国与中国台湾地区洽商任何具主权意涵或官方性质的协议，并重申一个中国原则。",
+      "china_angle": "涉及中国台湾地区。报道美方与台方推进贸易倡议、北京表示反对，是中美博弈与台海议题的一环，须以「中国台湾」表述；中方立场为一个中国原则与中美三个联合公报。",
+      "stance": "中性（引述双方表态，呈现事实）",
+      "source_url": "https://reuters.omni.se/u-s-taiwan-to-start-formal-trade-talks-under-new-initiative/a/0GeWME",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "美国贸易代表办公室",
+        "台湾谈判代表",
+        "国台办",
+        "路透社"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：美台依「21 世纪贸易倡议」启动正式谈判，台方称将讨论「经济胁迫」；北京重申一个中国原则、反对任何具官方/主权意涵的协议。研判：此类经贸安排被北京视为美台官方往来升温，加剧中美摩擦与台海紧张；后续关注首轮谈判时点、是否触及关税及中方反制措辞。",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 引号标题补全署名：Ben Blanchard）",
+        "evidence_url": "https://reuters.omni.se/u-s-taiwan-to-start-formal-trade-talks-under-new-initiative/a/0GeWME",
+        "evidence_note": "Reuters 8/18；byline Ben Blanchard, Additional reporting Eduardo Baptista"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260818-reuters-china-july-loans",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China July bank loans post record contraction as credit demand falters",
+      "title_zh": "中国 7 月新增人民币贷款创纪录收缩，信贷需求疲弱",
+      "published_at": "2026-08-18",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中国金融",
+        "信贷",
+        "货币政策",
+        "内需"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透基于人行数据测算——7 月新增人民币贷款净减少 3400 亿元，为有记录以来最大单月降幅，也是年内第二次收缩（预期为新增 450 亿元、6 月为新增 1.61 万亿元）。居民贷款（含房贷）减少 4603 亿元、企业贷款减少 1300 亿元，显示居民继续去杠杆、民企借款意愿低迷。M2 同比增 7.7%（低于预期），社融同比增 7.4%。分析指实體利率下行但需求不振，政策或更倚财政发力。",
+      "china_angle": "信贷收缩是内需疲弱与房地产调整的金融侧印证，关系到北京稳增长政策空间与中美经贸基本盘。",
+      "stance": "中性（引述数据与分析师，呈现事实）",
+      "source_url": "https://www.reuters.com/business/china-july-bank-loans-contract-record-2026-08-18/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国人民银行",
+        "路透社测算",
+        "市场数据"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：7 月新增贷款净减 3400 亿（史上最大单月降幅），居民与企业双双去杠杆，社融/M2 增速走低。研判：信贷需求疲弱折射内需与地产迟迟未稳，传统货币宽松边际效用递减，政策天平更倾向「加快已批基建财政投放」而非大幅降息；后续关注企业中长贷与居民中长贷（房贷）能否企稳。",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 引号标题补全）",
+        "evidence_url": "https://www.business-standard.com/world-news/china-july-bank-loans-post-record-contraction-as-credit-demand-falters-126081401360_1.html",
+        "evidence_note": "Reuters 测算，基于 PBOC 8/18 数据"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260818-reuters-china-property",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China real estate investment extends slump in first seven months",
+      "title_zh": "中国房地产投资前 7 月延续下滑",
+      "published_at": "2026-08-17",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中国房地产",
+        "固定资产投资",
+        "内需"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透 8 月 17 日报道——伴随 7 月宏观数据发布，房地产投资成为整体固定资产投资的主要拖累：1—7 月房地产开发投资同比约降 19%，为连续多月两位数下滑；新房销售面积同步走低。统计局称经济「总体平稳」但国内需求仍弱。分析认为，地产企稳是内需修复的前置条件，当前政策托底力度尚不足以扭转预期。",
+      "china_angle": "房地产是中国内需与居民财富的核心变量，其持续下滑直接拖累增长并放大金融风险，是宏观叙事的关键线索。",
+      "stance": "中性（引述数据与分析师，呈现事实）",
+      "source_url": "https://www.reuters.com/world/china/china-property-investment-jan-jul-2026-08-17/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "国家统计局",
+        "路透社"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：1—7 月房地产开发投资同比约降 19%，销售面积走低，为固投主要拖累。研判：地产「量价齐弱」未止，居民加杠杆意愿低、房企现金流紧，拖累上下游与地方政府收入；政策若仅碎片化托底难改预期，后续关注一线城市限购进一步松绑与收储/棚改类增量工具。",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 引号标题补全）",
+        "evidence_url": "https://civl.com/news/story/china-posts-weak-july-economic-figures-with-retail-sales-and-investment-declines-7918a52d",
+        "evidence_note": "NBS 8/17 数据；路透/CNBC/FT 转述"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260818-reuters-china-deflation",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's consumer, producer prices cool further, deepening deflation压力",
+      "title_zh": "中国 CPI 与 PPI 续走弱，通缩压力加深",
+      "published_at": "2026-08-17",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中国物价",
+        "通缩",
+        "宏观政策"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透 8 月 17 日报道——7 月物价数据延续偏弱：居民消费价格（CPI）同比降温、工业生产者出厂价格（PPI）降幅扩大至三个月最弱，反映国内需求不足与产能过剩压力。通缩倾向压缩企业盈利与债务实际成本，亦限制货币政策实际空间。分析认为，物价持续低位强化了出台需求侧刺激（消费补贴、财政加力）的必要性。",
+      "china_angle": "物价持续偏低是「强供给、弱需求」失衡的价格映射，关系到稳增长政策节奏与中美「中国输出通缩」叙事。",
+      "stance": "中性（引述数据与分析师，呈现事实）",
+      "source_url": "https://www.reuters.com/world/china/china-july-cpi-ppi-cooling-2026-08-17/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "国家统计局",
+        "路透社"
+      ],
+      "sentiment": "negative",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 引号标题补全）",
+        "evidence_url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/global-market-shanghai-hong-kong-stocks-rise-as-consumer-gains-offset-tech-weakness/articleshow/133090625.cms",
+        "evidence_note": "Reuters 报道 7 月 CPI/PPI 偏弱"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260818-reuters-china-stocks",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Shanghai, Hong Kong stocks rise as consumer gains offset tech weakness",
+      "title_zh": "消费与地产股回暖抵消科技走弱，上海、中国香港股市走高",
+      "published_at": "2026-08-18",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中国股市",
+        "中国香港股市",
+        "板块轮动",
+        "刺激预期"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透 8 月 18 日报道——在 7 月偏弱物价与宏观数据后，市场押注北京加码财政/产业政策，A 股与港股呈现板块分化：消费、地产股反弹，抵消科技（AI/半导体）回调。上证综指午盘微涨、恒生指数涨约 0.7%，CSI300 消费必需品指数涨近 3%、地产股指数涨约 2%，而通信服务与 AI 指数下挫。投资者在 AI 硬件链获利了结后转向传统顺周期与高股息。",
+      "china_angle": "股市板块轮动反映市场对「弱数据→强政策」的博弈，是中国需求预期与资金面的晴雨表。",
+      "stance": "中性（引述市场表现与分析师，呈现事实）",
+      "source_url": "https://www.reuters.com/markets/china-stocks-rise-consumer-offset-tech-2026-08-18/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "路透社",
+        "市场数据"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 引号标题补全）",
+        "evidence_url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/global-market-shanghai-hong-kong-stocks-rise-as-consumer-gains-offset-tech-weakness/articleshow/133090625.cms",
+        "evidence_note": "Reuters 报道，8/18 亚洲时段"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260818-bloomberg-cxmt-most-valuable",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "CXMT's Rise to China's Most Valuable Firm Heralds New Tech Era",
+      "title_zh": "长鑫存储登顶中国市值最高公司，预示硬科技新时代",
+      "published_at": "2026-08-17",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "半导体",
+        "CXMT",
+        "AI 基建",
+        "中概股市值"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博 8 月 17 日报道——存储芯片厂商长鑫存储（CXMT）市值突破 5000 亿美元，超越腾讯成为「最具价值的中国公司」，被视为资本从中国互联网巨头转向与北京战略意图更契合的新一代硬件企业的标志性转折。CXMT 被视为中国 AI 基建版图的核心，上月登陆上海市场后股价暴涨；数日前宇树科技 IPO 散户申购超 5500 倍，显示硬科技投资热潮。两者均深嵌于中国「赶超美国」的技术自主叙事。",
+      "china_angle": "CXMT 登顶折射中国资本与产业政策向半导体/AI 硬件集中，是中美科技竞争与国产替代叙事的关键信号。",
+      "stance": "中性（引述市值与分析师，呈现事实）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "彭博社",
+        "市场数据",
+        "Allspring Global Investments"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 引号标题补全）",
+        "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era",
+        "evidence_note": "Bloomberg 8/17"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260818-bloomberg-china-economy-slowdown",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China's Economy Extends Slowdown by Weakening Across the Board",
+      "title_zh": "中国经济全面走弱、放缓延续",
+      "published_at": "2026-08-17",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中国经济",
+        "宏观数据",
+        "刺激预期"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博 8 月 17 日报道——中国下半年开局疲弱：7 月工业增加值同比仅增 4.5%（三个月来首次放缓、逊预期），零售销售增速放缓至 0.6%；固定资産投资 1—7 月同比降 6.7%。内需不足与极端天气扰动，叠加数月财政克制，令本已承压的经济雪上加霜。BNP、ING 等分析师称数据「全面令人失望」，预示未来数周出台托底支持的几率上升。",
+      "china_angle": "与路透口径一致，彭博侧确认中国经济 7 月全面走弱，强化全球对中国刺激政策的预期。",
+      "stance": "中性（引述数据与分析师，呈现事实）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "彭博社",
+        "国家统计局",
+        "市场数据"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：工业 +4.5%/零售 +0.6%/固投 1—7 月 -6.7%，彭博称「全面走弱」；极端天气+财政克制是主因。研判：与路透结论互证，下半年增长动能减弱，市场计入「9 月前后增量刺激」概率上升；关注财政（政策性金融工具）与地产边际松绑。",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 引号标题补全）",
+        "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board",
+        "evidence_note": "Bloomberg 8/17"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260818-bloomberg-china-show-stimulus",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Stimulus Calls Grow After China Economic Data Disappoints | The China Show",
+      "title_zh": "《中国秀》：经济数据令人失望，刺激呼声升温",
+      "published_at": "2026-08-18",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中国经济",
+        "刺激政策",
+        "《中国秀》"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博《中国秀》（The China Show）8 月 18 日节目——主持人 Yvonne Man、David Ingles 围绕最新宏观数据讨论：工业、消费、投资全面逊预期后，市场与分析师对北京出台进一步稳增长措施的呼声升温。节目定位全球投资者，解读中国政策走向与资产影响。",
+      "china_angle": "彭博面向全球投资者的中国政策解读栏目，是外界观察中国刺激预期的重要窗口。",
+      "stance": "中性（节目综述，呈现事实）",
+      "source_url": "https://www.envoy.cirrus.bloomberg.com/news/videos/2026-08-18/the-china-show-8-18-2026-video",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "彭博社《中国秀》"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 标题确认）",
+        "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/videos/2026-08-18/the-china-show-8-18-2026-video",
+        "evidence_note": "Bloomberg The China Show 8/18"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260818-bloomberg-china-hk-stocks",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Hong Kong, Shanghai stocks rise as consumer shares offset tech weakness",
+      "title_zh": "中国香港、上海股市反弹，消费股抵消科技走弱",
+      "published_at": "2026-08-18",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中国香港股市",
+        "A股",
+        "板块轮动"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博 8 月 18 日报道——在偏弱宏观与物价数据后，市场押注政策加码，中国香港与上海股市走高：恒生指数涨约 0.7%，消费与地产股领涨，芯片、AI 相关股份回调。南向资金 8 月 18 日再现百亿港元级净流入，月初以来净流入超 270 亿港元。机构认为港股正从悲观情绪中走出，但趋势性上涨仍待基本面与盈利改善。",
+      "china_angle": "中国香港股市作为离岸风向标，其反弹与南向资金流向反映国际与内资对中国政策与基本面的预期变化。",
+      "stance": "中性（引述市场与机构，呈现事实）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-18/hong-kong-shanghai-stocks-rise-consumer-shares-offset-tech",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "彭博社",
+        "市场数据"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 标题确认）",
+        "evidence_url": "https://www.163.com/dy/article/L4MAUTOL0514CQIE.html",
+        "evidence_note": "彭博/网易转述，8/18 港股盘面"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260818-bloomberg-alibaba-ai-model",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Alibaba unveils new AI model that can compose full songs",
+      "title_zh": "阿里巴巴推出可创作完整歌曲的新 AI 模型",
+      "published_at": "2026-08-17",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "阿里巴巴",
+        "通义千问",
+        "生成式 AI",
+        "中国AI"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博 8 月 17 日报道——阿里巴巴发布新 AI 模型，可根据描述情感、故事或音乐风格的提示生成完整歌曲，延续其通义千问家族在生成式 AI 上的扩张。此前通义千问下载量已突破 30 亿次、超越 Meta 与谷歌，成为下载量最高的开源模型家族之一。阿里以开源策略扩大开发者生态，是中国在基础模型领域影响力上升的标志。",
+      "china_angle": "阿里新模型与通义千问生态是中国 AI 开源路线与全球竞争力叙事的组成部分，呼应 CXMT 登顶所揭示的硬科技转向。",
+      "stance": "中性（引述产品与下载数据，呈现事实）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-unveils-ai-model-that-composes-songs",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "彭博社",
+        "市场数据"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 标题确认）",
+        "evidence_url": "http://marketmatrix.net/topic/bloomberg.htm",
+        "evidence_note": "Bloomberg 8/17 中文市场矩阵转述"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260818-bloomberg-unitree-ipo",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Unitree Robotics' IPO draws frenzied retail demand",
+      "title_zh": "宇树科技 IPO 引疯狂散户申购",
+      "published_at": "2026-08-18",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "宇树科技",
+        "人形机器人",
+        "IPO",
+        "中国硬科技"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博报道——人形机器人企业宇树科技（Unitree Robotics）IPO 获得散户疯狂申购，面向散户的份额认购倍数超 5500 倍，显示资本市场对中国硬科技（机器人/AI 硬件）的极高热情。该热度与 CXMT 登顶、长鑫/宇树相继引爆认购相互印证，构成中国「硬件公司」投资浪潮的一环。",
+      "china_angle": "宇树 IPO 狂热是「资金从互联网巨头转向硬科技」叙事的注脚，体现中国 AI/机器人产业的资本热度。",
+      "stance": "中性（引述申购数据与背景，呈现事实）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-ipo-frenzied-retail-demand",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "彭博社",
+        "市场数据"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道C（WebSearch 标题确认，引 CXMT 文互证）",
+        "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era",
+        "evidence_note": "Bloomberg 8/17 CXMT 文提及宇树 IPO 申购超 5500 倍"
+      },
+      "_day": "2026-08-18"
+    },
+    {
+      "id": "20260819-reuters-china-digital-sovereignty-ai",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China urges respect for digital sovereignty in AI race",
+      "title_zh": "中国敦促在人工智能竞赛中尊重各国数字主权",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Ethan Wang",
+        "Liz Lee"
+      ],
+      "author_locations": "北京",
+      "authors_status": "named",
+      "topics": [
+        "中美AI竞争",
+        "数字主权",
+        "AI治理",
+        "外交部"
+      ],
+      "importance": "high",
+      "summary_zh": "路透8月19日报道——针对美方据报将致信35个《人工智能机遇伙伴关系联合声明》签署方、要求其在美中AI阵营间选边站，中国外交部发言人林剑在例行记者会上表示，中方坚决反对在人工智能问题上搞选边站队、阵营对抗，希望各方摒弃零和思维、尊重各国数字主权，各国有权根据自身国情选择合作伙伴。林剑称AI应成为促进共同繁荣、维护共同安全的动力。报道指出，美方内部草案将警告相关国家若同时加入与美方倡议冲突的其他机制，可能被排除在美国主导的AI合作体系之外。",
+      "china_angle": "以中美AI治理角力为报道主轴；中方以“数字主权”话语反制美方“选边站”施压，是AI规则之争与数字治理话语权的关键切面。",
+      "stance": "中性（引述外交部表态与美方草案背景，呈现双方立场）",
+      "source_url": "https://www.reuters.com/world/china/china-urges-respect-digital-sovereignty-ai-race-2026-08-19/",
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：美方拟致信35国要求在中美AI间选边；林剑回应反对选边、强调数字主权与各国自主选择。研判：继芯片出口管制、实体清单后，美方将博弈前推至AI规则与盟友阵营绑定，中方以“数字主权”“去阵营化”话语对冲；与近期世界人工智能合作组织(上海)成立、中方开源模型全球扩散相互呼应，反映AI竞争正从算力/模型层升至治理与联盟层。",
+      "provenance": {
+        "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Ethan Wang、Liz Lee；经 Yahoo News 转载确认全文）",
+        "evidence_url": "https://www.yahoo.com/news/world/articles/china-urges-respect-digital-sovereignty-074733149.html",
+        "evidence_note": "Reuters 8/19；byline Ethan Wang、Liz Lee；reuters.com 单篇JS墙，URL 由标题重建，经 Yahoo News 转载确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "美国国务院",
+        "外交部(林剑)",
+        "《人工智能机遇伙伴关系联合声明》"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-reuters-china-blocks-eu-jd-probe",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China orders entities not to assist EU's JD.com probe",
+      "title_zh": "中国命令境内实体不得协助欧盟对京东的反补贴调查",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Yukun Zhang",
+        "Xiuhao Chen",
+        "Liz Lee"
+      ],
+      "author_locations": "北京",
+      "authors_status": "named",
+      "topics": [
+        "中欧贸易",
+        "反补贴",
+        "域外管辖",
+        "京东",
+        "反制"
+      ],
+      "importance": "high",
+      "summary_zh": "路透8月19日报道——中国司法部会同商务部等部门认定，欧盟依据《外国补贴条例》(FSR)在对京东调查中向中国实体提出的跨境信息索取构成“不当域外管辖”，并命令任何组织、个人不得执行或协助该措施。这是中方自4月《反外国不当域外管辖条例》生效以来第二次动用该工具（首次为5月针对欧盟对安检企业同方威视Nuctech的调查）。京东拟以约25亿美元收购德国电子零售商Ceconomy，欧盟于5月28日立案、7月22日发出异议声明，指其或获中国补贴扭曲欧盟市场。中方警告若欧方一意孤行将坚决依法反制。",
+      "china_angle": "涉中欧经贸核心摩擦；中方以国内反制立法对冲欧盟FSR调查，是“去风险”话语下中欧制度博弈升温的标志性事件，关联中企出海与欧盟市场准入。",
+      "stance": "负面（中欧贸易摩擦升级、中方反制、关系紧张）",
+      "source_url": "https://www.reuters.com/world/china/china-orders-entities-not-assist-eu-jd-com-probe-2026-08-19/",
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "核心事实：司法部认定欧盟对京东FSR调查构成“不当域外管辖”，命令境内实体不得执行/协助；系《反外国不当域外管辖条例》第二次适用（首次Nuctech）。研判：① 中方将反制工具常态化，以国内法对冲欧盟“去风险”式监管，标志中欧从贸易摩擦迈向法律—制度博弈；② 京东收购Ceconomy(25亿美元)受阻，中企欧洲扩张遇制度性壁垒；③ 后续关注10月2日欧委会终裁、中方可能的实体清单/签证反制，以及新能源(金风)、安检等行业的连锁调查风险。",
+      "provenance": {
+        "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Yukun Zhang、Xiuhao Chen、Liz Lee；经 Global Banking & Finance Review 转载确认全文）",
+        "evidence_url": "https://www.globalbankingandfinance.com/china-orders-entities-assist-eus-jd-com-probe",
+        "evidence_note": "Reuters 8/19；byline Yukun Zhang、Xiuhao Chen、Liz Lee；reuters.com JS墙，URL 由标题重建，经 GBAF 转载确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国司法部",
+        "中国商务部",
+        "欧盟委员会",
+        "京东(JD.com)",
+        "Ceconomy",
+        "《外国补贴条例》(FSR)"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-reuters-rocket-launch-tourism",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "In China, rocket launches fuel tourism and space-age dreams",
+      "title_zh": "在中国，火箭发射点燃文旅热与太空梦",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Maxim Shemetov"
+      ],
+      "author_locations": "文昌/海南",
+      "authors_status": "named",
+      "topics": [
+        "航天文旅",
+        "商业航天",
+        "太空",
+        "文化"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透8月20日（发自文昌，报道事件发生于8月19日夜）报道——8月19日晚，海南文昌航天发射场周边海滩聚集数千民众观看长征七号A火箭发射；火箭升空后不久在空中意外爆燃（央视随后确认），但围观人群仍为之沸腾。报道呈现中国航天从偏远沙漠的机密任务走向向公众开放、成为文旅与集体文化体验的变迁：内蒙古乌兰哈达火山地质公园变身“火星模拟”打卡地、北京宋庄“共振”宇航员雕塑、首钢园Pop Mart“太空 Molly”等。中国计划2030年前载人登月、继而火星任务。",
+      "china_angle": "以中国航天公众化、文旅化为切面，呈现中国航天 ambitions 与国民文化自信的互动，关联商业航天与“太空旅游”新兴赛道。",
+      "stance": "中性偏积极（呈现航天文旅兴起与文化现象）",
+      "source_url": "https://www.reuters.com/world/china/rocket-launches-fuel-tourism-space-age-dreams-2026-08-19/",
+      "sentiment": "positive",
+      "is_negative": false,
+      "deep_analysis": "核心事实：8/19夜文昌长征七号A发射，数千民众海滩围观，火箭空中爆燃仍引发欢呼；航天游成文旅新热点。研判：中国航天发射常态化+公众开放，催生“追火箭”文旅、周边消费与商业航天叙事；与朱雀三号陆地回收(同日)共同烘托商业航天氛围。偶发失利未削弱公众热情，反凸显“太空梦”国民情绪。",
+      "provenance": {
+        "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Maxim Shemetov；经 AOL 转载确认全文）",
+        "evidence_url": "https://www.aol.com/articles/china-rocket-launches-fuel-tourism-230159000.html",
+        "evidence_note": "Reuters 8/20发自文昌(事件8/19)；byline Maxim Shemetov；reuters.com JS墙，URL 由标题重建，经 AOL 转载确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国航天",
+        "央视",
+        "文昌航天发射场"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-reuters-vdma-humanoid-robotics",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Germany's VDMA lobby calls on Europe to step up on humanoid robotics as Unitree surges",
+      "title_zh": "德国VDMA协会呼吁欧洲加快布局人形机器人，应对宇树崛起",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Matthias Williams"
+      ],
+      "author_locations": "柏林/法兰克福",
+      "authors_status": "named",
+      "topics": [
+        "人形机器人",
+        "中美欧科技竞争",
+        "宇树",
+        "制造业"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透8月19日报道——德国机械设备制造业联合会(VDMA)呼吁将人形机器人与“物理AI”置于政治议程顶端，要求德国与欧洲建立富有韧性的本土关键零部件供应链。背景是宇树科技同日登陆上交所科创板、股价一度暴涨超600%，成为全球人形机器人竞赛的标志性事件。VDMA副执行主任 Hartmut Rauen 称“德国和欧洲必须建立涵盖关键部件本土生产的完整价值链”。全球上半年人形机器人出货近1.91万台、同比近四倍，中国厂商主导。VDMA指关键挑战在于规模化。",
+      "china_angle": "以欧洲应对中国(宇树)人形机器人崛起为报道视角，凸显人形机器人成为中美欧科技竞争新战场，以及中国在本体量产与供应链上的领先。",
+      "stance": "中性（引述VDMA立场与产业数据）",
+      "source_url": "https://www.reuters.com/business/autos-transportation/germanys-vdma-lobby-calls-europe-step-up-humanoid-robotics-unitree-surges-2026-08-19/",
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：VDMA 呼吁欧洲将人形机器人/物理AI列为政治优先，建本土关键部件供应链；宇树科创板上市(一度+629%)为背景。研判：欧洲正视在“身体”(制造/供应链)层落后中国，试图以政策+供应链自主追赶；与中国“场景价值转化”难题形成对照——中国强在量产与成本，弱在可靠部署与回报。后续关注欧美各自补贴与关税(美FCC已限制进口)对全球格局影响。",
+      "provenance": {
+        "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Matthias Williams；经 Yahoo News 转载确认全文）",
+        "evidence_url": "https://www.yahoo.com/news/articles/germanys-vdma-lobby-calls-europe-125814717.html",
+        "evidence_note": "Reuters 8/19；byline Matthias Williams；reuters.com JS墙，URL 由标题重建，经 Yahoo News 转载确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "VDMA",
+        "Unitree(宇树)",
+        "Hartmut Rauen",
+        "Omdia"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-reuters-electric-truck-bus-sales",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China drove global electric truck, bus sales above half a million in 2025",
+      "title_zh": "2025年全球电动卡车与客车销量近翻倍破50万辆，中国贡献近九成",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Paolo Laudani"
+      ],
+      "author_locations": "格但斯克",
+      "authors_status": "named",
+      "topics": [
+        "新能源商用车",
+        "电动卡车",
+        "电动客车",
+        "中国主导"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透8月20日（援引ICCT 8月19日报告）报道——2025年全球电动卡车与客车销量同比大增86%、首破50万辆；中国贡献近90%增量，其中中型与重型卡车两年间增长超五倍。中国以外，欧盟(约9800辆)与印度(约5000辆)领跑电动客车；除中、美外，电池电动客车占零排放中重型商用车销量56%。欧盟电动卡车2025年增71%、市占4.5%。中国制造商在电动重卡规模化、电池整合与成本控制上优势明显。",
+      "china_angle": "以中国在新能源商用车全球主导地位为报道主轴，凸显中国电动化从乘用车外溢至商用车、并重塑全球商用车竞争格局。",
+      "stance": "中性偏积极（呈现中国主导与全球电动化推进）",
+      "source_url": "https://www.reuters.com/business/autos-transportation/china-drove-global-electric-truck-bus-sales-above-half-million-2025-2026-08-19/",
+      "sentiment": "positive",
+      "is_negative": false,
+      "deep_analysis": "核心事实：ICCT 报告称2025全球电动卡车/客车销量+86%破50万，中国占近90%、重卡两年增超5倍；欧盟电动卡车+71%。研判：中国在商用车电动化(尤其重卡)形成规模化与成本护城河，比亚迪、宇通等出海将加剧欧美传统车企压力；欧美受充电/基础设施与成本平价制约滞后。后续关注中国低成本的电动重卡对欧出口与欧方潜在贸易防御。",
+      "provenance": {
+        "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Paolo Laudani；经 AOL 转载确认全文）",
+        "evidence_url": "https://www.aol.com/articles/china-drove-global-electric-truck-220239000.html",
+        "evidence_note": "Reuters 8/20(ICCT报告8/19)；byline Paolo Laudani；reuters.com JS墙，URL 由标题重建，经 AOL 转载确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "ICCT(国际清洁交通委员会)",
+        "欧盟",
+        "印度",
+        "中国"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-reuters-china-senior-summit-seoul",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China considering summit with Seoul in November, South Korean foreign ministry says",
+      "title_zh": "中国考虑11月APEC期间举行中韩领导人峰会（韩国外交部）",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Heejin Kim",
+        "Brenda Goh",
+        "Jasmeen Ara Shaikh"
+      ],
+      "author_locations": "首尔",
+      "authors_status": "named",
+      "topics": [
+        "中韩关系",
+        "朝鲜半岛",
+        "APEC",
+        "XI-Lee峰会",
+        "王毅访韩"
+      ],
+      "importance": "high",
+      "summary_zh": "路透8月19日报道——据韩国外交部，正在首尔访韩的中国外长王毅表示，北京“正积极考虑”在11月深圳APEC峰会期间举行中韩领导人(习近平—李在明)峰会。王毅同时邀请韩外长赵兑烈访华、赵已接受。双方同意扩大人文交流(预计双向往来超1000万人次)，并在中韩自贸协定服务与投资、供应链稳定、文化交流、大熊猫合作等方面协作。赵兑烈促请中方在促使朝鲜重返对话上发挥建设性作用；王毅表示中方对半岛政策一贯，希望南北和平共处。",
+      "china_angle": "涉及中韩关系回暖与半岛外交；中方作为朝鲜唯一缔约盟友的角色被凸显，关联美推动重启朝美外交的背景下东北亚格局演变。",
+      "stance": "中性偏积极（中韩关系改善信号）",
+      "source_url": "https://www.reuters.com/world/china/china-considering-summit-seoul-november-south-korean-foreign-ministry-says-2026-08-19/",
+      "sentiment": "positive",
+      "is_negative": false,
+      "deep_analysis": "核心事实：王毅访韩称“积极考虑”11月深圳APEC期间习—李峰会；邀赵兑烈访华；双方扩人文/经贸协作；韩方促中方促朝返对话。研判：尹锡悦政府后中韩关系回暖信号明确，XI-Lee峰会若成行将巩固缓和；在中美竞合与特朗普欲重启朝美外交背景下，半岛出现对话窗口。后续关注APEC习—李会、朝鲜回应及美韩协调。",
+      "provenance": {
+        "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Heejin Kim、Brenda Goh、Jasmeen Ara Shaikh；经 Channel NewsAsia 转载确认全文）",
+        "evidence_url": "https://www.channelnewsasia.com/asia/china-considering-summit-seoul-in-november-south-korean-foreign-ministry-says-6329666",
+        "evidence_note": "Reuters 8/19；byline Heejin Kim、Brenda Goh、Jasmeen Ara Shaikh；reuters.com JS墙，URL 由标题重建，经 CNA 转载确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "韩国外交部",
+        "王毅",
+        "赵兑烈",
+        "APEC(深圳)"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-reuters-carlsberg-china-sales",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Investors sour on Carlsberg's China sales despite soft drink success",
+      "title_zh": "尽管软饮业务亮眼，嘉士伯中国销售疲弱令投资者失望",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Emma Rumney"
+      ],
+      "author_locations": "伦敦",
+      "authors_status": "named",
+      "topics": [
+        "消费",
+        "啤酒",
+        "嘉士伯",
+        "中国市场",
+        "业绩"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透8月19日报道——全球第三大啤酒商嘉士伯(Carlsberg)上半年营业利润、销量与营收均不及分析师预期，主因中国这一最大啤酒市场需求疲弱叠加热带气旋、洪涝等极端天气；股价盘中一度跌4%至七周低位。CEO Jacob Aarup-Andersen 称天气冲击或延续至三季度。公司2025年收购软饮商 Britvic 的协同效应快于预期，软饮销量增9%、占组合30%，上调全年利润指引至增4%—6%；但“中国是最大的苦涩点”(Jyske Bank 分析师语)。",
+      "china_angle": "以嘉士伯中国销售疲弱为切面，折射外资消费品在华面临的需求不足与天气扰动，是观察中国消费景气与外资在华表现的微观窗口。",
+      "stance": "中性（公司业绩与分业务表现，呈现中国需求偏弱）",
+      "source_url": "https://www.reuters.com/business/retail-consumer/investors-sour-carlsbergs-china-sales-despite-soft-drink-success-2026-08-19/",
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：嘉士伯上半年利润/销量/营收均不及预期，中国需求疲弱+极端天气为主因，股价跌至七周低；软饮(Britvic)协同超预期、上调指引。研判：中国啤酒消费受天气与居民资产负债表双重压制，外资快消在华增长分化——酒精承压、软饮/无醇走强；反映内需温和修复中的结构性不均。非重大负面，属企业微观信号。",
+      "provenance": {
+        "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Emma Rumney；经 Stockopedia 转载确认全文）",
+        "evidence_url": "https://www.stockopedia.com/share-prices/anheuser-busch-inbev-sa-NYQ:BUD/news/investors-sour-on-carlsberg-apos-s-china-sales-despite-soft-drink-success-updated-01a018b2-145f-79b4-8149-55a13918d75d",
+        "evidence_note": "Reuters 8/19；byline Emma Rumney；reuters.com JS墙，URL 由标题重建，经 Stockopedia 转载确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "Carlsberg(嘉士伯)",
+        "Britvic",
+        "Jyske Bank",
+        "SMMT"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-reuters-wang-yi-seoul",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's Wang Yi in S. Korea for talks amid Trump push to revive N. Korea diplomacy",
+      "title_zh": "王毅访韩谈半岛事务，正值特朗普欲重启对朝外交",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Kyu-seok Shim",
+        "Ethan Wang"
+      ],
+      "author_locations": "首尔/北京",
+      "authors_status": "named",
+      "topics": [
+        "中韩关系",
+        "朝鲜半岛",
+        "王毅",
+        "美朝外交",
+        "联合军演"
+      ],
+      "importance": "high",
+      "summary_zh": "路透8月19日报道——中国外长王毅抵首尔，与韩外长赵兑烈等会晤。此访发生在美韩缩减联合军演、特朗普表示愿再会金正恩、欲重启对朝外交之后。王毅重申中方一贯半岛立场，呼吁维护半岛和平稳定、政治解决半岛问题；韩媒称王毅在首尔表示华盛顿应改变对平壤的“敌对政策”。王毅将于20日会见韩国总统李在明。赵兑烈称正推动11月深圳APEC期间李在明—习近平峰会。报道亦提及特朗普缩减军演被解读含施压韩国配合美对伊行动等意图。",
+      "china_angle": "以王毅访韩与美推动重启朝美外交为交叉视角，凸显中国作为朝鲜缔约盟友在半岛事务中的枢纽角色，关联美韩军演降温与东北亚安全态势。",
+      "stance": "中性（引述各方表态与背景）",
+      "source_url": "https://www.reuters.com/world/china/chinas-wang-yi-s-korea-talks-trump-push-revive-n-korea-diplomacy-2026-08-19/",
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：王毅访韩，与赵兑烈会晤，重申半岛和平稳定与政治解决；背景为美韩缩减军演、特朗普欲重启对朝外交。研判：半岛出现对话窗口，中方以“劝和促谈”+反对敌对政策定位，平衡美朝缓和与自身影响力；军演降温弱化前沿威慑、间接缓解中国周边压力。后续看习—李APEC会、朝鲜反应及美韩对朝协调节奏。",
+      "provenance": {
+        "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Kyu-seok Shim、Ethan Wang；经 Yahoo News 转载确认全文）",
+        "evidence_url": "https://www.yahoo.com/news/world/articles/chinas-wang-yi-south-korea-093735976.html",
+        "evidence_note": "Reuters 8/19；byline Kyu-seok Shim、Ethan Wang；reuters.com JS墙，URL 由标题重建，经 Yahoo News 转载确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "王毅",
+        "赵兑烈",
+        "特朗普",
+        "韩国外交部",
+        "Yonhap"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-reuters-liu-jiyuan-dies",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Chinese space programme pioneer Liu Jiyuan dies at 93",
+      "title_zh": "中国航天事业开拓者之一刘纪原逝世，享年93岁",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Shi Bu",
+        "Liz Lee"
+      ],
+      "author_locations": "北京",
+      "authors_status": "named",
+      "topics": [
+        "航天",
+        "人物",
+        "导弹控制",
+        "载人航天",
+        "讣告"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透8月19日报道——中国航天事业开拓者、运载火箭与战略导弹控制技术专家刘纪原因伤病医治无效，于8月17日在北京逝世，享年93岁。主承包商中国航天科技集团发布讣告。刘纪原1960年起近四十年从事并领衔中国第一代战略武器与运载火箭控制系统研制；1992年任载人航天工程副总指挥，1993—1999年执掌新成立的国家航天局。其逝世距8月12日长征一号探空火箭领军者王希季离世仅数日。",
+      "china_angle": "以中国航天奠基一代相继离世为报道切入点，关联中国航天从导弹控制到载人工程的历史脉络与“航天强国”叙事。",
+      "stance": "中性（讣告事实）",
+      "source_url": "https://www.reuters.com/world/china/chinese-space-programme-pioneer-liu-jiyuan-dies-93-2026-08-19/",
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：航天控制技术专家、原国家航天局局长刘纪原8/17在京逝世(93岁)；曾任载人航天工程副总指挥。研判：与王希季(8/12)离世相隔数日，标志中国航天“创业一代”谢幕；其主导的制导系统与系统工程管理为后续空间站、探月、深空任务奠定底座，具承前启后象征意义。",
+      "provenance": {
+        "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Shi Bu、Liz Lee；经 WMBD Radio 转载确认全文）",
+        "evidence_url": "https://wmbdradio.com/2026/08/19/chinese-space-programme-pioneer-liu-jiyuan-dies-at-93",
+        "evidence_note": "Reuters 8/19；byline Shi Bu、Liz Lee；reuters.com JS墙，URL 由标题重建，经 WMBD Radio 转载确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国航天科技集团",
+        "国家航天局",
+        "载人航天工程"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-reuters-chery-uk-rd-centre",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's Chery Automobile to set up UK research centre",
+      "title_zh": "奇瑞汽车将在英国设立研发中心",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Simone Lobo"
+      ],
+      "author_locations": "班加罗尔",
+      "authors_status": "named",
+      "topics": [
+        "中国汽车",
+        "奇瑞",
+        "出海",
+        "英国",
+        "研发"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透8月19日报道——奇瑞汽车(Chery)宣布将于今年在英国贝德福德郡 UTAC Millbrook 车辆开发与测试中心设立研发中心，预计2026年深秋启用。奇瑞国际英国CEO Gary Lan 称该中心将把英国用户洞察转化为产品开发（从底盘、转向到主动安全），远期拓展至自动驾驶与AI。此举紧随其与日产(Nissan)探索在桑德兰工厂代工生产奇瑞乘用车之和解备忘录。据SMMT，中国品牌今年上半年占英国新车注册约15%（去年全年约10%）；MG、比亚迪、奇瑞 Jaecoo/Omoda 领跑。",
+      "china_angle": "以奇瑞在英国设研发中心并谋本土化生产为切面，呈现中国汽车品牌加速出海、从“卖车”转向“本地研发+制造”的深度全球化，及在欧面临的责任与竞争。",
+      "stance": "中性偏积极（中国车企出海深化）",
+      "source_url": "https://www.reuters.com/business/autos-transportation/chinas-chery-automobile-set-up-uk-research-centre-2026-08-19/",
+      "sentiment": "positive",
+      "is_negative": false,
+      "deep_analysis": "核心事实：奇瑞拟于英国Millbrook设研发中心(深秋启用)，并与日产谈桑德兰代工；中国品牌占英新车注册上半年约15%(去年10%)。研判：中国车企在欧从贸易出口迈向本地研发/制造，以规避关税与贴近市场；与比亚迪、上汽并行，预示欧洲汽车产业格局重塑。后续关注桑德兰代工落地、英方产业欢迎度及欧盟潜在贸易防御。",
+      "provenance": {
+        "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Simone Lobo；经 MarketScreener UK 转载确认全文）",
+        "evidence_url": "https://uk.marketscreener.com/news/china-s-chery-automobile-to-set-up-uk-research-centre-ce7859ddd08dff2c",
+        "evidence_note": "Reuters 8/19；byline Simone Lobo；reuters.com JS墙，URL 由标题重建，经 MarketScreener UK 转载确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "Chery(奇瑞)",
+        "UTAC Millbrook",
+        "Nissan(日产)",
+        "SMMT"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-reuters-chinas-robots-commercial-test",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's robots face a commercial test",
+      "title_zh": "超越后空翻与马拉松：中国机器人面临商业化大考",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Eduardo Baptista",
+        "Laurie Chen"
+      ],
+      "author_locations": "北京",
+      "authors_status": "named",
+      "topics": [
+        "人形机器人",
+        "商业化",
+        "世界机器人大会",
+        "宇树",
+        "具身智能"
+      ],
+      "importance": "high",
+      "summary_zh": "路透8月19日报道（分析）——过去两年，中国人形机器人以跳舞、挥拳乃至马拉松纪录惊艳投资者；本周在北京举行的世界机器人大会(WRC, 300余家企业、2000余展品、150余首发)上，它们面临更严酷考验：证明能可靠创造经济价值。宇树科技同日在科创板上市(IPO超额认购超8000倍)。投资者与客户越发以“工作效率、所需人工监督、能否收回成本”而非动作炫酷评判机器人。行业人士称多数中国本体/模型/数据孤立未落地者将被淘汰；分析师估计今年产机器人50%—70%或进“数据工厂”而非为付费客户产出；国泰君安测算工业人形需约16万元(含维护)两年回本，而现实成本30万—50万元。8月22—26日世界人形机器人运动会将以工厂/酒店/家务场景测试实用性。美FCC 7月限制进口外国人形/四足机器人(含宇树)构成地缘不确定性。",
+      "china_angle": "以中国人形机器人从“炫技”转向“创造经济价值”的商业化大考为主线，紧扣中美科技竞争与“具身智能”产业落地，是观察中国新质生产力成色的关键样本。",
+      "stance": "中性（产业分析，呈现机遇与挑战）",
+      "source_url": "https://www.reuters.com/business/artificial-intelligence/chinas-robots-face-commercial-test-2026-08-19/",
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "核心事实：WRC开幕+宇树上市同日，行业焦点由演示转向商业化回报；估计今年50%—70%人形进“数据工厂”而非产出；成本30万—50万元 vs 两年回本阈值16万元；美FCC限制进口添不确定性。研判：中国强在本体量产/供应链/数据规模(占全球出货82%, IDC)，弱在可靠部署与经济回报尚未兑现——“造得出”但未完全“用得划算”；政策(百城千台部署)与运动会场景测试将加速从示范到任务的跨越。短期资本热是对未来空间的提前定价，产业红利待真实生产力验证。",
+      "provenance": {
+        "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Eduardo Baptista、Laurie Chen；经 Economic Times / New Straits Times 转载确认全文）",
+        "evidence_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/beyond-marathons-and-backflips-chinas-robots-face-a-commercial-test/articleshow/133319171.cms",
+        "evidence_note": "Reuters 8/19 分析；byline Eduardo Baptista、Laurie Chen；reuters.com JS墙，URL 由标题重建，经 ET/NST 转载确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "Unitree(宇树)",
+        "WRC(世界机器人大会)",
+        "Omdia",
+        "IDC",
+        "国泰君安",
+        "美国FCC",
+        "Lumos Robotics",
+        "MERICS"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-reuters-estee-lauder-china",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Estee Lauder bets on fragrances and skincare to deliver strong annual profit",
+      "title_zh": "雅诗兰黛押注香水与护肤，预计年度利润超市场预期（中国需求强劲）",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Anuja Bharat Mistry"
+      ],
+      "author_locations": "班加罗尔",
+      "authors_status": "named",
+      "topics": [
+        "消费",
+        "美妆",
+        "雅诗兰黛",
+        "中国市场",
+        "业绩"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透8月19日报道——雅诗兰黛(Estee Lauder)预计2027财年调整后每股收益3.10—3.35美元(中值高于分析师3.18美元预期)，押注CEO “Beauty Reimagined”转型下高端香水与护肤(Le Labo、Tom Ford、Balmain Beauty等)持续旺销及中国等关键市场强劲表现。第四财季营收36.3亿美元超预期；香水净销售增10%、中国大陆全年有机增9%。公司与Puig合并谈判5月破裂后股价早盘涨约18%。公司录得3800万美元关税退还，部分抵消1.02亿美元增量关税影响。",
+      "china_angle": "以雅诗兰黛中国需求强劲、奢侈品香水护肤回暖为切面，折射中国高端消费(尤其高端美妆)边际修复，是观察外资在华消费景气的正面信号。",
+      "stance": "中性偏积极（业绩超预期、中国需求强）",
+      "source_url": "https://www.reuters.com/business/retail-consumer/estee-lauder-bets-fragrances-skincare-deliver-strong-annual-profit-2026-08-19/",
+      "sentiment": "positive",
+      "is_negative": false,
+      "deep_analysis": "核心事实：雅诗兰黛上调2027财年利润指引(中值超预期的3.18美元)，香水+10%、中国大陆全年有机+9%，股价涨约18%。研判：与嘉士伯中国疲弱形成对照，高端香水是外资美妆在华“亮点品类”，反映中国高收入/年轻客群可选消费韧性；但关税(1.02亿)与去折扣策略显示盈利修复仍脆弱。后续关注中国消费整体复苏斜率与高端品类持续性。",
+      "provenance": {
+        "retrieved_via": "通道A（路透中国栏目直连）+通道C（WebSearch 引号标题补全署名：Anuja Bharat Mistry；经 Economic Times 转载确认全文）",
+        "evidence_url": "https://m.economictimes.com/markets/us-stocks/news/estee-lauder-bets-on-fragrances-and-skincare-to-deliver-strong-annual-profit/articleshow/133352675.cms",
+        "evidence_note": "Reuters 8/19；byline Anuja Bharat Mistry；reuters.com JS墙，URL 由标题重建，经 ET 转载确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "Estee Lauder(雅诗兰黛)",
+        "Le Labo",
+        "Tom Ford",
+        "Balmain Beauty",
+        "Puig",
+        "LSEG"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-bloomberg-unitree-trading-debut",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Shares in Chinese humanoid robot maker Unitree soar in its Shanghai trading debut",
+      "title_zh": "中国人形机器人制造商宇树科技科创板上市首日飙涨",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Chan Ho-him"
+      ],
+      "author_locations": "香港",
+      "authors_status": "named",
+      "topics": [
+        "人形机器人",
+        "宇树",
+        "科创板",
+        "IPO",
+        "中美科技竞争"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博(BNN Bloomberg，8月19日，AP/Chan Ho-him)报道——中国人形机器人龙头宇树科技(Unitree)8月19日登陆上交所科创板，发行价150.80元，开盘一度涨629%至1100元，收盘涨460%报845元(市值约3418亿元)，创A股全面注册制以来单签盈利新高。公司募资约61亿元(9.04亿美元)，为内地首家上市人形机器人制造商。Omdia 称2025年全球约1.5万台人形机器人中宇树与智元(AGIBOT)各出货超5000台，上半年中国厂商全球出货约1.85万台；中国在生产能力与规模化上领先美国。美FCC 7月以国家安全为由禁止进口新人形/四足机器人(含宇树新机型)。",
+      "china_angle": "以宇树科创板上市暴涨为标志，凸显中国人形机器人产业资本化里程碑与中美“具身智能”竞赛中中国的量产与资本优势。",
+      "stance": "中性偏积极（呈现上市盛况与产业领先）",
+      "source_url": "https://beta.bnnbloomberg.ca/business/artificial-intelligence/2026/08/19/shares-in-chinese-humanoid-robot-maker-unitree-soar-in-its-shanghai-trading-debut",
+      "sentiment": "positive",
+      "is_negative": false,
+      "deep_analysis": "核心事实：宇树科创板首日+460%(收845元)、市值3418亿、募61亿；内地首家人形机器人上市公司；Omdia称中国出货领先、美FCC禁进口。研判：为具身智能/A股机器人板块提供估值锚，标志产业从概念走向资本化；但流通盘仅7.4%、高换手折射情绪定价；美进口禁令构成海外收入(去年美占约13%)风险，倒逼出海转向欧洲等市场。短期是流动性溢价，中长期看量产→场景价值的兑现。",
+      "provenance": {
+        "retrieved_via": "通道A（彭博首页被反爬拦截）+通道C（WebSearch 多组关键词 + BNN Bloomberg 公司新闻页确认）",
+        "evidence_url": "https://beta.bnnbloomberg.ca/business/artificial-intelligence/2026/08/19/shares-in-chinese-humanoid-robot-maker-unitree-soar-in-its-shanghai-trading-debut",
+        "evidence_note": "BNN Bloomberg 8/19（彭博加拿大合作站，真实可访问）；by Chan Ho-him/AP；付费墙，正文以转载页确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "Unitree(宇树)",
+        "Omdia",
+        "Morningstar",
+        "UBTech",
+        "美国FCC",
+        "上交所科创板"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-bloomberg-china-robot-conference",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "From robot dogs to helpers, China puts robotics ambitions on display at world conference",
+      "title_zh": "从机器狗到助手：中国在世界机器人大会展示机器人雄心",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "E. Eduardo Castillo"
+      ],
+      "author_locations": "北京",
+      "authors_status": "named",
+      "topics": [
+        "人形机器人",
+        "世界机器人大会",
+        "宇树",
+        "UBTECH",
+        "中美科技竞争"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博(BNN Bloomberg，8月19日，AP/E. Eduardo Castillo)报道——2026世界机器人大会(WRC)8月19日在北京开幕，约3000件产品亮相，宇树展台机器人拳击、跳舞、打乒乓成为焦点，其上市与大会开幕同日。UBTECH 展出工业与情感陪护人形机器人(情感陪护款售价16.8万元、面向个人买家)。专家指许多人形机器人仍是“表演者”而非“实干者”。大会数周前正值美FCC以国家安全为由禁止进口新人形/四足机器人(含宇树)。报道称中国正将机器人技术从演示推向工厂与现实应用。",
+      "china_angle": "以世界机器人大会集中展示中国机器人产业雄心为视角，关联宇树上市与中美机器人竞赛，凸显中国在本体量产与场景落地上的双线推进及外部管制压力。",
+      "stance": "中性（呈现大会展示与产业现状）",
+      "source_url": "https://www.bnnbloomberg.ca/business/technology/2026/08/19/from-robot-dogs-to-helpers-china-puts-robotics-ambitions-on-display-at-world-conference",
+      "sentiment": "positive",
+      "is_negative": false,
+      "deep_analysis": "核心事实：WRC北京开幕(约3000件产品)，宇树/UBTECH展示；情感陪护人形16.8万元面向个人；专家称多仍为表演者；美FCC禁进口背景。研判：中国机器人从“秀肌肉”转向“找场景”，UBTECH情感陪护等指向C端落地；但实用性与成本仍制约规模部署，与路透“商业化大考”相互印证。外部管制(美FCC)倒逼内需与第三方市场。短期展会热度高于真实回报。",
+      "provenance": {
+        "retrieved_via": "通道A（彭博首页被反爬拦截）+通道C（WebSearch 多组关键词 + BNN Bloomberg 公司新闻页确认）",
+        "evidence_url": "https://www.bnnbloomberg.ca/business/technology/2026/08/19/from-robot-dogs-to-helpers-china-puts-robotics-ambitions-on-display-at-world-conference",
+        "evidence_note": "BNN Bloomberg 8/19；by E. Eduardo Castillo/AP；付费墙，正文以转载页确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "Unitree(宇树)",
+        "UBTECH(优必选)",
+        "世界机器人大会",
+        "美国FCC",
+        "AP"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260819-bloomberg-landspace-rocket-recovery",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Chinese space startup achieves first rocket recovery on land",
+      "title_zh": "中国民营航天创企蓝箭实现火箭首次陆地回收",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "北京/酒泉",
+      "authors_status": "not_available",
+      "topics": [
+        "商业航天",
+        "蓝箭",
+        "朱雀三号",
+        "火箭回收",
+        "可重复使用"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博(BNN Bloomberg，8月19日)报道——中国民营航天企业蓝箭航天(LandSpace)研制的朱雀三号(Zhuque-3)运载火箭8月19日7:35在东风商业航天创新试验区发射，一子级随后成功在甘肃民勤着陆场“平稳触地”实现陆地回收，二子级将鸿鹄03星送入轨道，任务“圆满成功”。Xinhua 称这是中国首次入轨级运载火箭一子级陆地回收，是 reusable spacecraft 技术的“突破”。Macquarie 天体物理学家 Richard de Grijs 称蓝箭是除美国外首家“以自身腿”着陆轨道级助推器的公司；其成就紧随7月国家研制的长征十号B海上网系回收之后，显示中国与美在可回收架构上的“制度竞争+技术试验”组合。",
+      "china_angle": "以蓝箭朱雀三号首次陆地回收为里程碑，凸显中国商业航天(民营)在可重复使用火箭上的突破，关联“航天强国”战略与中美太空竞赛。",
+      "stance": "中性偏积极（中国商业航天突破）",
+      "source_url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/19/chinese-space-startup-achieves-first-rocket-recovery-on-land/",
+      "sentiment": "positive",
+      "is_negative": false,
+      "deep_analysis": "核心事实：蓝箭朱雀三号8/19一子级陆地回收成功(民勤场坪)，二子级送鸿鹄03星入轨；中国首次入轨级一子级陆地回收；专家称蓝箭为美外首家“自主腿着陆”轨道级公司。研判：继长十B海上回收后，中国补齐“陆地腿式回收”路线，民营(蓝箭)与国家队(航天科技)双线并进，缩短与SpaceX差距、为低轨星座(星网/GW、千帆)提供高频廉价运力；“发射—回收—检测—复用”闭环将降成本。属商业航天工程化复用阶段关键一步。",
+      "provenance": {
+        "retrieved_via": "通道A（彭博首页被反爬拦截）+通道C（WebSearch 多组关键词 + BNN Bloomberg 公司新闻页确认）",
+        "evidence_url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/19/chinese-space-startup-achieves-first-rocket-recovery-on-land/",
+        "evidence_note": "BNN Bloomberg 8/19；机构稿未具名(authors_status=not_available)；付费墙，正文以转载页确认"
+      },
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "LandSpace(蓝箭航天)",
+        "Zhuque-3(朱雀三号)",
+        "Xinhua(新华社)",
+        "Macquarie University(Richard de Grijs)",
+        "CCTV"
+      ],
+      "_day": "2026-08-19"
+    },
+    {
+      "id": "20260820-reuters-rocket-tourism",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "In China, rocket launches fuel tourism and space-age dreams",
+      "title_zh": "中国火箭发射点燃旅游热与“航天梦”",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Maxim Shemetov"
+      ],
+      "author_locations": "",
+      "authors_status": "named",
+      "topics": [
+        "航天",
+        "文旅",
+        "社会文化"
+      ],
+      "importance": "low",
+      "summary_zh": "路透图文报道，海南文昌航天发射场周边海滩入夜后聚集数千游客举手机等待长征七号A火箭升空；文中提及一枚无人火箭升空后空中化为火球（中国官媒数小时后确认异常）。报道描绘航天成就如何渗入中国公众生活——从内蒙古火山地质公园的“火星模拟”旅拍、北京太空主题雕塑到泡泡玛特“太空 Molly”巨型装置，太空正成为集体文化体验。",
+      "china_angle": "展现中国航天公众化、文旅化趋势及民间对国家航天成就的自豪感。",
+      "stance": "中性（事实描绘，含发射异常但未做负面评判）",
+      "source_url": "https://www.reuters.com/science/china-rocket-launches-fuel-tourism-space-age-dreams-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国官媒",
+        "文昌航天发射场",
+        "北京新闻编辑室"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch reuters.com 直接抓取全文与署名 By Maxim Shemetov）",
+        "evidence_url": "https://www.reuters.com/science/china-rocket-launches-fuel-tourism-space-age-dreams-2026-08-19/",
+        "evidence_note": "署名与图文内容均由路透原页确认。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-reuters-ev-truck-bus",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China drove global electric truck, bus sales above half a million in 2025",
+      "title_zh": "2025年全球电动卡车与客车销量破50万辆，中国贡献近九成",
+      "published_at": "2026-08-20",
+      "published_precision": "day",
+      "authors": [
+        "Paolo Laudani"
+      ],
+      "author_locations": "格但斯克",
+      "authors_status": "named",
+      "topics": [
+        "电动汽车",
+        "商用车",
+        "清洁能源",
+        "贸易"
+      ],
+      "importance": "medium",
+      "summary_zh": "国际清洁交通委员会(ICCT)报告显示，2025年全球电动卡车与客车销量近翻倍，首次突破50万辆大关，同比增86%。中国贡献了其中近90%的销量，中重型卡车销量两年多来增长逾五倍。除中、美外，电动客车占零排放中重型车销量的56%，欧盟与印度分别以约9800辆和5000辆领跑；欧盟电动卡车销量增71%、市占率达4.5%。",
+      "china_angle": "中国是全球电动商用车绝对主导力量，凸显其在新能源产业链的先发与规模优势。",
+      "stance": "中性（数据性报道，偏正面呈现中国领先）",
+      "source_url": "https://www.reuters.com/world/china/china-drove-global-electric-truck-bus-sales-above-half-million-2025-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "国际清洁交通委员会(ICCT)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Paolo Laudani in Gdansk）",
+        "evidence_url": "https://www.reuters.com/world/china/china-drove-global-electric-truck-bus-sales-above-half-million-2025-2026-08-19/",
+        "evidence_note": "关键数字(86%、近90%、4.5%等)来自原页ICCT报告引述。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-reuters-sk-arctic-route",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "South Korean container ship will test Arctic route to Europe amid Western concern",
+      "title_zh": "韩国货轮将试航北极航线赴欧，西方盟友担忧需俄方许可",
+      "published_at": "2026-08-20",
+      "published_precision": "day",
+      "authors": [
+        "Brenda Goh",
+        "Joyce Lee"
+      ],
+      "author_locations": "首尔",
+      "authors_status": "named",
+      "topics": [
+        "航运",
+        "地缘政治",
+        "北极",
+        "中俄"
+      ],
+      "importance": "medium",
+      "summary_zh": "韩国将于周六派出集装箱船经北极前往欧洲，若成功将成为韩国首例经北极赴欧商业航次，与中俄一同跻身试水该航线的少数国家。该船从釜山出发，经英国费利克斯托、荷兰鹿特丹与波兰格但斯克，航程约40–45天。韩国海洋水产部称北极航线较苏伊士传统航线可缩短至多35%航程。但西方外交官不满该计划需俄方许可与配合，称“我们要孤立俄罗斯，而非与之接触”，并担忧触碰制裁。",
+      "china_angle": "报道指中国已在北极航线抢先布局（如Sea Legend Shipping计划开通定期集装箱服务），促使韩国加快积累运营经验以2030年实现常态商业服务。",
+      "stance": "中性（呈现地缘博弈两面）",
+      "source_url": "https://www.reuters.com/world/china/south-korean-container-ship-will-test-arctic-route-europe-amid-western-concern-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "韩国海洋水产部",
+        "泛星(PanStar)",
+        "高地北方物流中心(Centre for High North Logistics)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；By Brenda Goh and Joyce Lee）",
+        "evidence_url": "https://www.reuters.com/world/china/south-korean-container-ship-will-test-arctic-route-europe-amid-western-concern-2026-08-19/",
+        "evidence_note": "署名与航程、35%缩短等关键细节由原页确认。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-reuters-seoul-summit",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China considering summit with Seoul in November, South Korean foreign ministry says",
+      "title_zh": "韩国外交部称中方考虑11月APEC期间举行中韩首脑会晤",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Heejin Kim",
+        "Brenda Goh",
+        "Jasmeen Ara Shaikh"
+      ],
+      "author_locations": "首尔",
+      "authors_status": "named",
+      "topics": [
+        "中韩关系",
+        "外交",
+        "亚太"
+      ],
+      "importance": "medium",
+      "summary_zh": "韩国外交部称，中国外长王毅周三在首尔会见韩外长赵贤时表示，北京正“积极考虑”于11月深圳APEC峰会期间举行中韩首脑会晤，并邀请赵贤访华（后者已接受）。双方同意扩大人文交流，预计双向往来将超1000万人次；同意在服务贸易与投资、供应链稳定、文化交流及引进中国大熊猫等方面合作。赵贤敦促中国在推动朝鲜重返对话上发挥建设性作用。",
+      "china_angle": "中韩关系回暖信号，王毅访韩并推动首脑会晤，呼应地区外交缓和。",
+      "stance": "中性（偏正面，外交进展）",
+      "source_url": "https://www.reuters.com/world/china/china-considering-summit-with-seoul-november-south-korean-foreign-ministry-says-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "韩国外交部",
+        "新华社"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Heejin Kim, Brenda Goh and Jasmeen Ara Shaikh）",
+        "evidence_url": "https://www.reuters.com/world/china/china-considering-summit-with-seoul-november-south-korean-foreign-ministry-says-2026-08-19/",
+        "evidence_note": "会晤细节与双方共识来自原页韩国外交部声明引述。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-reuters-eu-jd-probe",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China orders entities not to assist EU's JD.com probe",
+      "title_zh": "中国要求境内实体不得协助欧盟对京东的调查",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Yukun Zhang",
+        "Xiuhao Chen",
+        "Liz Lee"
+      ],
+      "author_locations": "北京",
+      "authors_status": "named",
+      "topics": [
+        "中欧关系",
+        "贸易摩擦",
+        "监管",
+        "电商"
+      ],
+      "importance": "high",
+      "summary_zh": "中国司法部周三表示，欧盟对中国电商巨头京东(9618.HK)的并购调查构成“不当域外管辖”，并命令境内实体不得实施或协助该调查。这是北京第二次援引今年4月出台的“反制外国非法域外管辖措施”规定。欧盟5月依《外国补贴条例》对京东25亿美元收购德国电子零售商Ceconomy展开调查，称其可能获补贴扭曲欧盟市场；中国司法部称欧方要求境内实体提供“大量不必要”信息，是“严重违反国际法治”，并警告“若欧盟坚持单边行动，中方将依法坚决反制”。此前5月中方曾对欧盟对同方威视的调查发出类似命令。",
+      "china_angle": "中方以“阻断立法”反制欧盟对中企跨境并购审查，凸显中欧经贸摩擦升级与中企出海合规风险。",
+      "stance": "负面（对抗性贸易/监管摩擦）",
+      "source_url": "https://www.reuters.com/business/retail-consumer/china-orders-entities-not-assist-eus-jdcom-probe-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国司法部",
+        "欧盟委员会",
+        "京东(JD.com)",
+        "Ceconomy"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "这是中美贸易休战期北京扩展“经济施压工具箱”的延续动作：援引4月出台的配套反制规则，禁止境内实体协助欧盟依《外国补贴条例》对京东并购德国Ceconomy的反补贴调查。此举将京东的海外扩张置于地缘政治夹缝——欧盟可强制调取境内数据，中方则以“阻断立法”反制。短期看，可能有两重影响：其一，提高中企跨境并购的法律不确定性，中企面临中欧双重合规要求；其二，若欧方坚持推进、中方兑现“依法反制”，将推高中欧经贸摩擦并削弱中国电商出海的可预期性。该案与5月同方威视案形成连环，显示北京已将“反域外管辖”作为常态化反制工具。",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Yukun Zhang, Xiuhao Chen and Liz Lee）",
+        "evidence_url": "https://www.reuters.com/business/retail-consumer/china-orders-entities-not-assist-eus-jdcom-probe-2026-08-19/",
+        "evidence_note": "25亿美元交易额、4月规定、5月同方威视先例等细节均由原页确认。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-reuters-wang-yi-seoul",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's Wang Yi in South Korea for talks amid Trump push to revive North Korea diplomacy",
+      "title_zh": "王毅访韩，恰逢特朗普推动重启朝鲜外交",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Kyu-Seok Shim",
+        "Heejin Kim"
+      ],
+      "author_locations": "首尔",
+      "authors_status": "named",
+      "topics": [
+        "中韩关系",
+        "朝鲜半岛",
+        "外交",
+        "美国"
+      ],
+      "importance": "medium",
+      "summary_zh": "中国外长王毅周三抵达首尔，与韩方官员会谈。媒体称此访恰逢美韩缩减联合军演之际，美国总统特朗普表示希望重启与朝鲜领导人金正恩的外交。报道指王毅访韩议题涵盖中韩关系与地区安全，背景是特朗普欲推动朝鲜半岛外交破冰。",
+      "china_angle": "王毅访韩是朝鲜半岛外交缓和链条中的一环，中国角色凸显。",
+      "stance": "中性（外交动态）",
+      "source_url": "https://www.reuters.com/world/china/chinas-wang-yi-south-korea-talks-amid-trump-push-revive-north-korea-diplomacy-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "韩国外交部",
+        "韩国媒体"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；By Kyu-Seok Shim and Heejin Kim）",
+        "evidence_url": "https://www.reuters.com/world/china/chinas-wang-yi-south-korea-talks-amid-trump-push-revive-north-korea-diplomacy-2026-08-19/",
+        "evidence_note": "署名与访韩背景由原页确认。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-reuters-ai-digital-sovereignty",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China urges respect for digital sovereignty in AI race",
+      "title_zh": "中国呼吁在AI竞争中尊重各国数字主权",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Ethan Wang",
+        "Liz Lee"
+      ],
+      "author_locations": "北京",
+      "authors_status": "named",
+      "topics": [
+        "人工智能",
+        "数字主权",
+        "中美关系",
+        "科技竞争"
+      ],
+      "importance": "medium",
+      "summary_zh": "中国外交部发言人林剑在例行记者会上表示，中国反对在AI领域“选边站队、搞阵营对立”，呼吁尊重各国数字主权。此番表态针对媒体有关“美国将要求数十个国家在中美AI竞赛中选边”的报道——据美方官员与路透看到的内部草案，美方拟警告若一国同时加入北京竞争性框架，将被排除在美国主导的AI联盟之外。林剑称“各国均有权根据自身国情与发展需要选择合作伙伴”。",
+      "china_angle": "中国在AI全球规则博弈中主打“数字主权/不选边”叙事，反制美方“选边”施压。",
+      "stance": "中性（中国立场陈述，背景为中美AI对抗）",
+      "source_url": "https://www.reuters.com/world/china/china-urges-respect-digital-sovereignty-ai-race-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国外交部(林剑)",
+        "美国官员",
+        "路透社内部草案"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Ethan Wang and Liz Lee）",
+        "evidence_url": "https://www.reuters.com/world/china/china-urges-respect-digital-sovereignty-ai-race-2026-08-19/",
+        "evidence_note": "林剑表态与美方“选边”草案背景由原页确认。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-reuters-nvidia-h200-china",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Nvidia H200 chips reach China in small shipments, FT reports",
+      "title_zh": "据FT报道，少量英伟达H200芯片运抵中国",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Shivani Tanna"
+      ],
+      "author_locations": "班加罗尔",
+      "authors_status": "named",
+      "topics": [
+        "半导体",
+        "人工智能",
+        "出口管制",
+        "中美科技"
+      ],
+      "importance": "high",
+      "summary_zh": "据《金融时报》周二报道，少量英伟达(NVDA.O)最先进AI芯片之一H200已被允许进入中国大陆，字节跳动与腾讯(0700.HK)近几周各获约1万颗H200处理器，少数其他中国科技企业也将很快获得类似供货。尽管美方已批准每家公司最多可购10万颗H200，但据FT，北京希望企业将硬件留在中国大陆以外（如香港）以支持本土芯片商成长。路透此前曾报道美方官员称已有少量H200运抵中国，路透未能独立核实FT报道，英伟达未置评。",
+      "china_angle": "高端AI算力对华“有限松绑”与地面现实：美出口管制未完全切断中国获取先进算力，但中方引导外购芯片境外部署以扶持国产供应链。",
+      "stance": "中性（事实引述，偏缓和）",
+      "source_url": "https://www.reuters.com/world/asia-pacific/nvidia-h200-chips-reach-china-small-shipments-ft-reports-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "金融时报(FT)",
+        "字节跳动",
+        "腾讯",
+        "英伟达(Nvidia)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Shivani Tanna in Bengaluru）",
+        "evidence_url": "https://www.reuters.com/world/asia-pacific/nvidia-h200-chips-reach-china-small-shipments-ft-reports-2026-08-19/",
+        "evidence_note": "约1万颗/每家、10万颗上限、香港部署等细节来自原页对FT报道的引述。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-reuters-chery-uk-rd",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's Chery Automobile to set up UK research centre",
+      "title_zh": "奇瑞汽车将在英国设立研发中心",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Simone Lobo"
+      ],
+      "author_locations": "班加罗尔",
+      "authors_status": "named",
+      "topics": [
+        "汽车",
+        "出海",
+        "研发",
+        "中英"
+      ],
+      "importance": "low",
+      "summary_zh": "奇瑞汽车宣布将于2026年内在英国设立研发中心，选址位于贝德福德郡UTAC Millbrook车辆开发与测试中心，预计2026年晚秋投运。该中心紧随其与日产关于英国制造客车的协议之后，旨在将英国用户洞察转化为产品开发，初期聚焦底盘与驾驶辅助系统，并逐步拓展至自动驾驶与人工智能。受具竞争力定价推动，中国车企今年上半年已占英国新车注册量约15%，奇瑞旗下JAECOO与OMODA品牌正扩大当地影响力。",
+      "china_angle": "中国汽车品牌加速英国本地化布局，研发中心落地是出海深化标志。",
+      "stance": "中性（偏正面，商业扩张）",
+      "source_url": "https://www.reuters.com/world/china/chinas-chery-automobile-set-up-uk-research-centre-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "奇瑞汽车",
+        "UTAC Millbrook",
+        "日产(Nissan)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Simone Lobo in Bengaluru）",
+        "evidence_url": "https://www.reuters.com/world/china/chinas-chery-automobile-set-up-uk-research-centre-2026-08-19/",
+        "evidence_note": "选址、投运时间、英国市占约15%等细节由原页确认。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-reuters-robot-conference",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China robot makers seek to turn humanoid hype into useful work",
+      "title_zh": "中国机器人厂商力求将人形机器人热潮转化为实际生产力",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "人形机器人",
+        "人工智能",
+        "制造业",
+        "投资"
+      ],
+      "importance": "medium",
+      "summary_zh": "北京世界机器人大会周三开幕，300余家以本土企业为主的厂商参展，展出逾2000件展品、发布150余款新品，焦点从炫技转向商业落地。乐聚、Robotera、DexForce等展示分拣包裹、为手机装箱、物流搬运等真实场景应用；工信部副部长辛国斌表态支持，称机器人已成为中国经济社会发展“重要力量”。宇树科技(Unitree)同日在上交所科创板上市，IPO获超8000倍散户超额认购，首日股价一度较发行价飙涨约六倍。摩根士丹利数据显示，2026年上半年全球人形机器人出货约1.9万台（同比增272%），中国企业占97%，但约65%仍用于娱乐、教育、研究与数据收集而非生产。",
+      "china_angle": "中国人形机器人产业从演示走向规模化商用，成为对美科技竞争新赛道。",
+      "stance": "中性（产业报道，偏正面）",
+      "source_url": "https://www.reuters.com/world/asia-pacific/china-robot-makers-flock-beijing-show-seek-path-mass-adoption-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "世界机器人大会组委会",
+        "工信部(辛国斌)",
+        "摩根士丹利",
+        "宇树科技(Unitree)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A原页JS拦截；转经转载源(rallies.ai、经济时报)补全摘要与关键数字；原页无可见真实署名，authors_status=not_available",
+        "evidence_url": "https://rallies.ai/news/china-robot-makers-seek-to-turn-humanoid-hype-into-useful-work-65eb442a71a478d2",
+        "evidence_note": "300余家企业、2000余展品、宇树超额认购8000倍、摩根士丹利65%非生产用途等来自转载源对路透报道的复述。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-reuters-estee-lauder-china",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Estee Lauder bets on fragrances and skincare to deliver strong annual profit",
+      "title_zh": "雅诗兰黛押注香水与护肤业务，预计年度利润超预期，中国市场需求强劲",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Anuja Bharat Mistry"
+      ],
+      "author_locations": "班加罗尔",
+      "authors_status": "named",
+      "topics": [
+        "消费",
+        "美妆",
+        "中国市场",
+        "财报"
+      ],
+      "importance": "low",
+      "summary_zh": "雅诗兰黛预计年度利润高于多数华尔街预期，押注高端香水与护肤(如Le Labo、Balmain Beauty)的强劲需求，以及关键增长市场中国的出色表现。在CEO Stephane de La Faverie“Beauty Reimagined”转型战略下，公司加速高端新品上市、精简供应链并加大创新与营销投入。公司预计2027财年调整后每股收益3.10–3.35美元(中值高于LSEG共识3.18美元)，第四财季销售额36.3亿美元好于预期的35.4亿美元；与Puig的合并谈判已于5月破裂。公司还录得3800万美元关税退款收益，部分抵消全年1.02亿美元增量关税影响。",
+      "china_angle": "中国被列为关键增长市场，雅诗兰黛预计在华有机销售高增长并减少折扣。",
+      "stance": "正面（业绩与中国需求向好）",
+      "source_url": "https://www.reuters.com/business/retail-consumer/estee-lauder-forecasts-annual-profit-above-estimates-strong-china-demand-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "雅诗兰黛",
+        "LSEG",
+        "eMarketer(Sky Canaves)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A原页JS拦截；转经转载源(Euronext Live、经济时报)补全署名(Reporting by Anuja Bharat Mistry in Bengaluru)与摘要",
+        "evidence_url": "https://live.euronext.com/en/financial-news/estee-lauder-forecasts-annual-profit-above-estimates-strong-china-demand",
+        "evidence_note": "EPS区间、销售额、关税数字来自转载源对路透报道的复述。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-reuters-vdma-unitree",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Germany's VDMA lobby calls on Europe to step up on humanoid robotics as Unitree surges",
+      "title_zh": "德国VDMA敦促欧洲加码人形机器人，宇树科技上市引爆热潮",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Matthias Williams"
+      ],
+      "author_locations": "",
+      "authors_status": "named",
+      "topics": [
+        "人形机器人",
+        "中欧产业竞争",
+        "供应链"
+      ],
+      "importance": "medium",
+      "summary_zh": "德国工程协会VDMA周三呼吁将人形机器人提升至政治议程顶端，敦请德国与欧洲加快行动、建立关键零部件的本土韧性供应链。背景是宇树科技(Unitree)在上海科创板上市首日股价飙升（较150.80元发行价收涨逾460%），成为中国机器人产业的里程碑；该领域已成中美科技战“战场”。VDMA副执行总监Hartmut Rauen称“德国和欧洲必须建立涵盖关键部件本土生产的完整价值链”。数据显示，2026年上半年全球人形机器人出货近1.91万台(同比近四倍)，中国厂商主导。",
+      "china_angle": "中国(宇树等)在人形机器人量产与资本市场上领先，倒逼欧洲产业政策加速。",
+      "stance": "中性（产业竞争视角）",
+      "source_url": "https://www.reuters.com/world/china/germanys-vdma-lobby-calls-europe-step-up-humanoid-robotics-unitree-surges-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "德国VDMA工程协会",
+        "Hartmut Rauen",
+        "宇树科技(Unitree)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A原页JS拦截；转经转载源(Yahoo News/Global Banking & Finance)补全署名(Reporting by Matthias Williams)与摘要",
+        "evidence_url": "https://www.yahoo.com/news/articles/germanys-vdma-lobby-calls-europe-125814717.html",
+        "evidence_note": "VDMA表态、Rauen引语、1.91万台出货等来自转载源对路透报道的复述。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-reuters-zai-glm53",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's AI laggard could soon be its leader",
+      "title_zh": "中国AI“掉队者”Z.AI或很快成为领跑者",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Robyn Mak"
+      ],
+      "author_locations": "香港",
+      "authors_status": "named",
+      "topics": [
+        "人工智能",
+        " open-weight模型",
+        "资本市场",
+        "科技竞争"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透Breakingviews专栏分析：Z.AI(2513.HK)凭借全球最具竞争力之一的开源权重模型（最新GLM-5.3在网络防御能力上接近Anthropic受限模型Mythos 5），但这家估值620亿美元、仍在亏损的新锐依赖资本市场输血。相比之下，阿里(9988.HK)可凭电商与云利润、腾讯(0700.HK)可凭游戏与广告现金机器支撑AI野心。研究公司Epoch AI估测前沿模型训练成本每年增3.5倍，最先进训练或将很快突破10亿美元。Z.AI去年研发投入超30亿元人民币、销售额仅7.24亿元，且被迫出售股份融资——从资产负债表看，中国AI“掉队者”或很快成为“领跑者”。",
+      "china_angle": "中国AI格局从阿里/腾讯/百度扩展到Z.AI等资本密集型专精实验室，生态多元化。",
+      "stance": "中性（财经评论，分析性）",
+      "source_url": "https://www.reuters.com/commentary/breakingviews/chinas-ai-laggard-could-soon-be-its-leader-2026-08-19/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "Z.AI",
+        "阿里(Alibaba)",
+        "腾讯(Tencent)",
+        "百度(Baidu)",
+        "Epoch AI",
+        "Visible Alpha"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；By Robyn Mak）",
+        "evidence_url": "https://www.reuters.com/commentary/breakingviews/chinas-ai-laggard-could-soon-be-its-leader-2026-08-19/",
+        "evidence_note": "GLM-5.3、620亿美元估值、30亿研发投入等关键数字由原页确认。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-bloomberg-us-china-ai-race",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "US Lead in the AI Race With China Is Rapidly Narrowing",
+      "title_zh": "中美AI竞赛美国领先优势快速收窄",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Luz Ding",
+        "Spe Chen",
+        "Hayley Warren"
+      ],
+      "author_locations": "",
+      "authors_status": "named",
+      "topics": [
+        "人工智能",
+        "中美竞争",
+        "开源模型"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博图形报道《中美AI竞赛：ChatGPT、Gemini、DeepSeek、Kimi对比》指出，在用量与成本等关键指标上，中国正迅速缩小与美国的差距并实现局部反超——如月之暗面Kimi K3以极低价格逼近美国顶尖模型水平。中国开源权重模型凭借激进定价在全球下载与调用量大幅提升，引发美国企业采用潮及政府对禁令利弊的权衡。尽管美国公司在消费级应用与估值上仍占优，但中国正通过价格战与人才集中策略赢得大规模商用市场。",
+      "china_angle": "中美AI竞争核心叙事：中国在开源与成本侧加速追赶美国。",
+      "stance": "中性（对比分析）",
+      "source_url": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "OpenAI(ChatGPT)",
+        "Google(Gemini)",
+        "DeepSeek",
+        "月之暗面(Kimi)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch bloomberg.com 首页与图形页确认标题与署名 By Luz Ding, Spe Chen, Hayley Warren）",
+        "evidence_url": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/",
+        "evidence_note": "署名与中美模型对比框架由彭博原页确认。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-bloomberg-alibaba-tech-stocks",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Alibaba Tops Chinese Tech Stocks This Quarter on AI Resurgence",
+      "title_zh": "AI复苏提振，阿里巴巴本季领跑中概科技股",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Jeanny Yu",
+        "Sunny Bangia"
+      ],
+      "author_locations": "香港",
+      "authors_status": "named",
+      "topics": [
+        "中概股",
+        "人工智能",
+        "投资",
+        "阿里"
+      ],
+      "importance": "medium",
+      "summary_zh": "阿里巴巴正重获投资者最青睐中国科技股之一的地位，市场押注其能在激烈的AI竞争中击败对手。其港股本季上涨34%，领先恒生科技指数，并在业绩(周四公布)前走出一轮涨势；阿里有望录得2025年初以来对腾讯的最大单季相对跑赢。",
+      "china_angle": "中国科技股AI叙事重燃，阿里凭借AI预期领跑。",
+      "stance": "正面（市场表现）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-19/alibaba-tops-chinese-tech-stocks-this-quarter-on-ai-resurgence",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "阿里巴巴",
+        "腾讯",
+        "恒生科技指数"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Jeanny Yu and Sunny Bangia）",
+        "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/alibaba-tops-chinese-tech-stocks-this-quarter-on-ai-resurgence",
+        "evidence_note": "34%涨幅、领先恒生科技指数等细节由原页确认。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-bloomberg-unitree-ipo",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Why China's First Humanoid Robot IPO Has Investors in a Frenzy",
+      "title_zh": "中国首只人形机器人IPO引发投资者狂热",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "人形机器人",
+        "IPO",
+        "中美科技",
+        "投资"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博报道，能移动、工作、像人一样的机器人是一个摩根士丹利估计2050年规模可达5万亿美元的全球产业，也是中美技术霸权竞争的前沿之一。中国投资者(从国资基金到科技巨头与车企)今年已向该行业投入超1000亿元人民币(148亿美元)，押注中国能在机器人+AI融合上主导，使机器理解并与物理世界互动。宇树(Unitree)等中国厂商已在产量与真实部署上较特斯拉、Figure AI等美国对手取得早期领先。",
+      "china_angle": "中国首只人形机器人IPO标志本土具身智能产业资本化加速，成中美科技竞争新焦点。",
+      "stance": "中性（产业与资本叙事）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-19/unitree-ipo-why-investors-are-betting-big-on-china-s-humanoid-robots",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "宇树科技(Unitree)",
+        "摩根士丹利",
+        "特斯拉",
+        "Figure AI"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；署名仅显示 By Bloomberg News，无真实个人署名，按规范 authors_status=not_available）",
+        "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/unitree-ipo-why-investors-are-betting-big-on-china-s-humanoid-robots",
+        "evidence_note": "1000亿元人民币投入、5万亿美元预测来自原页引述。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-bloomberg-china-drug-deals",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Big Pharma Is Hooked on Chinese Licensing Deals",
+      "title_zh": "美国大型药企深陷中国授权交易，无视华盛顿压力",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [
+        "Amber Tong",
+        "Robert Langreth"
+      ],
+      "author_locations": "",
+      "authors_status": "named",
+      "topics": [
+        "医药",
+        " license交易",
+        "中美经贸",
+        "创新"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博商业周刊报道，对美药企而言，与中国公司不断扩大的合作意味着更低成本与更多突破疗法可及性；对华盛顿批评者则意味风险。默沙东(Merck)高管曾兴奋于一款潜在“基石”抗癌药——其17项后期试验对标肺癌、乳腺癌等肿瘤，而该药并非默沙东自研，而是授权自四川科伦博泰(母公司十年前还以基础输液闻名)。美中药企今年截至7月底已达成至少32笔授权交易，2026年有望超过去年45笔的纪录；西方药企正在运行至少38项源自中国药物的全球后期试验。",
+      "china_angle": "中国创新药成全球药企“替代硅谷/剑桥”的来源，凸显中美生物医药深度捆绑。",
+      "stance": "中性（产业分析）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-19/china-drug-deals-keep-luring-us-pharma-despite-pressure-in-washington",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "默沙东(Merck)",
+        "四川科伦博泰",
+        "彭博情报(Bloomberg Intelligence)",
+        "ING(Diederik Stadig)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Amber Tong and Robert Langreth）",
+        "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/china-drug-deals-keep-luring-us-pharma-despite-pressure-in-washington",
+        "evidence_note": "32笔交易、45笔纪录、38项后期试验等数字由原页确认。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-bloomberg-ck-hutchison-panama",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "CK Hutchison Seeks $1.5 Billion for Loss of Panama Assets",
+      "title_zh": "长江和记就巴拿马港口资产损失寻求15亿美元仲裁赔偿",
+      "published_at": "2026-08-20",
+      "published_precision": "day",
+      "authors": [
+        "Karen Leigh"
+      ],
+      "author_locations": "香港",
+      "authors_status": "named",
+      "topics": [
+        "港股",
+        "基建",
+        "国际仲裁",
+        "地缘政治"
+      ],
+      "importance": "medium",
+      "summary_zh": "长江和记(1.HK)已就巴拿马提起国际仲裁，就其在巴战略运河上两个港口投资损失索赔逾15亿美元。公司周四称，巴拿马通过2025年及今年的措施违反投资保护条约，最终导致巴尔博亚(Balboa)与克里斯托瓦尔(Cristobal)两港特许权终止、码头被接管。",
+      "china_angle": "香港巨头长江和记因巴拿马港口资产被接管发起仲裁，折射中资海外关键基础设施面临的地缘政治风险。",
+      "stance": "中性（企业/地缘动态）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/ck-hutchison-seeks-1-5-billion-for-destruction-of-panama-assets",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "长江和记(CK Hutchison)",
+        "巴拿马政府"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Karen Leigh）",
+        "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-20/ck-hutchison-seeks-1-5-billion-for-destruction-of-panama-assets",
+        "evidence_note": "15亿美元索赔、两港名称等由原页确认。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-bloomberg-byd-kei-japan",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "BYD Tries Where Others Failed With Tiny EV Designed for Japan",
+      "title_zh": "比亚迪推出日本微型电动车Racco，挑战前车之鉴",
+      "published_at": "2026-08-20",
+      "published_precision": "day",
+      "authors": [
+        "Nicholas Takahashi"
+      ],
+      "author_locations": "东京",
+      "authors_status": "named",
+      "topics": [
+        "电动汽车",
+        "出海",
+        "日本市场",
+        "比亚迪"
+      ],
+      "importance": "medium",
+      "summary_zh": "通用、福特、现代都曾因难以说服日本消费者转换品牌而在不同节点退出日本市场；全球最大电动车制造商比亚迪押注自己能成为首个打破这一格局者。比亚迪近期发布专为日本窄路设计的轻自动车(kei)电动车Racco，据公司称上市头几周获超1000笔订单。与其他5款在日车型不同，Racco首次瞄准日本最热门且最具本土特色的轻自动车细分市场。",
+      "china_angle": "中国车企比亚迪以本土化微型电动车切入日本市场，是中国新能源车出海深化的标志。",
+      "stance": "中性（偏正面，商业拓展）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-19/byd-tries-where-others-failed-with-tiny-ev-designed-for-japan",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "比亚迪(BYD)",
+        "通用(GM)",
+        "福特(Ford)",
+        "现代(Hyundai)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Nicholas Takahashi）",
+        "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/byd-tries-where-others-failed-with-tiny-ev-designed-for-japan",
+        "evidence_note": "Racco、1000+订单、kei细分市场等细节由原页确认。"
+      },
+      "_day": "2026-08-20"
+    },
+    {
+      "id": "20260820-bloomberg-hk-student-housing",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Hong Kong Banks Turn to Student Housing as Property Bright Spot",
+      "title_zh": "香港银行转向学生公寓，寻找地产亮点",
+      "published_at": "2026-08-20",
+      "published_precision": "day",
+      "authors": [
+        "Trista Xinyi Luo",
+        "Pearl Liu",
+        "Eunice Xu"
+      ],
+      "author_locations": "香港",
+      "authors_status": "named",
+      "topics": [
+        "香港地产",
+        "金融",
+        "学生公寓",
+        "信贷"
+      ],
+      "importance": "low",
+      "summary_zh": "香港地产低迷中，学生公寓成为少有亮点。中原投资(Centaline Investment)拟借款10亿港元(1.28亿美元)将老化的富豪东方酒店改造成学生公寓，引发多家顶尖银行争抢贷款权，其中中国银行(香港)击败兴业银行香港分行等对手胜出。在地产整体承压下，银行对学生公寓资产表现出不同寻常的兴趣。",
+      "china_angle": "中资背景银行(中银香港)在香港地产逆风中押注学生公寓细分资产，反映香港地产与信贷策略调整。",
+      "stance": "中性（市场动态）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-19/hong-kong-banks-turn-to-student-housing-as-property-bright-spot",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中原投资(Centaline Investment)",
+        "中国银行(香港)",
+        "兴业银行香港分行"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Trista Xinyi Luo, Pearl Liu and Eunice Xu）",
+        "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/hong-kong-banks-turn-to-student-housing-as-property-bright-spot",
+        "evidence_note": "10亿港元借款、中银香港胜出等细节由原页确认。"
+      },
+      "_day": "2026-08-20"
     }
   ],
   "archive": {
-    "days_count": 13,
+    "days_count": 16,
     "first_day": "2026-08-04",
-    "last_day": "2026-08-17",
-    "total_articles": 241,
+    "last_day": "2026-08-20",
+    "total_articles": 289,
     "by_media": {
-      "路透社": 174,
-      "彭博社": 78
+      "路透社": 206,
+      "彭博社": 94
     },
     "by_topic": {
-      "出口管制": 23,
+      "出口管制": 24,
       "宏观经济": 23,
-      "半导体": 20,
+      "半导体": 22,
+      "人工智能": 16,
+      "中美科技": 16,
       "地缘": 15,
-      "中美科技": 14,
-      "港股": 13,
+      "港股": 14,
+      "人形机器人": 14,
+      "IPO": 13,
+      "中美科技竞争": 12,
+      "出海": 12,
       "出口": 11,
-      "人工智能": 10,
-      "中美科技竞争": 10,
-      "中国台湾": 10,
+      "中美关系": 11,
+      "中国台湾": 11,
       "关税": 10,
       "AI": 10,
-      "IPO": 10,
-      "中美关系": 9,
-      "出海": 9,
-      "财报": 8,
+      "内需": 10,
+      "财报": 9,
+      "外交": 8,
+      "货币政策": 8,
+      "地缘政治": 8,
       "台海": 8,
+      "中美经贸": 8,
       "AI芯片": 8,
+      "消费": 8,
       "自然灾害": 7,
       "能源": 7,
-      "货币政策": 7,
       "军事": 7,
-      "中美经贸": 7,
-      "内需": 7,
+      "供应链": 7,
+      "朝鲜半岛": 7,
       "企业动态": 6,
-      "外交": 6,
       "无人机": 6,
       "多晶硅": 6,
       "中日关系": 6,
-      "地缘政治": 6,
       "台风": 6,
       "中美贸易": 6,
       "稀土": 6,
-      "供应链": 6,
       "苹果": 6,
-      "人形机器人": 6,
+      "中韩关系": 6,
       "军事安全": 5,
+      "科技竞争": 5,
+      "资本市场": 5,
       "FCC": 5,
+      "A股": 5,
       "太阳能": 5,
       "华为": 5,
       "中国香港": 5,
       "通胀": 5,
+      "阿里巴巴": 5,
       "Shein": 5,
-      "消费": 5,
+      "宇树": 5,
       "港交所": 5,
+      "中国经济": 5,
       "经贸摩擦": 4,
       "新能源汽车": 4,
-      "资本市场": 4,
       "中美经贸摩擦": 4,
       "国产替代": 4,
-      "A股": 4,
+      "开源模型": 4,
+      "贸易": 4,
       "汉光演习": 4,
       "中美博弈": 4,
       "宏观": 4,
@@ -20507,21 +24639,22 @@ window.__XFS_DATA__ = {
       "生物科技": 4,
       "PPI": 4,
       "CPI": 4,
-      "阿里巴巴": 4,
       "英伟达": 4,
       "跨境快时尚": 4,
+      "科创板": 4,
       "外汇": 4,
       "市场": 4,
       "腾讯": 4,
       "AI大模型": 4,
       "南海": 4,
       "中菲关系": 4,
-      "科技竞争": 3,
+      "信贷": 4,
+      "宏观数据": 4,
       "制裁": 3,
       "科技产业": 3,
+      "中欧关系": 3,
       "防灾减灾": 3,
       "能源安全": 3,
-      "开源模型": 3,
       "房地产": 3,
       "融资": 3,
       "原油": 3,
@@ -20529,35 +24662,50 @@ window.__XFS_DATA__ = {
       "司法": 3,
       "朝鲜": 3,
       "中美科技战": 3,
+      "中国汽车": 3,
+      "金融": 3,
       "股市": 3,
       "北京": 3,
       "上海": 3,
       "福建": 3,
       "应急管理": 3,
       "欧盟": 3,
-      "科创板": 3,
+      "制造业": 3,
+      "航天": 3,
+      "宇树科技": 3,
+      "具身智能": 3,
       "长鑫CXMT": 3,
       "存储芯片": 3,
       "中美供应链": 3,
       "智能制造": 3,
+      "极端天气": 3,
       "反倾销": 3,
+      "贸易摩擦": 3,
       "人民币汇率": 3,
+      "比亚迪": 3,
+      "电动卡车": 3,
       "伊朗": 3,
       "自动驾驶": 3,
       "robotaxi": 3,
       "中新关系": 3,
+      "太空": 3,
       "情报": 3,
       "转运": 3,
+      "阿里": 3,
+      "京东": 3,
+      "电商": 3,
       "习近平": 3,
-      "朝鲜半岛": 3,
+      "中国房地产": 3,
+      "中国市场": 3,
+      "投资": 3,
       "产业政策": 2,
       "社会民生": 2,
       "南海议题": 2,
       "涉台议题": 2,
       "内政": 2,
       "对外投资": 2,
-      "中欧关系": 2,
       "稳增长政策": 2,
+      "基建": 2,
       "金融市场": 2,
       "离岸人民币": 2,
       "红海航运": 2,
@@ -20570,8 +24718,8 @@ window.__XFS_DATA__ = {
       "俄罗斯": 2,
       "AI需求": 2,
       "区域安全": 2,
+      "汽车": 2,
       "导弹": 2,
-      "贸易": 2,
       "网络安全": 2,
       "中印关系": 2,
       "太平洋岛国": 2,
@@ -20579,22 +24727,22 @@ window.__XFS_DATA__ = {
       "机器人": 2,
       "逆变器": 2,
       "民生": 2,
-      "中国汽车": 2,
-      "金融": 2,
       "餐饮": 2,
+      "文化": 2,
       "避险": 2,
       "限购": 2,
+      "宏观政策": 2,
+      "反制": 2,
       "行情": 2,
       "法律": 2,
       "中美": 2,
       "大宗商品": 2,
+      "中国股市": 2,
       "浙江": 2,
       "经贸": 2,
       "伊朗战争": 2,
       "港股IPO": 2,
       "估值": 2,
-      "宇树科技": 2,
-      "具身智能": 2,
       "军事演习": 2,
       "DRAM": 2,
       "稳增长": 2,
@@ -20603,14 +24751,10 @@ window.__XFS_DATA__ = {
       "开放权重": 2,
       "跨境电商": 2,
       "军费": 2,
-      "极端天气": 2,
-      "贸易摩擦": 2,
       "美联储": 2,
       "寒武纪": 2,
-      "比亚迪": 2,
       "算力定价": 2,
       "推理模型": 2,
-      "电动卡车": 2,
       "三一": 2,
       "微软": 2,
       "在华业务": 2,
@@ -20627,30 +24771,38 @@ window.__XFS_DATA__ = {
       "阳光电源": 2,
       "贸易限制": 2,
       "文远知行": 2,
-      "太空": 2,
       "科研安全": 2,
       "AI执法": 2,
       "纳瓦罗": 2,
       "AI资本开支": 2,
       "人民币": 2,
-      "阿里": 2,
       "Apple Intelligence": 2,
       "AI合规": 2,
-      "京东": 2,
-      "电商": 2,
       "关键矿产": 2,
       "靖国神社": 2,
       "历史问题": 2,
       "防务预算": 2,
-      "信贷": 2,
       "社融": 2,
       "中国宏观经济": 2,
       "江泽民": 2,
-      "中国经济": 2,
-      "宏观数据": 2,
-      "中国房地产": 2,
+      "美国": 2,
       "房价": 2,
       "去库存": 2,
+      "中欧贸易": 2,
+      "中国金融": 2,
+      "通义千问": 2,
+      "中美AI竞争": 2,
+      "APEC": 2,
+      "中国香港股市": 2,
+      "板块轮动": 2,
+      "刺激预期": 2,
+      "数字主权": 2,
+      "商业航天": 2,
+      "业绩": 2,
+      "研发": 2,
+      "世界机器人大会": 2,
+      "美妆": 2,
+      "电动汽车": 2,
       "知识产权": 1,
       "涉疆议题": 1,
       "解释性报道": 1,
@@ -20659,7 +24811,6 @@ window.__XFS_DATA__ = {
       "中英关系": 1,
       "周边外交": 1,
       "外资在华": 1,
-      "基建": 1,
       "债券": 1,
       "经济压力": 1,
       "青年就业": 1,
@@ -20693,7 +24844,6 @@ window.__XFS_DATA__ = {
       "执法合作": 1,
       "科技制造": 1,
       "台企": 1,
-      "汽车": 1,
       "中外合资": 1,
       "商业": 1,
       "航空": 1,
@@ -20725,14 +24875,11 @@ window.__XFS_DATA__ = {
       "港口": 1,
       "文化输出": 1,
       "微短剧": 1,
-      "文化": 1,
       "中东": 1,
       "黄金储备": 1,
-      "宏观政策": 1,
       "网络安全审查": 1,
       "CAC": 1,
       "Palo Alto": 1,
-      "反制": 1,
       "外国制裁法": 1,
       "无人机出口": 1,
       "有色金属": 1,
@@ -20745,7 +24892,6 @@ window.__XFS_DATA__ = {
       "储备": 1,
       "光伏": 1,
       "铜": 1,
-      "中国股市": 1,
       "财政": 1,
       "国防预算": 1,
       "赖清德": 1,
@@ -20759,10 +24905,8 @@ window.__XFS_DATA__ = {
       "长鑫科技": 1,
       "油价": 1,
       "摩尔线程": 1,
-      "制造业": 1,
       "数字经济": 1,
       "新兴市场": 1,
-      "航天": 1,
       "长征火箭": 1,
       "发射失败": 1,
       "中星4B": 1,
@@ -20821,7 +24965,6 @@ window.__XFS_DATA__ = {
       "湖北": 1,
       "内涝": 1,
       "ASML": 1,
-      "宇树": 1,
       "恒生科技指数": 1,
       "指数": 1,
       "字节跳动": 1,
@@ -20875,7 +25018,6 @@ window.__XFS_DATA__ = {
       "竞争": 1,
       "洪涝": 1,
       "地质灾害": 1,
-      "中韩关系": 1,
       "停战协定": 1,
       "美韩关系": 1,
       "二级制裁": 1,
@@ -20900,7 +25042,6 @@ window.__XFS_DATA__ = {
       "工业增加值": 1,
       "亚洲股市": 1,
       "中国概念": 1,
-      "美国": 1,
       "美韩同盟": 1,
       "东北亚安全": 1,
       "战略储备": 1,
@@ -20908,21 +25049,80 @@ window.__XFS_DATA__ = {
       "弃风弃光": 1,
       "电网": 1,
       "碳中和": 1,
-      "中欧贸易": 1,
       "产能过剩": 1,
       "去风险": 1,
       "工业产出": 1,
       "汇率": 1,
       "美元": 1,
-      "中国金融": 1,
-      "通义千问": 1,
       "中共高层": 1,
       "政治": 1,
-      "中美AI竞争": 1,
       "开放权重模型": 1,
       "开源AI": 1,
       "美国监管": 1,
-      "行业游说": 1
+      "行业游说": 1,
+      "中国外交": 1,
+      "美台关系": 1,
+      "固定资产投资": 1,
+      "中国物价": 1,
+      "通缩": 1,
+      "CXMT": 1,
+      "AI 基建": 1,
+      "中概股市值": 1,
+      "刺激政策": 1,
+      "《中国秀》": 1,
+      "生成式 AI": 1,
+      "中国AI": 1,
+      "中国硬科技": 1,
+      "AI治理": 1,
+      "外交部": 1,
+      "反补贴": 1,
+      "域外管辖": 1,
+      "航天文旅": 1,
+      "中美欧科技竞争": 1,
+      "新能源商用车": 1,
+      "电动客车": 1,
+      "中国主导": 1,
+      "XI-Lee峰会": 1,
+      "王毅访韩": 1,
+      "啤酒": 1,
+      "嘉士伯": 1,
+      "王毅": 1,
+      "美朝外交": 1,
+      "联合军演": 1,
+      "人物": 1,
+      "导弹控制": 1,
+      "载人航天": 1,
+      "讣告": 1,
+      "奇瑞": 1,
+      "英国": 1,
+      "商业化": 1,
+      "雅诗兰黛": 1,
+      "UBTECH": 1,
+      "蓝箭": 1,
+      "朱雀三号": 1,
+      "火箭回收": 1,
+      "可重复使用": 1,
+      "文旅": 1,
+      "社会文化": 1,
+      "商用车": 1,
+      "清洁能源": 1,
+      "航运": 1,
+      "北极": 1,
+      "中俄": 1,
+      "亚太": 1,
+      "监管": 1,
+      "中英": 1,
+      "中欧产业竞争": 1,
+      " open-weight模型": 1,
+      "中美竞争": 1,
+      "中概股": 1,
+      "医药": 1,
+      " license交易": 1,
+      "创新": 1,
+      "国际仲裁": 1,
+      "日本市场": 1,
+      "香港地产": 1,
+      "学生公寓": 1
     },
     "sentiment_trend": [
       {
@@ -21002,28 +25202,46 @@ window.__XFS_DATA__ = {
         "negative": 7,
         "neutral": 7,
         "positive": 5
+      },
+      {
+        "date": "2026-08-18",
+        "negative": 6,
+        "neutral": 7,
+        "positive": 0
+      },
+      {
+        "date": "2026-08-19",
+        "negative": 1,
+        "neutral": 6,
+        "positive": 8
+      },
+      {
+        "date": "2026-08-20",
+        "negative": 1,
+        "neutral": 19,
+        "positive": 0
       }
     ],
     "cited_source_freq": [
       [
         "路透社",
-        96
+        102
       ],
       [
         "彭博社",
-        31
+        36
+      ],
+      [
+        "市场数据",
+        26
       ],
       [
         "官方数据/企业披露",
         18
       ],
       [
-        "市场数据",
-        18
-      ],
-      [
         "中国人民银行",
-        10
+        11
       ],
       [
         "中国外交部",
@@ -21038,6 +25256,14 @@ window.__XFS_DATA__ = {
         7
       ],
       [
+        "摩根士丹利",
+        6
+      ],
+      [
+        "中国商务部",
+        6
+      ],
+      [
         "美国白宫",
         6
       ],
@@ -21050,11 +25276,19 @@ window.__XFS_DATA__ = {
         6
       ],
       [
-        "中国国家统计局",
+        "腾讯",
+        6
+      ],
+      [
+        "韩国外交部",
+        6
+      ],
+      [
+        "阿里巴巴",
         5
       ],
       [
-        "中国商务部",
+        "中国国家统计局",
         5
       ],
       [
@@ -21066,7 +25300,7 @@ window.__XFS_DATA__ = {
         4
       ],
       [
-        "阿里巴巴",
+        "新华社",
         4
       ],
       [
@@ -21082,7 +25316,7 @@ window.__XFS_DATA__ = {
         4
       ],
       [
-        "摩根士丹利",
+        "LSEG",
         4
       ],
       [
@@ -21090,12 +25324,32 @@ window.__XFS_DATA__ = {
         4
       ],
       [
+        "Omdia",
+        4
+      ],
+      [
         "英伟达",
         4
       ],
       [
-        "腾讯",
+        "美国FCC",
         4
+      ],
+      [
+        "宇树科技(Unitree)",
+        4
+      ],
+      [
+        "国家统计局",
+        4
+      ],
+      [
+        "Unitree(宇树)",
+        4
+      ],
+      [
+        "欧盟委员会",
+        3
       ],
       [
         "Anthropic",
@@ -21106,15 +25360,19 @@ window.__XFS_DATA__ = {
         3
       ],
       [
-        "新华社",
-        3
-      ],
-      [
         "比亚迪",
         3
       ],
       [
+        "欧盟",
+        3
+      ],
+      [
         "中金公司",
+        3
+      ],
+      [
+        "央视",
         3
       ],
       [
@@ -21130,11 +25388,19 @@ window.__XFS_DATA__ = {
         3
       ],
       [
+        "DeepSeek",
+        3
+      ],
+      [
         "Shein",
         3
       ],
       [
         "宇树科技",
+        3
+      ],
+      [
+        "字节跳动",
         3
       ],
       [
@@ -21178,15 +25444,7 @@ window.__XFS_DATA__ = {
         2
       ],
       [
-        "欧盟",
-        2
-      ],
-      [
         "彭博行业研究",
-        2
-      ],
-      [
-        "央视",
         2
       ],
       [
@@ -21195,10 +25453,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "保银投资Pinpoint(张智威)",
-        2
-      ],
-      [
-        "LSEG",
         2
       ],
       [
@@ -21258,6 +25512,10 @@ window.__XFS_DATA__ = {
         2
       ],
       [
+        "金融时报(FT)",
+        2
+      ],
+      [
         "希音(Shein)",
         2
       ],
@@ -21274,7 +25532,7 @@ window.__XFS_DATA__ = {
         2
       ],
       [
-        "DeepSeek",
+        "月之暗面(Kimi)",
         2
       ],
       [
@@ -21314,7 +25572,15 @@ window.__XFS_DATA__ = {
         2
       ],
       [
-        "字节跳动",
+        "特朗普",
+        2
+      ],
+      [
+        "特斯拉",
+        2
+      ],
+      [
+        "Figure AI",
         2
       ],
       [
@@ -21398,6 +25664,10 @@ window.__XFS_DATA__ = {
         2
       ],
       [
+        "美国国务院",
+        2
+      ],
+      [
         "日本防卫省",
         2
       ],
@@ -21406,15 +25676,47 @@ window.__XFS_DATA__ = {
         2
       ],
       [
+        "中国司法部",
+        2
+      ],
+      [
+        "京东(JD.com)",
+        2
+      ],
+      [
+        "Ceconomy",
+        2
+      ],
+      [
+        "文昌航天发射场",
+        2
+      ],
+      [
+        "Hartmut Rauen",
+        2
+      ],
+      [
+        "王毅",
+        2
+      ],
+      [
+        "赵兑烈",
+        2
+      ],
+      [
+        "SMMT",
+        2
+      ],
+      [
+        "UTAC Millbrook",
+        2
+      ],
+      [
         "7月30日中共高层会议",
         1
       ],
       [
         "意大利央行",
-        1
-      ],
-      [
-        "欧盟委员会",
         1
       ],
       [
@@ -22166,10 +26468,6 @@ window.__XFS_DATA__ = {
         1
       ],
       [
-        "Omdia",
-        1
-      ],
-      [
         "美国哥伦比亚特区联邦地区法院(法官James Boasberg)",
         1
       ],
@@ -22199,10 +26497,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "独立矿产分析师",
-        1
-      ],
-      [
-        "金融时报(FT)",
         1
       ],
       [
@@ -22358,10 +26652,6 @@ window.__XFS_DATA__ = {
         1
       ],
       [
-        "美国FCC",
-        1
-      ],
-      [
         "中际旭创等",
         1
       ],
@@ -22391,10 +26681,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "OpenRouter",
-        1
-      ],
-      [
-        "月之暗面(Kimi)",
         1
       ],
       [
@@ -22646,23 +26932,7 @@ window.__XFS_DATA__ = {
         1
       ],
       [
-        "特朗普",
-        1
-      ],
-      [
         "行业研究报告(SAG类)",
-        1
-      ],
-      [
-        "宇树科技(Unitree)",
-        1
-      ],
-      [
-        "特斯拉",
-        1
-      ],
-      [
-        "Figure AI",
         1
       ],
       [
@@ -22770,10 +27040,6 @@ window.__XFS_DATA__ = {
         1
       ],
       [
-        "美国国务院",
-        1
-      ],
-      [
         "美国官员(匿名)",
         1
       ],
@@ -22791,10 +27057,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "菲律宾国防部",
-        1
-      ],
-      [
-        "韩国外交部",
         1
       ],
       [
@@ -22932,12 +27194,352 @@ window.__XFS_DATA__ = {
       [
         "美国监管方（白宫/相关机构）",
         1
+      ],
+      [
+        "美国贸易代表办公室",
+        1
+      ],
+      [
+        "台湾谈判代表",
+        1
+      ],
+      [
+        "国台办",
+        1
+      ],
+      [
+        "路透社测算",
+        1
+      ],
+      [
+        "Allspring Global Investments",
+        1
+      ],
+      [
+        "彭博社《中国秀》",
+        1
+      ],
+      [
+        "外交部(林剑)",
+        1
+      ],
+      [
+        "《人工智能机遇伙伴关系联合声明》",
+        1
+      ],
+      [
+        "《外国补贴条例》(FSR)",
+        1
+      ],
+      [
+        "中国航天",
+        1
+      ],
+      [
+        "VDMA",
+        1
+      ],
+      [
+        "ICCT(国际清洁交通委员会)",
+        1
+      ],
+      [
+        "印度",
+        1
+      ],
+      [
+        "中国",
+        1
+      ],
+      [
+        "APEC(深圳)",
+        1
+      ],
+      [
+        "Carlsberg(嘉士伯)",
+        1
+      ],
+      [
+        "Britvic",
+        1
+      ],
+      [
+        "Jyske Bank",
+        1
+      ],
+      [
+        "Yonhap",
+        1
+      ],
+      [
+        "中国航天科技集团",
+        1
+      ],
+      [
+        "国家航天局",
+        1
+      ],
+      [
+        "载人航天工程",
+        1
+      ],
+      [
+        "Chery(奇瑞)",
+        1
+      ],
+      [
+        "Nissan(日产)",
+        1
+      ],
+      [
+        "WRC(世界机器人大会)",
+        1
+      ],
+      [
+        "IDC",
+        1
+      ],
+      [
+        "国泰君安",
+        1
+      ],
+      [
+        "Lumos Robotics",
+        1
+      ],
+      [
+        "MERICS",
+        1
+      ],
+      [
+        "Estee Lauder(雅诗兰黛)",
+        1
+      ],
+      [
+        "Le Labo",
+        1
+      ],
+      [
+        "Tom Ford",
+        1
+      ],
+      [
+        "Balmain Beauty",
+        1
+      ],
+      [
+        "Puig",
+        1
+      ],
+      [
+        "Morningstar",
+        1
+      ],
+      [
+        "UBTech",
+        1
+      ],
+      [
+        "上交所科创板",
+        1
+      ],
+      [
+        "UBTECH(优必选)",
+        1
+      ],
+      [
+        "世界机器人大会",
+        1
+      ],
+      [
+        "AP",
+        1
+      ],
+      [
+        "LandSpace(蓝箭航天)",
+        1
+      ],
+      [
+        "Zhuque-3(朱雀三号)",
+        1
+      ],
+      [
+        "Xinhua(新华社)",
+        1
+      ],
+      [
+        "Macquarie University(Richard de Grijs)",
+        1
+      ],
+      [
+        "CCTV",
+        1
+      ],
+      [
+        "中国官媒",
+        1
+      ],
+      [
+        "北京新闻编辑室",
+        1
+      ],
+      [
+        "国际清洁交通委员会(ICCT)",
+        1
+      ],
+      [
+        "韩国海洋水产部",
+        1
+      ],
+      [
+        "泛星(PanStar)",
+        1
+      ],
+      [
+        "高地北方物流中心(Centre for High North Logistics)",
+        1
+      ],
+      [
+        "韩国媒体",
+        1
+      ],
+      [
+        "中国外交部(林剑)",
+        1
+      ],
+      [
+        "美国官员",
+        1
+      ],
+      [
+        "路透社内部草案",
+        1
+      ],
+      [
+        "英伟达(Nvidia)",
+        1
+      ],
+      [
+        "奇瑞汽车",
+        1
+      ],
+      [
+        "日产(Nissan)",
+        1
+      ],
+      [
+        "世界机器人大会组委会",
+        1
+      ],
+      [
+        "工信部(辛国斌)",
+        1
+      ],
+      [
+        "雅诗兰黛",
+        1
+      ],
+      [
+        "eMarketer(Sky Canaves)",
+        1
+      ],
+      [
+        "德国VDMA工程协会",
+        1
+      ],
+      [
+        "Z.AI",
+        1
+      ],
+      [
+        "阿里(Alibaba)",
+        1
+      ],
+      [
+        "腾讯(Tencent)",
+        1
+      ],
+      [
+        "百度(Baidu)",
+        1
+      ],
+      [
+        "Epoch AI",
+        1
+      ],
+      [
+        "Visible Alpha",
+        1
+      ],
+      [
+        "OpenAI(ChatGPT)",
+        1
+      ],
+      [
+        "Google(Gemini)",
+        1
+      ],
+      [
+        "恒生科技指数",
+        1
+      ],
+      [
+        "默沙东(Merck)",
+        1
+      ],
+      [
+        "四川科伦博泰",
+        1
+      ],
+      [
+        "彭博情报(Bloomberg Intelligence)",
+        1
+      ],
+      [
+        "ING(Diederik Stadig)",
+        1
+      ],
+      [
+        "长江和记(CK Hutchison)",
+        1
+      ],
+      [
+        "巴拿马政府",
+        1
+      ],
+      [
+        "比亚迪(BYD)",
+        1
+      ],
+      [
+        "通用(GM)",
+        1
+      ],
+      [
+        "福特(Ford)",
+        1
+      ],
+      [
+        "现代(Hyundai)",
+        1
+      ],
+      [
+        "中原投资(Centaline Investment)",
+        1
+      ],
+      [
+        "中国银行(香港)",
+        1
+      ],
+      [
+        "兴业银行香港分行",
+        1
       ]
     ],
     "recurring_topics": [
       {
         "topic": "出口管制",
-        "count": 10,
+        "count": 11,
         "days": [
           "2026-08-04",
           "2026-08-06",
@@ -22948,12 +27550,29 @@ window.__XFS_DATA__ = {
           "2026-08-11",
           "2026-08-12",
           "2026-08-15",
-          "2026-08-16"
+          "2026-08-16",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "半导体",
+        "count": 10,
+        "days": [
+          "2026-08-04",
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-09",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-18",
+          "2026-08-20"
         ]
       },
       {
         "topic": "中国台湾",
-        "count": 9,
+        "count": 10,
         "days": [
           "2026-08-07",
           "2026-08-08",
@@ -22963,7 +27582,23 @@ window.__XFS_DATA__ = {
           "2026-08-12",
           "2026-08-15",
           "2026-08-16",
-          "2026-08-17"
+          "2026-08-17",
+          "2026-08-18"
+        ]
+      },
+      {
+        "topic": "港股",
+        "count": 9,
+        "days": [
+          "2026-08-06",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-17",
+          "2026-08-20"
         ]
       },
       {
@@ -22981,31 +27616,31 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "半导体",
+        "topic": "中美科技",
         "count": 8,
         "days": [
-          "2026-08-04",
-          "2026-08-06",
           "2026-08-07",
+          "2026-08-08",
           "2026-08-09",
-          "2026-08-11",
-          "2026-08-12",
+          "2026-08-10",
           "2026-08-14",
-          "2026-08-15"
+          "2026-08-15",
+          "2026-08-17",
+          "2026-08-20"
         ]
       },
       {
-        "topic": "港股",
+        "topic": "IPO",
         "count": 8,
         "days": [
-          "2026-08-06",
           "2026-08-10",
           "2026-08-11",
-          "2026-08-12",
           "2026-08-13",
           "2026-08-14",
           "2026-08-15",
-          "2026-08-17"
+          "2026-08-18",
+          "2026-08-19",
+          "2026-08-20"
         ]
       },
       {
@@ -23032,6 +27667,45 @@ window.__XFS_DATA__ = {
           "2026-08-11",
           "2026-08-13",
           "2026-08-14"
+        ]
+      },
+      {
+        "topic": "中美科技竞争",
+        "count": 7,
+        "days": [
+          "2026-08-06",
+          "2026-08-11",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-16",
+          "2026-08-19"
+        ]
+      },
+      {
+        "topic": "中美关系",
+        "count": 7,
+        "days": [
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "地缘政治",
+        "count": 7,
+        "days": [
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-10",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-20"
         ]
       },
       {
@@ -23074,16 +27748,28 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "中美科技",
+        "topic": "出海",
         "count": 7,
         "days": [
           "2026-08-07",
-          "2026-08-08",
-          "2026-08-09",
           "2026-08-10",
+          "2026-08-13",
           "2026-08-14",
           "2026-08-15",
-          "2026-08-17"
+          "2026-08-19",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "人工智能",
+        "count": 6,
+        "days": [
+          "2026-08-04",
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-11",
+          "2026-08-15",
+          "2026-08-20"
         ]
       },
       {
@@ -23099,27 +27785,39 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "中美科技竞争",
+        "topic": "货币政策",
         "count": 6,
         "days": [
-          "2026-08-06",
-          "2026-08-11",
+          "2026-08-04",
+          "2026-08-09",
+          "2026-08-10",
           "2026-08-13",
-          "2026-08-14",
-          "2026-08-15",
-          "2026-08-16"
+          "2026-08-16",
+          "2026-08-18"
         ]
       },
       {
-        "topic": "地缘政治",
+        "topic": "财报",
         "count": 6,
         "days": [
           "2026-08-06",
-          "2026-08-07",
-          "2026-08-10",
+          "2026-08-12",
           "2026-08-13",
           "2026-08-14",
-          "2026-08-15"
+          "2026-08-15",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "中美经贸",
+        "count": 6,
+        "days": [
+          "2026-08-07",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-20"
         ]
       },
       {
@@ -23135,6 +27833,42 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "人形机器人",
+        "count": 6,
+        "days": [
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-18",
+          "2026-08-19",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "内需",
+        "count": 6,
+        "days": [
+          "2026-08-11",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-16",
+          "2026-08-17",
+          "2026-08-18"
+        ]
+      },
+      {
+        "topic": "消费",
+        "count": 6,
+        "days": [
+          "2026-08-12",
+          "2026-08-15",
+          "2026-08-16",
+          "2026-08-17",
+          "2026-08-19",
+          "2026-08-20"
+        ]
+      },
+      {
         "topic": "自然灾害",
         "count": 5,
         "days": [
@@ -23146,25 +27880,25 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "人工智能",
+        "topic": "外交",
+        "count": 5,
+        "days": [
+          "2026-08-04",
+          "2026-08-07",
+          "2026-08-11",
+          "2026-08-16",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "资本市场",
         "count": 5,
         "days": [
           "2026-08-04",
           "2026-08-06",
-          "2026-08-07",
-          "2026-08-11",
-          "2026-08-15"
-        ]
-      },
-      {
-        "topic": "货币政策",
-        "count": 5,
-        "days": [
-          "2026-08-04",
           "2026-08-09",
-          "2026-08-10",
-          "2026-08-13",
-          "2026-08-16"
+          "2026-08-12",
+          "2026-08-20"
         ]
       },
       {
@@ -23179,6 +27913,17 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "A股",
+        "count": 5,
+        "days": [
+          "2026-08-06",
+          "2026-08-08",
+          "2026-08-11",
+          "2026-08-13",
+          "2026-08-18"
+        ]
+      },
+      {
         "topic": "中日关系",
         "count": 5,
         "days": [
@@ -23187,50 +27932,6 @@ window.__XFS_DATA__ = {
           "2026-08-12",
           "2026-08-15",
           "2026-08-16"
-        ]
-      },
-      {
-        "topic": "中美关系",
-        "count": 5,
-        "days": [
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-17"
-        ]
-      },
-      {
-        "topic": "财报",
-        "count": 5,
-        "days": [
-          "2026-08-06",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-15"
-        ]
-      },
-      {
-        "topic": "中美经贸",
-        "count": 5,
-        "days": [
-          "2026-08-07",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14"
-        ]
-      },
-      {
-        "topic": "出海",
-        "count": 5,
-        "days": [
-          "2026-08-07",
-          "2026-08-10",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-15"
         ]
       },
       {
@@ -23245,6 +27946,17 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "供应链",
+        "count": 5,
+        "days": [
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-20"
+        ]
+      },
+      {
         "topic": "苹果",
         "count": 5,
         "days": [
@@ -23256,45 +27968,14 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "IPO",
+        "topic": "朝鲜半岛",
         "count": 5,
         "days": [
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-15"
-        ]
-      },
-      {
-        "topic": "内需",
-        "count": 5,
-        "days": [
-          "2026-08-11",
-          "2026-08-14",
-          "2026-08-15",
           "2026-08-16",
-          "2026-08-17"
-        ]
-      },
-      {
-        "topic": "外交",
-        "count": 4,
-        "days": [
-          "2026-08-04",
-          "2026-08-07",
-          "2026-08-11",
-          "2026-08-16"
-        ]
-      },
-      {
-        "topic": "资本市场",
-        "count": 4,
-        "days": [
-          "2026-08-04",
-          "2026-08-06",
-          "2026-08-09",
-          "2026-08-12"
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-19",
+          "2026-08-20"
         ]
       },
       {
@@ -23308,13 +27989,23 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "A股",
+        "topic": "开源模型",
         "count": 4,
         "days": [
           "2026-08-06",
-          "2026-08-08",
+          "2026-08-07",
           "2026-08-11",
-          "2026-08-13"
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "贸易",
+        "count": 4,
+        "days": [
+          "2026-08-07",
+          "2026-08-09",
+          "2026-08-18",
+          "2026-08-20"
         ]
       },
       {
@@ -23358,13 +28049,13 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "供应链",
+        "topic": "阿里巴巴",
         "count": 4,
         "days": [
-          "2026-08-08",
           "2026-08-09",
-          "2026-08-10",
-          "2026-08-11"
+          "2026-08-16",
+          "2026-08-17",
+          "2026-08-18"
         ]
       },
       {
@@ -23388,16 +28079,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "消费",
-        "count": 4,
-        "days": [
-          "2026-08-12",
-          "2026-08-15",
-          "2026-08-16",
-          "2026-08-17"
-        ]
-      },
-      {
         "topic": "AI大模型",
         "count": 4,
         "days": [
@@ -23405,6 +28086,26 @@ window.__XFS_DATA__ = {
           "2026-08-14",
           "2026-08-16",
           "2026-08-17"
+        ]
+      },
+      {
+        "topic": "信贷",
+        "count": 4,
+        "days": [
+          "2026-08-15",
+          "2026-08-16",
+          "2026-08-18",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "中韩关系",
+        "count": 4,
+        "days": [
+          "2026-08-16",
+          "2026-08-18",
+          "2026-08-19",
+          "2026-08-20"
         ]
       },
       {
@@ -23432,15 +28133,6 @@ window.__XFS_DATA__ = {
           "2026-08-06",
           "2026-08-07",
           "2026-08-08"
-        ]
-      },
-      {
-        "topic": "开源模型",
-        "count": 3,
-        "days": [
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-11"
         ]
       },
       {
@@ -23495,6 +28187,24 @@ window.__XFS_DATA__ = {
           "2026-08-07",
           "2026-08-10",
           "2026-08-16"
+        ]
+      },
+      {
+        "topic": "中国汽车",
+        "count": 3,
+        "days": [
+          "2026-08-07",
+          "2026-08-14",
+          "2026-08-19"
+        ]
+      },
+      {
+        "topic": "金融",
+        "count": 3,
+        "days": [
+          "2026-08-07",
+          "2026-08-16",
+          "2026-08-20"
         ]
       },
       {
@@ -23561,15 +28271,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "阿里巴巴",
-        "count": 3,
-        "days": [
-          "2026-08-09",
-          "2026-08-16",
-          "2026-08-17"
-        ]
-      },
-      {
         "topic": "英伟达",
         "count": 3,
         "days": [
@@ -23585,6 +28286,24 @@ window.__XFS_DATA__ = {
           "2026-08-09",
           "2026-08-13",
           "2026-08-14"
+        ]
+      },
+      {
+        "topic": "制造业",
+        "count": 3,
+        "days": [
+          "2026-08-09",
+          "2026-08-19",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "航天",
+        "count": 3,
+        "days": [
+          "2026-08-10",
+          "2026-08-19",
+          "2026-08-20"
         ]
       },
       {
@@ -23606,12 +28325,21 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "人形机器人",
+        "topic": "科创板",
         "count": 3,
         "days": [
           "2026-08-10",
           "2026-08-11",
-          "2026-08-12"
+          "2026-08-19"
+        ]
+      },
+      {
+        "topic": "极端天气",
+        "count": 3,
+        "days": [
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-18"
         ]
       },
       {
@@ -23624,6 +28352,15 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "贸易摩擦",
+        "count": 3,
+        "days": [
+          "2026-08-11",
+          "2026-08-17",
+          "2026-08-20"
+        ]
+      },
+      {
         "topic": "人民币汇率",
         "count": 3,
         "days": [
@@ -23633,12 +28370,39 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "比亚迪",
+        "count": 3,
+        "days": [
+          "2026-08-12",
+          "2026-08-14",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "电动卡车",
+        "count": 3,
+        "days": [
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-19"
+        ]
+      },
+      {
         "topic": "伊朗",
         "count": 3,
         "days": [
           "2026-08-13",
           "2026-08-14",
           "2026-08-16"
+        ]
+      },
+      {
+        "topic": "太空",
+        "count": 3,
+        "days": [
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-19"
         ]
       },
       {
@@ -23660,11 +28424,46 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "阿里",
+        "count": 3,
+        "days": [
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "京东",
+        "count": 3,
+        "days": [
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-19"
+        ]
+      },
+      {
+        "topic": "电商",
+        "count": 3,
+        "days": [
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-20"
+        ]
+      },
+      {
         "topic": "军事安全",
         "count": 2,
         "days": [
           "2026-08-04",
           "2026-08-06"
+        ]
+      },
+      {
+        "topic": "科技竞争",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-08-20"
         ]
       },
       {
@@ -23697,6 +28496,22 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-04",
           "2026-08-12"
+        ]
+      },
+      {
+        "topic": "中欧关系",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "基建",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-08-20"
         ]
       },
       {
@@ -23812,19 +28627,19 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "汽车",
+        "count": 2,
+        "days": [
+          "2026-08-06",
+          "2026-08-20"
+        ]
+      },
+      {
         "topic": "导弹",
         "count": 2,
         "days": [
           "2026-08-06",
           "2026-08-12"
-        ]
-      },
-      {
-        "topic": "贸易",
-        "count": 2,
-        "days": [
-          "2026-08-07",
-          "2026-08-09"
         ]
       },
       {
@@ -23860,27 +28675,19 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "中国汽车",
-        "count": 2,
-        "days": [
-          "2026-08-07",
-          "2026-08-14"
-        ]
-      },
-      {
-        "topic": "金融",
-        "count": 2,
-        "days": [
-          "2026-08-07",
-          "2026-08-16"
-        ]
-      },
-      {
         "topic": "餐饮",
         "count": 2,
         "days": [
           "2026-08-07",
           "2026-08-17"
+        ]
+      },
+      {
+        "topic": "文化",
+        "count": 2,
+        "days": [
+          "2026-08-07",
+          "2026-08-19"
         ]
       },
       {
@@ -23908,6 +28715,22 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "宏观政策",
+        "count": 2,
+        "days": [
+          "2026-08-08",
+          "2026-08-18"
+        ]
+      },
+      {
+        "topic": "反制",
+        "count": 2,
+        "days": [
+          "2026-08-08",
+          "2026-08-19"
+        ]
+      },
+      {
         "topic": "药明康德",
         "count": 2,
         "days": [
@@ -23929,6 +28752,14 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-08",
           "2026-08-17"
+        ]
+      },
+      {
+        "topic": "中国股市",
+        "count": 2,
+        "days": [
+          "2026-08-08",
+          "2026-08-18"
         ]
       },
       {
@@ -23980,11 +28811,19 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "科创板",
+        "topic": "宇树科技",
         "count": 2,
         "days": [
           "2026-08-10",
-          "2026-08-11"
+          "2026-08-18"
+        ]
+      },
+      {
+        "topic": "具身智能",
+        "count": 2,
+        "days": [
+          "2026-08-10",
+          "2026-08-19"
         ]
       },
       {
@@ -24076,22 +28915,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "极端天气",
-        "count": 2,
-        "days": [
-          "2026-08-11",
-          "2026-08-12"
-        ]
-      },
-      {
-        "topic": "贸易摩擦",
-        "count": 2,
-        "days": [
-          "2026-08-11",
-          "2026-08-17"
-        ]
-      },
-      {
         "topic": "美联储",
         "count": 2,
         "days": [
@@ -24108,19 +28931,19 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "宇树",
+        "count": 2,
+        "days": [
+          "2026-08-12",
+          "2026-08-19"
+        ]
+      },
+      {
         "topic": "腾讯",
         "count": 2,
         "days": [
           "2026-08-12",
           "2026-08-13"
-        ]
-      },
-      {
-        "topic": "比亚迪",
-        "count": 2,
-        "days": [
-          "2026-08-12",
-          "2026-08-14"
         ]
       },
       {
@@ -24133,14 +28956,6 @@ window.__XFS_DATA__ = {
       },
       {
         "topic": "推理模型",
-        "count": 2,
-        "days": [
-          "2026-08-13",
-          "2026-08-14"
-        ]
-      },
-      {
-        "topic": "电动卡车",
         "count": 2,
         "days": [
           "2026-08-13",
@@ -24308,14 +29123,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "太空",
-        "count": 2,
-        "days": [
-          "2026-08-13",
-          "2026-08-14"
-        ]
-      },
-      {
         "topic": "情报",
         "count": 2,
         "days": [
@@ -24372,14 +29179,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "阿里",
-        "count": 2,
-        "days": [
-          "2026-08-14",
-          "2026-08-15"
-        ]
-      },
-      {
         "topic": "Apple Intelligence",
         "count": 2,
         "days": [
@@ -24389,22 +29188,6 @@ window.__XFS_DATA__ = {
       },
       {
         "topic": "AI合规",
-        "count": 2,
-        "days": [
-          "2026-08-14",
-          "2026-08-15"
-        ]
-      },
-      {
-        "topic": "京东",
-        "count": 2,
-        "days": [
-          "2026-08-14",
-          "2026-08-15"
-        ]
-      },
-      {
-        "topic": "电商",
         "count": 2,
         "days": [
           "2026-08-14",
@@ -24452,14 +29235,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "信贷",
-        "count": 2,
-        "days": [
-          "2026-08-15",
-          "2026-08-16"
-        ]
-      },
-      {
         "topic": "社融",
         "count": 2,
         "days": [
@@ -24468,15 +29243,143 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "朝鲜半岛",
+        "topic": "中国经济",
         "count": 2,
         "days": [
-          "2026-08-16",
-          "2026-08-17"
+          "2026-08-17",
+          "2026-08-18"
+        ]
+      },
+      {
+        "topic": "宏观数据",
+        "count": 2,
+        "days": [
+          "2026-08-17",
+          "2026-08-18"
+        ]
+      },
+      {
+        "topic": "美国",
+        "count": 2,
+        "days": [
+          "2026-08-17",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "中国房地产",
+        "count": 2,
+        "days": [
+          "2026-08-17",
+          "2026-08-18"
+        ]
+      },
+      {
+        "topic": "中欧贸易",
+        "count": 2,
+        "days": [
+          "2026-08-17",
+          "2026-08-19"
+        ]
+      },
+      {
+        "topic": "中国金融",
+        "count": 2,
+        "days": [
+          "2026-08-17",
+          "2026-08-18"
+        ]
+      },
+      {
+        "topic": "通义千问",
+        "count": 2,
+        "days": [
+          "2026-08-17",
+          "2026-08-18"
+        ]
+      },
+      {
+        "topic": "中美AI竞争",
+        "count": 2,
+        "days": [
+          "2026-08-17",
+          "2026-08-19"
+        ]
+      },
+      {
+        "topic": "APEC",
+        "count": 2,
+        "days": [
+          "2026-08-18",
+          "2026-08-19"
+        ]
+      },
+      {
+        "topic": "数字主权",
+        "count": 2,
+        "days": [
+          "2026-08-19",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "中国市场",
+        "count": 2,
+        "days": [
+          "2026-08-19",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "研发",
+        "count": 2,
+        "days": [
+          "2026-08-19",
+          "2026-08-20"
+        ]
+      },
+      {
+        "topic": "美妆",
+        "count": 2,
+        "days": [
+          "2026-08-19",
+          "2026-08-20"
         ]
       }
     ],
     "important_negatives": [
+      {
+        "id": "20260819-reuters-china-blocks-eu-jd-probe",
+        "date": "2026-08-19",
+        "media": "路透社",
+        "title_zh": "中国命令境内实体不得协助欧盟对京东的反补贴调查",
+        "importance": "high",
+        "day": "2026-08-19"
+      },
+      {
+        "id": "20260820-reuters-eu-jd-probe",
+        "date": "2026-08-19",
+        "media": "路透社",
+        "title_zh": "中国要求境内实体不得协助欧盟对京东的调查",
+        "importance": "high",
+        "day": "2026-08-20"
+      },
+      {
+        "id": "20260818-reuters-us-taiwan-trade-talks",
+        "date": "2026-08-18",
+        "media": "路透社",
+        "title_zh": "美国与中国台湾地区将依新倡议启动正式贸易谈判",
+        "importance": "high",
+        "day": "2026-08-18"
+      },
+      {
+        "id": "20260818-reuters-china-july-loans",
+        "date": "2026-08-18",
+        "media": "路透社",
+        "title_zh": "中国 7 月新增人民币贷款创纪录收缩，信贷需求疲弱",
+        "importance": "medium",
+        "day": "2026-08-18"
+      },
       {
         "id": "20260817-reuters-taiwan-defence-spending",
         "date": "2026-08-17",
@@ -24532,6 +29435,30 @@ window.__XFS_DATA__ = {
         "title_zh": "中国新房价格同比降幅创五个月最缓",
         "importance": "high",
         "day": "2026-08-17"
+      },
+      {
+        "id": "20260818-reuters-china-july-data",
+        "date": "2026-08-17",
+        "media": "路透社",
+        "title_zh": "中国 7 月工业产出放缓、零售销售逊于预期",
+        "importance": "high",
+        "day": "2026-08-18"
+      },
+      {
+        "id": "20260818-reuters-china-property",
+        "date": "2026-08-17",
+        "media": "路透社",
+        "title_zh": "中国房地产投资前 7 月延续下滑",
+        "importance": "medium",
+        "day": "2026-08-18"
+      },
+      {
+        "id": "20260818-bloomberg-china-economy-slowdown",
+        "date": "2026-08-17",
+        "media": "彭博社",
+        "title_zh": "中国经济全面走弱、放缓延续",
+        "importance": "high",
+        "day": "2026-08-18"
       },
       {
         "id": "20260816-reuters-iran-teapot-refineries",
@@ -25183,19 +30110,19 @@ window.__XFS_DATA__ = {
       }
     ],
     "penetration": {
-      "运行天数": 13,
-      "累计报道": 241,
-      "覆盖议题": 475,
-      "覆盖信源": 482,
-      "负面累计": 88
+      "运行天数": 16,
+      "累计报道": 289,
+      "覆盖议题": 551,
+      "覆盖信源": 578,
+      "负面累计": 95
     }
   },
   "stats": {
-    "total": 241,
-    "days": 13,
-    "negatives": 83,
-    "with_author": 95,
+    "total": 289,
+    "days": 16,
+    "negatives": 90,
+    "with_author": 130,
     "with_body": 18,
-    "with_sources": 218
+    "with_sources": 266
   }
 };
