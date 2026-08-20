@@ -179,10 +179,54 @@ body{
 .footer code{background:var(--surface);padding:1px 6px;border-radius:3px;border:1px solid var(--line);font-size:12px}
 .footer-dim{margin-top:5px;opacity:.75}
 
+/* ---------- 每日情报谋题（置顶显眼区） ---------- */
+.q-wrap{background:linear-gradient(180deg,#fffdf8 0%,var(--surface) 100%);
+  border:1px solid var(--line-strong);border-top:4px solid var(--accent);
+  border-radius:var(--radius);box-shadow:var(--shadow);padding:16px 18px 6px;margin-bottom:18px}
+.q-head{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:8px}
+.q-badge{background:var(--accent);color:#fdf9f2;font-family:system-ui,sans-serif;font-size:11.5px;
+  letter-spacing:2px;padding:3px 9px;border-radius:4px;font-weight:700}
+.q-head h2{font-size:20px;letter-spacing:1px;font-weight:700}
+.q-count{margin-left:auto;font-family:system-ui,sans-serif;font-size:12px;color:var(--ink-3)}
+.q-note{font-size:12.5px;color:var(--ink-3);line-height:1.75;
+  border-bottom:1px dashed var(--line);padding-bottom:10px;margin-bottom:14px}
+.q-note b{color:var(--accent)}
+.q-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px;padding-bottom:12px}
+.q-card{position:relative;background:var(--surface);border:1px solid var(--line);
+  border-radius:8px;padding:14px 15px 12px}
+.q-num{position:absolute;top:-9px;left:13px;background:var(--accent);color:#fdf9f2;
+  width:22px;height:22px;border-radius:50%;display:grid;place-items:center;font-size:13px}
+.q-title{font-size:15.5px;line-height:1.55;margin:6px 0 8px;color:var(--ink);font-weight:700}
+.q-chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.q-chip{font-family:system-ui,sans-serif;font-size:11px;color:var(--ink-2);
+  background:var(--surface-2);border:1px solid var(--line);border-radius:3px;padding:1px 7px}
+.q-chip.q-u-高{color:#fdf9f2;background:var(--high);border-color:var(--high)}
+.q-chip.q-u-中{color:#fdf9f2;background:var(--medium);border-color:var(--medium)}
+.q-chip.q-u-低{color:var(--low);border-color:var(--low)}
+.q-chip.q-src{color:var(--ink-3)}
+.q-trigger{font-size:13px;color:var(--ink-2);line-height:1.75;margin-bottom:10px}
+.q-trigger b{display:block;font-family:system-ui,sans-serif;font-size:11px;color:var(--ink-3);letter-spacing:1px}
+.q-sec{margin-bottom:9px}
+.q-lab{display:block;font-family:system-ui,sans-serif;font-size:11px;letter-spacing:1px;
+  color:var(--accent);margin-bottom:3px}
+.q-sec p{font-size:13px;color:var(--ink-2);line-height:1.8}
+.q-val{background:var(--surface-2);border-left:2px solid var(--medium);padding:7px 10px;border-radius:0 4px 4px 0}
+.q-ev{margin:0;padding-left:18px}
+.q-ev li{font-size:12.5px;line-height:1.7;margin-bottom:4px}
+.q-ev a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line-strong)}
+.q-ev a:hover{color:var(--accent)}
+.q-ev-meta,.q-ev-note{font-family:system-ui,sans-serif;font-size:11px;color:var(--ink-3);margin-left:6px}
+.q-tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:9px;padding-top:8px;border-top:1px dotted var(--line)}
+.q-empty{border-top-color:var(--line-strong);background:var(--surface-2)}
+.q-empty .q-badge{background:var(--ink-3)}
+.qmark{font-family:system-ui,sans-serif;font-size:10.5px;color:var(--accent);margin-left:6px;
+  border:1px solid var(--accent);border-radius:3px;padding:0 3px}
+
 @media(max-width:860px){
   .layout{flex-direction:column}
   .sidebar{width:100%;position:static;height:auto;border-right:none;border-bottom:1px solid var(--line)}
   .nav-days{flex-direction:row;flex-wrap:wrap}
   .main{padding:18px 16px 30px}
   .trace{max-width:100%}
+  .q-grid{grid-template-columns:1fr}
 }

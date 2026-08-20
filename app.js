@@ -69,8 +69,10 @@
   function renderSidebar() {
     $('navDays').innerHTML = DAYS.map(function (d) {
       var cnt = DATA.days[d].articles.length;
+      var qn = (DATA.days[d].questions || []).length;
+      var qmark = qn ? '<span class="qmark" title="含情报谋题 ' + qn + ' 题">★' + qn + '</span>' : '';
       return '<button class="nav-day' + (state.view === 'day' && state.day === d ? ' on' : '') +
-        '" data-day="' + esc(d) + '">' + esc(d) + '<span class="cnt">' + cnt + ' 篇</span></button>';
+        '" data-day="' + esc(d) + '">' + esc(d) + qmark + '<span class="cnt">' + cnt + ' 篇</span></button>';
     }).join('');
 
     $('navDays').querySelectorAll('.nav-day').forEach(function (b) {
@@ -102,6 +104,9 @@
     html += '<section class="doc-head"><h1>每日涉华舆情文档 · ' + esc(day) + '</h1>' +
       '<div class="doc-sub">扫描于 ' + esc(scan) + (win ? ' · ' + esc(win) : '') + '</div></section>';
 
+    // —— 每日情报谋题（最显眼位置，置于一切之前）——
+    html += questionsSection(d.questions || [], day);
+
     // —— 当日研判 ——
     var ss = da.sentiment_split || { negative: 0, neutral: 0, positive: 0 };
     var negLinks = (da.negatives || []).map(function (id) {
@@ -127,6 +132,56 @@
     html += '<section class="list">' + arts.map(articleCard).join('') + '</section>';
     $('main').innerHTML = html;
     bindCards();
+  }
+
+  /* ===================== 每日情报谋题 ===================== */
+  var CIRCLED = ['①', '②', '③', '④', '⑤', '⑥', '⑦', '⑧', '⑨'];
+
+  function questionsSection(qs, day) {
+    if (!qs || !qs.length) {
+      return '<section class="q-wrap q-empty"><div class="q-head">' +
+        '<span class="q-badge">情报谋题</span><h2>当日未出题</h2></div>' +
+        '<div class="q-note">该日无谋题记录（每日应出 3 题；' + esc(day) +
+        ' 早于谋题机制上线或未执行）。</div></section>';
+    }
+    var cards = qs.map(function (q, i) {
+      var num = CIRCLED[i] || String(i + 1);
+      var ev = (q.evidence || []).map(function (e) {
+        var meta = [e.media, e.date].filter(Boolean).join(' · ');
+        return '<li><a href="' + esc(e.url || '#') + '" target="_blank" rel="noopener">' +
+          esc(e.title || '原文') + '</a>' + (meta ? '<span class="q-ev-meta">' + esc(meta) + '</span>' : '') +
+          (e.note ? '<span class="q-ev-note">' + esc(e.note) + '</span>' : '') + '</li>';
+      }).join('');
+      var chips = '';
+      if (q.urgency) chips += '<span class="q-chip q-u-' + esc(q.urgency) + '">紧要度 ' + esc(q.urgency) + '</span>';
+      if (q.type) chips += '<span class="q-chip">' + esc(q.type) + '</span>';
+      if (q.source_type) chips += '<span class="q-chip q-src">题源 ' + esc(q.source_type) + '</span>';
+      return '<article class="q-card">' +
+        '<div class="q-num">' + num + '</div>' +
+        '<h3 class="q-title">' + esc(q.title || '') + '</h3>' +
+        '<div class="q-chips">' + chips + '</div>' +
+        (q.trigger ? '<p class="q-trigger"><b>触发动态</b>' + esc(q.trigger) + '</p>' : '') +
+        (ev ? '<div class="q-sec"><span class="q-lab">依据</span><ol class="q-ev">' + ev + '</ol></div>' : '') +
+        (q.background ? '<div class="q-sec"><span class="q-lab">背景</span><p>' + esc(q.background) + '</p></div>' : '') +
+        (q.value ? '<div class="q-sec q-val"><span class="q-lab">价值</span><p>' + esc(q.value) + '</p></div>' : '') +
+        ((q.angles && q.angles.length) ? '<div class="q-sec"><span class="q-lab">建议切入</span><p>' +
+          esc(q.angles.join('；')) + '</p></div>' : '') +
+        ((q.watch && q.watch.length) ? '<div class="q-sec"><span class="q-lab">下一步取证</span><p>' +
+          esc(q.watch.join('；')) + '</p></div>' : '') +
+        ((q.tags && q.tags.length) ? '<div class="q-tags">' + q.tags.map(function (t) {
+          return '<span class="tag">' + esc(t) + '</span>';
+        }).join('') + '</div>' : '') +
+        '</article>';
+    }).join('');
+
+    return '<section class="q-wrap">' +
+      '<div class="q-head"><span class="q-badge">情报谋题</span>' +
+      '<h2>今日三题 · ' + esc(day) + '</h2>' +
+      '<span class="q-count">' + qs.length + ' 题</span></div>' +
+      '<div class="q-note">依据当日及近期国际涉我负面动态选题（资料库跨日存档 + 网络检索），' +
+      '每题给出依据、背景、价值。<b>本栏为当日最高优先级。</b></div>' +
+      '<div class="q-grid">' + cards + '</div>' +
+      '</section>';
   }
 
   function byId(list, id) {
