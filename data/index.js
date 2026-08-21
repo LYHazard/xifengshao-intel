@@ -1,7 +1,597 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-08-20T16:28:30+08:00",
-  "latest_questions_day": "2026-08-20",
+  "generated_at": "2026-08-21T08:53:42+08:00",
+  "latest_questions_day": "2026-08-21",
   "days": {
+    "2026-08-21": {
+      "file": "2026-08-21.json",
+      "scan_time": "2026-08-21T09:30:00+08:00",
+      "window": "2026-08-20 ~ 2026-08-21 (GMT+8) — 路透+彭博涉华报道扫描",
+      "coverage": {
+        "reuters": {
+          "captured": 6,
+          "with_author": 1,
+          "with_fulltext": 0,
+          "note": "通道A直连失败(reuters.com 与 reuters.mobi 均返回 JS 墙 / fetch failed)；已走通道C(WebSearch 多组关键词)与通道D(时间限定)兜底，并经镜像转载(Investing.com、腾讯、凤凰等)补全标题、URL与摘要。仅离岸信托报道取得真实署名(Summer Zhen/Selena Li/Xinghui Kok)，其余因原页不可达 authors_status=not_available。付费墙/JS限制导致 with_fulltext=0，body_available 统一置 false。"
+        },
+        "bloomberg": {
+          "captured": 4,
+          "with_author": 0,
+          "with_fulltext": 0,
+          "note": "通道A(bloomberg.com 首页)被机器人验证页拦截；已走通道C(WebSearch 多组关键词)与通道D(时间限定)，并专项跑通通道C2(彭博《AI Today》newsletter 与特朗普对伊经济战通讯)，取得 4 条真实 bloomberg.com 链接(8/17–8/20)。彭博付费墙严格、原页不可达，署名无法取得，authors_status 统一 not_available；with_fulltext=0，body_available 统一置 false。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "20260821-bloomberg-trump-iran-economic-war",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Trump Turns to Economic Warfare, With China in Crosshairs",
+          "title_zh": "特朗普转向经济战，中国成瞄准目标",
+          "published_at": "2026-08-20",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中美关系",
+            "伊朗",
+            "二级制裁",
+            "能源安全",
+            "经济战"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社分析，特朗普8月19日晚扬言对伊朗发动“经济决战”（economic D-Day），威胁任何继续向德黑兰提供经济命脉的国家、银行或企业都将面临“巨大经济后果”。明面上的目标是购买伊朗绝大部分石油的中国，因此这一威胁既是对伊朗的升级，也是对中美关系的一次试探。在军事打击与美国封锁未能迫使伊朗屈服、且高油价成为中期选举政治包袱之际，经济战成为特朗普的另一杠杆；二级制裁逻辑将逼迫与伊朗有业务往来的主体在伊朗市场与美西方金融体系之间二选一，成败很大程度上取决于中国的反应。",
+          "china_angle": "美国借伊朗议题构建二级制裁框架，目标直指中国能源进口与金融机构，对华开辟潜在新经贸战线。",
+          "stance": "分析性、对华偏警示（明确点出中国是“瞄准目标”）",
+          "source_url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "Bloomberg",
+            "美国财政部",
+            "伊朗外交部"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道C2(彭博《Trump Turns to Economic Warfare》通讯专项)取得真实链接与全文要点",
+            "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
+            "evidence_note": "彭博通讯原文(8/20)，经中文转载(腾讯)补全细节；署名未确认(付费墙)。"
+          }
+        },
+        {
+          "id": "20260821-reuters-offshore-trust",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Analysis-China tax crackdown forces wealthy investors to assess their offshore trusts",
+          "title_zh": "分析｜中国税务整顿倒逼富裕人群重新审视离岸信托",
+          "published_at": "2026-08-20",
+          "published_precision": "day",
+          "authors": [
+            "Summer Zhen",
+            "Selena Li",
+            "Xinghui Kok"
+          ],
+          "author_locations": "HONG KONG/SINGAPORE",
+          "authors_status": "named",
+          "topics": [
+            "资本外流",
+            "税收执法",
+            "离岸信托",
+            "财富管理"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社报道，北京正收紧对离岸财富的征税，迫使富裕中国人群重新评估其信托结构与投资持仓。7月下旬，当局修订规则，对离岸信托资产转让增值部分征收20%所得税，北京、杭州等地税务机构也开始对离岸保单收益征税。据BCG报告，内地超高净值人群在港、新等低税地持有的相关资本规模最高达1.2万亿美元；逾半数中国超级富豪使用离岸家族信托。律师与财富顾问称，部分客户正考虑清仓A股套现缴税或解除信托，市场担忧整肃或进一步扩至海外雇员工资等更广收入。",
+          "china_angle": "反映中国在资本外流管控与反避税执法上的升级， CRS 与金税四期数据穿透下，离岸财富“灰色地带”收窄。",
+          "stance": "中性偏警示（事实性分析，强调执法不确定性与市场担忧）",
+          "source_url": "https://reut.rs/3U96dhV",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "BCG",
+            "Julius Baer",
+            "KPMG",
+            "Zhonghua CPA",
+            "Gavekal Dragonomics",
+            "Bank of America"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A直连失败(JS墙)；经通道C/D(WebSearch)与镜像转载(Investing.com 全文)补全署名与摘要",
+            "evidence_url": "https://www.investing.com/news/economy-news/analysischina-tax-crackdown-forces-wealthy-investors-to-assess-their-offshore-trusts-4868433",
+            "evidence_note": "真实署名(By Summer Zhen, Selena Li and Xinghui Kok)与20%税率、$1.2万亿等关键数字均由 Investing.com 转载的全文确认。"
+          }
+        },
+        {
+          "id": "20260821-bloomberg-china-swiss-trade",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China, Switzerland Agree to New Trade Deal Scrapping Most Levies",
+          "title_zh": "中国与瑞士达成新贸易协定，几乎取消所有关税",
+          "published_at": "2026-08-20",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中欧关系",
+            "贸易协定",
+            "关税",
+            "地缘经济"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社报道，中国与瑞士就一项新贸易协定达成一致，几乎完全取消瑞士对华出口关税，系北京在美中全球影响力竞争加剧之际拓展欧洲关系的举措。瑞士政府周四声明称，该协定给予瑞士当前对华出口的99.8%关税豁免待遇，瑞士投资者也将获得更好的中国市场准入。在中美博弈背景下，此举被视为中国深化与欧洲经济体经贸绑定的最新动作。",
+          "china_angle": "中国借双边自贸升级扩大在欧洲的经济影响力，对冲对美贸易与科技承压。",
+          "stance": "中性（事实报道，置于中美博弈框架）",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/swiss-agree-trade-deal-that-gives-it-tariff-free-access-to-china",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "瑞士政府声明",
+            "Bloomberg"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A(bloomberg.com首页)机器人验证拦截；经通道C/D(WebSearch)取得原页URL与要点",
+            "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-20/swiss-agree-trade-deal-that-gives-it-tariff-free-access-to-china",
+            "evidence_note": "原页付费墙，署名未确认；99.8%关税豁免为检索确认。"
+          }
+        },
+        {
+          "id": "20260821-reuters-rate-hold",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's central bank holds benchmark rates for 15th straight month",
+          "title_zh": "中国央行连续第15个月维持基准利率不变",
+          "published_at": "2026-08-20",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "货币政策",
+            "LPR",
+            "宏观政策"
+          ],
+          "importance": "low",
+          "summary_zh": "路透社与投资者网站报道，中国央行8月贷款市场报价利率（LPR）维持不变，为连续第15个月按兵不动，延续审慎的货币政策立场。在外需波动、内需偏弱与汇率约束并存的背景下，央行选择保持政策定力；市场关注后续是否通过降准、结构性工具等对冲经济下行压力，而非直接调降基准利率。",
+          "china_angle": "中国货币政策保持定力，与全球加息/宽松周期错位，反映“以我为主”的调控思路。",
+          "stance": "中性（事实性报道）",
+          "source_url": "",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国人民银行",
+            "Investing.com"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得要点",
+            "evidence_url": "https://themonexus.com/articles/2026-08-20-china-industrial-policy-credit-taps-2026",
+            "evidence_note": "原页不可达，署名未确认；15个月连按兵不动为检索交叉确认。"
+          }
+        },
+        {
+          "id": "20260821-reuters-robot-dogs",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "How US military funding propelled China's robot dogs",
+          "title_zh": "调查｜美国军费如何“造就”中国机器狗",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "机器人",
+            "技术转移",
+            "军民融合",
+            "出口管制"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社调查指出，宇树科技（Unitree）爆款四足机器人可追溯到由美国陆军研究实验室资助、麻省理工学院主导的“迷你猎豹”（Mini Cheetah）开源四足研究，部分结构“几乎精确到毫米级”一致。报道称，MIT在2010年代公开了运动控制算法与硬件设计文件，宇树将其工程化并以约1600美元量产，主导全球消费级机器狗市场（份额超60%、估值90亿美元），而美国本土企业未能量产落地。宇树承认参考学术成果，但强调在材料、防水、续航与量产工艺上做了大量自主改进。该文引发中西方关于“抄袭”叙事与产业生态差异的争论。",
+          "china_angle": "西方媒体将中国机器人产业成功归因于“吸收美国军方资助的研究”，隐含技术窃用叙事；实质凸显中国工程化与制造成本优势。",
+          "stance": "调查性、偏质疑（以“站在美国肩膀上”框架叙述，并引美方人士“认证”）",
+          "source_url": "",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "麻省理工学院",
+            "美国陆军研究实验室",
+            "Ghost Robotics",
+            "宇树科技",
+            "Defense News"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与中文镜像(腾讯、凤凰)补全要点",
+            "evidence_url": "https://news.qq.com/rain/a/20260820A04H9Q00",
+            "evidence_note": "原页不可达，署名未确认(authors_status=not_available)；关键事实(1600美元、60%份额、90亿美元估值、Mini Cheetah)来自镜像转载与路透调查汇总。"
+          }
+        },
+        {
+          "id": "20260821-reuters-ev-truck-bus",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China drove global electric truck and bus sales above half-million in 2025",
+          "title_zh": "中国拉动全球电动卡车与客车2025年销量突破50万辆",
+          "published_at": "2026-08-19",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "电动汽车",
+            "商用车",
+            "清洁能源",
+            "贸易"
+          ],
+          "importance": "low",
+          "summary_zh": "据路透社援引投资者网站数据，2025年全球电动卡车与客车销量首次突破50万辆，中国是该增长的主导引擎。中国在全球新能源商用车产业链的规模、成本与本土市场优势，使其在这一细分市场占据压倒性份额，也反映中国电动车产业从乘用车向商用与工业场景的外溢。",
+          "china_angle": "中国在全球新能源商用车领域的主导地位进一步巩固，凸显产业链外溢能力。",
+          "stance": "中性偏正面（数据呈现中国领先）",
+          "source_url": "",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "ICCT(国际清洁交通委员会)",
+            "Investing.com"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得要点",
+            "evidence_url": "https://themonexus.com/articles/2026-08-20-china-tax-crackdown-offshore-bond-futures",
+            "evidence_note": "原页不可达，署名未确认；50万辆门槛与‘中国主导’为检索交叉确认。"
+          }
+        },
+        {
+          "id": "20260821-bloomberg-open-weight-ai",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China's open-weight AI models are prompting US players to reconsider their strategy",
+          "title_zh": "中国开源权重AI模型促使美国业界重新审视战略",
+          "published_at": "2026-08-17",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中美科技竞争",
+            "AI",
+            "开源模型",
+            "出口管制"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社《AI Today》通讯指出，中国的开源权重（open-weight）AI模型正促使美国业界重新考虑其策略，英伟达、Meta等的最新动作被视作对美国“护城河”不再稳固的默认承认。文章回顾7月24日递交给华盛顿、由逾二十家企业联署（牵头者包括英伟达、微软、Meta、Hugging Face、Andreessen Horowitz）的信件，其警告监管方不要对可下载、修改与再分发的开源权重模型施加“过早”限制； conspicuously absent 的签署方是 OpenAI 与 Anthropic——这两家从紧控专有模型中获益最多。报道折射出中国在开源AI领域的攻势正在改写全球AI竞争规则。",
+          "china_angle": "中国开源AI模型以成本与性能优势深度嵌入全球生态，反制美方“封锁”逻辑，迫使硅谷重估策略。",
+          "stance": "中性分析（呈现美方内部张力，点明中国开源攻势效应）",
+          "source_url": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "Bloomberg AI Today",
+            "Nvidia",
+            "Microsoft",
+            "Meta",
+            "Hugging Face",
+            "a16z",
+            "OpenAI",
+            "Anthropic"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道C2(彭博《AI Today》newsletter 专项)取得真实链接与全文要点",
+            "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy",
+            "evidence_note": "彭博通讯原文(8/17)，署名未确认(付费墙)。"
+          }
+        },
+        {
+          "id": "20260821-reuters-trump-crypto-ai",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+          "title_zh": "特朗普家族加密公司合作的平台提供受限中企AI模型",
+          "published_at": "2026-08-17",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中美科技竞争",
+            "AI",
+            "出口管制",
+            "政治伦理"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社调查发现，特朗普支持的加密货币公司 World Liberty Financial 与香港初创 WorldClaw 合作，后者向用户提供人工智能模型并以 WLFI 稳定币 USD1 收款。WorldClaw 网站90个模型中近一半（43个）来自阿里巴巴、百度、智谱AI（Z.ai）、深度求索（DeepSeek）、月之暗面（Moonshot）等被美方以国安或知识产权为由限制的中国企业。合作本身不违法，但受访的7名专家指其与该政府遏制中国AI的立场相悖、被批“虚伪”。白宫称“无利益冲突”；阿里等企业否认与军方关联并提起诉讼。",
+          "china_angle": "折射中国AI模型凭成本与可得性正渗透全球开发者生态，即便在美方限制名单内仍被实际使用。",
+          "stance": "中性调查（呈现事实与专家分歧，点出美方政策张力）",
+          "source_url": "",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "World Liberty Financial",
+            "WorldClaw",
+            "Alibaba",
+            "Baidu",
+            "Z.ai",
+            "DeepSeek",
+            "Moonshot",
+            "Georgetown CSET",
+            "White House"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与镜像转载(finwire/侨报/长桥)补全",
+            "evidence_url": "https://finwire.io/news/economy-news/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies",
+            "evidence_note": "原页不可达，署名未确认；43/90模型、受限中企名单等关键事实来自转载全文。"
+          }
+        },
+        {
+          "id": "20260821-reuters-industrial-output",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's industrial output slows, July retail sales miss forecasts",
+          "title_zh": "中国7月工业增加值放缓，零售销售逊于预期",
+          "published_at": "2026-08-17",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中国经济",
+            "宏观数据",
+            "内需",
+            "工业"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社报道，中国7月工业产出与零售销售双双不及预期，显示内需与工业生产动能减弱，加大市场对于政策托底的关注。官方数据指向消费复苏乏力与房地产拖累延续，分析普遍关注后续是否出台增量宽松或产业支持政策。具体分项与同比增速以国家统计局与路透原文为准。",
+          "china_angle": "中国经济复苏动能偏弱的信号，影响全球需求预期与大宗商品走势。",
+          "stance": "中性（数据性报道，偏负面经济研判）",
+          "source_url": "https://www.reuters.com/world/china/chinas-industrial-output-slows-july-retail-sales-miss-forecasts-2026-08-17/",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "中国国家统计局",
+            "路透调查"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得原页URL与标题",
+            "evidence_url": "https://www.reuters.com/world/china/chinas-industrial-output-slows-july-retail-sales-miss-forecasts-2026-08-17/",
+            "evidence_note": "原页JS拦截，仅确认标题与URL，摘要基于检索上下文综合。"
+          }
+        },
+        {
+          "id": "20260821-bloomberg-ai-cyber-defense",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China's AI Race Makes a Shift Toward Cyber Defense",
+          "title_zh": "中国AI竞赛转向网络防御",
+          "published_at": "2026-08-17",
+          "published_precision": "day",
+          "authors": [],
+          "author_locations": "",
+          "authors_status": "not_available",
+          "topics": [
+            "中美科技竞争",
+            "AI",
+            "网络防御",
+            "智谱AI"
+          ],
+          "importance": "low",
+          "summary_zh": "彭博社《Daybreak Asia》报道，中国的AI竞赛正转向网络防御方向。智谱AI（Z.ai）宣布其最新模型 GLM-5.3 在设计上以网络防御为考量。报道结合中美AI竞赛的最新态势，指出中国大模型在开源与成本上的优势持续扩大，迫使硅谷重新评估封锁与开放之间的策略权衡。",
+          "china_angle": "中国大模型能力向网络防御等专业安全场景延伸，显示AI应用纵深拓展。",
+          "stance": "中性（节目要点报道）",
+          "source_url": "https://www.envoy.cirrus.bloomberg.com/news/audio/2026-08-17/bloomberg-daybreak-asia-china-s-ai-race-podcast",
+          "body_available": false,
+          "body_zh": "",
+          "cited_sources": [
+            "Bloomberg Daybreak Asia",
+            "Z.ai(智谱AI)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "retrieved_via": "通道C/D(WebSearch)取得彭博音频节目链接与要点",
+            "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/audio/2026-08-17/bloomberg-daybreak-asia-china-s-ai-race-podcast",
+            "evidence_note": "彭博音频节目(8/17)，署名未确认(付费墙)。"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 10,
+        "by_media": {
+          "路透社": 6,
+          "彭博社": 4
+        },
+        "sentiment_split": {
+          "negative": 4,
+          "neutral": 6,
+          "positive": 0
+        },
+        "negatives": [
+          "20260821-reuters-offshore-trust",
+          "20260821-reuters-robot-dogs",
+          "20260821-reuters-industrial-output",
+          "20260821-bloomberg-trump-iran-economic-war"
+        ],
+        "top_topics": [
+          [
+            "出口管制",
+            3
+          ],
+          [
+            "中美科技竞争",
+            3
+          ],
+          [
+            "AI",
+            3
+          ],
+          [
+            "资本外流",
+            1
+          ],
+          [
+            "税收执法",
+            1
+          ],
+          [
+            "离岸信托",
+            1
+          ]
+        ],
+        "key_takeaway": "中国开源权重AI模型促使美国业界重新审视战略"
+      },
+      "questions": [
+        {
+          "title": "美国以“国安”重构AI全球阵营：开源模型成新战场",
+          "trigger": "彭博8月17日《AI Today》指出中国开源权重AI模型正迫使美业界重估策略，叠加路透披露特朗普家族加密平台接入受限中国AI模型，美方“选边站”与限制开源模型的双重逻辑加速成型。",
+          "background": "近一周资料库反复出现“中美AI竞赛选边站”“出口管制”等议题（≥3天）。美国以国安为由，一方面施压盟友在AI竞赛中不选中国方案，另一方面试图对可下载、修改、再分发的开源权重模型设限；但中国Qwen、DeepSeek、智谱等开源模型凭成本与性能优势正深度嵌入全球开发者生态，形成“越封锁越渗透”的反向张力。",
+          "value": "把握美方“管控开源+盟友选边”的组合拳走向，预判其是否将开源权重纳入出口管制与实体清单逻辑；为中国AI出海、开源生态外交与反制叙事提供研判抓手，是未来数月中美科技博弈的主轴之一。",
+          "evidence": [
+            {
+              "title": "China's open-weight AI models are prompting US players to reconsider their strategy (Bloomberg AI Today)",
+              "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy",
+              "media": "Bloomberg",
+              "date": "2026-08-17"
+            },
+            {
+              "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies (Reuters)",
+              "url": "https://finwire.io/news/economy-news/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies",
+              "media": "Reuters",
+              "date": "2026-08-17"
+            }
+          ],
+          "urgency": "高",
+          "type": "科技阵营化",
+          "source_type": "混合",
+          "angles": [
+            "美是否将开源权重纳入EAR/实体清单",
+            "盟友(欧盟/日韩)选边站执行度",
+            "中国开源模型全球渗透的合规与数据风险"
+          ],
+          "watch": [
+            "OpenAI/Anthropic是否推动立法限制开源",
+            "英伟达/微软在开源信中的后续立场",
+            "中国AI模型出海合规事件"
+          ],
+          "tags": [
+            "AI",
+            "开源模型",
+            "出口管制",
+            "中美科技",
+            "选边站"
+          ],
+          "id": "q-2026-08-21-1",
+          "rank": 1
+        },
+        {
+          "title": "美国对伊朗“经济决战”：二级制裁逻辑将中国置于靶心",
+          "trigger": "彭博8月20日分析，特朗普扬言对伊朗发动“经济决战”，威胁任何继续向德黑兰提供经济命脉的国家、银行或企业将面临后果，明面目标直指购买伊朗绝大部分石油的中国。",
+          "background": "特朗普19日宣布对伊朗实施“史上最严经济行动”，二级制裁逻辑要求与伊朗有业务往来的主体在伊朗市场与美西方金融体系间二选一。中国是伊朗最大石油买家，美国财政部已为实施此类行动准备数月基础设施；贝森特称“许多对话最好私下进行”，暗示不愿立即对华升级，但将制裁扩大化已具政策框架。",
+          "value": "预判美国是否借伊朗议题对华开辟新经贸战线（能源、航运、金融机构二级制裁），评估油价与中东局势对中美关系的二次冲击；为中方能源安全、避险外交与反制预案提供前瞻，是下半年地缘经济最大变量之一。",
+          "evidence": [
+            {
+              "title": "Trump Turns to Economic Warfare, With China in Crosshairs (Bloomberg)",
+              "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
+              "media": "Bloomberg",
+              "date": "2026-08-20"
+            },
+            {
+              "title": "特朗普扬言对伊朗经济决战，考验中美关系（转载）",
+              "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5366a879bf685152",
+              "media": "转载",
+              "date": "2026-08-21"
+            }
+          ],
+          "urgency": "高",
+          "type": "经贸域外管辖",
+          "source_type": "网络",
+          "angles": [
+            "二级制裁是否实质覆盖中国油企/银行",
+            "霍尔木兹与能源价格对中方输入性影响",
+            "中方“反单边制裁”法理与反制工具箱"
+          ],
+          "watch": [
+            "贝森特8月24日发布会具体内容",
+            "阿联酋等中转国执行力度",
+            "中方油气进口替代与人民币结算动向"
+          ],
+          "tags": [
+            "伊朗",
+            "二级制裁",
+            "能源安全",
+            "中美关系",
+            "经济战"
+          ],
+          "id": "q-2026-08-21-2",
+          "rank": 2
+        },
+        {
+          "title": "北京收紧离岸财富征税：资本外流管控与精英资产摸底升级",
+          "trigger": "路透8月20日调查，北京7月下旬修订规则对离岸信托资产转让增值征收20%所得税，并启动对离岸保单收益征税，迫使富裕人群重新评估境外资产结构。",
+          "background": "据BCG报告，内地超高净值人群在港、新等低税地持有相关资本最高达1.2万亿美元，逾半数使用离岸家族信托。新规将“灰色地带”的离岸信托纳入标准化征税，叠加CRS与金税四期的数据穿透，标志资本外流管控与税收执法进入新阶段，亦可能引发中国香港股市等亚洲财富中心资金流向变化。",
+          "value": "洞察中国资本账户管理与反避税执法的新动向，评估其对跨境财富、家族办公室、中国香港离岸金融中心及中概/中国香港股市资金面的潜在冲击；为研判资本管制边界与“走出去”企业股权架构风险提供窗口。",
+          "evidence": [
+            {
+              "title": "Analysis-China tax crackdown forces wealthy investors to assess their offshore trusts (Reuters)",
+              "url": "https://www.investing.com/news/economy-news/analysischina-tax-crackdown-forces-wealthy-investors-to-assess-their-offshore-trusts-4868433",
+              "media": "Reuters",
+              "date": "2026-08-20"
+            },
+            {
+              "title": "Reuters original (reut.rs shortlink)",
+              "url": "https://reut.rs/3U96dhV",
+              "media": "Reuters",
+              "date": "2026-08-20"
+            }
+          ],
+          "urgency": "中",
+          "type": "资本管控/国内安全施压",
+          "source_type": "网络",
+          "angles": [
+            "CRS+金税四期的数据穿透能力",
+            "港股/新加坡财富管理中心资金流向",
+            "境外上市中企创始人股权架构重排"
+          ],
+          "watch": [
+            "是否扩至海外雇员工资等更广收入",
+            "A股套现缴税与信托解除个案",
+            "地方税务局执行口径"
+          ],
+          "tags": [
+            "资本外流",
+            "离岸信托",
+            "税收执法",
+            "CRS",
+            "中国香港"
+          ],
+          "id": "q-2026-08-21-3",
+          "rank": 3
+        }
+      ]
+    },
     "2026-08-20": {
       "file": "2026-08-20.json",
       "scan_time": "2026-08-20T09:00:00+08:00",
@@ -24722,38 +25312,443 @@ window.__XFS_DATA__ = {
         "evidence_note": "10亿港元借款、中银香港胜出等细节由原页确认。"
       },
       "_day": "2026-08-20"
+    },
+    {
+      "id": "20260821-reuters-offshore-trust",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Analysis-China tax crackdown forces wealthy investors to assess their offshore trusts",
+      "title_zh": "分析｜中国税务整顿倒逼富裕人群重新审视离岸信托",
+      "published_at": "2026-08-20",
+      "published_precision": "day",
+      "authors": [
+        "Summer Zhen",
+        "Selena Li",
+        "Xinghui Kok"
+      ],
+      "author_locations": "HONG KONG/SINGAPORE",
+      "authors_status": "named",
+      "topics": [
+        "资本外流",
+        "税收执法",
+        "离岸信托",
+        "财富管理"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透社报道，北京正收紧对离岸财富的征税，迫使富裕中国人群重新评估其信托结构与投资持仓。7月下旬，当局修订规则，对离岸信托资产转让增值部分征收20%所得税，北京、杭州等地税务机构也开始对离岸保单收益征税。据BCG报告，内地超高净值人群在港、新等低税地持有的相关资本规模最高达1.2万亿美元；逾半数中国超级富豪使用离岸家族信托。律师与财富顾问称，部分客户正考虑清仓A股套现缴税或解除信托，市场担忧整肃或进一步扩至海外雇员工资等更广收入。",
+      "china_angle": "反映中国在资本外流管控与反避税执法上的升级， CRS 与金税四期数据穿透下，离岸财富“灰色地带”收窄。",
+      "stance": "中性偏警示（事实性分析，强调执法不确定性与市场担忧）",
+      "source_url": "https://reut.rs/3U96dhV",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "BCG",
+        "Julius Baer",
+        "KPMG",
+        "Zhonghua CPA",
+        "Gavekal Dragonomics",
+        "Bank of America"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A直连失败(JS墙)；经通道C/D(WebSearch)与镜像转载(Investing.com 全文)补全署名与摘要",
+        "evidence_url": "https://www.investing.com/news/economy-news/analysischina-tax-crackdown-forces-wealthy-investors-to-assess-their-offshore-trusts-4868433",
+        "evidence_note": "真实署名(By Summer Zhen, Selena Li and Xinghui Kok)与20%税率、$1.2万亿等关键数字均由 Investing.com 转载的全文确认。"
+      },
+      "_day": "2026-08-21"
+    },
+    {
+      "id": "20260821-reuters-robot-dogs",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "How US military funding propelled China's robot dogs",
+      "title_zh": "调查｜美国军费如何“造就”中国机器狗",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "机器人",
+        "技术转移",
+        "军民融合",
+        "出口管制"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透社调查指出，宇树科技（Unitree）爆款四足机器人可追溯到由美国陆军研究实验室资助、麻省理工学院主导的“迷你猎豹”（Mini Cheetah）开源四足研究，部分结构“几乎精确到毫米级”一致。报道称，MIT在2010年代公开了运动控制算法与硬件设计文件，宇树将其工程化并以约1600美元量产，主导全球消费级机器狗市场（份额超60%、估值90亿美元），而美国本土企业未能量产落地。宇树承认参考学术成果，但强调在材料、防水、续航与量产工艺上做了大量自主改进。该文引发中西方关于“抄袭”叙事与产业生态差异的争论。",
+      "china_angle": "西方媒体将中国机器人产业成功归因于“吸收美国军方资助的研究”，隐含技术窃用叙事；实质凸显中国工程化与制造成本优势。",
+      "stance": "调查性、偏质疑（以“站在美国肩膀上”框架叙述，并引美方人士“认证”）",
+      "source_url": "",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "麻省理工学院",
+        "美国陆军研究实验室",
+        "Ghost Robotics",
+        "宇树科技",
+        "Defense News"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与中文镜像(腾讯、凤凰)补全要点",
+        "evidence_url": "https://news.qq.com/rain/a/20260820A04H9Q00",
+        "evidence_note": "原页不可达，署名未确认(authors_status=not_available)；关键事实(1600美元、60%份额、90亿美元估值、Mini Cheetah)来自镜像转载与路透调查汇总。"
+      },
+      "_day": "2026-08-21"
+    },
+    {
+      "id": "20260821-reuters-trump-crypto-ai",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+      "title_zh": "特朗普家族加密公司合作的平台提供受限中企AI模型",
+      "published_at": "2026-08-17",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中美科技竞争",
+        "AI",
+        "出口管制",
+        "政治伦理"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透社调查发现，特朗普支持的加密货币公司 World Liberty Financial 与香港初创 WorldClaw 合作，后者向用户提供人工智能模型并以 WLFI 稳定币 USD1 收款。WorldClaw 网站90个模型中近一半（43个）来自阿里巴巴、百度、智谱AI（Z.ai）、深度求索（DeepSeek）、月之暗面（Moonshot）等被美方以国安或知识产权为由限制的中国企业。合作本身不违法，但受访的7名专家指其与该政府遏制中国AI的立场相悖、被批“虚伪”。白宫称“无利益冲突”；阿里等企业否认与军方关联并提起诉讼。",
+      "china_angle": "折射中国AI模型凭成本与可得性正渗透全球开发者生态，即便在美方限制名单内仍被实际使用。",
+      "stance": "中性调查（呈现事实与专家分歧，点出美方政策张力）",
+      "source_url": "",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "World Liberty Financial",
+        "WorldClaw",
+        "Alibaba",
+        "Baidu",
+        "Z.ai",
+        "DeepSeek",
+        "Moonshot",
+        "Georgetown CSET",
+        "White House"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与镜像转载(finwire/侨报/长桥)补全",
+        "evidence_url": "https://finwire.io/news/economy-news/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies",
+        "evidence_note": "原页不可达，署名未确认；43/90模型、受限中企名单等关键事实来自转载全文。"
+      },
+      "_day": "2026-08-21"
+    },
+    {
+      "id": "20260821-reuters-industrial-output",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's industrial output slows, July retail sales miss forecasts",
+      "title_zh": "中国7月工业增加值放缓，零售销售逊于预期",
+      "published_at": "2026-08-17",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中国经济",
+        "宏观数据",
+        "内需",
+        "工业"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透社报道，中国7月工业产出与零售销售双双不及预期，显示内需与工业生产动能减弱，加大市场对于政策托底的关注。官方数据指向消费复苏乏力与房地产拖累延续，分析普遍关注后续是否出台增量宽松或产业支持政策。具体分项与同比增速以国家统计局与路透原文为准。",
+      "china_angle": "中国经济复苏动能偏弱的信号，影响全球需求预期与大宗商品走势。",
+      "stance": "中性（数据性报道，偏负面经济研判）",
+      "source_url": "https://www.reuters.com/world/china/chinas-industrial-output-slows-july-retail-sales-miss-forecasts-2026-08-17/",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国国家统计局",
+        "路透调查"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得原页URL与标题",
+        "evidence_url": "https://www.reuters.com/world/china/chinas-industrial-output-slows-july-retail-sales-miss-forecasts-2026-08-17/",
+        "evidence_note": "原页JS拦截，仅确认标题与URL，摘要基于检索上下文综合。"
+      },
+      "_day": "2026-08-21"
+    },
+    {
+      "id": "20260821-reuters-rate-hold",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's central bank holds benchmark rates for 15th straight month",
+      "title_zh": "中国央行连续第15个月维持基准利率不变",
+      "published_at": "2026-08-20",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "货币政策",
+        "LPR",
+        "宏观政策"
+      ],
+      "importance": "low",
+      "summary_zh": "路透社与投资者网站报道，中国央行8月贷款市场报价利率（LPR）维持不变，为连续第15个月按兵不动，延续审慎的货币政策立场。在外需波动、内需偏弱与汇率约束并存的背景下，央行选择保持政策定力；市场关注后续是否通过降准、结构性工具等对冲经济下行压力，而非直接调降基准利率。",
+      "china_angle": "中国货币政策保持定力，与全球加息/宽松周期错位，反映“以我为主”的调控思路。",
+      "stance": "中性（事实性报道）",
+      "source_url": "",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "中国人民银行",
+        "Investing.com"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得要点",
+        "evidence_url": "https://themonexus.com/articles/2026-08-20-china-industrial-policy-credit-taps-2026",
+        "evidence_note": "原页不可达，署名未确认；15个月连按兵不动为检索交叉确认。"
+      },
+      "_day": "2026-08-21"
+    },
+    {
+      "id": "20260821-reuters-ev-truck-bus",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China drove global electric truck and bus sales above half-million in 2025",
+      "title_zh": "中国拉动全球电动卡车与客车2025年销量突破50万辆",
+      "published_at": "2026-08-19",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "电动汽车",
+        "商用车",
+        "清洁能源",
+        "贸易"
+      ],
+      "importance": "low",
+      "summary_zh": "据路透社援引投资者网站数据，2025年全球电动卡车与客车销量首次突破50万辆，中国是该增长的主导引擎。中国在全球新能源商用车产业链的规模、成本与本土市场优势，使其在这一细分市场占据压倒性份额，也反映中国电动车产业从乘用车向商用与工业场景的外溢。",
+      "china_angle": "中国在全球新能源商用车领域的主导地位进一步巩固，凸显产业链外溢能力。",
+      "stance": "中性偏正面（数据呈现中国领先）",
+      "source_url": "",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "ICCT(国际清洁交通委员会)",
+        "Investing.com"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得要点",
+        "evidence_url": "https://themonexus.com/articles/2026-08-20-china-tax-crackdown-offshore-bond-futures",
+        "evidence_note": "原页不可达，署名未确认；50万辆门槛与‘中国主导’为检索交叉确认。"
+      },
+      "_day": "2026-08-21"
+    },
+    {
+      "id": "20260821-bloomberg-china-swiss-trade",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China, Switzerland Agree to New Trade Deal Scrapping Most Levies",
+      "title_zh": "中国与瑞士达成新贸易协定，几乎取消所有关税",
+      "published_at": "2026-08-20",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中欧关系",
+        "贸易协定",
+        "关税",
+        "地缘经济"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社报道，中国与瑞士就一项新贸易协定达成一致，几乎完全取消瑞士对华出口关税，系北京在美中全球影响力竞争加剧之际拓展欧洲关系的举措。瑞士政府周四声明称，该协定给予瑞士当前对华出口的99.8%关税豁免待遇，瑞士投资者也将获得更好的中国市场准入。在中美博弈背景下，此举被视为中国深化与欧洲经济体经贸绑定的最新动作。",
+      "china_angle": "中国借双边自贸升级扩大在欧洲的经济影响力，对冲对美贸易与科技承压。",
+      "stance": "中性（事实报道，置于中美博弈框架）",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/swiss-agree-trade-deal-that-gives-it-tariff-free-access-to-china",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "瑞士政府声明",
+        "Bloomberg"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道A(bloomberg.com首页)机器人验证拦截；经通道C/D(WebSearch)取得原页URL与要点",
+        "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-20/swiss-agree-trade-deal-that-gives-it-tariff-free-access-to-china",
+        "evidence_note": "原页付费墙，署名未确认；99.8%关税豁免为检索确认。"
+      },
+      "_day": "2026-08-21"
+    },
+    {
+      "id": "20260821-bloomberg-trump-iran-economic-war",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Trump Turns to Economic Warfare, With China in Crosshairs",
+      "title_zh": "特朗普转向经济战，中国成瞄准目标",
+      "published_at": "2026-08-20",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中美关系",
+        "伊朗",
+        "二级制裁",
+        "能源安全",
+        "经济战"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社分析，特朗普8月19日晚扬言对伊朗发动“经济决战”（economic D-Day），威胁任何继续向德黑兰提供经济命脉的国家、银行或企业都将面临“巨大经济后果”。明面上的目标是购买伊朗绝大部分石油的中国，因此这一威胁既是对伊朗的升级，也是对中美关系的一次试探。在军事打击与美国封锁未能迫使伊朗屈服、且高油价成为中期选举政治包袱之际，经济战成为特朗普的另一杠杆；二级制裁逻辑将逼迫与伊朗有业务往来的主体在伊朗市场与美西方金融体系之间二选一，成败很大程度上取决于中国的反应。",
+      "china_angle": "美国借伊朗议题构建二级制裁框架，目标直指中国能源进口与金融机构，对华开辟潜在新经贸战线。",
+      "stance": "分析性、对华偏警示（明确点出中国是“瞄准目标”）",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "Bloomberg",
+        "美国财政部",
+        "伊朗外交部"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道C2(彭博《Trump Turns to Economic Warfare》通讯专项)取得真实链接与全文要点",
+        "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
+        "evidence_note": "彭博通讯原文(8/20)，经中文转载(腾讯)补全细节；署名未确认(付费墙)。"
+      },
+      "_day": "2026-08-21"
+    },
+    {
+      "id": "20260821-bloomberg-open-weight-ai",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China's open-weight AI models are prompting US players to reconsider their strategy",
+      "title_zh": "中国开源权重AI模型促使美国业界重新审视战略",
+      "published_at": "2026-08-17",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中美科技竞争",
+        "AI",
+        "开源模型",
+        "出口管制"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社《AI Today》通讯指出，中国的开源权重（open-weight）AI模型正促使美国业界重新考虑其策略，英伟达、Meta等的最新动作被视作对美国“护城河”不再稳固的默认承认。文章回顾7月24日递交给华盛顿、由逾二十家企业联署（牵头者包括英伟达、微软、Meta、Hugging Face、Andreessen Horowitz）的信件，其警告监管方不要对可下载、修改与再分发的开源权重模型施加“过早”限制； conspicuously absent 的签署方是 OpenAI 与 Anthropic——这两家从紧控专有模型中获益最多。报道折射出中国在开源AI领域的攻势正在改写全球AI竞争规则。",
+      "china_angle": "中国开源AI模型以成本与性能优势深度嵌入全球生态，反制美方“封锁”逻辑，迫使硅谷重估策略。",
+      "stance": "中性分析（呈现美方内部张力，点明中国开源攻势效应）",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "Bloomberg AI Today",
+        "Nvidia",
+        "Microsoft",
+        "Meta",
+        "Hugging Face",
+        "a16z",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道C2(彭博《AI Today》newsletter 专项)取得真实链接与全文要点",
+        "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy",
+        "evidence_note": "彭博通讯原文(8/17)，署名未确认(付费墙)。"
+      },
+      "_day": "2026-08-21"
+    },
+    {
+      "id": "20260821-bloomberg-ai-cyber-defense",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China's AI Race Makes a Shift Toward Cyber Defense",
+      "title_zh": "中国AI竞赛转向网络防御",
+      "published_at": "2026-08-17",
+      "published_precision": "day",
+      "authors": [],
+      "author_locations": "",
+      "authors_status": "not_available",
+      "topics": [
+        "中美科技竞争",
+        "AI",
+        "网络防御",
+        "智谱AI"
+      ],
+      "importance": "low",
+      "summary_zh": "彭博社《Daybreak Asia》报道，中国的AI竞赛正转向网络防御方向。智谱AI（Z.ai）宣布其最新模型 GLM-5.3 在设计上以网络防御为考量。报道结合中美AI竞赛的最新态势，指出中国大模型在开源与成本上的优势持续扩大，迫使硅谷重新评估封锁与开放之间的策略权衡。",
+      "china_angle": "中国大模型能力向网络防御等专业安全场景延伸，显示AI应用纵深拓展。",
+      "stance": "中性（节目要点报道）",
+      "source_url": "https://www.envoy.cirrus.bloomberg.com/news/audio/2026-08-17/bloomberg-daybreak-asia-china-s-ai-race-podcast",
+      "body_available": false,
+      "body_zh": "",
+      "cited_sources": [
+        "Bloomberg Daybreak Asia",
+        "Z.ai(智谱AI)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "retrieved_via": "通道C/D(WebSearch)取得彭博音频节目链接与要点",
+        "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/audio/2026-08-17/bloomberg-daybreak-asia-china-s-ai-race-podcast",
+        "evidence_note": "彭博音频节目(8/17)，署名未确认(付费墙)。"
+      },
+      "_day": "2026-08-21"
     }
   ],
   "archive": {
-    "days_count": 16,
+    "days_count": 17,
     "first_day": "2026-08-04",
-    "last_day": "2026-08-20",
-    "total_articles": 289,
+    "last_day": "2026-08-21",
+    "total_articles": 299,
     "by_media": {
-      "路透社": 206,
-      "彭博社": 94
+      "路透社": 212,
+      "彭博社": 98
     },
     "by_topic": {
-      "出口管制": 24,
+      "出口管制": 27,
       "宏观经济": 23,
       "半导体": 22,
       "人工智能": 16,
       "中美科技": 16,
       "地缘": 15,
+      "中美科技竞争": 15,
       "港股": 14,
       "人形机器人": 14,
+      "AI": 13,
       "IPO": 13,
-      "中美科技竞争": 12,
+      "中美关系": 12,
       "出海": 12,
       "出口": 11,
-      "中美关系": 11,
       "中国台湾": 11,
-      "关税": 10,
-      "AI": 10,
-      "内需": 10,
+      "关税": 11,
+      "内需": 11,
+      "货币政策": 9,
       "财报": 9,
       "外交": 8,
-      "货币政策": 8,
       "地缘政治": 8,
       "台海": 8,
       "中美经贸": 8,
@@ -24773,12 +25768,15 @@ window.__XFS_DATA__ = {
       "稀土": 6,
       "苹果": 6,
       "中韩关系": 6,
+      "中国经济": 6,
       "军事安全": 5,
       "科技竞争": 5,
       "资本市场": 5,
       "FCC": 5,
       "A股": 5,
       "太阳能": 5,
+      "开源模型": 5,
+      "贸易": 5,
       "华为": 5,
       "中国香港": 5,
       "通胀": 5,
@@ -24786,13 +25784,13 @@ window.__XFS_DATA__ = {
       "Shein": 5,
       "宇树": 5,
       "港交所": 5,
-      "中国经济": 5,
+      "宏观数据": 5,
       "经贸摩擦": 4,
       "新能源汽车": 4,
+      "中欧关系": 4,
+      "能源安全": 4,
       "中美经贸摩擦": 4,
       "国产替代": 4,
-      "开源模型": 4,
-      "贸易": 4,
       "汉光演习": 4,
       "中美博弈": 4,
       "宏观": 4,
@@ -24808,15 +25806,13 @@ window.__XFS_DATA__ = {
       "市场": 4,
       "腾讯": 4,
       "AI大模型": 4,
+      "伊朗": 4,
       "南海": 4,
       "中菲关系": 4,
       "信贷": 4,
-      "宏观数据": 4,
       "制裁": 3,
       "科技产业": 3,
-      "中欧关系": 3,
       "防灾减灾": 3,
-      "能源安全": 3,
       "房地产": 3,
       "融资": 3,
       "原油": 3,
@@ -24824,10 +25820,12 @@ window.__XFS_DATA__ = {
       "司法": 3,
       "朝鲜": 3,
       "中美科技战": 3,
+      "机器人": 3,
       "中国汽车": 3,
       "金融": 3,
       "股市": 3,
       "北京": 3,
+      "宏观政策": 3,
       "上海": 3,
       "福建": 3,
       "应急管理": 3,
@@ -24846,7 +25844,6 @@ window.__XFS_DATA__ = {
       "人民币汇率": 3,
       "比亚迪": 3,
       "电动卡车": 3,
-      "伊朗": 3,
       "自动驾驶": 3,
       "robotaxi": 3,
       "中新关系": 3,
@@ -24859,6 +25856,7 @@ window.__XFS_DATA__ = {
       "习近平": 3,
       "中国房地产": 3,
       "中国市场": 3,
+      "电动汽车": 3,
       "投资": 3,
       "产业政策": 2,
       "社会民生": 2,
@@ -24886,14 +25884,12 @@ window.__XFS_DATA__ = {
       "中印关系": 2,
       "太平洋岛国": 2,
       "供应链安全": 2,
-      "机器人": 2,
       "逆变器": 2,
       "民生": 2,
       "餐饮": 2,
       "文化": 2,
       "避险": 2,
       "限购": 2,
-      "宏观政策": 2,
       "反制": 2,
       "行情": 2,
       "法律": 2,
@@ -24945,6 +25941,7 @@ window.__XFS_DATA__ = {
       "历史问题": 2,
       "防务预算": 2,
       "社融": 2,
+      "二级制裁": 2,
       "中国宏观经济": 2,
       "江泽民": 2,
       "美国": 2,
@@ -24964,7 +25961,8 @@ window.__XFS_DATA__ = {
       "研发": 2,
       "世界机器人大会": 2,
       "美妆": 2,
-      "电动汽车": 2,
+      "商用车": 2,
+      "清洁能源": 2,
       "知识产权": 1,
       "涉疆议题": 1,
       "解释性报道": 1,
@@ -25182,7 +26180,6 @@ window.__XFS_DATA__ = {
       "地质灾害": 1,
       "停战协定": 1,
       "美韩关系": 1,
-      "二级制裁": 1,
       "中朝俄": 1,
       "阿富汗": 1,
       "人道危机": 1,
@@ -25266,8 +26263,6 @@ window.__XFS_DATA__ = {
       "可重复使用": 1,
       "文旅": 1,
       "社会文化": 1,
-      "商用车": 1,
-      "清洁能源": 1,
       "航运": 1,
       "北极": 1,
       "中俄": 1,
@@ -25284,7 +26279,21 @@ window.__XFS_DATA__ = {
       "国际仲裁": 1,
       "日本市场": 1,
       "香港地产": 1,
-      "学生公寓": 1
+      "学生公寓": 1,
+      "资本外流": 1,
+      "税收执法": 1,
+      "离岸信托": 1,
+      "财富管理": 1,
+      "技术转移": 1,
+      "军民融合": 1,
+      "政治伦理": 1,
+      "工业": 1,
+      "LPR": 1,
+      "贸易协定": 1,
+      "地缘经济": 1,
+      "经济战": 1,
+      "网络防御": 1,
+      "智谱AI": 1
     },
     "sentiment_trend": [
       {
@@ -25382,6 +26391,12 @@ window.__XFS_DATA__ = {
         "negative": 1,
         "neutral": 19,
         "positive": 0
+      },
+      {
+        "date": "2026-08-21",
+        "negative": 4,
+        "neutral": 6,
+        "positive": 0
       }
     ],
     "cited_source_freq": [
@@ -25403,7 +26418,7 @@ window.__XFS_DATA__ = {
       ],
       [
         "中国人民银行",
-        11
+        12
       ],
       [
         "中国外交部",
@@ -25416,6 +26431,10 @@ window.__XFS_DATA__ = {
       [
         "彭博",
         7
+      ],
+      [
+        "中国国家统计局",
+        6
       ],
       [
         "摩根士丹利",
@@ -25450,15 +26469,19 @@ window.__XFS_DATA__ = {
         5
       ],
       [
-        "中国国家统计局",
-        5
-      ],
-      [
         "港交所",
         5
       ],
       [
         "商务部",
+        4
+      ],
+      [
+        "Anthropic",
+        4
+      ],
+      [
+        "OpenAI",
         4
       ],
       [
@@ -25486,6 +26509,10 @@ window.__XFS_DATA__ = {
         4
       ],
       [
+        "Meta",
+        4
+      ],
+      [
         "Omdia",
         4
       ],
@@ -25495,6 +26522,14 @@ window.__XFS_DATA__ = {
       ],
       [
         "美国FCC",
+        4
+      ],
+      [
+        "DeepSeek",
+        4
+      ],
+      [
+        "宇树科技",
         4
       ],
       [
@@ -25514,14 +26549,6 @@ window.__XFS_DATA__ = {
         3
       ],
       [
-        "Anthropic",
-        3
-      ],
-      [
-        "OpenAI",
-        3
-      ],
-      [
         "比亚迪",
         3
       ],
@@ -25538,10 +26565,6 @@ window.__XFS_DATA__ = {
         3
       ],
       [
-        "Meta",
-        3
-      ],
-      [
         "药明康德",
         3
       ],
@@ -25550,15 +26573,7 @@ window.__XFS_DATA__ = {
         3
       ],
       [
-        "DeepSeek",
-        3
-      ],
-      [
         "Shein",
-        3
-      ],
-      [
-        "宇树科技",
         3
       ],
       [
@@ -25615,6 +26630,10 @@ window.__XFS_DATA__ = {
       ],
       [
         "保银投资Pinpoint(张智威)",
+        2
+      ],
+      [
+        "Gavekal Dragonomics",
         2
       ],
       [
@@ -25730,6 +26749,10 @@ window.__XFS_DATA__ = {
         2
       ],
       [
+        "美国财政部",
+        2
+      ],
+      [
         "AMD",
         2
       ],
@@ -25838,6 +26861,18 @@ window.__XFS_DATA__ = {
         2
       ],
       [
+        "Nvidia",
+        2
+      ],
+      [
+        "Microsoft",
+        2
+      ],
+      [
+        "Hugging Face",
+        2
+      ],
+      [
         "中国司法部",
         2
       ],
@@ -25858,6 +26893,10 @@ window.__XFS_DATA__ = {
         2
       ],
       [
+        "ICCT(国际清洁交通委员会)",
+        2
+      ],
+      [
         "王毅",
         2
       ],
@@ -25871,6 +26910,14 @@ window.__XFS_DATA__ = {
       ],
       [
         "UTAC Millbrook",
+        2
+      ],
+      [
+        "Investing.com",
+        2
+      ],
+      [
+        "Bloomberg",
         2
       ],
       [
@@ -26031,10 +27078,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "凯投宏观Capital Economics",
-        1
-      ],
-      [
-        "Gavekal Dragonomics",
         1
       ],
       [
@@ -27006,10 +28049,6 @@ window.__XFS_DATA__ = {
         1
       ],
       [
-        "美国财政部",
-        1
-      ],
-      [
         "中国国防部",
         1
       ],
@@ -27338,18 +28377,6 @@ window.__XFS_DATA__ = {
         1
       ],
       [
-        "Nvidia",
-        1
-      ],
-      [
-        "Microsoft",
-        1
-      ],
-      [
-        "Hugging Face",
-        1
-      ],
-      [
         "Andreessen Horowitz (a16z)",
         1
       ],
@@ -27399,10 +28426,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "VDMA",
-        1
-      ],
-      [
-        "ICCT(国际清洁交通委员会)",
         1
       ],
       [
@@ -27696,12 +28719,108 @@ window.__XFS_DATA__ = {
       [
         "兴业银行香港分行",
         1
+      ],
+      [
+        "BCG",
+        1
+      ],
+      [
+        "Julius Baer",
+        1
+      ],
+      [
+        "KPMG",
+        1
+      ],
+      [
+        "Zhonghua CPA",
+        1
+      ],
+      [
+        "Bank of America",
+        1
+      ],
+      [
+        "麻省理工学院",
+        1
+      ],
+      [
+        "美国陆军研究实验室",
+        1
+      ],
+      [
+        "Ghost Robotics",
+        1
+      ],
+      [
+        "Defense News",
+        1
+      ],
+      [
+        "World Liberty Financial",
+        1
+      ],
+      [
+        "WorldClaw",
+        1
+      ],
+      [
+        "Alibaba",
+        1
+      ],
+      [
+        "Baidu",
+        1
+      ],
+      [
+        "Z.ai",
+        1
+      ],
+      [
+        "Moonshot",
+        1
+      ],
+      [
+        "Georgetown CSET",
+        1
+      ],
+      [
+        "White House",
+        1
+      ],
+      [
+        "路透调查",
+        1
+      ],
+      [
+        "瑞士政府声明",
+        1
+      ],
+      [
+        "伊朗外交部",
+        1
+      ],
+      [
+        "Bloomberg AI Today",
+        1
+      ],
+      [
+        "a16z",
+        1
+      ],
+      [
+        "Bloomberg Daybreak Asia",
+        1
+      ],
+      [
+        "Z.ai(智谱AI)",
+        1
       ]
     ],
     "recurring_topics": [
       {
         "topic": "出口管制",
-        "count": 11,
+        "count": 12,
         "days": [
           "2026-08-04",
           "2026-08-06",
@@ -27713,7 +28832,8 @@ window.__XFS_DATA__ = {
           "2026-08-12",
           "2026-08-15",
           "2026-08-16",
-          "2026-08-20"
+          "2026-08-20",
+          "2026-08-21"
         ]
       },
       {
@@ -27778,6 +28898,48 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "中美科技竞争",
+        "count": 8,
+        "days": [
+          "2026-08-06",
+          "2026-08-11",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-16",
+          "2026-08-19",
+          "2026-08-21"
+        ]
+      },
+      {
+        "topic": "中美关系",
+        "count": 8,
+        "days": [
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-20",
+          "2026-08-21"
+        ]
+      },
+      {
+        "topic": "关税",
+        "count": 8,
+        "days": [
+          "2026-08-07",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-16",
+          "2026-08-21"
+        ]
+      },
+      {
         "topic": "中美科技",
         "count": 8,
         "days": [
@@ -27819,6 +28981,19 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "货币政策",
+        "count": 7,
+        "days": [
+          "2026-08-04",
+          "2026-08-09",
+          "2026-08-10",
+          "2026-08-13",
+          "2026-08-16",
+          "2026-08-18",
+          "2026-08-21"
+        ]
+      },
+      {
         "topic": "出口",
         "count": 7,
         "days": [
@@ -27829,32 +29004,6 @@ window.__XFS_DATA__ = {
           "2026-08-11",
           "2026-08-13",
           "2026-08-14"
-        ]
-      },
-      {
-        "topic": "中美科技竞争",
-        "count": 7,
-        "days": [
-          "2026-08-06",
-          "2026-08-11",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-15",
-          "2026-08-16",
-          "2026-08-19"
-        ]
-      },
-      {
-        "topic": "中美关系",
-        "count": 7,
-        "days": [
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-17",
-          "2026-08-18",
-          "2026-08-20"
         ]
       },
       {
@@ -27897,19 +29046,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "关税",
-        "count": 7,
-        "days": [
-          "2026-08-07",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-16"
-        ]
-      },
-      {
         "topic": "出海",
         "count": 7,
         "days": [
@@ -27920,6 +29056,32 @@ window.__XFS_DATA__ = {
           "2026-08-15",
           "2026-08-19",
           "2026-08-20"
+        ]
+      },
+      {
+        "topic": "AI",
+        "count": 7,
+        "days": [
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-16",
+          "2026-08-21"
+        ]
+      },
+      {
+        "topic": "内需",
+        "count": 7,
+        "days": [
+          "2026-08-11",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-16",
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-21"
         ]
       },
       {
@@ -27947,18 +29109,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "货币政策",
-        "count": 6,
-        "days": [
-          "2026-08-04",
-          "2026-08-09",
-          "2026-08-10",
-          "2026-08-13",
-          "2026-08-16",
-          "2026-08-18"
-        ]
-      },
-      {
         "topic": "财报",
         "count": 6,
         "days": [
@@ -27983,18 +29133,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "AI",
-        "count": 6,
-        "days": [
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-16"
-        ]
-      },
-      {
         "topic": "人形机器人",
         "count": 6,
         "days": [
@@ -28004,18 +29142,6 @@ window.__XFS_DATA__ = {
           "2026-08-18",
           "2026-08-19",
           "2026-08-20"
-        ]
-      },
-      {
-        "topic": "内需",
-        "count": 6,
-        "days": [
-          "2026-08-11",
-          "2026-08-14",
-          "2026-08-15",
-          "2026-08-16",
-          "2026-08-17",
-          "2026-08-18"
         ]
       },
       {
@@ -28097,6 +29223,28 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "开源模型",
+        "count": 5,
+        "days": [
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-11",
+          "2026-08-20",
+          "2026-08-21"
+        ]
+      },
+      {
+        "topic": "贸易",
+        "count": 5,
+        "days": [
+          "2026-08-07",
+          "2026-08-09",
+          "2026-08-18",
+          "2026-08-20",
+          "2026-08-21"
+        ]
+      },
+      {
         "topic": "台风",
         "count": 5,
         "days": [
@@ -28148,26 +29296,6 @@ window.__XFS_DATA__ = {
           "2026-08-07",
           "2026-08-08",
           "2026-08-10"
-        ]
-      },
-      {
-        "topic": "开源模型",
-        "count": 4,
-        "days": [
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-11",
-          "2026-08-20"
-        ]
-      },
-      {
-        "topic": "贸易",
-        "count": 4,
-        "days": [
-          "2026-08-07",
-          "2026-08-09",
-          "2026-08-18",
-          "2026-08-20"
         ]
       },
       {
@@ -28251,6 +29379,16 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "伊朗",
+        "count": 4,
+        "days": [
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-16",
+          "2026-08-21"
+        ]
+      },
+      {
         "topic": "信贷",
         "count": 4,
         "days": [
@@ -28271,12 +29409,30 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "中欧关系",
+        "count": 3,
+        "days": [
+          "2026-08-04",
+          "2026-08-20",
+          "2026-08-21"
+        ]
+      },
+      {
         "topic": "防灾减灾",
         "count": 3,
         "days": [
           "2026-08-04",
           "2026-08-15",
           "2026-08-16"
+        ]
+      },
+      {
+        "topic": "能源安全",
+        "count": 3,
+        "days": [
+          "2026-08-04",
+          "2026-08-17",
+          "2026-08-21"
         ]
       },
       {
@@ -28343,6 +29499,15 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "机器人",
+        "count": 3,
+        "days": [
+          "2026-08-07",
+          "2026-08-08",
+          "2026-08-21"
+        ]
+      },
+      {
         "topic": "中美博弈",
         "count": 3,
         "days": [
@@ -28394,6 +29559,15 @@ window.__XFS_DATA__ = {
           "2026-08-08",
           "2026-08-10",
           "2026-08-12"
+        ]
+      },
+      {
+        "topic": "宏观政策",
+        "count": 3,
+        "days": [
+          "2026-08-08",
+          "2026-08-18",
+          "2026-08-21"
         ]
       },
       {
@@ -28550,15 +29724,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "伊朗",
-        "count": 3,
-        "days": [
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-16"
-        ]
-      },
-      {
         "topic": "太空",
         "count": 3,
         "days": [
@@ -28613,6 +29778,24 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "中国经济",
+        "count": 3,
+        "days": [
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-21"
+        ]
+      },
+      {
+        "topic": "宏观数据",
+        "count": 3,
+        "days": [
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-21"
+        ]
+      },
+      {
         "topic": "军事安全",
         "count": 2,
         "days": [
@@ -28661,14 +29844,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "中欧关系",
-        "count": 2,
-        "days": [
-          "2026-08-04",
-          "2026-08-20"
-        ]
-      },
-      {
         "topic": "基建",
         "count": 2,
         "days": [
@@ -28690,14 +29865,6 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-04",
           "2026-08-15"
-        ]
-      },
-      {
-        "topic": "能源安全",
-        "count": 2,
-        "days": [
-          "2026-08-04",
-          "2026-08-17"
         ]
       },
       {
@@ -28821,14 +29988,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "机器人",
-        "count": 2,
-        "days": [
-          "2026-08-07",
-          "2026-08-08"
-        ]
-      },
-      {
         "topic": "逆变器",
         "count": 2,
         "days": [
@@ -28874,14 +30033,6 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-08",
           "2026-08-10"
-        ]
-      },
-      {
-        "topic": "宏观政策",
-        "count": 2,
-        "days": [
-          "2026-08-08",
-          "2026-08-18"
         ]
       },
       {
@@ -29405,19 +30556,11 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "中国经济",
+        "topic": "二级制裁",
         "count": 2,
         "days": [
-          "2026-08-17",
-          "2026-08-18"
-        ]
-      },
-      {
-        "topic": "宏观数据",
-        "count": 2,
-        "days": [
-          "2026-08-17",
-          "2026-08-18"
+          "2026-08-16",
+          "2026-08-21"
         ]
       },
       {
@@ -29507,9 +30650,49 @@ window.__XFS_DATA__ = {
           "2026-08-19",
           "2026-08-20"
         ]
+      },
+      {
+        "topic": "电动汽车",
+        "count": 2,
+        "days": [
+          "2026-08-20",
+          "2026-08-21"
+        ]
+      },
+      {
+        "topic": "商用车",
+        "count": 2,
+        "days": [
+          "2026-08-20",
+          "2026-08-21"
+        ]
+      },
+      {
+        "topic": "清洁能源",
+        "count": 2,
+        "days": [
+          "2026-08-20",
+          "2026-08-21"
+        ]
       }
     ],
     "important_negatives": [
+      {
+        "id": "20260821-reuters-offshore-trust",
+        "date": "2026-08-20",
+        "media": "路透社",
+        "title_zh": "分析｜中国税务整顿倒逼富裕人群重新审视离岸信托",
+        "importance": "medium",
+        "day": "2026-08-21"
+      },
+      {
+        "id": "20260821-bloomberg-trump-iran-economic-war",
+        "date": "2026-08-20",
+        "media": "彭博社",
+        "title_zh": "特朗普转向经济战，中国成瞄准目标",
+        "importance": "high",
+        "day": "2026-08-21"
+      },
       {
         "id": "20260819-reuters-china-blocks-eu-jd-probe",
         "date": "2026-08-19",
@@ -29525,6 +30708,14 @@ window.__XFS_DATA__ = {
         "title_zh": "中国要求境内实体不得协助欧盟对京东的调查",
         "importance": "high",
         "day": "2026-08-20"
+      },
+      {
+        "id": "20260821-reuters-robot-dogs",
+        "date": "2026-08-19",
+        "media": "路透社",
+        "title_zh": "调查｜美国军费如何“造就”中国机器狗",
+        "importance": "medium",
+        "day": "2026-08-21"
       },
       {
         "id": "20260818-reuters-us-taiwan-trade-talks",
@@ -29621,6 +30812,14 @@ window.__XFS_DATA__ = {
         "title_zh": "中国经济全面走弱、放缓延续",
         "importance": "high",
         "day": "2026-08-18"
+      },
+      {
+        "id": "20260821-reuters-industrial-output",
+        "date": "2026-08-17",
+        "media": "路透社",
+        "title_zh": "中国7月工业增加值放缓，零售销售逊于预期",
+        "importance": "medium",
+        "day": "2026-08-21"
       },
       {
         "id": "20260816-reuters-iran-teapot-refineries",
@@ -30272,14 +31471,23 @@ window.__XFS_DATA__ = {
       }
     ],
     "penetration": {
-      "运行天数": 16,
-      "累计报道": 289,
-      "覆盖议题": 551,
-      "覆盖信源": 578,
-      "负面累计": 95,
-      "谋题累计": 3
+      "运行天数": 17,
+      "累计报道": 299,
+      "覆盖议题": 565,
+      "覆盖信源": 604,
+      "负面累计": 99,
+      "谋题累计": 6
     },
     "questions_timeline": [
+      {
+        "day": "2026-08-21",
+        "count": 3,
+        "titles": [
+          "美国以“国安”重构AI全球阵营：开源模型成新战场",
+          "美国对伊朗“经济决战”：二级制裁逻辑将中国置于靶心",
+          "北京收紧离岸财富征税：资本外流管控与精英资产摸底升级"
+        ]
+      },
       {
         "day": "2026-08-20",
         "count": 3,
@@ -30292,11 +31500,11 @@ window.__XFS_DATA__ = {
     ]
   },
   "stats": {
-    "total": 289,
-    "days": 16,
-    "negatives": 90,
-    "with_author": 130,
+    "total": 299,
+    "days": 17,
+    "negatives": 94,
+    "with_author": 131,
     "with_body": 18,
-    "with_sources": 266
+    "with_sources": 276
   }
 };
