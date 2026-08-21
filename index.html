@@ -5,8 +5,38 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>西风哨</title>
 <link rel="stylesheet" href="style.css">
+<style>
+  .gate{position:fixed;inset:0;z-index:9999;display:flex;align-items:center;justify-content:center;
+    background:linear-gradient(135deg,#0b1f3a,#123a5e);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;}
+  .gate-box{background:#fff;border-radius:14px;padding:34px 30px;width:300px;max-width:86vw;
+    text-align:center;box-shadow:0 12px 44px rgba(0,0,0,.38);}
+  .gate-mark{width:54px;height:54px;border-radius:13px;background:#c0392b;color:#fff;font-size:27px;
+    font-weight:700;display:flex;align-items:center;justify-content:center;margin:0 auto 14px;}
+  .gate-title{font-size:22px;font-weight:700;color:#1a1a1a;margin-bottom:4px;}
+  .gate-sub{font-size:13px;color:#8a9099;margin-bottom:20px;}
+  .gate-input{width:100%;box-sizing:border-box;padding:11px 12px;border:1px solid #d8dde3;
+    border-radius:8px;font-size:15px;margin-bottom:12px;outline:none;}
+  .gate-input:focus{border-color:#1f6feb;}
+  .gate-btn{width:100%;padding:11px;border:0;border-radius:8px;background:#1f6feb;color:#fff;
+    font-size:15px;cursor:pointer;}
+  .gate-btn:hover{background:#185fc7;}
+  .gate-err{color:#c0392b;font-size:13px;min-height:18px;margin-top:10px;}
+</style>
 </head>
 <body>
+
+<!-- 进入门禁 -->
+<div class="gate" id="gate">
+  <div class="gate-box">
+    <div class="gate-mark">西</div>
+    <div class="gate-title">西风哨</div>
+    <div class="gate-sub">请输入访问密码</div>
+    <input type="password" id="gateInput" class="gate-input" placeholder="密码" autocomplete="off">
+    <button id="gateBtn" class="gate-btn">进入</button>
+    <div class="gate-err" id="gateErr"></div>
+  </div>
+</div>
 
 <!-- 可折叠报头 -->
 <header class="topbar" id="topbar">
@@ -56,6 +86,6 @@
 </footer>
 
 <script src="data/index.js"></script>
-<script src="app.js"></script>
+<script src="gate.js"></script>
 </body>
 </html>
