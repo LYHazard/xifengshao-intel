@@ -91,6 +91,79 @@
     $('sidebarFoot').innerHTML = '数据窗口：' + esc(daysTxt) + '<br>本机存档 · 离线可用';
   }
 
+  /* ===================== 领域 → 报道方 → 报道+信源 模块 ===================== */
+  var DOMAIN_ORDER = ['金融经济', '科技产业', '外交地缘', '能源安全', '社会应急', '美国与全球'];
+  var TOPIC2DOMAIN = {
+    '金融监管': '金融经济', '银行业': '金融经济', '立法': '金融经济', '消费者权益': '金融经济',
+    '货币政策': '金融经济', 'LPR': '金融经济', 'MLF': '金融经济', '流动性': '金融经济',
+    '汇率': '金融经济', '人民币': '金融经济', '外汇': '金融经济', '资本市场': '金融经济',
+    'A股': '金融经济', '金融': '金融经济', '证券': '金融经济', '银行': '金融经济',
+    '人工智能': '科技产业', '标准': '科技产业', '产业政策': '科技产业', '科技自立': '科技产业',
+    '开源模型': '科技产业', '中美科技竞争': '科技产业', '半导体': '科技产业', '英伟达': '科技产业',
+    '战略性新兴产业': '科技产业', '卫星互联网': '科技产业', '6G': '科技产业', '北斗': '科技产业',
+    '数字化转型': '科技产业', '中小企业': '科技产业',
+    '外交': '外交地缘', '上合组织': '外交地缘', '中亚': '外交地缘', '中东': '外交地缘',
+    '中美关系': '外交地缘', '伊朗': '外交地缘', '贸易摩擦': '外交地缘', '加美关系': '外交地缘',
+    '多边贸易': '外交地缘', '全球南方': '外交地缘',
+    '能源安全': '能源安全', '霍尔木兹': '能源安全', '地缘政治': '能源安全', '供应链': '能源安全',
+    '能源化工': '能源安全', '中俄合作': '能源安全', '海外安全': '能源安全',
+    '地质灾害': '社会应急', '应急': '社会应急', '西藏': '社会应急',
+    '美国经济': '美国与全球', '通胀': '美国与全球', '美联储': '美国与全球', '全球利率': '美国与全球'
+  };
+  function domainOf(a) {
+    var ts = a.topics || [];
+    for (var i = 0; i < ts.length; i++) { if (TOPIC2DOMAIN[ts[i]]) return TOPIC2DOMAIN[ts[i]]; }
+    return '美国与全球';
+  }
+  // 记者层：有真实署名则按记者分组；否则以媒体机构作为报道方兜底（署名缺失不空置）
+  function reporterKey(a) {
+    if (a.authors && a.authors.length) return a.authors.join('、');
+    return a.media_zh || a.media || '未知来源';
+  }
+  function moduleArticleCard(a) {
+    var mediaCls = a.media === 'Reuters' ? 'b-reuters' : 'b-bloomberg';
+    var sources = (a.cited_sources && a.cited_sources.length)
+      ? a.cited_sources.map(function (s) { return '<span class="src-chip">' + esc(s) + '</span>'; }).join('')
+      : '<span class="src-chip src-none">信源未标注（转载源采集）</span>';
+    return '<article class="m-item item" data-id="' + esc(a.id) + '">' +
+      '<div class="m-item-top">' +
+        '<span class="badge ' + mediaCls + '">' + esc(a.media_zh || a.media) + '</span>' +
+        '<span class="imp imp-' + esc(a.importance) + '">重要 ' + (IMP_TEXT[a.importance] || '中') + '</span>' +
+        (a.is_negative ? '<span class="sent-badge negative">负面</span>' : '') +
+      '</div>' +
+      '<h4 class="m-title">' + esc(a.title_zh || '') + '</h4>' +
+      '<div class="m-abs">' + esc(a.summary_zh || '') + '</div>' +
+      '<div class="m-src"><span class="m-src-k">信源</span>' + sources + '</div>' +
+      '<div class="m-link"><a href="' + esc(a.source_url || '#') + '" target="_blank" rel="noopener">打开原文 ↗</a></div>' +
+    '</article>';
+  }
+  function domainModules(arts) {
+    var byDomain = {};
+    arts.forEach(function (a) { var d = domainOf(a); (byDomain[d] = byDomain[d] || []).push(a); });
+    var html = '';
+    DOMAIN_ORDER.forEach(function (dom) {
+      var list = byDomain[dom]; if (!list || !list.length) return;
+      var byRep = {};
+      list.forEach(function (a) { var rk = reporterKey(a); (byRep[rk] = byRep[rk] || []).push(a); });
+      var repHtml = '';
+      Object.keys(byRep).forEach(function (rk) {
+        var rlist = byRep[rk];
+        var isPerson = rlist[0].authors && rlist[0].authors.length;
+        repHtml += '<div class="reporter-block">' +
+          '<div class="reporter-head"><span class="rep-badge ' + (isPerson ? 'rep-person' : 'rep-org') + '">' +
+            (isPerson ? '记者' : '报道机构') + '</span>' +
+            '<span class="rep-name">' + esc(rk) + '</span>' +
+            '<span class="r-cnt">' + rlist.length + ' 篇</span></div>' +
+          '<div class="rep-items">' + rlist.map(moduleArticleCard).join('') + '</div>' +
+        '</div>';
+      });
+      html += '<section class="domain-sec">' +
+        '<div class="domain-head"><span class="domain-badge">领域</span><h3>' + esc(dom) + '</h3>' +
+        '<span class="d-cnt">' + list.length + ' 篇</span></div>' + repHtml + '</section>';
+    });
+    return html;
+  }
+
   /* ===================== 每日文档 ===================== */
   function renderDay(day) {
     var d = DATA.days[day];
@@ -128,8 +201,8 @@
       (negLinks ? '<div class="da-neg"><div class="lab">⚠ 重要负面报道（点击查看深度研判）</div>' + negLinks + '</div>' : '') +
       '</section>';
 
-    // —— 文章列表 ——
-    html += '<section class="list">' + arts.map(articleCard).join('') + '</section>';
+    // —— 领域 → 报道方 → 报道内容 + 信源（模块式，替代集中流）——
+    html += '<section class="domains">' + domainModules(arts) + '</section>';
     $('main').innerHTML = html;
     bindCards();
   }
@@ -391,7 +464,10 @@
   /* ===================== 绑定 ===================== */
   function bindCards() {
     document.querySelectorAll('#main .item').forEach(function (el) {
-      el.addEventListener('click', function () { openModal(el.dataset.id); });
+      el.addEventListener('click', function (e) {
+        if (e.target.closest('a[target="_blank"]')) return;  // 让原文链接正常新窗口打开
+        openModal(el.dataset.id);
+      });
     });
     document.querySelectorAll('#main .da-neg a').forEach(function (el) {
       el.addEventListener('click', function (e) { e.preventDefault(); openModal(el.dataset.id); });
