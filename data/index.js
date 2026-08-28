@@ -1,5 +1,5 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-08-28T12:54:57+08:00",
+  "generated_at": "2026-08-28T12:58:18+08:00",
   "latest_questions_day": "2026-08-27",
   "days": {
     "2026-08-27": {
@@ -3790,9 +3790,12 @@ window.__XFS_DATA__ = {
           "title_zh": "王毅会晤印尼领导人，承诺深化全方位战略合作",
           "published_at": "2026-08-23",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Stanley Widianto",
+            "Stefanno Sulaiman"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "外交",
             "经贸"
