@@ -21,9 +21,20 @@
 
   var DAYS = Object.keys(DATA.days || {});            // 已按倒序
   var ARCHIVE = DATA.archive || {};
+
+  // 全局唯一文章列表：规避 build_site 按原始 id 跨天合并的坑
+  var ALL = [];
+  DAYS.forEach(function (day) {
+    (DATA.days[day].articles || []).forEach(function (a) {
+      var o = {}; for (var k in a) o[k] = a[k];
+      o._day = day; o._uid = day + '/' + a.id;
+      ALL.push(o);
+    });
+  });
+
   var state = {
-    view: 'day',
-    day: DAYS[0] || null,
+    view: 'domains',
+    domain: null,
     q: '',
     collapse: false,
   };
@@ -65,25 +76,25 @@
     $('footerMeta').textContent = '索引生成于 ' + (DATA.generated_at || '').replace('T', ' ').slice(0, 19);
   }
 
-  /* ===================== 侧栏导航 ===================== */
+  /* ===================== 侧栏导航（按领域） ===================== */
   function renderSidebar() {
-    $('navDays').innerHTML = DAYS.map(function (d) {
-      var cnt = DATA.days[d].articles.length;
-      var qn = (DATA.days[d].questions || []).length;
-      var qmark = qn ? '<span class="qmark" title="含关注议题 ' + qn + ' 题">★' + qn + '</span>' : '';
-      return '<button class="nav-day' + (state.view === 'day' && state.day === d ? ' on' : '') +
-        '" data-day="' + esc(d) + '">' + esc(d) + qmark + '<span class="cnt">' + cnt + ' 篇</span></button>';
+    $('navDomains').innerHTML = DOMAIN_ORDER.map(function (dom) {
+      var cnt = 0;
+      for (var i = 0; i < ALL.length; i++) if (domainOf(ALL[i]) === dom) cnt++;
+      return '<button class="nav-domain' + (state.view === 'domains' && state.domain === dom ? ' on' : '') +
+        '" data-domain="' + esc(dom) + '">' + esc(dom) +
+        '<span class="cnt">' + cnt + ' 篇</span></button>';
     }).join('');
 
-    $('navDays').querySelectorAll('.nav-day').forEach(function (b) {
+    $('navDomains').querySelectorAll('.nav-domain').forEach(function (b) {
       b.addEventListener('click', function () {
-        state.view = 'day';
-        state.day = b.dataset.day;
-        if (b.dataset.day === DAYS[0]) state.collapse = false;
+        state.view = 'domains';
+        state.domain = (state.domain === b.dataset.domain) ? null : b.dataset.domain;
         renderAll();
       });
     });
 
+    $('navQuestions').classList.toggle('on', state.view === 'questions');
     $('navArchive').classList.toggle('on', state.view === 'archive');
     $('navSearch').classList.toggle('on', state.view === 'search');
 
@@ -125,7 +136,7 @@
     var sources = (a.cited_sources && a.cited_sources.length)
       ? a.cited_sources.map(function (s) { return '<span class="src-chip">' + esc(s) + '</span>'; }).join('')
       : '<span class="src-chip src-none">信源未标注（转载源采集）</span>';
-    return '<article class="m-item item" data-id="' + esc(a.id) + '">' +
+    return '<article class="m-item item" data-id="' + esc(a._uid || a.id) + '">' +
       '<div class="m-item-top">' +
         '<span class="badge ' + mediaCls + '">' + esc(a.media_zh || a.media) + '</span>' +
         '<span class="imp imp-' + esc(a.importance) + '">重要 ' + (IMP_TEXT[a.importance] || '中') + '</span>' +
@@ -162,6 +173,72 @@
         '<span class="d-cnt">' + list.length + ' 篇</span></div>' + repHtml + '</section>';
     });
     return html;
+  }
+
+  /* ===================== 全部领域 / 单领域视图（领域→日期→报道方） ===================== */
+  function renderDomains(domainFilter) {
+    var domains = domainFilter ? [domainFilter] : DOMAIN_ORDER;
+    var html = '';
+    if (domainFilter) {
+      html += '<section class="doc-head"><h1>领域 · ' + esc(domainFilter) + '</h1>' +
+        '<div class="doc-sub">该领域全部扫描日报道，按日期（新→旧）排列，再按报道方（记者/机构）归并</div></section>';
+    } else {
+      html += '<section class="doc-head"><h1>全部领域 · 涉华情报</h1>' +
+        '<div class="doc-sub">按领域归集路透/彭博全部扫描日报道；领域内按日期（新→旧）排列，再按报道方（记者/机构）归并</div></section>';
+    }
+    domains.forEach(function (dom) {
+      var list = [];
+      for (var i = 0; i < ALL.length; i++) if (domainOf(ALL[i]) === dom) list.push(ALL[i]);
+      if (!list.length) return;
+      // 按日期分组
+      var byDate = {};
+      list.forEach(function (a) {
+        var dt = a.published_at || a._day || '未知日期';
+        (byDate[dt] = byDate[dt] || []).push(a);
+      });
+      var dates = Object.keys(byDate).sort().reverse();
+      var dateHtml = '';
+      dates.forEach(function (dt) {
+        var dlist = byDate[dt];
+        // 按报道方（记者/机构）分组
+        var byRep = {};
+        dlist.forEach(function (a) { var rk = reporterKey(a); (byRep[rk] = byRep[rk] || []).push(a); });
+        var repBlocks = '';
+        Object.keys(byRep).forEach(function (rk) {
+          var rlist = byRep[rk];
+          var isPerson = rlist[0].authors && rlist[0].authors.length;
+          repBlocks += '<div class="reporter-block">' +
+            '<div class="reporter-head"><span class="rep-badge ' + (isPerson ? 'rep-person' : 'rep-org') + '">' +
+              (isPerson ? '记者' : '报道机构') + '</span>' +
+              '<span class="rep-name">' + esc(rk) + '</span>' +
+              '<span class="r-cnt">' + rlist.length + ' 篇</span></div>' +
+            '<div class="rep-items">' + rlist.map(moduleArticleCard).join('') + '</div>' +
+          '</div>';
+        });
+        dateHtml += '<div class="date-sec"><div class="date-head"><span class="date-badge">日期</span>' +
+          '<h4>' + esc(dt) + '</h4><span class="d-cnt">' + dlist.length + ' 篇</span></div>' + repBlocks + '</div>';
+      });
+      html += '<section class="domain-sec">' +
+        '<div class="domain-head"><span class="domain-badge">领域</span><h3>' + esc(dom) + '</h3>' +
+        '<span class="d-cnt">' + list.length + ' 篇 · ' + dates.length + ' 个扫描日</span></div>' + dateHtml + '</section>';
+    });
+    $('main').innerHTML = html;
+    bindCards();
+  }
+
+  /* ===================== 关注议题（逐日） ===================== */
+  function renderQuestionsAll() {
+    var html = '<section class="doc-head"><h1>关注议题</h1>' +
+      '<div class="doc-sub">逐日谋题（新→旧）；每题给出依据、背景、价值</div></section>';
+    var any = false;
+    DAYS.forEach(function (day) {
+      var qs = (DATA.days[day].questions) || [];
+      if (!qs.length) return;
+      any = true;
+      html += '<div class="q-day">' + questionsSection(qs, day) + '</div>';
+    });
+    if (!any) html += '<div class="empty">暂无谋题记录</div>';
+    $('main').innerHTML = html;
   }
 
   /* ===================== 每日文档 ===================== */
@@ -272,7 +349,7 @@
       ? a.cited_sources.map(function (s) { return esc(s); }).join('、')
       : '<em>信源未标注（转载源采集）</em>';
 
-    return '<article class="item" data-id="' + esc(a.id) + '">' +
+    return '<article class="item" data-id="' + esc(a._uid || a.id) + '">' +
       '<div class="item-top">' +
         '<span class="badge ' + mediaCls + '">' + esc(a.media_zh || a.media) + '</span>' +
         '<span class="imp imp-' + esc(a.importance) + '">重要性 ' + (IMP_TEXT[a.importance] || '中') + '</span>' +
@@ -390,7 +467,7 @@
     var q = state.q.trim().toLowerCase();
     var box = $('searchResults');
     if (!box) return;
-    var pool = DATA.articles || [];
+    var pool = ALL;
     var out = pool.filter(function (a) {
       if (!q) return true;
       var hay = [a.title_zh, a.title_en, a.summary_zh, a.china_angle, a.stance,
@@ -410,8 +487,15 @@
   }
 
   /* ===================== 详情弹层 ===================== */
-  function openModal(id) {
-    var a = byId(DATA.articles || [], id);
+  function byUid(list, uid) {
+    for (var i = 0; i < list.length; i++) if (list[i]._uid === uid) return list[i];
+    return null;
+  }
+  function openModal(uid) {
+    var a = byUid(ALL, uid);
+    if (!a) {  // 兼容：少数旧视图以原始 id 索引
+      for (var i = 0; i < ALL.length; i++) if (ALL[i].id === uid) { a = ALL[i]; break; }
+    }
     if (!a) return;
     var p = a.provenance || {};
     var authorTxt = (a.authors && a.authors.length)
@@ -475,9 +559,10 @@
   }
 
   function renderMain() {
-    if (state.view === 'archive') renderArchive();
+    if (state.view === 'questions') renderQuestionsAll();
+    else if (state.view === 'archive') renderArchive();
     else if (state.view === 'search') renderSearch();
-    else renderDay(state.day);
+    else renderDomains(state.domain);
   }
 
   function renderAll() {
@@ -487,18 +572,24 @@
   }
 
   /* 事件 */
-  $('brandBtn').addEventListener('click', function () { state.view = 'day'; state.day = DAYS[0]; renderAll(); });
+  $('brandBtn').addEventListener('click', function () { state.view = 'domains'; state.domain = null; renderAll(); });
   $('collapseBtn').addEventListener('click', function () { state.collapse = !state.collapse; renderTop(); });
+  $('navQuestions').addEventListener('click', function () {
+    state.view = (state.view === 'questions') ? 'domains' : 'questions';
+    if (state.view === 'questions') $('searchPanel').hidden = true;
+    renderAll();
+  });
   $('navArchive').addEventListener('click', function () {
-    state.view = (state.view === 'archive') ? 'day' : 'archive';
+    state.view = (state.view === 'archive') ? 'domains' : 'archive';
     if (state.view === 'archive') $('searchPanel').hidden = true;
     renderAll();
   });
   $('navSearch').addEventListener('click', function () {
     var toSearch = (state.view !== 'search');
-    state.view = toSearch ? 'search' : 'day';
+    state.view = toSearch ? 'search' : 'domains';
+    state.domain = null;
     $('searchPanel').hidden = !toSearch;
-    if (toSearch) { renderAll(); } else { renderAll(); }
+    renderAll();
   });
   $('searchInput').addEventListener('input', function (e) {
     state.q = e.target.value; runSearch();

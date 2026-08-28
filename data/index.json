@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T11:13:14+08:00",
+  "generated_at": "2026-08-28T12:54:57+08:00",
   "latest_questions_day": "2026-08-27",
   "days": {
     "2026-08-27": {
@@ -70,9 +70,13 @@
           "title_zh": "习近平将出席上合组织比什凯克峰会，并对吉尔吉斯斯坦、埃及进行国事访问",
           "published_at": "2026-08-27",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Ethan Wang",
+            "Shi Bu",
+            "Liz Lee"
+          ],
+          "author_locations": "BEIJING",
+          "authors_status": "named",
           "topics": [
             "外交",
             "上合组织",
@@ -1184,9 +1188,12 @@
           "title_zh": "中国稀土主导地位成谈判筹码，美方对伊施压面临北京反制风险",
           "published_at": "2026-08-26",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Nicole Gorton-Caratelli",
+            "Chris Kennedy"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "稀土",
             "关键矿产",
@@ -1255,9 +1262,13 @@
           "title_zh": "台风“纳拉”袭华南，多地暴发洪水逾万人转移",
           "published_at": "2026-08-26",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Farah Master",
+            "Chang-Ran Kim",
+            "Ben Blanchard"
+          ],
+          "author_locations": "HONG KONG/TOKYO/TAIPEI",
+          "authors_status": "named",
           "topics": [
             "灾害",
             "极端天气",
@@ -1439,9 +1450,11 @@
           "title_zh": "中国房企龙光债务重组计划获法院批准",
           "published_at": "2026-08-26",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Pearl Liu"
+          ],
+          "author_locations": "HONG KONG",
+          "authors_status": "named",
           "topics": [
             "房地产",
             "债务重组"
@@ -1870,8 +1883,10 @@
           "title_en": "Alibaba falls 8.5% after $10.2 billion Hong Kong share sale",
           "title_zh": "阿里巴巴折价配售募资约千亿人币，股价跌超8%",
           "published_at": "2026-08-25",
-          "authors": [],
-          "authors_status": "not_available",
+          "authors": [
+            "Sherin Sunny"
+          ],
+          "authors_status": "named",
           "topics": [
             "中概股",
             "AI投入",
@@ -1980,8 +1995,11 @@
           "title_en": "Dozens of Chinese Firms Hit by Bessent's 'D-Day' Iran Sanctions",
           "title_zh": "贝森特“经济D日”对伊制裁波及数十家中国实体",
           "published_at": "2026-08-25",
-          "authors": [],
-          "authors_status": "not_available",
+          "authors": [
+            "Magdalena Del Valle",
+            "Yash Roy"
+          ],
+          "authors_status": "named",
           "topics": [
             "次级制裁",
             "伊朗",
@@ -2051,8 +2069,11 @@
           "title_en": "Shein's Hong Kong listing won't mask sustainability challenges: investors",
           "title_zh": "希音(Shein)赴港上市难掩可持续与供应链争议",
           "published_at": "2026-08-25",
-          "authors": [],
-          "authors_status": "not_available",
+          "authors": [
+            "Helen Reid",
+            "Simon Jessop"
+          ],
+          "authors_status": "named",
           "topics": [
             "中概股",
             "ESG",
@@ -2077,7 +2098,7 @@
             "evidence_note": "原页JS拦截，估值270亿美元、9/1上市、53%审计占比来自检索交叉确认。"
           },
           "published_precision": "day",
-          "author_locations": "",
+          "author_locations": "LONDON",
           "body_available": false,
           "body_zh": "",
           "deep_analysis": ""
@@ -2089,8 +2110,11 @@
           "title_en": "Pinduoduo owner Q2 profit falls 12% as competition, spend weigh",
           "title_zh": "拼多多二季度利润272亿元同比降12%，竞争与投入承压",
           "published_at": "2026-08-25",
-          "authors": [],
-          "authors_status": "not_available",
+          "authors": [
+            "Harshita Mary Varghese",
+            "Casey Hall"
+          ],
+          "authors_status": "named",
           "topics": [
             "中概股",
             "财报",
@@ -2200,8 +2224,11 @@
           "title_en": "Huawei and HP sign multiyear patent cross-licensing deal",
           "title_zh": "华为与惠普签署多年专利交叉许可协议",
           "published_at": "2026-08-25",
-          "authors": [],
-          "authors_status": "not_available",
+          "authors": [
+            "Che Pan",
+            "Eduardo Baptista"
+          ],
+          "authors_status": "named",
           "topics": [
             "知识产权",
             "中美科技",
@@ -2225,7 +2252,7 @@
             "evidence_note": "华为与HP多年专利交叉许可来自汇编；非reuters.com原文。"
           },
           "published_precision": "day",
-          "author_locations": "",
+          "author_locations": "BEIJING",
           "body_available": false,
           "body_zh": "",
           "deep_analysis": ""
@@ -2275,8 +2302,12 @@
           "title_en": "Alibaba Slides 8.5% After $10.2 Billion Share Sale",
           "title_zh": "阿里巴巴千亿人币配售后再度下挫，市值蒸发",
           "published_at": "2026-08-25",
-          "authors": [],
-          "authors_status": "not_available",
+          "authors": [
+            "Kane Wu",
+            "Casey Hall",
+            "Yiming Shen"
+          ],
+          "authors_status": "named",
           "topics": [
             "中概股",
             "AI投入",
@@ -2422,8 +2453,11 @@
           "title_en": "China evacuates tens of thousands as Typhoon Narra lashes southwest",
           "title_zh": "台风“纳拉”袭扰华南，中国疏散数万人",
           "published_at": "2026-08-25",
-          "authors": [],
-          "authors_status": "not_available",
+          "authors": [
+            "Ethan Wang",
+            "Ryan Woo"
+          ],
+          "authors_status": "named",
           "topics": [
             "自然灾害",
             "华南",
@@ -2447,7 +2481,7 @@
             "evidence_note": "原页JS拦截，仅确认标题与URL，疏散人数与四级响应来自检索交叉确认。"
           },
           "published_precision": "day",
-          "author_locations": "",
+          "author_locations": "BEIJING",
           "body_available": false,
           "body_zh": "",
           "deep_analysis": ""
@@ -2777,9 +2811,13 @@
           "title_zh": "广州中院受理恒大破产清算申请，房地产危机延续",
           "published_at": "2026-08-24",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": [],
-          "authors_status": "not_available",
+          "authors": [
+            "Liz Lee"
+          ],
+          "author_locations": [
+            "BEIJING"
+          ],
+          "authors_status": "named",
           "topics": [
             "房地产",
             "恒大",
@@ -2806,9 +2844,12 @@
           "title_zh": "阿里拟港股配售募资102亿美元加码AI，创港股最大再融资纪录",
           "published_at": "2026-08-24",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Trista Xinyi Luo",
+            "Dave Sebastian"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中概股",
             "AI",
@@ -2836,9 +2877,12 @@
           "title_zh": "彭博：美拟在9月峰会前对华加征7.5%「产能过剩」关税，综合税率升至约20%",
           "published_at": "2026-08-24",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Lucille Liu",
+            "Jenny Leonard"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "经贸",
             "关税",
@@ -2866,9 +2910,15 @@
           "title_zh": "台风「纳拉」袭华南与越南引发洪涝灾害",
           "published_at": "2026-08-24",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": [],
-          "authors_status": "not_available",
+          "authors": [
+            "Ethan Wang",
+            "Ryan Woo",
+            "Phuong Nguyen"
+          ],
+          "author_locations": [
+            "BEIJING/HANOI"
+          ],
+          "authors_status": "named",
           "topics": [
             "自然灾害",
             "华南",
@@ -3218,9 +3268,15 @@
           "title_zh": "传巴基斯坦陆军参谋长穆尼尔访伊前与特朗普通话，美方借力向伊朗施压",
           "published_at": "2026-08-24",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": [],
-          "authors_status": "not_available",
+          "authors": [
+            "Ariba Shahid",
+            "Mubasher Bukhari",
+            "Asif Shahzad"
+          ],
+          "author_locations": [
+            "ISLAMABAD"
+          ],
+          "authors_status": "named",
           "topics": [
             "伊朗",
             "南亚",
@@ -4220,9 +4276,11 @@
           "title_zh": "美海军P-8A反潜机飞越台湾海峡国际空域",
           "published_at": "2026-08-22",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Ben Blanchard"
+          ],
+          "author_locations": "TAIPEI",
+          "authors_status": "named",
           "topics": [
             "台海安全",
             "军事",
@@ -4256,9 +4314,12 @@
           "title_zh": "中国经济放缓下拟推新一轮财政支持政策",
           "published_at": "2026-08-22",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Liz Lee",
+            "Kevin Yao"
+          ],
+          "author_locations": "BEIJING",
+          "authors_status": "named",
           "topics": [
             "中国经济",
             "宏观政策",
@@ -4292,9 +4353,11 @@
           "title_zh": "长江存储母公司筹备上海IPO，拟募资约49亿美元",
           "published_at": "2026-08-22",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Eduardo Baptista"
+          ],
+          "author_locations": "BEIJING",
+          "authors_status": "named",
           "topics": [
             "半导体",
             "芯片",
@@ -4550,9 +4613,11 @@
           "title_zh": "中国人形机器人运动会成'战略秀场'，产业估值飙升",
           "published_at": "2026-08-22",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Kevin Krolicki"
+          ],
+          "author_locations": "BEIJING",
+          "authors_status": "named",
           "topics": [
             "机器人",
             "产业战略",
@@ -4729,9 +4794,11 @@
           "title_zh": "广州法院受理恒大地产破产清算；许家印被判无期徒刑",
           "published_at": "2026-08-21",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Liz Lee"
+          ],
+          "author_locations": "BEIJING",
+          "authors_status": "named",
           "topics": [
             "房地产",
             "恒大",
@@ -4922,9 +4989,12 @@
           "title_zh": "特斯拉等九家车企在华召回数百万辆电动车，涉隐藏式门把手安全隐患",
           "published_at": "2026-08-21",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Qiaoyi Li",
+            "Ju-min Park"
+          ],
+          "author_locations": "BEIJING",
+          "authors_status": "named",
           "topics": [
             "汽车",
             "召回",
@@ -31036,10 +31106,12 @@
       "published_at": "2026-08-27",
       "published_precision": "day",
       "authors": [
-        "Anzar Mehraj"
+        "Ethan Wang",
+        "Shi Bu",
+        "Liz Lee"
       ],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "author_locations": "BEIJING",
+      "authors_status": "named",
       "topics": [
         "外交",
         "上合组织",
@@ -31115,8 +31187,12 @@
       "title_zh": "俄罗斯阿穆尔天然气化工厂火灾致多名中国公民伤亡",
       "published_at": "2026-08-27",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
+      "authors": [
+        "Liz Lee"
+      ],
+      "author_locations": [
+        "BEIJING"
+      ],
       "authors_status": "not_available",
       "topics": [
         "海外安全",
@@ -31152,8 +31228,10 @@
       "title_zh": "中国LPR维持不变，5000亿元MLF以2.50%利率续作稳流动性",
       "published_at": "2026-08-27",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
+      "authors": [
+        "Liz Lee"
+      ],
+      "author_locations": "BEIJING",
       "authors_status": "not_available",
       "topics": [
         "货币政策",
@@ -31230,9 +31308,13 @@
       "published_at": "2026-08-27",
       "published_precision": "day",
       "authors": [
-        "Ben Blanchard"
+        "Ariba Shahid",
+        "Mubasher Bukhari",
+        "Asif Shahzad"
       ],
-      "author_locations": "TAIPEI",
+      "author_locations": [
+        "ISLAMABAD"
+      ],
       "authors_status": "not_available",
       "topics": [
         "战略性新兴产业",
@@ -31391,7 +31473,10 @@
       "title_zh": "中国股市上扬，大金融领涨，上证综指涨0.59%",
       "published_at": "2026-08-27",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Trista Xinyi Luo",
+        "Dave Sebastian"
+      ],
       "author_locations": "",
       "authors_status": "not_available",
       "topics": [
@@ -31463,7 +31548,10 @@
       "title_zh": "中国央行5000亿元MLF以2.50%续作，维持流动性合理充裕",
       "published_at": "2026-08-27",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Lucille Liu",
+        "Jenny Leonard"
+      ],
       "author_locations": "",
       "authors_status": "not_available",
       "topics": [
@@ -31538,7 +31626,10 @@
       "title_zh": "中国将发布中小企业“十五五”规划，力推数字化转型",
       "published_at": "2026-08-27",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Nicole Gorton-Caratelli",
+        "Chris Kennedy"
+      ],
       "author_locations": "",
       "authors_status": "not_available",
       "topics": [
@@ -31613,8 +31704,10 @@
       "title_zh": "智谱开源GLM-5.3-Flash加剧中美AI模型竞赛",
       "published_at": "2026-08-27",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
+      "authors": [
+        "Pearl Liu"
+      ],
+      "author_locations": "HONG KONG",
       "authors_status": "not_available",
       "topics": [
         "人工智能",
@@ -31767,8 +31860,11 @@
       "title_en": "China evacuates tens of thousands as Typhoon Narra lashes southwest",
       "title_zh": "台风“纳拉”袭扰华南，中国疏散数万人",
       "published_at": "2026-08-25",
-      "authors": [],
-      "authors_status": "not_available",
+      "authors": [
+        "Ethan Wang",
+        "Ryan Woo"
+      ],
+      "authors_status": "named",
       "topics": [
         "自然灾害",
         "华南",
@@ -31792,7 +31888,7 @@
         "evidence_note": "原页JS拦截，仅确认标题与URL，疏散人数与四级响应来自检索交叉确认。"
       },
       "published_precision": "day",
-      "author_locations": "",
+      "author_locations": "BEIJING",
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
@@ -31805,8 +31901,11 @@
       "title_en": "Shein's Hong Kong listing won't mask sustainability challenges: investors",
       "title_zh": "希音(Shein)赴港上市难掩可持续与供应链争议",
       "published_at": "2026-08-25",
-      "authors": [],
-      "authors_status": "not_available",
+      "authors": [
+        "Helen Reid",
+        "Simon Jessop"
+      ],
+      "authors_status": "named",
       "topics": [
         "中概股",
         "ESG",
@@ -31831,7 +31930,7 @@
         "evidence_note": "原页JS拦截，估值270亿美元、9/1上市、53%审计占比来自检索交叉确认。"
       },
       "published_precision": "day",
-      "author_locations": "",
+      "author_locations": "LONDON",
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
@@ -31965,8 +32064,11 @@
       "title_en": "Pinduoduo owner Q2 profit falls 12% as competition, spend weigh",
       "title_zh": "拼多多二季度利润272亿元同比降12%，竞争与投入承压",
       "published_at": "2026-08-25",
-      "authors": [],
-      "authors_status": "not_available",
+      "authors": [
+        "Harshita Mary Varghese",
+        "Casey Hall"
+      ],
+      "authors_status": "named",
       "topics": [
         "中概股",
         "财报",
@@ -32079,8 +32181,11 @@
       "title_en": "Huawei and HP sign multiyear patent cross-licensing deal",
       "title_zh": "华为与惠普签署多年专利交叉许可协议",
       "published_at": "2026-08-25",
-      "authors": [],
-      "authors_status": "not_available",
+      "authors": [
+        "Che Pan",
+        "Eduardo Baptista"
+      ],
+      "authors_status": "named",
       "topics": [
         "知识产权",
         "中美科技",
@@ -32104,7 +32209,7 @@
         "evidence_note": "华为与HP多年专利交叉许可来自汇编；非reuters.com原文。"
       },
       "published_precision": "day",
-      "author_locations": "",
+      "author_locations": "BEIJING",
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
@@ -32156,8 +32261,10 @@
       "title_en": "Alibaba falls 8.5% after $10.2 billion Hong Kong share sale",
       "title_zh": "阿里巴巴折价配售募资约千亿人币，股价跌超8%",
       "published_at": "2026-08-25",
-      "authors": [],
-      "authors_status": "not_available",
+      "authors": [
+        "Sherin Sunny"
+      ],
+      "authors_status": "named",
       "topics": [
         "中概股",
         "AI投入",
@@ -32269,8 +32376,11 @@
       "title_en": "Dozens of Chinese Firms Hit by Bessent's 'D-Day' Iran Sanctions",
       "title_zh": "贝森特“经济D日”对伊制裁波及数十家中国实体",
       "published_at": "2026-08-25",
-      "authors": [],
-      "authors_status": "not_available",
+      "authors": [
+        "Magdalena Del Valle",
+        "Yash Roy"
+      ],
+      "authors_status": "named",
       "topics": [
         "次级制裁",
         "伊朗",
@@ -32342,8 +32452,12 @@
       "title_en": "Alibaba Slides 8.5% After $10.2 Billion Share Sale",
       "title_zh": "阿里巴巴千亿人币配售后再度下挫，市值蒸发",
       "published_at": "2026-08-25",
-      "authors": [],
-      "authors_status": "not_available",
+      "authors": [
+        "Kane Wu",
+        "Casey Hall",
+        "Yiming Shen"
+      ],
+      "authors_status": "named",
       "topics": [
         "中概股",
         "AI投入",
@@ -39570,7 +39684,7 @@
     "total": 342,
     "days": 23,
     "negatives": 109,
-    "with_author": 143,
+    "with_author": 156,
     "with_body": 18,
     "with_sources": 319
   }

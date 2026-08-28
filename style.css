@@ -53,6 +53,15 @@ body{
 .nav-day.on{background:var(--ink);color:#f5f3ef;border-color:var(--ink)}
 .nav-day .cnt{font-size:11px;font-family:system-ui,sans-serif;opacity:.8}
 .nav-day.on .cnt{color:#e8e2d8}
+.nav-domains{display:flex;flex-direction:column;gap:4px}
+.nav-domain{display:flex;align-items:center;justify-content:space-between;gap:8px;
+  padding:9px 12px;border-radius:8px;border:1px solid var(--line);background:var(--surface);
+  color:var(--ink);font-size:13.5px;cursor:pointer;text-align:left;font-family:inherit;
+  transition:border-color .12s,background .12s}
+.nav-domain:hover{background:var(--surface-2);border-color:var(--line-strong)}
+.nav-domain.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.nav-domain .cnt{font-size:11px;font-family:system-ui,sans-serif;opacity:.85}
+.nav-domain.on .cnt{color:#fdf9f2}
 .nav-extra{display:flex;flex-direction:column;gap:4px;margin-top:6px}
 .nav-item{padding:9px 12px;border-radius:8px;border:1px solid var(--line);background:var(--surface);
   cursor:pointer;font-family:inherit;font-size:14px;color:var(--ink-2);text-align:left;transition:all .12s}
@@ -131,6 +140,13 @@ body{
   letter-spacing:2px;padding:3px 9px;border-radius:4px;font-weight:700}
 .domain-head h3{font-size:18px;letter-spacing:1px;font-weight:700}
 .d-cnt{margin-left:auto;font-family:system-ui,sans-serif;font-size:12px;color:var(--ink-3)}
+/* ---------- 领域内按日期（新→旧）再分组 ---------- */
+.date-sec{border-top:1px dashed var(--line);padding-top:4px;margin-top:2px}
+.date-sec:first-child{border-top:none;margin-top:0;padding-top:0}
+.date-head{display:flex;align-items:center;gap:10px;padding:10px 18px 2px}
+.date-badge{background:#46505a;color:#fff;font-family:system-ui,sans-serif;font-size:10.5px;
+  letter-spacing:2px;padding:2px 8px;border-radius:4px;font-weight:700}
+.date-head h4{font-size:14.5px;letter-spacing:.5px;font-weight:700;color:var(--ink-2)}
 .reporter-block{border-bottom:1px solid var(--line)}
 .reporter-block:last-child{border-bottom:none}
 .reporter-head{display:flex;align-items:center;gap:10px;padding:12px 18px 6px}
