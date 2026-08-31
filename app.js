@@ -37,7 +37,23 @@
     domain: null,
     q: '',
     collapse: false,
+    reporterId: null,
   };
+
+  // 记者/分析师档案（data/reporters.js）
+  var REPORTERS = window.__XFS_REPORTERS__ || [];
+  function articlesOfReporter(r) {
+    var key = (r.name || '').toLowerCase();
+    return ALL.filter(function (a) {
+      return (a.authors || []).some(function (n) { return n.toLowerCase() === key; });
+    });
+  }
+  function roleLabel(r) {
+    if (r.role === 'reporter') return '记者';
+    if (r.role === 'analyst') return '行业分析师';
+    if (r.role === 'economist') return '经济学家';
+    return '—';
+  }
 
   /* ===================== 报头 ===================== */
   function renderTop() {
@@ -97,6 +113,7 @@
     $('navQuestions').classList.toggle('on', state.view === 'questions');
     $('navArchive').classList.toggle('on', state.view === 'archive');
     $('navSearch').classList.toggle('on', state.view === 'search');
+    $('navReporters').classList.toggle('on', state.view === 'reporters');
 
     var daysTxt = DAYS.length ? (DAYS[DAYS.length - 1] + ' → ' + DAYS[0]) : '-';
     $('sidebarFoot').innerHTML = '数据窗口：' + esc(daysTxt) + '<br>本机存档 · 离线可用';
@@ -239,6 +256,113 @@
     });
     if (!any) html += '<div class="empty">暂无谋题记录</div>';
     $('main').innerHTML = html;
+  }
+
+  /* ===================== 记者专题 ===================== */
+  function renderReporters() {
+    if (state.reporterId) { renderReporterDetail(state.reporterId); return; }
+    var html = '<section class="doc-head"><h1>记者专题</h1>' +
+      '<div class="doc-sub">报道背后的真实记者与分析师档案（路透 / 彭博）；点击查看完整简历与本站在其署名的报道。</div></section>';
+    var cats = [
+      { key: 'reporter', label: '记者（路透 / 彭博新闻）' },
+      { key: 'analyst', label: '彭博行业研究（BI）分析师' },
+      { key: 'economist', label: '彭博经济研究（Bloomberg Economics）经济学家' }
+    ];
+    cats.forEach(function (c) {
+      var list = REPORTERS.filter(function (r) { return r.role === c.key; });
+      if (!list.length) return;
+      var cards = list.map(function (r) {
+        var cnt = articlesOfReporter(r).length;
+        var orgCls = r.org === 'Reuters' ? 'b-reuters' : 'b-bloomberg';
+        var tags = (r.focus || []).map(function (t) { return '<span class="tag">' + esc(t) + '</span>'; }).join('');
+        return '<article class="rep-card item" data-rid="' + esc(r.id) + '">' +
+          '<div class="rep-card-top">' +
+            '<span class="badge ' + orgCls + '">' + esc(r.org) + '</span>' +
+            '<span class="rep-role">' + esc(roleLabel(r)) + '</span>' +
+            (cnt ? '<span class="r-cnt">本站 ' + cnt + ' 篇</span>' : '<span class="r-cnt">本站 0 篇</span>') +
+          '</div>' +
+          '<h3 class="rep-name">' + esc(r.name) + (r.name_zh && r.name_zh !== '—' ? ' <span class="rep-zh">（' + esc(r.name_zh) + '）</span>' : '') + '</h3>' +
+          '<div class="rep-title">' + esc(r.title) + '</div>' +
+          '<div class="rep-beat">' + esc(r.beat) + '</div>' +
+          (tags ? '<div class="tags">' + tags + '</div>' : '') +
+        '</article>';
+      }).join('');
+      html += '<section class="domain-sec"><div class="domain-head"><span class="domain-badge">类别</span><h3>' + esc(c.label) + '</h3>' +
+        '<span class="d-cnt">' + list.length + ' 人</span></div>' +
+        '<div class="rep-grid">' + cards + '</div></section>';
+    });
+    if (!REPORTERS.length) html += '<div class="empty">暂无记者档案数据</div>';
+    $('main').innerHTML = html;
+    $('main').querySelectorAll('.rep-card').forEach(function (el) {
+      el.addEventListener('click', function () { state.reporterId = el.dataset.rid; renderReporters(); window.scrollTo(0, 0); });
+    });
+  }
+
+  function renderReporterDetail(id) {
+    var r = null;
+    for (var i = 0; i < REPORTERS.length; i++) if (REPORTERS[i].id === id) { r = REPORTERS[i]; break; }
+    if (!r) { $('main').innerHTML = '<div class="empty">未找到该记者档案</div>'; return; }
+    var orgCls = r.org === 'Reuters' ? 'b-reuters' : 'b-bloomberg';
+    var arts = articlesOfReporter(r);
+    var artsHtml = arts.length
+      ? arts.slice().sort(function (a, b) { return (b.published_at || '').localeCompare(a.published_at || ''); })
+          .map(function (a) {
+            return '<article class="item rep-art" data-id="' + esc(a._uid || a.id) + '">' +
+              '<div class="item-top">' +
+                '<span class="badge ' + (a.media === 'Reuters' ? 'b-reuters' : 'b-bloomberg') + '">' + esc(a.media_zh || a.media) + '</span>' +
+                (a.is_negative ? '<span class="sent-badge negative">负面</span>' : '') +
+                '<span class="date">' + esc(a.published_at || '') + '</span>' +
+              '</div>' +
+              '<h4>' + esc(a.title_zh || '') + '</h4>' +
+              '<div class="title-en">' + esc(a.title_en || '') + '</div>' +
+            '</article>';
+          }).join('')
+      : '<div class="empty">本站暂未收录其署名报道</div>';
+
+    var recent = (r.recent || []).map(function (x) {
+      return '<li>' + esc(x.t) + (x.d ? ' <span class="q-ev-meta">(' + esc(x.d) + ')</span>' : '') +
+        (x.n ? ' — <span class="q-ev-note">' + esc(x.n) + '</span>' : '') + '</li>';
+    }).join('');
+    var h = r.handles || {};
+    var handleHtml = '<div class="rep-handles">' +
+      (h.x && h.x !== '—' ? '<span class="rep-h">X：<a href="https://x.com/' + esc(h.x.replace('@', '')) + '" target="_blank" rel="noopener">' + esc(h.x) + '</a></span>' : '<span class="rep-h">X：—</span>') +
+      (h.linkedin && h.linkedin !== '—' ? '<span class="rep-h">LinkedIn：<a href="' + esc(h.linkedin) + '" target="_blank" rel="noopener">链接</a></span>' : '') +
+      (h.muckrack && h.muckrack !== '—' ? '<span class="rep-h">Muck Rack：<a href="' + esc(h.muckrack) + '" target="_blank" rel="noopener">链接</a></span>' : '') +
+      (h.email && h.email !== '—' ? '<span class="rep-h">邮箱：' + esc(h.email) + '</span>' : '') +
+      '</div>';
+    var srcHtml = (r.sources || []).map(function (u) {
+      return '<li><a href="' + esc(u) + '" target="_blank" rel="noopener">' + esc(u) + '</a></li>';
+    }).join('');
+
+    var html =
+      '<button class="back-btn" id="repBack">← 返回记者列表</button>' +
+      '<section class="rep-detail">' +
+        '<div class="rep-d-head">' +
+          '<h1 class="rep-d-name">' + esc(r.name) + (r.name_zh && r.name_zh !== '—' ? ' <span class="rep-zh">（' + esc(r.name_zh) + '）</span>' : '') + '</h1>' +
+          '<div class="rep-d-sub">' +
+            '<span class="badge ' + orgCls + '">' + esc(r.org) + '</span>' +
+            '<span class="rep-role">' + esc(roleLabel(r)) + '</span>' +
+            (r.org_unit ? '<span class="rep-orgunit">' + esc(r.org_unit) + '</span>' : '') +
+          '</div>' +
+          '<div class="rep-d-title">' + esc(r.title) + (r.title_en ? '　/　' + esc(r.title_en) : '') + '</div>' +
+          '<div class="rep-d-base">驻地：' + esc(r.base || '—') + (r.base_en ? '（' + esc(r.base_en) + '）' : '') + '</div>' +
+        '</div>' +
+        ((r.focus && r.focus.length) ? '<div class="tags rep-tags">' + r.focus.map(function (t) { return '<span class="tag">' + esc(t) + '</span>'; }).join('') + '</div>' : '') +
+      '</section>' +
+      '<section class="rep-bio">' +
+        '<div class="rep-sec"><h4>报道领域</h4><p>' + esc(r.beat || '') + '</p></div>' +
+        '<div class="rep-sec"><h4>背景</h4><p>' + esc(r.background || '') + '</p></div>' +
+        (recent ? '<div class="rep-sec"><h4>代表性报道（公开资料）</h4><ul class="rep-recent">' + recent + '</ul></div>' : '') +
+        '<div class="rep-sec"><h4>公开账号</h4>' + handleHtml + '</div>' +
+        (srcHtml ? '<div class="rep-sec"><h4>资料来源</h4><ul class="rep-src">' + srcHtml + '</ul></div>' : '') +
+      '</section>' +
+      '<section class="rep-arts"><h4>在西风哨中的署名报道（' + arts.length + ' 篇）</h4><div class="rep-art-grid">' + artsHtml + '</div></section>';
+
+    $('main').innerHTML = html;
+    $('repBack').addEventListener('click', function () { state.reporterId = null; renderReporters(); window.scrollTo(0, 0); });
+    $('main').querySelectorAll('.rep-art').forEach(function (el) {
+      el.addEventListener('click', function () { openModal(el.dataset.id); });
+    });
   }
 
   /* ===================== 每日文档 ===================== */
@@ -559,7 +683,8 @@
   }
 
   function renderMain() {
-    if (state.view === 'questions') renderQuestionsAll();
+    if (state.view === 'reporters') renderReporters();
+    else if (state.view === 'questions') renderQuestionsAll();
     else if (state.view === 'archive') renderArchive();
     else if (state.view === 'search') renderSearch();
     else renderDomains(state.domain);
@@ -589,6 +714,14 @@
     state.view = toSearch ? 'search' : 'domains';
     state.domain = null;
     $('searchPanel').hidden = !toSearch;
+    renderAll();
+  });
+  $('navReporters').addEventListener('click', function () {
+    var inList = (state.view === 'reporters' && !state.reporterId);
+    state.view = inList ? 'domains' : 'reporters';
+    state.reporterId = null;
+    state.domain = null;
+    $('searchPanel').hidden = true;
     renderAll();
   });
   $('searchInput').addEventListener('input', function (e) {

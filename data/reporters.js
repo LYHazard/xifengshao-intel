@@ -1,0 +1,320 @@
+/* 西风哨 · 记者/分析师专题档案
+ * 由路透/彭博公开职业资料整理（仅公开职业信息）。
+ * role: reporter=记者 / analyst=行业分析师 / economist=经济学家
+ * 文章关联：用 name 与 DATA.days 中 articles.authors 匹配。
+ */
+window.__XFS_REPORTERS__ = [
+  {
+    id: "luz-ding", name: "Luz Ding", name_zh: "丁璐（未公开确认）",
+    org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
+    title: "科技记者", title_en: "Technology Reporter",
+    beat: "覆盖中国科技与 AI——中国 AI 模型（阿里通义千问、DeepSeek、月之暗面 Kimi 等）、AI 芯片、AI 应用与机器人，以及中国互联网平台公司（阿里、腾讯、美团、拼多多、滴滴）；常报道中美 AI 竞赛。",
+    base: "香港", base_en: "Hong Kong",
+    background: "现任彭博新闻驻香港科技记者。此前在彭博北京分社报道能源转型与气候变化，曾在华盛顿特区做自由撰稿人，并任《纽约时报》北京新闻研究员（亦为财新供稿）。获乔治·华盛顿大学艾略特学院国际科技政策硕士学位。通晓英语、中文、韩语。其中国瓶装水报道入选彭博“Water Grab”系列，入围 2024 年普利策解释性报道奖决选。",
+    focus: ["AI", "科技", "半导体", "机器人", "中美科技竞争"],
+    recent: [
+      { t: "Chinese AI Models Gain Ground on Price and Use", d: "2026", n: "分析中国 AI 模型凭价格与使用率崛起" },
+      { t: "The US Lead in the AI Race Is Rapidly Narrowing", d: "2026", n: "合著（与 Spe Chen、Hayley Warren），中美 AI 竞赛评分榜" },
+      { t: "Alibaba Adds to China AI Breakthroughs With New Qwen Model", d: "2026-08", n: "" },
+      { t: "Apple Gets Approval for iPhone AI in China With Alibaba, Baidu", d: "2026-07", n: "" },
+      { t: "Alibaba Raises $10 Billion in Record Hong Kong Share Sale", d: "2026", n: "合著（与 Julia Fioretti、Dave Sebastian）" }
+    ],
+    handles: { x: "@luzdingyu", linkedin: "—", email: "—" },
+    sources: ["https://www.bloomberg.com/authors/AVXV62pP05M/luz-ding", "https://luz-ding.com/about"]
+  },
+  {
+    id: "spe-chen", name: "Spe Chen", name_zh: "—",
+    org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
+    title: "数据与图形记者", title_en: "Data and Graphics Journalist",
+    beat: "数据可视化/图形新闻——制作图表、地图与数据驱动解说（国家公园微缩模型、中美 AI 竞赛评分榜、中国生物科技管线数据、香港霓虹灯 heritage 等）。参与彭博 MapLab 等产品。",
+    base: "未确认（图形/MapLab 团队）", base_en: "—",
+    background: "彭博自述为“数据与图形记者”。在多个数据驱动大稿（如中美 AI 竞赛评分榜）中署名图形贡献，亦参与香港版通讯。教育及此前任职公开来源未确认。",
+    focus: ["数据新闻", "可视化", "AI"],
+    recent: [
+      { t: "The US Lead in the AI Race Is Rapidly Narrowing", d: "2026", n: "构建 AI 竞赛评分可视化（与 Luz Ding、Hayley Warren）" },
+      { t: "Mapmakers Create Bite-Sized Models of National Parks", d: "2024-08", n: "MapLab" },
+      { t: "China Biotech's Stunning Advance Is Changing the World's Drug Pipeline", d: "2025-07", n: "数据/图形合著" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.bloomberg.com/news/newsletters/2024-08-28/mapmakers-create-bite-sized-models-of-national-parks"]
+  },
+  {
+    id: "hayley-warren", name: "Hayley Warren", name_zh: "—",
+    org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
+    title: "图形记者", title_en: "Graphics Reporter",
+    beat: "新闻图形与数据可视化——科学、太阳活动、地磁风暴等数据密集报道的可视化解说（含中美 AI 竞赛图形）。参与彭博 MapLab。",
+    base: "未确认（图形团队，通常纽约）", base_en: "—",
+    background: "彭博图形记者，作品见于 MapLab 通讯（如追踪太阳黑子与空间天气可视化）。曾列入获 2021 年 Wincott“年度新闻”奖的 ESG/MSCI 调查报道彭博贡献者名单。详细履历公开来源未确认。",
+    focus: ["数据新闻", "可视化", "科学"],
+    recent: [
+      { t: "The US Lead in the AI Race Is Rapidly Narrowing", d: "2026", n: "AI 竞赛图形（与 Luz Ding、Spe Chen）" },
+      { t: "The Hand-Drawn History of Tracking Sunspots", d: "2024-06", n: "MapLab" },
+      { t: "The ESG Mirage / MSCI 调查", d: "2021", n: "Wincott 获奖报道包" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.bloomberg.com/news/newsletters/2024-06-05/the-hand-drawn-history-of-tracking-sunspots", "https://www.bloombergmedia.com/press/bloomberg-wins-wincott-awards-journalism-of-the-year-prize"]
+  },
+  {
+    id: "sohee-kim", name: "Sohee Kim", name_zh: "金昭希（Kim So-hee）",
+    org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
+    title: "亚洲科技与娱乐记者", title_en: "Asia Tech & Entertainment Reporter",
+    beat: "亚洲科技与娱乐——AI 模型、芯片产业、韩国科技/消费电子，以及 K-pop、韩剧、动漫与音乐产业。强亚洲视角，尤重韩中科技。",
+    base: "首尔", base_en: "Seoul, South Korea",
+    background: "约 2016 年加入彭博。履历：Staff Reporter, Korea JoongAng Daily（2015–2016）；Reuters 新闻社记者（2013–2015）；Council on Foreign Relations 研究员（2012）；Voice of America 实习记者（2012）。教育：汉阳大学政治外交学；名古屋大学交换（法学）；The Washington Center（国际关系与国家安全研究）。",
+    focus: ["AI", "芯片", "韩国科技", "娱乐"],
+    recent: [
+      { t: "Mystery AI Model Ox Alpha Draws Developers With Free Access", d: "2026-08", n: "报道神秘 AI 模型 Ox Alpha" },
+      { t: "AI boom fuels Singapore fintech hiring spree", d: "2026", n: "" },
+      { t: "Samsung Beware: Korea Lays Welcome Mat for Activist Shareholders", d: "2026", n: "与 Bruce Einhorn、Heejin Kim 合著" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "skim847@bloomberg.net" },
+    sources: ["https://www.thestar.com.my/tech/tech-news/2026/08/24/mystery-ai-model-ox-alpha-draws-developers-with-free-access", "https://rocketreach.co/sohee-kim-email_3170244"]
+  },
+  {
+    id: "julia-fioretti", name: "Julia Fioretti", name_zh: "—",
+    org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
+    title: "亚洲股票资本市场（ECM）交易记者", title_en: "Asia ECM Deals Reporter",
+    beat: "亚洲股票资本市场、IPO 与配售——覆盖香港及区域上市、大宗交易、后续发行与中国/亚洲交易（如宁德时代、阿里、奇瑞、京东相关 REIT）。",
+    base: "香港", base_en: "Hong Kong",
+    background: "完成路透毕业生培训计划后加入彭博，曾在路透布鲁塞尔分社任欧盟事务记者（聚焦数字、科技、电信与交通，并负责欧洲议会报道，通意大利语与法语），更早前在路透报道能源线。现驻香港任亚洲 ECM 交易记者。",
+    focus: ["资本市场", "IPO", "金融"],
+    recent: [
+      { t: "Alibaba Raises $10 Billion in Record Hong Kong Share Sale", d: "2026", n: "合著（与 Dave Sebastian、Luz Ding）" },
+      { t: "CATL Is Said to Seek at Least $4 Billion for Hong Kong Listing", d: "2025", n: "与 Dave Sebastian、Pei Li" },
+      { t: "Chery Seeks One of the Year's Biggest IPOs Without Global Banks", d: "2025", n: "" }
+    ],
+    handles: { x: "—", linkedin: "https://www.linkedin.com/in/juliafioretti", email: "—" },
+    sources: ["https://intelligentrelations.com/journalist/julia-fioretti/", "https://journofinder.com/journo/julia-fioretti-810050"]
+  },
+  {
+    id: "dave-sebastian", name: "Dave Sebastian", name_zh: "—",
+    org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
+    title: "亚洲财富记者（原亚洲股票市场记者）", title_en: "Asia Wealth Reporter",
+    beat: "亚洲财富、股票市场与资本市场交易——覆盖香港/IPO、配售、上市与亚洲市场结构（宁德时代、阿里、奇瑞、Go Inc.、Inovance、Jollibee 等）。",
+    base: "香港", base_en: "Hong Kong",
+    background: "任彭博亚洲财富记者，驻香港；此前约两年覆盖亚洲股票市场。加入彭博前在《华尔街日报》覆盖亚洲股票市场（2019 年加入），曾参加 Dow Jones News Fund 商业报道实习并任突发新闻记者。波士顿大学毕业，主修新闻、经济与商业。",
+    focus: ["财富", "资本市场", "IPO", "金融"],
+    recent: [
+      { t: "Alibaba Seeks $10 Billion From Share Sale, Draws Flak from Burry", d: "2026", n: "合著（与 Julia Fioretti、Luz Ding）" },
+      { t: "CATL Is Said to Seek at Least $4 Billion for Hong Kong Listing", d: "2025", n: "" },
+      { t: "Jollibee Is Said to Mull Moving US Listing to Booming Hong Kong", d: "2026", n: "" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://talkingbiznews.com/media-news/bloomberg-taps-sebastian-as-asia-wealth-reporter", "https://news.bloomberglaw.com/private-equity/alibaba-seeks-10-billion-from-share-sale-draws-flak-from-burry"]
+  },
+  {
+    id: "michael-hirtzer", name: "Michael Hirtzer", name_zh: "—",
+    org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
+    title: "农业/大宗商品记者", title_en: "Agriculture Reporter",
+    beat: "覆盖美国农业、谷物与蛋白供应链、作物与投入成本，以及中美农产品贸易流向；报道常直接影响终端价格预期。",
+    base: "芝加哥", base_en: "Chicago, USA",
+    background: "2019 年 4 月加入彭博；此前在 Thomson Reuters（路透）从事农业报道近 13 年。专业方向为谷物、油籽与农产品大宗商品；长期跟踪美国农户情绪、农机巨头 Deere 及中美大豆贸易。",
+    focus: ["农业", "大宗商品", "中美贸易"],
+    recent: [
+      { t: "Wild Weather Sends Crop Prices Rising in Risk to China Trade", d: "2026-08-21", n: "合著（与 Erin Ailworth）" },
+      { t: "China books 13 more US soy cargoes, nearing quarter of target", d: "2026-08-06", n: "" },
+      { t: "Deere shares slump with farmers still facing challenges", d: "2026-05-21", n: "" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://theedgemalaysia.com/author/Michael%20Hirtzer", "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-08-21/wild-weather-sends-crop-prices-soaring-in-risk-to-china-trade"]
+  },
+  {
+    id: "erin-ailworth", name: "Erin Ailworth", name_zh: "—",
+    org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
+    title: "谷物/大宗商品市场记者", title_en: "Grain/Commodities Markets Reporter",
+    beat: "自 2025 年 5 月起在彭博覆盖谷物市场；此前在《华尔街日报》十余年，擅长自然灾害、突发新闻与全国性事件现场报道。",
+    base: "疑似芝加哥（未确认）", base_en: "—",
+    background: "西北大学 Medill 新闻学院毕业。职业生涯始于《奥兰多哨兵报》与《波士顿环球报》，2014 年加入《华尔街日报》逾十年，曾任新闻编辑部人才编辑；报道过美国多起自然灾害（含飓风 Harvey、加州山火）、波士顿马拉松爆炸案、George Floyd 事件后续等。全美西班牙裔记者协会（NAHJ）终身会员。",
+    focus: ["农业", "大宗商品", "天气"],
+    recent: [
+      { t: "Wild Weather Sends Crop Prices Rising in Risk to China Trade", d: "2026-08-21", n: "合著（与 Michael Hirtzer）" },
+      { t: "Heat Worries US Wheat Farmers Just as Crop Prices Are Surging", d: "2026-07-23", n: "" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://cherubs.medill.northwestern.edu/2026/top-alumni/", "https://www.bloomberg.com/news/articles/2026-07-23/heat-worries-us-wheat-farmers-just-as-crop-prices-are-surging"]
+  },
+  {
+    id: "eduardo-baptista", name: "Eduardo Baptista", name_zh: "—",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "大中华区首席科技记者", title_en: "Chief Technology Correspondent, Greater China",
+    beat: "报道人工智能、半导体与新兴技术，重点覆盖中国人形机器人、芯片与 AI 产业。",
+    base: "北京", base_en: "Beijing, China",
+    background: "路透社大中华区首席科技记者，常驻北京。剑桥大学历史学学士。长期报道中国科技（DeepSeek、英伟达/AMD 在华业务、360 安全、宇树科技 Unitree 及人形机器人产业等）。",
+    focus: ["AI", "科技", "半导体", "机器人"],
+    recent: [
+      { t: "Chinese humanoid robot runs 100m faster than Bolt", d: "2026-08", n: "合著（与 Xihao Jiang）" },
+      { t: "China's AI-powered humanoid robots aim to transform manufacturing", d: "2025-05-13", n: "与 Brenda Goh、Qiaoyi Li 合著" },
+      { t: "China's 360 says it has developed tools to match Anthropic's Mythos", d: "2026-06-24", n: "" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.reuters.com/sports/robot-olympics-ends-with-humanoids-864-second-100m-nearly-second-faster-than-2026-08-26/", "https://theedgemalaysia.com/author/Eduardo%20Baptista"]
+  },
+  {
+    id: "qiaoyi-li", name: "Qiaoyi Li", name_zh: "李乔依/李乔伊（罗马化推测，未权威确认）",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "科技/机器人线记者（头衔未确认）", title_en: "Reporter (tech/robotics)",
+    beat: "报道中国科技与人形机器人产业，包括机器人制造、AI 赋能生产与世界人形机器人运动会。",
+    base: "北京", base_en: "Beijing, China",
+    background: "路透社记者，参与中国科技及人形机器人报道。曾与 Brenda Goh、Eduardo Baptista 合著 “China's AI-powered humanoid robots aim to transform manufacturing”（2025-05-13），并与 Eduardo Baptista、Kevin Krolicki 等合著 “Chinese robot beats Usain Bolt's 100m world record at Beijing games”（2026-08-23）。个人履历公开来源未确认。（注：检索中出现的同名学者非该记者。）",
+    focus: ["科技", "机器人", "AI"],
+    recent: [
+      { t: "Chinese robot beats Usain Bolt's 100m world record at Beijing games", d: "2026-08-23", n: "合著（与 Eduardo Baptista、Kevin Krolicki 等）" },
+      { t: "China Takes Aim at Tesla in Race to Dominate Humanoid Robot Production", d: "2026", n: "与 Kevin Krolicki 合著" },
+      { t: "China's AI-powered humanoid robots aim to transform manufacturing", d: "2025-05-13", n: "" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.fidelity.com/news/article/technology/202608220607RTRSNEWSCOMBINED_KBN3UD05F-OUSSP_1", "https://coingenius.news/china-takes-aim-at-tesla-in-race-to-dominate-humanoid-robot-production-report/"]
+  },
+  {
+    id: "xihao-jiang", name: "Xihao Jiang", name_zh: "蒋希豪（罗马化推测，未权威确认）",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "科技/机器人线记者（头衔未确认）", title_en: "Reporter (tech/robotics)",
+    beat: "报道中国科技与人形机器人产业，包括世界人形机器人运动会与具身智能进展。",
+    base: "北京", base_en: "Beijing, China",
+    background: "路透社驻北京记者，与 Eduardo Baptista 合著 “Robot Olympics ends with humanoid's 8.64-second 100m, nearly a second faster than Bolt”（2026-08-26），归属路透北京分社科技报道团队。个人详细履历公开来源未确认。",
+    focus: ["科技", "机器人", "AI"],
+    recent: [
+      { t: "Robot Olympics ends with humanoid's 8.64-second 100m, nearly a second faster than Bolt", d: "2026-08-26", n: "合著（与 Eduardo Baptista）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.reuters.com/sports/robot-olympics-ends-with-humanoids-864-second-100m-nearly-second-faster-than-2026-08-26/"]
+  },
+  {
+    id: "stanley-widianto", name: "Stanley Widianto", name_zh: "—",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "印尼/东南亚记者（政治记者）", title_en: "Reporter (Indonesia/SE Asia)",
+    beat: "覆盖印尼政治、经济、社会与东南亚事务，包括学生抗议与选举、宏观经济（评级、贸易协议）、自然灾害及中国—印尼关系。",
+    base: "雅加达", base_en: "Jakarta, Indonesia",
+    background: "路透社驻雅加达记者。X 简介标注 “Reporter @Reuters”。报道跨度广：政治（学生抗议、就业法）、灾害（苏门答腊洪灾、列车相撞）、经济（惠誉下调评级展望、美印贸易协议）及外交（中国—印尼 2+2 对话）。世界经济论坛（2021）作者页列其为 “Politics Reporter, Reuters”。",
+    focus: ["东南亚", "印尼", "外交", "宏观经济"],
+    recent: [
+      { t: "China, Indonesia agree to boost military ties, work closer on minerals, energy and tech", d: "2026-08-21", n: "合著（与 Stefanno Sulaiman）" },
+      { t: "Indonesia will restrict access to social media platforms for children under 16", d: "2026-08", n: "" },
+      { t: "Fitch Ratings cuts Indonesia's credit rating outlook to negative", d: "2026-08", n: "" }
+    ],
+    handles: { x: "@stanleywidianto", linkedin: "—", email: "stanley.widianto@thomsonreuters.com" },
+    sources: ["https://cn.weforum.org/stories/authors/stanley-widianto", "https://www.yahoo.com/news/articles/china-indonesia-agree-boost-military-082736617.html"]
+  },
+  {
+    id: "stefanno-sulaiman", name: "Stefanno Sulaiman", name_zh: "—",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "经济记者", title_en: "Economic Correspondent",
+    beat: "覆盖印尼经济、资本市场、银行与企业新闻——印尼证交所（IDX）改革、印尼央行行长任命、宏观经济政策。",
+    base: "雅加达", base_en: "Jakarta, Indonesia",
+    background: "路透社驻雅加达经济记者（全名 Stefanno Reinard Sulaiman）。X 账号 “stivno”，简介 “Economic correspondent at @reuters. Tweets are my own.” 报道资本市场改革（IDX 自由流通股 15% 规则）、央行行长听证（Destry Damayanti），并与 Stanley Widianto 合著中国—印尼外交稿。",
+    focus: ["东南亚", "印尼", "经济", "资本市场"],
+    recent: [
+      { t: "China, Indonesia agree to boost military ties, work closer on minerals, energy and tech", d: "2026-08-21", n: "合著（与 Stanley Widianto）" },
+      { t: "Indonesia's Destry says she will back growth policies if confirmed as central bank chief", d: "2026-08-26", n: "" },
+      { t: "Exclusive-Indonesia bourse to phase in 15% free-float rule", d: "2026-02-27", n: "" }
+    ],
+    handles: { x: "@stivno", linkedin: "—", muckrack: "https://muckrack.com/stefanno-reinard-sulaiman", email: "—" },
+    sources: ["https://muckrack.com/stefanno-reinard-sulaiman", "https://www.yahoo.com/news/articles/china-indonesia-agree-boost-military-082736617.html"]
+  },
+  {
+    id: "sudarshan-varadhan", name: "Sudarshan Varadhan", name_zh: "—",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "亚洲能源记者", title_en: "Asia Energy Correspondent",
+    beat: "报道亚洲能源格局演变——电力供应可靠性与气候应对之间的平衡，重点覆盖可再生能源、煤炭、电网与能源转型，及印度与南亚能源生态。",
+    base: "新加坡", base_en: "Singapore",
+    background: "机械工程本科（Amrita School of Engineering，2008–2012），亚洲新闻学院（Asian College of Journalism）电视新闻学研究生文凭（2012–2013）。约 2013 年以班加罗尔突发新闻团队身份加入路透，2016 年调往新德里转全职能源记者，从煤炭扩展至可再生能源与能源转型。在路透任职约十余年。",
+    focus: ["能源", "可再生能源", "电网", "气候"],
+    recent: [
+      { t: "China leads wave of clean power wastage as grids globally hit limits", d: "2026-08-17", n: "合著（与 Colleen Howe）；中国 H1 弃风弃光 360 TWh" },
+      { t: "Adani deal under bribery scrutiny was approved against officials' advice", d: "2024", n: "阿达尼可再生能源合同审批调查" },
+      { t: "Asia's renewables can't stand the heat", d: "2023-06-30", n: "World Economic Forum Agenda" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.reuters.com/business/energy/china-leads-wave-clean-power-wastage-grids-globally-hit-limits-2026-08-17/", "https://www.weforum.org/stories/authors/sudarshan-varadhan/"]
+  },
+  {
+    id: "colleen-howe", name: "Colleen Howe", name_zh: "侯可琳（二手来源，存疑）",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "中国能源记者", title_en: "China Energy Correspondent",
+    beat: "覆盖中国能源与大宗商品（能源、电力、可再生能源、多晶硅/太阳能产业链及能源政策），关注市场敏感型能源议题。",
+    base: "北京", base_en: "Beijing, China",
+    background: "公开履历（来源为二手中文行业叙述，未完全独立核实）显示：早年曾在 Argus Media 从事能源与大宗商品写作，后至香港 Asia Business Council 任项目经理，之后回到路透常驻北京任中国能源记者。教育背景公开来源未确认。（中文名与早期履历建议标注存疑使用。）",
+    focus: ["能源", "大宗商品", "太阳能", "电力"],
+    recent: [
+      { t: "China leads wave of clean power wastage as grids globally hit limits", d: "2026-08-17", n: "合著（与 Sudarshan Varadhan）；中国 H1 弃风弃光 360 TWh" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.reuters.com/business/energy/china-leads-wave-clean-power-wastage-grids-globally-hit-limits-2026-08-17/"]
+  },
+  {
+    id: "kevin-krolicki", name: "Kevin Krolicki", name_zh: "—",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "亚洲新闻编辑", title_en: "Asia News Editor / Regional Editor, Asia",
+    beat: "统领路透亚洲新闻报道与编辑方向；亦以“writing by”身份就中国科技/产业政策战略议题撰写分析性稿件。资深编辑兼记者，覆盖商业、汽车、日本及亚太宏观。",
+    base: "新加坡", base_en: "Singapore",
+    background: "2017 年起由华盛顿调任新加坡任亚洲编辑；曾任 Americas Regional Editor（2016–2017）及华盛顿分社社长（2015–2016）。哈佛本科，密歇根大学新闻学硕士，精通日语。早年在 Knight Ridder/Bridge News 任市场与宏观经济政策记者六年，1995 年任东京分社社长并创立“Tankan”调查；1996 年加入路透。2013 年获评“路透年度编辑”。",
+    focus: ["亚太", "编辑", "产业政策", "科技"],
+    recent: [
+      { t: "From science fair to strategic showcase: a decade of China's robot games", d: "2026-08-24", n: "writing by Kevin Krolicki；中国人形机器人运动会从科普展演到国家战略展示" },
+      { t: "Chinese robots beat Usain Bolt's 100m world record at Beijing games", d: "2026-08-23", n: "合著（与 Eduardo Baptista、Qiaoyi Li、Ellen Zhang 等）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.n3con.com/2020/speaker/kevin-krolicki", "https://talkingbiznews.com/they-talk-biz-news/reuters-names-krolicki-its-dc-bureau-chief/"]
+  },
+  {
+    id: "simbarashe-gumbo", name: "Simbarashe Gumbo", name_zh: "—",
+    org: "Bloomberg", org_unit: "Bloomberg Intelligence", role: "analyst",
+    title: "彭博行业研究分析师（奢侈品/消费）", title_en: "Bloomberg Intelligence Analyst (Luxury/Consumer)",
+    beat: "聚焦欧洲奢侈品行业与中国市场需求，跟踪 LVMH、Kering、Hermès、Burberry、Richemont、Pandora、Moncler 等头部品牌的销售趋势、区域表现与中国消费复苏。",
+    base: "未确认（BI 奢侈品/消费研究多驻伦敦）", base_en: "—",
+    background: "彭博行业研究（Bloomberg Intelligence）分析师，与 Laurent Douillet 长期就该领域联合署名；研究以欧洲奢侈品巨头对华敞口与中国消费情绪为核心主题。公开传记信息有限。",
+    focus: ["奢侈品", "消费", "中国需求"],
+    recent: [
+      { t: "Europe's Luxury Giants Discern Green Shoots in Key China Market", d: "2026-08-23", n: "合著（与 Laurent Douillet）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.bloomberg.com/news/articles/2026-08-23/europe-s-luxury-giants-discern-green-shoots-in-key-china-market"]
+  },
+  {
+    id: "laurent-douillet", name: "Laurent Douillet", name_zh: "杜耶（非标准通用译名，未确认）",
+    org: "Bloomberg", org_unit: "Bloomberg Intelligence", role: "analyst",
+    title: "资深股票策略师 / 全球股票策略团队负责人", title_en: "Senior Equity Strategist / Global Equity Strategy Team Leader",
+    beat: "专攻欧洲股票市场与全球股票策略，覆盖欧洲科技、商业服务及泛消费/奢侈品股权领域；为 BI 股票策略与行业研究提供自上而下视角。",
+    base: "巴黎", base_en: "Paris, France",
+    background: "约 27 年全球股票市场经验。2015 年 5 月加入彭博；此前 2010–2015 年任 Lazard Asset Management 全球（除美国外）科技行业股票分析师与组合经理，1999–2009 年任 AllianceBernstein 欧洲科技与商业服务行业股票分析师/组合经理，早年（1996–1998）任 Lehman Brothers 电信服务与设备分析师。宾夕法尼亚大学沃顿商学院 MBA（会计与金融）。",
+    focus: ["股票策略", "欧洲市场", "奢侈品", "消费"],
+    recent: [
+      { t: "Europe's Luxury Giants Discern Green Shoots in Key China Market", d: "2026-08-23", n: "合著（与 Simbarashe Gumbo）" },
+      { t: "Navigating Concentration & Geopolitical Risk in Equity Markets", d: "2026", n: "2026 股票展望网络研讨会主讲" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://go.bloomberg.com/attend/?p=164939", "https://www.bloomberg.com/news/articles/2026-08-23/europe-s-luxury-giants-discern-green-shoots-in-key-china-market"]
+  },
+  {
+    id: "chang-shu", name: "Chang Shu", name_zh: "舒畅",
+    org: "Bloomberg", org_unit: "Bloomberg Economics", role: "economist",
+    title: "彭博亚太区首席经济学家", title_en: "Chief Asia Economist, Bloomberg Economics",
+    beat: "领导团队研究中国、日本、澳大利亚等亚太主要经济体；重点覆盖中国经济、人民币国际化、中国经济的金融溢出效应及宏观政策。",
+    base: "香港", base_en: "Hong Kong",
+    background: "英国伯明翰大学金融学博士。加入彭博前，曾任国际清算银行（BIS）与香港金融管理局（HKMA）高级经济学家，深度研究全球经济与中国经济、并参与人民币国际化政策工作；更早前任职英格兰银行（Bank of England）。现任香港中国金融协会理事。曾主编《Currency Internationalisation: Global Experiences and Implications for the Renminbi》与《Cross-border Financial Linkages in Asia and the Pacific》。",
+    focus: ["宏观经济", "中国经济", "人民币", "货币政策"],
+    recent: [
+      { t: "China's economic growth fell further below Beijing's annual target", d: "2026-08", n: "合著（与 David Qu）" },
+      { t: "中国洞察：'科技股看跌期权'——作为政策工具的用途与局限", d: "2026-07-22", n: "与 David Qu 合著" },
+      { t: "中美关税影响测算", d: "2026", n: "初始 10% 关税影响有限；若升至 60% 将使中国对美出口减近 80%、中期拖累 GDP 约 2.3%" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "cshu21@bloomberg.net" },
+    sources: ["https://www.bloomberg.com/professional/?p=117834", "https://professional.content.cirrus.bloomberg.com/professional2023/insights/webinar/the-china-outlook-understanding-the-economic-and-consumer-landscape"]
+  },
+  {
+    id: "david-qu", name: "David Qu", name_zh: "曲天石",
+    org: "Bloomberg", org_unit: "Bloomberg Economics", role: "economist",
+    title: "彭博亚太区高级经济学家（覆盖中国）", title_en: "Senior Economist, Asia Pacific (China)",
+    beat: "覆盖中国经济与金融市场，聚焦货币政策、利率、房地产与中美贸易/关税对中国增长的外溢影响。",
+    base: "香港", base_en: "Hong Kong",
+    background: "加入彭博前任职澳新银行（ANZ）研究经济与金融市场；更早前在中国人民银行（PBOC）有 8 年工作经验，曾任 PBOC 金融稳定局副处长（2015 年 ANZ 招聘新闻披露），参与《2013 年中国金融稳定报告》等研究。彭博中文 2025 年活动资料称其为“彭博亚太区高级经济学家”。",
+    focus: ["宏观经济", "中国经济", "货币政策", "房地产", "关税"],
+    recent: [
+      { t: "China's economic growth fell further below Beijing's annual target", d: "2026-08", n: "合著（与 Chang Shu）" },
+      { t: "中国洞察：'科技股看跌期权'——作为政策工具的用途与局限", d: "2026-07-22", n: "与 Chang Shu 合著" },
+      { t: "中美关税影响测算", d: "2026", n: "与 Chang Shu、Eric Zhu 合著" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "tqu7@bloomberg.net" },
+    sources: ["https://www.financeasia.com/article/anz-hires-china-rates-strategist-from-pboc/394956", "https://www.anz.com.au/newsroom/media/2015/03/anz-continues-expansion-of-financial-markets-research-with-appoi"]
+  }
+];
