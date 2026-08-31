@@ -1,5 +1,5 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-08-28T12:58:18+08:00",
+  "generated_at": "2026-08-31T11:29:02+08:00",
   "latest_questions_day": "2026-08-27",
   "days": {
     "2026-08-27": {
@@ -623,9 +623,12 @@ window.__XFS_DATA__ = {
           "title_zh": "日本计划建设绕开霍尔木兹的输油管道，凸显亚洲能源安全焦虑",
           "published_at": "2026-08-27",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Kanoko Matsuyama",
+            "Akemi Terukina"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "能源安全",
             "霍尔木兹",
@@ -1152,9 +1155,11 @@ window.__XFS_DATA__ = {
           "title_zh": "美国新一轮对伊制裁波及中国内地与香港实体，但避开大型中资银行",
           "published_at": "2026-08-26",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Jui Chakravorty"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "伊朗",
             "二级制裁",
@@ -1378,9 +1383,11 @@ window.__XFS_DATA__ = {
           "title_zh": "Shein 股东据悉同意新股上市六个月锁定期",
           "published_at": "2026-08-26",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Julia Fioretti"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中概股",
             "IPO",
@@ -3620,9 +3627,12 @@ window.__XFS_DATA__ = {
           "title_zh": "高盛：中国经济增长进一步低于全年目标",
           "published_at": "2026-08-23",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Chang Shu",
+            "David Qu"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "经贸"
           ],
@@ -3647,9 +3657,12 @@ window.__XFS_DATA__ = {
           "title_zh": "恒大450亿美元债权人追偿之路更趋复杂",
           "published_at": "2026-08-23",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Pearl Liu",
+            "Trista Xinyi Luo"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "经贸"
           ],
@@ -3763,9 +3776,12 @@ window.__XFS_DATA__ = {
           "title_zh": "路透：2026年上半年中国弃风弃光达360TWh，电网瓶颈致消纳受限",
           "published_at": "2026-08-23",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Sudarshan Varadhan",
+            "Colleen Howe"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "能源"
           ],
@@ -3848,9 +3864,14 @@ window.__XFS_DATA__ = {
           "title_zh": "中国人形机器人运动会成'战略秀场'，产业估值飙升",
           "published_at": "2026-08-23",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Kevin Krolicki",
+            "Eduardo Baptista",
+            "Xihao Jiang",
+            "Qiaoyi Li"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "科技"
           ],
@@ -3875,9 +3896,12 @@ window.__XFS_DATA__ = {
           "title_zh": "欧洲奢侈品巨头在中国关键市场看到复苏'绿芽'",
           "published_at": "2026-08-23",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Simbarashe Gumbo",
+            "Laurent Douillet"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "消费",
             "经贸"
@@ -3903,9 +3927,13 @@ window.__XFS_DATA__ = {
           "title_zh": "阿里拟配售募资约102亿美元投入AI扩张",
           "published_at": "2026-08-23",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Julia Fioretti",
+            "Dave Sebastian",
+            "Luz Ding"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "科技",
             "经贸"
@@ -4041,9 +4069,11 @@ window.__XFS_DATA__ = {
           "title_zh": "神秘AI模型Ox Alpha免费上线，吸引开发者涌入",
           "published_at": "2026-08-23",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Sohee Kim"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "科技"
           ],
@@ -4438,9 +4468,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中国AI模型凭成本与可用性抢占市场",
           "published_at": "2026-08-22",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Luz Ding"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "AI",
             "科技竞争",
@@ -4509,9 +4541,13 @@ window.__XFS_DATA__ = {
           "title_zh": "美国在AI竞赛中的领先优势正快速缩小",
           "published_at": "2026-08-22",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Luz Ding",
+            "Spe Chen",
+            "Hayley Warren"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "AI",
             "科技竞争",
@@ -4580,9 +4616,12 @@ window.__XFS_DATA__ = {
           "title_zh": "中国人形机器人百米跑速超越博尔特世界纪录",
           "published_at": "2026-08-22",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Eduardo Baptista",
+            "Qiaoyi Li"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "机器人",
             "科技",
@@ -4655,9 +4694,12 @@ window.__XFS_DATA__ = {
           "title_zh": "中国与印尼同意深化安全、矿产与科技战略合作",
           "published_at": "2026-08-22",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Stanley Widianto",
+            "Stefanno Sulaiman"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "外交",
             "一带一路",
@@ -5069,9 +5111,12 @@ window.__XFS_DATA__ = {
           "title_zh": "极端天气推升农产品价格，威胁对华贸易",
           "published_at": "2026-08-21",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Michael Hirtzer",
+            "Erin Ailworth"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "农产品",
             "贸易",
@@ -5266,7 +5311,7 @@ window.__XFS_DATA__ = {
       "coverage": {
         "reuters": {
           "captured": 6,
-          "with_author": 1,
+          "with_author": 4,
           "with_fulltext": 0,
           "note": "通道A直连失败(reuters.com 与 reuters.mobi 均返回 JS 墙 / fetch failed)；已走通道C(WebSearch 多组关键词)与通道D(时间限定)兜底，并经镜像转载(Investing.com、腾讯、凤凰等)补全标题、URL与摘要。仅离岸信托报道取得真实署名(Summer Zhen/Selena Li/Xinghui Kok)，其余因原页不可达 authors_status=not_available。付费墙/JS限制导致 with_fulltext=0，body_available 统一置 false。"
         },
@@ -5444,9 +5489,11 @@ window.__XFS_DATA__ = {
           "title_zh": "调查｜美国军费如何“造就”中国机器狗",
           "published_at": "2026-08-19",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Michael Martina"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "机器人",
             "技术转移",
@@ -5471,9 +5518,9 @@ window.__XFS_DATA__ = {
           "is_negative": true,
           "deep_analysis": "",
           "provenance": {
-            "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与中文镜像(腾讯、凤凰)补全要点",
+            "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与中文镜像(腾讯、凤凰)补全要点，ima.qq.com 确认署名",
             "evidence_url": "https://news.qq.com/rain/a/20260820A04H9Q00",
-            "evidence_note": "原页不可达，署名未确认(authors_status=not_available)；关键事实(1600美元、60%份额、90亿美元估值、Mini Cheetah)来自镜像转载与路透调查汇总。"
+            "evidence_note": "byline Michael Martina（ima.qq.com 转载确认）；关键事实(1600美元、60%份额、90亿美元估值、Mini Cheetah)来自镜像转载与路透调查汇总。"
           }
         },
         {
@@ -5564,9 +5611,11 @@ window.__XFS_DATA__ = {
           "title_zh": "特朗普家族加密公司合作的平台提供受限中企AI模型",
           "published_at": "2026-08-17",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Lawrence Delevingne"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美科技竞争",
             "AI",
@@ -5595,9 +5644,9 @@ window.__XFS_DATA__ = {
           "is_negative": false,
           "deep_analysis": "",
           "provenance": {
-            "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与镜像转载(finwire/侨报/长桥)补全",
+            "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与镜像转载(finwire/侨报/长桥)补全署名",
             "evidence_url": "https://finwire.io/news/economy-news/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies",
-            "evidence_note": "原页不可达，署名未确认；43/90模型、受限中企名单等关键事实来自转载全文。"
+            "evidence_note": "Reporting by Lawrence Delevingne（Fidelity/IndianExpress 转载确认）；43/90模型、受限中企名单等关键事实来自转载全文。"
           }
         },
         {
@@ -5608,9 +5657,12 @@ window.__XFS_DATA__ = {
           "title_zh": "中国7月工业增加值放缓，零售销售逊于预期",
           "published_at": "2026-08-17",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Kevin Yao",
+            "Ethan Wang"
+          ],
+          "author_locations": "北京",
+          "authors_status": "named",
           "topics": [
             "中国经济",
             "宏观数据",
@@ -5632,9 +5684,9 @@ window.__XFS_DATA__ = {
           "is_negative": true,
           "deep_analysis": "",
           "provenance": {
-            "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得原页URL与标题",
+            "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得原页URL与标题，particle.news 转载确认署名",
             "evidence_url": "https://www.reuters.com/world/china/chinas-industrial-output-slows-july-retail-sales-miss-forecasts-2026-08-17/",
-            "evidence_note": "原页JS拦截，仅确认标题与URL，摘要基于检索上下文综合。"
+            "evidence_note": "byline Kevin Yao & Ethan Wang（particle.news 转载确认）；摘要基于检索上下文综合。"
           }
         },
         {
@@ -5856,7 +5908,7 @@ window.__XFS_DATA__ = {
       "coverage": {
         "reuters": {
           "captured": 13,
-          "with_author": 12,
+          "with_author": 13,
           "with_fulltext": 0,
           "note": "通道A成功(WebFetch reuters.com/world/china/ 首页直取13条真实URL)；通道C(WebSearch 多组关键词)成功补漏与交叉验证；数篇正文因JS拦截经转载源(Yahoo/经济时报/Euronext等)补全署名与摘要。付费墙/JS限制导致 with_fulltext=0，body_available 统一置 false。'China robot makers seek to turn humanoid hype into useful work' 原页JS拦截且转载源无真实署名，authors_status=not_available。"
         },
@@ -6364,9 +6416,13 @@ window.__XFS_DATA__ = {
           "title_zh": "中国机器人厂商力求将人形机器人热潮转化为实际生产力",
           "published_at": "2026-08-19",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Ju-min Park",
+            "Laurie Chen",
+            "Eduardo Baptista"
+          ],
+          "author_locations": "北京",
+          "authors_status": "named",
           "topics": [
             "人形机器人",
             "人工智能",
@@ -6390,9 +6446,9 @@ window.__XFS_DATA__ = {
           "is_negative": false,
           "deep_analysis": "",
           "provenance": {
-            "retrieved_via": "通道A原页JS拦截；转经转载源(rallies.ai、经济时报)补全摘要与关键数字；原页无可见真实署名，authors_status=not_available",
-            "evidence_url": "https://rallies.ai/news/china-robot-makers-seek-to-turn-humanoid-hype-into-useful-work-65eb442a71a478d2",
-            "evidence_note": "300余家企业、2000余展品、宇树超额认购8000倍、摩根士丹利65%非生产用途等来自转载源对路透报道的复述。"
+            "retrieved_via": "通道A原页JS拦截；转经转载源(ima.qq.com / Fidelity)补全署名",
+            "evidence_url": "https://ima.qq.com/article/china-robot-makers-seek-to-turn-humanoid-hype-into-useful-work",
+            "evidence_note": "byline Ju-min Park, Laurie Chen and Eduardo Baptista（转载源确认）；300余家企业、2000余展品等数字来自转载源对路透报道的复述。"
           }
         },
         {
@@ -7583,7 +7639,7 @@ window.__XFS_DATA__ = {
       "coverage": {
         "reuters": {
           "captured": 7,
-          "with_author": 3,
+          "with_author": 4,
           "with_fulltext": 0,
           "note": "通道A 路透中国栏目直连受本机网络限制未通，转 WebSearch 多组关键词经 MarketScreener/AOL/Yahoo/Business Standard 等转载源补全署名与摘要。经济数据、王毅访韩、美台贸易倡议三篇取得真实署名（Kevin Yao/Ethan Wang、Kyu-seok Shim、Ben Blanchard），其余数据稿未具名。with_fulltext=0（JS墙拦截）。"
         },
@@ -7684,9 +7740,12 @@ window.__XFS_DATA__ = {
           "title_zh": "中国 7 月新增人民币贷款创纪录收缩，信贷需求疲弱",
           "published_at": "2026-08-18",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Kevin Yao",
+            "Shi Bu"
+          ],
+          "author_locations": "北京",
+          "authors_status": "named",
           "topics": [
             "中国金融",
             "信贷",
@@ -7709,9 +7768,9 @@ window.__XFS_DATA__ = {
           "is_negative": true,
           "deep_analysis": "核心事实：7 月新增贷款净减 3400 亿（史上最大单月降幅），居民与企业双双去杠杆，社融/M2 增速走低。研判：信贷需求疲弱折射内需与地产迟迟未稳，传统货币宽松边际效用递减，政策天平更倾向「加快已批基建财政投放」而非大幅降息；后续关注企业中长贷与居民中长贷（房贷）能否企稳。",
           "provenance": {
-            "retrieved_via": "通道C（WebSearch 引号标题补全）",
-            "evidence_url": "https://www.business-standard.com/world-news/china-july-bank-loans-post-record-contraction-as-credit-demand-falters-126081401360_1.html",
-            "evidence_note": "Reuters 测算，基于 PBOC 8/18 数据"
+            "retrieved_via": "通道C（WebSearch 引号标题补全署名）",
+            "evidence_url": "https://theedgemalaysia.com/world-news/china-july-bank-loans-post-record-contraction-as-credit-demand-falters",
+            "evidence_note": "Reuters 8/18；byline Kevin Yao & Shi Bu（The Edge Malaysia / wqxc.com 转载 corroborated）"
           }
         },
         {
@@ -8322,9 +8381,13 @@ window.__XFS_DATA__ = {
           "title_zh": "中国7月新房价格低迷，需求持续疲弱",
           "published_at": "2026-08-17",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Liangping Gao",
+            "Yukun Zhang",
+            "Ryan Woo"
+          ],
           "author_locations": "北京",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中国房地产",
             "房价",
@@ -8641,9 +8704,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中国7月再度出手囤油，令油市意外",
           "published_at": "2026-08-17",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "北京/新加坡",
-          "authors_status": "not_available",
+          "authors": [
+            "Clyde Russell"
+          ],
+          "author_locations": "澳大利亚朗塞斯顿",
+          "authors_status": "named",
           "topics": [
             "原油",
             "战略储备",
@@ -8679,9 +8744,12 @@ window.__XFS_DATA__ = {
           "title_zh": "中国领跑全球清洁电力浪费，电网消纳瓶颈凸显",
           "published_at": "2026-08-17",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "北京",
-          "authors_status": "not_available",
+          "authors": [
+            "Colleen Howe",
+            "Sudarshan Varadhan"
+          ],
+          "author_locations": "北京/新加坡",
+          "authors_status": "named",
           "topics": [
             "新能源",
             "弃风弃光",
@@ -9647,9 +9715,12 @@ window.__XFS_DATA__ = {
           "title_zh": "英伟达供应商胜宏科技扩大港股IPO至202亿港元",
           "published_at": "2026-08-15",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Donny Kwok",
+            "Yantoultra Ngui"
+          ],
           "author_locations": "中国香港",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "港股",
             "IPO",
@@ -9687,9 +9758,13 @@ window.__XFS_DATA__ = {
           "title_zh": "习近平就防汛救灾作出指示：提升防灾减灾能力",
           "published_at": "2026-08-15",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Ziyi Tang",
+            "Xiangming Hou",
+            "Ryan Woo"
+          ],
           "author_locations": "北京",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "防灾减灾",
             "自然灾害",
@@ -9725,9 +9800,11 @@ window.__XFS_DATA__ = {
           "title_zh": "菲律宾防长驳斥中方批评，称中方回应是'鱿鱼战术'",
           "published_at": "2026-08-15",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Karen Lema"
+          ],
           "author_locations": "马尼拉",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "南海",
             "中菲关系",
@@ -9762,9 +9839,13 @@ window.__XFS_DATA__ = {
           "title_zh": "日本防相参拜靖国神社，中韩谴责",
           "published_at": "2026-08-15",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Sam Nussey",
+            "Ziyi Tang",
+            "Joyce Lee"
+          ],
           "author_locations": "东京",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中日关系",
             "靖国神社",
@@ -9800,9 +9881,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中国台湾在久拖之后通过年度预算，含无人机支出",
           "published_at": "2026-08-15",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Ben Blanchard"
+          ],
           "author_locations": "台北",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中国台湾",
             "防务预算",
@@ -10146,9 +10229,13 @@ window.__XFS_DATA__ = {
           "title_zh": "菲律宾总统马科斯称'重置'对华关系意味着缓和紧张",
           "published_at": "2026-08-14",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Karen Lema",
+            "Mikhail Flores",
+            "Nestor Corrales"
+          ],
           "author_locations": "马尼拉",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "南海",
             "中菲关系",
@@ -10368,9 +10455,13 @@ window.__XFS_DATA__ = {
           "title_zh": "中国汽车内销连续10个月下滑、出口暴涨，海外成新增长极",
           "published_at": "2026-08-14",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Qiaoyi Li",
+            "Zhang Yan",
+            "Ju-min Park"
+          ],
           "author_locations": "北京",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中国汽车",
             "出口",
@@ -10566,9 +10657,13 @@ window.__XFS_DATA__ = {
           "title_zh": "菲律宾总统小马科斯称尽管南海争端，仍可与华开展经济合作",
           "published_at": "2026-08-14",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Karen Lema",
+            "Mikhail Flores",
+            "Nestor Corrales"
+          ],
           "author_locations": "马尼拉",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "南海",
             "中菲关系",
@@ -11646,9 +11741,12 @@ window.__XFS_DATA__ = {
           "title_zh": "联想杨元庆：个人AI装置将成为PC需求主要驱动力，下半年营收仍增",
           "published_at": "2026-08-13",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Laurie Chen",
+            "Sneha Kumar"
+          ],
           "author_locations": "北京/中国香港",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "联想",
             "杨元庆",
@@ -12196,9 +12294,11 @@ window.__XFS_DATA__ = {
           "title_zh": "外资7月连续第九个月净卖出亚洲股票，中国台湾地区与韩国遭集中抛售",
           "published_at": "2026-08-12",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Gaurav Dogra"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "资本市场",
             "外资流出",
@@ -12234,9 +12334,11 @@ window.__XFS_DATA__ = {
           "title_zh": "上半年中国人形机器人占全球出货97%，智元超越宇树登顶",
           "published_at": "2026-08-12",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Saritha Rai"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "人形机器人",
             "智元",
@@ -12432,9 +12534,12 @@ window.__XFS_DATA__ = {
           "title_zh": "中国与印尼海军将在中国台湾地区以东敏感海域举行通航演练",
           "published_at": "2026-08-11",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Stanley Widianto",
+            "Ben Blanchard"
+          ],
           "author_locations": "北京",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "台海",
             "中国印尼",
@@ -12596,9 +12701,11 @@ window.__XFS_DATA__ = {
           "title_zh": "洲际酒店集团二季度客房收入增速放缓，中东下滑抵消美国与中国增长",
           "published_at": "2026-08-11",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Prerna Bedi"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "酒店",
             "消费",
@@ -12633,9 +12740,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中国7月原油进口回升至日均841万桶，仍同比降24.3%",
           "published_at": "2026-08-11",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Clyde Russell"
+          ],
           "author_locations": "北京",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "原油",
             "进口",
@@ -13024,9 +13133,12 @@ window.__XFS_DATA__ = {
           "title_zh": "宇树科技科创板IPO受热捧，发行价150.8元/股、募资约61亿元",
           "published_at": "2026-08-10",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Ethan Wang",
+            "Ryan Woo"
+          ],
           "author_locations": "上海",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "人形机器人",
             "科创板",
@@ -13668,9 +13780,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中国长征七号改火箭飞行异常，中星4B通信卫星发射失利",
           "published_at": "2026-08-10",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Eduardo Baptista"
+          ],
           "author_locations": "文昌/北京",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "航天",
             "长征火箭",
@@ -13792,9 +13906,14 @@ window.__XFS_DATA__ = {
           "title_zh": "台风'海豚'登陆中国东部沿海，逾百万人撤离",
           "published_at": "2026-08-10",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Kevin Yao",
+            "Shuyan Wang",
+            "Nicoco Chan",
+            "Eduardo Baptista"
+          ],
           "author_locations": "北京/上海",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "台风",
             "自然灾害",
@@ -14029,9 +14148,11 @@ window.__XFS_DATA__ = {
           "title_zh": "美副防长称美国不会退出亚洲，寻求'伙伴而非附庸'",
           "published_at": "2026-08-10",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Karen Lema"
+          ],
           "author_locations": "马尼拉",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美博弈",
             "印太",
@@ -14554,9 +14675,12 @@ window.__XFS_DATA__ = {
           "title_zh": "台积电芯片现身华为AI处理器，中国台湾企业面临逾10亿美元美方罚款风险",
           "published_at": "2026-08-09",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Karen Freifeld",
+            "Fanny Potkin"
+          ],
           "author_locations": "台北/华盛顿",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中国台湾",
             "半导体",
@@ -14679,9 +14803,13 @@ window.__XFS_DATA__ = {
           "title_zh": "美开始向英伟达发放H20输华出口许可，AI芯片管制现松动",
           "published_at": "2026-08-09",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Karen Freifeld",
+            "Arsheeya Bajwa",
+            "Max A. Cherney"
+          ],
           "author_locations": "华盛顿/北京",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美科技",
             "半导体",
@@ -15210,9 +15338,12 @@ window.__XFS_DATA__ = {
           "title_zh": "美国联邦法官叫停五角大楼将药明康德列为'涉军'企业的做法",
           "published_at": "2026-08-08",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "David Shepardson",
+            "Mike Scarcella"
+          ],
           "author_locations": "华盛顿",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "药明康德",
             "中美科技",
@@ -15284,9 +15415,12 @@ window.__XFS_DATA__ = {
           "title_zh": "药明康德获暂时豁免，免于被贴上'涉华军事'标签",
           "published_at": "2026-08-08",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Amber Tong",
+            "Sangmi Cha"
+          ],
           "author_locations": "华盛顿",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "药明康德",
             "生物科技",
@@ -15519,9 +15653,13 @@ window.__XFS_DATA__ = {
           "title_zh": "中国黄金储备增持速度为 2023 年 10 月以来最快",
           "published_at": "2026-08-07",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Qiaoyi Li",
+            "Liz Lee",
+            "Dylan Duan"
+          ],
           "author_locations": "北京/上海",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "黄金储备",
             "央行",
@@ -15631,9 +15769,11 @@ window.__XFS_DATA__ = {
           "title_zh": "彭博：美国多晶硅关税只会进一步巩固中国光伏供应链优势",
           "published_at": "2026-08-07",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "David Fickling"
+          ],
           "author_locations": "华盛顿/北京",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "多晶硅",
             "关税",
@@ -15815,9 +15955,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中国对 Palo Alto Networks 产品启动网络安全审查",
           "published_at": "2026-08-06",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Eduardo Baptista"
+          ],
           "author_locations": "北京",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "网络安全审查",
             "CAC",
@@ -16092,9 +16234,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中国西北强降雨洪灾，数千人疏散",
           "published_at": "2026-08-07",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Farah Master"
+          ],
+          "author_locations": "Hong Kong",
+          "authors_status": "named",
           "topics": [
             "自然灾害",
             "陕西洪灾",
@@ -16195,9 +16339,11 @@ window.__XFS_DATA__ = {
           "title_zh": "美国审视中国经离岸渠道获取英伟达芯片的路径",
           "published_at": "2026-08-07",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Mackenzie Hawkins"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "半导体",
             "出口管制",
@@ -16303,9 +16449,11 @@ window.__XFS_DATA__ = {
           "title_zh": "印度称与中国的会谈强调边境和平对改善关系至关重要",
           "published_at": "2026-08-07",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Hritam Mukherjee"
+          ],
+          "author_locations": "New Delhi",
+          "authors_status": "named",
           "topics": [
             "中印关系",
             "边境",
@@ -16341,9 +16489,11 @@ window.__XFS_DATA__ = {
           "title_zh": "印度拟推多晶硅生产激励，减少对华依赖",
           "published_at": "2026-08-07",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Sethuraman N R"
+          ],
+          "author_locations": "New Delhi",
+          "authors_status": "named",
           "topics": [
             "印度",
             "多晶硅",
@@ -16378,9 +16528,12 @@ window.__XFS_DATA__ = {
           "title_zh": "中国台湾在年度演习中紧急升空法制战机，演练快速转场",
           "published_at": "2026-08-07",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Yi-Chin Lee",
+            "Ann Wang"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中国台湾",
             "汉光演习",
@@ -16415,9 +16568,11 @@ window.__XFS_DATA__ = {
           "title_zh": "太平洋岛国部长未能就中国导弹问题达成联合回应",
           "published_at": "2026-08-07",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Lucy Craymer"
+          ],
+          "author_locations": "Suva",
+          "authors_status": "named",
           "topics": [
             "太平洋岛国",
             "中国导弹",
@@ -16495,9 +16650,12 @@ window.__XFS_DATA__ = {
           "title_zh": "中国驻阿根廷使馆指责美国阻挠合作",
           "published_at": "2026-08-07",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Agustin Marcarian",
+            "Lucinda Elliott"
+          ],
+          "author_locations": "Buenos Aires",
+          "authors_status": "named",
           "topics": [
             "中阿合作",
             "华为",
@@ -16576,9 +16734,11 @@ window.__XFS_DATA__ = {
           "title_zh": "印度要求中国分享河流数据，藏南超级大坝引担忧",
           "published_at": "2026-08-07",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Sudhi Ranjan Sen"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中印关系",
             "跨境河流",
@@ -16642,9 +16802,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中国香港标志性茶餐厅走向全球",
           "published_at": "2026-08-07",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Mary Hui"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中国香港",
             "餐饮",
@@ -16675,9 +16837,11 @@ window.__XFS_DATA__ = {
           "title_zh": "《Zero》谈伊朗战争：揭示中国手握新“石油武器”",
           "published_at": "2026-08-05",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Akshat Rathi"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "能源",
             "中东",
@@ -16740,9 +16904,12 @@ window.__XFS_DATA__ = {
           "title_zh": "中国微短剧风靡全球，AI 压低制作成本",
           "published_at": "2026-07-31",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Yang Yang",
+            "Sohee Kim"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "文化输出",
             "微短剧"
@@ -16846,9 +17013,11 @@ window.__XFS_DATA__ = {
           "title_zh": "路透独家：在Patel任内，FBI与中国、俄罗斯建立前所未有的执法合作关系",
           "published_at": "2026-08-06",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Jana Winter"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美关系",
             "执法合作",
@@ -16907,9 +17076,12 @@ window.__XFS_DATA__ = {
           "title_zh": "金与正就日本试射美制战斧巡航导弹警告将采取「额外军事选项」",
           "published_at": "2026-08-06",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Heejin Kim",
+            "Kyu-seok Shim"
+          ],
+          "author_locations": "首尔",
+          "authors_status": "named",
           "topics": [
             "朝鲜",
             "中日关系",
@@ -16976,9 +17148,11 @@ window.__XFS_DATA__ = {
           "title_zh": "亚太股市因科技股回调走软，伊朗和谈前景下油价持稳",
           "published_at": "2026-08-06",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Satoshi Sugiyama"
+          ],
+          "author_locations": "东京",
+          "authors_status": "named",
           "topics": [
             "全球市场",
             "原油",
@@ -17037,9 +17211,11 @@ window.__XFS_DATA__ = {
           "title_zh": "AI需求拉动鸿海7月营收创单月历史新高",
           "published_at": "2026-08-06",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Ben Blanchard"
+          ],
+          "author_locations": "台北",
+          "authors_status": "named",
           "topics": [
             "科技制造",
             "AI需求",
@@ -17068,9 +17244,13 @@ window.__XFS_DATA__ = {
           "title_zh": "通用汽车与上汽续签中国合资协议20年",
           "published_at": "2026-08-06",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Kalea Hall",
+            "Zhang Yan",
+            "Qiaoyi Li"
+          ],
+          "author_locations": "底特律 / 上海 / 北京",
+          "authors_status": "named",
           "topics": [
             "汽车",
             "中外合资",
@@ -17421,9 +17601,11 @@ window.__XFS_DATA__ = {
           "title_zh": "路透独家：美国FCC拟禁止进口中国新型数据中心光收发模块",
           "published_at": "2026-08-04",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Alexandra Alper"
+          ],
+          "author_locations": "华盛顿",
+          "authors_status": "named",
           "topics": [
             "中美科技竞争",
             "半导体",
@@ -18097,9 +18279,12 @@ window.__XFS_DATA__ = {
           "title_zh": "大众汽车的飞行汽车梦如何在中国折戟",
           "published_at": "2026-08-01",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Ju-min Park",
+            "Claire Fu"
+          ],
+          "author_locations": "北京",
+          "authors_status": "named",
           "topics": [
             "企业动态",
             "外资在华"
@@ -18204,9 +18389,12 @@ window.__XFS_DATA__ = {
           "title_zh": "中国海警在中国台湾以东海域巡逻，引发台方反应",
           "published_at": "2026-07-31",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Liz Lee",
+            "Yimou Lee"
+          ],
+          "author_locations": "北京 / 台北",
+          "authors_status": "named",
           "topics": [
             "涉台议题",
             "军事安全"
@@ -18338,9 +18526,13 @@ window.__XFS_DATA__ = {
           "title_zh": "特斯拉中国业务：这家电动车制造商的全球生产引擎",
           "published_at": "2026-07-31",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Zhang Yan",
+            "Ju-min Park",
+            "Chris Kirkham"
+          ],
+          "author_locations": "上海 / 北京",
+          "authors_status": "named",
           "topics": [
             "企业动态",
             "新能源汽车"
@@ -18583,9 +18775,19 @@ window.__XFS_DATA__ = {
           "title_zh": "消息人士：中方与也门胡塞武装接触，以保障红海航运",
           "published_at": "2026-07-28",
           "published_precision": "day",
-          "authors": [],
-          "author_locations": "",
-          "authors_status": "not_available",
+          "authors": [
+            "Jonathan Saul",
+            "Parisa Hafezi",
+            "Mohammed Ghobari",
+            "Timour Azhari",
+            "Florence Tan",
+            "Aizhu Chen",
+            "Siyi Liu",
+            "Sam Li",
+            "Ethan Wang"
+          ],
+          "author_locations": "伦敦 / 迪拜",
+          "authors_status": "named",
           "topics": [
             "中东外交",
             "能源安全",
@@ -19162,9 +19364,12 @@ window.__XFS_DATA__ = {
       "title_zh": "中国海警在中国台湾以东海域巡逻，引发台方反应",
       "published_at": "2026-07-31",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Liz Lee",
+        "Yimou Lee"
+      ],
+      "author_locations": "北京 / 台北",
+      "authors_status": "named",
       "topics": [
         "涉台议题",
         "军事安全"
@@ -19474,9 +19679,13 @@ window.__XFS_DATA__ = {
       "title_zh": "特斯拉中国业务：这家电动车制造商的全球生产引擎",
       "published_at": "2026-07-31",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Zhang Yan",
+        "Ju-min Park",
+        "Chris Kirkham"
+      ],
+      "author_locations": "上海 / 北京",
+      "authors_status": "named",
       "topics": [
         "企业动态",
         "新能源汽车"
@@ -19655,9 +19864,12 @@ window.__XFS_DATA__ = {
       "title_zh": "大众汽车的飞行汽车梦如何在中国折戟",
       "published_at": "2026-08-01",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Ju-min Park",
+        "Claire Fu"
+      ],
+      "author_locations": "北京",
+      "authors_status": "named",
       "topics": [
         "企业动态",
         "外资在华"
@@ -20156,9 +20368,19 @@ window.__XFS_DATA__ = {
       "title_zh": "消息人士：中方与也门胡塞武装接触，以保障红海航运",
       "published_at": "2026-07-28",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Jonathan Saul",
+        "Parisa Hafezi",
+        "Mohammed Ghobari",
+        "Timour Azhari",
+        "Florence Tan",
+        "Aizhu Chen",
+        "Siyi Liu",
+        "Sam Li",
+        "Ethan Wang"
+      ],
+      "author_locations": "伦敦 / 迪拜",
+      "authors_status": "named",
       "topics": [
         "中东外交",
         "能源安全",
@@ -20340,9 +20562,11 @@ window.__XFS_DATA__ = {
       "title_zh": "路透独家：美国FCC拟禁止进口中国新型数据中心光收发模块",
       "published_at": "2026-08-04",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Alexandra Alper"
+      ],
+      "author_locations": "华盛顿",
+      "authors_status": "named",
       "topics": [
         "中美科技竞争",
         "半导体",
@@ -20708,9 +20932,11 @@ window.__XFS_DATA__ = {
       "title_zh": "亚太股市因科技股回调走软，伊朗和谈前景下油价持稳",
       "published_at": "2026-08-06",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Satoshi Sugiyama"
+      ],
+      "author_locations": "东京",
+      "authors_status": "named",
       "topics": [
         "全球市场",
         "原油",
@@ -20771,9 +20997,11 @@ window.__XFS_DATA__ = {
       "title_zh": "路透独家：在Patel任内，FBI与中国、俄罗斯建立前所未有的执法合作关系",
       "published_at": "2026-08-06",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Jana Winter"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美关系",
         "执法合作",
@@ -20803,9 +21031,11 @@ window.__XFS_DATA__ = {
       "title_zh": "AI需求拉动鸿海7月营收创单月历史新高",
       "published_at": "2026-08-06",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Ben Blanchard"
+      ],
+      "author_locations": "台北",
+      "authors_status": "named",
       "topics": [
         "科技制造",
         "AI需求",
@@ -20866,9 +21096,13 @@ window.__XFS_DATA__ = {
       "title_zh": "通用汽车与上汽续签中国合资协议20年",
       "published_at": "2026-08-06",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Kalea Hall",
+        "Zhang Yan",
+        "Qiaoyi Li"
+      ],
+      "author_locations": "底特律 / 上海 / 北京",
+      "authors_status": "named",
       "topics": [
         "汽车",
         "中外合资",
@@ -20898,9 +21132,12 @@ window.__XFS_DATA__ = {
       "title_zh": "金与正就日本试射美制战斧巡航导弹警告将采取「额外军事选项」",
       "published_at": "2026-08-06",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Heejin Kim",
+        "Kyu-seok Shim"
+      ],
+      "author_locations": "首尔",
+      "authors_status": "named",
       "topics": [
         "朝鲜",
         "中日关系",
@@ -21018,9 +21255,11 @@ window.__XFS_DATA__ = {
       "title_zh": "印度称与中国的会谈强调边境和平对改善关系至关重要",
       "published_at": "2026-08-07",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Hritam Mukherjee"
+      ],
+      "author_locations": "New Delhi",
+      "authors_status": "named",
       "topics": [
         "中印关系",
         "边境",
@@ -21057,9 +21296,11 @@ window.__XFS_DATA__ = {
       "title_zh": "印度拟推多晶硅生产激励，减少对华依赖",
       "published_at": "2026-08-07",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Sethuraman N R"
+      ],
+      "author_locations": "New Delhi",
+      "authors_status": "named",
       "topics": [
         "印度",
         "多晶硅",
@@ -21143,9 +21384,12 @@ window.__XFS_DATA__ = {
       "title_zh": "中国台湾在年度演习中紧急升空法制战机，演练快速转场",
       "published_at": "2026-08-07",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Yi-Chin Lee",
+        "Ann Wang"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中国台湾",
         "汉光演习",
@@ -21181,9 +21425,11 @@ window.__XFS_DATA__ = {
       "title_zh": "太平洋岛国部长未能就中国导弹问题达成联合回应",
       "published_at": "2026-08-07",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Lucy Craymer"
+      ],
+      "author_locations": "Suva",
+      "authors_status": "named",
       "topics": [
         "太平洋岛国",
         "中国导弹",
@@ -21346,9 +21592,11 @@ window.__XFS_DATA__ = {
       "title_zh": "中国西北强降雨洪灾，数千人疏散",
       "published_at": "2026-08-07",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Farah Master"
+      ],
+      "author_locations": "Hong Kong",
+      "authors_status": "named",
       "topics": [
         "自然灾害",
         "陕西洪灾",
@@ -21385,9 +21633,12 @@ window.__XFS_DATA__ = {
       "title_zh": "中国驻阿根廷使馆指责美国阻挠合作",
       "published_at": "2026-08-07",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Agustin Marcarian",
+        "Lucinda Elliott"
+      ],
+      "author_locations": "Buenos Aires",
+      "authors_status": "named",
       "topics": [
         "中阿合作",
         "华为",
@@ -21535,9 +21786,11 @@ window.__XFS_DATA__ = {
       "title_zh": "印度要求中国分享河流数据，藏南超级大坝引担忧",
       "published_at": "2026-08-07",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Sudhi Ranjan Sen"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中印关系",
         "跨境河流",
@@ -21602,9 +21855,11 @@ window.__XFS_DATA__ = {
       "title_zh": "美国审视中国经离岸渠道获取英伟达芯片的路径",
       "published_at": "2026-08-07",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Mackenzie Hawkins"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "半导体",
         "出口管制",
@@ -21704,9 +21959,12 @@ window.__XFS_DATA__ = {
       "title_zh": "中国微短剧风靡全球，AI 压低制作成本",
       "published_at": "2026-07-31",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Yang Yang",
+        "Sohee Kim"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "文化输出",
         "微短剧"
@@ -21737,9 +21995,11 @@ window.__XFS_DATA__ = {
       "title_zh": "中国香港标志性茶餐厅走向全球",
       "published_at": "2026-08-07",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Mary Hui"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中国香港",
         "餐饮",
@@ -21771,9 +22031,11 @@ window.__XFS_DATA__ = {
       "title_zh": "《Zero》谈伊朗战争：揭示中国手握新“石油武器”",
       "published_at": "2026-08-05",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Akshat Rathi"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "能源",
         "中东",
@@ -21930,9 +22192,13 @@ window.__XFS_DATA__ = {
       "title_zh": "中国黄金储备增持速度为 2023 年 10 月以来最快",
       "published_at": "2026-08-07",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Qiaoyi Li",
+        "Liz Lee",
+        "Dylan Duan"
+      ],
       "author_locations": "北京/上海",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "黄金储备",
         "央行",
@@ -22049,9 +22315,11 @@ window.__XFS_DATA__ = {
       "title_zh": "中国对 Palo Alto Networks 产品启动网络安全审查",
       "published_at": "2026-08-06",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Eduardo Baptista"
+      ],
       "author_locations": "北京",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "网络安全审查",
         "CAC",
@@ -22164,9 +22432,12 @@ window.__XFS_DATA__ = {
       "title_zh": "美国联邦法官叫停五角大楼将药明康德列为'涉军'企业的做法",
       "published_at": "2026-08-08",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "David Shepardson",
+        "Mike Scarcella"
+      ],
       "author_locations": "华盛顿",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "药明康德",
         "中美科技",
@@ -22353,9 +22624,11 @@ window.__XFS_DATA__ = {
       "title_zh": "彭博：美国多晶硅关税只会进一步巩固中国光伏供应链优势",
       "published_at": "2026-08-07",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "David Fickling"
+      ],
       "author_locations": "华盛顿/北京",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "多晶硅",
         "关税",
@@ -22391,9 +22664,12 @@ window.__XFS_DATA__ = {
       "title_zh": "药明康德获暂时豁免，免于被贴上'涉华军事'标签",
       "published_at": "2026-08-08",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Amber Tong",
+        "Sangmi Cha"
+      ],
       "author_locations": "华盛顿",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "药明康德",
         "生物科技",
@@ -22778,9 +23054,12 @@ window.__XFS_DATA__ = {
       "title_zh": "台积电芯片现身华为AI处理器，中国台湾企业面临逾10亿美元美方罚款风险",
       "published_at": "2026-08-09",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Karen Freifeld",
+        "Fanny Potkin"
+      ],
       "author_locations": "台北/华盛顿",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中国台湾",
         "半导体",
@@ -22862,9 +23141,13 @@ window.__XFS_DATA__ = {
       "title_zh": "美开始向英伟达发放H20输华出口许可，AI芯片管制现松动",
       "published_at": "2026-08-09",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Karen Freifeld",
+        "Arsheeya Bajwa",
+        "Max A. Cherney"
+      ],
       "author_locations": "华盛顿/北京",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美科技",
         "半导体",
@@ -23245,9 +23528,11 @@ window.__XFS_DATA__ = {
       "title_zh": "中国长征七号改火箭飞行异常，中星4B通信卫星发射失利",
       "published_at": "2026-08-10",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Eduardo Baptista"
+      ],
       "author_locations": "文昌/北京",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "航天",
         "长征火箭",
@@ -23412,9 +23697,14 @@ window.__XFS_DATA__ = {
       "title_zh": "台风'海豚'登陆中国东部沿海，逾百万人撤离",
       "published_at": "2026-08-10",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Kevin Yao",
+        "Shuyan Wang",
+        "Nicoco Chan",
+        "Eduardo Baptista"
+      ],
       "author_locations": "北京/上海",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "台风",
         "自然灾害",
@@ -23451,9 +23741,11 @@ window.__XFS_DATA__ = {
       "title_zh": "美副防长称美国不会退出亚洲，寻求'伙伴而非附庸'",
       "published_at": "2026-08-10",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Karen Lema"
+      ],
       "author_locations": "马尼拉",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美博弈",
         "印太",
@@ -24334,9 +24626,12 @@ window.__XFS_DATA__ = {
       "title_zh": "宇树科技科创板IPO受热捧，发行价150.8元/股、募资约61亿元",
       "published_at": "2026-08-10",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Ethan Wang",
+        "Ryan Woo"
+      ],
       "author_locations": "上海",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "人形机器人",
         "科创板",
@@ -24822,9 +25117,12 @@ window.__XFS_DATA__ = {
       "title_zh": "中国与印尼海军将在中国台湾地区以东敏感海域举行通航演练",
       "published_at": "2026-08-11",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Stanley Widianto",
+        "Ben Blanchard"
+      ],
       "author_locations": "北京",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "台海",
         "中国印尼",
@@ -24950,9 +25248,11 @@ window.__XFS_DATA__ = {
       "title_zh": "外资7月连续第九个月净卖出亚洲股票，中国台湾地区与韩国遭集中抛售",
       "published_at": "2026-08-12",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Gaurav Dogra"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "资本市场",
         "外资流出",
@@ -24989,9 +25289,11 @@ window.__XFS_DATA__ = {
       "title_zh": "洲际酒店集团二季度客房收入增速放缓，中东下滑抵消美国与中国增长",
       "published_at": "2026-08-11",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Prerna Bedi"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "酒店",
         "消费",
@@ -25067,9 +25369,11 @@ window.__XFS_DATA__ = {
       "title_zh": "中国7月原油进口回升至日均841万桶，仍同比降24.3%",
       "published_at": "2026-08-11",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Clyde Russell"
+      ],
       "author_locations": "北京",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "原油",
         "进口",
@@ -25194,9 +25498,11 @@ window.__XFS_DATA__ = {
       "title_zh": "上半年中国人形机器人占全球出货97%，智元超越宇树登顶",
       "published_at": "2026-08-12",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Saritha Rai"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "人形机器人",
         "智元",
@@ -25893,9 +26199,12 @@ window.__XFS_DATA__ = {
       "title_zh": "联想杨元庆：个人AI装置将成为PC需求主要驱动力，下半年营收仍增",
       "published_at": "2026-08-13",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Laurie Chen",
+        "Sneha Kumar"
+      ],
       "author_locations": "北京/中国香港",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "联想",
         "杨元庆",
@@ -26219,9 +26528,13 @@ window.__XFS_DATA__ = {
       "title_zh": "中国汽车内销连续10个月下滑、出口暴涨，海外成新增长极",
       "published_at": "2026-08-14",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Qiaoyi Li",
+        "Zhang Yan",
+        "Ju-min Park"
+      ],
       "author_locations": "北京",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中国汽车",
         "出口",
@@ -26259,9 +26572,13 @@ window.__XFS_DATA__ = {
       "title_zh": "菲律宾总统小马科斯称尽管南海争端，仍可与华开展经济合作",
       "published_at": "2026-08-14",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Karen Lema",
+        "Mikhail Flores",
+        "Nestor Corrales"
+      ],
       "author_locations": "马尼拉",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "南海",
         "中菲关系",
@@ -26629,9 +26946,13 @@ window.__XFS_DATA__ = {
       "title_zh": "习近平就防汛救灾作出指示：提升防灾减灾能力",
       "published_at": "2026-08-15",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Ziyi Tang",
+        "Xiangming Hou",
+        "Ryan Woo"
+      ],
       "author_locations": "北京",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "防灾减灾",
         "自然灾害",
@@ -26668,9 +26989,11 @@ window.__XFS_DATA__ = {
       "title_zh": "菲律宾防长驳斥中方批评，称中方回应是'鱿鱼战术'",
       "published_at": "2026-08-15",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Karen Lema"
+      ],
       "author_locations": "马尼拉",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "南海",
         "中菲关系",
@@ -26706,9 +27029,13 @@ window.__XFS_DATA__ = {
       "title_zh": "日本防相参拜靖国神社，中韩谴责",
       "published_at": "2026-08-15",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Sam Nussey",
+        "Ziyi Tang",
+        "Joyce Lee"
+      ],
       "author_locations": "东京",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中日关系",
         "靖国神社",
@@ -26745,9 +27072,11 @@ window.__XFS_DATA__ = {
       "title_zh": "中国台湾在久拖之后通过年度预算，含无人机支出",
       "published_at": "2026-08-15",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Ben Blanchard"
+      ],
       "author_locations": "台北",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中国台湾",
         "防务预算",
@@ -26861,9 +27190,12 @@ window.__XFS_DATA__ = {
       "title_zh": "英伟达供应商胜宏科技扩大港股IPO至202亿港元",
       "published_at": "2026-08-15",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Donny Kwok",
+        "Yantoultra Ngui"
+      ],
       "author_locations": "中国香港",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "港股",
         "IPO",
@@ -26902,9 +27234,13 @@ window.__XFS_DATA__ = {
       "title_zh": "菲律宾总统马科斯称'重置'对华关系意味着缓和紧张",
       "published_at": "2026-08-14",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Karen Lema",
+        "Mikhail Flores",
+        "Nestor Corrales"
+      ],
       "author_locations": "马尼拉",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "南海",
         "中菲关系",
@@ -28154,9 +28490,13 @@ window.__XFS_DATA__ = {
       "title_zh": "中国7月新房价格低迷，需求持续疲弱",
       "published_at": "2026-08-17",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Liangping Gao",
+        "Yukun Zhang",
+        "Ryan Woo"
+      ],
       "author_locations": "北京",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中国房地产",
         "房价",
@@ -28193,9 +28533,11 @@ window.__XFS_DATA__ = {
       "title_zh": "中国7月再度出手囤油，令油市意外",
       "published_at": "2026-08-17",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "北京/新加坡",
-      "authors_status": "not_available",
+      "authors": [
+        "Clyde Russell"
+      ],
+      "author_locations": "澳大利亚朗塞斯顿",
+      "authors_status": "named",
       "topics": [
         "原油",
         "战略储备",
@@ -28232,9 +28574,12 @@ window.__XFS_DATA__ = {
       "title_zh": "中国领跑全球清洁电力浪费，电网消纳瓶颈凸显",
       "published_at": "2026-08-17",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "北京",
-      "authors_status": "not_available",
+      "authors": [
+        "Colleen Howe",
+        "Sudarshan Varadhan"
+      ],
+      "author_locations": "北京/新加坡",
+      "authors_status": "named",
       "topics": [
         "新能源",
         "弃风弃光",
@@ -28714,9 +29059,12 @@ window.__XFS_DATA__ = {
       "title_zh": "中国 7 月新增人民币贷款创纪录收缩，信贷需求疲弱",
       "published_at": "2026-08-18",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Kevin Yao",
+        "Shi Bu"
+      ],
+      "author_locations": "北京",
+      "authors_status": "named",
       "topics": [
         "中国金融",
         "信贷",
@@ -28739,9 +29087,9 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "核心事实：7 月新增贷款净减 3400 亿（史上最大单月降幅），居民与企业双双去杠杆，社融/M2 增速走低。研判：信贷需求疲弱折射内需与地产迟迟未稳，传统货币宽松边际效用递减，政策天平更倾向「加快已批基建财政投放」而非大幅降息；后续关注企业中长贷与居民中长贷（房贷）能否企稳。",
       "provenance": {
-        "retrieved_via": "通道C（WebSearch 引号标题补全）",
-        "evidence_url": "https://www.business-standard.com/world-news/china-july-bank-loans-post-record-contraction-as-credit-demand-falters-126081401360_1.html",
-        "evidence_note": "Reuters 测算，基于 PBOC 8/18 数据"
+        "retrieved_via": "通道C（WebSearch 引号标题补全署名）",
+        "evidence_url": "https://theedgemalaysia.com/world-news/china-july-bank-loans-post-record-contraction-as-credit-demand-falters",
+        "evidence_note": "Reuters 8/18；byline Kevin Yao & Shi Bu（The Edge Malaysia / wqxc.com 转载 corroborated）"
       },
       "_day": "2026-08-18"
     },
@@ -30120,9 +30468,13 @@ window.__XFS_DATA__ = {
       "title_zh": "中国机器人厂商力求将人形机器人热潮转化为实际生产力",
       "published_at": "2026-08-19",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Ju-min Park",
+        "Laurie Chen",
+        "Eduardo Baptista"
+      ],
+      "author_locations": "北京",
+      "authors_status": "named",
       "topics": [
         "人形机器人",
         "人工智能",
@@ -30146,9 +30498,9 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": {
-        "retrieved_via": "通道A原页JS拦截；转经转载源(rallies.ai、经济时报)补全摘要与关键数字；原页无可见真实署名，authors_status=not_available",
-        "evidence_url": "https://rallies.ai/news/china-robot-makers-seek-to-turn-humanoid-hype-into-useful-work-65eb442a71a478d2",
-        "evidence_note": "300余家企业、2000余展品、宇树超额认购8000倍、摩根士丹利65%非生产用途等来自转载源对路透报道的复述。"
+        "retrieved_via": "通道A原页JS拦截；转经转载源(ima.qq.com / Fidelity)补全署名",
+        "evidence_url": "https://ima.qq.com/article/china-robot-makers-seek-to-turn-humanoid-hype-into-useful-work",
+        "evidence_note": "byline Ju-min Park, Laurie Chen and Eduardo Baptista（转载源确认）；300余家企业、2000余展品等数字来自转载源对路透报道的复述。"
       },
       "_day": "2026-08-20"
     },
@@ -30624,9 +30976,11 @@ window.__XFS_DATA__ = {
       "title_zh": "调查｜美国军费如何“造就”中国机器狗",
       "published_at": "2026-08-19",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Michael Martina"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "机器人",
         "技术转移",
@@ -30651,9 +31005,9 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": {
-        "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与中文镜像(腾讯、凤凰)补全要点",
+        "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与中文镜像(腾讯、凤凰)补全要点，ima.qq.com 确认署名",
         "evidence_url": "https://news.qq.com/rain/a/20260820A04H9Q00",
-        "evidence_note": "原页不可达，署名未确认(authors_status=not_available)；关键事实(1600美元、60%份额、90亿美元估值、Mini Cheetah)来自镜像转载与路透调查汇总。"
+        "evidence_note": "byline Michael Martina（ima.qq.com 转载确认）；关键事实(1600美元、60%份额、90亿美元估值、Mini Cheetah)来自镜像转载与路透调查汇总。"
       },
       "_day": "2026-08-21"
     },
@@ -30665,9 +31019,11 @@ window.__XFS_DATA__ = {
       "title_zh": "特朗普家族加密公司合作的平台提供受限中企AI模型",
       "published_at": "2026-08-17",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Lawrence Delevingne"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美科技竞争",
         "AI",
@@ -30696,9 +31052,9 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": {
-        "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与镜像转载(finwire/侨报/长桥)补全",
+        "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与镜像转载(finwire/侨报/长桥)补全署名",
         "evidence_url": "https://finwire.io/news/economy-news/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies",
-        "evidence_note": "原页不可达，署名未确认；43/90模型、受限中企名单等关键事实来自转载全文。"
+        "evidence_note": "Reporting by Lawrence Delevingne（Fidelity/IndianExpress 转载确认）；43/90模型、受限中企名单等关键事实来自转载全文。"
       },
       "_day": "2026-08-21"
     },
@@ -30710,9 +31066,12 @@ window.__XFS_DATA__ = {
       "title_zh": "中国7月工业增加值放缓，零售销售逊于预期",
       "published_at": "2026-08-17",
       "published_precision": "day",
-      "authors": [],
-      "author_locations": "",
-      "authors_status": "not_available",
+      "authors": [
+        "Kevin Yao",
+        "Ethan Wang"
+      ],
+      "author_locations": "北京",
+      "authors_status": "named",
       "topics": [
         "中国经济",
         "宏观数据",
@@ -30734,9 +31093,9 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": {
-        "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得原页URL与标题",
+        "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得原页URL与标题，particle.news 转载确认署名",
         "evidence_url": "https://www.reuters.com/world/china/chinas-industrial-output-slows-july-retail-sales-miss-forecasts-2026-08-17/",
-        "evidence_note": "原页JS拦截，仅确认标题与URL，摘要基于检索上下文综合。"
+        "evidence_note": "byline Kevin Yao & Ethan Wang（particle.news 转载确认）；摘要基于检索上下文综合。"
       },
       "_day": "2026-08-21"
     },
@@ -31232,7 +31591,8 @@ window.__XFS_DATA__ = {
       "published_at": "2026-08-27",
       "published_precision": "day",
       "authors": [
-        "Liz Lee"
+        "Sudarshan Varadhan",
+        "Colleen Howe"
       ],
       "author_locations": "BEIJING",
       "authors_status": "not_available",
@@ -31355,8 +31715,10 @@ window.__XFS_DATA__ = {
       "published_at": "2026-08-27",
       "published_precision": "day",
       "authors": [
-        "Anhata Rooprai",
-        "Rashika Singh"
+        "Kevin Krolicki",
+        "Eduardo Baptista",
+        "Xihao Jiang",
+        "Qiaoyi Li"
       ],
       "author_locations": "BENGALURU",
       "authors_status": "not_available",
@@ -31515,7 +31877,9 @@ window.__XFS_DATA__ = {
       "title_zh": "人民币走势持稳，在岸中间价维持在6.72附近",
       "published_at": "2026-08-27",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Julia Fioretti"
+      ],
       "author_locations": "",
       "authors_status": "not_available",
       "topics": [
@@ -31552,8 +31916,7 @@ window.__XFS_DATA__ = {
       "published_at": "2026-08-27",
       "published_precision": "day",
       "authors": [
-        "Lucille Liu",
-        "Jenny Leonard"
+        "Jui Chakravorty"
       ],
       "author_locations": "",
       "authors_status": "not_available",
@@ -31591,7 +31954,9 @@ window.__XFS_DATA__ = {
       "title_zh": "英伟达业绩超预期提振AI乐观情绪，中国市场与芯片供给受关注",
       "published_at": "2026-08-27",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Sohee Kim"
+      ],
       "author_locations": "",
       "authors_status": "not_available",
       "topics": [
@@ -31787,11 +32152,11 @@ window.__XFS_DATA__ = {
       "published_at": "2026-08-27",
       "published_precision": "day",
       "authors": [
-        "Pearl Liu",
-        "Trista Xinyi Luo"
+        "Kanoko Matsuyama",
+        "Akemi Terukina"
       ],
       "author_locations": "HONG KONG",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "能源安全",
         "霍尔木兹",
@@ -39687,7 +40052,7 @@ window.__XFS_DATA__ = {
     "total": 342,
     "days": 23,
     "negatives": 109,
-    "with_author": 156,
+    "with_author": 212,
     "with_body": 18,
     "with_sources": 319
   }
