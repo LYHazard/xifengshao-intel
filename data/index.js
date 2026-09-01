@@ -1,5 +1,5 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-09-01T17:19:10+08:00",
+  "generated_at": "2026-09-01T18:15:53+08:00",
   "latest_questions_day": "2026-09-01",
   "days": {
     "2026-09-01": {
@@ -149,9 +149,12 @@ window.__XFS_DATA__ = {
           "title_zh": "英伟达35亿美元入股，联发科跻身顶级AI芯片阵营",
           "published_at": "2026-09-01T03:00:00Z",
           "published_precision": "hour",
-          "authors": [],
+          "authors": [
+            "Debby Wu",
+            "Sangmi Cha"
+          ],
           "author_locations": "TAIPEI",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "半导体",
             "AI芯片",
@@ -6459,9 +6462,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中国开源权重AI模型促使美国业界重新审视战略",
           "published_at": "2026-08-17",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Saritha Rai"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美科技竞争",
             "AI",
@@ -12714,9 +12719,12 @@ window.__XFS_DATA__ = {
           "title_zh": "彭博：Shein拟8月20日招股、8月28日前后港交所挂牌，估值或进一步下调",
           "published_at": "2026-08-13",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Julia Fioretti",
+            "Dave Sebastian"
+          ],
           "author_locations": "中国香港/伦敦",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "港交所",
             "IPO",
@@ -14104,9 +14112,11 @@ window.__XFS_DATA__ = {
           "title_zh": "宇树科技科创板打新超购5526倍，散户抢筹创纪录",
           "published_at": "2026-08-10",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Foster Wong"
+          ],
           "author_locations": "上海",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "人形机器人",
             "科创板",
@@ -25684,9 +25694,11 @@ window.__XFS_DATA__ = {
       "title_zh": "宇树科技科创板打新超购5526倍，散户抢筹创纪录",
       "published_at": "2026-08-10",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Foster Wong"
+      ],
       "author_locations": "上海",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "人形机器人",
         "科创板",
@@ -27298,9 +27310,12 @@ window.__XFS_DATA__ = {
       "title_zh": "彭博：Shein拟8月20日招股、8月28日前后港交所挂牌，估值或进一步下调",
       "published_at": "2026-08-13",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Julia Fioretti",
+        "Dave Sebastian"
+      ],
       "author_locations": "中国香港/伦敦",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "港交所",
         "IPO",
@@ -32151,9 +32166,11 @@ window.__XFS_DATA__ = {
       "title_zh": "中国开源权重AI模型促使美国业界重新审视战略",
       "published_at": "2026-08-17",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Saritha Rai"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美科技竞争",
         "AI",
@@ -33132,9 +33149,12 @@ window.__XFS_DATA__ = {
       "title_zh": "英伟达35亿美元入股，联发科跻身顶级AI芯片阵营",
       "published_at": "2026-09-01T03:00:00Z",
       "published_precision": "hour",
-      "authors": [],
+      "authors": [
+        "Debby Wu",
+        "Sangmi Cha"
+      ],
       "author_locations": "TAIPEI",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "半导体",
         "AI芯片",
@@ -41456,7 +41476,7 @@ window.__XFS_DATA__ = {
     "total": 342,
     "days": 24,
     "negatives": 117,
-    "with_author": 213,
+    "with_author": 217,
     "with_body": 28,
     "with_sources": 319
   }
