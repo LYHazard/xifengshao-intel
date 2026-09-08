@@ -1,7 +1,660 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-09-07T12:50:00+08:00",
-  "latest_questions_day": "2026-09-01",
+  "generated_at": "2026-09-08T15:54:31+08:00",
+  "latest_questions_day": "2026-09-08",
   "days": {
+    "2026-09-08": {
+      "file": "2026-09-08.json",
+      "scan_time": "2026-09-08T15:52:47+08:00",
+      "window": {
+        "start": "2026-09-07T00:34:00+08:00",
+        "end": "2026-09-08T08:34:00+08:00",
+        "desc": "近24小时（路透/彭博涉华报道）"
+      },
+      "coverage": {
+        "reuters": {
+          "captured": 5,
+          "with_author": 5,
+          "with_fulltext": 5,
+          "note": "通道A直连被JS墙/机器人验证拦截→通道B代理401/403失败→通道C WebSearch多组+国际转载(Yahoo/AsiaOne/The Edge/zaobao/Lufkin)补全标题/署名/正文；5篇全部取得真实记者署名。"
+        },
+        "bloomberg": {
+          "captured": 6,
+          "with_author": 2,
+          "with_fulltext": 6,
+          "note": "通道A/B失败→镜像突破(envoy.cirrus.bloomberg.com)抓取6篇全文+byline；2篇具名(Sangmi Cha、Catherine Thorbecke)，4篇机构发稿经二次补全无真人署名(not_available)。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "b1",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "BYD Eyes 2.5 Million Overseas Sales as Price War Rages at Home",
+          "title_zh": "比亚迪瞄准2027年海外销量超250万辆，国内价格战下加速出海",
+          "published_at": "2026-09-08T05:33:19Z",
+          "published_precision": "datetime",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "电动车",
+            "比亚迪",
+            "出海",
+            "价格战"
+          ],
+          "importance": "medium",
+          "summary_zh": "比亚迪设定雄心目标：2027年海外销量突破250万辆，加速向中国市场以外扩张；与此同时国内激烈价格战正侵蚀利润。公司同时将2026年海外销售指引从此前150万辆上调至190万—200万辆。报道称，出海是比亚迪对冲国内内卷、寻找新增长极的核心策略，但海外也面临关税、本地化与品牌壁垒。",
+          "summary_en": "BYD has set an ambitious target to sell more than 2.5 million vehicles overseas in 2027, accelerating its push beyond China where a fierce price war has eroded profitability. It also raised its 2026 overseas sales guidance to 1.9-2.0 million from 1.5 million.",
+          "china_angle": "中国电动车龙头以规模与成本优势出海，正遭遇欧美关税与本地化壁垒，是中外产业竞争的缩影。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-08/byd-eyes-2-5-million-overseas-sales-as-price-war-rages-at-home",
+          "body_available": true,
+          "body_zh": "比亚迪设定雄心目标：2027年海外销量突破250万辆，加速向中国市场以外扩张；国内激烈价格战正侵蚀其利润。公司同时将2026年海外销售指引从此前约150万辆上调至190万—200万辆。报道指，出海是比亚迪对冲国内'内卷'、寻找新增长极的核心策略；但在海外，比亚迪面临关税（如欧盟反补贴税、部分市场壁垒）、本地化生产与品牌认知等挑战。比亚迪凭借电池与整车垂直整合的成本优势，在东南亚、拉美、欧洲部分市场快速放量，海外营收占比持续提升。",
+          "cited_sources": [
+            "比亚迪（销量指引/公告）"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "比亚迪'出海提速'是中外电动车产业竞争的缩影：国内价格战压缩利润，倒逼龙头以规模与成本优势外拓；而欧美正以关税、反补贴与本地化要求筑墙。对中方而言，出海是必然也是承压之路——短期靠性价比与产品线广度扩张份额，中长期取决于本地建厂、品牌与合规能力。情报上应跟踪欧盟反补贴税执行、美国对中国电动车及零部件的潜在限制，以及比亚迪在东南亚/墨西哥的转口与本地化布局。",
+          "provenance": {
+            "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-08/byd-eyes-2-5-million-overseas-sales-as-price-war-rages-at-home",
+            "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；该稿 byline 为 Bloomberg News（机构发稿），经二次补全无真人署名，标 not_available。"
+          }
+        },
+        {
+          "id": "b2",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China Export Growth Rebounds as Trade Surplus Nears $806 Billion",
+          "title_zh": "中国8月出口增速反弹，年内贸易顺差逼近8060亿美元",
+          "published_at": "2026-09-08T02:38:27Z",
+          "published_precision": "datetime",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "出口",
+            "贸易顺差",
+            "经济"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社报道，中国8月出口增速加快，年内贸易顺差逼近8060亿美元，恰逢美国加大压力、要求北京在月底前峰会对接前解决失衡。8月出口同比增约25%（略低于预估），进口增28.2%逊于30%预期；前8个月顺差已超8055亿美元。报道指，出口韧性强化了'以我为主'的增长路径，但也使中方更易成为美方关税与多边围堵的靶心。",
+          "summary_en": "China's export growth accelerated in August, swelling its trade surplus near $806 billion for the year just as the US ramps up pressure on Beijing to address imbalances before a summit later this month. Exports jumped ~25% y/y; Jan-Aug surplus exceeded $805.5bn.",
+          "china_angle": "巨额顺差是实力也是靶子：美方借'失衡'施压，多边贸易壁垒风险上升。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
+          "body_available": true,
+          "body_zh": "彭博社9月8日报道，中国8月出口增速加快，年内贸易顺差逼近8060亿美元，恰逢美国加大压力、要求北京在本月晚些时候的峰会对接前解决贸易失衡。数据显示，8月出口同比增约25%（略低于预估），进口增28.2%、逊于30%的市场预期；今年前8个月，出口增19.3%、进口增27%，贸易顺差已超过8055亿美元。报道指出，全球AI基建热潮带动芯片等高科技品需求，是出口韧性的关键支撑；但出口强势也延缓了当局托底地产与内需的紧迫性，并使中国更易成为美方关税与欧盟贸易壁垒的靶心。贝森特等美方官员持续以'不可持续的顺差'为由，推动G20重议对华贸易条款。",
+          "cited_sources": [
+            "中国海关数据",
+            "彭博测算",
+            "美国财政部（贝森特）",
+            "G20"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "8月出口约+25%、前8月顺差超8055亿美元，与路透调查相互印证，显示外需在极端天气与内需偏弱下仍是增长主轴。对中方是正向韧性信号；但在西方话语中，巨额顺差被工具化为'全球失衡'证据，直接服务于贝森特推动的G20多边围堵与单边关税。短期内需留意：本月中美峰会前'300亿美元互降关税'的脆弱窗口、欧盟对中国电动车/绿色品的壁垒升级，以及顺差扩大是否触发更严的'去风险'协调。中方的应对仍将是'扩大进口承诺+以创新与绿色转型解释增长'，淡化刻意追求顺差。",
+          "provenance": {
+            "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
+            "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；byline 为 Bloomberg News（机构发稿），二次补全无真人署名，标 not_available。"
+          }
+        },
+        {
+          "id": "b3",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China Is Building an AI Future Far From Its Biggest Cities",
+          "title_zh": "中国正远离大城市、在北方与西北建设AI未来（数据中心）",
+          "published_at": "2026-09-08T00:07:19Z",
+          "published_precision": "datetime",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "AI",
+            "数据中心",
+            "算力",
+            "内蒙古",
+            "能源"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社报道，中国正把AI数据中心从沿海大城市转向北方与西北（如内蒙古乌兰察布），以利用低廉绿电、土地与降温条件。据彭博新能源财经(BNEF)新数据，全国数据中心在建与规划管线已超半数位于北方与西北。报道称，这一'算力西迁'既是能耗与电网约束下的产业再布局，也关乎AI竞赛中的算力地缘。",
+          "summary_en": "More than half of China's data center pipeline is already in the north and northwest, per new BNEF data, as the country relocates AI compute capacity away from its biggest coastal cities to places like Ulanqab in Inner Mongolia for cheap green power, land and cooling.",
+          "china_angle": "算力西迁体现'东数西算'与绿电协同，是中方在AI竞赛中以资源禀赋换算力规模的战略布局。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/features/2026-09-08/china-races-to-build-ai-data-centers-far-away-from-its-biggest-cities",
+          "body_available": true,
+          "body_zh": "彭博社9月8日报道，中国正将AI数据中心从沿海大城市转向北方与西北。内蒙古乌兰察布这座不足200万人口的城市，因草原地价、凉爽气候与绿电资源，成为算力布局前沿。据彭博新能源财经(BNEF)新数据，全国数据中心在建与规划管线已超半数位于北方与西北。报道指出，'算力西迁'既是东部能耗与电网约束下的产业再布局，也关乎AI竞赛中的算力地缘——低廉绿电、土地与天然降温条件，使西北成为训练大模型的基础设施承接地。相关建设由云厂商与国资算力平台推动，并与'东数西算'工程相呼应。",
+          "cited_sources": [
+            "彭博新能源财经(BNEF)",
+            "乌兰察布/内蒙古",
+            "数据中心管线数据"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "'算力西迁'是中方以资源禀赋换AI规模优势的典型打法：用西北绿电、土地与低温摊薄训练成本，呼应'东数西算'国家战略，把能源富集区变为算力富集区。对西方而言，这意味着中国AI产能不依赖单一沿海枢纽、抗制裁与断供韧性更强；对中方则是把双碳目标与算力竞争绑定的机会。情报上应跟踪西北算力集群的绿电占比、与国产AI芯片（昇腾等）的适配，以及美方是否将'算力基建'纳入出口管制或投资审查范畴。",
+          "provenance": {
+            "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/features/2026-09-08/china-races-to-build-ai-data-centers-far-away-from-its-biggest-cities",
+            "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；byline 为 Bloomberg News，内文'With assistance from Dan Murtaugh and Ocean Hou'（协助报道/摄影），主要署名仍属机构发稿，标 not_available。"
+          }
+        },
+        {
+          "id": "b4",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Longsys Shares Slip in HK Debut After $903 Million Listing",
+          "title_zh": "江波龙中国香港上市首日破发，90.3百万美元募资承压",
+          "published_at": "2026-09-07T23:00:00Z",
+          "published_precision": "datetime",
+          "authors": [
+            "Sangmi Cha"
+          ],
+          "author_locations": [
+            "香港"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "港股",
+            "IPO",
+            "江波龙",
+            "存储芯片"
+          ],
+          "importance": "medium",
+          "summary_zh": "深圳江波龙电子（Longsys）9月7日在中国香港上市，早段一度较236港元发行价跌1.5%至232.4港元，后收窄跌幅；公司通过加量发行募资约70.8亿港元（9.03亿美元），正考验港股对半导体存储企业的承接力。江波龙为全球存储模组重要供应商，此番上市意在扩充资本、支撑AI与存储需求扩张。",
+          "summary_en": "Shenzhen Longsys Electronics' shares fell in their Hong Kong debut, slipping as much as 1.5% to HK$232.40 from the HK$236 IPO price before paring losses, after raising HK$7.08bn ($903m) in an upsized share sale.",
+          "china_angle": "中资存储企业赴港上市融资，反映港股对硬科技承接与估值定价的冷暖。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
+          "body_available": true,
+          "body_zh": "深圳江波龙电子（Longsys）9月7日在中国香港挂牌，早段股价一度较每股236港元发行价下跌1.5%至232.4港元，随后收窄跌幅。公司通过加量发行（upsized share sale）募资约70.8亿港元（9.03亿美元），为港股市场对半导体存储企业的承接力提供试金石。江波龙是全球存储模组与控制器的重要供应商，赴港上市意在扩充资本实力、把握AI与存储需求扩张窗口。报道提及，近期多家内地科技企业密集赴港，使港股一级市场供给升温、定价更受考验。",
+          "cited_sources": [
+            "深圳江波龙电子",
+            "港交所",
+            "IPO定价与募资数据"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "江波龙港股首日的温和破发，是内地硬科技企业密集赴港背景下定价与承接的缩影：募资近9亿美元显示需求存在，但破发反映市场对存储周期与估值仍谨慎。对中方而言，港股正成为半导体/AI企业的重要融资通道，利于绕开地缘约束下的美元市场；后续应关注赴港科技IPO的定价趋势、以及美国是否以'涉军/涉芯'为由施压港交所或限制相关指数纳入。",
+          "provenance": {
+            "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
+            "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；署名 Sangmi Cha（真人记者）。"
+          }
+        },
+        {
+          "id": "b6",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "You Don't Have to Trust Chinese AI",
+          "title_zh": "你不必信任中国AI（评论）",
+          "published_at": "2026-09-07T19:00:00Z",
+          "published_precision": "datetime",
+          "authors": [
+            "Catherine Thorbecke"
+          ],
+          "author_locations": [],
+          "authors_status": "named",
+          "topics": [
+            "AI",
+            "DeepSeek",
+            "技术信任",
+            "舆论"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社观点专栏（Catherine Thorbecke）以'你不必信任中国AI'为题，借 DeepSeek 推理模型走红后外界'试探其对台湾等议题立场'的插曲，讨论企业是否应信任中国大模型。文章把中国开源/闭源模型的治理、价值观对齐与数据安全作为质疑点，主张以'不必信任'的姿态看待中国AI出海。",
+          "summary_en": "Bloomberg Opinion columnist Catherine Thorbecke argues 'You Don't Have to Trust Chinese AI,' using the episode where DeepSeek's model was probed on Taiwan and other sensitive topics to question whether businesses should trust Chinese AI models on governance, alignment and data security.",
+          "china_angle": "西方舆论以'信任'为切口，将中国AI出海框定为治理与安全风险，服务技术脱钩与市场份额防守。",
+          "stance": "negative",
+          "source_url": "https://www.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai",
+          "body_available": true,
+          "body_zh": "彭博社观点专栏（Catherine Thorbecke）9月7日以'你不必信任中国AI'为题发文，借 DeepSeek 推理模型去年走红、外界争相'试探其对台湾等议题立场'的插曲，讨论企业是否应信任中国大模型。文章将中国开源与闭源模型在治理、价值观对齐与数据安全上的差异作为质疑点，主张以'不必信任'的姿态看待中国AI出海，并对比 Anthropic、OpenAI 等的合规叙事。该文代表西方主流财经媒体系列化'中国AI威胁/不可信'论述的一角。",
+          "cited_sources": [
+            "DeepSeek",
+            "开源模型生态",
+            "Anthropic/OpenAI（对比）",
+            "阿里/腾讯/字节（中国大模型厂商）"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "此评论是西方'中国AI不可信'叙事的舆论化表达：以'价值观对齐''数据安全'为杠杆，把技术选择政治化，服务于美欧对华AI脱钩与市场份额防守。其手法是先预设'不必信任'，再以个别试探案例泛化为体系性质疑，回避了中国企业在开源贡献、本地合规上的实质进展。对中方而言，这是AI出海必须直面的'信任战'——仅靠性能与性价比不足以打开西方企业市场，需在治理透明度、数据本地化与第三方审计上主动建信。情报上，该叙事与美方'undercut Chinese AI sales abroad'的立法动向（国会相关议案）形成呼应，须持续跟踪其向采购限制与盟友协调的转化。",
+          "provenance": {
+            "evidence_url": "https://www.envoy.cirrus.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai",
+            "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；署名 Catherine Thorbecke（Bloomberg Opinion 专栏作者，真人）。"
+          }
+        },
+        {
+          "id": "b5",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China Is Cracking Down on its Carmakers For Developing Vehicles Too Fast",
+          "title_zh": "中国收紧对车企'造车过快'的监管",
+          "published_at": "2026-09-07T11:31:43Z",
+          "published_precision": "datetime",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "汽车",
+            "监管",
+            "安全",
+            "电动车"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社《Auto Monitor》通讯指出，中国车企以'比谁都快'推新车型横扫全球，如今正招致监管审视：压缩的开发周期把驾驶员变成'小白鼠'。报道称，监管层担忧新车研发与验证节奏过快带来的安全隐患与质量风险，酝酿收紧相关规则。这是继价格战、产能内卷之后，对'中国速度'的又一层约束。",
+          "summary_en": "China's automakers have taken the world by storm by churning out new models faster than anyone else; that is now drawing scrutiny that compressed development timelines are turning drivers into guinea pigs. Bloomberg's Auto Monitor newsletter examines the tightening oversight.",
+          "china_angle": "监管对'造车过快'的审视，是中方主动为产业狂奔踩刹车、以质量与安全换长期竞争力的自我校准。",
+          "stance": "negative",
+          "source_url": "https://www.bloomberg.com/news/newsletters/2026-09-07/china-is-cracking-down-on-its-carmakers-for-developing-vehicles-too-fast",
+          "body_available": true,
+          "body_zh": "彭博社《Auto Monitor》通讯9月7日指出，中国车企凭'比谁都快'推新车型横扫全球市场，如今正招致监管审视：压缩的开发与验证周期，被担忧把驾驶员变成'小白鼠'。报道称，监管层关注新车研发节奏过快带来的安全隐患与质量风险，酝酿收紧相关规则与标准。这是继价格战、产能内卷之后，对'中国速度'的又一层制度性约束——既回应安全与口碑压力，也为产业从'拼迭代'转向'拼质量/合规'留出空间。通讯还提及，速度优势仍是中方车企出海的核心竞争力，但监管收紧可能改变其产品节奏与海外合规叙事。",
+          "cited_sources": [
+            "彭博《Auto Monitor》通讯",
+            "中国监管机构（趋严信号）",
+            "车企"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "此稿把'中国速度'从竞争力叙事扭转为风险叙事：西方受众被引导关注'过快=不安全'，为欧盟非关税壁垒（如整车网络安全、数据合规、型式认证）提供舆论铺垫。需辩证看待：监管审视确有现实质量/安全考量，是产业成熟的自我校准；但外媒将其框架为'车速威胁安全'，易被用作贸易防御的话术。对中方而言，主动以质量与安全换长期口碑是正确方向；情报上应跟踪欧盟是否借'安全/网络'名义对中国电动车设新型准入壁垒，以及国内'造车过快'新规的具体落地与对出口节奏的影响。",
+          "provenance": {
+            "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/newsletters/2026-09-07/china-is-cracking-down-on-its-carmakers-for-developing-vehicles-too-fast",
+            "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文（newsletter《Auto Monitor》）；byline 为 Bloomberg News（机构发稿），标 not_available。"
+          }
+        },
+        {
+          "id": "r1",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Belgium detains Chinese man on suspicion of semiconductor espionage",
+          "title_zh": "比利时拘留一名涉嫌向中方转移半导体技术的中比双重国籍男子",
+          "published_at": "2026-09-07",
+          "published_precision": "date",
+          "authors": [
+            "Inti Landauro"
+          ],
+          "author_locations": [
+            "布鲁塞尔"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "半导体",
+            "科技安全",
+            "间谍",
+            "中欧关系"
+          ],
+          "importance": "high",
+          "summary_zh": "比利时联邦检察院证实，一名52岁、持比利时与中双重国籍的男子自5月起被羁押，涉嫌将氮化镓（GaN）半导体知识产权与商业机密非法转移至一家中方背景企业。该男子曾任比利时芯片厂 Belgan（2024年7月破产）研发管理职务，被捕时正于布鲁塞尔机场准备飞往北京；检方称其入职数月后即在中国开设同类芯片公司，背后有中方投资基金支持，不排除另有第二名中国籍嫌疑人在逃。案件被视为欧洲对华技术安全审查升温的最新注脚，凸显氮化镓在电动车、卫星、雷达与军机中的双用途价值。",
+          "summary_en": "Belgian federal prosecutors detained a 52-year-old dual Belgian-Chinese national since May on suspicion of funneling gallium nitride semiconductor IP and trade secrets to a Chinese firm. Arrested at Brussels airport en route to Beijing; a second Chinese national remains at large. Highlights rising EU-China tech-security tensions.",
+          "china_angle": "西方以'技术安全'为名收紧对华半导体人员与资本流动，将正常商业/科研往来叙事化为'间谍转移'，对华技术围堵从出口管制延伸至司法与人员层面。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/belgium-detains-chinese-man-suspicion-semiconductor-espionage-2026-09-07/",
+          "body_available": true,
+          "body_zh": "比利时联邦检察院9月7日声明，一名52岁、持比利时与中国双重国籍的男子自5月10日起被羁押，涉嫌在半导体技术案件中从事间谍活动。该男子曾任比利时微芯片制造商 Belgan（主营氮化镓芯片，2024年7月破产）研发部门管理职务，入职数月后即在中国开设一家生产同类芯片的公司，检方怀疑其利用职务便利将专利与商业机密非法转移。被捕时他正于布鲁塞尔机场准备登机飞往北京。检方不排除第二名中国籍嫌疑人涉案（媒体指为 Belgan 前CEO Alan Zhen Zhou）。氮化镓芯片因用于电动车、卫星、雷达与军用硬件而具双用途价值，此案是比利时数月内第二起涉华间谍案，亦折射欧洲多国对'复制至中国'技术获取模式的警惕，料将强化对华战略行业投资审查。",
+          "cited_sources": [
+            "比利时联邦检察院",
+            "Belgan（破产芯片厂）",
+            "IMEC（产业背景）",
+            "分析人士（欧洲审查趋势）"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "该案的情报意义不在单个嫌犯，而在'司法化技术安全'趋势：美方推动的出口管制已外溢至欧盟的刑事调查与人员追诉，将正常的人才流动与中企海外并购预设为'转移通道'。氮化镓属第三代半导体、军民两用，欧洲以此为由收紧对华技术投资审查，实质是把供应链'去风险'升级为'去人员/去资本'。中方回应强调反对将正常经贸科技合作政治化、污名化；后续须关注比利时及欧盟是否将此案上升为对华投资审查的判例，以及是否引发针对在欧华裔科研人员的连带防范。",
+          "provenance": {
+            "evidence_url": "https://www.zaobao.com/news/china/story20260907-9639371",
+            "evidence_note": "经联合早报/路透转载复核：比利时检方声明、Belgan 背景、双国籍与在逃嫌疑人；署名记者 Inti Landauro，编辑 Bart Meijer、Andrew Cawthorne。"
+          }
+        },
+        {
+          "id": "r3",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
+          "title_zh": "中国台湾借半导体优势大打'晶片外交'牌，在美欧投资施压下谋划产能外移",
+          "published_at": "2026-09-07",
+          "published_precision": "date",
+          "authors": [
+            "Ben Blanchard",
+            "Wen-Yee Lee"
+          ],
+          "author_locations": [
+            "台北"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "半导体",
+            "台海",
+            "中美科技",
+            "供应链"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社发自台北的报道称，中国台湾在上周 SEMICON Taiwan 展上以'民主、可靠的AI供应方'自我定位，示意在芯片红利上向理念相近伙伴分享，同时面临美欧要求其将更多产能移出岛内的压力。台积电正斥资2650亿美元在亚利桑那建厂；台湾经济部称业界拟追加200亿美元在美投资。美国商务部长 Lutnick 称将对不在美生产芯片的企业征半导体关税；欧盟委员会亦借展会推介《晶片法案2.0》争取台资赴欧。报道同时提及北京一贯主张台湾是中国省份、并阻挠其国际空间。",
+          "summary_en": "Taiwan flexed its chip diplomacy at SEMICON Taiwan, portraying itself as a democratic, reliable AI chip supplier willing to share semiconductor wealth with allies, while facing US and EU pressure to shift more chip manufacturing abroad. TSMC is investing $265bn in Arizona; Taiwanese firms plan another $20bn US investment.",
+          "china_angle": "美欧以'投资换可靠供应'拉拢中国台湾半导体产能，本质是将其嵌入对华技术围堵阵营、削弱两岸产业联结；相关叙事持续将台湾塑造为'民主供应链'节点，与中方主权立场直接对冲。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/taiwan-flexes-chip-diplomacy-muscles-as-it-faces-pressure-to-share-ai-wealth-with-allies-2026-09-07/",
+          "body_available": true,
+          "body_zh": "路透社9月7日发自台北报道，中国台湾在 SEMICON Taiwan 展上大打'晶片外交'牌，将自身定位为AI时代民主、可靠的芯片供应方，并示意愿与理念相近伙伴分享半导体红利。报道称，长期面临外交孤立的台湾一直试图借科技实力争取国际支持，而北京一贯主张台湾是中国的一个省份并阻挠其国际空间。与此同时，台湾承受美欧要求其将更多芯片制造移出岛内的压力：作为台湾最重要国际靠山与军售方，美国要求其将产能转向本土，台积电正斥资2650亿美元在亚利桑那建厂；台湾经济部长孔铭鑫称业界拟追加200亿美元在美投资。美国商务部长卢特尼克表示将对不在美生产芯片的企业开征半导体关税；欧盟委员会官员格罗斯赴展会推介《晶片法案2.0》争取台资赴欧。鸿海刘扬伟称企业要'与台湾一起造、而非只在台湾造'，日月光吴田认为产能外移'政治上正确'。",
+          "cited_sources": [
+            "台积电",
+            "台湾经济部",
+            "赖清德",
+            "美国商务部 Lutnick",
+            "欧盟委员会 Gross",
+            "鸿海 刘扬伟",
+            "日月光 吴田",
+            "路透社"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "此稿是西方将半导体'同盟化'的典型叙事：把中国台湾的先进制程包装为'民主供应链'资产，用以服务美欧'去风险'与对华技术围堵。对中方而言，其战略含义有三：一是美欧以市场准入（关税豁免）换取台积电等产能落地本土，实质是把两岸产业纽带拆解、重组到对华遏制阵营；二是'晶片外交'持续为台湾拓展国际空间提供话术，与一中原则对冲；三是大陆CXMT等内存厂商市占快速攀升（报道引述数据称Q2达全球DRAM收入约10%），正在改变博弈筹码。后续须关注美对韩内存关税威慑是否外溢至对华、以及台积电赴美/赴欧产能是否加速稀释岛内战略价值。",
+          "provenance": {
+            "evidence_url": "https://theedgemalaysia.com/node/817021",
+            "evidence_note": "经 The Edge Malaysia/路透转载复核全文；署名 By Ben Blanchard & Wen-Yee Lee / Reuters，编辑 Stephen Coates。"
+          }
+        },
+        {
+          "id": "r4",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "From dance floor to war: China readies humanoid robots for combat",
+          "title_zh": "从舞池到战场：中国为人形机器人'参战'做准备",
+          "published_at": "2026-09-07",
+          "published_precision": "date",
+          "authors": [
+            "Eduardo Baptista"
+          ],
+          "author_locations": [
+            "北京"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "军事",
+            "人形机器人",
+            "国防科技",
+            "AI"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社经梳理100余份中国军方采购公告、论文、专利与官方材料发现，中国国防体系正加速研究人形机器人的军事用途并规划其战时部署：军方按战场需求测试人形机器人、寻求采购相关训练技术，工作于2025—2026年明显提速，聚焦感知、操控与训练数据。国防科技大学论文设想6台'战斗机器人'（人形/机器狗/无人车）编组清剿城市建筑；《解放军报》呼吁加快前沿技术向训练场转化。路透称未见解放军已部署武装人形机器人的证据，并引述专家指其能耗高、复杂环境可靠性不足。",
+          "summary_en": "Reuters review of 100+ Chinese military procurement notices, papers and patents finds China's defense establishment is accelerating research into humanoid robots' military uses and planning wartime deployment, with work gaining momentum in 2025-2026.",
+          "china_angle": "西方借'人形机器人参战'叙事将中国正常国防技术预研炒作化为'军事威胁论'，刻意忽略美欧同类研究，属典型双重标准。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
+          "body_available": true,
+          "body_zh": "路透社9月7日发自北京报道，上月世界人形机器人运动会上机器人跳跃、拳击、跳舞，部分百米速度超过博尔特；赛事结束两天后，《解放军报》即呼吁科研人员加快将前沿技术从实验室推向军事训练场，用于机器人'战斗员'。路透梳理100余份中国军方采购公告、学术论文、专利、官方出版物与军工材料后发现，国防体系正加速研究人形机器人军事用途并规划战时部署，2025—2026年明显提速，重点在感知、操控与训练数据。国防科技大学西安试验中心论文设想6台'战斗机器人'（人形/机器狗/无人车）分两组与地面部队逐层清剿建筑；中国北方工业集团'伏羲'机器人可执行哨戒、侦察、巡逻。报道承认未见解放军已部署武装人形机器人的证据，并引述 UCLA 洪（Dennis Hong）、卡内基梅隆 Johnson 等专家指其能耗高、复杂环境可靠性不足；亦提及美国陆军已启动'军事化人形能力'竞赛。",
+          "cited_sources": [
+            "解放军报",
+            "国防科技大学",
+            "PLA采购公告",
+            "BofA Global Research",
+            "UCLA Dennis Hong",
+            "卡内基梅隆 Aaron Johnson",
+            "中国台湾国防安全研究院 周若敏",
+            "美国陆军"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "路透此长篇属'中国军事威胁论'的科技变体：把中国正常的前沿技术预研、理论探讨与测试，拼接为'机器人部队即将成军'的叙事，且预设对华立场。值得注意三点：其一，报道自身承认'无证据显示已部署武装人形机器人'，却仍以'规划''预研'定性为威胁，逻辑上自相矛盾；其二，刻意忽略美欧早已将无人/智能装备投入战场测试的事实，构成双重标准；其三，借'城市作战''对台防御推演'等场景制造紧张联想。中方专家已驳斥其夸大与技术误读。情报上，此稿反映西方对华军事科技叙事的常态化炒作，后续可能被用于渲染'中国军民融合'风险、为对华技术出口管制与盟友防务协调提供话术。",
+          "provenance": {
+            "evidence_url": "https://www.yahoo.com/news/articles/dance-floor-war-china-readies-060429355.html",
+            "evidence_note": "经 Yahoo/路透转载复核全文；署名 By Eduardo Baptista，发自北京；含被引专家与采购/论文来源。"
+          }
+        },
+        {
+          "id": "r2",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Beijing expands funding tools to support food security, rural modernization",
+          "title_zh": "中国六部门扩大融资渠道 支持粮食安全和农村现代化",
+          "published_at": "2026-09-07",
+          "published_precision": "date",
+          "authors": [
+            "Liz Lee",
+            "Beijing newsroom"
+          ],
+          "author_locations": [
+            "北京"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "农村经济",
+            "粮食安全",
+            "财政政策",
+            "乡村振兴"
+          ],
+          "importance": "medium",
+          "summary_zh": "中国农业农村部、中央农办、国家发改委、财政部、央行、金融监管总局六部门9月7日印发《坚持农业农村优先发展 完善乡村振兴投入机制实施方案》，目标到2030年建立财政、信贷、保险、债券、民间资本协同的多元投入格局。方案要求农业与农村在预算分配中优先、加大对粮食主产区利益补偿，允许地方用专项/一般债投向农村基建与产业，鼓励银行向产粮大县与种业县放贷，扩面稻谷小麦玉米大豆完全成本与种植收入保险，并支持乡村振兴基金、农业企业发债上市及基础设施REITs。",
+          "summary_en": "China's agriculture ministry and five other bodies unveiled a plan to bolster rural financing through 2030, combining fiscal support, credit, insurance, bonds and private capital to strengthen food security and modernize rural areas.",
+          "china_angle": "粮食安全被上升为战略性财务架构问题，以多元融资对冲外部不确定性与内需偏弱，体现'以我为主'的供给保障思路。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/beijing-expands-funding-tools-to-support-food-security-rural-modernization-2026-09-07/",
+          "body_available": true,
+          "body_zh": "中国农业农村部等六部门9月7日公布《坚持农业农村优先发展 完善乡村振兴投入机制实施方案》，提出到2030年基本建立与农业农村发展水平相适应、结构合理、质效并重的乡村振兴投入机制。方案要求政府资金优先保障农业农村，加大对粮食主产区利益补偿、实施产销区省际横向补偿；发挥债券资金支农作用，允许地方将专项/一般债用于农村基础设施、产业与公共服务；提升信贷效能，鼓励银行向产粮大县、种业大县创新信贷产品并加大首贷、信用贷供给；用好保险工具，扩面稻谷、小麦、玉米、大豆的完全成本与种植收入保险；激发民间投资，鼓励乡村振兴基金与市场渠道参与，支持符合条件农业企业发债、上市及基础设施REITs；盘活农村资源资产，支持集体与企业在光伏、风电等新能源项目合作。方案同时强调加强涉农投资监管。",
+          "cited_sources": [
+            "中国农业农村部等六部门",
+            "《完善乡村振兴投入机制实施方案》"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "该方案是把'粮食安全'从农业政策升级为金融架构的信号：在外部贸易摩擦与内需偏弱的双重背景下，北京试图用公共预算+信贷+保险+资本市场+民资的组合，降低对海外农产品供应链的依赖、稳定主粮与种业产能。对美欧农业出口商（尤其大豆、谷物）而言，中国 domestic 产能与自给率提升将缓慢改变其进口结构；但中国消费体量决定了全球供应商仍长期关注其供需缺口。短期看，这是逆周期稳增长、补'三农'短板的财政举措，并非针对外部的对抗性动作。",
+          "provenance": {
+            "evidence_url": "https://www.asiaone.com/china/beijing-expands-funding-tools-support-food-security-rural-modernisation",
+            "evidence_note": "经 AsiaOne/路透转载复核全文；署名 Reporting by Liz Lee and Beijing newsroom，编辑 Tom Hogue、Stephen Coates。"
+          }
+        },
+        {
+          "id": "r5",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's export growth seen accelerating in August: Reuters poll",
+          "title_zh": "路透调查：中国8月出口增速料加快至25%，经济续靠外需托底",
+          "published_at": "2026-09-07",
+          "published_precision": "date",
+          "authors": [
+            "Yukun Zhang",
+            "Ryan Woo"
+          ],
+          "author_locations": [
+            "北京"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "出口",
+            "经济数据",
+            "贸易",
+            "GDP"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社9月7日发稿的抽样调查显示，受调查35位经济学家预计中国8月出口按美元计同比增约25%，较7月23.9%加快，因全球AI基建热潮推高芯片等高科技品价格；进口预计增30%，贸易顺差料由7月1125亿美元扩至约1190亿美元。报道指出，出口已成中国经济稳增长支柱，但外需强劲也延缓了当局托底地产与内需的紧迫性，而西方贸易伙伴正施压北京收窄顺差、设贸易壁垒。数据于9月8日由海关正式发布。",
+          "summary_en": "A Reuters poll of 35 economists forecast China's August exports rose about 25% y/y, accelerating from 23.9% in July, buoyed by global AI infrastructure build-out lifting prices of high-tech goods; trade surplus seen widening to ~$119bn.",
+          "china_angle": "出口高增与巨额顺差既是韧性体现，也被西方用作'贸易失衡'话柄，招致多边关税与壁垒压力。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/chinas-export-growth-seen-accelerating-in-august-reuters-poll-2026-09-07/",
+          "body_available": true,
+          "body_zh": "路透社9月7日报道，对35位经济学家的调查显示，中国8月出口按美元计料同比增约25%，高于7月的23.9%，受全球AI基建热潮带动芯片等高科技品价格走高支撑；进口预计增30%（7月为27.5%），贸易顺差或由7月1125亿美元扩至约1190亿美元，数据于9月8日由海关发布。报道称，出口已成世界第二大经济体稳增长的关键支柱，但外需强劲也降低了当局立即出台大规模措施托底地产与内需的紧迫性；与此同时，美国与欧盟均要求北京缩小贸易顺差，并以贸易壁垒相胁。中国设定2026年GDP增长目标区间4.5%—5%，二季度增速放缓至4.3%。",
+          "cited_sources": [
+            "路透调查（35位经济学家）",
+            "中国海关",
+            "中国2026增长目标"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "出口高增（8月约+25%）与顺差近1.2万亿美元，是AI硬件外需与'抢出口'叠加的结果，也折射内需偏弱下经济对外部的倚重加深。对中方而言，这是韧性的实证；但在西方叙事中，巨额顺差被贝森特等用作'全球失衡'话柄，成为G20多边围堵与单边关税（含对台积电式转口、对中方电动车/半导体）的正当化理由。短期看，出口强韧性缓解了稳增长压力、推迟强刺激，却也提高对贸易伙伴政策的外溢敏感度；本月中美峰会前双方探讨300亿美元互降关税，是缓和但也脆弱的窗口。",
+          "provenance": {
+            "evidence_url": "https://lufkindailynews.com/news_reuters/business/chinas-export-growth-seen-accelerating-in-august-reuters-poll/article_2297ae70-380f-5950-a79a-33fdf36fc681.html",
+            "evidence_note": "经 Lufkin Daily News/路透转载复核；署名 Reporting by Yukun Zhang and Ryan Woo，Polling by Susobhan Sarkar、Jing Wang，编辑 Lincoln Feast。"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 11,
+        "by_media": {
+          "路透社": 5,
+          "彭博社": 6
+        },
+        "sentiment_split": {
+          "negative": 4,
+          "neutral": 7,
+          "positive": 0
+        },
+        "negatives": [
+          "r1",
+          "r4",
+          "b5",
+          "b6"
+        ],
+        "top_topics": [
+          [
+            "AI",
+            3
+          ],
+          [
+            "半导体",
+            2
+          ],
+          [
+            "出口",
+            2
+          ],
+          [
+            "电动车",
+            2
+          ],
+          [
+            "科技安全",
+            1
+          ],
+          [
+            "间谍",
+            1
+          ]
+        ],
+        "key_takeaway": "比利时拘留一名涉嫌向中方转移半导体技术的中比双重国籍男子"
+      },
+      "questions": [
+        {
+          "title": "中国AI出海遭遇'可信度'围堵：从舆论质疑到立法限制",
+          "trigger": "彭博观点《你不必信任中国AI》借DeepSeek被'试探中国台湾议题'的插曲，将中国大模型治理与数据安全作为质疑点，主张以'不必信任'姿态看待中国AI出海。",
+          "background": "西方主流财经媒体系列化'中国AI不可信'论述，与美方'undercut Chinese AI sales abroad'的国会立法动向形成呼应；其手法以治理透明度、价值观对齐、数据本地化为杠杆，把技术选择政治化，服务美欧对华AI脱钩与市场份额防守。",
+          "value": "此叙事正从舆论向采购限制与盟友协调转化，是中国AI企业打开西方企业市场必须直面的'信任战'；需跟踪其是否落地为实际出口管制、政府采购排除或盟友协同，并评估对国产大模型海外合规路径的影响。",
+          "evidence": [
+            {
+              "media": "彭博社",
+              "date": "2026-09-07",
+              "title": "You Don't Have to Trust Chinese AI",
+              "url": "https://www.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai"
+            },
+            {
+              "media": "AOL/路透",
+              "date": "2026-09-07",
+              "title": "US lawmakers seek to undercut Chinese AI and tech sales abroad",
+              "url": "https://www.aol.co.uk/articles/us-lawmakers-seek-undercut-chinese-172620015.html"
+            }
+          ],
+          "urgency": "高",
+          "type": "科技/叙事战",
+          "source_type": "西媒评论+立法动向",
+          "angles": [
+            "国会相关议案具体条款",
+            "美方是否推动盟友协调限制",
+            "中国大模型厂商第三方审计/数据本地化应对"
+          ],
+          "watch": [
+            "美国会'undercut Chinese AI'议案进展",
+            "欧盟AI法案对中模型的适用",
+            "主要云/企业采购是否出现排除条款"
+          ],
+          "tags": [
+            "AI",
+            "DeepSeek",
+            "技术脱钩",
+            "信任战"
+          ],
+          "id": "q-2026-09-08-1",
+          "rank": 1
+        },
+        {
+          "title": "西方'司法化技术安全'升级：比利时半导体间谍案与'人形机器人参战'叙事",
+          "trigger": "路透9月7日连发两稿：比利时羁押一名涉嫌向中方转移氮化镓技术的双国籍男子；另据其梳理百份军方材料，称中国正加速研究人形机器人军事用途并规划战时部署。",
+          "background": "对华技术围堵正从出口管制外溢至刑事调查与人员追诉（比利时案为欧洲最新注脚），同时西方将中国正常国防技术预研炒作化为'军事威胁论'（人形机器人稿预设对华立场、却自承'无部署证据'）。两类叙事共同服务'去风险'升级。",
+          "value": "需研判欧洲对华投资审查是否由此案上升为判例、是否引发在欧华裔科研人员连带防范；以及'机器人威胁论'是否被用作渲染'军民融合'风险、为对华技术出口管制与盟友防务协调提供话术。",
+          "evidence": [
+            {
+              "media": "路透社",
+              "date": "2026-09-07",
+              "title": "Belgium detains Chinese man on suspicion of semiconductor espionage",
+              "url": "https://www.reuters.com/world/china/belgium-detains-chinese-man-suspicion-semiconductor-espionage-2026-09-07/"
+            },
+            {
+              "media": "路透社",
+              "date": "2026-09-07",
+              "title": "From dance floor to war: China readies humanoid robots for combat",
+              "url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/"
+            }
+          ],
+          "urgency": "高",
+          "type": "安全/科技",
+          "source_type": "路透调查/梳理",
+          "angles": [
+            "氮化镓双用途与欧洲审查",
+            "军方采购/论文来源的真实性边界",
+            "美欧'去人员/去资本'趋势"
+          ],
+          "watch": [
+            "比利时及欧盟后续司法动作",
+            "G7对华投资审查协调",
+            "西方'中国军事科技'叙事频次"
+          ],
+          "tags": [
+            "半导体",
+            "间谍",
+            "人形机器人",
+            "技术安全"
+          ],
+          "id": "q-2026-09-08-2",
+          "rank": 2
+        },
+        {
+          "title": "巨额顺差成靶心：中国8月出口+25%、前8月顺差超8055亿美元引发多边围堵",
+          "trigger": "彭博与路透9月7—8日报道，中国8月出口同比增约25%、前8个月贸易顺差已超8055亿美元，逼近全年8060亿；同期美国借G20施压重议对华贸易条款、并对中国台湾芯片征关税以逼产能外移。",
+          "background": "出口韧性是AI硬件外需与'抢出口'叠加结果，也折射内需偏弱下经济对外部倚重加深。但在西方话语中，巨额顺差被工具化为'全球失衡'证据，直接服务于G20多边围堵与单边关税（含对台积电式转口、对中方电动车/半导体）。",
+          "value": "本月中美峰会前'300亿美元互降关税'是脆弱缓和窗口；须跟踪欧盟对中国电动车/绿色品壁垒是否升级、顺差扩大是否触发更严'去风险'协调，以及中方'扩大进口+以创新解释增长'的应对能否稳住外部预期。",
+          "evidence": [
+            {
+              "media": "彭博社",
+              "date": "2026-09-08",
+              "title": "China Export Growth Rebounds as Trade Surplus Nears $806 Billion",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather"
+            },
+            {
+              "media": "路透社",
+              "date": "2026-09-07",
+              "title": "China's export growth seen accelerating in August: Reuters poll",
+              "url": "https://www.reuters.com/world/china/chinas-export-growth-seen-accelerating-in-august-reuters-poll-2026-09-07/"
+            }
+          ],
+          "urgency": "中",
+          "type": "经贸",
+          "source_type": "彭博/路透数据",
+          "angles": [
+            "欧盟电动车/绿色品壁垒",
+            "中美峰会前互降关税窗口",
+            "顺差与'去风险'协调"
+          ],
+          "watch": [
+            "本月中美峰会关税成果",
+            "欧盟反补贴税执行",
+            "中国8月海关数据正式发布后反响"
+          ],
+          "tags": [
+            "出口",
+            "贸易顺差",
+            "关税",
+            "G20"
+          ],
+          "id": "q-2026-09-08-3",
+          "rank": 3
+        }
+      ]
+    },
     "2026-09-06": {
       "file": "2026-09-06.json",
       "scan_time": "2026-09-06T22:00:00+08:00",
@@ -25381,202 +26034,194 @@ window.__XFS_DATA__ = {
       "id": "r1",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "China to pump $54 billion into state banks, insurers in capital-boosting push",
-      "title_zh": "中国财政部将向国有银行与保险公司注资540亿美元（约3600亿元人民币）",
-      "published_at": "2026-09-06T12:00:00Z",
-      "published_precision": "day",
+      "title_en": "Belgium detains Chinese man on suspicion of semiconductor espionage",
+      "title_zh": "比利时拘留一名涉嫌向中方转移半导体技术的中比双重国籍男子",
+      "published_at": "2026-09-07",
+      "published_precision": "date",
       "authors": [
-        "Laurie Chen"
+        "Inti Landauro"
       ],
-      "author_locations": "BEIJING",
-      "authors_status": "not_available",
+      "author_locations": [
+        "布鲁塞尔"
+      ],
+      "authors_status": "named",
       "topics": [
-        "中国经济",
-        "财政政策",
-        "银行资本补充",
-        "保险偿付能力",
-        "国有金融",
-        "宏观稳增长"
+        "半导体",
+        "科技安全",
+        "间谍",
+        "中欧关系"
       ],
       "importance": "high",
-      "summary_zh": "路透北京9月6日报道，中国财政部将在周日宣布向国有保险公司与银行合计注入约540亿美元（3600亿元人民币），以协调动作夯实金融体系资本基础。最大寿险公司中国人寿集团获财政部直接注资350亿元，中国太平获70亿元；中国人保拟向财政部定向增发A股募资至多150亿元。银行端，农业银行与工商银行宣布拟通过向财政部、中国烟草总公司及其子公司定向增发A股分别募资至多1600亿元与1000亿元，资金全部用于补充核心一级资本；进出口银行获财政部注资300亿元，中国出口信用保险公司获100亿元注资，中国再保险拟募资30亿元。此次注资背景是净息差收窄、贷款需求疲弱持续侵蚀银行与保险业盈利能力。分析人士指出，近期高层会议均要求更积极的财政政策对冲增长压力，向金融机构注资正是该政策工具箱的组成部分；财政部以如此规模向金融机构注资此前鲜有先例，且此前的少数先例主要用于修复资产负债表与削减风险。",
-      "china_angle": "外媒将此轮注资置于『增长放缓+财政加力』的框架下解读，强调财政部以罕见规模出手的稳增长信号意义；报道同时客观引述公司公告口径（补充核心一级资本、增强服务实体经济能力），呈现北京以财政-金融联动工具托底经济、同时为『十五五』金融稳定蓄能的意图。",
-      "stance": "中性偏审慎（客观报道政策本身，但以贷款需求疲弱、低利率侵蚀盈利为背景铺垫，隐含对增长动能的担忧）",
-      "source_url": "https://www.reuters.com/world/asia-pacific/china-pump-47-bln-into-state-banks-insurers-capital-boosting-push-2026-09-06/",
+      "summary_zh": "比利时联邦检察院证实，一名52岁、持比利时与中双重国籍的男子自5月起被羁押，涉嫌将氮化镓（GaN）半导体知识产权与商业机密非法转移至一家中方背景企业。该男子曾任比利时芯片厂 Belgan（2024年7月破产）研发管理职务，被捕时正于布鲁塞尔机场准备飞往北京；检方称其入职数月后即在中国开设同类芯片公司，背后有中方投资基金支持，不排除另有第二名中国籍嫌疑人在逃。案件被视为欧洲对华技术安全审查升温的最新注脚，凸显氮化镓在电动车、卫星、雷达与军机中的双用途价值。",
+      "china_angle": "西方以'技术安全'为名收紧对华半导体人员与资本流动，将正常商业/科研往来叙事化为'间谍转移'，对华技术围堵从出口管制延伸至司法与人员层面。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/belgium-detains-chinese-man-suspicion-semiconductor-espionage-2026-09-07/",
       "body_available": true,
-      "body_zh": "北京9月6日（路透）——中国财政部将向国有保险公司与银行合计注入约540亿美元，相关公司周日在声明中披露，这是北京协调动作、夯实金融体系资本的最新举措。中国人寿集团——中国最大寿险公司——将获财政部注资350亿元（52亿美元），中国太平保险集团将获70亿元。中国人保集团则公告拟通过向财政部定向增发A股募资至多150亿元，募资用于补充资本。该举措有望为被要求以中长期资金支持股市的国有险企提供支撑，并使其有能力协助监管机构处置规模更小、风险更高的险企。保险业正苦于低利率持续侵蚀盈利能力，多家中小险企偿付能力充足率恶化。中国出口信用保险公司亦披露，财政部将向其注资100亿元以夯实核心资本；中国再保险集团将募资30亿元。银行端，农业银行与工商银行两大行同日公告，拟分别向财政部、中国烟草总公司及其子公司定向增发A股募资至多1600亿元与1000亿元，募资全部用于补充核心一级资本，以在信贷扩张中维持资本充足；贷款需求疲弱仍是拖累这一全球第二大经济体的持续因素，也侵蚀银行业盈利能力。中国进出口银行——三大政策性银行之一——称财政部将向其注资300亿元，以有效夯实资本基础。",
+      "body_zh": "比利时联邦检察院9月7日声明，一名52岁、持比利时与中国双重国籍的男子自5月10日起被羁押，涉嫌在半导体技术案件中从事间谍活动。该男子曾任比利时微芯片制造商 Belgan（主营氮化镓芯片，2024年7月破产）研发部门管理职务，入职数月后即在中国开设一家生产同类芯片的公司，检方怀疑其利用职务便利将专利与商业机密非法转移。被捕时他正于布鲁塞尔机场准备登机飞往北京。检方不排除第二名中国籍嫌疑人涉案（媒体指为 Belgan 前CEO Alan Zhen Zhou）。氮化镓芯片因用于电动车、卫星、雷达与军用硬件而具双用途价值，此案是比利时数月内第二起涉华间谍案，亦折射欧洲多国对'复制至中国'技术获取模式的警惕，料将强化对华战略行业投资审查。",
       "cited_sources": [
-        "中国财政部",
-        "中国人寿保险（集团）公司声明",
-        "中国太平保险集团声明",
-        "中国人民保险集团（上海证交所文件）",
-        "中国农业银行（上交所公告）",
-        "中国工商银行（上交所公告）",
-        "中国进出口银行",
-        "中国出口信用保险公司",
-        "中国再保险（集团）",
-        "香颂资本董事沈萌（Shen Meng）",
-        "标普全球评级（TLAC资本缺口测算背景）"
+        "比利时联邦检察院",
+        "Belgan（破产芯片厂）",
+        "IMEC（产业背景）",
+        "分析人士（欧洲审查趋势）"
       ],
-      "sentiment": "neutral",
-      "is_negative": false,
-      "deep_analysis": "这是2026年中国宏观政策层最重要的单日信号之一，含三重情报含义。其一，政策定调：财政部罕见地以『直接注资+认购定增』双路径、单日集中覆盖8家机构（两大行、两家政策性机构、四家国有保险集团），并与此前预告的3000亿元特别国债发行联动——资金端以特别国债对接，认购端引入中国烟草系统作为战略投资者（工行农行定增中烟草及省级公司合计认购数百亿元），显示本轮资本补充已上升为『财政-金融』协同的国家行动而非个别机构财务操作。其二，覆盖范围扩围：相比2025年对四大行5200亿元的注资，本轮新增政策性金融机构（进出口银行、信保）与商业保险集团（国寿、人保、太平、再保），表明监管对资本消耗的关注点从银行信贷扩张扩展到保险偿付能力（偿二代二期）与长期资金入市能力——险企被要求以中长期资金托底股市，资本充足是其加仓权益的前提，注资为后续险资入市预留弹药。其三，时点选择：9月6日恰在中美领导人9月24日华盛顿峰会前夕、美联储加息预期升温（美8月非农大超预期）与A股缩量震荡背景下落地，既有对冲外部不确定性的防御意义，也有为9月中旬可能的中美AI安全对话与峰会营造国内金融稳定环境的考量。后续观察点：工行、农行定增定价与发行节奏（财政部分别认购700亿/1300亿元）、3000亿元特别国债的发行时点与利率、以及注资后大行信贷投放与险资权益配置的边际变化。整体判断：此举属『蓄能』而非『急救』——主要监管指标仍在健康区间，注资是为应对净息差与利差损长期压力而做的预防性资本加固，短期对市场是情绪利好（国家队托底信号），中期决定信贷与权益市场的增量空间。",
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "该案的情报意义不在单个嫌犯，而在'司法化技术安全'趋势：美方推动的出口管制已外溢至欧盟的刑事调查与人员追诉，将正常的人才流动与中企海外并购预设为'转移通道'。氮化镓属第三代半导体、军民两用，欧洲以此为由收紧对华技术投资审查，实质是把供应链'去风险'升级为'去人员/去资本'。中方回应强调反对将正常经贸科技合作政治化、污名化；后续须关注比利时及欧盟是否将此案上升为对华投资审查的判例，以及是否引发针对在欧华裔科研人员的连带防范。",
       "provenance": {
-        "retrieved_via": "WebSearch多组关键词（Reuters China Sept 6 2026 / China state banks capital boost等）",
-        "evidence_url": "https://theedgemalaysia.com/node/816983",
-        "evidence_note": "The Edge Malaysia全文转载路透社原稿（By Reuters, BEIJING Sept 6），取得完整正文、数据与公司声明细节；原链reuters.com/world/asia-pacific/china-pump-47-bln-into-state-banks-insurers-capital-boosting-push-2026-09-06/经geoffreychen.com每日简报交叉验证"
+        "evidence_url": "https://www.zaobao.com/news/china/story20260907-9639371",
+        "evidence_note": "经联合早报/路透转载复核：比利时检方声明、Belgan 背景、双国籍与在逃嫌疑人；署名记者 Inti Landauro，编辑 Bart Meijer、Andrew Cawthorne。"
       },
-      "_day": "2026-09-06"
+      "_day": "2026-09-08",
+      "summary_en": "Belgian federal prosecutors detained a 52-year-old dual Belgian-Chinese national since May on suspicion of funneling gallium nitride semiconductor IP and trade secrets to a Chinese firm. Arrested at Brussels airport en route to Beijing; a second Chinese national remains at large. Highlights rising EU-China tech-security tensions."
     },
     {
       "id": "r2",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "At flood-destroyed border, China teams scour ruins of once-busy port",
-      "title_zh": "路透现场：中国救援队在遭泥石流摧毁的中尼边境口岸吉隆搜寻废墟",
-      "published_at": "2026-09-06T13:27:00Z",
-      "published_precision": "minute",
+      "title_en": "Beijing expands funding tools to support food security, rural modernization",
+      "title_zh": "中国六部门扩大融资渠道 支持粮食安全和农村现代化",
+      "published_at": "2026-09-07",
+      "published_precision": "date",
       "authors": [
-        "Nicoco Chan",
-        "Tingshu Wang"
+        "Liz Lee",
+        "Beijing newsroom"
       ],
-      "author_locations": "GYIRONG, China（西藏吉隆）",
+      "author_locations": [
+        "北京"
+      ],
       "authors_status": "named",
       "topics": [
-        "西藏吉隆泥石流",
-        "中尼关系",
-        "自然灾害",
-        "跨国救援",
-        "冰湖灾害",
-        "信息透明度",
-        "人道主义"
+        "农村经济",
+        "粮食安全",
+        "财政政策",
+        "乡村振兴"
       ],
-      "importance": "high",
-      "summary_zh": "路透吉隆9月6日电——中国官员6日表示，搜救人员又找到12具遗体，针对8月26日摧毁中尼主要陆路口岸的泥石流灾害的数百名失踪者搜寻仍在继续。这场由尼泊尔侧冰川崩塌引发的泥石流已造成中尼边境两侧逾1300人死亡、5000余人失踪；中方一侧截至5日确认43人遇难、519人失联，其中261名外籍人员来自23个国家。路透等国际媒体在中国外交部组织的首次境外媒体探访中进入位于狭窄河谷的吉隆口岸：原五层海关大楼荡然无存，近20米高的国门只剩插着中国国旗的位置，搜救人员在写着『危险区域快速通过』的警示牌后挖掘废墟。官员称已通过指纹、纹身等特征登记遗体并收集993件遗物。四个有公民失踪的政府私下对中方信息共享有限表达不满，并称中方未说明DNA识别计划；中国外交部回应称其发布信息『透明及时』。外籍失踪者中许多是取道尼泊尔前往冈仁波齐的印度朝圣者，印度公民49人。中方官员否认预警不足的质疑，表示该灾害发生在尼泊尔侧。",
-      "china_angle": "路透现场稿以灾难现场与国际诉求为双主线：一方面客观呈现中国大规模救援（2500余人、500多台车辆、无人机千余架次）与中方组织境外媒体实地探访的开放姿态；另一方面借四国政府私下抱怨与DNA识别、监控视频共享等悬而未决问题，保留对中方信息透明度的质疑空间，属『开放现场+遗留问责点』并置的报道策略。",
-      "stance": "中性偏负（现场描写克制客观，但突出外籍家属信息诉求与中方透明度争议）",
-      "source_url": "https://www.reuters.com/world/asia-pacific/flood-destroyed-border-china-teams-scour-ruins-once-busy-port-2026-09-06/",
+      "importance": "medium",
+      "summary_zh": "中国农业农村部、中央农办、国家发改委、财政部、央行、金融监管总局六部门9月7日印发《坚持农业农村优先发展 完善乡村振兴投入机制实施方案》，目标到2030年建立财政、信贷、保险、债券、民间资本协同的多元投入格局。方案要求农业与农村在预算分配中优先、加大对粮食主产区利益补偿，允许地方用专项/一般债投向农村基建与产业，鼓励银行向产粮大县与种业县放贷，扩面稻谷小麦玉米大豆完全成本与种植收入保险，并支持乡村振兴基金、农业企业发债上市及基础设施REITs。",
+      "china_angle": "粮食安全被上升为战略性财务架构问题，以多元融资对冲外部不确定性与内需偏弱，体现'以我为主'的供给保障思路。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/beijing-expands-funding-tools-to-support-food-security-rural-modernization-2026-09-07/",
       "body_available": true,
-      "body_zh": "吉隆，9月6日（路透）——中国官员周日表示，搜救人员又找到12具遗体，针对这场摧毁中国与尼泊尔主要陆路口岸的海啸式泥石流中数百名失踪者的搜寻仍在继续。身着亮橙色制服的救援人员用挖掘机、铁铲与探地雷达，在被掩埋的吉隆口岸现场搜寻。8月26日尼泊尔一侧冰川崩塌后，视频显示一道黑色水、泥与碎石构成的巨浪几乎未给预警便席卷口岸。路透等媒体在中国外交部组织的首次国际媒体探访中进入该陆路口岸。泥石流已造成边境两侧逾1300人死亡、逾5000人失踪；中方一侧截至周六确认43人遇难、519人失联，其中261名外籍人员来自23个国家。原本矗立边境的五层海关大楼已无踪影，唯一可见的结构是一座水塔的残件；工人们在近20米高国门原址插上中国国旗。官员告诉探访记者，救援队正在采集指纹并记录纹身等特征，现场已收集993件个人物品。代表失踪公民的四国政府私下对中方信息共享有限表示日益沮丧；中方未说明遗体DNA鉴定的推进方案，也未答复口岸监控视频（含人脸识别画面）能否与家属共享。中国外交部表示其灾情信息发布『透明及时』，愿与各国及机构合作。曾是历史贸易枢纽的吉隆在2015年地震后成为中尼主要通道；官员表示将研究是否以不同方式重建。失踪外籍人员多为经尼泊尔赴冈仁波齐的朝圣者，其中印度公民49人。中方对『本可提供更多预警』的任何暗示予以反驳，并称此次灾害发生在尼泊尔侧，需加强国际合作以提升监测预警能力。",
+      "body_zh": "中国农业农村部等六部门9月7日公布《坚持农业农村优先发展 完善乡村振兴投入机制实施方案》，提出到2030年基本建立与农业农村发展水平相适应、结构合理、质效并重的乡村振兴投入机制。方案要求政府资金优先保障农业农村，加大对粮食主产区利益补偿、实施产销区省际横向补偿；发挥债券资金支农作用，允许地方将专项/一般债用于农村基础设施、产业与公共服务；提升信贷效能，鼓励银行向产粮大县、种业大县创新信贷产品并加大首贷、信用贷供给；用好保险工具，扩面稻谷、小麦、玉米、大豆的完全成本与种植收入保险；激发民间投资，鼓励乡村振兴基金与市场渠道参与，支持符合条件农业企业发债、上市及基础设施REITs；盘活农村资源资产，支持集体与企业在光伏、风电等新能源项目合作。方案同时强调加强涉农投资监管。",
       "cited_sources": [
-        "西藏自治区吉隆县『8·26』泥石流灾害应急救援指挥部",
-        "中国外交部",
-        "四国政府代表（对信息共享表达关切，匿名）",
-        "印度驻华外交官（49名印度公民失踪）",
-        "应急救援指挥部副指挥长诺布次仁（Norbu Tsering）",
-        "吉隆口岸现场救援人员"
+        "中国农业农村部等六部门",
+        "《完善乡村振兴投入机制实施方案》"
       ],
-      "sentiment": "negative",
-      "is_negative": true,
-      "deep_analysis": "这是西风哨对西藏吉隆『8·26』冰川崩塌-泥石流灾害（此前批次已收录道路抢通与救援进展）的重要阶段节点稿，新增三个值得研判的信号。其一，外籍伤亡规模成为国际关注焦点：中方确认261名外籍失联者涉及23国，其中印度49人、尼泊尔数百人——灾害从『中国西南边境灾情』升维为『多国公民涉险』的外交事件，印度作为冈仁波齐朝圣路线的主要来源国，其舆论与外交压力（49名公民失踪）是未来数周需重点跟踪的中印关系变量。其二，信息透明度争议形成持续舆情风险：四国政府『私下不满+公开克制』的姿态、DNA识别方案未公布、口岸监控视频（含人脸识别）未共享，这三个具体问号很可能成为外媒后续追问的固定抓手；中方以『透明及时』正面回应并组织境外媒体探访，属主动对冲，但灾区画面在境内被严格管控（AOL同源报道提及）与对外信息开放的『内外有别』，可能被外媒用作批评素材。其三，预警能力议题被刻意归因于尼泊尔侧：中方强调灾害源头在尼境、自身冰湖监测体系（3000余冰湖、187个高危）完备，意在切割责任；但喜马拉雅冰川灾害的跨境联动特性决定了单纯归因难以服众，尼方与国际社会对数据共享机制的诉求将持续存在。后续观察：DNA鉴定与外籍遗体遣返安排、印度官方表态、吉隆口岸重建方案（涉及对尼贸易通道与中尼铁路规划）以及中尼防灾信息通报机制的实际运作。整体研判：中方在救援投入与信息开放上做了功课，但『多国公民+监控数据』的组合使本案具备演变为持续性国际舆论议题的潜质，建议作为中尼/中印关系与涉藏议题的长期跟踪点。",
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "该方案是把'粮食安全'从农业政策升级为金融架构的信号：在外部贸易摩擦与内需偏弱的双重背景下，北京试图用公共预算+信贷+保险+资本市场+民资的组合，降低对海外农产品供应链的依赖、稳定主粮与种业产能。对美欧农业出口商（尤其大豆、谷物）而言，中国 domestic 产能与自给率提升将缓慢改变其进口结构；但中国消费体量决定了全球供应商仍长期关注其供需缺口。短期看，这是逆周期稳增长、补'三农'短板的财政举措，并非针对外部的对抗性动作。",
       "provenance": {
-        "retrieved_via": "WebSearch（Reuters Gyirong landslide foreigner missing 等）",
-        "evidence_url": "https://www.thehindu.com/news/international/at-flood-destroyed-border-china-teams-scour-ruins-of-once-busy-port/article71436112.ece",
-        "evidence_note": "AOL/The Hindu全文转载路透原稿（By Nicoco Chan and Tingshu Wang, GYIRONG, Sept 6），取得完整正文、署名与电头；发稿时间2026-09-06 21:27 GMT+8经AOL时间戳确认，归入09-06批次"
+        "evidence_url": "https://www.asiaone.com/china/beijing-expands-funding-tools-support-food-security-rural-modernisation",
+        "evidence_note": "经 AsiaOne/路透转载复核全文；署名 Reporting by Liz Lee and Beijing newsroom，编辑 Tom Hogue、Stephen Coates。"
       },
-      "_day": "2026-09-06"
+      "_day": "2026-09-08",
+      "summary_en": "China's agriculture ministry and five other bodies unveiled a plan to bolster rural financing through 2030, combining fiscal support, credit, insurance, bonds and private capital to strengthen food security and modernize rural areas."
     },
     {
       "id": "r3",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "EXCLUSIVE-Top China steelmaker Baowu eyes stake in BHP iron ore mine, sources say",
-      "title_zh": "独家：中国宝武拟入股必和必拓金布巴铁矿，或持股15%—25%",
-      "published_at": "2026-09-04T07:00:00Z",
-      "published_precision": "day",
+      "title_en": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
+      "title_zh": "中国台湾借半导体优势大打'晶片外交'牌，在美欧投资施压下谋划产能外移",
+      "published_at": "2026-09-07",
+      "published_precision": "date",
       "authors": [
-        "Lewis Jackson",
-        "Yantoultra Ngui",
-        "Melanie Burton"
+        "Ben Blanchard",
+        "Wen-Yee Lee"
       ],
-      "author_locations": "BEIJING/SINGAPORE/MELBOURNE",
+      "author_locations": [
+        "台北"
+      ],
       "authors_status": "named",
       "topics": [
-        "钢铁",
-        "铁矿石",
-        "对外投资",
-        "中澳关系",
-        "资源安全",
+        "半导体",
+        "台海",
+        "中美科技",
         "供应链"
       ],
-      "importance": "medium",
-      "summary_zh": "路透9月4日独家报道，全球最大钢铁企业中国宝武钢铁集团正考虑收购必和必拓（BHP）位于西澳的金布巴（Jimblebar）铁矿少数股权，拟持股15%至25%，股权将来自必和必拓所持份额；两名知情人士未给出估值或其他细节，因商业敏感而匿名。必和必拓持股85%，日本伊藤忠与三井物产持少数股权；该矿2014年投产时必和必拓称其权益价值32亿美元，2026财年产量约6250万吨、按现价约合62亿美元，约占必和必拓铁矿石产量的四分之一。必和必拓拒绝置评，宝武未回应；尚无决定，交易能否达成无确定性。报道指出，部分熟悉必和必拓业务的银行家质疑此类交易是否符合其「从中国买家处获取矿石最大价值」的策略；中国矿产资源集团（CMRG）近年代表钢厂与矿商谈判，并多次禁用特定产品以争取让步，双方去年长达半年的争端于今年4月和解。澳大利亚曾是中国企业投资首选地之一，但受堪培拉国家安全审查影响，中国已跌出对澳前十大外资来源地。",
-      "china_angle": "外媒将宝武入股置于「中资重返澳洲资源领域」与「堪培拉安全审查」的双重框架下，既呈现中国钢企向上游延伸的资源安全逻辑，也预设监管阻力。",
-      "stance": "中性偏负面（商业事实报道，附带中资投资安全化质疑）",
-      "source_url": "https://www.stockopedia.com/share-prices/bhp-LON:BHP/news/top-china-steelmaker-baowu-eyes-stake-in-bhp-iron-ore-mine-sources-say-01a06b7c-974e-74b2-b6be-777543c81f6c",
+      "importance": "high",
+      "summary_zh": "路透社发自台北的报道称，中国台湾在上周 SEMICON Taiwan 展上以'民主、可靠的AI供应方'自我定位，示意在芯片红利上向理念相近伙伴分享，同时面临美欧要求其将更多产能移出岛内的压力。台积电正斥资2650亿美元在亚利桑那建厂；台湾经济部称业界拟追加200亿美元在美投资。美国商务部长 Lutnick 称将对不在美生产芯片的企业征半导体关税；欧盟委员会亦借展会推介《晶片法案2.0》争取台资赴欧。报道同时提及北京一贯主张台湾是中国省份、并阻挠其国际空间。",
+      "china_angle": "美欧以'投资换可靠供应'拉拢中国台湾半导体产能，本质是将其嵌入对华技术围堵阵营、削弱两岸产业联结；相关叙事持续将台湾塑造为'民主供应链'节点，与中方主权立场直接对冲。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/taiwan-flexes-chip-diplomacy-muscles-as-it-faces-pressure-to-share-ai-wealth-with-allies-2026-09-07/",
       "body_available": true,
-      "body_zh": "北京/新加坡/墨尔本9月4日（路透）——全球最大钢铁企业中国宝武钢铁集团正关注必和必拓西澳金布巴铁矿的少数股权，两名知情人士称。宝武考虑取得15%至25%的股份，将来自必和必拓所持份额；信源未给出潜在估值或其他细节，因商业敏感匿名。必和必拓拒绝置评，宝武未回应置评请求；尚未作出决定，交易是否达成无确定性。必和必拓持有该矿85%，日本伊藤忠与三井物产持少数股权。该矿2014年投产时必和必拓称自身权益价值32亿美元；2026财年为必和必拓产出约6250万吨铁矿石，按现价约值62亿美元，约占其铁矿石产量的四分之一。熟悉必和必拓业务的银行家质疑，此类交易是否符合公司「从中国买家处获取矿石最大价值」的策略——中国矿产资源集团代表钢厂与矿商谈判，曾多次禁用特定产品以争取让步；必和必拓与CMRG今年4月结束了逾半年争端。（记者 Lewis Jackson、Yantoultra Ngui、Melanie Burton；附加报道 Amy Lv；编辑 Tony Munroe、Jan Harvey）",
+      "body_zh": "路透社9月7日发自台北报道，中国台湾在 SEMICON Taiwan 展上大打'晶片外交'牌，将自身定位为AI时代民主、可靠的芯片供应方，并示意愿与理念相近伙伴分享半导体红利。报道称，长期面临外交孤立的台湾一直试图借科技实力争取国际支持，而北京一贯主张台湾是中国的一个省份并阻挠其国际空间。与此同时，台湾承受美欧要求其将更多芯片制造移出岛内的压力：作为台湾最重要国际靠山与军售方，美国要求其将产能转向本土，台积电正斥资2650亿美元在亚利桑那建厂；台湾经济部长孔铭鑫称业界拟追加200亿美元在美投资。美国商务部长卢特尼克表示将对不在美生产芯片的企业开征半导体关税；欧盟委员会官员格罗斯赴展会推介《晶片法案2.0》争取台资赴欧。鸿海刘扬伟称企业要'与台湾一起造、而非只在台湾造'，日月光吴田认为产能外移'政治上正确'。",
       "cited_sources": [
-        "两名知情人士（匿名）",
-        "必和必拓(BHP)（拒绝置评/回应仍致力西澳铁矿业务）",
-        "中国宝武钢铁集团（未回应）",
-        "中国矿产资源集团(CMRG)",
-        "日本伊藤忠、三井物产",
-        "熟悉BHP业务的银行家",
-        "西澳皮尔巴拉地区里奥廷托2022年20亿美元铁矿项目（宝武先例）"
+        "台积电",
+        "台湾经济部",
+        "赖清德",
+        "美国商务部 Lutnick",
+        "欧盟委员会 Gross",
+        "鸿海 刘扬伟",
+        "日月光 吴田",
+        "路透社"
       ],
       "sentiment": "neutral",
       "is_negative": false,
-      "deep_analysis": "这条独家稿的实质是美方把AI议题「双边机制化」的一次关键布局，其操作手法与危害都在于议程设置。第一，主导权设计：会谈由财政部长贝森特牵头而非国务院或商务部，意味着美方把AI定位为「经济与金融风险」而非单纯技术议题，便于与关税、投资审查、出口许可打包交易；美方提出的「实验室自我监督+信息共享」看似对等，实则为后续索取中国模型训练细节、算力部署与发布前评估数据预留制度接口。第二，议程夹带：稿件明确点出美方要提「中国蒸馏美国专有模型」与「中国未来Mythos级网络攻击能力」，前者是6月克拉齐奥斯指控月之暗面的延续，后者属对未来能力的预防性指控——两者都无公开证据，一旦进入正式对话记录，就从媒体指控升格为双边议题，这是最需警惕的「议题洗白」路径。第三，我方机会：中方近一周公开警示「极端AI失控风险」并强调任何前沿AI限制应同等适用于中美模型，这条「对等适用」原则是对抗美方单边安全化的最佳抓手，应固化为核心议程。建议：一是把对话成果锁定在「危机沟通渠道+极端风险事故通报+测试评估互认」三项可交付物，拒绝把出口管制、实体清单、算力准入纳入同一篮子；二是坚持「对等适用」原则，要求美方任何发布前审查标准同样约束其本国模型；三是对蒸馏指控坚持「拿证据、走司法或标准程序」，避免在技术层面自证。",
+      "deep_analysis": "此稿是西方将半导体'同盟化'的典型叙事：把中国台湾的先进制程包装为'民主供应链'资产，用以服务美欧'去风险'与对华技术围堵。对中方而言，其战略含义有三：一是美欧以市场准入（关税豁免）换取台积电等产能落地本土，实质是把两岸产业纽带拆解、重组到对华遏制阵营；二是'晶片外交'持续为台湾拓展国际空间提供话术，与一中原则对冲；三是大陆CXMT等内存厂商市占快速攀升（报道引述数据称Q2达全球DRAM收入约10%），正在改变博弈筹码。后续须关注美对韩内存关税威慑是否外溢至对华、以及台积电赴美/赴欧产能是否加速稀释岛内战略价值。",
       "provenance": {
-        "retrieved_via": "通道C(WebSearch)+stockopedia全文转载路透独家与mining.com交叉印证",
-        "evidence_url": "https://www.mining.com/baowu-eyes-stake-in-bhps-massive-jimblebar-iron-ore-mine",
-        "evidence_note": "mining.com 全文转载路透独家，含15%—25%持股区间、Jimblebar 2026财年6250万吨产量、BHP持股85%、CMRG争端和解等细节；stockopedia 转载版本保留路透完整署名 Reporting by Lewis Jackson in Beijing and Yantoultra Ngui in Singapore; Additional reporting by Melanie Burton in Melbourne and Amy Lv in Shanghai; Editing by Tony Munroe and Jan Harvey。"
+        "evidence_url": "https://theedgemalaysia.com/node/817021",
+        "evidence_note": "经 The Edge Malaysia/路透转载复核全文；署名 By Ben Blanchard & Wen-Yee Lee / Reuters，编辑 Stephen Coates。"
       },
-      "_day": "2026-09-05"
+      "_day": "2026-09-08",
+      "summary_en": "Taiwan flexed its chip diplomacy at SEMICON Taiwan, portraying itself as a democratic, reliable AI chip supplier willing to share semiconductor wealth with allies, while facing US and EU pressure to shift more chip manufacturing abroad. TSMC is investing $265bn in Arizona; Taiwanese firms plan another $20bn US investment."
     },
     {
       "id": "r4",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "Exclusive-Citi eyes China brokerage unit licence as soon as this month, sources say",
-      "title_zh": "独家：花旗有望本月获中国全资券商牌照，计划年内扩员至约百人",
-      "published_at": "2026-09-04T11:00:00Z",
-      "published_precision": "day",
+      "title_en": "From dance floor to war: China readies humanoid robots for combat",
+      "title_zh": "从舞池到战场：中国为人形机器人'参战'做准备",
+      "published_at": "2026-09-07",
+      "published_precision": "date",
       "authors": [
-        "Selena Li"
+        "Eduardo Baptista"
       ],
-      "author_locations": "HONG KONG",
+      "author_locations": [
+        "北京"
+      ],
       "authors_status": "named",
       "topics": [
-        "金融开放",
-        "外资券商",
-        "中美经贸",
-        "资本市场",
-        "华尔街"
+        "军事",
+        "人形机器人",
+        "国防科技",
+        "AI"
       ],
-      "importance": "medium",
-      "summary_zh": "路透香港9月4日独家报道，两名知情人士称，花旗集团预计最快本月获得中国全资券商业务的监管批文，并计划未来数月为该部门增员数十人，年底前将人数翻番至约100人。最终批文时间可能安排在习近平9月下旬访华盛顿会见特朗普前后；花旗拒绝置评。花旗2021年底即申请全资境内券商牌照，拟开展A股经纪、承销、研究与自营交易业务，与其现有以离岸为主的中国投行团队互补。该行将聚焦科技、医疗、消费与金融机构，主攻中国成熟企业龙头及AI、芯片等新兴公司，并依托现有在岸企业与商业银行客户基础争取A股股权与并购项目。报道指出，尽管近年中美地缘紧张，北京仍持续扩大华尔街机构进入数万亿美元金融市场的通道以吸引资本流入；高盛中国证券子公司2025年利润近三倍增至14.6亿元，摩根大通近四倍增至9.84亿元，摩根士丹利增七倍至1.38亿元。同时亦有外资机构退出——路透上月报道富达国际拟关闭中国基金管理业务，施罗德已将境内团队与产品转让给路博迈。",
-      "china_angle": "外媒以「花旗获批」作为中国金融业扩大开放的样本，同时点出外资在超竞争环境下的进退并存，隐含对开放红利与本土竞争的双重观察。",
-      "stance": "中性偏正面（呈现金融开放持续推进，附竞争压力提示）",
-      "source_url": "https://srnnews.com/exclusive-citi-eyes-china-brokerage-unit-licence-as-soon-as-this-month-sources-say",
+      "importance": "high",
+      "summary_zh": "路透社经梳理100余份中国军方采购公告、论文、专利与官方材料发现，中国国防体系正加速研究人形机器人的军事用途并规划其战时部署：军方按战场需求测试人形机器人、寻求采购相关训练技术，工作于2025—2026年明显提速，聚焦感知、操控与训练数据。国防科技大学论文设想6台'战斗机器人'（人形/机器狗/无人车）编组清剿城市建筑；《解放军报》呼吁加快前沿技术向训练场转化。路透称未见解放军已部署武装人形机器人的证据，并引述专家指其能耗高、复杂环境可靠性不足。",
+      "china_angle": "西方借'人形机器人参战'叙事将中国正常国防技术预研炒作化为'军事威胁论'，刻意忽略美欧同类研究，属典型双重标准。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
       "body_available": true,
-      "body_zh": "香港9月4日（路透）——花旗集团预计最快本月获得全资中国券商业务的监管批文，并计划未来数月为该部门增员数十人，两名知情人士称。期待已久的最终批文可能在习近平9月下旬访美会见特朗普前后落地，该时点此前未被报道。花旗拒绝置评。该行2021年底申请全资境内券商牌照，拟开展A股经纪、承销、研究与自营交易，与其现有以离岸为主、支持境内企业海外融资的投行团队互补；年底前员工数将倍增至约100人，涵盖高级前线银行家至支持岗位，通过内部调任与外部招聘结合，部分人员将从香港及亚洲其他市场调任。新业务将聚焦科技、医疗、消费与金融机构，锁定中国成熟企业龙头及AI与芯片等新兴公司。尽管中美地缘紧张，北京仍在扩大华尔街进入其数万亿美元金融部门的通道以吸引资本流入。（记者 Selena Li；编辑 Sumeet Chatterjee、Jamie Freed）",
+      "body_zh": "路透社9月7日发自北京报道，上月世界人形机器人运动会上机器人跳跃、拳击、跳舞，部分百米速度超过博尔特；赛事结束两天后，《解放军报》即呼吁科研人员加快将前沿技术从实验室推向军事训练场，用于机器人'战斗员'。路透梳理100余份中国军方采购公告、学术论文、专利、官方出版物与军工材料后发现，国防体系正加速研究人形机器人军事用途并规划战时部署，2025—2026年明显提速，重点在感知、操控与训练数据。国防科技大学西安试验中心论文设想6台'战斗机器人'（人形/机器狗/无人车）分两组与地面部队逐层清剿建筑；中国北方工业集团'伏羲'机器人可执行哨戒、侦察、巡逻。报道承认未见解放军已部署武装人形机器人的证据，并引述 UCLA 洪（Dennis Hong）、卡内基梅隆 Johnson 等专家指其能耗高、复杂环境可靠性不足；亦提及美国陆军已启动'军事化人形能力'竞赛。",
       "cited_sources": [
-        "两名知情人士（匿名）",
-        "花旗集团（拒绝置评）",
-        "高盛、摩根大通、摩根士丹利中国证券子公司2025年年报利润数据",
-        "富达国际、施罗德、路博迈（外资进退案例）",
-        "花旗CEO简·弗雷泽（5月随特朗普访华的唯一女性全球银行行长）"
+        "解放军报",
+        "国防科技大学",
+        "PLA采购公告",
+        "BofA Global Research",
+        "UCLA Dennis Hong",
+        "卡内基梅隆 Aaron Johnson",
+        "中国台湾国防安全研究院 周若敏",
+        "美国陆军"
       ],
-      "sentiment": "positive",
-      "is_negative": false,
-      "deep_analysis": "法国“反超快时尚”法引发的这场中法摩擦，表面是环保立法、实质是绿色贸易壁垒的预演。第一，路透已点明该法的“选择性”——按上架数量与可维修性两项表面中立指标计分，结果主要击中采用海量SKU、高频上新的希音与Temu，而Zara、H&M因品类较少预计不受影响，法国参议院审议期间也明确意在“针对Shein和Temu、避免惩罚欧洲成衣业”，这正是中方“双重标准”指控的事实基础。第二，中方的回应层级明显升级：从“强烈不满、坚决反对”到明确“敦促立即停止”并警告“采取必要措施”“一切后果由法方承担”，措辞接近贸易反制预告，预示若法方不退让，可能诉诸WTO争端或对称性贸易措施。第三，这并非孤立事件——欧盟绿色门槛（碳边境、EPR、DPP）正系统化为新的市场准入条件，法国个案将成为后续纺织品、消费电子、新能源产品对欧出口的合规压力测试。我方应将叙事锚定在“WTO非歧视原则+真实环境关联”两条法律线，同时推动企业建立绿色合规与供应链透明度体系，把被动“被监管”转为主动“定标准”。",
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "路透此长篇属'中国军事威胁论'的科技变体：把中国正常的前沿技术预研、理论探讨与测试，拼接为'机器人部队即将成军'的叙事，且预设对华立场。值得注意三点：其一，报道自身承认'无证据显示已部署武装人形机器人'，却仍以'规划''预研'定性为威胁，逻辑上自相矛盾；其二，刻意忽略美欧早已将无人/智能装备投入战场测试的事实，构成双重标准；其三，借'城市作战''对台防御推演'等场景制造紧张联想。中方专家已驳斥其夸大与技术误读。情报上，此稿反映西方对华军事科技叙事的常态化炒作，后续可能被用于渲染'中国军民融合'风险、为对华技术出口管制与盟友防务协调提供话术。",
       "provenance": {
-        "retrieved_via": "通道C(WebSearch)+srnnews全文转载路透独家与TradersUnion/Seeking Alpha交叉",
-        "evidence_url": "https://srnnews.com/exclusive-citi-eyes-china-brokerage-unit-licence-as-soon-as-this-month-sources-say",
-        "evidence_note": "srnnews 全文转载路透独家，含电头 HONG KONG, Sept 4 (Reuters)、完整署名 (Reporting by Selena Li; Editing by Sumeet Chatterjee and Jamie Freed)，及批文时点、百人编制、A股业务范围、高盛/摩通/大摩利润数据；The Edge Malaysia「China Focus」9月4日同类条目佐证。"
+        "evidence_url": "https://www.yahoo.com/news/articles/dance-floor-war-china-readies-060429355.html",
+        "evidence_note": "经 Yahoo/路透转载复核全文；署名 By Eduardo Baptista，发自北京；含被引专家与采购/论文来源。"
       },
-      "_day": "2026-09-05"
+      "_day": "2026-09-08",
+      "summary_en": "Reuters review of 100+ Chinese military procurement notices, papers and patents finds China's defense establishment is accelerating research into humanoid robots' military uses and planning wartime deployment, with work gaining momentum in 2025-2026."
     },
     {
       "id": "b1",
       "media": "Bloomberg",
       "media_zh": "彭博社",
-      "title_en": "China Mega Banks, Insurers Seek at Least $53 Billion in Capital",
-      "title_zh": "彭博：中国大型银行与保险机构寻求至少530亿美元资本补充",
-      "published_at": "2026-09-06T12:00:00Z",
-      "published_precision": "day",
+      "title_en": "BYD Eyes 2.5 Million Overseas Sales as Price War Rages at Home",
+      "title_zh": "比亚迪瞄准2027年海外销量超250万辆，国内价格战下加速出海",
+      "published_at": "2026-09-08T05:33:19Z",
+      "published_precision": "datetime",
       "authors": [
         "Dong Cao",
         "Julia Fioretti",
@@ -25586,176 +26231,157 @@ window.__XFS_DATA__ = {
       "author_locations": "BEIJING",
       "authors_status": "not_available",
       "topics": [
-        "中国经济",
-        "银行资本",
-        "财政注资",
-        "险企偿付能力",
-        "特别国债",
-        "金融市场稳定"
+        "电动车",
+        "比亚迪",
+        "出海",
+        "价格战"
       ],
-      "importance": "high",
-      "summary_zh": "彭博9月6日报道，中国最大的银行与保险机构正寻求至少3570亿元人民币（约532亿美元）的资本补充，其中财政部承担超过80%的出资，北京意在支撑资产负债表、在放缓的经济中维持增长。农业银行拟募资至多1600亿元，工商银行拟定向增发募资1000亿元，两家均表示资金将全部用于补充核心一级资本，相关文件周日提交上交所。据公告，财政部将认购农行定增中1300亿元、工行定增中700亿元；财政部还将全额认购人保集团150亿元的定增，并向进出口银行注资300亿元、向中国人寿注资350亿元、向中国太平注资70亿元、向中国出口信用保险公司注资10亿元。报道指出，中国顶级国有金融机构目前资本充足率保持充裕，但北京依赖银行提供廉价信贷支持经济，持续挤压其利润。新一轮注资意在缓解银行息差压力、扩大放贷能力并增厚潜在坏账拨备。本轮融资延续2024年末以来的势头——2025年初，中国银行与邮储银行等四家银行曾获合计约690亿美元的主权债注资。",
-      "china_angle": "彭博以『财政部为账本买单逾八成』的视角突出本轮注资的财政主导色彩，并将其与2025年四行690亿美元注资串联为持续的政策脉络，隐含对银行在廉价信贷要求下盈利承压、需持续外部输血的观察。中方立场则强调其为前瞻性、主动的资本加固，机构指标处于健康区间。",
-      "stance": "中性偏审慎（突出盈利承压与增长放缓背景，但客观呈现注资规模与结构）",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-09-06/agb",
+      "importance": "medium",
+      "summary_zh": "比亚迪设定雄心目标：2027年海外销量突破250万辆，加速向中国市场以外扩张；与此同时国内激烈价格战正侵蚀利润。公司同时将2026年海外销售指引从此前150万辆上调至190万—200万辆。报道称，出海是比亚迪对冲国内内卷、寻找新增长极的核心策略，但海外也面临关税、本地化与品牌壁垒。",
+      "china_angle": "中国电动车龙头以规模与成本优势出海，正遭遇欧美关税与本地化壁垒，是中外产业竞争的缩影。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-08/byd-eyes-2-5-million-overseas-sales-as-price-war-rages-at-home",
       "body_available": true,
-      "body_zh": "（彭博）——中国最大的银行与保险公司正寻求至少3570亿元人民币（532亿美元）的资本补充，财政部承担其中逾80%的出资，北京力图在放缓的经济中支撑资产负债表并维持增长。据周日在上海证交所提交的文件，农业银行拟募资至多1600亿元，工商银行另拟定向增发募资1000亿元，两家银行均表示全部资金将用于补充核心一级资本。财政部将认购农行定增中1300亿元、工行定增中700亿元。此外，财政部将全额认购人保集团150亿元的股份配售，并向进出口银行出资300亿元、向中国人寿出资350亿元、向中国太平出资70亿元、向中国出口信用保险公司出资10亿元。中国顶级国有金融机构目前维持充裕的资本充足率，但北京依赖放贷机构提供廉价信贷以支持经济，持续挤压其利润。新一轮注资旨在缓解银行的利润空间压力、扩大放贷能力，并为潜在坏账增厚拨备。本轮融资延续2024年末以来的政策动能——2025年初，中国银行与邮储银行等四家银行曾获合计约690亿美元、由主权债注资的资本补充。",
+      "body_zh": "比亚迪设定雄心目标：2027年海外销量突破250万辆，加速向中国市场以外扩张；国内激烈价格战正侵蚀其利润。公司同时将2026年海外销售指引从此前约150万辆上调至190万—200万辆。报道指，出海是比亚迪对冲国内'内卷'、寻找新增长极的核心策略；但在海外，比亚迪面临关税（如欧盟反补贴税、部分市场壁垒）、本地化生产与品牌认知等挑战。比亚迪凭借电池与整车垂直整合的成本优势，在东南亚、拉美、欧洲部分市场快速放量，海外营收占比持续提升。",
       "cited_sources": [
-        "中国财政部",
-        "中国农业银行（上交所文件）",
-        "中国工商银行（上交所文件）",
-        "中国人民保险集团",
-        "中国进出口银行",
-        "中国人寿保险集团",
-        "中国太平保险集团",
-        "中国出口信用保险公司"
+        "比亚迪（销量指引/公告）"
       ],
       "sentiment": "neutral",
       "is_negative": false,
-      "deep_analysis": "彭博稿补充了路透稿未充分展开的两个关键信息维度。一是『财政部承担逾80%出资』的结构判断：按公告测算，财政部直接出资/认购合计约3000亿元（农行1300亿+工行700亿+人保150亿+进出口300亿+国寿350亿+太平70亿+信保10亿+再保相关部分），叠加此前预告的3000亿元特别国债发行计划，印证本轮注资本质是『以国家信用（特别国债）为金融机构资本兜底』——这既是对全球系统重要性银行TLAC等监管资本要求的主动满足（标普曾测算四大行TLAC资本缺口以万亿计），也意味着国有金融体系的中长期扩张空间由国家财政背书，而非依赖市场再融资，降低了对A股/H股二级市场的抽血效应。二是『缓解利润空间压力、增厚坏账拨备』的定位，与2025年四行5200亿元注资形成政策连续性——上一次注资发生在银行业净息差历史低位的背景下，本轮则叠加保险业利差损（长期低利率下存量高预定利率保单）与偿二代二期资本消耗加快的双重压力，险企被纳入注资范围显示监管已将保险业稳定视为金融稳定的核心支柱。情报研判：该事件对市场的中期含义大于短期——短期A股大金融板块或受『国家队增信』情绪提振（历史参照：2025年注资后大盘波段见底），但真正的基本面效应（信贷扩张能力、险资入市规模）需1-2个季度方能显现；对国际投资者，此举释放了北京以财政资源维护金融体系稳定、无意放任系统性风险的明确信号，有助于稳定离岸人民币资产的风险定价。后续关注特别国债发行对债市供给的影响与工农定增折价率。",
+      "deep_analysis": "比亚迪'出海提速'是中外电动车产业竞争的缩影：国内价格战压缩利润，倒逼龙头以规模与成本优势外拓；而欧美正以关税、反补贴与本地化要求筑墙。对中方而言，出海是必然也是承压之路——短期靠性价比与产品线广度扩张份额，中长期取决于本地建厂、品牌与合规能力。情报上应跟踪欧盟反补贴税执行、美国对中国电动车及零部件的潜在限制，以及比亚迪在东南亚/墨西哥的转口与本地化布局。",
       "provenance": {
-        "retrieved_via": "WebSearch（Bloomberg China Mega Banks Insurers September 6 2026）",
-        "evidence_url": "https://primenestnews.com/detail/china-mega-banks-insurers-seek-at-least-53-billion-in-capital",
-        "evidence_note": "primenestnews全文转载彭博原稿（(Bloomberg) -- 机构署名，Charlie Zhu协助），取得正文与全部认购数字；原链bloomberg.com/news/articles/2026-09-06/agb经bigmarketmoves.com来源追踪交叉验证"
+        "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-08/byd-eyes-2-5-million-overseas-sales-as-price-war-rages-at-home",
+        "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；该稿 byline 为 Bloomberg News（机构发稿），经二次补全无真人署名，标 not_available。"
       },
-      "_day": "2026-09-06"
+      "_day": "2026-09-08",
+      "summary_en": "BYD has set an ambitious target to sell more than 2.5 million vehicles overseas in 2027, accelerating its push beyond China where a fierce price war has eroded profitability. It also raised its 2026 overseas sales guidance to 1.9-2.0 million from 1.5 million."
     },
     {
       "id": "b2",
       "media": "Bloomberg",
       "media_zh": "彭博社",
-      "title_en": "DeepSeek plans big Huawei AI chip order to power new data centre — Bloomberg",
-      "title_zh": "彭博：DeepSeek规划部署至少16万颗华为昇腾950DT，建超大规模国产推理集群",
-      "published_at": "2026-09-04T10:03:00Z",
-      "published_precision": "minute",
+      "title_en": "China Export Growth Rebounds as Trade Surplus Nears $806 Billion",
+      "title_zh": "中国8月出口增速反弹，年内贸易顺差逼近8060亿美元",
+      "published_at": "2026-09-08T02:38:27Z",
+      "published_precision": "datetime",
       "authors": [
         "Julia Fioretti"
       ],
       "author_locations": "",
       "authors_status": "not_available",
       "topics": [
-        "人工智能",
-        "半导体",
-        "华为昇腾",
-        "国产替代",
-        "算力基础设施",
-        "东数西算"
+        "出口",
+        "贸易顺差",
+        "经济"
       ],
       "importance": "high",
-      "summary_zh": "彭博9月4日引述知情人士报道，深度求索（DeepSeek）计划在内蒙古乌兰察布建设的数据中心部署至少16万颗华为昇腾950DT加速器，若落地将成为已知规模最大的华为AI芯片集群之一，并推进中国以国产芯片替代英伟达的进程。该数据中心规划算力约1吉瓦，部分自建、部分向其他运营商租赁，公司希望部分产能于2027年底或2028年初投运。值得注意的是，尽管华为将950DT设计与定位于训练场景，DeepSeek目前并不打算用其训练新模型，而是用于运行（推理）模型，训练环节仍主要依赖英伟达加速器。交付并非即时——受高端存储等零部件短缺影响，华为950DT今年产量预计仅维持在十万颗量级，且需兼顾其他客户与少量出口，完成DeepSeek订单可能耗时一年以上。乌兰察布已聚集阿里巴巴、世纪互联、快手等，当地逾90%算力用于AI。DeepSeek与华为均未予确认。",
-      "china_angle": "彭博把「英伟达训练、国产芯片推理」的双轨路线作为核心观察点，既确认中国国产算力在推理侧已可规模部署，也强调训练侧对英伟达的依赖尚未闭环。",
-      "stance": "中性偏正面（承认国产算力规模突破，附产能与训练依赖限制）",
-      "source_url": "https://theedgemalaysia.com/node/816910",
+      "summary_zh": "彭博社报道，中国8月出口增速加快，年内贸易顺差逼近8060亿美元，恰逢美国加大压力、要求北京在月底前峰会对接前解决失衡。8月出口同比增约25%（略低于预估），进口增28.2%逊于30%预期；前8个月顺差已超8055亿美元。报道指，出口韧性强化了'以我为主'的增长路径，但也使中方更易成为美方关税与多边围堵的靶心。",
+      "china_angle": "巨额顺差是实力也是靶子：美方借'失衡'施压，多边贸易壁垒风险上升。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
       "body_available": true,
-      "body_zh": "彭博9月4日引述知情人士报道，深度求索计划在正于内蒙古乌兰察布建设的数据中心部署至少16万颗华为昇腾950DT加速器，若按描述落地，将成为已知规模最大的华为AI芯片集群之一，并推动中国以国产芯片替代英伟达的努力。该站点规划约1吉瓦算力，部分为公司自有基础设施、部分向其他运营商租赁，DeepSeek希望至少部分产能在2027年底或2028年初投运。芯片将主要用于运行模型而非训练——尽管华为设计与销售的950DT面向更吃算力的训练场景；DeepSeek曾尝试用华为芯片训练，但迄今训练环节主要依赖英伟达加速器。落地时间取决于华为产能：受高端存储等零部件短缺影响，950DT今年产量预计仅十万颗量级，还需兼顾其他客户与少量出口，完成该订单可能耗时逾一年，即DeepSeek想要的量超过华为当前可交付能力。DeepSeek与华为均未确认。",
+      "body_zh": "彭博社9月8日报道，中国8月出口增速加快，年内贸易顺差逼近8060亿美元，恰逢美国加大压力、要求北京在本月晚些时候的峰会对接前解决贸易失衡。数据显示，8月出口同比增约25%（略低于预估），进口增28.2%、逊于30%的市场预期；今年前8个月，出口增19.3%、进口增27%，贸易顺差已超过8055亿美元。报道指出，全球AI基建热潮带动芯片等高科技品需求，是出口韧性的关键支撑；但出口强势也延缓了当局托底地产与内需的紧迫性，并使中国更易成为美方关税与欧盟贸易壁垒的靶心。贝森特等美方官员持续以'不可持续的顺差'为由，推动G20重议对华贸易条款。",
       "cited_sources": [
-        "彭博社（引述知情人士）",
-        "深度求索(DeepSeek)（未确认）",
-        "华为技术有限公司（未确认）",
-        "乌兰察布数据中心集群（阿里巴巴、世纪互联、快手）",
-        "东数西算国家算力枢纽节点"
+        "中国海关数据",
+        "彭博测算",
+        "美国财政部（贝森特）",
+        "G20"
       ],
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "is_negative": false,
-      "deep_analysis": "这条订单最有价值的信息不是「16万颗」这个数字，而是「训练归英伟达、推理归昇腾」这一被彭博明确点出的算力分工。它意味着中国国产算力替代已从「能不能做」进入「在哪个环节先做」的阶段——推理侧对单卡峰值算力与互联带宽的要求低于训练，但对内存带宽与单位token成本极度敏感，而这恰是昇腾950DT（集成华为自研HiZQ 2.0高带宽内存、144GB、4TB/s）的设计着力点，选择950DT而非已量产的950PR，说明DeepSeek是在为高吞吐token生成做定向优化，而非象征性国产化。三个判断：其一，规模效应在推理侧先行是合理路径——中国AI应用侧的token消耗量巨大且对成本高度敏感，一旦推理成本被国产芯片压到临界点以下，将反向削弱英伟达在华的商业存在，这是比训练侧替代更现实的突破口；其二，稿件点出的产能约束（高端HBM短缺、年产量十万颗量级、需兼顾其他客户）才是真正的瓶颈——16万颗订单意味着超过一年的交付周期，说明国产算力扩张的天花板当前不在设计能力而在存储与先进封装供应链；其三，乌兰察布选址落在「东数西算」枢纽、绿电与低温优势叠加，体现算力布局与能源地理的耦合，这对评估中国AI长期成本曲线具有参考价值。我方叙事应把它锚定为「市场化选择+场景驱动替代」，避免过度渲染为「完全自主」，因为训练侧依赖客观存在——过度宣传反而为美方「中国仍需英伟达、管制有效」的论断提供素材。",
+      "deep_analysis": "8月出口约+25%、前8月顺差超8055亿美元，与路透调查相互印证，显示外需在极端天气与内需偏弱下仍是增长主轴。对中方是正向韧性信号；但在西方话语中，巨额顺差被工具化为'全球失衡'证据，直接服务于贝森特推动的G20多边围堵与单边关税。短期内需留意：本月中美峰会前'300亿美元互降关税'的脆弱窗口、欧盟对中国电动车/绿色品的壁垒升级，以及顺差扩大是否触发更严的'去风险'协调。中方的应对仍将是'扩大进口承诺+以创新与绿色转型解释增长'，淡化刻意追求顺差。",
       "provenance": {
-        "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia 9月4日全量转载)与aitechdaily/aiweekly交叉印证",
-        "evidence_url": "https://www.aitechdaily.com/deepseek-huawei-ascend-160k",
-        "evidence_note": "aitechdaily 明确标注彭博9月4日（周五）报道并转述全文要点：至少16万颗昇腾950DT、乌兰察布约1GW站点、仅用于推理不用于训练、华为产能约束致交付或逾一年、2027年底或2028年初部分投运；The Edge Malaysia「China Focus」9月4日 06:03pm 条目同步刊载彭博该稿。彭博正文为机构署名，标 not_available。"
+        "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
+        "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；byline 为 Bloomberg News（机构发稿），二次补全无真人署名，标 not_available。"
       },
-      "_day": "2026-09-05"
+      "_day": "2026-09-08",
+      "summary_en": "China's export growth accelerated in August, swelling its trade surplus near $806 billion for the year just as the US ramps up pressure on Beijing to address imbalances before a summit later this month. Exports jumped ~25% y/y; Jan-Aug surplus exceeded $805.5bn."
     },
     {
       "id": "b3",
       "media": "Bloomberg",
       "media_zh": "彭博社",
-      "title_en": "Chipmaker Longsys said to price Hong Kong listing at HK$236",
-      "title_zh": "彭博：存储芯片商江波龙港股定价236港元，较A股折让约44%",
-      "published_at": "2026-09-04T09:00:00Z",
-      "published_precision": "day",
+      "title_en": "China Is Building an AI Future Far From Its Biggest Cities",
+      "title_zh": "中国正远离大城市、在北方与西北建设AI未来（数据中心）",
+      "published_at": "2026-09-08T00:07:19Z",
+      "published_precision": "datetime",
       "authors": [
         "Julia Fioretti",
         "Sangmi Cha"
       ],
       "author_locations": "HONG KONG",
-      "authors_status": "named",
+      "authors_status": "not_available",
       "topics": [
-        "半导体",
-        "存储芯片",
-        "港股IPO",
-        "资本市场",
-        "AI产业链"
+        "AI",
+        "数据中心",
+        "算力",
+        "内蒙古",
+        "能源"
       ],
       "importance": "medium",
-      "summary_zh": "彭博9月4日引述知情人士报道，深圳江波龙电子已将香港上市发行价定在每股236港元，低于240.60港元的招股区间上限；该定价较其A股周四在深圳359.63元的收盘价折让约44%。发行约2600万股，另设最多15%的增发选择权，预计9月8日在港挂牌。江波龙由创始人蔡华波控制，A股过去一年上涨逾两倍，市值约240亿美元；募资将用于芯片设计与先进存储技术研发。受需求强劲与晶圆供应紧张推升存储价格影响，公司2026年上半年营收同比翻倍以上至241亿元，净利润同比增长逾700倍至106亿元。基石投资者已同意认购发行股份的18.89%，包括传音控股旗下传音国际、中信证券资管、蓝思科技香港等，联想集团亦在客户与基石之列；中信证券与花旗任联席保荐人。报道指出，香港今年IPO募资已超450亿美元，有望超越2010年纪录，AI与半导体企业密集上市是主因，中际旭创7月78亿美元的发行即为标志性案例。",
-      "china_angle": "彭博以「A股—港股大幅折价」为切口呈现中国AI供应链企业的境外融资潮，既反映国际资本对中国半导体的配置意愿，也隐含对A股估值与港股定价能力落差的观察。",
-      "stance": "中性（资本市场事实报道，含折价现象观察）",
-      "source_url": "https://test.theedgemalaysia.com/node/816822",
+      "summary_zh": "彭博社报道，中国正把AI数据中心从沿海大城市转向北方与西北（如内蒙古乌兰察布），以利用低廉绿电、土地与降温条件。据彭博新能源财经(BNEF)新数据，全国数据中心在建与规划管线已超半数位于北方与西北。报道称，这一'算力西迁'既是能耗与电网约束下的产业再布局，也关乎AI竞赛中的算力地缘。",
+      "china_angle": "算力西迁体现'东数西算'与绿电协同，是中方在AI竞赛中以资源禀赋换算力规模的战略布局。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/features/2026-09-08/china-races-to-build-ai-data-centers-far-away-from-its-biggest-cities",
       "body_available": true,
-      "body_zh": "彭博9月4日引述知情人士报道，深圳江波龙电子已将香港上市定价为每股236港元，低于240.60港元的最高发行价，加入中国AI供应链企业赴港上市的浪潮。该定价较江波龙A股周四在深圳359.63元的收盘价折让约44%。公司发行约2600万股，另设最多15%的增发选择权，预计9月8日在港开始交易。江波龙由创始人蔡华波控制，其A股过去一年上涨逾两倍，市值约240亿美元。募资将用于芯片设计与先进存储技术研发；受强劲需求与晶圆供应受限推升存储价格影响，公司2026年上半年营收同比翻倍以上至241亿元，净利润增长逾700倍至106亿元。基石投资者同意认购发行股份的18.89%，包括传音国际、中信证券资管与蓝思科技香港，客户戴尔、联想、三星、小米中联想亦为基石；中信证券与花旗任联席保荐人。（记者 Julia Fioretti、Sangmi Cha）",
+      "body_zh": "彭博社9月8日报道，中国正将AI数据中心从沿海大城市转向北方与西北。内蒙古乌兰察布这座不足200万人口的城市，因草原地价、凉爽气候与绿电资源，成为算力布局前沿。据彭博新能源财经(BNEF)新数据，全国数据中心在建与规划管线已超半数位于北方与西北。报道指出，'算力西迁'既是东部能耗与电网约束下的产业再布局，也关乎AI竞赛中的算力地缘——低廉绿电、土地与天然降温条件，使西北成为训练大模型的基础设施承接地。相关建设由云厂商与国资算力平台推动，并与'东数西算'工程相呼应。",
       "cited_sources": [
-        "彭博社（引述知情人士）",
-        "深圳江波龙电子（未置评）",
-        "创始人蔡华波",
-        "基石投资者：传音国际、中信证券资管、蓝思科技香港",
-        "客户与基石：联想集团、戴尔科技、三星电子、小米",
-        "联席保荐人：中信证券、花旗集团",
-        "Lombard Odier高级宏观策略师Homin Lee"
+        "彭博新能源财经(BNEF)",
+        "乌兰察布/内蒙古",
+        "数据中心管线数据"
       ],
       "sentiment": "neutral",
       "is_negative": false,
-      "deep_analysis": "月之暗面递表这条稿，真正的看点不是估值，而是它完整暴露了中美在「前沿AI资本化路径」上的正面竞速。第一，我方路径已经清晰且被外媒准确识别：监管要求拆除离岸VIE/红筹、迁回境内、改制股份公司后方可境外上市，等于把最敏感的前沿AI资产从美国监管可达范围内「划出」，同时把流动性留在港交所与境内资本圈。外媒将之概括为「主权AI资本架构」，这一框架虽带有冷战色彩，但对内是可用的正面叙事：金融安全与科技安全统一。第二，风险同样真实且紧迫：美方以「蒸馏指控+受限芯片（GB300经泰国）」为由酝酿实体清单，一旦落地，虽不必然阻断港股上市，却会显著削弱国际机构投资者的认购意愿，使发行高度依赖境内资金——这正是「30亿美元订单簿能否成」的真正变量。第三，须注意外媒在报道中反复使用「distillation（蒸馏）」这一未经证实的指控词，并以K3的爆发（曾导致美股芯片与云巨头单日蒸发约3140亿美元市值）作为背景，强化「中国模型冲击」的威胁叙事。应对建议：对外坚持「蒸馏指控未获证实、应走技术或司法程序」；对上市节奏，在美方清单窗口期内优先完成定价与配售，缩短暴露期；在叙事上主动把K3定位为「开源公共产品+API商业化」，削弱其被安全化的接口。",
+      "deep_analysis": "'算力西迁'是中方以资源禀赋换AI规模优势的典型打法：用西北绿电、土地与低温摊薄训练成本，呼应'东数西算'国家战略，把能源富集区变为算力富集区。对西方而言，这意味着中国AI产能不依赖单一沿海枢纽、抗制裁与断供韧性更强；对中方则是把双碳目标与算力竞争绑定的机会。情报上应跟踪西北算力集群的绿电占比、与国产AI芯片（昇腾等）的适配，以及美方是否将'算力基建'纳入出口管制或投资审查范畴。",
       "provenance": {
-        "retrieved_via": "通道C(WebSearch)+The Edge Malaysia转载彭博原文与investing.com/钜亨网交叉印证",
-        "evidence_url": "https://ca.investing.com/news/stock-market-news/longsys-prices-hong-kong-listing-at-hk236-per-share--bloomberg-93CH-4827847",
-        "evidence_note": "investing.com 明确标注「Longsys prices Hong Kong listing at HK$236 per share - Bloomberg」，含发行价236港元、上限240.60港元、2600万股、9月8日挂牌、44%折让等；The Edge Malaysia 版保留彭博署名 By Julia Fioretti & Sangmi Cha / Bloomberg 及基石投资者、财务数据全文。"
+        "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/features/2026-09-08/china-races-to-build-ai-data-centers-far-away-from-its-biggest-cities",
+        "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；byline 为 Bloomberg News，内文'With assistance from Dan Murtaugh and Ocean Hou'（协助报道/摄影），主要署名仍属机构发稿，标 not_available。"
       },
-      "_day": "2026-09-05"
+      "_day": "2026-09-08",
+      "summary_en": "More than half of China's data center pipeline is already in the north and northwest, per new BNEF data, as the country relocates AI compute capacity away from its biggest coastal cities to places like Ulanqab in Inner Mongolia for cheap green power, land and cooling."
     },
     {
       "id": "b4",
       "media": "Bloomberg",
       "media_zh": "彭博社",
-      "title_en": "Traders Flock to Bullish Chinese Stock Bets for AI Alternative",
-      "title_zh": "彭博：国际资金抢筹看涨中国股票的衍生品，作为AI交易的替代选项",
-      "published_at": "2026-09-05T06:00:00Z",
-      "published_precision": "day",
+      "title_en": "Longsys Shares Slip in HK Debut After $903 Million Listing",
+      "title_zh": "江波龙中国香港上市首日破发，90.3百万美元募资承压",
+      "published_at": "2026-09-07T23:00:00Z",
+      "published_precision": "datetime",
       "authors": [
-        "Charlotte Yang"
+        "Sangmi Cha"
       ],
-      "author_locations": "TAIPEI",
+      "author_locations": [
+        "香港"
+      ],
       "authors_status": "named",
       "topics": [
-        "资本市场",
-        "A股",
         "港股",
-        "衍生品",
-        "国际资本",
-        "人工智能"
+        "IPO",
+        "江波龙",
+        "存储芯片"
       ],
       "importance": "medium",
-      "summary_zh": "彭博9月5日报道，在韩国、日本的AI交易已相当拥挤的背景下，寻求分散配置的投资者正越来越多地转向中国股票衍生品，抢购看涨期权等看多工具。报道指，资金把中国资产视为AI主题之外的另类敞口：与日韩市场由少数半导体权重股主导、估值已被充分定价不同，中国股市AI相关标的的估值折价明显，且政策与流动性环境提供了不同的风险收益结构。这一资金流向发生在全球债市抛售、美国8月非农大超预期推升9月加息押注的宏观背景下——美股三大指数周五集体收跌，而同期港股恒生指数与恒生科技指数分别上涨，A股虽回调但周内整体维持高位震荡。彭博将这一现象描述为国际资金对中国资产的「再配置」而非单纯避险，强调其驱动来自相对估值与主题分散需求。",
-      "china_angle": "彭博把中国资产定位为「拥挤AI交易的分散化替代」，属偏正面的资金面叙事，但框架是相对估值与主题轮动，而非对中国基本面或政策效果的独立认可。",
-      "stance": "中性偏正面（资金流入叙事，框架为全球配置轮动）",
-      "source_url": "https://theedgemalaysia.com/node/816974",
+      "summary_zh": "深圳江波龙电子（Longsys）9月7日在中国香港上市，早段一度较236港元发行价跌1.5%至232.4港元，后收窄跌幅；公司通过加量发行募资约70.8亿港元（9.03亿美元），正考验港股对半导体存储企业的承接力。江波龙为全球存储模组重要供应商，此番上市意在扩充资本、支撑AI与存储需求扩张。",
+      "china_angle": "中资存储企业赴港上市融资，反映港股对硬科技承接与估值定价的冷暖。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
       "body_available": true,
-      "body_zh": "彭博9月5日报道，寻求在拥挤的韩国与日本AI交易之外分散配置的投资者，正日益转向中国股票衍生品，抢购看涨期权等看多工具。报道指出，日韩市场AI行情高度集中于少数半导体权重股、估值已被充分消化，而中国股市的AI相关标的存在明显折价，政策与流动性环境也提供了不同的风险收益结构，因此成为组合再配置的目标。这一资金流向发生在全球债券抛售、美国8月非农新增16.2万人远超预期、市场对美联储9月加息押注回升的宏观背景之下：美股三大指数周五集体收跌，港股恒生指数与恒生科技指数逆势上涨。彭博将这一现象概括为国际资金对中国资产的再配置，其驱动来自相对估值与主题分散需求，而非单纯的风险规避。",
+      "body_zh": "深圳江波龙电子（Longsys）9月7日在中国香港挂牌，早段股价一度较每股236港元发行价下跌1.5%至232.4港元，随后收窄跌幅。公司通过加量发行（upsized share sale）募资约70.8亿港元（9.03亿美元），为港股市场对半导体存储企业的承接力提供试金石。江波龙是全球存储模组与控制器的重要供应商，赴港上市意在扩充资本实力、把握AI与存储需求扩张窗口。报道提及，近期多家内地科技企业密集赴港，使港股一级市场供给升温、定价更受考验。",
       "cited_sources": [
-        "彭博社（9月5日市场报道）",
-        "中国股票衍生品市场（看涨期权成交）",
-        "韩国KOSPI、日本日经225（拥挤AI交易参照）",
-        "美国8月非农数据（16.2万人、失业率4.1%）",
-        "恒生指数、恒生科技指数周内表现"
+        "深圳江波龙电子",
+        "港交所",
+        "IPO定价与募资数据"
       ],
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "is_negative": false,
-      "deep_analysis": "",
+      "deep_analysis": "江波龙港股首日的温和破发，是内地硬科技企业密集赴港背景下定价与承接的缩影：募资近9亿美元显示需求存在，但破发反映市场对存储周期与估值仍谨慎。对中方而言，港股正成为半导体/AI企业的重要融资通道，利于绕开地缘约束下的美元市场；后续应关注赴港科技IPO的定价趋势、以及美国是否以'涉军/涉芯'为由施压港交所或限制相关指数纳入。",
       "provenance": {
-        "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia)与niotex彭博条目交叉印证",
-        "evidence_url": "https://www.niotex.com/blog/trends-2026-09-06",
-        "evidence_note": "niotex 期刊目录明确标注 Bloomberg·September 5, 2026·finance 条目「Traders Flock to Bullish Chinese Stock Bets for AI Alternative」并附原文首句；The Edge Malaysia「China Focus」09月6日 10:01am 转载该稿并署名 By Charlotte Yang / Bloomberg（彭博原发为9月5日）。"
+        "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
+        "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；署名 Sangmi Cha（真人记者）。"
       },
-      "_day": "2026-09-05"
+      "_day": "2026-09-08",
+      "summary_en": "Shenzhen Longsys Electronics' shares fell in their Hong Kong debut, slipping as much as 1.5% to HK$232.40 from the HK$236 IPO price before paring losses, after raising HK$7.08bn ($903m) in an upsized share sale."
     },
     {
       "id": "20260805-reuters-mofcom-retaliation-us",
@@ -36650,47 +37276,45 @@ window.__XFS_DATA__ = {
       "id": "r5",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "Pacific summit backs concerns over China missile test despite Nauru dissent",
-      "title_zh": "太平洋岛国峰会表达对华导弹试射关切，瑙鲁正式提出异议",
-      "published_at": "2026-09-04T08:00:00Z",
-      "published_precision": "day",
+      "title_en": "China's export growth seen accelerating in August: Reuters poll",
+      "title_zh": "路透调查：中国8月出口增速料加快至25%，经济续靠外需托底",
+      "published_at": "2026-09-07",
+      "published_precision": "date",
       "authors": [
-        "Renju Jose"
+        "Yukun Zhang",
+        "Ryan Woo"
       ],
-      "author_locations": "SYDNEY",
+      "author_locations": [
+        "北京"
+      ],
       "authors_status": "named",
       "topics": [
-        "南太平洋",
-        "导弹试射",
-        "地缘竞争",
-        "中澳关系",
-        "台湾问题",
-        "太平洋岛国论坛"
+        "出口",
+        "经济数据",
+        "贸易",
+        "GDP"
       ],
-      "importance": "high",
-      "summary_zh": "路透悉尼9月4日报道，第55届太平洋岛国论坛领导人会议在帕劳科罗尔闭幕，18国集团领导人对中国7月在太平洋进行的洲际弹道导弹试射表达关切，但瑙鲁正式提出异议，会议整体被北京反对台湾与会一事所笼罩。论坛主席、帕劳总统惠恕仁宣读了领导人联合声明，称中国7月的ICBM试射「在未经充分预警的情况下飞越多个岛国上空」，并呼吁所有进行洲际弹道导弹试射的国家确保透明度与保证，包括按国际惯例至少提前24小时通知；他补充说「瑙鲁共和国提出了异议」。上月太平洋岛国外长会议曾未能就谴责该试射达成一致。中国外交部发言人郭嘉昆在例行记者会上回应称，中国愿同南太平洋国家一道为维护地区和平稳定与发展繁荣贡献力量；此前中方称试射安全进行、从未搞军事扩张，并指帕劳「反复炒作、试图操纵其他成员国立场是恶意的、不会得逞」。澳大利亚能源部长鲍恩称，多数国家表达观点、个别国家持不同看法「完全合理」。",
-      "china_angle": "外媒将中国导弹试射与台湾参与问题并列，突出「太平洋岛国对华透明度诉求」，并借瑙鲁异议与部分领导人缺席暗示北京对区域多边机制的影响力渗透。",
-      "stance": "负面（以岛国关切与透明度诉求为主轴，弱化中方安全关切与合法权利）",
-      "source_url": "https://www.yahoo.com/news/articles/pacific-summit-backs-concerns-over-021639505.html",
+      "importance": "medium",
+      "summary_zh": "路透社9月7日发稿的抽样调查显示，受调查35位经济学家预计中国8月出口按美元计同比增约25%，较7月23.9%加快，因全球AI基建热潮推高芯片等高科技品价格；进口预计增30%，贸易顺差料由7月1125亿美元扩至约1190亿美元。报道指出，出口已成中国经济稳增长支柱，但外需强劲也延缓了当局托底地产与内需的紧迫性，而西方贸易伙伴正施压北京收窄顺差、设贸易壁垒。数据于9月8日由海关正式发布。",
+      "china_angle": "出口高增与巨额顺差既是韧性体现，也被西方用作'贸易失衡'话柄，招致多边关税与壁垒压力。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/chinas-export-growth-seen-accelerating-in-august-reuters-poll-2026-09-07/",
       "body_available": true,
-      "body_zh": "悉尼9月4日（路透）——太平洋岛国领导人在年度峰会上对中国太平洋导弹试射表达关切，但瑙鲁正式提出异议，会议在很大程度上被北京反对台湾与会的争议所掩盖。峰会东道主、帕劳总统惠恕仁在闭幕记者会上宣读了除瑙鲁外各国领导人一致通过的部分联合声明：「领导人呼吁所有进行洲际弹道导弹试射的国家确保透明度与保证，包括按照国际惯例至少提前24小时发出试射通知。」他补充说，他注意到瑙鲁提出异议。此次试射是北京自2024年9月以来已知的首次在太平洋发射，发生在斐济与澳大利亚签署重大防务条约数小时后。上月太平洋岛国外长会议未能就谴责该试射达成一致，尽管多名领导人公开或私下对地区军事化表达担忧。中方称试射安全进行、从未搞军事扩张，并指帕劳「反复炒作」。澳大利亚能源部长鲍恩表示，绝大多数太平洋国家表达观点、个别国家持不同看法「完全合理」。（记者 Renju Jose）",
+      "body_zh": "路透社9月7日报道，对35位经济学家的调查显示，中国8月出口按美元计料同比增约25%，高于7月的23.9%，受全球AI基建热潮带动芯片等高科技品价格走高支撑；进口预计增30%（7月为27.5%），贸易顺差或由7月1125亿美元扩至约1190亿美元，数据于9月8日由海关发布。报道称，出口已成世界第二大经济体稳增长的关键支柱，但外需强劲也降低了当局立即出台大规模措施托底地产与内需的紧迫性；与此同时，美国与欧盟均要求北京缩小贸易顺差，并以贸易壁垒相胁。中国设定2026年GDP增长目标区间4.5%—5%，二季度增速放缓至4.3%。",
       "cited_sources": [
-        "帕劳总统、太平洋岛国论坛主席惠恕仁",
-        "第55届太平洋岛国论坛领导人会议联合声明",
-        "瑙鲁（正式异议）",
-        "中国外交部发言人郭嘉昆",
-        "澳大利亚能源部长克里斯·鲍恩",
-        "新西兰外交部长温斯顿·彼得斯（对部分领导人缺席表「高度怀疑」）"
+        "路透调查（35位经济学家）",
+        "中国海关",
+        "中国2026增长目标"
       ],
-      "sentiment": "negative",
-      "is_negative": true,
-      "deep_analysis": "这条稿的操作重点在「24小时提前通知」这一具体诉求的制度化。第一，它把一次符合国际法的常规训练发射，通过多边声明转化为一项针对中国的程序性义务——「按国际惯例提前24小时通知」听似中性，实则为后续任何在太平洋方向的试验活动预设了「未通知即不透明」的评判标准，一旦固化，将成为区域机制对中国军事行动的常态化约束工具。第二，稿件刻意保留「瑙鲁异议」这一细节，表面是平衡报道，实质作用有二：一是暗示中国在南太的外交经营已产生实际牵制效果（瑙鲁2024年与台断交转向北京），二是为「峰会未达成一致谴责」提供另一个解释框架——不是岛国不关切，而是中国影响力在起作用，这一写法把中国的正常外交工作直接污名化为「操纵」。第三，报道把台湾参与争议与导弹试射并列，压缩了中方在两个议题上的辩护空间。值得注意的客观事实是：声明措辞止步于「关切」与「呼吁透明度」，并未形成谴责，上月外长会议也未达成一致——说明中方在南太的长期经营仍有相当缓冲。我方应对：一是区分「合法训练发射」与「不通知」两个层面，可探讨在不损害军事机密前提下的技术性通报安排，把程序性议题的主动权拿回来；二是继续把议程锚定在气候变化、防灾、基础设施等岛国真实关切上，避免在「透明度」单一议题上被反复消耗；三是对「操纵成员国」一类指控须逐条要证据，防止外媒以匿名与暗示替代举证。",
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "出口高增（8月约+25%）与顺差近1.2万亿美元，是AI硬件外需与'抢出口'叠加的结果，也折射内需偏弱下经济对外部的倚重加深。对中方而言，这是韧性的实证；但在西方叙事中，巨额顺差被贝森特等用作'全球失衡'话柄，成为G20多边围堵与单边关税（含对台积电式转口、对中方电动车/半导体）的正当化理由。短期看，出口强韧性缓解了稳增长压力、推迟强刺激，却也提高对贸易伙伴政策的外溢敏感度；本月中美峰会前双方探讨300亿美元互降关税，是缓和但也脆弱的窗口。",
       "provenance": {
-        "retrieved_via": "通道C(WebSearch)+Yahoo/AOL转载路透原稿与Samoa Observer/中国新闻网交叉印证",
-        "evidence_url": "https://samoaobserver.ws/category/samoa/121898",
-        "evidence_note": "Samoa Observer 9月4日引述路透（KATHMANDU/SYDNEY 电）完整刊载惠恕仁宣读的联合声明原文（含24小时提前通知条款与瑙鲁异议）及郭嘉昆回应；Yahoo/AOL 版保留路透电头 SYDNEY, Sept 4 (Reuters) 与署名 By Renju Jose。"
+        "evidence_url": "https://lufkindailynews.com/news_reuters/business/chinas-export-growth-seen-accelerating-in-august-reuters-poll/article_2297ae70-380f-5950-a79a-33fdf36fc681.html",
+        "evidence_note": "经 Lufkin Daily News/路透转载复核；署名 Reporting by Yukun Zhang and Ryan Woo，Polling by Susobhan Sarkar、Jing Wang，编辑 Lincoln Feast。"
       },
-      "_day": "2026-09-05"
+      "_day": "2026-09-08",
+      "summary_en": "A Reuters poll of 35 economists forecast China's August exports rose about 25% y/y, accelerating from 23.9% in July, buoyed by global AI infrastructure build-out lifting prices of high-tech goods; trade surplus seen widening to ~$119bn."
     },
     {
       "id": "r6",
@@ -36995,88 +37619,84 @@ window.__XFS_DATA__ = {
       "id": "b5",
       "media": "Bloomberg",
       "media_zh": "彭博社",
-      "title_en": "HK's Lee Says City to Expand Offshore Yuan Usage in 5-Year Plan",
-      "title_zh": "彭博：李家超称香港首份五年规划将扩大离岸人民币使用与跨境投资",
-      "published_at": "2026-09-05T02:45:00Z",
-      "published_precision": "minute",
+      "title_en": "China Is Cracking Down on its Carmakers For Developing Vehicles Too Fast",
+      "title_zh": "中国收紧对车企'造车过快'的监管",
+      "published_at": "2026-09-07T11:31:43Z",
+      "published_precision": "datetime",
       "authors": [
         "Juliana Liu"
       ],
       "author_locations": "HONG KONG",
       "authors_status": "not_available",
       "topics": [
-        "香港",
-        "人民币国际化",
-        "离岸市场",
-        "跨境投资",
-        "十五五规划",
-        "北部都会区"
+        "汽车",
+        "监管",
+        "安全",
+        "电动车"
       ],
-      "importance": "medium",
-      "summary_zh": "彭博9月5日报道，香港特区行政长官李家超表示，香港首份五年规划将聚焦扩大离岸人民币使用与深化同内地的跨境投资联系。李家超周五在香港银行公会活动上表示，特区政府将扩大离岸人民币计价的投资与风险管理产品范围，巩固香港作为国际金融中心与全球人民币离岸枢纽的地位；并将通过股票通、债券通、理财通、互换通等机制扩大与内地的双向市场准入。其他重点包括发展商品交易（以黄金市场为切入点，香港黄金中央清算系统已于7月试运行）、以资本市场支持创新科技产业，以及推进北部都会区这一集大学城、创科与产业、居住与商业于一体的旗舰项目。李家超将于9月16日向立法会提交该五年规划，随后发表施政报告；规划旨在与内地「十五五」规划对接，官方定调为「市场主导、政府引导」。证监会行政总裁梁凤仪表示，将同时应对金融服务领域AI应用的机遇与风险，并继续推动离岸人民币使用。",
-      "china_angle": "外媒把香港五年规划视为人民币国际化的制度性推进，正面呈现香港「超级联系人」定位，但框架仍置于中美金融博弈与香港国际金融中心地位之争的语境中。",
-      "stance": "正面（政策推进与人民币国际化叙事）",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-09-05/hk-s-lee-says-city-to-expand-offshore-yuan-usage-in-5-year-plan",
+      "importance": "high",
+      "summary_zh": "彭博社《Auto Monitor》通讯指出，中国车企以'比谁都快'推新车型横扫全球，如今正招致监管审视：压缩的开发周期把驾驶员变成'小白鼠'。报道称，监管层担忧新车研发与验证节奏过快带来的安全隐患与质量风险，酝酿收紧相关规则。这是继价格战、产能内卷之后，对'中国速度'的又一层约束。",
+      "china_angle": "监管对'造车过快'的审视，是中方主动为产业狂奔踩刹车、以质量与安全换长期竞争力的自我校准。",
+      "stance": "negative",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-09-07/china-is-cracking-down-on-its-carmakers-for-developing-vehicles-too-fast",
       "body_available": true,
-      "body_zh": "彭博9月5日报道，香港特区行政长官李家超表示，香港首份五年规划将聚焦扩大离岸人民币使用与深化同内地的跨境投资联系。李家超周五在香港银行公会活动上表示，特区政府拟扩大离岸人民币计价的投资与风险管理产品范围，强化香港作为国际金融中心与人民币全球离岸枢纽的地位；并将通过股票通、债券通、理财通等机制扩大两地市场双向准入。规划其他重点包括发展商品交易（以黄金市场为切入点）、运用资本市场支持创新科技产业，以及推进北部都会区项目——该项目将结合大学城区、创科与产业、居住及商业区。李家超将于9月16日向立法会提交五年规划，随后发表施政报告；规划意在使香港的发展重点更紧密对接内地「十五五」规划，官方定调为「市场主导、政府引导」。证监会行政总裁梁凤仪称，监管机构将应对金融服务领域AI应用的机遇与风险，并继续推动离岸人民币使用。",
+      "body_zh": "彭博社《Auto Monitor》通讯9月7日指出，中国车企凭'比谁都快'推新车型横扫全球市场，如今正招致监管审视：压缩的开发与验证周期，被担忧把驾驶员变成'小白鼠'。报道称，监管层关注新车研发节奏过快带来的安全隐患与质量风险，酝酿收紧相关规则与标准。这是继价格战、产能内卷之后，对'中国速度'的又一层制度性约束——既回应安全与口碑压力，也为产业从'拼迭代'转向'拼质量/合规'留出空间。通讯还提及，速度优势仍是中方车企出海的核心竞争力，但监管收紧可能改变其产品节奏与海外合规叙事。",
       "cited_sources": [
-        "香港特区行政长官李家超（香港银行公会演讲）",
-        "香港证券及期货事务监察委员会行政总裁梁凤仪",
-        "香港银行公会（近150家会员银行、来自28个国家和地区）",
-        "香港金融管理局总裁余伟文",
-        "股票通、债券通、理财通、互换通机制",
-        "香港黄金中央清算系统（7月试运行）",
-        "北部都会区金融顾问专责小组"
+        "彭博《Auto Monitor》通讯",
+        "中国监管机构（趋严信号）",
+        "车企"
       ],
-      "sentiment": "positive",
-      "is_negative": false,
-      "deep_analysis": "香港首份五年规划的意义在于三重对接：对接国家「十五五」规划、对接人民币国际化的战略节奏、对接香港从「融资通道」向「风险管理与资产配置中心」的功能升级。报道中最实质的部分不是规划愿景，而是「扩大离岸人民币计价的投资与风险管理产品」这一句——长期制约人民币国际化的并非结算规模，而是境外持有者缺乏可对冲、可定价、可交易的完整产品生态；香港近年推进的国债期货、人民币掉期、黄金中央清算系统等基础设施，正是在补这块短板。三点研判：其一，把商品交易（黄金）作为新切入点值得关注，黄金清算与定价若能形成人民币计价的区域基准，将为人民币在大宗商品领域打开增量空间，这是绕开美元计价体系的实质动作；其二，「市场主导、政府引导」的定调说明香港试图在强化与国家战略协同的同时，维系其普通法、资金自由进出、低税制的制度差异——这个平衡是香港国际金融中心地位的核心，也是最易被外部质疑之处，外媒后续大概率会在「一国两制下的金融自主性」上做文章；其三，梁凤仪同时强调AI在金融领域的风险与机遇，反映监管层已把AI治理纳入金融稳定议程，与中美AI安全对话、G20「卡罗来纳原则」等国际动向同频。我方应把叙事锚定在「制度型开放、人民币产品生态、风险管理枢纽」，避免被外媒简化为「香港内地化」或「替代美元」的极端框架。",
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "此稿把'中国速度'从竞争力叙事扭转为风险叙事：西方受众被引导关注'过快=不安全'，为欧盟非关税壁垒（如整车网络安全、数据合规、型式认证）提供舆论铺垫。需辩证看待：监管审视确有现实质量/安全考量，是产业成熟的自我校准；但外媒将其框架为'车速威胁安全'，易被用作贸易防御的话术。对中方而言，主动以质量与安全换长期口碑是正确方向；情报上应跟踪欧盟是否借'安全/网络'名义对中国电动车设新型准入壁垒，以及国内'造车过快'新规的具体落地与对出口节奏的影响。",
       "provenance": {
-        "retrieved_via": "通道C(WebSearch)+彭博原文页(origin.www.bloomberg.com)与investing.com/econotimes/中国日报香港版交叉印证",
-        "evidence_url": "https://www.investing.com/news/economy-news/hong-kong-targets-bigger-offshore-yuan-role-mainland-links-in-first-5year-plan-4890159",
-        "evidence_note": "investing.com 明确标注「Bloomberg reported on Saturday, citing Chief Executive John Lee」，含离岸人民币产品、股票通/债券通/理财通、9月16日立法会提交、北部都会区、梁凤仪AI表态等要点；彭博原文页 URL 经 origin.www.bloomberg.com 检索确认（2026-09-05 版）。彭博正文为机构署名，标 not_available。"
+        "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/newsletters/2026-09-07/china-is-cracking-down-on-its-carmakers-for-developing-vehicles-too-fast",
+        "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文（newsletter《Auto Monitor》）；byline 为 Bloomberg News（机构发稿），标 not_available。"
       },
-      "_day": "2026-09-05"
+      "_day": "2026-09-08",
+      "summary_en": "China's automakers have taken the world by storm by churning out new models faster than anyone else; that is now drawing scrutiny that compressed development timelines are turning drivers into guinea pigs. Bloomberg's Auto Monitor newsletter examines the tightening oversight."
     },
     {
       "id": "b6",
       "media": "Bloomberg",
       "media_zh": "彭博社",
-      "title_en": "Billionaire Justin Sun's Bride Price Stunt Prolongs Crypto Winter",
-      "title_zh": "亿万富翁孙宇晨的“天价彩礼”噱头延长了加密寒冬（评论）",
-      "published_at": "2026-08-31T22:00:00Z",
-      "published_precision": "hour",
+      "title_en": "You Don't Have to Trust Chinese AI",
+      "title_zh": "你不必信任中国AI（评论）",
+      "published_at": "2026-09-07T19:00:00Z",
+      "published_precision": "datetime",
       "authors": [
-        "Shuli Ren"
+        "Catherine Thorbecke"
       ],
       "author_locations": "HONG KONG",
       "authors_status": "named",
       "topics": [
-        "加密货币",
-        "华人企业家",
-        "市场信心",
-        "监管"
+        "AI",
+        "DeepSeek",
+        "技术信任",
+        "舆论"
       ],
       "importance": "medium",
-      "summary_zh": "彭博观点专栏作家任淑丽（Shuli Ren）撰文批评华人加密企业家孙宇晨（Justin Sun）以“天价彩礼”式营销噱头博取关注，认为此类行为损害行业公信力、延长加密市场的低迷期。文章将孙宇晨的个人营销行为与加密资产在监管趋严、机构资金观望背景下的信心不足相联系。该文为彭博观点专栏，具名作者，发表于协调世界时8月31日。",
-      "china_angle": "涉及具有中国背景的加密企业家国际形象，此类个案常被外媒引申为中国财富叙事与市场规范性的讨论素材。",
-      "stance": "负面（对个案人物与行业风气的批评）",
-      "source_url": "https://www.bloomberg.com/opinion/articles/2026-08-31/billionaire-justin-sun-s-bride-price-stunt-prolongs-crypto-winter",
-      "body_available": false,
-      "body_zh": "彭博社《亚洲交易时段》指出，英伟达即将公布的财报将成为检验 AI 支出热潮的关键，市场关注 AI 基础设施资本开支是否持续加速。这对中国的 AI 建设具有直接传导效应：阿里等中企正投入数百亿美元用于算力扩张，但在美国出口管制限制获取最先进芯片的背景下，供需与合规约束并存。财报表现将影响全球 AI 硬件与云资本开支预期，亦牵动中国 AI 供应链情绪。",
+      "summary_zh": "彭博社观点专栏（Catherine Thorbecke）以'你不必信任中国AI'为题，借 DeepSeek 推理模型走红后外界'试探其对台湾等议题立场'的插曲，讨论企业是否应信任中国大模型。文章把中国开源/闭源模型的治理、价值观对齐与数据安全作为质疑点，主张以'不必信任'的姿态看待中国AI出海。",
+      "china_angle": "西方舆论以'信任'为切口，将中国AI出海框定为治理与安全风险，服务技术脱钩与市场份额防守。",
+      "stance": "negative",
+      "source_url": "https://www.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai",
+      "body_available": true,
+      "body_zh": "彭博社观点专栏（Catherine Thorbecke）9月7日以'你不必信任中国AI'为题发文，借 DeepSeek 推理模型去年走红、外界争相'试探其对台湾等议题立场'的插曲，讨论企业是否应信任中国大模型。文章将中国开源与闭源模型在治理、价值观对齐与数据安全上的差异作为质疑点，主张以'不必信任'的姿态看待中国AI出海，并对比 Anthropic、OpenAI 等的合规叙事。该文代表西方主流财经媒体系列化'中国AI威胁/不可信'论述的一角。",
       "cited_sources": [
-        "孙宇晨(Justin Sun)相关公开行为",
-        "加密资产市场表现"
+        "DeepSeek",
+        "开源模型生态",
+        "Anthropic/OpenAI（对比）",
+        "阿里/腾讯/字节（中国大模型厂商）"
       ],
       "sentiment": "negative",
       "is_negative": true,
-      "deep_analysis": "本条的情报价值不在孙宇晨个人，而在“华人加密富豪”这一符号如何被使用。彭博观点由固定关注中国市场的专栏作家（任淑丽）来写这条，说明它被归入“中国/亚洲市场”议题簇而非纯加密议题，这意味着该个案会进入涉华资产讨论的素材池，日后可能被用于三类论证：一是中国民间财富的“非理性”与炫耀性消费；二是离岸加密资本与内地资金流动的合规疑问；三是中国香港加密监管沙盒的声誉外溢风险（孙长期与中国香港虚拟资产政策话题相关联）。真正需要区隔的是：孙宇晨的商业主体、注册地与资金来源长期在境外，其行为不代表内地监管框架下的市场生态，但外媒的议题归类不会作此区分。追踪方向：观察后续是否出现“中国香港虚拟资产牌照”与该个案的绑定报道，那将是从个人批评转向制度批评的转折信号。",
+      "deep_analysis": "此评论是西方'中国AI不可信'叙事的舆论化表达：以'价值观对齐''数据安全'为杠杆，把技术选择政治化，服务于美欧对华AI脱钩与市场份额防守。其手法是先预设'不必信任'，再以个别试探案例泛化为体系性质疑，回避了中国企业在开源贡献、本地合规上的实质进展。对中方而言，这是AI出海必须直面的'信任战'——仅靠性能与性价比不足以打开西方企业市场，需在治理透明度、数据本地化与第三方审计上主动建信。情报上，该叙事与美方'undercut Chinese AI sales abroad'的立法动向（国会相关议案）形成呼应，须持续跟踪其向采购限制与盟友协调的转化。",
       "provenance": {
-        "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
-        "evidence_url": "https://brp-prod-bcc.bloomberg.com/asia",
-        "evidence_note": "彭博亚洲镜像首页列出该专栏条目（By Shuli Ren, Columnist，2026-08-31）；正文受付费墙限制未取得，摘要为条目级录入。"
+        "evidence_url": "https://www.envoy.cirrus.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai",
+        "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；署名 Catherine Thorbecke（Bloomberg Opinion 专栏作者，真人）。"
       },
-      "_day": "2026-09-01"
+      "_day": "2026-09-08",
+      "summary_en": "Bloomberg Opinion columnist Catherine Thorbecke argues 'You Don't Have to Trust Chinese AI,' using the episode where DeepSeek's model was probed on Taiwan and other sensitive topics to question whether businesses should trust Chinese AI models on governance, alignment and data security."
     },
     {
       "id": "b7",
@@ -38070,40 +38690,40 @@ window.__XFS_DATA__ = {
     }
   ],
   "archive": {
-    "days_count": 33,
+    "days_count": 34,
     "first_day": "2026-08-04",
-    "last_day": "2026-09-06",
+    "last_day": "2026-09-08",
     "total_articles": 342,
     "by_media": {
-      "路透社": 325,
-      "彭博社": 197
+      "路透社": 330,
+      "彭博社": 203
     },
     "by_topic": {
+      "半导体": 41,
       "出口管制": 40,
-      "半导体": 39,
       "人工智能": 33,
       "中美关系": 32,
+      "AI": 31,
       "宏观经济": 30,
-      "AI": 28,
-      "港股": 23,
+      "港股": 24,
       "中美科技竞争": 22,
+      "中美科技": 20,
+      "供应链": 20,
       "中美经贸": 19,
-      "中美科技": 19,
-      "供应链": 19,
-      "IPO": 18,
+      "IPO": 19,
+      "人形机器人": 18,
       "伊朗": 18,
       "资本市场": 17,
-      "人形机器人": 17,
       "关税": 17,
       "科技": 16,
       "地缘": 15,
+      "出海": 15,
       "消费": 15,
       "外交": 14,
+      "出口": 14,
       "房地产": 14,
-      "出海": 14,
       "财报": 13,
       "中国台湾": 13,
-      "出口": 12,
       "A股": 12,
       "经贸": 12,
       "AI芯片": 12,
@@ -38112,18 +38732,19 @@ window.__XFS_DATA__ = {
       "自然灾害": 11,
       "货币政策": 11,
       "中国经济": 11,
+      "能源": 10,
+      "台海": 10,
+      "军事": 10,
       "稀土": 10,
       "中概股": 10,
-      "能源": 9,
       "机器人": 9,
       "开源模型": 9,
       "国产替代": 9,
       "地缘政治": 9,
-      "台海": 9,
-      "军事": 9,
+      "存储芯片": 8,
       "能源安全": 7,
-      "存储芯片": 7,
       "融资": 7,
+      "贸易": 7,
       "中美博弈": 7,
       "台风": 7,
       "中美贸易": 7,
@@ -38133,11 +38754,11 @@ window.__XFS_DATA__ = {
       "次级制裁": 7,
       "企业动态": 6,
       "新能源汽车": 6,
+      "中欧关系": 6,
       "FCC": 6,
       "无人机": 6,
       "多晶硅": 6,
       "中日关系": 6,
-      "贸易": 6,
       "中美科技战": 6,
       "华为": 6,
       "金融": 6,
@@ -38151,10 +38772,11 @@ window.__XFS_DATA__ = {
       "Shein": 6,
       "贸易摩擦": 6,
       "中韩关系": 6,
+      "监管": 6,
       "产业政策": 5,
       "军事安全": 5,
-      "中欧关系": 5,
       "太阳能": 5,
+      "汽车": 5,
       "网络安全": 5,
       "中国香港": 5,
       "央行": 5,
@@ -38168,20 +38790,20 @@ window.__XFS_DATA__ = {
       "市场": 5,
       "宇树": 5,
       "腾讯": 5,
+      "比亚迪": 5,
       "港交所": 5,
       "情报": 5,
       "电商": 5,
       "二级制裁": 5,
       "宏观数据": 5,
       "汇率": 5,
-      "监管": 5,
       "香港": 5,
       "经贸摩擦": 4,
       "中东局势": 4,
       "人民币国际化": 4,
       "中美经贸摩擦": 4,
+      "数据中心": 4,
       "司法": 4,
-      "汽车": 4,
       "中印关系": 4,
       "汉光演习": 4,
       "股市": 4,
@@ -38194,7 +38816,6 @@ window.__XFS_DATA__ = {
       "跨境快时尚": 4,
       "芯片": 4,
       "美联储": 4,
-      "比亚迪": 4,
       "AI大模型": 4,
       "南海": 4,
       "中菲关系": 4,
@@ -38206,6 +38827,7 @@ window.__XFS_DATA__ = {
       "中尼关系": 4,
       "灾害救援": 4,
       "G20": 4,
+      "贸易顺差": 4,
       "元首外交": 4,
       "社会民生": 3,
       "制裁": 3,
@@ -38215,7 +38837,6 @@ window.__XFS_DATA__ = {
       "防灾减灾": 3,
       "光模块": 3,
       "DRAM": 3,
-      "数据中心": 3,
       "全球市场": 3,
       "原油": 3,
       "科技股": 3,
@@ -38230,6 +38851,7 @@ window.__XFS_DATA__ = {
       "具身智能": 3,
       "长鑫CXMT": 3,
       "中美供应链": 3,
+      "算力": 3,
       "智能制造": 3,
       "反倾销": 3,
       "华为昇腾": 3,
@@ -38251,14 +38873,15 @@ window.__XFS_DATA__ = {
       "美妆": 3,
       "电动汽车": 3,
       "全球南方": 3,
+      "电动车": 3,
       "华南": 3,
       "6G": 3,
       "西藏": 3,
       "全球利率": 3,
       "中报业绩": 3,
       "大模型": 3,
+      "财政政策": 3,
       "全球失衡": 3,
-      "贸易顺差": 3,
       "习特会": 3,
       "知识产权": 2,
       "南海议题": 2,
@@ -38270,6 +38893,7 @@ window.__XFS_DATA__ = {
       "离岸人民币": 2,
       "制造业PMI": 2,
       "AI产业链": 2,
+      "GDP": 2,
       "红海航运": 2,
       "市场监管": 2,
       "服务业PMI": 2,
@@ -38302,12 +38926,12 @@ window.__XFS_DATA__ = {
       "越南": 2,
       "军事演习": 2,
       "稳增长": 2,
-      "算力": 2,
       "智元": 2,
       "开放权重": 2,
       "快时尚": 2,
       "军费": 2,
       "贸易逆差": 2,
+      "内蒙古": 2,
       "寒武纪": 2,
       "霍尔木兹": 2,
       "字节跳动": 2,
@@ -38375,6 +38999,7 @@ window.__XFS_DATA__ = {
       "科技阵营化": 2,
       "金砖": 2,
       "南亚": 2,
+      "经济": 2,
       "Temu": 2,
       "贸易战": 2,
       "实体清单": 2,
@@ -38391,16 +39016,17 @@ window.__XFS_DATA__ = {
       "经济下行": 2,
       "净息差": 2,
       "资产质量": 2,
+      "价格战": 2,
       "堰塞湖": 2,
       "分红": 2,
       "台湾": 2,
       "债券市场": 2,
       "西藏吉隆口岸": 2,
       "中尼跨境灾害": 2,
-      "财政政策": 2,
       "航空业": 2,
       "半年报": 2,
       "中报亏损": 2,
+      "DeepSeek": 2,
       "预售制改革": 2,
       "汽车产业": 2,
       "航运安全": 2,
@@ -38422,7 +39048,6 @@ window.__XFS_DATA__ = {
       "气候变化": 1,
       "调查": 1,
       "外贸": 1,
-      "GDP": 1,
       "结构性失衡": 1,
       "中东外交": 1,
       "区域经济": 1,
@@ -38555,7 +39180,6 @@ window.__XFS_DATA__ = {
       "山核桃": 1,
       "打新": 1,
       "人才管控": 1,
-      "内蒙古": 1,
       "Arm": 1,
       "反垄断": 1,
       "SAMR": 1,
@@ -38731,7 +39355,6 @@ window.__XFS_DATA__ = {
       "智谱AI": 1,
       "产业战略": 1,
       "科技自主": 1,
-      "电动车": 1,
       "海事": 1,
       "天气": 1,
       "国安法": 1,
@@ -38747,7 +39370,6 @@ window.__XFS_DATA__ = {
       "外部干涉": 1,
       "制裁外溢": 1,
       "转口贸易": 1,
-      "经济": 1,
       "AI供应链": 1,
       "套息": 1,
       "去美元化": 1,
@@ -38792,7 +39414,6 @@ window.__XFS_DATA__ = {
       "经济政策": 1,
       "地产投资": 1,
       "路透调查": 1,
-      "价格战": 1,
       "吉隆口岸": 1,
       "元首指示": 1,
       "伊朗制裁": 1,
@@ -38852,7 +39473,6 @@ window.__XFS_DATA__ = {
       "企业审批": 1,
       "香港资本市场": 1,
       "创业生态": 1,
-      "DeepSeek": 1,
       "智谱": 1,
       "风险投资": 1,
       "供应链转移": 1,
@@ -38954,7 +39574,18 @@ window.__XFS_DATA__ = {
       "跨国救援": 1,
       "冰湖灾害": 1,
       "信息透明度": 1,
-      "人道主义": 1
+      "人道主义": 1,
+      "科技安全": 1,
+      "间谍": 1,
+      "农村经济": 1,
+      "粮食安全": 1,
+      "乡村振兴": 1,
+      "国防科技": 1,
+      "经济数据": 1,
+      "江波龙": 1,
+      "安全": 1,
+      "技术信任": 1,
+      "舆论": 1
     },
     "sentiment_trend": [
       {
@@ -39154,12 +39785,18 @@ window.__XFS_DATA__ = {
         "negative": 1,
         "neutral": 2,
         "positive": 0
+      },
+      {
+        "date": "2026-09-08",
+        "negative": 4,
+        "neutral": 7,
+        "positive": 0
       }
     ],
     "cited_source_freq": [
       [
         "路透社",
-        109
+        110
       ],
       [
         "彭博社",
@@ -39242,6 +39879,10 @@ window.__XFS_DATA__ = {
         6
       ],
       [
+        "港交所",
+        6
+      ],
+      [
         "腾讯",
         6
       ],
@@ -39266,7 +39907,7 @@ window.__XFS_DATA__ = {
         5
       ],
       [
-        "港交所",
+        "DeepSeek",
         5
       ],
       [
@@ -39311,10 +39952,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "Omdia",
-        4
-      ],
-      [
-        "DeepSeek",
         4
       ],
       [
@@ -39382,6 +40019,10 @@ window.__XFS_DATA__ = {
         3
       ],
       [
+        "台积电",
+        3
+      ],
+      [
         "长鑫存储(CXMT)",
         3
       ],
@@ -39423,6 +40064,10 @@ window.__XFS_DATA__ = {
       ],
       [
         "U.S. Treasury",
+        3
+      ],
+      [
+        "G20",
         3
       ],
       [
@@ -39510,10 +40155,6 @@ window.__XFS_DATA__ = {
         2
       ],
       [
-        "台积电",
-        2
-      ],
-      [
         "美国商务部(BIS)",
         2
       ],
@@ -39543,6 +40184,10 @@ window.__XFS_DATA__ = {
       ],
       [
         "月之暗面(Kimi)",
+        2
+      ],
+      [
+        "赖清德",
         2
       ],
       [
@@ -39763,10 +40408,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "光大证券(Everbright Securities)",
-        2
-      ],
-      [
-        "G20",
         2
       ],
       [
@@ -40915,10 +41556,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "台行政院",
-        1
-      ],
-      [
-        "赖清德",
         1
       ],
       [
@@ -43748,9 +44385,185 @@ window.__XFS_DATA__ = {
       [
         "吉隆口岸现场救援人员",
         1
+      ],
+      [
+        "比利时联邦检察院",
+        1
+      ],
+      [
+        "Belgan（破产芯片厂）",
+        1
+      ],
+      [
+        "IMEC（产业背景）",
+        1
+      ],
+      [
+        "分析人士（欧洲审查趋势）",
+        1
+      ],
+      [
+        "中国农业农村部等六部门",
+        1
+      ],
+      [
+        "《完善乡村振兴投入机制实施方案》",
+        1
+      ],
+      [
+        "台湾经济部",
+        1
+      ],
+      [
+        "美国商务部 Lutnick",
+        1
+      ],
+      [
+        "欧盟委员会 Gross",
+        1
+      ],
+      [
+        "鸿海 刘扬伟",
+        1
+      ],
+      [
+        "日月光 吴田",
+        1
+      ],
+      [
+        "解放军报",
+        1
+      ],
+      [
+        "国防科技大学",
+        1
+      ],
+      [
+        "PLA采购公告",
+        1
+      ],
+      [
+        "BofA Global Research",
+        1
+      ],
+      [
+        "UCLA Dennis Hong",
+        1
+      ],
+      [
+        "卡内基梅隆 Aaron Johnson",
+        1
+      ],
+      [
+        "中国台湾国防安全研究院 周若敏",
+        1
+      ],
+      [
+        "美国陆军",
+        1
+      ],
+      [
+        "路透调查（35位经济学家）",
+        1
+      ],
+      [
+        "中国海关",
+        1
+      ],
+      [
+        "中国2026增长目标",
+        1
+      ],
+      [
+        "比亚迪（销量指引/公告）",
+        1
+      ],
+      [
+        "中国海关数据",
+        1
+      ],
+      [
+        "彭博测算",
+        1
+      ],
+      [
+        "美国财政部（贝森特）",
+        1
+      ],
+      [
+        "彭博新能源财经(BNEF)",
+        1
+      ],
+      [
+        "乌兰察布/内蒙古",
+        1
+      ],
+      [
+        "数据中心管线数据",
+        1
+      ],
+      [
+        "深圳江波龙电子",
+        1
+      ],
+      [
+        "IPO定价与募资数据",
+        1
+      ],
+      [
+        "彭博《Auto Monitor》通讯",
+        1
+      ],
+      [
+        "中国监管机构（趋严信号）",
+        1
+      ],
+      [
+        "车企",
+        1
+      ],
+      [
+        "开源模型生态",
+        1
+      ],
+      [
+        "Anthropic/OpenAI（对比）",
+        1
+      ],
+      [
+        "阿里/腾讯/字节（中国大模型厂商）",
+        1
       ]
     ],
     "recurring_topics": [
+      {
+        "topic": "半导体",
+        "count": 22,
+        "days": [
+          "2026-08-04",
+          "2026-08-05",
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-09",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-18",
+          "2026-08-20",
+          "2026-08-22",
+          "2026-08-24",
+          "2026-08-26",
+          "2026-08-27",
+          "2026-08-28",
+          "2026-09-01",
+          "2026-09-02",
+          "2026-09-03",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-08"
+        ]
+      },
       {
         "topic": "出口管制",
         "count": 21,
@@ -43772,33 +44585,6 @@ window.__XFS_DATA__ = {
           "2026-08-24",
           "2026-08-26",
           "2026-08-29",
-          "2026-09-02",
-          "2026-09-03",
-          "2026-09-04",
-          "2026-09-05"
-        ]
-      },
-      {
-        "topic": "半导体",
-        "count": 21,
-        "days": [
-          "2026-08-04",
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-09",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-14",
-          "2026-08-15",
-          "2026-08-18",
-          "2026-08-20",
-          "2026-08-22",
-          "2026-08-24",
-          "2026-08-26",
-          "2026-08-27",
-          "2026-08-28",
-          "2026-09-01",
           "2026-09-02",
           "2026-09-03",
           "2026-09-04",
@@ -43832,7 +44618,7 @@ window.__XFS_DATA__ = {
       },
       {
         "topic": "港股",
-        "count": 16,
+        "count": 17,
         "days": [
           "2026-08-06",
           "2026-08-10",
@@ -43849,7 +44635,8 @@ window.__XFS_DATA__ = {
           "2026-09-02",
           "2026-09-03",
           "2026-09-04",
-          "2026-09-05"
+          "2026-09-05",
+          "2026-09-08"
         ]
       },
       {
@@ -43930,6 +44717,63 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "AI",
+        "count": 13,
+        "days": [
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-16",
+          "2026-08-21",
+          "2026-08-22",
+          "2026-08-24",
+          "2026-08-26",
+          "2026-08-27",
+          "2026-09-01",
+          "2026-09-08"
+        ]
+      },
+      {
+        "topic": "供应链",
+        "count": 13,
+        "days": [
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-20",
+          "2026-08-25",
+          "2026-08-27",
+          "2026-09-01",
+          "2026-09-02",
+          "2026-09-03",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-08"
+        ]
+      },
+      {
+        "topic": "IPO",
+        "count": 13,
+        "days": [
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-18",
+          "2026-08-19",
+          "2026-08-20",
+          "2026-08-22",
+          "2026-08-26",
+          "2026-09-01",
+          "2026-09-02",
+          "2026-09-08"
+        ]
+      },
+      {
         "topic": "中美科技竞争",
         "count": 12,
         "days": [
@@ -43966,57 +44810,21 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "AI",
+        "topic": "中美科技",
         "count": 12,
         "days": [
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-16",
-          "2026-08-21",
-          "2026-08-22",
-          "2026-08-24",
-          "2026-08-26",
-          "2026-08-27",
-          "2026-09-01"
-        ]
-      },
-      {
-        "topic": "供应链",
-        "count": 12,
-        "days": [
+          "2026-08-07",
           "2026-08-08",
           "2026-08-09",
           "2026-08-10",
-          "2026-08-11",
-          "2026-08-20",
-          "2026-08-25",
-          "2026-08-27",
-          "2026-09-01",
-          "2026-09-02",
-          "2026-09-03",
-          "2026-09-04",
-          "2026-09-05"
-        ]
-      },
-      {
-        "topic": "IPO",
-        "count": 12,
-        "days": [
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-13",
           "2026-08-14",
           "2026-08-15",
-          "2026-08-18",
-          "2026-08-19",
+          "2026-08-17",
           "2026-08-20",
           "2026-08-22",
+          "2026-08-25",
           "2026-08-26",
-          "2026-09-01",
-          "2026-09-02"
+          "2026-09-08"
         ]
       },
       {
@@ -44054,20 +44862,51 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "中美科技",
-        "count": 11,
+        "topic": "能源",
+        "count": 10,
         "days": [
+          "2026-08-04",
+          "2026-08-07",
+          "2026-08-09",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-16",
+          "2026-08-23",
+          "2026-09-03",
+          "2026-09-08"
+        ]
+      },
+      {
+        "topic": "军事",
+        "count": 10,
+        "days": [
+          "2026-08-06",
           "2026-08-07",
           "2026-08-08",
           "2026-08-09",
           "2026-08-10",
+          "2026-08-12",
+          "2026-08-15",
+          "2026-08-22",
+          "2026-09-01",
+          "2026-09-08"
+        ]
+      },
+      {
+        "topic": "出海",
+        "count": 10,
+        "days": [
+          "2026-08-07",
+          "2026-08-10",
+          "2026-08-13",
           "2026-08-14",
           "2026-08-15",
-          "2026-08-17",
+          "2026-08-19",
           "2026-08-20",
-          "2026-08-22",
+          "2026-08-24",
           "2026-08-25",
-          "2026-08-26"
+          "2026-09-08"
         ]
       },
       {
@@ -44117,18 +44956,33 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "能源",
+        "topic": "出口",
         "count": 9,
         "days": [
           "2026-08-04",
-          "2026-08-07",
+          "2026-08-06",
+          "2026-08-08",
           "2026-08-09",
-          "2026-08-12",
+          "2026-08-11",
           "2026-08-13",
           "2026-08-14",
-          "2026-08-16",
-          "2026-08-23",
-          "2026-09-03"
+          "2026-08-28",
+          "2026-09-08"
+        ]
+      },
+      {
+        "topic": "人形机器人",
+        "count": 9,
+        "days": [
+          "2026-08-05",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-18",
+          "2026-08-19",
+          "2026-08-20",
+          "2026-08-22",
+          "2026-09-08"
         ]
       },
       {
@@ -44147,33 +45001,18 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "军事",
+        "topic": "台海",
         "count": 9,
         "days": [
           "2026-08-06",
-          "2026-08-07",
           "2026-08-08",
           "2026-08-09",
           "2026-08-10",
+          "2026-08-11",
           "2026-08-12",
-          "2026-08-15",
-          "2026-08-22",
-          "2026-09-01"
-        ]
-      },
-      {
-        "topic": "出海",
-        "count": 9,
-        "days": [
-          "2026-08-07",
-          "2026-08-10",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-15",
-          "2026-08-19",
-          "2026-08-20",
-          "2026-08-24",
-          "2026-08-25"
+          "2026-08-16",
+          "2026-09-01",
+          "2026-09-08"
         ]
       },
       {
@@ -44188,34 +45027,6 @@ window.__XFS_DATA__ = {
           "2026-08-18",
           "2026-08-21",
           "2026-08-27"
-        ]
-      },
-      {
-        "topic": "出口",
-        "count": 8,
-        "days": [
-          "2026-08-04",
-          "2026-08-06",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-11",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-28"
-        ]
-      },
-      {
-        "topic": "人形机器人",
-        "count": 8,
-        "days": [
-          "2026-08-05",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-18",
-          "2026-08-19",
-          "2026-08-20",
-          "2026-08-22"
         ]
       },
       {
@@ -44275,20 +45086,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "台海",
-        "count": 8,
-        "days": [
-          "2026-08-06",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-16",
-          "2026-09-01"
-        ]
-      },
-      {
         "topic": "AI芯片",
         "count": 8,
         "days": [
@@ -44328,6 +45125,32 @@ window.__XFS_DATA__ = {
           "2026-08-25",
           "2026-08-26",
           "2026-08-27"
+        ]
+      },
+      {
+        "topic": "存储芯片",
+        "count": 7,
+        "days": [
+          "2026-08-05",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-28",
+          "2026-09-01",
+          "2026-09-05",
+          "2026-09-08"
+        ]
+      },
+      {
+        "topic": "贸易",
+        "count": 7,
+        "days": [
+          "2026-08-07",
+          "2026-08-09",
+          "2026-08-18",
+          "2026-08-20",
+          "2026-08-21",
+          "2026-08-22",
+          "2026-09-08"
         ]
       },
       {
@@ -44405,18 +45228,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "存储芯片",
-        "count": 6,
-        "days": [
-          "2026-08-05",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-28",
-          "2026-09-01",
-          "2026-09-05"
-        ]
-      },
-      {
         "topic": "融资",
         "count": 6,
         "days": [
@@ -44426,18 +45237,6 @@ window.__XFS_DATA__ = {
           "2026-08-24",
           "2026-08-25",
           "2026-09-03"
-        ]
-      },
-      {
-        "topic": "贸易",
-        "count": 6,
-        "days": [
-          "2026-08-07",
-          "2026-08-09",
-          "2026-08-18",
-          "2026-08-20",
-          "2026-08-21",
-          "2026-08-22"
         ]
       },
       {
@@ -44486,6 +45285,17 @@ window.__XFS_DATA__ = {
           "2026-08-26",
           "2026-09-01",
           "2026-09-03"
+        ]
+      },
+      {
+        "topic": "中欧关系",
+        "count": 5,
+        "days": [
+          "2026-08-04",
+          "2026-08-20",
+          "2026-08-21",
+          "2026-09-03",
+          "2026-09-08"
         ]
       },
       {
@@ -44687,6 +45497,17 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "比亚迪",
+        "count": 5,
+        "days": [
+          "2026-08-12",
+          "2026-08-14",
+          "2026-08-20",
+          "2026-08-28",
+          "2026-09-08"
+        ]
+      },
+      {
         "topic": "关键矿产",
         "count": 5,
         "days": [
@@ -44720,6 +45541,17 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "监管",
+        "count": 5,
+        "days": [
+          "2026-08-20",
+          "2026-08-22",
+          "2026-08-25",
+          "2026-09-01",
+          "2026-09-08"
+        ]
+      },
+      {
         "topic": "新能源汽车",
         "count": 4,
         "days": [
@@ -44727,16 +45559,6 @@ window.__XFS_DATA__ = {
           "2026-08-12",
           "2026-08-25",
           "2026-08-28"
-        ]
-      },
-      {
-        "topic": "中欧关系",
-        "count": 4,
-        "days": [
-          "2026-08-04",
-          "2026-08-20",
-          "2026-08-21",
-          "2026-09-03"
         ]
       },
       {
@@ -44757,6 +45579,26 @@ window.__XFS_DATA__ = {
           "2026-08-11",
           "2026-08-28",
           "2026-09-05"
+        ]
+      },
+      {
+        "topic": "数据中心",
+        "count": 4,
+        "days": [
+          "2026-08-06",
+          "2026-08-11",
+          "2026-09-03",
+          "2026-09-08"
+        ]
+      },
+      {
+        "topic": "汽车",
+        "count": 4,
+        "days": [
+          "2026-08-06",
+          "2026-08-20",
+          "2026-08-22",
+          "2026-09-08"
         ]
       },
       {
@@ -44860,16 +45702,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "比亚迪",
-        "count": 4,
-        "days": [
-          "2026-08-12",
-          "2026-08-14",
-          "2026-08-20",
-          "2026-08-28"
-        ]
-      },
-      {
         "topic": "AI大模型",
         "count": 4,
         "days": [
@@ -44917,16 +45749,6 @@ window.__XFS_DATA__ = {
           "2026-08-18",
           "2026-08-19",
           "2026-08-20"
-        ]
-      },
-      {
-        "topic": "监管",
-        "count": 4,
-        "days": [
-          "2026-08-20",
-          "2026-08-22",
-          "2026-08-25",
-          "2026-09-01"
         ]
       },
       {
@@ -45016,15 +45838,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "数据中心",
-        "count": 3,
-        "days": [
-          "2026-08-06",
-          "2026-08-11",
-          "2026-09-03"
-        ]
-      },
-      {
         "topic": "多晶硅",
         "count": 3,
         "days": [
@@ -45067,15 +45880,6 @@ window.__XFS_DATA__ = {
           "2026-08-06",
           "2026-08-09",
           "2026-09-02"
-        ]
-      },
-      {
-        "topic": "汽车",
-        "count": 3,
-        "days": [
-          "2026-08-06",
-          "2026-08-20",
-          "2026-08-22"
         ]
       },
       {
@@ -45229,6 +46033,15 @@ window.__XFS_DATA__ = {
           "2026-08-10",
           "2026-08-13",
           "2026-08-14"
+        ]
+      },
+      {
+        "topic": "算力",
+        "count": 3,
+        "days": [
+          "2026-08-10",
+          "2026-08-24",
+          "2026-09-08"
         ]
       },
       {
@@ -45457,12 +46270,30 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "财政政策",
+        "count": 3,
+        "days": [
+          "2026-08-29",
+          "2026-09-06",
+          "2026-09-08"
+        ]
+      },
+      {
         "topic": "G20",
         "count": 3,
         "days": [
           "2026-08-30",
           "2026-09-01",
           "2026-09-03"
+        ]
+      },
+      {
+        "topic": "贸易顺差",
+        "count": 3,
+        "days": [
+          "2026-09-01",
+          "2026-09-03",
+          "2026-09-08"
         ]
       },
       {
@@ -45559,6 +46390,14 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-04",
           "2026-09-05"
+        ]
+      },
+      {
+        "topic": "GDP",
+        "count": 2,
+        "days": [
+          "2026-08-04",
+          "2026-09-08"
         ]
       },
       {
@@ -45810,14 +46649,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "算力",
-        "count": 2,
-        "days": [
-          "2026-08-10",
-          "2026-08-24"
-        ]
-      },
-      {
         "topic": "智元",
         "count": 2,
         "days": [
@@ -45863,6 +46694,14 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-11",
           "2026-08-12"
+        ]
+      },
+      {
+        "topic": "内蒙古",
+        "count": 2,
+        "days": [
+          "2026-08-11",
+          "2026-09-08"
         ]
       },
       {
@@ -46370,6 +47209,14 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "电动车",
+        "count": 2,
+        "days": [
+          "2026-08-22",
+          "2026-09-08"
+        ]
+      },
+      {
         "topic": "农产品",
         "count": 2,
         "days": [
@@ -46415,6 +47262,14 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-24",
           "2026-08-26"
+        ]
+      },
+      {
+        "topic": "经济",
+        "count": 2,
+        "days": [
+          "2026-08-24",
+          "2026-09-08"
         ]
       },
       {
@@ -46466,6 +47321,14 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "价格战",
+        "count": 2,
+        "days": [
+          "2026-08-28",
+          "2026-09-08"
+        ]
+      },
+      {
         "topic": "堰塞湖",
         "count": 2,
         "days": [
@@ -46514,14 +47377,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "财政政策",
-        "count": 2,
-        "days": [
-          "2026-08-29",
-          "2026-09-06"
-        ]
-      },
-      {
         "topic": "全球失衡",
         "count": 2,
         "days": [
@@ -46530,11 +47385,11 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "贸易顺差",
+        "topic": "DeepSeek",
         "count": 2,
         "days": [
-          "2026-09-01",
-          "2026-09-03"
+          "2026-08-30",
+          "2026-09-08"
         ]
       },
       {
@@ -46603,6 +47458,38 @@ window.__XFS_DATA__ = {
       }
     ],
     "important_negatives": [
+      {
+        "id": "b6",
+        "date": "2026-09-07T19:00:00Z",
+        "media": "彭博社",
+        "title_zh": "你不必信任中国AI（评论）",
+        "importance": "medium",
+        "day": "2026-09-08"
+      },
+      {
+        "id": "b5",
+        "date": "2026-09-07T11:31:43Z",
+        "media": "彭博社",
+        "title_zh": "中国收紧对车企'造车过快'的监管",
+        "importance": "high",
+        "day": "2026-09-08"
+      },
+      {
+        "id": "r1",
+        "date": "2026-09-07",
+        "media": "路透社",
+        "title_zh": "比利时拘留一名涉嫌向中方转移半导体技术的中比双重国籍男子",
+        "importance": "high",
+        "day": "2026-09-08"
+      },
+      {
+        "id": "r4",
+        "date": "2026-09-07",
+        "media": "路透社",
+        "title_zh": "从舞池到战场：中国为人形机器人'参战'做准备",
+        "importance": "high",
+        "day": "2026-09-08"
+      },
       {
         "id": "r2",
         "date": "2026-09-06T13:27:00Z",
@@ -48037,14 +48924,23 @@ window.__XFS_DATA__ = {
       }
     ],
     "penetration": {
-      "运行天数": 33,
+      "运行天数": 34,
       "累计报道": 342,
-      "覆盖议题": 876,
-      "覆盖信源": 716,
-      "负面累计": 179,
-      "谋题累计": 27
+      "覆盖议题": 887,
+      "覆盖信源": 691,
+      "负面累计": 183,
+      "谋题累计": 30
     },
     "questions_timeline": [
+      {
+        "day": "2026-09-08",
+        "count": 3,
+        "titles": [
+          "中国AI出海遭遇'可信度'围堵：从舆论质疑到立法限制",
+          "西方'司法化技术安全'升级：比利时半导体间谍案与'人形机器人参战'叙事",
+          "巨额顺差成靶心：中国8月出口+25%、前8月顺差超8055亿美元引发多边围堵"
+        ]
+      },
       {
         "day": "2026-09-01",
         "count": 3,
@@ -48130,10 +49026,10 @@ window.__XFS_DATA__ = {
   },
   "stats": {
     "total": 342,
-    "days": 33,
-    "negatives": 110,
+    "days": 34,
+    "negatives": 111,
     "with_author": 217,
-    "with_body": 32,
+    "with_body": 33,
     "with_sources": 319
   }
 };
