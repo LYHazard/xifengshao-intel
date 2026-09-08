@@ -316,5 +316,117 @@ window.__XFS_REPORTERS__ = [
     ],
     handles: { x: "—", linkedin: "—", email: "tqu7@bloomberg.net" },
     sources: ["https://www.financeasia.com/article/anz-hires-china-rates-strategist-from-pboc/394956", "https://www.anz.com.au/newsroom/media/2015/03/anz-continues-expansion-of-financial-markets-research-with-appoi"]
+  },
+  {
+    id: "inti-landauro", name: "Inti Landauro", name_zh: "—",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "布鲁塞尔分社记者", title_en: "Brussels Correspondent",
+    beat: "覆盖比利时与欧盟事务，重点包括司法、犯罪、国安与谍报案件，以及比利时国内政治与重大刑事调查。",
+    base: "布鲁塞尔", base_en: "Brussels",
+    background: "路透驻布鲁塞尔记者，长期报道比利时及欧盟的司法、治安与国家安全议题，涵盖经济间谍、跨国犯罪与重大刑事调查。",
+    focus: ["比利时", "欧盟", "司法", "国安", "谍报"],
+    recent: [
+      { t: "Belgium detains Chinese man on suspicion of semiconductor espionage", d: "2026-09-07", n: "路透布鲁塞尔电" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.reuters.com/world/china/belgium-detains-chinese-man-suspicion-semiconductor-espionage-2026-09-07/"]
+  },
+  {
+    id: "liz-lee", name: "Liz Lee", name_zh: "李丽兹（Liz Lee，未公开确认中文名）",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "大中华区突发新闻副主编", title_en: "Deputy Editor, Greater China Breaking News",
+    beat: "驻北京，覆盖大中华区突发新闻，重点包括外交、经济数据与极端天气；此前在马来西亚报道公司新闻、IPO 与并购。",
+    base: "北京", base_en: "Beijing",
+    background: "在路透工作七年，先驻马来西亚、现驻中国北京，任大中华区突发新闻副主编；亦曾任职 DealStreetAsia 与 The Star（马来西亚）。毕业于拉曼大学（英文）。“零新冠”时期抵京，报道涵盖外交、经济数据与极端天气。",
+    focus: ["大中华区", "外交", "经济数据", "天气", "突发新闻"],
+    recent: [
+      { t: "Beijing expands funding tools to support food security, rural modernization", d: "2026-09-07", n: "合著（与 Beijing newsroom）" }
+    ],
+    handles: { x: "@livinglizly", linkedin: "—", email: "liz.lee@tr.com" },
+    sources: ["https://muckrack.com/lizlee/bio", "https://www.reuters.com/world/china/beijing-expands-funding-tools-to-support-food-security-rural-modernization-2026-09-07/"]
+  },
+  {
+    id: "ben-blanchard", name: "Ben Blanchard", name_zh: "—",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "路透台湾分社社长", title_en: "Taiwan Bureau Chief, Reuters",
+    beat: "驻台北，覆盖台湾一切议题——从选举、半导体到安全、政治与外交；亦常涉美中博弈下的台海局势。",
+    base: "台北", base_en: "Taipei",
+    background: "2003 年以公司新闻记者身份加入路透上海分社，2005 年转往北京报道中国政治与外交，2019 年出任路透台湾分社社长。曾就读国立台湾师范大学（中文）、牛津大学与高丽大学。",
+    focus: ["台湾", "半导体", "安全", "政治", "外交", "美中关系"],
+    recent: [
+      { t: "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies", d: "2026-09-07", n: "合著（与 Wen-Yee Lee）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.helpareporter.com/journalist/ben-blanchard", "https://www.reuters.com/world/china/taiwan-flexes-chip-diplomacy-muscles-as-it-faces-pressure-to-share-ai-wealth-with-allies-2026-09-07/"]
+  },
+  {
+    id: "wen-yee-lee", name: "Wen-Yee Lee", name_zh: "李文仪（Wen-Yee Lee，音译）",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "台湾科技记者", title_en: "Taiwan Tech Correspondent",
+    beat: "驻台北，覆盖台湾科技、半导体产业与美中科技/贸易脱钩议题，聚焦芯片供应链与台海科技政策。",
+    base: "台北", base_en: "Taipei",
+    background: "现任路透台湾科技记者。此前任职《商业周刊》（台北）科技记者，亦曾任 Deutsche Welle、美国之音（VOA）记者，并为《时代》杂志等媒体撰稿。西北大学 Medill 新闻学院硕士。曾报道美中贸易战对台厂影响与台湾半导体供应链。",
+    focus: ["台湾", "半导体", "科技", "美中科技战", "芯片"],
+    recent: [
+      { t: "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies", d: "2026-09-07", n: "合著（与 Ben Blanchard）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "wen-yee.lee@tr.com" },
+    sources: ["https://muckrack.com/wenyee_lee", "https://www.reuters.com/world/china/taiwan-flexes-chip-diplomacy-muscles-as-it-faces-pressure-to-share-ai-wealth-with-allies-2026-09-07/"]
+  },
+  {
+    id: "yukun-zhang", name: "Yukun Zhang", name_zh: "张宇坤（Yukun Zhang，音译）",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "北京分社宏观经济数据记者", title_en: "Beijing Correspondent, Economic Data",
+    beat: "驻北京，覆盖中国经济宏观数据、官方调查与市场调查（poll），聚焦外贸、增长与物价指标。",
+    base: "北京", base_en: "Beijing",
+    background: "路透北京分社记者，长期从事中国经济数据与调查的报道，包括进出口、GDP 与通胀等宏观指标的即时解读。",
+    focus: ["中国经济", "宏观数据", "贸易", "调查"],
+    recent: [
+      { t: "China's export growth seen accelerating in August: Reuters poll", d: "2026-09-07", n: "合著（与 Ryan Woo）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.reuters.com/world/china/chinas-export-growth-seen-accelerating-in-august-reuters-poll-2026-09-07/"]
+  },
+  {
+    id: "ryan-woo", name: "Ryan Woo", name_zh: "—",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "北京分社中国经济记者", title_en: "Beijing Correspondent, China Economy",
+    beat: "驻北京，覆盖中国经济与宏观议题，重点包括增长、工业与贸易数据，以及政策动向。",
+    base: "北京", base_en: "Beijing",
+    background: "路透北京分社记者，长期从事中国经济与宏观数据的报道，常就月度外贸、工业与 GDP 数据撰写即时分析。",
+    focus: ["中国经济", "宏观", "贸易", "政策"],
+    recent: [
+      { t: "China's export growth seen accelerating in August: Reuters poll", d: "2026-09-07", n: "合著（与 Yukun Zhang）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.reuters.com/world/china/chinas-export-growth-seen-accelerating-in-august-reuters-poll-2026-09-07/"]
+  },
+  {
+    id: "sangmi-cha", name: "Sangmi Cha", name_zh: "车相美（Sangmi Cha，音译）",
+    org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
+    title: "亚洲股票记者", title_en: "Asia Equities Reporter",
+    beat: "驻香港，覆盖大中华区与区域市场、货币政策与地缘政治对股市的影响、投资主题，以及 AI 芯片供应链等科技股。",
+    base: "香港", base_en: "Hong Kong",
+    background: "彭博驻香港亚洲股票记者，覆盖大中华区及区域市场、地缘政治与投资战略；此前在彭博韩国分社报道政治，更早任职路透，并曾在 Arirang TV 主持《The Point: World Affairs》。西雅图华盛顿大学国际研究学士、首尔大学政策研究硕士。",
+    focus: ["大中华区股市", "地缘政治", "AI芯片", "投资战略"],
+    recent: [
+      { t: "Longsys Shares Slip in HK Debut After $903 Million Listing", d: "2026-09-07", n: "江波龙港股上市首日破发" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://muckrack.com/sangmi-cha", "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing"]
+  },
+  {
+    id: "catherine-thorbecke", name: "Catherine Thorbecke", name_zh: "凯瑟琳·索贝克",
+    org: "Bloomberg", org_unit: "Bloomberg Opinion", role: "reporter",
+    title: "彭博观点亚洲科技专栏作家", title_en: "Bloomberg Opinion Columnist, Asia Tech",
+    beat: "驻东京，撰写亚洲科技评论，聚焦人工智能、消费科技与科技对社会的影响。",
+    base: "东京", base_en: "Tokyo",
+    background: "彭博观点（Bloomberg Opinion）亚洲科技专栏作家，此前曾任 CNN 与 ABC News 科技记者，长期报道人工智能、机器学习与消费科技。",
+    focus: ["人工智能", "消费科技", "亚洲科技", "科技评论"],
+    recent: [
+      { t: "You Don't Have to Trust Chinese AI", d: "2026-09-07", n: "彭博观点专栏" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai", "https://m.koreaherald.com/article/10785619"]
   }
 ];
