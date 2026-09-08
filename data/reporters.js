@@ -140,6 +140,14 @@ window.__XFS_REPORTERS__ = [
     beat: "报道人工智能、半导体与新兴技术，重点覆盖中国人形机器人、芯片与 AI 产业。",
     base: "北京", base_en: "Beijing, China",
     background: "路透社大中华区首席科技记者，常驻北京。剑桥大学历史学学士。长期报道中国科技（DeepSeek、英伟达/AMD 在华业务、360 安全、宇树科技 Unitree 及人形机器人产业等）。",
+    education: "剑桥大学(University of Cambridge)历史学学士；北京大学中国研究硕士；香港大学新闻学硕士",
+    career: [
+      "《南华早报》(SCMP, 香港) 记者",
+      "自由撰稿（《经济学人》《外交政策》《日经亚洲评论》）",
+      "2017年赴北京大学攻读中国研究硕士，后赴香港大学读新闻学硕士",
+      "路透 中国团队 2021–至今（零新冠、AI监控、火化数据、抗议等）；现任大中华区首席科技记者",
+      "SOPA 商业报道卓越奖；通葡/韩/英等约七种语言，葡萄牙与韩国双重国籍",
+    ],
     focus: ["AI", "科技", "半导体", "机器人"],
     recent: [
       { t: "Chinese humanoid robot runs 100m faster than Bolt", d: "2026-08", n: "合著（与 Xihao Jiang）" },
@@ -156,6 +164,11 @@ window.__XFS_REPORTERS__ = [
     beat: "报道中国科技与人形机器人产业，包括机器人制造、AI 赋能生产与世界人形机器人运动会。",
     base: "北京", base_en: "Beijing, China",
     background: "路透社记者，参与中国科技及人形机器人报道。曾与 Brenda Goh、Eduardo Baptista 合著 “China's AI-powered humanoid robots aim to transform manufacturing”（2025-05-13），并与 Eduardo Baptista、Kevin Krolicki 等合著 “Chinese robot beats Usain Bolt's 100m world record at Beijing games”（2026-08-23）。个人履历公开来源未确认。（注：检索中出现的同名学者非该记者。）",
+    education: "未公开检索到（公开简历未披露毕业院校）",
+    career: [
+      "路透 汽车 / 机器人科技记者（驻北京/上海）",
+      "与 Zhang Yan、Ju-min Park、Kevin Krolicki 联署中国汽车/电动车/出口报道（如 BYD 招聘、特斯拉、2026-09-08 汽车出口）",
+    ],
     focus: ["科技", "机器人", "AI"],
     recent: [
       { t: "Chinese robot beats Usain Bolt's 100m world record at Beijing games", d: "2026-08-23", n: "合著（与 Eduardo Baptista、Kevin Krolicki 等）" },
@@ -324,6 +337,11 @@ window.__XFS_REPORTERS__ = [
     beat: "覆盖比利时与欧盟事务，重点包括司法、犯罪、国安与谍报案件，以及比利时国内政治与重大刑事调查。",
     base: "布鲁塞尔", base_en: "Brussels",
     background: "路透驻布鲁塞尔记者，长期报道比利时及欧盟的司法、治安与国家安全议题，涵盖经济间谍、跨国犯罪与重大刑事调查。",
+    education: "未公开检索到（公开简历未披露毕业院校）",
+    career: [
+      "路透 布鲁塞尔记者，覆盖比利时司法、警务、法院及间谍/安全案件",
+      "报道样例：2026-09-07 比利时拘押涉嫌半导体间谍的中国公民",
+    ],
     focus: ["比利时", "欧盟", "司法", "国安", "谍报"],
     recent: [
       { t: "Belgium detains Chinese man on suspicion of semiconductor espionage", d: "2026-09-07", n: "路透布鲁塞尔电" }
@@ -338,6 +356,14 @@ window.__XFS_REPORTERS__ = [
     beat: "驻北京，覆盖大中华区突发新闻，重点包括外交、经济数据与极端天气；此前在马来西亚报道公司新闻、IPO 与并购。",
     base: "北京", base_en: "Beijing",
     background: "在路透工作七年，先驻马来西亚、现驻中国北京，任大中华区突发新闻副主编；亦曾任职 DealStreetAsia 与 The Star（马来西亚）。毕业于拉曼大学（英文）。“零新冠”时期抵京，报道涵盖外交、经济数据与极端天气。",
+    education: "马来亚国民大学（Universiti Tunku Abdul Rahman, UTAR）英语语言文学学士（含新闻学课程）",
+    career: [
+      "《星报》(Star Publications, 马来西亚) 商业记者 / 管理培训生 2011–2014",
+      "DealStreetAsia 马来西亚站记者，覆盖 PE/VC/IPO/M&A 2014–2016",
+      "路透 吉隆坡公司新闻记者 2016–2022（航空、科技/芯片、棕榈油、强迫劳动调查）",
+      "路透 北京大中华突发新闻记者 2022–至今，现任大中华突发新闻副主编(Deputy Editor)",
+      "Schmidt Futures 国际战略论坛(ISF) 亚洲首届研究员 2022",
+    ],
     focus: ["大中华区", "外交", "经济数据", "天气", "突发新闻"],
     recent: [
       { t: "Beijing expands funding tools to support food security, rural modernization", d: "2026-09-07", n: "合著（与 Beijing newsroom）" }
@@ -352,6 +378,14 @@ window.__XFS_REPORTERS__ = [
     beat: "驻台北，覆盖台湾一切议题——从选举、半导体到安全、政治与外交；亦常涉美中博弈下的台海局势。",
     base: "台北", base_en: "Taipei",
     background: "2003 年以公司新闻记者身份加入路透上海分社，2005 年转往北京报道中国政治与外交，2019 年出任路透台湾分社社长。曾就读国立台湾师范大学（中文）、牛津大学与高丽大学。",
+    education: "牛津大学(University of Oxford)汉语言文学学士 1994–1998；高丽大学(Korea University)交换 1997；台湾师范大学(National Taiwan Normal University)汉语言文学 1998–1999",
+    career: [
+      "《航贸杂志》(Airway Magazine) 编辑 1999–2001",
+      "《台北时报》(Taipei Times) 文字编辑 2001–2002",
+      "路透 上海公司新闻记者 2003–2005",
+      "路透 北京政治/外交记者、高级记者 2005–2019",
+      "路透 中国台湾分社社长(Bureau Chief) 2019–至今，报道过四届台湾地区领导人选举",
+    ],
     focus: ["台湾", "半导体", "安全", "政治", "外交", "美中关系"],
     recent: [
       { t: "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies", d: "2026-09-07", n: "合著（与 Wen-Yee Lee）" }
@@ -366,6 +400,14 @@ window.__XFS_REPORTERS__ = [
     beat: "驻台北，覆盖台湾科技、半导体产业与美中科技/贸易脱钩议题，聚焦芯片供应链与台海科技政策。",
     base: "台北", base_en: "Taipei",
     background: "现任路透台湾科技记者。此前任职《商业周刊》（台北）科技记者，亦曾任 Deutsche Welle、美国之音（VOA）记者，并为《时代》杂志等媒体撰稿。西北大学 Medill 新闻学院硕士。曾报道美中贸易战对台厂影响与台湾半导体供应链。",
+    education: "台湾师范大学(National Taiwan Normal University)英语学士 2011–2015；西北大学梅迪尔新闻学院(Northwestern University Medill School of Journalism)新闻学硕士 2016–2017",
+    career: [
+      "《商周》(Business Weekly, 台湾) 科技记者 2018–2020（半导体、美中贸易战）",
+      "美国之音(VOA) 台北记者 2020–2021",
+      "德国之声(Deutsche Welle) 多媒体记者 2021",
+      "自由撰稿（曾为《纽约时报》《时代》供稿）",
+      "路透 中国台湾科技记者 2024–至今；SOPA 2021 突发新闻卓越奖、AAJA 学生奖",
+    ],
     focus: ["台湾", "半导体", "科技", "美中科技战", "芯片"],
     recent: [
       { t: "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies", d: "2026-09-07", n: "合著（与 Ben Blanchard）" }
@@ -380,6 +422,11 @@ window.__XFS_REPORTERS__ = [
     beat: "驻北京，覆盖中国经济宏观数据、官方调查与市场调查（poll），聚焦外贸、增长与物价指标。",
     base: "北京", base_en: "Beijing",
     background: "路透北京分社记者，长期从事中国经济数据与调查的报道，包括进出口、GDP 与通胀等宏观指标的即时解读。",
+    education: "未公开检索到（公开简历未披露毕业院校）",
+    career: [
+      "路透 北京宏观经济数据记者，常驻北京",
+      "与 Kevin Yao 等联署中国 CPI/PPI、进出口、贸易等宏观数据稿（如 2026-08 通胀、2026-09-08 出口数据）",
+    ],
     focus: ["中国经济", "宏观数据", "贸易", "调查"],
     recent: [
       { t: "China's export growth seen accelerating in August: Reuters poll", d: "2026-09-07", n: "合著（与 Ryan Woo）" }
@@ -394,6 +441,14 @@ window.__XFS_REPORTERS__ = [
     beat: "驻北京，覆盖中国经济与宏观议题，重点包括增长、工业与贸易数据，以及政策动向。",
     base: "北京", base_en: "Beijing",
     background: "路透北京分社记者，长期从事中国经济与宏观数据的报道，常就月度外贸、工业与 GDP 数据撰写即时分析。",
+    education: "新加坡国立大学(National University of Singapore) 文学士（英语文学与哲学）1993–1996",
+    career: [
+      "Worldtel 商业撰稿人 1997–1998",
+      "BridgeNews 编辑 1998–2000",
+      "道琼斯通讯社(Dow Jones Newswires) 编辑",
+      "路透 亚洲公司新闻首席 desk 编辑、亚洲 desk 副主编",
+      "路透 北京分社社长(Beijing Bureau Chief) 2016–至今",
+    ],
     focus: ["中国经济", "宏观", "贸易", "政策"],
     recent: [
       { t: "China's export growth seen accelerating in August: Reuters poll", d: "2026-09-07", n: "合著（与 Yukun Zhang）" }
@@ -408,6 +463,13 @@ window.__XFS_REPORTERS__ = [
     beat: "驻香港，覆盖大中华区与区域市场、货币政策与地缘政治对股市的影响、投资主题，以及 AI 芯片供应链等科技股。",
     base: "香港", base_en: "Hong Kong",
     background: "彭博驻香港亚洲股票记者，覆盖大中华区及区域市场、地缘政治与投资战略；此前在彭博韩国分社报道政治，更早任职路透，并曾在 Arirang TV 主持《The Point: World Affairs》。西雅图华盛顿大学国际研究学士、首尔大学政策研究硕士。",
+    education: "华盛顿大学(University of Washington, Seattle)国际研究学士；首尔大学(Seoul National University)政策研究硕士",
+    career: [
+      "Arirang TV《The Point: World Affairs》主持人/记者（驻首尔）",
+      "路透 记者（驻韩国）",
+      "彭博 韩国政治记者，后转香港分社",
+      "彭博 亚洲股票记者(香港)，覆盖大中华股票、货币政策与地缘政治对市场影响、IPO",
+    ],
     focus: ["大中华区股市", "地缘政治", "AI芯片", "投资战略"],
     recent: [
       { t: "Longsys Shares Slip in HK Debut After $903 Million Listing", d: "2026-09-07", n: "江波龙港股上市首日破发" }
@@ -422,11 +484,61 @@ window.__XFS_REPORTERS__ = [
     beat: "驻东京，撰写亚洲科技评论，聚焦人工智能、消费科技与科技对社会的影响。",
     base: "东京", base_en: "Tokyo",
     background: "彭博观点（Bloomberg Opinion）亚洲科技专栏作家，此前曾任 CNN 与 ABC News 科技记者，长期报道人工智能、机器学习与消费科技。",
+    education: "纽约大学(New York University) 学士；夏威夷预备学校(Hawaii Preparatory Academy)；巴黎法语联盟(Alliance Française)法语进修",
+    career: [
+      "ABC News 数字撰稿 /《早安美国》制片 2016–2019（团队获 2016/2017 日间艾美奖）",
+      "ABC News 商业与科技记者 2019–2022",
+      "CNN Business 科技撰稿人 2022–2024",
+      "彭博观点(Bloomberg Opinion) 亚洲科技专栏作家 2024–至今，驻东京；AAJA 成员",
+    ],
     focus: ["人工智能", "消费科技", "亚洲科技", "科技评论"],
     recent: [
       { t: "You Don't Have to Trust Chinese AI", d: "2026-09-07", n: "彭博观点专栏" }
     ],
     handles: { x: "—", linkedin: "—", email: "—" },
     sources: ["https://www.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai", "https://m.koreaherald.com/article/10785619"]
+  }
+,
+  {
+    id: "yan-zhang", name: "Zhang Yan", name_zh: "张岩（Zhang Yan，罗马化 Yan Zhang）",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "高级记者", title_en: "Senior Correspondent",
+    beat: "汽车、电动车、电池、自动驾驶、科技与监管；常驻上海/北京，覆盖中国最大汽车市场及特斯拉、宁德时代等竞争格局。",
+    base: "上海/北京", base_en: "Shanghai/Beijing",
+    background: "路透高级记者，专注中国汽车与未来出行（电动化、自动化）产业链与监管/地缘政治下的竞争态势；SOPA 商业报道卓越奖得主（中国汽车产业系列/零公里车销量注水调查）。",
+    education: "未公开检索到（公开简历未披露毕业院校）",
+    career: [
+      "路透 高级记者(Senior Correspondent)，驻上海/北京，覆盖汽车、电动车、电池、自动驾驶、供应链与监管",
+      "SOPA 商业报道卓越奖（中国汽车产业系列 / 零公里车销量注水调查）",
+      "长期跟踪特斯拉、宁德时代(CATL)等，报道中美监管与地缘下的汽车竞争格局",
+    ],
+    focus: ["汽车", "电动车", "电池", "自动驾驶", "供应链", "监管"],
+    recent: [
+      { t: "China's car exports roar in August while domestic sales extend declines", d: "2026-09-08", n: "与 Qiaoyi Li、Ju-min Park 联署" },
+      { t: "EXCLUSIVE CATL planning EV battery production in United States", d: "2022", n: "特斯拉/宁德时代供应链" },
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://muckrack.com/yan-zhang-6", "https://kathari.news/author/zhang-yan/"]
+  },
+  {
+    id: "ju-min-park", name: "Ju-min Park", name_zh: "朴俊民 / 朴周民（Park Ju-min，罗马化存异）",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "资深记者", title_en: "Senior Correspondent",
+    beat: "汽车行业；此前报道朝鲜半岛与日本。亦参与中国涉台、涉美政治报道。",
+    base: "北京", base_en: "Beijing",
+    background: "路透驻北京资深记者，覆盖汽车行业；2010年入职路透，此前报道朝鲜半岛与日本。女性记者。",
+    education: "未公开检索到（公开简历未披露毕业院校）",
+    career: [
+      "路透 资深记者(Senior Correspondent)，驻北京，覆盖汽车行业；2010年入职路透",
+      "此前报道朝鲜半岛与日本",
+      "与 Qiaoyi Li、Zhang Yan 等联署中国汽车/电动车报道，亦参与中国涉台、涉美政治报道（如 2026-06 天安门周年中美交锋）",
+    ],
+    focus: ["汽车", "电动车", "出口", "朝鲜半岛", "日本", "中美关系"],
+    recent: [
+      { t: "China's car exports roar in August while domestic sales extend declines", d: "2026-09-08", n: "与 Qiaoyi Li、Zhang Yan 联署" },
+      { t: "China, US clash over Tiananmen anniversary; Taiwan says face up to history", d: "2026-06-04", n: "与 Ben Blanchard 联署" },
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://theedgemarkets.com/author/Ju-min%20Park", "https://m.dailyadvent.com/news/75605ed7260512en_zw"]
   }
 ];

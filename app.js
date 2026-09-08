@@ -352,6 +352,8 @@
       '<section class="rep-bio">' +
         '<div class="rep-sec"><h4>报道领域</h4><p>' + esc(r.beat || '') + '</p></div>' +
         '<div class="rep-sec"><h4>背景</h4><p>' + esc(r.background || '') + '</p></div>' +
+        (r.education ? '<div class="rep-sec"><h4>毕业院校</h4><p>' + esc(r.education) + '</p></div>' : '') +
+        ((r.career && r.career.length) ? '<div class="rep-sec"><h4>职业履历</h4><ul class="rep-career">' + r.career.map(function (c) { return '<li>' + esc(c) + '</li>'; }).join('') + '</ul></div>' : '') +
         (recent ? '<div class="rep-sec"><h4>代表性报道（公开资料）</h4><ul class="rep-recent">' + recent + '</ul></div>' : '') +
         '<div class="rep-sec"><h4>公开账号</h4>' + handleHtml + '</div>' +
         (srcHtml ? '<div class="rep-sec"><h4>资料来源</h4><ul class="rep-src">' + srcHtml + '</ul></div>' : '') +

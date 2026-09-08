@@ -1,5 +1,5 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-09-08T15:54:31+08:00",
+  "generated_at": "2026-09-08T16:34:32+08:00",
   "latest_questions_day": "2026-09-08",
   "days": {
     "2026-09-08": {
@@ -12,10 +12,10 @@ window.__XFS_DATA__ = {
       },
       "coverage": {
         "reuters": {
-          "captured": 5,
-          "with_author": 5,
-          "with_fulltext": 5,
-          "note": "通道A直连被JS墙/机器人验证拦截→通道B代理401/403失败→通道C WebSearch多组+国际转载(Yahoo/AsiaOne/The Edge/zaobao/Lufkin)补全标题/署名/正文；5篇全部取得真实记者署名。"
+          "captured": 7,
+          "with_author": 7,
+          "with_fulltext": 7,
+          "note": "通道A直连被JS墙/机器人验证拦截→通道B代理401/403失败→通道C WebSearch多组+国际转载(Yahoo/AsiaOne/The Edge/zaobao/Lufkin/SRN/The Standard)补全标题/署名/正文；7篇全部取得真实记者署名。后续补登2篇9月8日数据发布稿(出口数据稿 Yukun Zhang&Liz Lee、汽车出口稿 Qiaoyi Li/Zhang Yan/Ju-min Park)，均为海关/乘联会数据发布后路透发出的真实署名稿，补入本日归档以保证全量。"
         },
         "bloomberg": {
           "captured": 6,
@@ -137,6 +137,102 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/features/2026-09-08/china-races-to-build-ai-data-centers-far-away-from-its-biggest-cities",
             "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；byline 为 Bloomberg News，内文'With assistance from Dan Murtaugh and Ocean Hou'（协助报道/摄影），主要署名仍属机构发稿，标 not_available。"
+          }
+        },
+        {
+          "id": "r6",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's exports expand faster in August, underpin economic growth",
+          "title_zh": "中国8月出口同比增25%加快，外需托底经济增速",
+          "published_at": "2026-09-08",
+          "published_precision": "date",
+          "authors": [
+            "Yukun Zhang",
+            "Liz Lee"
+          ],
+          "author_locations": [
+            "北京"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "出口",
+            "经济数据",
+            "贸易",
+            "顺差",
+            "GDP"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社9月8日发自北京报道，中国8月出口增速加快，仍是经济关键驱动力——在全球对中国产汽车、半导体等高科技产品需求强劲、而内需与外部环境仍不确定的背景下托底增长。海关数据显示，8月按美元计出口同比增25%，符合预期，较7月23.9%加快；进口增28.2%，高于7月的27.5%、但低于市场30%的预期。出口热潮由全球对中国汽车、半导体及其他高科技品的需求支撑，与国内消费、投资与楼市疲弱形成对比，凸显北京对外部需求实现4.5%—5%年度增长目标的倚重。在二季度增速放缓至4.3%后，工业产出与零售在三季度初均放缓，前七个月固投降幅扩大；房地产仍处多年下行。政府已加码财政支持，包括动用8000亿元融资工具稳住基建投资。但出口强劲缓解了立即大规模提振居民收入与楼市的紧迫性。依靠外销吸纳产能也使中国面临贸易伙伴限制风险——美欧均要求北京降低顺差。8月贸易顺差达1190.9亿美元，较7月1125亿美元扩大。去年末两国元首会晤达成的贸易休战虽时有摩擦仍维持，双方正探讨彼此300亿美元商品互降关税，为月底峰会做准备。",
+          "summary_en": "China's export growth picked up pace in August, remaining a key driver for an economy still grappling with tepid domestic demand and external uncertainties. Customs data showed August exports rose 25% y/y in USD terms, matching forecasts and accelerating from 23.9% in July; imports surged 28.2%, versus 27.5% in July and a 30% forecast. The export boom, supported by global demand for Chinese cars, semiconductors and other high-tech goods, contrasts with weaknesses in domestic consumption, investment and property. The trade surplus hit $119.09bn in August, up from $112.5bn.",
+          "china_angle": "出口高增与巨额顺差既是中国韧性的实证，也被西方用作'贸易失衡'话柄，招致多边关税与壁垒压力，成为中美峰会前博弈焦点。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/chinas-exports-expand-faster-in-august-underpin-economic-growth-2026-09-08/",
+          "body_available": true,
+          "body_zh": "路透社9月8日发自北京报道，中国8月出口增速加快，仍是经济关键驱动力——在全球需求对中国产汽车、半导体等高科技产品强劲、而内需与外部环境仍不确定的背景下托底增长。海关数据显示，8月按美元计出口同比增25%，符合预期，较7月23.9%加快；进口同比增28.2%，7月为27.5%、市场预期为30%升幅。出口热潮由全球对中国产汽车、半导体及其他高科技品的需求支撑，与国内消费、投资与房地产市场的疲弱形成鲜明对比，凸显北京对外部需求实现4.5%—5%年度增长目标的依赖。在4—6月增速放缓至4.3%后，上月公布的工业产出与零售数据均显示三季度初放缓，前七个月固定资产投资降幅扩大；被视为昔日增长引擎的房地产仍处多年下行。尽管AI热潮提振了先进制造者利润，依赖国内市场的行业仍受出厂品通胀与需求疲弱困扰。李强8月呼吁稳住外需、扩大国际贸易合作，同时承认内需不足、行业与企业处境艰难、国际环境不确定性上升。政府已加码财政支持，包括动用8000亿元（约1192亿美元）融资工具稳住基建投资。但出口强劲缓解了北京立即大规模提振居民收入、增强就业安全感与重振楼市的紧迫性。依靠外销吸纳工业产能也使中国面临贸易伙伴限制风险——美欧均要求北京降低顺差。8月贸易顺差达1190.9亿美元，较7月1125亿美元扩大。去年末两国元首会晤达成的贸易休战虽时有摩擦仍维持，双方正就彼此300亿美元商品互降关税进行探讨，为月底峰会做准备。（1美元=6.7108元人民币）",
+          "cited_sources": [
+            "中国海关",
+            "路透调查（35位经济学家）",
+            "中国2026增长目标"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "8月出口约+25%、顺差近1191亿美元，与路透调查及彭博测算相互印证，显示外需在极端天气与内需偏弱下仍是增长主轴。对中方是正向韧性信号；但在西方话语中，巨额顺差被工具化为'全球失衡'证据，直接服务于贝森特推动的G20多边围堵与单边关税。短期内需留意：本月中美峰会前'300亿美元互降关税'的脆弱窗口、欧盟对中国电动车/绿色品的壁垒升级，以及顺差扩大是否触发更严的'去风险'协调。中方应对仍将是'扩大进口承诺+以创新与绿色转型解释增长'，淡化刻意追求顺差。",
+          "provenance": {
+            "evidence_url": "https://www.thestandard.com.hk/finance/article/342133/Chinas-exports-expand-25-percent-in-August-align-with-forecast",
+            "evidence_note": "经 The Standard（香港）/路透转载复核全文；署名 Reporting by Yukun Zhang and Liz Lee，编辑 Shri Navaratnam。"
+          }
+        },
+        {
+          "id": "r7",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's car exports roar in August while domestic sales extend declines",
+          "title_zh": "中国8月汽车出口高歌猛进，国内销量连续第11个月下滑",
+          "published_at": "2026-09-08",
+          "published_precision": "date",
+          "authors": [
+            "Qiaoyi Li",
+            "Zhang Yan",
+            "Ju-min Park"
+          ],
+          "author_locations": [
+            "北京",
+            "上海",
+            "北京"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "汽车",
+            "出口",
+            "电动车",
+            "比亚迪",
+            "价格战",
+            "监管"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社9月8日发自北京报道，在中国车企以比亚迪为首向海外交付创纪录数量车辆的带动下，中国8月汽车出口保持高位（增速略有放缓），与国内市场的低迷形成鲜明对比——国内销量连续第11个月下滑。乘联会（CPCA）数据显示，8月乘用车出口同比增77.5%至89.4万辆，较7月88.2%的增幅放缓；国内销量同比下降23.7%至155万辆，较7月21.1%的降幅进一步扩大。电动与插电混动占国内总销量64.7%，同比萎缩10.1%，而该细分市场出口增速从7月147.8%加快至154.7%。比亚迪与吉利8月出口均创纪录；即便贸易限制趋严，中国车企仍在欧洲与新兴市场扩大存在。乘联会秘书长崔东树预计今年汽车出口将达1200万辆，到2030年进一步升至1800万—2000万辆。赛力斯因国内高端电动车竞争加剧、出海偏晚而处于劣势，上月总销量骤降44%。出口热潮引发监管担忧：国内惨烈的价格战可能外溢至海外市场，上周中国监管机构发布车企海外经营新规，警示频繁或大幅降价等不合规行为，比亚迪、奇瑞、吉利等均已承诺遵守。",
+          "summary_en": "China's car exports stayed in high gear in August as automakers led by BYD shipped a record number of vehicles overseas, in sharp contrast to a sluggish domestic market where sales fell for the 11th month in a row. CPCA data showed passenger vehicle exports jumped 77.5% y/y to 894,000 units, easing from 88.2% a month earlier; domestic sales fell 23.7% to 1.55 million, worsening from a 21.1% decline in July. EV and plug-in hybrid sales, 64.7% of domestic total, shrank 10.1% y/y while exports of those models accelerated to 154.7% growth.",
+          "china_angle": "出口高增对冲国内疲弱、是中方车企全球扩张的实力体现，但价格战外溢与监管新规反映'中国速度'正被内外双向校准，亦成欧美非关税壁垒的话术素材。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/chinas-car-exports-roar-in-august-while-domestic-sales-extend-declines-2026-09-08/",
+          "body_available": true,
+          "body_zh": "路透社9月8日发自北京报道，在中国汽车制造商以比亚迪为首向海外交付创纪录数量车辆的带动下，中国8月汽车出口保持高位（增速略有放缓），与国内市场的低迷形成鲜明对比——国内销量连续第11个月下滑。乘联会（CPCA）数据显示，8月乘用车出口同比增77.5%至89.4万辆，较7月88.2%的增幅放缓；国内销量同比下降23.7%至155万辆，较7月21.1%的降幅进一步扩大。电动与插电混动占国内总销量64.7%，同比萎缩10.1%，而该细分市场出口增速从7月147.8%加快至154.7%。在国内这一全球最大汽车市场持续走弱之际，车企加大出海力度：比亚迪与吉利8月出口均创纪录。即便贸易限制趋严，中国车企仍在欧洲与新兴市场凭借高性价比、技术丰富的车型扩大存在。乘联会秘书长崔东树预计今年汽车出口将达1200万辆，到2030年进一步升至1800万—2000万辆。小米等后进者正与德国经销商签约，为明年欧洲上市做准备。与华为联合开发问界的赛力斯，则因国内高端电动车竞争加剧、出海偏晚而处于劣势，上月总销量骤降44%。出口热潮引发监管担忧：国内惨烈的价格战可能外溢至海外市场。上周中国监管机构发布车企海外经营新规，警示频繁或大幅降价等可能损害消费者、损害品牌声誉的不合规行为。比亚迪、奇瑞、吉利等均已承诺遵守新规。（署名 Qiaoyi Li、Zhang Yan、Ju-min Park；编辑 Clarence Fernandez、Stephen Coates）",
+          "cited_sources": [
+            "乘联会（CPCA）",
+            "比亚迪",
+            "吉利汽车",
+            "奇瑞",
+            "赛力斯（问界）",
+            "小米汽车",
+            "崔东树（乘联会秘书长）"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "汽车'出口强、内销弱'的分化，是中方车企以规模与成本优势外拓、对冲国内内卷的缩影，也是中外产业竞争的实时切片。对中方而言，出海是必然也是承压之路——短期靠性价比与产品线广度扩张份额，中长期取决于本地建厂、品牌与合规。监管层主动出台海外经营新规、警示价格战外溢，是'为中国速度踩刹车、以质量与合规换长期口碑'的自我校准，正面意义应予肯定；但西方舆论易将'过快''降价'框架为安全/不公平竞争风险，为欧盟非关税壁垒提供话术。情报上应跟踪：欧盟对中国电动车反补贴税执行与扩围、美国潜在限制、以及新规对出口节奏的实际影响。",
+          "provenance": {
+            "evidence_url": "https://srnnews.com/chinas-car-exports-stay-strong-in-august-while-domestic-sales-decline-worsens",
+            "evidence_note": "经 SRN News（路透 syndication）/路透转载复核全文；署名 Reporting by Qiaoyi Li, Zhang Yan and Ju-min Park，编辑 Clarence Fernandez、Stephen Coates。"
           }
         },
         {
@@ -485,14 +581,14 @@ window.__XFS_DATA__ = {
         }
       ],
       "daily_analysis": {
-        "total": 11,
+        "total": 13,
         "by_media": {
-          "路透社": 5,
+          "路透社": 7,
           "彭博社": 6
         },
         "sentiment_split": {
           "negative": 4,
-          "neutral": 7,
+          "neutral": 9,
           "positive": 0
         },
         "negatives": [
@@ -503,7 +599,15 @@ window.__XFS_DATA__ = {
         ],
         "top_topics": [
           [
+            "出口",
+            4
+          ],
+          [
             "AI",
+            3
+          ],
+          [
+            "电动车",
             3
           ],
           [
@@ -511,20 +615,12 @@ window.__XFS_DATA__ = {
             2
           ],
           [
-            "出口",
+            "经济数据",
             2
           ],
           [
-            "电动车",
+            "贸易",
             2
-          ],
-          [
-            "科技安全",
-            1
-          ],
-          [
-            "间谍",
-            1
           ]
         ],
         "key_takeaway": "比利时拘留一名涉嫌向中方转移半导体技术的中比双重国籍男子"
@@ -37320,86 +37416,99 @@ window.__XFS_DATA__ = {
       "id": "r6",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "One dead, 11 people missing after mudslide in China's Jiangxi province",
-      "title_zh": "台风“莎德尔”致江西遂川发生泥石流，1人遇难11人失联",
-      "published_at": "2026-09-05T00:05:00Z",
-      "published_precision": "minute",
+      "title_en": "China's exports expand faster in August, underpin economic growth",
+      "title_zh": "中国8月出口同比增25%加快，外需托底经济增速",
+      "published_at": "2026-09-08",
+      "published_precision": "date",
       "authors": [
-        "David Shepardson"
+        "Yukun Zhang",
+        "Liz Lee"
       ],
-      "author_locations": "WASHINGTON",
-      "authors_status": "not_available",
+      "author_locations": [
+        "北京"
+      ],
+      "authors_status": "named",
       "topics": [
-        "自然灾害",
-        "台风",
-        "应急管理",
-        "社会民生"
+        "出口",
+        "经济数据",
+        "贸易",
+        "顺差",
+        "GDP"
       ],
-      "importance": "low",
-      "summary_zh": "路透北京9月5日凌晨快讯，受台风“莎德尔”带来的强降雨影响，江西省吉安市遂川县高坪镇于当地时间周六凌晨4时（格林尼治时间周五20时）发生泥石流。地方政府通报称已确认1人死亡、11人失联，另有12栋房屋受损。路透引述遂川县政府发布的通报，未披露降雨量、救援力量投入与失联人员身份等进一步信息，也未说明其他受灾区域情况，未附任何分析、评论或背景数据。该稿属路透对中国境内突发灾害的常规滚动播报，篇幅极短，是外媒全球灾害监测序列中的一条条目式记录。",
-      "china_angle": "属常规灾情滚动报道，外媒未附加政治框架；但因近期中国境内灾害（西藏吉隆泥石流、福建莆田内涝、江西遂川泥石流）密集进入外媒报道序列，需关注是否累积形成“应急管理能力”议题集群。",
-      "stance": "中性（纯事实快讯）",
-      "source_url": "https://www.streetinsider.com/Reuters/Wall+St+gains+with+tech+shares%3B+regional+banks+fall/stock_lookup.php?q=S",
+      "importance": "high",
+      "summary_zh": "路透社9月8日发自北京报道，中国8月出口增速加快，仍是经济关键驱动力——在全球对中国产汽车、半导体等高科技产品需求强劲、而内需与外部环境仍不确定的背景下托底增长。海关数据显示，8月按美元计出口同比增25%，符合预期，较7月23.9%加快；进口增28.2%，高于7月的27.5%、但低于市场30%的预期。出口热潮由全球对中国汽车、半导体及其他高科技品的需求支撑，与国内消费、投资与楼市疲弱形成对比，凸显北京对外部需求实现4.5%—5%年度增长目标的倚重。在二季度增速放缓至4.3%后，工业产出与零售在三季度初均放缓，前七个月固投降幅扩大；房地产仍处多年下行。政府已加码财政支持，包括动用8000亿元融资工具稳住基建投资。但出口强劲缓解了立即大规模提振居民收入与楼市的紧迫性。依靠外销吸纳产能也使中国面临贸易伙伴限制风险——美欧均要求北京降低顺差。8月贸易顺差达1190.9亿美元，较7月1125亿美元扩大。去年末两国元首会晤达成的贸易休战虽时有摩擦仍维持，双方正探讨彼此300亿美元商品互降关税，为月底峰会做准备。",
+      "china_angle": "出口高增与巨额顺差既是中国韧性的实证，也被西方用作'贸易失衡'话柄，招致多边关税与壁垒压力，成为中美峰会前博弈焦点。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/chinas-exports-expand-faster-in-august-underpin-economic-growth-2026-09-08/",
       "body_available": true,
-      "body_zh": "北京9月5日（路透）——地方当局通报，受台风“莎德尔”带来的强降雨影响，中国江西省遂川县一城镇于周六凌晨发生泥石流，已确认1人死亡、11人失联。县政府在通报中称，泥石流于当地时间凌晨4时左右（格林尼治时间周五20时）袭击遂川县高坪镇，造成12栋房屋受损。路透未进一步披露降雨量、已投入的救援力量、失联人员身份及其他受灾区域情况。该快讯由路透北京分社发出，属全球灾害滚动播报序列条目，无附加分析或背景引述。",
+      "body_zh": "路透社9月8日发自北京报道，中国8月出口增速加快，仍是经济关键驱动力——在全球需求对中国产汽车、半导体等高科技产品强劲、而内需与外部环境仍不确定的背景下托底增长。海关数据显示，8月按美元计出口同比增25%，符合预期，较7月23.9%加快；进口同比增28.2%，7月为27.5%、市场预期为30%升幅。出口热潮由全球对中国产汽车、半导体及其他高科技品的需求支撑，与国内消费、投资与房地产市场的疲弱形成鲜明对比，凸显北京对外部需求实现4.5%—5%年度增长目标的依赖。在4—6月增速放缓至4.3%后，上月公布的工业产出与零售数据均显示三季度初放缓，前七个月固定资产投资降幅扩大；被视为昔日增长引擎的房地产仍处多年下行。尽管AI热潮提振了先进制造者利润，依赖国内市场的行业仍受出厂品通胀与需求疲弱困扰。李强8月呼吁稳住外需、扩大国际贸易合作，同时承认内需不足、行业与企业处境艰难、国际环境不确定性上升。政府已加码财政支持，包括动用8000亿元（约1192亿美元）融资工具稳住基建投资。但出口强劲缓解了北京立即大规模提振居民收入、增强就业安全感与重振楼市的紧迫性。依靠外销吸纳工业产能也使中国面临贸易伙伴限制风险——美欧均要求北京降低顺差。8月贸易顺差达1190.9亿美元，较7月1125亿美元扩大。去年末两国元首会晤达成的贸易休战虽时有摩擦仍维持，双方正就彼此300亿美元商品互降关税进行探讨，为月底峰会做准备。（1美元=6.7108元人民币）",
       "cited_sources": [
-        "江西省遂川县人民政府通报",
-        "路透北京分社（快讯）"
+        "中国海关",
+        "路透调查（35位经济学家）",
+        "中国2026增长目标"
       ],
-      "sentiment": "negative",
+      "sentiment": "neutral",
       "is_negative": false,
-      "deep_analysis": "这条稿件标志着美国对华汽车遏制的一次性质跃迁：从关税（可逆、可谈判）升级为立法禁令（不可逆、难撤销）。三个判断点：第一，立法动因被包装为「联网汽车收集美国驾驶人敏感数据」，这是把经济竞争安全化的标准操作——一旦「数据安全」成为法理基础，后续可无差别扩展至车载软件、动力电池、自动驾驶算法乃至中国品牌的海外组装产能，形成可复制的模板（此前已用于通信设备、无人机、路由器）。第二，推动主体值得注意：不是政府而是产业联盟主动游说，说明美国传统车企已无力在成本与技术周期上正面竞争，转而寻求制度性保护；参议院商务委员会主席克鲁兹公开指出条款可能误伤持股近20%的奔驰，反而暴露了「15%中资持股即禁」这类条款的自我伤害属性，是我方可利用的分歧点。第三，时机精准卡在9月24日峰会前：先由产业界制造「中国车威胁」的国内政治压力，压缩白宫在关税减免、市场准入上的让步空间，同时为「开放美市场」准备对华要价。我方应对：一是区分「数据安全」与「市场准入」，主动提出可核验的车载数据本地化、第三方审计与算法透明度方案，剥离其安全化借口；二是借美方内部矛盾（欧系、日系车企不愿被连带）做分化工作；三是警惕该模板向欧洲、加拿大扩散——Polestar被迫退出在美销售已是预演，后续须重点盯防欧盟是否跟进立法。",
+      "deep_analysis": "8月出口约+25%、顺差近1191亿美元，与路透调查及彭博测算相互印证，显示外需在极端天气与内需偏弱下仍是增长主轴。对中方是正向韧性信号；但在西方话语中，巨额顺差被工具化为'全球失衡'证据，直接服务于贝森特推动的G20多边围堵与单边关税。短期内需留意：本月中美峰会前'300亿美元互降关税'的脆弱窗口、欧盟对中国电动车/绿色品的壁垒升级，以及顺差扩大是否触发更严的'去风险'协调。中方应对仍将是'扩大进口承诺+以创新与绿色转型解释增长'，淡化刻意追求顺差。",
       "provenance": {
-        "retrieved_via": "通道C(WebSearch)+streetinsider路透终端实时消息聚合页取得",
-        "evidence_url": "https://www.streetinsider.com/Reuters/Wall+St+gains+with+tech+shares%3B+regional+banks+fall/stock_lookup.php?q=S",
-        "evidence_note": "streetinsider 路透实时聚合页条目「One dead, 11 people missing after mudslide in China's Jiangxi province」，时间 Sep 5, 2026 12:05AM，含电头 BEIJING, Sept 5 (Reuters) 与全文；路透快讯无个人署名，标 not_available。The Star 东盟头条「Mudslide in east China's Jiangxi leaves 1 dead, 11 missing」同步佐证。"
+        "evidence_url": "https://www.thestandard.com.hk/finance/article/342133/Chinas-exports-expand-25-percent-in-August-align-with-forecast",
+        "evidence_note": "经 The Standard（香港）/路透转载复核全文；署名 Reporting by Yukun Zhang and Liz Lee，编辑 Shri Navaratnam。"
       },
-      "_day": "2026-09-05"
+      "_day": "2026-09-08",
+      "summary_en": "China's export growth picked up pace in August, remaining a key driver for an economy still grappling with tepid domestic demand and external uncertainties. Customs data showed August exports rose 25% y/y in USD terms, matching forecasts and accelerating from 23.9% in July; imports surged 28.2%, versus 27.5% in July and a 30% forecast. The export boom, supported by global demand for Chinese cars, semiconductors and other high-tech goods, contrasts with weaknesses in domestic consumption, investment and property. The trade surplus hit $119.09bn in August, up from $112.5bn."
     },
     {
       "id": "r7",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "Chinese national rescued from Nepal tunnel a day after 2 Nepalis pulled out alive",
-      "title_zh": "尼泊尔水电站隧道内一名中国公民获救生还，为灾后第三人",
-      "published_at": "2026-09-05T05:07:00Z",
-      "published_precision": "minute",
+      "title_en": "China's car exports roar in August while domestic sales extend declines",
+      "title_zh": "中国8月汽车出口高歌猛进，国内销量连续第11个月下滑",
+      "published_at": "2026-09-08",
+      "published_precision": "date",
       "authors": [
-        "Sahana Bajracharya",
-        "Navesh Chitrakar"
+        "Qiaoyi Li",
+        "Zhang Yan",
+        "Ju-min Park"
       ],
-      "author_locations": "KATHMANDU",
+      "author_locations": [
+        "北京",
+        "上海",
+        "北京"
+      ],
       "authors_status": "named",
       "topics": [
-        "中尼关系",
-        "灾害救援",
-        "海外公民",
-        "水电站项目",
-        "国际合作"
+        "汽车",
+        "出口",
+        "电动车",
+        "比亚迪",
+        "价格战",
+        "监管"
       ],
       "importance": "medium",
-      "summary_zh": "路透加德满都9月5日报道，尼泊尔军方称，一名中国公民周六从一条225米长的隧道内被活着救出，此前一天救援人员刚从同一条特里苏里河上的另一座水电站隧道救出两名尼泊尔人。该中国公民名为陆海涛（Lu Haitao），获救地点为上特里苏里1号水电站项目隧道；画面显示他在直升机内接受紧急救治，浑身泥浆、疲惫且意识模糊，随后被送往军方医院，官方称其无明显外伤、生命体征平稳但有轻度体温过低。8月26日上游冰川崩塌引发的冰岩泥流被认为将至少900人困在六座水电站项目的隧道内。尼泊尔灾难管理部门称，截至周六已寻获1344具遗体、逾4800人仍失联；中方通报西藏侧31人遇难、531人失联，其中261人为外籍人员。尼泊尔军方正与来自中国、印度、韩国的外国技术团队协同搜救。",
-      "china_angle": "外媒在此稿中呈现中国公民为受灾方、多国（含中国）技术团队协同救援的事实，属中性偏正面；但未展开中方此前向尼方提供卫星与水文数据、堰塞湖预警的协作面。",
-      "stance": "中性偏正面（生还奇迹+多国协作救援）",
-      "source_url": "https://www.thestar.com.my/news/world/2026/09/05/chinese-national-rescued-from-nepal-tunnel-a-day-after-2-nepalis-pulled-out-alive",
+      "summary_zh": "路透社9月8日发自北京报道，在中国车企以比亚迪为首向海外交付创纪录数量车辆的带动下，中国8月汽车出口保持高位（增速略有放缓），与国内市场的低迷形成鲜明对比——国内销量连续第11个月下滑。乘联会（CPCA）数据显示，8月乘用车出口同比增77.5%至89.4万辆，较7月88.2%的增幅放缓；国内销量同比下降23.7%至155万辆，较7月21.1%的降幅进一步扩大。电动与插电混动占国内总销量64.7%，同比萎缩10.1%，而该细分市场出口增速从7月147.8%加快至154.7%。比亚迪与吉利8月出口均创纪录；即便贸易限制趋严，中国车企仍在欧洲与新兴市场扩大存在。乘联会秘书长崔东树预计今年汽车出口将达1200万辆，到2030年进一步升至1800万—2000万辆。赛力斯因国内高端电动车竞争加剧、出海偏晚而处于劣势，上月总销量骤降44%。出口热潮引发监管担忧：国内惨烈的价格战可能外溢至海外市场，上周中国监管机构发布车企海外经营新规，警示频繁或大幅降价等不合规行为，比亚迪、奇瑞、吉利等均已承诺遵守。",
+      "china_angle": "出口高增对冲国内疲弱、是中方车企全球扩张的实力体现，但价格战外溢与监管新规反映'中国速度'正被内外双向校准，亦成欧美非关税壁垒的话术素材。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/chinas-car-exports-roar-in-august-while-domestic-sales-extend-declines-2026-09-08/",
       "body_available": true,
-      "body_zh": "加德满都9月5日（路透）——一名中国公民周六在尼泊尔被从隧道中活着救出，当局称，这是在一堵冰、岩石与泥浆之墙撕裂喜马拉雅山谷、造成逾1300人死亡、5600余人失联十天之后。尼泊尔军方称，该名仅被称作陆海涛的人员从上特里苏里1号水电站项目内一条225米长的隧道中被救出；前一天，救援人员刚从同一条河上的上特里苏里3A水电站另一条隧道中救出两人。救援人员称，8月26日河流上游冰川崩塌，可能将至少900人困在与六个水电项目相关的隧道中。尼泊尔军方分享的画面显示，陆海涛在直升机内接受紧急医疗处置，随后被送往军方医院；他显得疲惫、意识模糊，皮肤与衣物上沾满干结的泥浆与尘土。另有一名尼泊尔妇女当天在贝特拉瓦蒂的家中获救。（记者 Sahana Bajracharya、Navesh Chitrakar；编辑 Shri Navaratnam、William Mallard、Sharon Singleton）",
+      "body_zh": "路透社9月8日发自北京报道，在中国汽车制造商以比亚迪为首向海外交付创纪录数量车辆的带动下，中国8月汽车出口保持高位（增速略有放缓），与国内市场的低迷形成鲜明对比——国内销量连续第11个月下滑。乘联会（CPCA）数据显示，8月乘用车出口同比增77.5%至89.4万辆，较7月88.2%的增幅放缓；国内销量同比下降23.7%至155万辆，较7月21.1%的降幅进一步扩大。电动与插电混动占国内总销量64.7%，同比萎缩10.1%，而该细分市场出口增速从7月147.8%加快至154.7%。在国内这一全球最大汽车市场持续走弱之际，车企加大出海力度：比亚迪与吉利8月出口均创纪录。即便贸易限制趋严，中国车企仍在欧洲与新兴市场凭借高性价比、技术丰富的车型扩大存在。乘联会秘书长崔东树预计今年汽车出口将达1200万辆，到2030年进一步升至1800万—2000万辆。小米等后进者正与德国经销商签约，为明年欧洲上市做准备。与华为联合开发问界的赛力斯，则因国内高端电动车竞争加剧、出海偏晚而处于劣势，上月总销量骤降44%。出口热潮引发监管担忧：国内惨烈的价格战可能外溢至海外市场。上周中国监管机构发布车企海外经营新规，警示频繁或大幅降价等可能损害消费者、损害品牌声誉的不合规行为。比亚迪、奇瑞、吉利等均已承诺遵守新规。（署名 Qiaoyi Li、Zhang Yan、Ju-min Park；编辑 Clarence Fernandez、Stephen Coates）",
       "cited_sources": [
-        "尼泊尔军方（救援通报与现场画面）",
-        "尼泊尔灾难管理部门（1344具遗体、逾4800人失联）",
-        "中国驻尼泊尔大使馆",
-        "新华社（西藏侧31人遇难、531人失联，含261名外籍人员）",
-        "参与搜救的中国、印度、韩国技术团队"
+        "乘联会（CPCA）",
+        "比亚迪",
+        "吉利汽车",
+        "奇瑞",
+        "赛力斯（问界）",
+        "小米汽车",
+        "崔东树（乘联会秘书长）"
       ],
       "sentiment": "neutral",
       "is_negative": false,
-      "deep_analysis": "格里尔这组表态的真正动向，是美国对华贸易政策从「单边加税」转向「区域联防+成果包装」的第二阶段。第一，「逆差下降20%」是美方为峰会准备的成绩单叙事——它把关税效果量化为可宣传的政治资产，同时隐含「施压有效、应继续」的政策结论；我方需提前准备反叙事：逆差收窄同时伴随美国进口成本上升、下游通胀转嫁与第三国转口，净福利未必为正，且20%的降幅中相当部分来自统计口径与大宗价格变化。第二，「墨西哥渴望保护北美免受中国进口冲击」这句话风险最高：它意味着美方正借USMCA审议把对华围栏从美国国境扩展到整个北美，若墨西哥在汽车、电子、钢铁的原产地规则上接受更严的「去中国化」条款，中国经由墨西哥的合规转口与产能合作通道将被制度性关闭。这比关税更难反制，须作为独立议题紧急评估。第三，农业与非关税壁垒公告是典型的「峰会交付物」设计——把农产品采购做成可拍照的成果，掩盖结构性问题。中方「没有可以提供的信息」这一回应是恰当的，既避免为对方预设成果背书，也保留了峰会前的谈判空间。建议后续：对北美原产地规则尽早开展影响测算并对墨方做针对性沟通；对农产品采购坚持「市场化、可商业持续」原则，避免形成新的配额式承诺。",
+      "deep_analysis": "汽车'出口强、内销弱'的分化，是中方车企以规模与成本优势外拓、对冲国内内卷的缩影，也是中外产业竞争的实时切片。对中方而言，出海是必然也是承压之路——短期靠性价比与产品线广度扩张份额，中长期取决于本地建厂、品牌与合规。监管层主动出台海外经营新规、警示价格战外溢，是'为中国速度踩刹车、以质量与合规换长期口碑'的自我校准，正面意义应予肯定；但西方舆论易将'过快''降价'框架为安全/不公平竞争风险，为欧盟非关税壁垒提供话术。情报上应跟踪：欧盟对中国电动车反补贴税执行与扩围、美国潜在限制、以及新规对出口节奏的实际影响。",
       "provenance": {
-        "retrieved_via": "通道C(WebSearch)+The Star转载路透专电与The Print/中国日报香港版交叉印证",
-        "evidence_url": "https://theprint.in/world/chinese-national-rescued-from-nepal-tunnel-a-day-after-2-nepalis-pulled-out-alive/3034460/",
-        "evidence_note": "The Print 转载路透专电，含电头 KATHMANDU, Sept 5 (Reuters) 与完整署名 Reporting by Sahana Bajracharya and Navesh Chitrakar; Editing by Shri Navaratnam and William Mallard；The Star 版含225米隧道、上特里苏里1号项目等细节，中国日报香港版补充中国驻尼使馆确认与韩方专家协同。"
+        "evidence_url": "https://srnnews.com/chinas-car-exports-stay-strong-in-august-while-domestic-sales-decline-worsens",
+        "evidence_note": "经 SRN News（路透 syndication）/路透转载复核全文；署名 Reporting by Qiaoyi Li, Zhang Yan and Ju-min Park，编辑 Clarence Fernandez、Stephen Coates。"
       },
-      "_day": "2026-09-05"
+      "_day": "2026-09-08",
+      "summary_en": "China's car exports stayed in high gear in August as automakers led by BYD shipped a record number of vehicles overseas, in sharp contrast to a sluggish domestic market where sales fell for the 11th month in a row. CPCA data showed passenger vehicle exports jumped 77.5% y/y to 894,000 units, easing from 88.2% a month earlier; domestic sales fell 23.7% to 1.55 million, worsening from a 21.1% decline in July. EV and plug-in hybrid sales, 64.7% of domestic total, shrank 10.1% y/y while exports of those models accelerated to 154.7% growth."
     },
     {
       "id": "r8",
@@ -38695,7 +38804,7 @@ window.__XFS_DATA__ = {
     "last_day": "2026-09-08",
     "total_articles": 342,
     "by_media": {
-      "路透社": 330,
+      "路透社": 332,
       "彭博社": 203
     },
     "by_topic": {
@@ -38715,12 +38824,12 @@ window.__XFS_DATA__ = {
       "伊朗": 18,
       "资本市场": 17,
       "关税": 17,
+      "出口": 16,
       "科技": 16,
       "地缘": 15,
       "出海": 15,
       "消费": 15,
       "外交": 14,
-      "出口": 14,
       "房地产": 14,
       "财报": 13,
       "中国台湾": 13,
@@ -38742,15 +38851,16 @@ window.__XFS_DATA__ = {
       "国产替代": 9,
       "地缘政治": 9,
       "存储芯片": 8,
+      "贸易": 8,
       "能源安全": 7,
       "融资": 7,
-      "贸易": 7,
       "中美博弈": 7,
       "台风": 7,
       "中美贸易": 7,
       "中美": 7,
       "关键矿产": 7,
       "朝鲜半岛": 7,
+      "监管": 7,
       "次级制裁": 7,
       "企业动态": 6,
       "新能源汽车": 6,
@@ -38759,6 +38869,7 @@ window.__XFS_DATA__ = {
       "无人机": 6,
       "多晶硅": 6,
       "中日关系": 6,
+      "汽车": 6,
       "中美科技战": 6,
       "华为": 6,
       "金融": 6,
@@ -38771,12 +38882,11 @@ window.__XFS_DATA__ = {
       "制造业": 6,
       "Shein": 6,
       "贸易摩擦": 6,
+      "比亚迪": 6,
       "中韩关系": 6,
-      "监管": 6,
       "产业政策": 5,
       "军事安全": 5,
       "太阳能": 5,
-      "汽车": 5,
       "网络安全": 5,
       "中国香港": 5,
       "央行": 5,
@@ -38790,7 +38900,6 @@ window.__XFS_DATA__ = {
       "市场": 5,
       "宇树": 5,
       "腾讯": 5,
-      "比亚迪": 5,
       "港交所": 5,
       "情报": 5,
       "电商": 5,
@@ -38823,6 +38932,7 @@ window.__XFS_DATA__ = {
       "投资": 4,
       "恒大": 4,
       "金融风险": 4,
+      "电动车": 4,
       "银行业": 4,
       "中尼关系": 4,
       "灾害救援": 4,
@@ -38835,6 +38945,7 @@ window.__XFS_DATA__ = {
       "对外投资": 3,
       "金融市场": 3,
       "防灾减灾": 3,
+      "GDP": 3,
       "光模块": 3,
       "DRAM": 3,
       "全球市场": 3,
@@ -38873,12 +38984,12 @@ window.__XFS_DATA__ = {
       "美妆": 3,
       "电动汽车": 3,
       "全球南方": 3,
-      "电动车": 3,
       "华南": 3,
       "6G": 3,
       "西藏": 3,
       "全球利率": 3,
       "中报业绩": 3,
+      "价格战": 3,
       "大模型": 3,
       "财政政策": 3,
       "全球失衡": 3,
@@ -38893,7 +39004,6 @@ window.__XFS_DATA__ = {
       "离岸人民币": 2,
       "制造业PMI": 2,
       "AI产业链": 2,
-      "GDP": 2,
       "红海航运": 2,
       "市场监管": 2,
       "服务业PMI": 2,
@@ -38920,6 +39030,7 @@ window.__XFS_DATA__ = {
       "财政": 2,
       "浙江": 2,
       "消费电子": 2,
+      "顺差": 2,
       "伊朗战争": 2,
       "新兴市场": 2,
       "估值": 2,
@@ -39016,7 +39127,6 @@ window.__XFS_DATA__ = {
       "经济下行": 2,
       "净息差": 2,
       "资产质量": 2,
-      "价格战": 2,
       "堰塞湖": 2,
       "分红": 2,
       "台湾": 2,
@@ -39036,6 +39146,7 @@ window.__XFS_DATA__ = {
       "金融开放": 2,
       "算力基础设施": 2,
       "中澳关系": 2,
+      "经济数据": 2,
       "涉疆议题": 1,
       "解释性报道": 1,
       "农产品贸易": 1,
@@ -39145,7 +39256,6 @@ window.__XFS_DATA__ = {
       "台积电": 1,
       "战略矿产": 1,
       "中国稀土集团": 1,
-      "顺差": 1,
       "长鑫科技": 1,
       "摩尔线程": 1,
       "数字经济": 1,
@@ -39581,7 +39691,6 @@ window.__XFS_DATA__ = {
       "粮食安全": 1,
       "乡村振兴": 1,
       "国防科技": 1,
-      "经济数据": 1,
       "江波龙": 1,
       "安全": 1,
       "技术信任": 1,
@@ -39789,7 +39898,7 @@ window.__XFS_DATA__ = {
       {
         "date": "2026-09-08",
         "negative": 4,
-        "neutral": 7,
+        "neutral": 9,
         "positive": 0
       }
     ],
@@ -39935,6 +40044,10 @@ window.__XFS_DATA__ = {
         4
       ],
       [
+        "比亚迪",
+        4
+      ],
+      [
         "中信证券",
         4
       ],
@@ -39992,10 +40105,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "欧盟委员会",
-        3
-      ],
-      [
-        "比亚迪",
         3
       ],
       [
@@ -40387,6 +40496,10 @@ window.__XFS_DATA__ = {
         2
       ],
       [
+        "奇瑞",
+        2
+      ],
+      [
         "PDD Holdings",
         2
       ],
@@ -40428,6 +40541,18 @@ window.__XFS_DATA__ = {
       ],
       [
         "中国出口信用保险公司",
+        2
+      ],
+      [
+        "路透调查（35位经济学家）",
+        2
+      ],
+      [
+        "中国海关",
+        2
+      ],
+      [
+        "中国2026增长目标",
         2
       ],
       [
@@ -42503,10 +42628,6 @@ window.__XFS_DATA__ = {
         1
       ],
       [
-        "奇瑞",
-        1
-      ],
-      [
         "摩根大通",
         1
       ],
@@ -44463,18 +44584,6 @@ window.__XFS_DATA__ = {
         1
       ],
       [
-        "路透调查（35位经济学家）",
-        1
-      ],
-      [
-        "中国海关",
-        1
-      ],
-      [
-        "中国2026增长目标",
-        1
-      ],
-      [
         "比亚迪（销量指引/公告）",
         1
       ],
@@ -44532,6 +44641,26 @@ window.__XFS_DATA__ = {
       ],
       [
         "阿里/腾讯/字节（中国大模型厂商）",
+        1
+      ],
+      [
+        "乘联会（CPCA）",
+        1
+      ],
+      [
+        "吉利汽车",
+        1
+      ],
+      [
+        "赛力斯（问界）",
+        1
+      ],
+      [
+        "小米汽车",
+        1
+      ],
+      [
+        "崔东树（乘联会秘书长）",
         1
       ]
     ],
@@ -46574,6 +46703,14 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-09",
           "2026-08-24"
+        ]
+      },
+      {
+        "topic": "顺差",
+        "count": 2,
+        "days": [
+          "2026-08-09",
+          "2026-09-08"
         ]
       },
       {
@@ -48927,7 +49064,7 @@ window.__XFS_DATA__ = {
       "运行天数": 34,
       "累计报道": 342,
       "覆盖议题": 887,
-      "覆盖信源": 691,
+      "覆盖信源": 689,
       "负面累计": 183,
       "谋题累计": 30
     },
