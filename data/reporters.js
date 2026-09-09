@@ -540,5 +540,21 @@ window.__XFS_REPORTERS__ = [
     ],
     handles: { x: "—", linkedin: "—", email: "—" },
     sources: ["https://theedgemarkets.com/author/Ju-min%20Park", "https://m.dailyadvent.com/news/75605ed7260512en_zw"]
+  },
+  {
+    id: "tina-qiao", name: "Tina Qiao", name_zh: "乔蒂娜（罗马化推测，未权威确认）",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "中国宏观经济/数据线记者（头衔未确认）", title_en: "Reporter (China macro/economics)",
+    beat: "报道中国宏观经济与统计数据，包括 CPI/PPI、贸易进出口等国民经济指标，常参与路透社中国经济数据稿的联署。",
+    base: "北京/上海（未确认）", base_en: "Beijing/Shanghai, China",
+    background: "路透社记者，参与中国宏观经济与统计数据报道。2026年9月9日与 Qiaoyi Li、Liz Lee 联署中国8月通胀数据稿（Rising energy costs lift China's producer, consumer inflation in August）。公开履历与毕业院校未检索到，本档不编造。",
+    education: "未公开检索到",
+    career: "未公开检索到",
+    focus: ["宏观经济", "CPI/PPI", "贸易数据", "中国经济"],
+    recent: [
+      { t: "Rising energy costs lift China's producer, consumer inflation in August", d: "2026-09-09", n: "与 Qiaoyi Li、Liz Lee 联署" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.reuters.com/world/china/"]
   }
 ];

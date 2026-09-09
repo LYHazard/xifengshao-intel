@@ -1,7 +1,236 @@
 {
-  "generated_at": "2026-09-08T16:34:32+08:00",
+  "generated_at": "2026-09-09T18:12:07+08:00",
   "latest_questions_day": "2026-09-08",
   "days": {
+    "2026-09-09": {
+      "file": "2026-09-09.json",
+      "scan_time": "2026-09-09T18:10:55+08:00",
+      "window": "2026-09-08T00:00:00+08:00 ~ 2026-09-09T23:59:59+08:00",
+      "coverage": {
+        "reuters": {
+          "captured": 2,
+          "with_author": 2,
+          "with_fulltext": 2,
+          "note": "通道A官网直连 reuters.com/world/china/ 被JS墙拦截（fetch failed）→ 通道B代理对官方域名返回401/403不可用 → 通道C WebSearch多组关键词 + 国际转载（MarketScreener全文、Yahoo Finance全文）补全标题/署名/正文。2篇均取得真实记者署名与正文。完整性自报：A未走通，已全程走C兜底。"
+        },
+        "bloomberg": {
+          "captured": 2,
+          "with_author": 0,
+          "with_fulltext": 2,
+          "note": "通道A官网直连 bloomberg.com 被拦截（fetch failed）→ 镜像 envoy.cirrus.bloomberg.com 本次超时（exit 28）不可用 → 通道C WebSearch多组关键词 + 转载（CNBC TV18、BNN Bloomberg、The Edge Singapore）补全标题/数据与正文。2篇均未取得具体记者署名（彭博/AP机构稿），authors_status=not_available，绝未编造机构名。完整性自报：A未走通，已全程走C兜底。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "r1",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Rising energy costs lift China's producer, consumer inflation in August",
+          "title_zh": "能源成本抬升推动中国8月生产者与消费者通胀双升",
+          "published_at": "2026-09-09",
+          "published_precision": "date",
+          "authors": [
+            "Qiaoyi Li",
+            "Tina Qiao",
+            "Liz Lee"
+          ],
+          "author_locations": [],
+          "authors_status": "named",
+          "topics": [
+            "通胀",
+            "宏观经济",
+            "CPI",
+            "PPI",
+            "能源价格"
+          ],
+          "importance": "high",
+          "summary_zh": "中国国家统计局9月9日公布，8月工业生产者出厂价格指数（PPI）同比涨3.8%，较7月3.5%加速，且高于路透调查3.6%的预估中值；居民消费价格指数（CPI）同比涨0.8%，高于7月0.5%，符合市场预期。统计局城市司首席统计师董莉娟指出，国际原油与有色金属价格走高推升相关行业价格——有色金属冶炼加工同比涨20.8%，石油煤炭加工涨11.1%，油气开采涨10.5%；能源涨价对CPI同比拉动约0.28个百分点。不过，剔除食品和能源的核心CPI仅同比涨1.0%，反映内需仍偏弱；家电价格重回负区间，显示以旧换新等消费补贴效应消退。Capital Economics的Nguyen Hoang Nam与ING的Lynn Song认为，中东冲突令通胀“更高更久”，但明年CPI与PPI仍将回落；中信国际首席经济学家Ding Meng指出，可持续通胀回升仍取决于内需复苏。",
+          "china_angle": "能源与大宗涨价输入性推升PPI，但核心通胀偏低凸显内需不足的结构性矛盾；通缩阴影未散。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/rising-energy-costs-lift-china-s-producer-consumer-inflation-august-2026-09-09/",
+          "body_available": true,
+          "body_zh": "中国8月PPI同比涨3.8%（7月3.5%，预期3.6%），CPI同比涨0.8%（7月0.5%，符合预期）。统计局董莉娟称国际原油与有色金属涨价推升相关行业：有色冶炼加工+20.8%、石油煤炭加工+11.1%、油气开采+10.5%；能源对CPI同比拉动约0.28个点。核心CPI同比仅+1.0%。Capital Economics的Nguyen Hoang Nam称中东冲突令通胀更高更久，但基准情形仍预计明年CPI均值仅0.4%、PPI重回通缩；中信国际Ding Meng称核心通胀仍处低位，通胀压力年内料受控；ING的Lynn Song称消费者价格似将企稳于低正区间。",
+          "cited_sources": [
+            "National Bureau of Statistics (China)",
+            "Dong Lijuan (NBS statistician)",
+            "Nguyen Hoang Nam (Capital Economics)",
+            "Ding Meng (China CITIC Bank International)",
+            "Lynn Song (ING Greater China)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://uk.marketscreener.com/news/rising-energy-costs-lift-china-s-producer-consumer-inflation-in-august-ce785bd9d881fe24",
+            "evidence_note": "路透官网直连被JS墙拦截，经国际转载 MarketScreener 取全文+真实署名（Qiaoyi Li, Tina Qiao, Liz Lee）"
+          }
+        },
+        {
+          "id": "b1",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China Consumer, Producer Price Pressures Revived by Energy Spike",
+          "title_zh": "能源飙涨重燃中国消费者与生产者价格压力",
+          "published_at": "2026-09-09",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "通胀",
+            "宏观经济",
+            "CPI",
+            "PPI",
+            "能源"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社9月9日报道，中国8月消费者通胀自4月以来首次加速，工厂出厂价格涨幅超预期，因食品与能源涨价重新点燃成本压力。国家统计局数据显示，CPI同比涨0.8%，符预期且高于7月0.5%；PPI同比回升至3.8%（7月3.5%），高于3.6%的预估中值。报道指出，在走出罕见通缩仅数月后，中国面临在经济放缓与政府支出减弱背景下维持价格增长的挑战；疲弱的内需令工厂难以将原油、芯片、金属等全球涨价传导至消费者。中东（美伊）紧张推高能源价格，部分芯片因短缺一年来涨价高达700%，铜等有色价格亦因特朗普拟扩大金属关税预期而攀升。",
+          "china_angle": "输入性通胀（能源/芯片/金属）再起，通缩阴影未散、内需承接力偏弱。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-09/china-consumer-producer-price-pressures-revived-by-energy-spike",
+          "body_available": true,
+          "body_zh": "彭博报道：中国8月CPI同比+0.8%（4月以来首次加速，7月+0.5%，符合预期），PPI同比回升至+3.8%（7月+3.5%，高于3.6%预估中值）。在摆脱罕见通缩数月后，中国面临经济放缓与财政支出减弱下维持价格增长的挑战；疲弱内需令工厂难将原油、芯片、金属全球涨价传导给消费者。美伊紧张推高能源价格，部分芯片因短缺一年来涨价高达700%，铜等有色因特朗普拟扩金属关税预期而攀升。",
+          "cited_sources": [
+            "National Bureau of Statistics (China)",
+            "Bloomberg survey of economists"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://www.cnbctv18.com/economy/china-inflation-rises-for-first-time-since-april-higher-food-and-fuel-prices-put-pressure-on-pockets-19987092.htm",
+            "evidence_note": "彭博官网直连失败，经 CNBC TV18 转载（as reported by Bloomberg）取核心内容与数据；未获得具体记者署名，标 not_available"
+          }
+        },
+        {
+          "id": "r2",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's exports expand faster in August, underpin economic growth",
+          "title_zh": "中国8月出口增速加快，继续支撑经济增长",
+          "published_at": "2026-09-08",
+          "published_precision": "date",
+          "authors": [
+            "Yukun Zhang",
+            "Liz Lee"
+          ],
+          "author_locations": [],
+          "authors_status": "named",
+          "topics": [
+            "贸易",
+            "出口",
+            "宏观经济",
+            "中美贸易",
+            "AI产业链"
+          ],
+          "importance": "high",
+          "summary_zh": "中国海关总署9月8日公布，8月以美元计出口同比增25.0%，符合预期且较7月23.9%加快；进口同比增28.2%，低于30%的预估但高于7月27.5%。8月贸易顺差达1190.9亿美元，较7月1125亿扩大。前8个月进出口总值34.78万亿元人民币，同比增17.6%；其中出口20.17万亿增14.6%、进口14.61万亿增22%。出口增长由全球对汽车、半导体等高科技产品（尤其是AI相关需求）拉动，与内需、投资、地产的疲弱形成鲜明对比。中国对美出口增34.4%（低基数效应），对东盟增30.2%；中美正就彼此300亿美元非战略商品探讨互降关税，并为9月下旬领导人会晤做准备。路透指出，出口吸纳工业产能也令中国面临贸易伙伴的遏制风险——美欧均要求北京降低贸易顺差。",
+          "china_angle": "出口高增与内需疲弱并存，巨额顺差成美欧施压靶点；中美关税休战（11月到期）前景待察。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/chinas-exports-expand-faster-august-underpin-economic-growth-2026-09-08/",
+          "body_available": true,
+          "body_zh": "海关总署：8月美元计出口同比+25.0%（预期25.9%，7月23.9%），进口+28.2%（预期30%，7月27.5%）；贸易顺差1190.9亿美元（7月1125亿）。前8个月进出口34.78万亿元人民币，同比+17.6%；出口20.17万亿+14.6%，进口14.61万亿+22%。出口由汽车、半导体等高技术品（AI需求）拉动，对比内需、投资、地产疲弱。对美出口+34.4%（低基数），对东盟+30.2%。中美探索互降300亿美元非战略商品关税，并为月底领导人会晤铺垫。分析指出口缓冲了美国加征关税冲击，但巨额顺差引发美欧遏制。",
+          "cited_sources": [
+            "General Administration of Customs (China)",
+            "U.S. Treasury Secretary Scott Bessent",
+            "Lynn Song (ING Greater China)",
+            "Ministry of Commerce (China)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://finance.yahoo.com/economy/articles/chinas-exports-25-y-y-024544006.html",
+            "evidence_note": "路透官网直连被JS墙拦截，经雅虎财经转载取全文+真实署名（Yukun Zhang, Liz Lee）"
+          }
+        },
+        {
+          "id": "b2",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China's exports pick up in August, jumping 25% as its trade surplus widens",
+          "title_zh": "中国8月出口提速，同比跳增25%、贸易顺差进一步扩大",
+          "published_at": "2026-09-08",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "贸易",
+            "出口",
+            "宏观经济",
+            "中美贸易",
+            "AI产业链"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社（经BNN Bloomberg、The Edge Singapore转载）报道，中国8月出口同比跳增25%，贸易顺差进一步扩大。海关数据显示，8月出口同比增25%（预期近26%），进口增28.2%；月度贸易顺差由7月1125亿扩大至1190.9亿美元。半导体出口同比激增129.8%、汽车增43%、计算机增76.5%，凸显AI基础设施全球建设对中国高端制造出口的拉动。美国财长贝森特称中国1.2万亿美元贸易顺差“全球无法承受”，并在G20推动协调对华贸易立场，中国为唯一反对国。中美脆弱的关税休战将于11月到期，双方领导人计划9月下旬在华盛顿会晤。分析指，中国对东南亚、拉美、非洲出口增长，缓冲了美国加征关税的冲击。",
+          "china_angle": "AI与高端制造出口支撑贸易顺差创高，但引发美欧“失衡”叙事与多边围堵压力。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-08/china-exports-pick-up-august-jumping-25-trade-surplus-widens",
+          "body_available": true,
+          "body_zh": "彭博（BNN Bloomberg/The Edge 转载）：中国8月出口同比+25%（预期近26%，7月+23.9%），进口+28.2%；贸易顺差由7月1125亿扩至1190.9亿美元。半导体出口+129.8%、汽车+43%、计算机+76.5%，反映AI基建全球建设拉动。对美出口+34.4%，中美贸易逆差同比扩大。美财长贝森特称中国1.2万亿美元顺差“全球无法承受”，G20推动协调对华贸易立场，中国为唯一反对国。中美关税休战11月到期，领导人拟9月下旬华盛顿会晤；中国对东南亚、拉美、非洲出口增长缓冲了美国关税冲击。",
+          "cited_sources": [
+            "General Administration of Customs (China)",
+            "U.S. Treasury Secretary Scott Bessent",
+            "Lynn Song (ING Greater China)",
+            "Ministry of Commerce (China)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://beta.bnnbloomberg.ca/business/international/2026/09/08/chinas-exports-pick-up-in-august-jumping-25-as-its-trade-surplus-widens",
+            "evidence_note": "彭博官网直连失败，经 BNN Bloomberg / The Edge Singapore 转载取全文；未获得具体记者署名（AP/Bloomberg News），标 not_available"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 4,
+        "by_media": {
+          "路透社": 2,
+          "彭博社": 2
+        },
+        "sentiment_split": {
+          "negative": 0,
+          "neutral": 4,
+          "positive": 0
+        },
+        "negatives": [],
+        "top_topics": [
+          [
+            "宏观经济",
+            4
+          ],
+          [
+            "通胀",
+            2
+          ],
+          [
+            "CPI",
+            2
+          ],
+          [
+            "PPI",
+            2
+          ],
+          [
+            "贸易",
+            2
+          ],
+          [
+            "出口",
+            2
+          ]
+        ],
+        "key_takeaway": "中国8月出口增速加快，继续支撑经济增长"
+      },
+      "questions": []
+    },
     "2026-09-08": {
       "file": "2026-09-08.json",
       "scan_time": "2026-09-08T15:52:47+08:00",
@@ -26130,87 +26359,96 @@
       "id": "r1",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "Belgium detains Chinese man on suspicion of semiconductor espionage",
-      "title_zh": "比利时拘留一名涉嫌向中方转移半导体技术的中比双重国籍男子",
-      "published_at": "2026-09-07",
+      "title_en": "Rising energy costs lift China's producer, consumer inflation in August",
+      "title_zh": "能源成本抬升推动中国8月生产者与消费者通胀双升",
+      "published_at": "2026-09-09",
       "published_precision": "date",
       "authors": [
-        "Inti Landauro"
+        "Qiaoyi Li",
+        "Tina Qiao",
+        "Liz Lee"
       ],
       "author_locations": [
         "布鲁塞尔"
       ],
       "authors_status": "named",
       "topics": [
-        "半导体",
-        "科技安全",
-        "间谍",
-        "中欧关系"
+        "通胀",
+        "宏观经济",
+        "CPI",
+        "PPI",
+        "能源价格"
       ],
       "importance": "high",
-      "summary_zh": "比利时联邦检察院证实，一名52岁、持比利时与中双重国籍的男子自5月起被羁押，涉嫌将氮化镓（GaN）半导体知识产权与商业机密非法转移至一家中方背景企业。该男子曾任比利时芯片厂 Belgan（2024年7月破产）研发管理职务，被捕时正于布鲁塞尔机场准备飞往北京；检方称其入职数月后即在中国开设同类芯片公司，背后有中方投资基金支持，不排除另有第二名中国籍嫌疑人在逃。案件被视为欧洲对华技术安全审查升温的最新注脚，凸显氮化镓在电动车、卫星、雷达与军机中的双用途价值。",
-      "china_angle": "西方以'技术安全'为名收紧对华半导体人员与资本流动，将正常商业/科研往来叙事化为'间谍转移'，对华技术围堵从出口管制延伸至司法与人员层面。",
+      "summary_zh": "中国国家统计局9月9日公布，8月工业生产者出厂价格指数（PPI）同比涨3.8%，较7月3.5%加速，且高于路透调查3.6%的预估中值；居民消费价格指数（CPI）同比涨0.8%，高于7月0.5%，符合市场预期。统计局城市司首席统计师董莉娟指出，国际原油与有色金属价格走高推升相关行业价格——有色金属冶炼加工同比涨20.8%，石油煤炭加工涨11.1%，油气开采涨10.5%；能源涨价对CPI同比拉动约0.28个百分点。不过，剔除食品和能源的核心CPI仅同比涨1.0%，反映内需仍偏弱；家电价格重回负区间，显示以旧换新等消费补贴效应消退。Capital Economics的Nguyen Hoang Nam与ING的Lynn Song认为，中东冲突令通胀“更高更久”，但明年CPI与PPI仍将回落；中信国际首席经济学家Ding Meng指出，可持续通胀回升仍取决于内需复苏。",
+      "china_angle": "能源与大宗涨价输入性推升PPI，但核心通胀偏低凸显内需不足的结构性矛盾；通缩阴影未散。",
       "stance": "neutral",
-      "source_url": "https://www.reuters.com/world/china/belgium-detains-chinese-man-suspicion-semiconductor-espionage-2026-09-07/",
+      "source_url": "https://www.reuters.com/world/china/rising-energy-costs-lift-china-s-producer-consumer-inflation-august-2026-09-09/",
       "body_available": true,
-      "body_zh": "比利时联邦检察院9月7日声明，一名52岁、持比利时与中国双重国籍的男子自5月10日起被羁押，涉嫌在半导体技术案件中从事间谍活动。该男子曾任比利时微芯片制造商 Belgan（主营氮化镓芯片，2024年7月破产）研发部门管理职务，入职数月后即在中国开设一家生产同类芯片的公司，检方怀疑其利用职务便利将专利与商业机密非法转移。被捕时他正于布鲁塞尔机场准备登机飞往北京。检方不排除第二名中国籍嫌疑人涉案（媒体指为 Belgan 前CEO Alan Zhen Zhou）。氮化镓芯片因用于电动车、卫星、雷达与军用硬件而具双用途价值，此案是比利时数月内第二起涉华间谍案，亦折射欧洲多国对'复制至中国'技术获取模式的警惕，料将强化对华战略行业投资审查。",
+      "body_zh": "中国8月PPI同比涨3.8%（7月3.5%，预期3.6%），CPI同比涨0.8%（7月0.5%，符合预期）。统计局董莉娟称国际原油与有色金属涨价推升相关行业：有色冶炼加工+20.8%、石油煤炭加工+11.1%、油气开采+10.5%；能源对CPI同比拉动约0.28个点。核心CPI同比仅+1.0%。Capital Economics的Nguyen Hoang Nam称中东冲突令通胀更高更久，但基准情形仍预计明年CPI均值仅0.4%、PPI重回通缩；中信国际Ding Meng称核心通胀仍处低位，通胀压力年内料受控；ING的Lynn Song称消费者价格似将企稳于低正区间。",
       "cited_sources": [
-        "比利时联邦检察院",
-        "Belgan（破产芯片厂）",
-        "IMEC（产业背景）",
-        "分析人士（欧洲审查趋势）"
+        "National Bureau of Statistics (China)",
+        "Dong Lijuan (NBS statistician)",
+        "Nguyen Hoang Nam (Capital Economics)",
+        "Ding Meng (China CITIC Bank International)",
+        "Lynn Song (ING Greater China)"
       ],
-      "sentiment": "negative",
-      "is_negative": true,
+      "sentiment": "neutral",
+      "is_negative": false,
       "deep_analysis": "该案的情报意义不在单个嫌犯，而在'司法化技术安全'趋势：美方推动的出口管制已外溢至欧盟的刑事调查与人员追诉，将正常的人才流动与中企海外并购预设为'转移通道'。氮化镓属第三代半导体、军民两用，欧洲以此为由收紧对华技术投资审查，实质是把供应链'去风险'升级为'去人员/去资本'。中方回应强调反对将正常经贸科技合作政治化、污名化；后续须关注比利时及欧盟是否将此案上升为对华投资审查的判例，以及是否引发针对在欧华裔科研人员的连带防范。",
       "provenance": {
-        "evidence_url": "https://www.zaobao.com/news/china/story20260907-9639371",
-        "evidence_note": "经联合早报/路透转载复核：比利时检方声明、Belgan 背景、双国籍与在逃嫌疑人；署名记者 Inti Landauro，编辑 Bart Meijer、Andrew Cawthorne。"
+        "source": "Reuters",
+        "evidence_url": "https://uk.marketscreener.com/news/rising-energy-costs-lift-china-s-producer-consumer-inflation-in-august-ce785bd9d881fe24",
+        "evidence_note": "路透官网直连被JS墙拦截，经国际转载 MarketScreener 取全文+真实署名（Qiaoyi Li, Tina Qiao, Liz Lee）"
       },
-      "_day": "2026-09-08",
+      "_day": "2026-09-09",
       "summary_en": "Belgian federal prosecutors detained a 52-year-old dual Belgian-Chinese national since May on suspicion of funneling gallium nitride semiconductor IP and trade secrets to a Chinese firm. Arrested at Brussels airport en route to Beijing; a second Chinese national remains at large. Highlights rising EU-China tech-security tensions."
     },
     {
       "id": "r2",
       "media": "Reuters",
       "media_zh": "路透社",
-      "title_en": "Beijing expands funding tools to support food security, rural modernization",
-      "title_zh": "中国六部门扩大融资渠道 支持粮食安全和农村现代化",
-      "published_at": "2026-09-07",
+      "title_en": "China's exports expand faster in August, underpin economic growth",
+      "title_zh": "中国8月出口增速加快，继续支撑经济增长",
+      "published_at": "2026-09-08",
       "published_precision": "date",
       "authors": [
-        "Liz Lee",
-        "Beijing newsroom"
+        "Yukun Zhang",
+        "Liz Lee"
       ],
       "author_locations": [
         "北京"
       ],
       "authors_status": "named",
       "topics": [
-        "农村经济",
-        "粮食安全",
-        "财政政策",
-        "乡村振兴"
+        "贸易",
+        "出口",
+        "宏观经济",
+        "中美贸易",
+        "AI产业链"
       ],
-      "importance": "medium",
-      "summary_zh": "中国农业农村部、中央农办、国家发改委、财政部、央行、金融监管总局六部门9月7日印发《坚持农业农村优先发展 完善乡村振兴投入机制实施方案》，目标到2030年建立财政、信贷、保险、债券、民间资本协同的多元投入格局。方案要求农业与农村在预算分配中优先、加大对粮食主产区利益补偿，允许地方用专项/一般债投向农村基建与产业，鼓励银行向产粮大县与种业县放贷，扩面稻谷小麦玉米大豆完全成本与种植收入保险，并支持乡村振兴基金、农业企业发债上市及基础设施REITs。",
-      "china_angle": "粮食安全被上升为战略性财务架构问题，以多元融资对冲外部不确定性与内需偏弱，体现'以我为主'的供给保障思路。",
+      "importance": "high",
+      "summary_zh": "中国海关总署9月8日公布，8月以美元计出口同比增25.0%，符合预期且较7月23.9%加快；进口同比增28.2%，低于30%的预估但高于7月27.5%。8月贸易顺差达1190.9亿美元，较7月1125亿扩大。前8个月进出口总值34.78万亿元人民币，同比增17.6%；其中出口20.17万亿增14.6%、进口14.61万亿增22%。出口增长由全球对汽车、半导体等高科技产品（尤其是AI相关需求）拉动，与内需、投资、地产的疲弱形成鲜明对比。中国对美出口增34.4%（低基数效应），对东盟增30.2%；中美正就彼此300亿美元非战略商品探讨互降关税，并为9月下旬领导人会晤做准备。路透指出，出口吸纳工业产能也令中国面临贸易伙伴的遏制风险——美欧均要求北京降低贸易顺差。",
+      "china_angle": "出口高增与内需疲弱并存，巨额顺差成美欧施压靶点；中美关税休战（11月到期）前景待察。",
       "stance": "neutral",
-      "source_url": "https://www.reuters.com/world/china/beijing-expands-funding-tools-to-support-food-security-rural-modernization-2026-09-07/",
+      "source_url": "https://www.reuters.com/world/china/chinas-exports-expand-faster-august-underpin-economic-growth-2026-09-08/",
       "body_available": true,
-      "body_zh": "中国农业农村部等六部门9月7日公布《坚持农业农村优先发展 完善乡村振兴投入机制实施方案》，提出到2030年基本建立与农业农村发展水平相适应、结构合理、质效并重的乡村振兴投入机制。方案要求政府资金优先保障农业农村，加大对粮食主产区利益补偿、实施产销区省际横向补偿；发挥债券资金支农作用，允许地方将专项/一般债用于农村基础设施、产业与公共服务；提升信贷效能，鼓励银行向产粮大县、种业大县创新信贷产品并加大首贷、信用贷供给；用好保险工具，扩面稻谷、小麦、玉米、大豆的完全成本与种植收入保险；激发民间投资，鼓励乡村振兴基金与市场渠道参与，支持符合条件农业企业发债、上市及基础设施REITs；盘活农村资源资产，支持集体与企业在光伏、风电等新能源项目合作。方案同时强调加强涉农投资监管。",
+      "body_zh": "海关总署：8月美元计出口同比+25.0%（预期25.9%，7月23.9%），进口+28.2%（预期30%，7月27.5%）；贸易顺差1190.9亿美元（7月1125亿）。前8个月进出口34.78万亿元人民币，同比+17.6%；出口20.17万亿+14.6%，进口14.61万亿+22%。出口由汽车、半导体等高技术品（AI需求）拉动，对比内需、投资、地产疲弱。对美出口+34.4%（低基数），对东盟+30.2%。中美探索互降300亿美元非战略商品关税，并为月底领导人会晤铺垫。分析指出口缓冲了美国加征关税冲击，但巨额顺差引发美欧遏制。",
       "cited_sources": [
-        "中国农业农村部等六部门",
-        "《完善乡村振兴投入机制实施方案》"
+        "General Administration of Customs (China)",
+        "U.S. Treasury Secretary Scott Bessent",
+        "Lynn Song (ING Greater China)",
+        "Ministry of Commerce (China)"
       ],
       "sentiment": "neutral",
       "is_negative": false,
       "deep_analysis": "该方案是把'粮食安全'从农业政策升级为金融架构的信号：在外部贸易摩擦与内需偏弱的双重背景下，北京试图用公共预算+信贷+保险+资本市场+民资的组合，降低对海外农产品供应链的依赖、稳定主粮与种业产能。对美欧农业出口商（尤其大豆、谷物）而言，中国 domestic 产能与自给率提升将缓慢改变其进口结构；但中国消费体量决定了全球供应商仍长期关注其供需缺口。短期看，这是逆周期稳增长、补'三农'短板的财政举措，并非针对外部的对抗性动作。",
       "provenance": {
-        "evidence_url": "https://www.asiaone.com/china/beijing-expands-funding-tools-support-food-security-rural-modernisation",
-        "evidence_note": "经 AsiaOne/路透转载复核全文；署名 Reporting by Liz Lee and Beijing newsroom，编辑 Tom Hogue、Stephen Coates。"
+        "source": "Reuters",
+        "evidence_url": "https://finance.yahoo.com/economy/articles/chinas-exports-25-y-y-024544006.html",
+        "evidence_note": "路透官网直连被JS墙拦截，经雅虎财经转载取全文+真实署名（Yukun Zhang, Liz Lee）"
       },
-      "_day": "2026-09-08",
+      "_day": "2026-09-09",
       "summary_en": "China's agriculture ministry and five other bodies unveiled a plan to bolster rural financing through 2030, combining fiscal support, credit, insurance, bonds and private capital to strengthen food security and modernize rural areas."
     },
     {
@@ -26314,10 +26552,10 @@
       "id": "b1",
       "media": "Bloomberg",
       "media_zh": "彭博社",
-      "title_en": "BYD Eyes 2.5 Million Overseas Sales as Price War Rages at Home",
-      "title_zh": "比亚迪瞄准2027年海外销量超250万辆，国内价格战下加速出海",
-      "published_at": "2026-09-08T05:33:19Z",
-      "published_precision": "datetime",
+      "title_en": "China Consumer, Producer Price Pressures Revived by Energy Spike",
+      "title_zh": "能源飙涨重燃中国消费者与生产者价格压力",
+      "published_at": "2026-09-09",
+      "published_precision": "date",
       "authors": [
         "Dong Cao",
         "Julia Fioretti",
@@ -26327,70 +26565,76 @@
       "author_locations": "BEIJING",
       "authors_status": "not_available",
       "topics": [
-        "电动车",
-        "比亚迪",
-        "出海",
-        "价格战"
+        "通胀",
+        "宏观经济",
+        "CPI",
+        "PPI",
+        "能源"
       ],
-      "importance": "medium",
-      "summary_zh": "比亚迪设定雄心目标：2027年海外销量突破250万辆，加速向中国市场以外扩张；与此同时国内激烈价格战正侵蚀利润。公司同时将2026年海外销售指引从此前150万辆上调至190万—200万辆。报道称，出海是比亚迪对冲国内内卷、寻找新增长极的核心策略，但海外也面临关税、本地化与品牌壁垒。",
-      "china_angle": "中国电动车龙头以规模与成本优势出海，正遭遇欧美关税与本地化壁垒，是中外产业竞争的缩影。",
+      "importance": "high",
+      "summary_zh": "彭博社9月9日报道，中国8月消费者通胀自4月以来首次加速，工厂出厂价格涨幅超预期，因食品与能源涨价重新点燃成本压力。国家统计局数据显示，CPI同比涨0.8%，符预期且高于7月0.5%；PPI同比回升至3.8%（7月3.5%），高于3.6%的预估中值。报道指出，在走出罕见通缩仅数月后，中国面临在经济放缓与政府支出减弱背景下维持价格增长的挑战；疲弱的内需令工厂难以将原油、芯片、金属等全球涨价传导至消费者。中东（美伊）紧张推高能源价格，部分芯片因短缺一年来涨价高达700%，铜等有色价格亦因特朗普拟扩大金属关税预期而攀升。",
+      "china_angle": "输入性通胀（能源/芯片/金属）再起，通缩阴影未散、内需承接力偏弱。",
       "stance": "neutral",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-09-08/byd-eyes-2-5-million-overseas-sales-as-price-war-rages-at-home",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-09/china-consumer-producer-price-pressures-revived-by-energy-spike",
       "body_available": true,
-      "body_zh": "比亚迪设定雄心目标：2027年海外销量突破250万辆，加速向中国市场以外扩张；国内激烈价格战正侵蚀其利润。公司同时将2026年海外销售指引从此前约150万辆上调至190万—200万辆。报道指，出海是比亚迪对冲国内'内卷'、寻找新增长极的核心策略；但在海外，比亚迪面临关税（如欧盟反补贴税、部分市场壁垒）、本地化生产与品牌认知等挑战。比亚迪凭借电池与整车垂直整合的成本优势，在东南亚、拉美、欧洲部分市场快速放量，海外营收占比持续提升。",
+      "body_zh": "彭博报道：中国8月CPI同比+0.8%（4月以来首次加速，7月+0.5%，符合预期），PPI同比回升至+3.8%（7月+3.5%，高于3.6%预估中值）。在摆脱罕见通缩数月后，中国面临经济放缓与财政支出减弱下维持价格增长的挑战；疲弱内需令工厂难将原油、芯片、金属全球涨价传导给消费者。美伊紧张推高能源价格，部分芯片因短缺一年来涨价高达700%，铜等有色因特朗普拟扩金属关税预期而攀升。",
       "cited_sources": [
-        "比亚迪（销量指引/公告）"
+        "National Bureau of Statistics (China)",
+        "Bloomberg survey of economists"
       ],
       "sentiment": "neutral",
       "is_negative": false,
       "deep_analysis": "比亚迪'出海提速'是中外电动车产业竞争的缩影：国内价格战压缩利润，倒逼龙头以规模与成本优势外拓；而欧美正以关税、反补贴与本地化要求筑墙。对中方而言，出海是必然也是承压之路——短期靠性价比与产品线广度扩张份额，中长期取决于本地建厂、品牌与合规能力。情报上应跟踪欧盟反补贴税执行、美国对中国电动车及零部件的潜在限制，以及比亚迪在东南亚/墨西哥的转口与本地化布局。",
       "provenance": {
-        "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-08/byd-eyes-2-5-million-overseas-sales-as-price-war-rages-at-home",
-        "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；该稿 byline 为 Bloomberg News（机构发稿），经二次补全无真人署名，标 not_available。"
+        "source": "Bloomberg",
+        "evidence_url": "https://www.cnbctv18.com/economy/china-inflation-rises-for-first-time-since-april-higher-food-and-fuel-prices-put-pressure-on-pockets-19987092.htm",
+        "evidence_note": "彭博官网直连失败，经 CNBC TV18 转载（as reported by Bloomberg）取核心内容与数据；未获得具体记者署名，标 not_available"
       },
-      "_day": "2026-09-08",
+      "_day": "2026-09-09",
       "summary_en": "BYD has set an ambitious target to sell more than 2.5 million vehicles overseas in 2027, accelerating its push beyond China where a fierce price war has eroded profitability. It also raised its 2026 overseas sales guidance to 1.9-2.0 million from 1.5 million."
     },
     {
       "id": "b2",
       "media": "Bloomberg",
       "media_zh": "彭博社",
-      "title_en": "China Export Growth Rebounds as Trade Surplus Nears $806 Billion",
-      "title_zh": "中国8月出口增速反弹，年内贸易顺差逼近8060亿美元",
-      "published_at": "2026-09-08T02:38:27Z",
-      "published_precision": "datetime",
+      "title_en": "China's exports pick up in August, jumping 25% as its trade surplus widens",
+      "title_zh": "中国8月出口提速，同比跳增25%、贸易顺差进一步扩大",
+      "published_at": "2026-09-08",
+      "published_precision": "date",
       "authors": [
         "Julia Fioretti"
       ],
       "author_locations": "",
       "authors_status": "not_available",
       "topics": [
+        "贸易",
         "出口",
-        "贸易顺差",
-        "经济"
+        "宏观经济",
+        "中美贸易",
+        "AI产业链"
       ],
       "importance": "high",
-      "summary_zh": "彭博社报道，中国8月出口增速加快，年内贸易顺差逼近8060亿美元，恰逢美国加大压力、要求北京在月底前峰会对接前解决失衡。8月出口同比增约25%（略低于预估），进口增28.2%逊于30%预期；前8个月顺差已超8055亿美元。报道指，出口韧性强化了'以我为主'的增长路径，但也使中方更易成为美方关税与多边围堵的靶心。",
-      "china_angle": "巨额顺差是实力也是靶子：美方借'失衡'施压，多边贸易壁垒风险上升。",
+      "summary_zh": "彭博社（经BNN Bloomberg、The Edge Singapore转载）报道，中国8月出口同比跳增25%，贸易顺差进一步扩大。海关数据显示，8月出口同比增25%（预期近26%），进口增28.2%；月度贸易顺差由7月1125亿扩大至1190.9亿美元。半导体出口同比激增129.8%、汽车增43%、计算机增76.5%，凸显AI基础设施全球建设对中国高端制造出口的拉动。美国财长贝森特称中国1.2万亿美元贸易顺差“全球无法承受”，并在G20推动协调对华贸易立场，中国为唯一反对国。中美脆弱的关税休战将于11月到期，双方领导人计划9月下旬在华盛顿会晤。分析指，中国对东南亚、拉美、非洲出口增长，缓冲了美国加征关税的冲击。",
+      "china_angle": "AI与高端制造出口支撑贸易顺差创高，但引发美欧“失衡”叙事与多边围堵压力。",
       "stance": "neutral",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-08/china-exports-pick-up-august-jumping-25-trade-surplus-widens",
       "body_available": true,
-      "body_zh": "彭博社9月8日报道，中国8月出口增速加快，年内贸易顺差逼近8060亿美元，恰逢美国加大压力、要求北京在本月晚些时候的峰会对接前解决贸易失衡。数据显示，8月出口同比增约25%（略低于预估），进口增28.2%、逊于30%的市场预期；今年前8个月，出口增19.3%、进口增27%，贸易顺差已超过8055亿美元。报道指出，全球AI基建热潮带动芯片等高科技品需求，是出口韧性的关键支撑；但出口强势也延缓了当局托底地产与内需的紧迫性，并使中国更易成为美方关税与欧盟贸易壁垒的靶心。贝森特等美方官员持续以'不可持续的顺差'为由，推动G20重议对华贸易条款。",
+      "body_zh": "彭博（BNN Bloomberg/The Edge 转载）：中国8月出口同比+25%（预期近26%，7月+23.9%），进口+28.2%；贸易顺差由7月1125亿扩至1190.9亿美元。半导体出口+129.8%、汽车+43%、计算机+76.5%，反映AI基建全球建设拉动。对美出口+34.4%，中美贸易逆差同比扩大。美财长贝森特称中国1.2万亿美元顺差“全球无法承受”，G20推动协调对华贸易立场，中国为唯一反对国。中美关税休战11月到期，领导人拟9月下旬华盛顿会晤；中国对东南亚、拉美、非洲出口增长缓冲了美国关税冲击。",
       "cited_sources": [
-        "中国海关数据",
-        "彭博测算",
-        "美国财政部（贝森特）",
-        "G20"
+        "General Administration of Customs (China)",
+        "U.S. Treasury Secretary Scott Bessent",
+        "Lynn Song (ING Greater China)",
+        "Ministry of Commerce (China)"
       ],
       "sentiment": "neutral",
       "is_negative": false,
       "deep_analysis": "8月出口约+25%、前8月顺差超8055亿美元，与路透调查相互印证，显示外需在极端天气与内需偏弱下仍是增长主轴。对中方是正向韧性信号；但在西方话语中，巨额顺差被工具化为'全球失衡'证据，直接服务于贝森特推动的G20多边围堵与单边关税。短期内需留意：本月中美峰会前'300亿美元互降关税'的脆弱窗口、欧盟对中国电动车/绿色品的壁垒升级，以及顺差扩大是否触发更严的'去风险'协调。中方的应对仍将是'扩大进口承诺+以创新与绿色转型解释增长'，淡化刻意追求顺差。",
       "provenance": {
-        "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
-        "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；byline 为 Bloomberg News（机构发稿），二次补全无真人署名，标 not_available。"
+        "source": "Bloomberg",
+        "evidence_url": "https://beta.bnnbloomberg.ca/business/international/2026/09/08/chinas-exports-pick-up-in-august-jumping-25-as-its-trade-surplus-widens",
+        "evidence_note": "彭博官网直连失败，经 BNN Bloomberg / The Edge Singapore 转载取全文；未获得具体记者署名（AP/Bloomberg News），标 not_available"
       },
-      "_day": "2026-09-08",
+      "_day": "2026-09-09",
       "summary_en": "China's export growth accelerated in August, swelling its trade surplus near $806 billion for the year just as the US ramps up pressure on Beijing to address imbalances before a summit later this month. Exports jumped ~25% y/y; Jan-Aug surplus exceeded $805.5bn."
     },
     {
@@ -38799,32 +39043,32 @@
     }
   ],
   "archive": {
-    "days_count": 34,
+    "days_count": 35,
     "first_day": "2026-08-04",
-    "last_day": "2026-09-08",
+    "last_day": "2026-09-09",
     "total_articles": 342,
     "by_media": {
-      "路透社": 332,
-      "彭博社": 203
+      "路透社": 334,
+      "彭博社": 205
     },
     "by_topic": {
       "半导体": 41,
       "出口管制": 40,
+      "宏观经济": 34,
       "人工智能": 33,
       "中美关系": 32,
       "AI": 31,
-      "宏观经济": 30,
       "港股": 24,
       "中美科技竞争": 22,
       "中美科技": 20,
       "供应链": 20,
       "中美经贸": 19,
       "IPO": 19,
+      "出口": 18,
       "人形机器人": 18,
       "伊朗": 18,
       "资本市场": 17,
       "关税": 17,
-      "出口": 16,
       "科技": 16,
       "地缘": 15,
       "出海": 15,
@@ -38839,24 +39083,25 @@
       "内需": 12,
       "科技竞争": 11,
       "自然灾害": 11,
+      "能源": 11,
       "货币政策": 11,
       "中国经济": 11,
-      "能源": 10,
       "台海": 10,
       "军事": 10,
+      "贸易": 10,
       "稀土": 10,
       "中概股": 10,
       "机器人": 9,
       "开源模型": 9,
       "国产替代": 9,
       "地缘政治": 9,
+      "中美贸易": 9,
       "存储芯片": 8,
-      "贸易": 8,
+      "通胀": 8,
       "能源安全": 7,
       "融资": 7,
       "中美博弈": 7,
       "台风": 7,
-      "中美贸易": 7,
       "中美": 7,
       "关键矿产": 7,
       "朝鲜半岛": 7,
@@ -38873,7 +39118,8 @@
       "中美科技战": 6,
       "华为": 6,
       "金融": 6,
-      "通胀": 6,
+      "PPI": 6,
+      "CPI": 6,
       "应急管理": 6,
       "苹果": 6,
       "阿里巴巴": 6,
@@ -38908,6 +39154,7 @@
       "汇率": 5,
       "香港": 5,
       "经贸摩擦": 4,
+      "AI产业链": 4,
       "中东局势": 4,
       "人民币国际化": 4,
       "中美经贸摩擦": 4,
@@ -38918,8 +39165,6 @@
       "股市": 4,
       "宏观": 4,
       "药明康德": 4,
-      "PPI": 4,
-      "CPI": 4,
       "上海": 4,
       "油价": 4,
       "跨境快时尚": 4,
@@ -39003,7 +39248,6 @@
       "基建": 2,
       "离岸人民币": 2,
       "制造业PMI": 2,
-      "AI产业链": 2,
       "红海航运": 2,
       "市场监管": 2,
       "服务业PMI": 2,
@@ -39694,7 +39938,8 @@
       "江波龙": 1,
       "安全": 1,
       "技术信任": 1,
-      "舆论": 1
+      "舆论": 1,
+      "能源价格": 1
     },
     "sentiment_trend": [
       {
@@ -39899,6 +40144,12 @@
         "date": "2026-09-08",
         "negative": 4,
         "neutral": 9,
+        "positive": 0
+      },
+      {
+        "date": "2026-09-09",
+        "negative": 0,
+        "neutral": 4,
         "positive": 0
       }
     ],
@@ -40177,6 +40428,10 @@
       ],
       [
         "G20",
+        3
+      ],
+      [
+        "Lynn Song (ING Greater China)",
         3
       ],
       [
@@ -40553,6 +40808,22 @@
       ],
       [
         "中国2026增长目标",
+        2
+      ],
+      [
+        "National Bureau of Statistics (China)",
+        2
+      ],
+      [
+        "General Administration of Customs (China)",
+        2
+      ],
+      [
+        "U.S. Treasury Secretary Scott Bessent",
+        2
+      ],
+      [
+        "Ministry of Commerce (China)",
         2
       ],
       [
@@ -44662,6 +44933,22 @@
       [
         "崔东树（乘联会秘书长）",
         1
+      ],
+      [
+        "Dong Lijuan (NBS statistician)",
+        1
+      ],
+      [
+        "Nguyen Hoang Nam (Capital Economics)",
+        1
+      ],
+      [
+        "Ding Meng (China CITIC Bank International)",
+        1
+      ],
+      [
+        "Bloomberg survey of economists",
+        1
       ]
     ],
     "recurring_topics": [
@@ -44770,7 +45057,7 @@
       },
       {
         "topic": "宏观经济",
-        "count": 14,
+        "count": 15,
         "days": [
           "2026-08-04",
           "2026-08-06",
@@ -44785,7 +45072,8 @@
           "2026-09-01",
           "2026-09-02",
           "2026-09-03",
-          "2026-09-04"
+          "2026-09-04",
+          "2026-09-09"
         ]
       },
       {
@@ -44957,6 +45245,23 @@
         ]
       },
       {
+        "topic": "能源",
+        "count": 11,
+        "days": [
+          "2026-08-04",
+          "2026-08-07",
+          "2026-08-09",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-16",
+          "2026-08-23",
+          "2026-09-03",
+          "2026-09-08",
+          "2026-09-09"
+        ]
+      },
+      {
         "topic": "资本市场",
         "count": 11,
         "days": [
@@ -44991,19 +45296,19 @@
         ]
       },
       {
-        "topic": "能源",
+        "topic": "出口",
         "count": 10,
         "days": [
           "2026-08-04",
-          "2026-08-07",
+          "2026-08-06",
+          "2026-08-08",
           "2026-08-09",
-          "2026-08-12",
+          "2026-08-11",
           "2026-08-13",
           "2026-08-14",
-          "2026-08-16",
-          "2026-08-23",
-          "2026-09-03",
-          "2026-09-08"
+          "2026-08-28",
+          "2026-09-08",
+          "2026-09-09"
         ]
       },
       {
@@ -45082,21 +45387,6 @@
           "2026-08-23",
           "2026-08-24",
           "2026-08-27"
-        ]
-      },
-      {
-        "topic": "出口",
-        "count": 9,
-        "days": [
-          "2026-08-04",
-          "2026-08-06",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-11",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-28",
-          "2026-09-08"
         ]
       },
       {
@@ -45215,6 +45505,20 @@
         ]
       },
       {
+        "topic": "贸易",
+        "count": 8,
+        "days": [
+          "2026-08-07",
+          "2026-08-09",
+          "2026-08-18",
+          "2026-08-20",
+          "2026-08-21",
+          "2026-08-22",
+          "2026-09-08",
+          "2026-09-09"
+        ]
+      },
+      {
         "topic": "AI芯片",
         "count": 8,
         "days": [
@@ -45266,19 +45570,6 @@
           "2026-08-28",
           "2026-09-01",
           "2026-09-05",
-          "2026-09-08"
-        ]
-      },
-      {
-        "topic": "贸易",
-        "count": 7,
-        "days": [
-          "2026-08-07",
-          "2026-08-09",
-          "2026-08-18",
-          "2026-08-20",
-          "2026-08-21",
-          "2026-08-22",
           "2026-09-08"
         ]
       },
@@ -45393,6 +45684,18 @@
         ]
       },
       {
+        "topic": "中美贸易",
+        "count": 6,
+        "days": [
+          "2026-08-08",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-16",
+          "2026-08-30",
+          "2026-09-09"
+        ]
+      },
+      {
         "topic": "科技",
         "count": 6,
         "days": [
@@ -45494,17 +45797,6 @@
         ]
       },
       {
-        "topic": "中美贸易",
-        "count": 5,
-        "days": [
-          "2026-08-08",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-16",
-          "2026-08-30"
-        ]
-      },
-      {
         "topic": "宏观政策",
         "count": 5,
         "days": [
@@ -45513,6 +45805,17 @@
           "2026-08-21",
           "2026-08-22",
           "2026-08-25"
+        ]
+      },
+      {
+        "topic": "通胀",
+        "count": 5,
+        "days": [
+          "2026-08-09",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-27",
+          "2026-09-09"
         ]
       },
       {
@@ -45761,13 +46064,23 @@
         ]
       },
       {
-        "topic": "通胀",
+        "topic": "PPI",
         "count": 4,
         "days": [
           "2026-08-09",
           "2026-08-10",
           "2026-08-11",
-          "2026-08-27"
+          "2026-09-09"
+        ]
+      },
+      {
+        "topic": "CPI",
+        "count": 4,
+        "days": [
+          "2026-08-09",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-09-09"
         ]
       },
       {
@@ -45958,6 +46271,15 @@
         ]
       },
       {
+        "topic": "AI产业链",
+        "count": 3,
+        "days": [
+          "2026-08-04",
+          "2026-09-05",
+          "2026-09-09"
+        ]
+      },
+      {
         "topic": "光模块",
         "count": 3,
         "days": [
@@ -46099,24 +46421,6 @@
           "2026-08-08",
           "2026-08-22",
           "2026-08-24"
-        ]
-      },
-      {
-        "topic": "PPI",
-        "count": 3,
-        "days": [
-          "2026-08-09",
-          "2026-08-10",
-          "2026-08-11"
-        ]
-      },
-      {
-        "topic": "CPI",
-        "count": 3,
-        "days": [
-          "2026-08-09",
-          "2026-08-10",
-          "2026-08-11"
         ]
       },
       {
@@ -46511,14 +46815,6 @@
         "days": [
           "2026-08-04",
           "2026-08-28"
-        ]
-      },
-      {
-        "topic": "AI产业链",
-        "count": 2,
-        "days": [
-          "2026-08-04",
-          "2026-09-05"
         ]
       },
       {
@@ -49061,10 +49357,10 @@
       }
     ],
     "penetration": {
-      "运行天数": 34,
+      "运行天数": 35,
       "累计报道": 342,
-      "覆盖议题": 887,
-      "覆盖信源": 689,
+      "覆盖议题": 888,
+      "覆盖信源": 687,
       "负面累计": 183,
       "谋题累计": 30
     },
@@ -49163,8 +49459,8 @@
   },
   "stats": {
     "total": 342,
-    "days": 34,
-    "negatives": 111,
+    "days": 35,
+    "negatives": 110,
     "with_author": 217,
     "with_body": 33,
     "with_sources": 319
