@@ -1,5 +1,5 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-09-10T17:31:46+08:00",
+  "generated_at": "2026-09-10T18:12:56+08:00",
   "latest_questions_day": "2026-09-10",
   "days": {
     "2026-09-10": {

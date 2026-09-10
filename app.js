@@ -258,6 +258,20 @@
     $('main').innerHTML = html;
   }
 
+  /* 记者性别/国籍/华裔 元信息（显眼展示） */
+  function repMetaHtml(r) {
+    if (!r) return '';
+    var g = r.gender || '待定';
+    var nat = r.nationality || '待定';
+    var eth = r.ethnic_chinese || '待定';
+    var ethCls = eth === '是' ? 'eth-yes' : (eth === '否' ? 'eth-no' : 'eth-unknown');
+    return '<div class="rep-meta">' +
+      '<span class="m-item"><span class="m-k">性别</span>' + esc(g) + '</span>' +
+      '<span class="m-item"><span class="m-k">国籍</span>' + esc(nat) + '</span>' +
+      '<span class="m-item ' + ethCls + '"><span class="m-k">华裔</span>' + esc(eth) + '</span>' +
+    '</div>';
+  }
+
   /* ===================== 记者专题 ===================== */
   function renderReporters() {
     if (state.reporterId) { renderReporterDetail(state.reporterId); return; }
@@ -282,6 +296,7 @@
             (cnt ? '<span class="r-cnt">本站 ' + cnt + ' 篇</span>' : '<span class="r-cnt">本站 0 篇</span>') +
           '</div>' +
           '<h3 class="rep-name">' + esc(r.name) + (r.name_zh && r.name_zh !== '—' ? ' <span class="rep-zh">（' + esc(r.name_zh) + '）</span>' : '') + '</h3>' +
+          repMetaHtml(r) +
           '<div class="rep-title">' + esc(r.title) + '</div>' +
           '<div class="rep-beat">' + esc(r.beat) + '</div>' +
           (tags ? '<div class="tags">' + tags + '</div>' : '') +
@@ -344,6 +359,7 @@
             '<span class="rep-role">' + esc(roleLabel(r)) + '</span>' +
             (r.org_unit ? '<span class="rep-orgunit">' + esc(r.org_unit) + '</span>' : '') +
           '</div>' +
+          repMetaHtml(r) +
           '<div class="rep-d-title">' + esc(r.title) + (r.title_en ? '　/　' + esc(r.title_en) : '') + '</div>' +
           '<div class="rep-d-base">驻地：' + esc(r.base || '—') + (r.base_en ? '（' + esc(r.base_en) + '）' : '') + '</div>' +
         '</div>' +

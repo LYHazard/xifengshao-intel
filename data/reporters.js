@@ -1,11 +1,17 @@
 /* 西风哨 · 记者/分析师专题档案
  * 由路透/彭博公开职业资料整理（仅公开职业信息）。
  * role: reporter=记者 / analyst=行业分析师 / economist=经济学家
+ * gender: 男 / 女 / 待定（待核实）
+ * nationality: 中国 / 中国台湾 / 中国香港 / 美国 / 印度 / 韩国 / 日本 / 印尼 / 新加坡 / 法国 / 英国 / 葡萄牙·韩国 / ... / 待定（带「(推测)」者为依据公开资料推断，未独立核实）
+ * ethnic_chinese: 是 / 否 / 待定（是否华裔）
  * 文章关联：用 name 与 DATA.days 中 articles.authors 匹配。
  */
 window.__XFS_REPORTERS__ = [
   {
     id: "luz-ding", name: "Luz Ding", name_zh: "丁璐（未公开确认）",
+    gender: "女",
+    nationality: "中国",
+    ethnic_chinese: "是",
     org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
     title: "科技记者", title_en: "Technology Reporter",
     beat: "覆盖中国科技与 AI——中国 AI 模型（阿里通义千问、DeepSeek、月之暗面 Kimi 等）、AI 芯片、AI 应用与机器人，以及中国互联网平台公司（阿里、腾讯、美团、拼多多、滴滴）；常报道中美 AI 竞赛。",
@@ -24,6 +30,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "spe-chen", name: "Spe Chen", name_zh: "—",
+    gender: "女",
+    nationality: "中国台湾",
+    ethnic_chinese: "是",
     org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
     title: "数据与图形记者", title_en: "Data and Graphics Journalist",
     beat: "数据可视化/图形新闻——制作图表、地图与数据驱动解说（国家公园微缩模型、中美 AI 竞赛评分榜、中国生物科技管线数据、香港霓虹灯 heritage 等）。参与彭博 MapLab 等产品。",
@@ -40,6 +49,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "hayley-warren", name: "Hayley Warren", name_zh: "—",
+    gender: "女",
+    nationality: "美国",
+    ethnic_chinese: "否",
     org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
     title: "图形记者", title_en: "Graphics Reporter",
     beat: "新闻图形与数据可视化——科学、太阳活动、地磁风暴等数据密集报道的可视化解说（含中美 AI 竞赛图形）。参与彭博 MapLab。",
@@ -56,6 +68,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "sohee-kim", name: "Sohee Kim", name_zh: "金昭希（Kim So-hee）",
+    gender: "女",
+    nationality: "韩国",
+    ethnic_chinese: "否",
     org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
     title: "亚洲科技与娱乐记者", title_en: "Asia Tech & Entertainment Reporter",
     beat: "亚洲科技与娱乐——AI 模型、芯片产业、韩国科技/消费电子，以及 K-pop、韩剧、动漫与音乐产业。强亚洲视角，尤重韩中科技。",
@@ -72,6 +87,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "julia-fioretti", name: "Julia Fioretti", name_zh: "—",
+    gender: "女",
+    nationality: "意大利(推测)",
+    ethnic_chinese: "否",
     org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
     title: "亚洲股票资本市场（ECM）交易记者", title_en: "Asia ECM Deals Reporter",
     beat: "亚洲股票资本市场、IPO 与配售——覆盖香港及区域上市、大宗交易、后续发行与中国/亚洲交易（如宁德时代、阿里、奇瑞、京东相关 REIT）。",
@@ -88,6 +106,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "dave-sebastian", name: "Dave Sebastian", name_zh: "—",
+    gender: "男",
+    nationality: "美国",
+    ethnic_chinese: "否",
     org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
     title: "亚洲财富记者（原亚洲股票市场记者）", title_en: "Asia Wealth Reporter",
     beat: "亚洲财富、股票市场与资本市场交易——覆盖香港/IPO、配售、上市与亚洲市场结构（宁德时代、阿里、奇瑞、Go Inc.、Inovance、Jollibee 等）。",
@@ -104,6 +125,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "michael-hirtzer", name: "Michael Hirtzer", name_zh: "—",
+    gender: "男",
+    nationality: "美国",
+    ethnic_chinese: "否",
     org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
     title: "农业/大宗商品记者", title_en: "Agriculture Reporter",
     beat: "覆盖美国农业、谷物与蛋白供应链、作物与投入成本，以及中美农产品贸易流向；报道常直接影响终端价格预期。",
@@ -120,6 +144,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "erin-ailworth", name: "Erin Ailworth", name_zh: "—",
+    gender: "女",
+    nationality: "美国",
+    ethnic_chinese: "否",
     org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
     title: "谷物/大宗商品市场记者", title_en: "Grain/Commodities Markets Reporter",
     beat: "自 2025 年 5 月起在彭博覆盖谷物市场；此前在《华尔街日报》十余年，擅长自然灾害、突发新闻与全国性事件现场报道。",
@@ -135,6 +162,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "eduardo-baptista", name: "Eduardo Baptista", name_zh: "—",
+    gender: "男",
+    nationality: "葡萄牙·韩国(双重)",
+    ethnic_chinese: "否",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "大中华区首席科技记者", title_en: "Chief Technology Correspondent, Greater China",
     beat: "报道人工智能、半导体与新兴技术，重点覆盖中国人形机器人、芯片与 AI 产业。",
@@ -159,6 +189,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "qiaoyi-li", name: "Qiaoyi Li", name_zh: "李乔依/李乔伊（罗马化推测，未权威确认）",
+    gender: "女",
+    nationality: "中国",
+    ethnic_chinese: "是",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "科技/机器人线记者（头衔未确认）", title_en: "Reporter (tech/robotics)",
     beat: "报道中国科技与人形机器人产业，包括机器人制造、AI 赋能生产与世界人形机器人运动会。",
@@ -180,6 +213,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "xihao-jiang", name: "Xihao Jiang", name_zh: "蒋希豪（罗马化推测，未权威确认）",
+    gender: "男",
+    nationality: "中国",
+    ethnic_chinese: "是",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "科技/机器人线记者（头衔未确认）", title_en: "Reporter (tech/robotics)",
     beat: "报道中国科技与人形机器人产业，包括世界人形机器人运动会与具身智能进展。",
@@ -194,6 +230,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "stanley-widianto", name: "Stanley Widianto", name_zh: "—",
+    gender: "男",
+    nationality: "印尼",
+    ethnic_chinese: "否",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "印尼/东南亚记者（政治记者）", title_en: "Reporter (Indonesia/SE Asia)",
     beat: "覆盖印尼政治、经济、社会与东南亚事务，包括学生抗议与选举、宏观经济（评级、贸易协议）、自然灾害及中国—印尼关系。",
@@ -210,6 +249,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "stefanno-sulaiman", name: "Stefanno Sulaiman", name_zh: "—",
+    gender: "男",
+    nationality: "印尼",
+    ethnic_chinese: "否",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "经济记者", title_en: "Economic Correspondent",
     beat: "覆盖印尼经济、资本市场、银行与企业新闻——印尼证交所（IDX）改革、印尼央行行长任命、宏观经济政策。",
@@ -226,6 +268,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "sudarshan-varadhan", name: "Sudarshan Varadhan", name_zh: "—",
+    gender: "男",
+    nationality: "印度",
+    ethnic_chinese: "否",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "亚洲能源记者", title_en: "Asia Energy Correspondent",
     beat: "报道亚洲能源格局演变——电力供应可靠性与气候应对之间的平衡，重点覆盖可再生能源、煤炭、电网与能源转型，及印度与南亚能源生态。",
@@ -242,6 +287,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "colleen-howe", name: "Colleen Howe", name_zh: "侯可琳（二手来源，存疑）",
+    gender: "女",
+    nationality: "美国",
+    ethnic_chinese: "否",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "中国能源记者", title_en: "China Energy Correspondent",
     beat: "覆盖中国能源与大宗商品（能源、电力、可再生能源、多晶硅/太阳能产业链及能源政策），关注市场敏感型能源议题。",
@@ -256,6 +304,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "kevin-krolicki", name: "Kevin Krolicki", name_zh: "—",
+    gender: "男",
+    nationality: "美国",
+    ethnic_chinese: "否",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "亚洲新闻编辑", title_en: "Asia News Editor / Regional Editor, Asia",
     beat: "统领路透亚洲新闻报道与编辑方向；亦以“writing by”身份就中国科技/产业政策战略议题撰写分析性稿件。资深编辑兼记者，覆盖商业、汽车、日本及亚太宏观。",
@@ -271,6 +322,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "simbarashe-gumbo", name: "Simbarashe Gumbo", name_zh: "—",
+    gender: "男",
+    nationality: "津巴布韦(推测)",
+    ethnic_chinese: "否",
     org: "Bloomberg", org_unit: "Bloomberg Intelligence", role: "analyst",
     title: "彭博行业研究分析师（奢侈品/消费）", title_en: "Bloomberg Intelligence Analyst (Luxury/Consumer)",
     beat: "聚焦欧洲奢侈品行业与中国市场需求，跟踪 LVMH、Kering、Hermès、Burberry、Richemont、Pandora、Moncler 等头部品牌的销售趋势、区域表现与中国消费复苏。",
@@ -285,6 +339,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "laurent-douillet", name: "Laurent Douillet", name_zh: "杜耶（非标准通用译名，未确认）",
+    gender: "男",
+    nationality: "法国",
+    ethnic_chinese: "否",
     org: "Bloomberg", org_unit: "Bloomberg Intelligence", role: "analyst",
     title: "资深股票策略师 / 全球股票策略团队负责人", title_en: "Senior Equity Strategist / Global Equity Strategy Team Leader",
     beat: "专攻欧洲股票市场与全球股票策略，覆盖欧洲科技、商业服务及泛消费/奢侈品股权领域；为 BI 股票策略与行业研究提供自上而下视角。",
@@ -300,6 +357,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "chang-shu", name: "Chang Shu", name_zh: "舒畅",
+    gender: "待定",
+    nationality: "中国",
+    ethnic_chinese: "是",
     org: "Bloomberg", org_unit: "Bloomberg Economics", role: "economist",
     title: "彭博亚太区首席经济学家", title_en: "Chief Asia Economist, Bloomberg Economics",
     beat: "领导团队研究中国、日本、澳大利亚等亚太主要经济体；重点覆盖中国经济、人民币国际化、中国经济的金融溢出效应及宏观政策。",
@@ -316,6 +376,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "david-qu", name: "David Qu", name_zh: "曲天石",
+    gender: "男",
+    nationality: "中国",
+    ethnic_chinese: "是",
     org: "Bloomberg", org_unit: "Bloomberg Economics", role: "economist",
     title: "彭博亚太区高级经济学家（覆盖中国）", title_en: "Senior Economist, Asia Pacific (China)",
     beat: "覆盖中国经济与金融市场，聚焦货币政策、利率、房地产与中美贸易/关税对中国增长的外溢影响。",
@@ -332,6 +395,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "inti-landauro", name: "Inti Landauro", name_zh: "—",
+    gender: "男(推测)",
+    nationality: "秘鲁(推测)",
+    ethnic_chinese: "否",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "布鲁塞尔分社记者", title_en: "Brussels Correspondent",
     beat: "覆盖比利时与欧盟事务，重点包括司法、犯罪、国安与谍报案件，以及比利时国内政治与重大刑事调查。",
@@ -351,6 +417,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "liz-lee", name: "Liz Lee", name_zh: "李丽兹（Liz Lee，未公开确认中文名）",
+    gender: "女",
+    nationality: "马来西亚",
+    ethnic_chinese: "是",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "大中华区突发新闻副主编", title_en: "Deputy Editor, Greater China Breaking News",
     beat: "驻北京，覆盖大中华区突发新闻，重点包括外交、经济数据与极端天气；此前在马来西亚报道公司新闻、IPO 与并购。",
@@ -373,6 +442,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "ben-blanchard", name: "Ben Blanchard", name_zh: "—",
+    gender: "男",
+    nationality: "新西兰(推测)",
+    ethnic_chinese: "否",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "路透台湾分社社长", title_en: "Taiwan Bureau Chief, Reuters",
     beat: "驻台北，覆盖台湾一切议题——从选举、半导体到安全、政治与外交；亦常涉美中博弈下的台海局势。",
@@ -395,6 +467,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "wen-yee-lee", name: "Wen-Yee Lee", name_zh: "李文仪（Wen-Yee Lee，音译）",
+    gender: "女",
+    nationality: "中国台湾",
+    ethnic_chinese: "是",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "台湾科技记者", title_en: "Taiwan Tech Correspondent",
     beat: "驻台北，覆盖台湾科技、半导体产业与美中科技/贸易脱钩议题，聚焦芯片供应链与台海科技政策。",
@@ -417,6 +492,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "yukun-zhang", name: "Yukun Zhang", name_zh: "张宇坤（Yukun Zhang，音译）",
+    gender: "男",
+    nationality: "中国",
+    ethnic_chinese: "是",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "北京分社宏观经济数据记者", title_en: "Beijing Correspondent, Economic Data",
     beat: "驻北京，覆盖中国经济宏观数据、官方调查与市场调查（poll），聚焦外贸、增长与物价指标。",
@@ -436,6 +514,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "ryan-woo", name: "Ryan Woo", name_zh: "—",
+    gender: "男",
+    nationality: "新加坡",
+    ethnic_chinese: "是",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "北京分社中国经济记者", title_en: "Beijing Correspondent, China Economy",
     beat: "驻北京，覆盖中国经济与宏观议题，重点包括增长、工业与贸易数据，以及政策动向。",
@@ -458,6 +539,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "sangmi-cha", name: "Sangmi Cha", name_zh: "车相美（Sangmi Cha，音译）",
+    gender: "女",
+    nationality: "韩国",
+    ethnic_chinese: "否",
     org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
     title: "亚洲股票记者", title_en: "Asia Equities Reporter",
     beat: "驻香港，覆盖大中华区与区域市场、货币政策与地缘政治对股市的影响、投资主题，以及 AI 芯片供应链等科技股。",
@@ -479,6 +563,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "catherine-thorbecke", name: "Catherine Thorbecke", name_zh: "凯瑟琳·索贝克",
+    gender: "女",
+    nationality: "美国",
+    ethnic_chinese: "否",
     org: "Bloomberg", org_unit: "Bloomberg Opinion", role: "reporter",
     title: "彭博观点亚洲科技专栏作家", title_en: "Bloomberg Opinion Columnist, Asia Tech",
     beat: "驻东京，撰写亚洲科技评论，聚焦人工智能、消费科技与科技对社会的影响。",
@@ -501,6 +588,9 @@ window.__XFS_REPORTERS__ = [
 ,
   {
     id: "yan-zhang", name: "Zhang Yan", name_zh: "张岩（Zhang Yan，罗马化 Yan Zhang）",
+    gender: "女",
+    nationality: "中国",
+    ethnic_chinese: "是",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "高级记者", title_en: "Senior Correspondent",
     beat: "汽车、电动车、电池、自动驾驶、科技与监管；常驻上海/北京，覆盖中国最大汽车市场及特斯拉、宁德时代等竞争格局。",
@@ -522,6 +612,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "ju-min-park", name: "Ju-min Park", name_zh: "朴俊民 / 朴周民（Park Ju-min，罗马化存异）",
+    gender: "女",
+    nationality: "韩国",
+    ethnic_chinese: "否",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "资深记者", title_en: "Senior Correspondent",
     beat: "汽车行业；此前报道朝鲜半岛与日本。亦参与中国涉台、涉美政治报道。",
@@ -543,6 +636,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "tina-qiao", name: "Tina Qiao", name_zh: "乔蒂娜（罗马化推测，未权威确认）",
+    gender: "女",
+    nationality: "中国",
+    ethnic_chinese: "是",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "中国宏观经济/数据线记者（头衔未确认）", title_en: "Reporter (China macro/economics)",
     beat: "报道中国宏观经济与统计数据，包括 CPI/PPI、贸易进出口等国民经济指标，常参与路透社中国经济数据稿的联署。",
@@ -559,6 +655,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "shivani-tanna", name: "Shivani Tanna", name_zh: "—",
+    gender: "女",
+    nationality: "印度",
+    ethnic_chinese: "否",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "企业/市场记者（印度班加罗尔）", title_en: "Correspondent, Bengaluru",
     beat: "报道印度及亚洲企业、资本市场与IPO新闻，涵盖科技与新兴产业的上市动态。",
@@ -575,6 +674,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "courtney-rozen", name: "Courtney Rozen", name_zh: "—",
+    gender: "女",
+    nationality: "美国",
+    ethnic_chinese: "否",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "美国政府与科技政策记者（华盛顿）", title_en: "Reporter, Washington",
     beat: "报道美国政府、科技政策与AI治理、网络安全议题，常涉中美科技博弈。",
@@ -591,6 +693,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "aj-vicens", name: "AJ Vicens", name_zh: "—",
+    gender: "男",
+    nationality: "美国",
+    ethnic_chinese: "否",
     org: "Reuters", org_unit: "Reuters", role: "reporter",
     title: "科技记者（底特律）", title_en: "Reporter, Detroit",
     beat: "报道科技、AI与网络安全议题，常涉前沿AI模型与产业政策。",
@@ -607,6 +712,9 @@ window.__XFS_REPORTERS__ = [
   },
   {
     id: "chan-ho-him", name: "Chan Ho-him", name_zh: "—",
+    gender: "男",
+    nationality: "中国香港",
+    ethnic_chinese: "是",
     org: "Associated Press", org_unit: "AP", role: "reporter",
     title: "商业记者（曼谷，经BNN Bloomberg供稿）", title_en: "Business Writer, Bangkok (AP)",
     beat: "报道亚洲商业与科技新闻，涵盖中美AI治理、科技企业动态；稿件常经 BNN Bloomberg 等转引。",
