@@ -556,5 +556,69 @@ window.__XFS_REPORTERS__ = [
     ],
     handles: { x: "—", linkedin: "—", email: "—" },
     sources: ["https://www.reuters.com/world/china/"]
+  },
+  {
+    id: "shivani-tanna", name: "Shivani Tanna", name_zh: "—",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "企业/市场记者（印度班加罗尔）", title_en: "Correspondent, Bengaluru",
+    beat: "报道印度及亚洲企业、资本市场与IPO新闻，涵盖科技与新兴产业的上市动态。",
+    base: "班加罗尔", base_en: "Bengaluru, India",
+    background: "路透社记者，署名行标注驻班加罗尔（Bengaluru）。2026年9月9日报道中国证监会据报收紧人形机器人企业IPO门槛（China curbs humanoid IPOs after Unitree's volatile debut），编辑 Sonia Cheema、Mrigank Dhaniwala。公开履历与毕业院校未检索到，本档不编造。",
+    education: "未公开检索到",
+    career: "路透社记者（班加罗尔）；常报道印度及亚洲企业/资本市场/IPO议题",
+    focus: ["IPO", "资本市场", "印度市场", "科技企业上市"],
+    recent: [
+      { t: "China curbs humanoid IPOs after Unitree's volatile debut", d: "2026-09-09", n: "路透驻班加罗尔记者" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://uk.marketscreener.com/news/china-curbs-humanoid-ipos-after-unitree-s-volatile-debut-the-information-reports-ce785bd9d880fe24"]
+  },
+  {
+    id: "courtney-rozen", name: "Courtney Rozen", name_zh: "—",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "美国政府与科技政策记者（华盛顿）", title_en: "Reporter, Washington",
+    beat: "报道美国政府、科技政策与AI治理、网络安全议题，常涉中美科技博弈。",
+    base: "华盛顿", base_en: "Washington, D.C., USA",
+    background: "路透社驻华盛顿记者。2026年9月9日与 AJ Vicens 联署报道美国FBI/NSA/CISA联合指控中国AI企业“工业规模”蒸馏美模型（US accuses Chinese AI firms of 'malicious' copying of AI technology），编辑 Rod Nickel、Bill Berkrot、Thomas Derpinghaus。公开履历与毕业院校未检索到，本档不编造。",
+    education: "未公开检索到",
+    career: "路透社驻华盛顿记者；报道美国政府与科技/AI政策议题",
+    focus: ["美国政府", "AI治理", "网络安全", "中美科技战"],
+    recent: [
+      { t: "US accuses Chinese AI firms of 'malicious' copying of AI technology", d: "2026-09-09", n: "与 AJ Vicens 联署" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.teiss.co.uk/news/us-accuses-chinese-ai-firms-of-malicious-copying-of-ai-technology-18107"]
+  },
+  {
+    id: "aj-vicens", name: "AJ Vicens", name_zh: "—",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "科技记者（底特律）", title_en: "Reporter, Detroit",
+    beat: "报道科技、AI与网络安全议题，常涉前沿AI模型与产业政策。",
+    base: "底特律", base_en: "Detroit, USA",
+    background: "路透社驻底特律记者。2026年9月9日与 Courtney Rozen 联署报道美国指控中国AI企业蒸馏美模型。公开履历与毕业院校未检索到，本档不编造。",
+    education: "未公开检索到",
+    career: "路透社驻底特律记者；报道科技与AI议题",
+    focus: ["科技", "AI", "网络安全", "中美科技战"],
+    recent: [
+      { t: "US accuses Chinese AI firms of 'malicious' copying of AI technology", d: "2026-09-09", n: "与 Courtney Rozen 联署" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.teiss.co.uk/news/us-accuses-chinese-ai-firms-of-malicious-copying-of-ai-technology-18107"]
+  },
+  {
+    id: "chan-ho-him", name: "Chan Ho-him", name_zh: "—",
+    org: "Associated Press", org_unit: "AP", role: "reporter",
+    title: "商业记者（曼谷，经BNN Bloomberg供稿）", title_en: "Business Writer, Bangkok (AP)",
+    beat: "报道亚洲商业与科技新闻，涵盖中美AI治理、科技企业动态；稿件常经 BNN Bloomberg 等转引。",
+    base: "曼谷", base_en: "Bangkok, Thailand",
+    background: "美联社（Associated Press）商业记者，驻曼谷。2026年9月9日发自曼谷报道中国回击美国“恶意蒸馏”指控（China hits back at U.S. claims of 'malicious' AI distillation），经 BNN Bloomberg 转引。公开履历与毕业院校未检索到，本档不编造。",
+    education: "未公开检索到",
+    career: "美联社商业记者（曼谷）；稿件经 BNN Bloomberg/彭博转引",
+    focus: ["商业", "AI", "中美关系", "亚洲科技"],
+    recent: [
+      { t: "China hits back at U.S. claims of 'malicious' AI distillation", d: "2026-09-09", n: "美联社供稿、BNN Bloomberg 转引" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.bnnbloomberg.ca/tariffs/2026/09/09/china-hits-back-at-us-claims-of-malicious-ai-distillation-ahead-of-planned-trump-xi-talks/"]
   }
 ];
