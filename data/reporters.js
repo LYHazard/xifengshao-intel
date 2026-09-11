@@ -728,5 +728,78 @@ window.__XFS_REPORTERS__ = [
     ],
     handles: { x: "—", linkedin: "—", email: "—" },
     sources: ["https://www.bnnbloomberg.ca/tariffs/2026/09/09/china-hits-back-at-us-claims-of-malicious-ai-distillation-ahead-of-planned-trump-xi-talks/"]
+  },
+  {
+    id: "shi-bu", name: "Shi Bu", name_zh: "—",
+    gender: "待定",
+    nationality: "中国(推测)",
+    ethnic_chinese: "是(推测)",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "中国商业/科技线记者（头衔未确认）", title_en: "Reporter (China business/tech)",
+    beat: "报道中国经济与科技，包括AI、半导体与宏观产业；常驻北京，与 Liz Lee、Kevin Yao 等合署中国线稿件。",
+    base: "北京", base_en: "Beijing, China",
+    background: "路透社记者，参与中国商业与科技报道。曾与 Liz Lee 合署（8/19）、与 Kevin Yao 合署（8/18）中国线稿件，归属路透中国团队。个人详细履历公开来源未确认。",
+    focus: ["中国经济", "科技", "AI", "半导体"],
+    recent: [
+      { t: "China's AI chipmakers raise prices as HBM shortage bites", d: "2026-09-10", n: "路透中国线（与团队）" },
+      { t: "China's DeepSeek launches V4.1-Flash model", d: "2026-09-10", n: "与 Eduardo Baptista 合署" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.reuters.com/world/asia-pacific/chinas-deepseek-launches-v41-flash-model-2026-09-10/"]
+  },
+  {
+    id: "shruti-agarwal", name: "Shruti Agarwal", name_zh: "—",
+    gender: "女(推测)",
+    nationality: "印度(推测)",
+    ethnic_chinese: "否",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "科技/商业线记者（头衔未确认）", title_en: "Reporter (tech/business)",
+    beat: "报道亚洲科技与AI产业，包括中国AI公司资本化（IPO）与科技巨头动态；据报驻印度班加罗尔。",
+    base: "班加罗尔(推测)", base_en: "Bengaluru, India",
+    background: "路透社记者，2026-09-10署名报道月之暗面（Moonshot/Kimi）探讨中国香港+上海科创板双重上市。个人详细履历公开来源未确认。",
+    focus: ["科技", "AI", "IPO", "资本市场"],
+    recent: [
+      { t: "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs", d: "2026-09-10", n: "路透署名（转引 SCMP）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.reuters.com/world/china/chinese-ai-firm-moonshot-explore-dual-hong-kong-shanghai-ipos-scmp-reports-2026-09-10/"]
+  },
+  {
+    id: "kevin-yao", name: "Kevin Yao", name_zh: "—",
+    gender: "男",
+    nationality: "待定",
+    ethnic_chinese: "待定",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "中国宏观经济记者", title_en: "China Economy Correspondent",
+    beat: "中国宏观经济——GDP、通胀（CPI/PPI）、贸易、工业产出等数据，以及地方产业经济政策（如「合肥模式」特写）。",
+    base: "北京", base_en: "Beijing",
+    background: "路透社驻中国宏观经济记者，长期报道中国宏观数据与产业经济。公开履历与毕业院校未检索到，本档不编造。",
+    education: "未公开检索到",
+    career: "路透社中国宏观经济记者（北京）",
+    focus: ["宏观经济", "通胀", "贸易", "地方产业"],
+    recent: [
+      { t: "Hefei's boom reveals limits of China's state-led manufacturing push", d: "2026-09-10", n: "合肥「举国制造业」模式限度特写" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.thestandard.com.hk/china/article/342402/Hefeis-boom-reveals-limits-of-Chinas-state-led-manufacturing-push"]
+  },
+  {
+    id: "casey-hall", name: "Casey Hall", name_zh: "—",
+    gender: "待定",
+    nationality: "待定",
+    ethnic_chinese: "待定",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "上海分社社长兼高级公司记者", title_en: "Shanghai Bureau Chief & Senior Companies Correspondent",
+    beat: "消费、跨国公司、供应链、在华外资企业。",
+    base: "上海", base_en: "Shanghai",
+    background: "路透社上海分社社长兼高级公司记者，覆盖消费、跨国公司与供应链。2026年9月10日发自上海报道上海美国商会《2026年中国商业报告》（在华美企信心反弹）。公开履历与毕业院校未检索到，本档不编造。",
+    education: "未公开检索到",
+    career: "路透社上海分社社长兼高级公司记者",
+    focus: ["消费", "跨国公司", "供应链", "在华外资"],
+    recent: [
+      { t: "US firms in China more upbeat on outlook as profits recover, survey shows", d: "2026-09-10", n: "上海美国商会年度调查，在华美企信心反弹" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://srnnews.com/us-firms-in-china-more-upbeat-on-outlook-as-profits-recover-survey-shows", "https://muckrack.com/shanghaicasey"]
   }
 ];

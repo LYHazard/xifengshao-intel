@@ -1,7 +1,415 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-09-10T18:12:56+08:00",
-  "latest_questions_day": "2026-09-10",
+  "generated_at": "2026-09-11T10:12:09+08:00",
+  "latest_questions_day": "2026-09-11",
   "days": {
+    "2026-09-11": {
+      "file": "2026-09-11.json",
+      "scan_time": "2026-09-11T09:30:00+08:00",
+      "window": "2026-09-10T00:00:00+08:00 ~ 2026-09-11T09:30:00+08:00",
+      "coverage": {
+        "reuters": {
+          "captured": 2,
+          "with_author": 2,
+          "with_fulltext": 2,
+          "note": "通道A官网直连 reuters.com 被JS墙拦截（fetch failed）→ 通道B代理对官方域401/403不可用 → 通道C WebSearch多组关键词 + 国际转载（SRN News、The Standard 香港）补全标题/署名/正文。2篇均取得真实记者署名（Casey Hall 上海；Kevin Yao 合肥），无机构署名稿。完整性自报：A未走通，已全程走C兜底。"
+        },
+        "bloomberg": {
+          "captured": 3,
+          "with_author": 1,
+          "with_fulltext": 3,
+          "note": "通道A官网直连 bloomberg.com 被JS墙拦截 → 镜像 envoy.cirrus 本次部分超时 → 通道C WebSearch多组关键词 + 转载（BNN Bloomberg/美联社、The Edge Singapore、The Star）补全；彭博 newsletter 专项（Breakfast FM）仅提供宏观盘面、无新增涉中独家，已并入C。3篇中1篇取得真实署名（Chan Ho-him，美联社经BNN Bloomberg供稿），2篇为机构/通讯社稿（中美利差=Bloomberg News；青岛货轮火灾=彭博聚合新华社/美联社电讯），均 authors_status=not_available，未编造个人名。完整性自报：A未走通，已全程走C兜底。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "r2",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Hefei's boom reveals limits of China's state-led manufacturing push",
+          "title_zh": "合肥繁荣折射中国「举国制造业」模式的限度",
+          "published_at": "2026-09-10",
+          "published_precision": "date",
+          "authors": [
+            "Kevin Yao"
+          ],
+          "author_locations": [
+            "Hefei, China"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "合肥模式",
+            "地方政府产业政策",
+            "产能过剩",
+            "内需不足",
+            "长鑫CXMT",
+            "AI芯片",
+            "出口"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社合肥特写（Kevin Yao）：以长鑫存储（CXMT，年内亚洲最大IPO）、京东方、蔚来为代表的高技术制造繁荣，使合肥上半年GDP同比增6.8%（主要城市最快）、工业产出增25.6%、出口增51.9%；但社会消费品零售总额仅增0.6%，产销差达25个百分点（约为全国水平的6倍）。「合肥模式」——政府以种子资本+集中园区培育前沿产业——成功锻造国家级技术冠军并快速集聚产能，却难向更广经济（尤其消费）传导。HSBC 首席亚洲经济学家 Fred Neumann、S&P Global Ratings 亚太首席经济学家 Louis Kuijs 指出，这凸显中国「高技术成功未能转化为广泛内需」的结构性失衡，且该模式不可在全国复制（恐将局部供需失衡放大为全国性重复建设与价格战）。该议题将构成9月特朗普—习近平会晤的贸易背景之一（出口激增加剧与贸易伙伴的紧张）。",
+          "china_angle": "「举国制造业」模式的能力与限度：能快速集聚资本与产能、锻造技术冠军，却累积产能过剩、压制居民收入与消费，并向外输出加剧贸易摩擦；与当前「反内卷/去产能」政策形成内在张力。",
+          "stance": "neutral",
+          "source_url": "https://www.thestandard.com.hk/china/article/342402/Hefeis-boom-reveals-limits-of-Chinas-state-led-manufacturing-push",
+          "body_available": true,
+          "body_zh": "路透合肥特写：长鑫/京东方/蔚来拉动合肥上半年GDP+6.8%、工业+25.6%、出口+51.9%，但社零仅+0.6%，产销差25个百分点（全国约6倍）。「合肥模式」成功能锻造技术冠军，却难传导至消费；HSBC、S&P指其凸显高技术成功未能转化为广泛内需，且不可全国复制，否则放大重复建设/价格战。",
+          "cited_sources": [
+            "HSBC (Fred Neumann 首席亚洲经济学家)",
+            "S&P Global Ratings (Louis Kuijs 亚太首席经济学家)",
+            "ChangXin Memory Technologies/CXMT (长鑫)",
+            "BOE Technology Group (京东方)",
+            "NIO (蔚来)",
+            "Hefei municipal statistics"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.thestandard.com.hk/china/article/342402/Hefeis-boom-reveals-limits-of-Chinas-state-led-manufacturing-push",
+            "evidence_note": "路透官网直连被JS墙拦截，经 The Standard（香港，路透 syndication）取全文+真实署名（Kevin Yao；配图 REUTERS/Kevin Yao 摄于2026-05-19合肥EHang媒体行）"
+          }
+        },
+        {
+          "id": "r1",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "US firms in China more upbeat on outlook as profits recover, survey shows",
+          "title_zh": "在华美企信心大反弹：盈利改善推动对华五年前景更乐观",
+          "published_at": "2026-09-10",
+          "published_precision": "date",
+          "authors": [
+            "Casey Hall"
+          ],
+          "author_locations": [
+            "Shanghai"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "在华美企",
+            "中美关系",
+            "商业信心",
+            "对外投资",
+            "上海美国商会"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社9月10日上海电（Casey Hall）：上海美国商会发布《2026年中国商业报告》，262家受访美企中58%对未来五年在华前景表示乐观，较去年上升17个百分点，结束连续四年的信心低谷；78%称去年在华业务实现盈利，为2019年以来最高；31%计划2026年增加对华投资、仅14%拟减少。国内竞争（68%）首次超过中美关系紧张（53%）成为在华经营头号顾虑。商会主席 Jeffrey Lehman 指，5月特朗普—习近平北京峰会后中美关系趋稳，是信心回升主因；企业亦期待9月习近平访美前关系进一步改善。报告由普华永道提供分析支持。",
+          "china_angle": "中美关系企稳带动在华美企信心回升，但本土竞争已取代地缘成为首要顾虑；体现外资从「在中国制造」向「与中国共创、服务全球」的 strateg 转变，亦折射中国超大市场与创新生态的黏度。",
+          "stance": "neutral",
+          "source_url": "https://srnnews.com/us-firms-in-china-more-upbeat-on-outlook-as-profits-recover-survey-shows",
+          "body_available": true,
+          "body_zh": "路透：上海美国商会《2026年中国商业报告》显示，262家美企中58%看好未来五年（同比+17pp，结束四年低谷）；78%去年在华盈利（2019来最高）；31%拟2026年增投、14%减投；国内竞争(68%)首超中美关系(53%)成头号顾虑。盈利改善+中美休战趋稳驱动信心回升。",
+          "cited_sources": [
+            "AmCham Shanghai (上海美国商会)",
+            "PwC (普华永道，分析支持)",
+            "Jeffrey Lehman (上海美国商会主席)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://srnnews.com/us-firms-in-china-more-upbeat-on-outlook-as-profits-recover-survey-shows",
+            "evidence_note": "路透官网直连被JS墙拦截，经 SRN News（路透 syndication）取全文+真实署名（Casey Hall 上海；编辑 Mark Potter）"
+          }
+        },
+        {
+          "id": "b1",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China's car exports in first 8 months surpass 2025 total, as EV sales soar",
+          "title_zh": "前8月中国汽车出口已超去年全年，电动车热销驱动",
+          "published_at": "2026-09-10",
+          "published_precision": "date",
+          "authors": [
+            "Chan Ho-him"
+          ],
+          "author_locations": [
+            "Hong Kong"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "汽车出口",
+            "电动车",
+            "产能出海",
+            "内需疲软",
+            "中汽协CAAM"
+          ],
+          "importance": "medium",
+          "summary_zh": "据中汽协（CAAM）9月10日数据，中国前8月乘用车出口已超去年全年（去年全年乘用车出口约600万辆）；8月乘用车出口同比+67.1%至约89万辆（插电混动+纯电驱动），1—8月乘用车出口超620万辆。但国内乘用车销量8月同比-25.6%至不足150万辆，内需持续承压。S&P Global Ratings 副总监 Stephen Chan 指强劲出口「大概率将大体抵消」国内疲软；摩根士丹利研报称车企正从单纯出口转向海外本地组装/制造，以规避贸易壁垒、降低物流成本。",
+          "china_angle": "出口高增成为对冲内需疲弱的主力，但也凸显「外需依赖+贸易壁垒」的结构性矛盾；车企加速海外建厂，是中国制造业出海与地缘博弈的交汇点。",
+          "stance": "neutral",
+          "source_url": "https://beta.bnnbloomberg.ca/business/international/2026/09/10/chinas-car-exports-in-first-8-months-surpass-2025-total-as-ev-sales-soar",
+          "body_available": true,
+          "body_zh": "彭博/美联社：中汽协9月10日数据显示，前8月乘用车出口已超去年全年；8月乘用车出口同比+67.1%至约89万辆（插混+纯电驱动）。但国内乘用车销量8月同比-25.6%，内需承压。S&P指出口将大体抵消国内疲软；大摩指车企转向海外本地组装避险。",
+          "cited_sources": [
+            "CAAM (中汽协)",
+            "S&P Global Ratings (Stephen Chan)",
+            "Morgan Stanley",
+            "Chan Ho-him (美联社)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg (BNN Bloomberg / AP syndication)",
+            "evidence_url": "https://beta.bnnbloomberg.ca/business/international/2026/09/10/chinas-car-exports-in-first-8-months-surpass-2025-total-as-ev-sales-soar",
+            "evidence_note": "彭博官网直连被JS墙拦截，经 BNN Bloomberg（彭博电视网，美联社供稿）取全文+真实署名（Chan Ho-him，美联社商业记者，驻香港/曼谷）"
+          }
+        },
+        {
+          "id": "b2",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China-US 10-year bond yield gap widens to record on policy split",
+          "title_zh": "中美10年期国债利差扩至317个基点创纪录，人民币承压",
+          "published_at": "2026-09-10",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "中美利差",
+            "货币政策分化",
+            "资本外流",
+            "人民币汇率",
+            "债市"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博9月10日报道：美国10年期国债收益率升至4.85%（2023年来最高），中国同期限国债收益率稳于1.68%，中美10年期国债利差扩大至317个基点，为彭博2002年有记录以来最宽。反映美联储抗通胀加息预期与中国央行宽松支持增长的货币政策分化。分析指利差走阔削弱在岸资产吸引力、抬升资本外流与人民币贬值压力；但中国严格资本管制+低外资持仓（7月末外资持中国国债占比仅4.6%）+出口韧性，使人民币年内仍升逾4%、对利差「脱敏」。纽约梅隆银行资深亚太策略师张伟勤（Wee Khoon Chong）等认为短期利差或维持高位甚至进一步扩大。",
+          "china_angle": "货币政策「外紧内松」分化创纪录，资本外流与汇率压力上升；但中国资本管控与出口韧性提供缓冲，人民币「脱敏」能否持续取决于美国通胀与利差走向。",
+          "stance": "neutral",
+          "source_url": "https://www.theedgesingapore.com/news/bonds-and-treasuries/china-us-10-year-bond-yield-gap-widens-record-policy-split",
+          "body_available": true,
+          "body_zh": "彭博：美10年期收益率升至4.85%（2023来最高）、中国同期限稳于1.68%，中美10年期利差扩至317bp，彭博2002年有记录以来最宽。反映美联储加息预期与人民银行宽松分化。分析指利差走阔抬升资本外流与人民币贬值压力，但中国资本管制+低外资持仓(4.6%)+出口韧性使人民币年内仍升逾4%、对利差脱敏。",
+          "cited_sources": [
+            "Bloomberg (data dating to 2002)",
+            "BNY (纽约梅隆银行, Wee Khoon Chong/张伟勤)",
+            "China Central Depository & Clearing Co.",
+            "PBoC",
+            "Federal Reserve"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://www.theedgesingapore.com/news/bonds-and-treasuries/china-us-10-year-bond-yield-gap-widens-record-policy-split",
+            "evidence_note": "彭博官网直连被JS墙拦截，经 The Edge Singapore（彭博 syndication）取全文；署名为 Bloomberg News 机构稿（Photo: Bloomberg, Sept 10），无个人记者，authors_status=not_available，未编造"
+          }
+        },
+        {
+          "id": "b3",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "25 dead after cargo ship catches fire in China's port, state media says",
+          "title_zh": "中国青岛一外籍货轮维修时起火，25人遇难，习近平指示彻查",
+          "published_at": "2026-09-10",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "安全生产",
+            "青岛北海造船",
+            "船舶维修",
+            "习近平指示",
+            "事故"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博（经国际通讯社聚合）9月10日报道：一艘利比里亚旗外籍散货船「Ocean Melody」在青岛北海造船有限公司（中国船舶集团子公司）靠港维修时于约11:15起火，船上42人，12人安全撤离、5人受伤送医、25人失联；截至当晚19:24，失联25人全部找到、均无生命体征，明火约14:30扑灭。央视/新华社称火灾原因未明。习近平指示「深刻汲取教训、彻底排查整治各类火灾隐患、严格追责」；李克强也要求搜救与防次生灾害。青岛北海造船隶属全球最大造船集团中国船舶集团。",
+          "china_angle": "重大安全生产事故，最高层批示彻查；折射船舶维修与工业安全监管议题（非地缘，属国内治理维度）。",
+          "stance": "neutral",
+          "source_url": "https://www.bnnbloomberg.ca/business/international",
+          "body_available": true,
+          "body_zh": "彭博/通讯社：利比里亚旗散货船「Ocean Melody」在青岛北海造船（中国船舶集团子公司）维修时起火，船上42人，12人撤离、5人受伤、25人遇难（截至19:24全部找到均无生命体征）。习近平指示彻查追责，李克强要求搜救防次生灾害。",
+          "cited_sources": [
+            "Xinhua (新华社)",
+            "CCTV (央视)",
+            "China State Shipbuilding Corp (中国船舶集团)",
+            "Qingdao Beihai Shipbuilding (青岛北海造船)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg (BNN Bloomberg / wire syndication)",
+            "evidence_url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/11/25-killed-in-cargo-ship-fire",
+            "evidence_note": "彭博官网直连被JS墙拦截；BNN Bloomberg 国际频道（彭博电视网）9月10日09:07 EDT 以 '25 dead after cargo ship catches fire in China's port, state media says' 收录该稿（聚合新华社/美联社电讯，— Agencies），无彭博个人记者署名，authors_status=not_available；事实细节经 The Star（— Agencies, 含新华社）复核"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 5,
+        "by_media": {
+          "路透社": 2,
+          "彭博社": 3
+        },
+        "sentiment_split": {
+          "negative": 0,
+          "neutral": 5,
+          "positive": 0
+        },
+        "negatives": [],
+        "top_topics": [
+          [
+            "在华美企",
+            1
+          ],
+          [
+            "中美关系",
+            1
+          ],
+          [
+            "商业信心",
+            1
+          ],
+          [
+            "对外投资",
+            1
+          ],
+          [
+            "上海美国商会",
+            1
+          ],
+          [
+            "合肥模式",
+            1
+          ]
+        ],
+        "key_takeaway": "合肥繁荣折射中国「举国制造业」模式的限度"
+      },
+      "questions": [
+        {
+          "title": "合肥模式折射中国「举国制造业」的能力边界与内需断层",
+          "trigger": "路透9月10日合肥特写揭示：高技术制造拉动合肥上半年GDP增6.8%、工业产出增25.6%、出口增51.9%，但社零仅增0.6%，产销差达25个百分点（约全国6倍），凸显「高技术成功未转化为广泛内需」的结构性失衡。",
+          "background": "「合肥模式」以政府种子资本+集中园区培育前沿产业（长鑫CXMT、京东方、蔚来），成功锻造国家级技术冠军并快速集聚产能，却难向消费端传导；HSBC、S&P分析师指其不可在全国复制，否则将局部供需失衡放大为全国性重复建设与价格战。这与当前「反内卷」去产能政策形成张力，也是出口激增加剧贸易摩擦的国内根源。",
+          "value": "该议题是观察中国增长模式转型的核心剖面：若高技术繁荣持续无法转化为居民收入和消费，则经济依赖「外需+投资」的脆弱性将上升，并外溢为与贸易伙伴的产能冲突；9月特朗普—习近平会晤的贸易议程或将此作为焦点。",
+          "evidence": [
+            {
+              "media": "Reuters",
+              "date": "2026-09-10",
+              "title": "Hefei's boom reveals limits of China's state-led manufacturing push",
+              "url": "https://www.thestandard.com.hk/china/article/342402/Hefeis-boom-reveals-limits-of-Chinas-state-led-manufacturing-push",
+              "note": "Kevin Yao 合肥特写，含HSBC/S&P分析师评述"
+            },
+            {
+              "media": "海报新闻",
+              "date": "2026-09-09",
+              "title": "海报观察丨6.8%与0.6%：合肥增长的「断裂带」",
+              "url": "https://www.toutiao.com/article/7683454963757892130/",
+              "note": "国内媒体对产销差与消费塌陷的延伸分析"
+            }
+          ],
+          "urgency": "中",
+          "type": "经济结构 / 产业政策",
+          "source_type": "路透特写 + 国内分析",
+          "angles": [
+            "长鑫单一龙头依赖度",
+            "高技术制造业就业吸纳弱",
+            "消费塌陷→产能过剩外溢"
+          ],
+          "watch": [
+            "9月特朗普—习近平会晤是否将中国产能过剩列为议题",
+            "「反内卷」政策后续落地"
+          ],
+          "tags": [
+            "合肥模式",
+            "产能过剩",
+            "内需不足",
+            "举国制造"
+          ],
+          "id": "q-2026-09-11-1",
+          "rank": 1
+        },
+        {
+          "title": "中国汽车「出口创纪录、内销11连降」——外需对冲策略的可持续性",
+          "trigger": "彭博9月10日报道，中国前8月乘用车出口已超去年全年，8月乘用车出口同比+67.1%；但国内乘用车销量8月同比-25.6%，为连续第11个月下滑，车企加速海外建厂避险。",
+          "background": "中汽协数据显示新能源汽车出口占比连续三个月超50%，比亚迪等上调全年出口目标至200万辆；国内价格战+地产拖累使消费疲软，车企以出口对冲。但欧盟35.3%反补贴税、美国高关税与中国监管「出海价格战」新规，令纯出口路径受限，转型本地组装尚在初期。",
+          "value": "汽车是「出口对冲内需」最典型产业，其内外分化是中国宏观「外强内弱」的缩影；出口若持续将决定GDP成色，但面临贸易壁垒升级，任一市场收紧都可能暴露产能与就业隐患，需持续追踪。",
+          "evidence": [
+            {
+              "media": "Bloomberg/AP",
+              "date": "2026-09-10",
+              "title": "China's car exports in first 8 months surpass 2025 total, as EV sales soar",
+              "url": "https://beta.bnnbloomberg.ca/business/international/2026/09/10/chinas-car-exports-in-first-8-months-surpass-2025-total-as-ev-sales-soar",
+              "note": "Chan Ho-him 美联社供稿，含S&P/大摩评述"
+            },
+            {
+              "media": "BigGo Finance",
+              "date": "2026-09-10",
+              "title": "China Car Exports Hit Record in August While Domestic Sales Slump for 11th Month",
+              "url": "https://finance.biggo.com/news/4e24fa0b-dd1a-4763-a931-e2837f84babe",
+              "note": "8月乘用车出口+77.5%、内销-23.7%的细分数据"
+            }
+          ],
+          "urgency": "中",
+          "type": "产业 / 经贸",
+          "source_type": "彭博 + 行业数据",
+          "angles": [
+            "出口依赖度",
+            "贸易壁垒升级",
+            "海外本地化进度"
+          ],
+          "watch": [
+            "欧盟反补贴税后续",
+            "比亚迪/小米欧洲建厂节奏",
+            "国内以旧换新政策成效"
+          ],
+          "tags": [
+            "汽车出口",
+            "内需疲软",
+            "贸易壁垒",
+            "产能出海"
+          ],
+          "id": "q-2026-09-11-2",
+          "rank": 2
+        },
+        {
+          "title": "中美10年期国债利差创317bp纪录——资本外流与汇率稳定的脆弱平衡",
+          "trigger": "彭博9月10日报道，美10年期国债收益率升至4.85%（2023来最高）、中国同期限稳于1.68%，中美10年期利差扩至317个基点，为彭博2002年有记录以来最宽。",
+          "background": "美联储抗通胀加息预期与中国央行宽松支持增长形成「外紧内松」分化；分析指利差走阔削弱在岸资产吸引力、抬升资本外流与人民币贬值压力。但中国严格资本管制、低外资持仓（7月末外资持中国国债仅4.6%）与出口韧性，使人民币年内仍升逾4%、对利差「脱敏」。",
+          "value": "利差是观察中国资本流动与汇率防御能力的核心指标；若美国通胀居高、利差维持高位甚至扩大，可能逐步侵蚀「脱敏」红利，考验央行稳汇率与防资本外逃的平衡，亦关联在岸资产与A股外资流向。",
+          "evidence": [
+            {
+              "media": "Bloomberg",
+              "date": "2026-09-10",
+              "title": "China-US 10-year bond yield gap widens to record on policy split",
+              "url": "https://www.theedgesingapore.com/news/bonds-and-treasuries/china-us-10-year-bond-yield-gap-widens-record-policy-split",
+              "note": "彭博2002年有记录以来最宽"
+            },
+            {
+              "media": "Moneycontrol",
+              "date": "2026-09-10",
+              "title": "China-US bond yield gap hits record 317 bps; why the yuan could feel the heat",
+              "url": "https://www.moneycontrol.com/news/business/markets/china-us-bond-yield-gap-hits-record-317-bps-why-the-yuan-could-feel-the-heat-14026606.html/amp",
+              "note": "资本外流与人民币贬值压力分析"
+            }
+          ],
+          "urgency": "中",
+          "type": "金融 / 宏观",
+          "source_type": "彭博 + 市场分析",
+          "angles": [
+            "资本外流风险",
+            "人民币稳汇率空间",
+            "A股外资流向"
+          ],
+          "watch": [
+            "美国8月CPI与9月美联储决议",
+            "人民银行汇率中间价引导",
+            "离岸人民币借贷规模"
+          ],
+          "tags": [
+            "中美利差",
+            "资本外流",
+            "人民币汇率",
+            "货币政策分化"
+          ],
+          "id": "q-2026-09-11-3",
+          "rank": 3
+        }
+      ]
+    },
     "2026-09-10": {
       "file": "2026-09-10.json",
       "scan_time": "2026-09-10T06:55:00+08:00",
@@ -48038,32 +48446,258 @@ window.__XFS_DATA__ = {
       },
       "_day": "2026-09-10",
       "_uid": "2026-09-10/b2"
+    },
+    {
+      "id": "r1",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "US firms in China more upbeat on outlook as profits recover, survey shows",
+      "title_zh": "在华美企信心大反弹：盈利改善推动对华五年前景更乐观",
+      "published_at": "2026-09-10",
+      "published_precision": "date",
+      "authors": [
+        "Casey Hall"
+      ],
+      "author_locations": [
+        "Shanghai"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "在华美企",
+        "中美关系",
+        "商业信心",
+        "对外投资",
+        "上海美国商会"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透社9月10日上海电（Casey Hall）：上海美国商会发布《2026年中国商业报告》，262家受访美企中58%对未来五年在华前景表示乐观，较去年上升17个百分点，结束连续四年的信心低谷；78%称去年在华业务实现盈利，为2019年以来最高；31%计划2026年增加对华投资、仅14%拟减少。国内竞争（68%）首次超过中美关系紧张（53%）成为在华经营头号顾虑。商会主席 Jeffrey Lehman 指，5月特朗普—习近平北京峰会后中美关系趋稳，是信心回升主因；企业亦期待9月习近平访美前关系进一步改善。报告由普华永道提供分析支持。",
+      "china_angle": "中美关系企稳带动在华美企信心回升，但本土竞争已取代地缘成为首要顾虑；体现外资从「在中国制造」向「与中国共创、服务全球」的 strateg 转变，亦折射中国超大市场与创新生态的黏度。",
+      "stance": "neutral",
+      "source_url": "https://srnnews.com/us-firms-in-china-more-upbeat-on-outlook-as-profits-recover-survey-shows",
+      "body_available": true,
+      "body_zh": "路透：上海美国商会《2026年中国商业报告》显示，262家美企中58%看好未来五年（同比+17pp，结束四年低谷）；78%去年在华盈利（2019来最高）；31%拟2026年增投、14%减投；国内竞争(68%)首超中美关系(53%)成头号顾虑。盈利改善+中美休战趋稳驱动信心回升。",
+      "cited_sources": [
+        "AmCham Shanghai (上海美国商会)",
+        "PwC (普华永道，分析支持)",
+        "Jeffrey Lehman (上海美国商会主席)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://srnnews.com/us-firms-in-china-more-upbeat-on-outlook-as-profits-recover-survey-shows",
+        "evidence_note": "路透官网直连被JS墙拦截，经 SRN News（路透 syndication）取全文+真实署名（Casey Hall 上海；编辑 Mark Potter）"
+      },
+      "_day": "2026-09-11",
+      "_uid": "2026-09-11/r1"
+    },
+    {
+      "id": "r2",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Hefei's boom reveals limits of China's state-led manufacturing push",
+      "title_zh": "合肥繁荣折射中国「举国制造业」模式的限度",
+      "published_at": "2026-09-10",
+      "published_precision": "date",
+      "authors": [
+        "Kevin Yao"
+      ],
+      "author_locations": [
+        "Hefei, China"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "合肥模式",
+        "地方政府产业政策",
+        "产能过剩",
+        "内需不足",
+        "长鑫CXMT",
+        "AI芯片",
+        "出口"
+      ],
+      "importance": "high",
+      "summary_zh": "路透社合肥特写（Kevin Yao）：以长鑫存储（CXMT，年内亚洲最大IPO）、京东方、蔚来为代表的高技术制造繁荣，使合肥上半年GDP同比增6.8%（主要城市最快）、工业产出增25.6%、出口增51.9%；但社会消费品零售总额仅增0.6%，产销差达25个百分点（约为全国水平的6倍）。「合肥模式」——政府以种子资本+集中园区培育前沿产业——成功锻造国家级技术冠军并快速集聚产能，却难向更广经济（尤其消费）传导。HSBC 首席亚洲经济学家 Fred Neumann、S&P Global Ratings 亚太首席经济学家 Louis Kuijs 指出，这凸显中国「高技术成功未能转化为广泛内需」的结构性失衡，且该模式不可在全国复制（恐将局部供需失衡放大为全国性重复建设与价格战）。该议题将构成9月特朗普—习近平会晤的贸易背景之一（出口激增加剧与贸易伙伴的紧张）。",
+      "china_angle": "「举国制造业」模式的能力与限度：能快速集聚资本与产能、锻造技术冠军，却累积产能过剩、压制居民收入与消费，并向外输出加剧贸易摩擦；与当前「反内卷/去产能」政策形成内在张力。",
+      "stance": "neutral",
+      "source_url": "https://www.thestandard.com.hk/china/article/342402/Hefeis-boom-reveals-limits-of-Chinas-state-led-manufacturing-push",
+      "body_available": true,
+      "body_zh": "路透合肥特写：长鑫/京东方/蔚来拉动合肥上半年GDP+6.8%、工业+25.6%、出口+51.9%，但社零仅+0.6%，产销差25个百分点（全国约6倍）。「合肥模式」成功能锻造技术冠军，却难传导至消费；HSBC、S&P指其凸显高技术成功未能转化为广泛内需，且不可全国复制，否则放大重复建设/价格战。",
+      "cited_sources": [
+        "HSBC (Fred Neumann 首席亚洲经济学家)",
+        "S&P Global Ratings (Louis Kuijs 亚太首席经济学家)",
+        "ChangXin Memory Technologies/CXMT (长鑫)",
+        "BOE Technology Group (京东方)",
+        "NIO (蔚来)",
+        "Hefei municipal statistics"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.thestandard.com.hk/china/article/342402/Hefeis-boom-reveals-limits-of-Chinas-state-led-manufacturing-push",
+        "evidence_note": "路透官网直连被JS墙拦截，经 The Standard（香港，路透 syndication）取全文+真实署名（Kevin Yao；配图 REUTERS/Kevin Yao 摄于2026-05-19合肥EHang媒体行）"
+      },
+      "_day": "2026-09-11",
+      "_uid": "2026-09-11/r2"
+    },
+    {
+      "id": "b1",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China's car exports in first 8 months surpass 2025 total, as EV sales soar",
+      "title_zh": "前8月中国汽车出口已超去年全年，电动车热销驱动",
+      "published_at": "2026-09-10",
+      "published_precision": "date",
+      "authors": [
+        "Chan Ho-him"
+      ],
+      "author_locations": [
+        "Hong Kong"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "汽车出口",
+        "电动车",
+        "产能出海",
+        "内需疲软",
+        "中汽协CAAM"
+      ],
+      "importance": "medium",
+      "summary_zh": "据中汽协（CAAM）9月10日数据，中国前8月乘用车出口已超去年全年（去年全年乘用车出口约600万辆）；8月乘用车出口同比+67.1%至约89万辆（插电混动+纯电驱动），1—8月乘用车出口超620万辆。但国内乘用车销量8月同比-25.6%至不足150万辆，内需持续承压。S&P Global Ratings 副总监 Stephen Chan 指强劲出口「大概率将大体抵消」国内疲软；摩根士丹利研报称车企正从单纯出口转向海外本地组装/制造，以规避贸易壁垒、降低物流成本。",
+      "china_angle": "出口高增成为对冲内需疲弱的主力，但也凸显「外需依赖+贸易壁垒」的结构性矛盾；车企加速海外建厂，是中国制造业出海与地缘博弈的交汇点。",
+      "stance": "neutral",
+      "source_url": "https://beta.bnnbloomberg.ca/business/international/2026/09/10/chinas-car-exports-in-first-8-months-surpass-2025-total-as-ev-sales-soar",
+      "body_available": true,
+      "body_zh": "彭博/美联社：中汽协9月10日数据显示，前8月乘用车出口已超去年全年；8月乘用车出口同比+67.1%至约89万辆（插混+纯电驱动）。但国内乘用车销量8月同比-25.6%，内需承压。S&P指出口将大体抵消国内疲软；大摩指车企转向海外本地组装避险。",
+      "cited_sources": [
+        "CAAM (中汽协)",
+        "S&P Global Ratings (Stephen Chan)",
+        "Morgan Stanley",
+        "Chan Ho-him (美联社)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg (BNN Bloomberg / AP syndication)",
+        "evidence_url": "https://beta.bnnbloomberg.ca/business/international/2026/09/10/chinas-car-exports-in-first-8-months-surpass-2025-total-as-ev-sales-soar",
+        "evidence_note": "彭博官网直连被JS墙拦截，经 BNN Bloomberg（彭博电视网，美联社供稿）取全文+真实署名（Chan Ho-him，美联社商业记者，驻香港/曼谷）"
+      },
+      "_day": "2026-09-11",
+      "_uid": "2026-09-11/b1"
+    },
+    {
+      "id": "b2",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China-US 10-year bond yield gap widens to record on policy split",
+      "title_zh": "中美10年期国债利差扩至317个基点创纪录，人民币承压",
+      "published_at": "2026-09-10",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "中美利差",
+        "货币政策分化",
+        "资本外流",
+        "人民币汇率",
+        "债市"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博9月10日报道：美国10年期国债收益率升至4.85%（2023年来最高），中国同期限国债收益率稳于1.68%，中美10年期国债利差扩大至317个基点，为彭博2002年有记录以来最宽。反映美联储抗通胀加息预期与中国央行宽松支持增长的货币政策分化。分析指利差走阔削弱在岸资产吸引力、抬升资本外流与人民币贬值压力；但中国严格资本管制+低外资持仓（7月末外资持中国国债占比仅4.6%）+出口韧性，使人民币年内仍升逾4%、对利差「脱敏」。纽约梅隆银行资深亚太策略师张伟勤（Wee Khoon Chong）等认为短期利差或维持高位甚至进一步扩大。",
+      "china_angle": "货币政策「外紧内松」分化创纪录，资本外流与汇率压力上升；但中国资本管控与出口韧性提供缓冲，人民币「脱敏」能否持续取决于美国通胀与利差走向。",
+      "stance": "neutral",
+      "source_url": "https://www.theedgesingapore.com/news/bonds-and-treasuries/china-us-10-year-bond-yield-gap-widens-record-policy-split",
+      "body_available": true,
+      "body_zh": "彭博：美10年期收益率升至4.85%（2023来最高）、中国同期限稳于1.68%，中美10年期利差扩至317bp，彭博2002年有记录以来最宽。反映美联储加息预期与人民银行宽松分化。分析指利差走阔抬升资本外流与人民币贬值压力，但中国资本管制+低外资持仓(4.6%)+出口韧性使人民币年内仍升逾4%、对利差脱敏。",
+      "cited_sources": [
+        "Bloomberg (data dating to 2002)",
+        "BNY (纽约梅隆银行, Wee Khoon Chong/张伟勤)",
+        "China Central Depository & Clearing Co.",
+        "PBoC",
+        "Federal Reserve"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://www.theedgesingapore.com/news/bonds-and-treasuries/china-us-10-year-bond-yield-gap-widens-record-policy-split",
+        "evidence_note": "彭博官网直连被JS墙拦截，经 The Edge Singapore（彭博 syndication）取全文；署名为 Bloomberg News 机构稿（Photo: Bloomberg, Sept 10），无个人记者，authors_status=not_available，未编造"
+      },
+      "_day": "2026-09-11",
+      "_uid": "2026-09-11/b2"
+    },
+    {
+      "id": "b3",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "25 dead after cargo ship catches fire in China's port, state media says",
+      "title_zh": "中国青岛一外籍货轮维修时起火，25人遇难，习近平指示彻查",
+      "published_at": "2026-09-10",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "安全生产",
+        "青岛北海造船",
+        "船舶维修",
+        "习近平指示",
+        "事故"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博（经国际通讯社聚合）9月10日报道：一艘利比里亚旗外籍散货船「Ocean Melody」在青岛北海造船有限公司（中国船舶集团子公司）靠港维修时于约11:15起火，船上42人，12人安全撤离、5人受伤送医、25人失联；截至当晚19:24，失联25人全部找到、均无生命体征，明火约14:30扑灭。央视/新华社称火灾原因未明。习近平指示「深刻汲取教训、彻底排查整治各类火灾隐患、严格追责」；李克强也要求搜救与防次生灾害。青岛北海造船隶属全球最大造船集团中国船舶集团。",
+      "china_angle": "重大安全生产事故，最高层批示彻查；折射船舶维修与工业安全监管议题（非地缘，属国内治理维度）。",
+      "stance": "neutral",
+      "source_url": "https://www.bnnbloomberg.ca/business/international",
+      "body_available": true,
+      "body_zh": "彭博/通讯社：利比里亚旗散货船「Ocean Melody」在青岛北海造船（中国船舶集团子公司）维修时起火，船上42人，12人撤离、5人受伤、25人遇难（截至19:24全部找到均无生命体征）。习近平指示彻查追责，李克强要求搜救防次生灾害。",
+      "cited_sources": [
+        "Xinhua (新华社)",
+        "CCTV (央视)",
+        "China State Shipbuilding Corp (中国船舶集团)",
+        "Qingdao Beihai Shipbuilding (青岛北海造船)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg (BNN Bloomberg / wire syndication)",
+        "evidence_url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/11/25-killed-in-cargo-ship-fire",
+        "evidence_note": "彭博官网直连被JS墙拦截；BNN Bloomberg 国际频道（彭博电视网）9月10日09:07 EDT 以 '25 dead after cargo ship catches fire in China's port, state media says' 收录该稿（聚合新华社/美联社电讯，— Agencies），无彭博个人记者署名，authors_status=not_available；事实细节经 The Star（— Agencies, 含新华社）复核"
+      },
+      "_day": "2026-09-11",
+      "_uid": "2026-09-11/b3"
     }
   ],
   "archive": {
-    "days_count": 36,
+    "days_count": 37,
     "first_day": "2026-08-04",
-    "last_day": "2026-09-10",
-    "total_articles": 544,
+    "last_day": "2026-09-11",
+    "total_articles": 549,
     "by_media": {
-      "路透社": 337,
-      "彭博社": 207
+      "路透社": 339,
+      "彭博社": 210
     },
     "by_topic": {
       "半导体": 41,
       "出口管制": 40,
       "宏观经济": 34,
+      "中美关系": 34,
       "人工智能": 33,
-      "中美关系": 33,
       "AI": 33,
       "港股": 24,
       "中美科技竞争": 22,
       "IPO": 21,
       "中美科技": 20,
       "供应链": 20,
+      "出口": 19,
       "人形机器人": 19,
       "中美经贸": 19,
-      "出口": 18,
       "伊朗": 18,
       "资本市场": 17,
       "关税": 17,
@@ -48075,9 +48709,9 @@ window.__XFS_DATA__ = {
       "外交": 14,
       "财报": 13,
       "中国台湾": 13,
+      "AI芯片": 13,
       "A股": 12,
       "经贸": 12,
-      "AI芯片": 12,
       "内需": 12,
       "科技竞争": 11,
       "自然灾害": 11,
@@ -48128,6 +48762,7 @@ window.__XFS_DATA__ = {
       "Shein": 6,
       "科创板": 6,
       "贸易摩擦": 6,
+      "人民币汇率": 6,
       "比亚迪": 6,
       "中韩关系": 6,
       "产业政策": 5,
@@ -48140,7 +48775,6 @@ window.__XFS_DATA__ = {
       "跨境电商": 5,
       "外汇": 5,
       "极端天气": 5,
-      "人民币汇率": 5,
       "市场": 5,
       "宇树": 5,
       "腾讯": 5,
@@ -48151,8 +48785,10 @@ window.__XFS_DATA__ = {
       "宏观数据": 5,
       "汇率": 5,
       "金融风险": 5,
+      "电动车": 5,
       "香港": 5,
       "经贸摩擦": 4,
+      "对外投资": 4,
       "AI产业链": 4,
       "中东局势": 4,
       "人民币国际化": 4,
@@ -48168,15 +48804,16 @@ window.__XFS_DATA__ = {
       "油价": 4,
       "跨境快时尚": 4,
       "宇树科技": 4,
+      "长鑫CXMT": 4,
       "芯片": 4,
       "美联储": 4,
       "AI大模型": 4,
       "南海": 4,
       "中菲关系": 4,
       "信贷": 4,
+      "中美利差": 4,
       "投资": 4,
       "恒大": 4,
-      "电动车": 4,
       "银行业": 4,
       "中尼关系": 4,
       "灾害救援": 4,
@@ -48186,7 +48823,6 @@ window.__XFS_DATA__ = {
       "社会民生": 3,
       "制裁": 3,
       "科技产业": 3,
-      "对外投资": 3,
       "金融市场": 3,
       "防灾减灾": 3,
       "GDP": 3,
@@ -48203,13 +48839,14 @@ window.__XFS_DATA__ = {
       "欧盟": 3,
       "航天": 3,
       "具身智能": 3,
-      "长鑫CXMT": 3,
       "中美供应链": 3,
       "算力": 3,
       "智能制造": 3,
       "反倾销": 3,
       "华为昇腾": 3,
       "电动卡车": 3,
+      "安全生产": 3,
+      "事故": 3,
       "自动驾驶": 3,
       "robotaxi": 3,
       "中新关系": 3,
@@ -48219,10 +48856,10 @@ window.__XFS_DATA__ = {
       "阿里": 3,
       "京东": 3,
       "习近平": 3,
-      "中美利差": 3,
       "美国": 3,
       "中国房地产": 3,
       "房价": 3,
+      "产能过剩": 3,
       "中美AI竞争": 3,
       "外交部": 3,
       "中国市场": 3,
@@ -48303,9 +48940,7 @@ window.__XFS_DATA__ = {
       "中印": 2,
       "芯片设计": 2,
       "AI加速器": 2,
-      "安全生产": 2,
       "船厂": 2,
-      "事故": 2,
       "光伏逆变器": 2,
       "阳光电源": 2,
       "贸易限制": 2,
@@ -48327,7 +48962,6 @@ window.__XFS_DATA__ = {
       "江泽民": 2,
       "去库存": 2,
       "中欧贸易": 2,
-      "产能过剩": 2,
       "中国金融": 2,
       "通义千问": 2,
       "APEC": 2,
@@ -48345,6 +48979,7 @@ window.__XFS_DATA__ = {
       "商用车": 2,
       "清洁能源": 2,
       "医药": 2,
+      "资本外流": 2,
       "LPR": 2,
       "台海安全": 2,
       "一带一路": 2,
@@ -48696,7 +49331,6 @@ window.__XFS_DATA__ = {
       "日本市场": 1,
       "香港地产": 1,
       "学生公寓": 1,
-      "资本外流": 1,
       "税收执法": 1,
       "离岸信托": 1,
       "财富管理": 1,
@@ -48946,7 +49580,22 @@ window.__XFS_DATA__ = {
       "强制可转债MCB": 1,
       "碧桂园": 1,
       "远洋": 1,
-      "特朗普-习近平会晤": 1
+      "特朗普-习近平会晤": 1,
+      "在华美企": 1,
+      "商业信心": 1,
+      "上海美国商会": 1,
+      "合肥模式": 1,
+      "地方政府产业政策": 1,
+      "内需不足": 1,
+      "汽车出口": 1,
+      "产能出海": 1,
+      "内需疲软": 1,
+      "中汽协CAAM": 1,
+      "货币政策分化": 1,
+      "债市": 1,
+      "青岛北海造船": 1,
+      "船舶维修": 1,
+      "习近平指示": 1
     },
     "sentiment_trend": [
       {
@@ -49163,6 +49812,12 @@ window.__XFS_DATA__ = {
         "date": "2026-09-10",
         "negative": 3,
         "neutral": 2,
+        "positive": 0
+      },
+      {
+        "date": "2026-09-11",
+        "negative": 0,
+        "neutral": 5,
         "positive": 0
       }
     ],
@@ -54042,6 +54697,94 @@ window.__XFS_DATA__ = {
       [
         "Bloomberg Intelligence (Andrew Chan, Daniel Fan)",
         1
+      ],
+      [
+        "AmCham Shanghai (上海美国商会)",
+        1
+      ],
+      [
+        "PwC (普华永道，分析支持)",
+        1
+      ],
+      [
+        "Jeffrey Lehman (上海美国商会主席)",
+        1
+      ],
+      [
+        "HSBC (Fred Neumann 首席亚洲经济学家)",
+        1
+      ],
+      [
+        "S&P Global Ratings (Louis Kuijs 亚太首席经济学家)",
+        1
+      ],
+      [
+        "ChangXin Memory Technologies/CXMT (长鑫)",
+        1
+      ],
+      [
+        "BOE Technology Group (京东方)",
+        1
+      ],
+      [
+        "NIO (蔚来)",
+        1
+      ],
+      [
+        "Hefei municipal statistics",
+        1
+      ],
+      [
+        "CAAM (中汽协)",
+        1
+      ],
+      [
+        "S&P Global Ratings (Stephen Chan)",
+        1
+      ],
+      [
+        "Morgan Stanley",
+        1
+      ],
+      [
+        "Chan Ho-him (美联社)",
+        1
+      ],
+      [
+        "Bloomberg (data dating to 2002)",
+        1
+      ],
+      [
+        "BNY (纽约梅隆银行, Wee Khoon Chong/张伟勤)",
+        1
+      ],
+      [
+        "China Central Depository & Clearing Co.",
+        1
+      ],
+      [
+        "PBoC",
+        1
+      ],
+      [
+        "Federal Reserve",
+        1
+      ],
+      [
+        "Xinhua (新华社)",
+        1
+      ],
+      [
+        "CCTV (央视)",
+        1
+      ],
+      [
+        "China State Shipbuilding Corp (中国船舶集团)",
+        1
+      ],
+      [
+        "Qingdao Beihai Shipbuilding (青岛北海造船)",
+        1
       ]
     ],
     "recurring_topics": [
@@ -54102,7 +54845,7 @@ window.__XFS_DATA__ = {
       },
       {
         "topic": "中美关系",
-        "count": 20,
+        "count": 21,
         "days": [
           "2026-08-05",
           "2026-08-06",
@@ -54123,7 +54866,8 @@ window.__XFS_DATA__ = {
           "2026-09-03",
           "2026-09-04",
           "2026-09-05",
-          "2026-09-10"
+          "2026-09-10",
+          "2026-09-11"
         ]
       },
       {
@@ -54375,6 +55119,23 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "出口",
+        "count": 11,
+        "days": [
+          "2026-08-04",
+          "2026-08-06",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-11",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-28",
+          "2026-09-08",
+          "2026-09-09",
+          "2026-09-11"
+        ]
+      },
+      {
         "topic": "A股",
         "count": 11,
         "days": [
@@ -54389,22 +55150,6 @@ window.__XFS_DATA__ = {
           "2026-09-03",
           "2026-09-04",
           "2026-09-05"
-        ]
-      },
-      {
-        "topic": "出口",
-        "count": 10,
-        "days": [
-          "2026-08-04",
-          "2026-08-06",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-11",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-28",
-          "2026-09-08",
-          "2026-09-09"
         ]
       },
       {
@@ -54533,6 +55278,21 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "AI芯片",
+        "count": 9,
+        "days": [
+          "2026-08-09",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-14",
+          "2026-08-22",
+          "2026-08-24",
+          "2026-09-01",
+          "2026-09-02",
+          "2026-09-11"
+        ]
+      },
+      {
         "topic": "货币政策",
         "count": 8,
         "days": [
@@ -54614,20 +55374,6 @@ window.__XFS_DATA__ = {
           "2026-08-22",
           "2026-09-08",
           "2026-09-09"
-        ]
-      },
-      {
-        "topic": "AI芯片",
-        "count": 8,
-        "days": [
-          "2026-08-09",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-14",
-          "2026-08-22",
-          "2026-08-24",
-          "2026-09-01",
-          "2026-09-02"
         ]
       },
       {
@@ -54830,6 +55576,18 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "人民币汇率",
+        "count": 6,
+        "days": [
+          "2026-08-11",
+          "2026-08-13",
+          "2026-08-16",
+          "2026-08-25",
+          "2026-08-30",
+          "2026-09-11"
+        ]
+      },
+      {
         "topic": "中欧关系",
         "count": 5,
         "days": [
@@ -55025,17 +55783,6 @@ window.__XFS_DATA__ = {
           "2026-08-20",
           "2026-08-27",
           "2026-09-03"
-        ]
-      },
-      {
-        "topic": "人民币汇率",
-        "count": 5,
-        "days": [
-          "2026-08-11",
-          "2026-08-13",
-          "2026-08-16",
-          "2026-08-25",
-          "2026-08-30"
         ]
       },
       {
@@ -55295,6 +56042,16 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "中美利差",
+        "count": 4,
+        "days": [
+          "2026-08-16",
+          "2026-09-02",
+          "2026-09-03",
+          "2026-09-11"
+        ]
+      },
+      {
         "topic": "中概股",
         "count": 4,
         "days": [
@@ -55361,6 +56118,15 @@ window.__XFS_DATA__ = {
           "2026-08-04",
           "2026-08-25",
           "2026-08-27"
+        ]
+      },
+      {
+        "topic": "对外投资",
+        "count": 3,
+        "days": [
+          "2026-08-04",
+          "2026-09-05",
+          "2026-09-11"
         ]
       },
       {
@@ -55589,6 +56355,15 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "长鑫CXMT",
+        "count": 3,
+        "days": [
+          "2026-08-10",
+          "2026-08-11",
+          "2026-09-11"
+        ]
+      },
+      {
         "topic": "算力",
         "count": 3,
         "days": [
@@ -55640,6 +56415,24 @@ window.__XFS_DATA__ = {
           "2026-08-13",
           "2026-08-14",
           "2026-08-19"
+        ]
+      },
+      {
+        "topic": "安全生产",
+        "count": 3,
+        "days": [
+          "2026-08-13",
+          "2026-08-14",
+          "2026-09-11"
+        ]
+      },
+      {
+        "topic": "事故",
+        "count": 3,
+        "days": [
+          "2026-08-13",
+          "2026-08-14",
+          "2026-09-11"
         ]
       },
       {
@@ -55706,15 +56499,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "中美利差",
-        "count": 3,
-        "days": [
-          "2026-08-16",
-          "2026-09-02",
-          "2026-09-03"
-        ]
-      },
-      {
         "topic": "宏观数据",
         "count": 3,
         "days": [
@@ -55730,6 +56514,15 @@ window.__XFS_DATA__ = {
           "2026-08-17",
           "2026-08-20",
           "2026-08-22"
+        ]
+      },
+      {
+        "topic": "产能过剩",
+        "count": 3,
+        "days": [
+          "2026-08-17",
+          "2026-08-24",
+          "2026-09-11"
         ]
       },
       {
@@ -55766,6 +56559,15 @@ window.__XFS_DATA__ = {
           "2026-08-22",
           "2026-08-24",
           "2026-09-02"
+        ]
+      },
+      {
+        "topic": "电动车",
+        "count": 3,
+        "days": [
+          "2026-08-22",
+          "2026-09-08",
+          "2026-09-11"
         ]
       },
       {
@@ -55904,14 +56706,6 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-04",
           "2026-08-16"
-        ]
-      },
-      {
-        "topic": "对外投资",
-        "count": 2,
-        "days": [
-          "2026-08-04",
-          "2026-09-05"
         ]
       },
       {
@@ -56187,14 +56981,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "长鑫CXMT",
-        "count": 2,
-        "days": [
-          "2026-08-10",
-          "2026-08-11"
-        ]
-      },
-      {
         "topic": "中美供应链",
         "count": 2,
         "days": [
@@ -56387,23 +57173,7 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "安全生产",
-        "count": 2,
-        "days": [
-          "2026-08-13",
-          "2026-08-14"
-        ]
-      },
-      {
         "topic": "船厂",
-        "count": 2,
-        "days": [
-          "2026-08-13",
-          "2026-08-14"
-        ]
-      },
-      {
-        "topic": "事故",
         "count": 2,
         "days": [
           "2026-08-13",
@@ -56611,14 +57381,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "产能过剩",
-        "count": 2,
-        "days": [
-          "2026-08-17",
-          "2026-08-24"
-        ]
-      },
-      {
         "topic": "中国金融",
         "count": 2,
         "days": [
@@ -56739,6 +57501,14 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "资本外流",
+        "count": 2,
+        "days": [
+          "2026-08-21",
+          "2026-09-11"
+        ]
+      },
+      {
         "topic": "LPR",
         "count": 2,
         "days": [
@@ -56760,14 +57530,6 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-22",
           "2026-08-25"
-        ]
-      },
-      {
-        "topic": "电动车",
-        "count": 2,
-        "days": [
-          "2026-08-22",
-          "2026-09-08"
         ]
       },
       {
@@ -58510,14 +59272,23 @@ window.__XFS_DATA__ = {
       }
     ],
     "penetration": {
-      "运行天数": 36,
-      "累计报道": 544,
-      "覆盖议题": 897,
-      "覆盖信源": 1219,
+      "运行天数": 37,
+      "累计报道": 549,
+      "覆盖议题": 912,
+      "覆盖信源": 1241,
       "负面累计": 186,
-      "谋题累计": 33
+      "谋题累计": 36
     },
     "questions_timeline": [
+      {
+        "day": "2026-09-11",
+        "count": 3,
+        "titles": [
+          "合肥模式折射中国「举国制造业」的能力边界与内需断层",
+          "中国汽车「出口创纪录、内销11连降」——外需对冲策略的可持续性",
+          "中美10年期国债利差创317bp纪录——资本外流与汇率稳定的脆弱平衡"
+        ]
+      },
       {
         "day": "2026-09-10",
         "count": 3,
@@ -58620,11 +59391,11 @@ window.__XFS_DATA__ = {
     ]
   },
   "stats": {
-    "total": 544,
-    "days": 36,
+    "total": 549,
+    "days": 37,
     "negatives": 186,
-    "with_author": 309,
-    "with_body": 128,
-    "with_sources": 482
+    "with_author": 312,
+    "with_body": 133,
+    "with_sources": 487
   }
 };
