@@ -1,7 +1,1023 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-09-11T10:16:17+08:00",
-  "latest_questions_day": "2026-09-11",
+  "generated_at": "2026-09-20T10:00:47+08:00",
+  "latest_questions_day": "2026-09-20",
   "days": {
+    "2026-09-20": {
+      "file": "2026-09-20.json",
+      "scan_time": "2026-09-20T09:46:00+08:00",
+      "window": "2026-09-19T00:00:00+08:00 ~ 2026-09-20T09:46:00+08:00",
+      "coverage": {
+        "reuters": {
+          "captured": 1,
+          "with_author": 0,
+          "with_fulltext": 1,
+          "note": "通道A官网直连被JS墙拦截→通道C WebSearch + 雪球/华尔街见闻综述补全。r1（人民币破6.7）为机构市场稿，无个人署名，authors_status=not_available，未编造。"
+        },
+        "bloomberg": {
+          "captured": 3,
+          "with_author": 0,
+          "with_fulltext": 3,
+          "note": "通道A官网直连被JS墙拦截→通道C WebSearch + 虎嗅/21世纪经济报道/雅虎财经（彭博供稿）补全。3篇均机构/产品稿，无个人署名，authors_status=not_available，未编造。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "b1",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Alibaba introduces next-generation Qwen3.8-Omni-Flash model",
+          "title_zh": "阿里发布Qwen3.8-Omni-Flash：百万上下文+音视频API降价超九成",
+          "published_at": "2026-09-20",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "阿里巴巴",
+            "通义千问",
+            "Qwen",
+            "全模态",
+            "Agent",
+            "AI模型",
+            "降本"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社报道：阿里巴巴发布新一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本/图像/音频/视频输入与100万token上下文，在约30项评测中较上一代 Qwen3.5-Omni-Plus 平均提升超26%，音频能力整体超过 Gemini 3.8 Flash、音视频能力接近。价格大幅下探：每小时音频输入API降价超98%、音视频输入降约93%。模型主打“全感知、可执行”的Agent形态，支持工具调用与长周期任务编排；达摩院同期在《Science》发表可识别近150种腹部疾病的通用医学影像AI模型。",
+          "china_angle": "Qwen3.8以“长上下文+超低价+全模态Agent”路线，是中国大模型从“堆参数”转向“效率与可执行性”的样本；音视频API降价超九成直接压低多模态应用门槛，与DeepSeek的效率路线形成呼应，亦加剧与Gemini/Claude的性价比竞争。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-18/alibaba-unveils-qwen3-8-omni-flash-model",
+          "body_available": true,
+          "body_zh": "彭博：阿里发布Qwen3.8-Omni-Flash，原生全模态、1M上下文，30项评测较上代平均+26%，音频超Gemini 3.8 Flash。每小时音频输入API降价超98%、音视频降约93%。主打Agent可执行形态；达摩院同期于《Science》发表近150种腹部疾病通用医学影像AI。",
+          "cited_sources": [
+            "Alibaba (阿里巴巴)",
+            "Qwen / 通义千问",
+            "Damo Academy (达摩院)",
+            "Science",
+            "Gemini (Google)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://www.huxiu.com/ainews/15144.html",
+            "evidence_note": "彭博官网直连被JS墙拦截；彭博“Top Business”9/20综述收录该发布，细节经虎嗅等中文科技媒体（9/18上线）交叉验证。产品发布稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "b2",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "TikTok developer ByteDance profit drops as AI spending weighs",
+          "title_zh": "字节上半年净利降至约200亿美元：AI基建烧钱挤压利润",
+          "published_at": "2026-09-20",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "字节跳动",
+            "TikTok",
+            "AI投入",
+            "利润承压",
+            "资本开支",
+            "云"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博/The Information 报道：受AI基础设施投入拖累，字节跳动2026年上半年净利润降至约200亿美元（同比个位数百分点下滑），营收约1200亿美元（同比+30%）；海外收入占比升至逾30%（2024年为25%）。为支撑不断膨胀的AI投入，字节近期从近30家银行获得约296亿美元银团贷款（据路透，AI投资是借款重要驱动，部分用于芯片与海外数据中心）。彭博5月曾报道其2026年AI相关资本开支上限或达700亿美元。",
+          "china_angle": "中国科技巨头行至“规模扩张 vs AI投入”的十字路口：营收比肩Meta、海外占比新高，但AI基建重资产模式短期压制利润与净利率（上半年约16.7%）。这既是国产大模型/视频/云军备竞赛的成本侧写照，也折射融资—算力—回报的闭环尚未跑通。",
+          "stance": "neutral",
+          "source_url": "https://finance.yahoo.com/technology/ai/articles/tiktok-developer-bytedance-profit-drops-142800788.html",
+          "body_available": true,
+          "body_zh": "彭博/The Information：字节上半年净利约200亿美元（同比个位数下滑）、营收约1200亿美元（+30%），海外占比逾30%。为撑AI投入，近期从近30家银行获约296亿美元银团贷款（路透：AI投资驱动，部分用于芯片与海外数据中心）。彭博5月报其2026年AI资本开支上限或700亿美元。",
+          "cited_sources": [
+            "ByteDance (字节跳动)",
+            "The Information",
+            "Bloomberg",
+            "Reuters (银团贷款)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg / The Information",
+            "evidence_url": "https://finance.yahoo.com/technology/ai/articles/tiktok-developer-bytedance-profit-drops-142800788.html",
+            "evidence_note": "彭博官网直连被JS墙拦截；经 Yahoo Finance（综合彭博/The Information）取全文。该稿为媒体合成（The Information 泄露+彭博贷款报道），无单一个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "b3",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China opens probes into four online travel booking platforms",
+          "title_zh": "四家酒旅平台被立案：平台经济“常态化监管”从反垄断走向反不正当竞争",
+          "published_at": "2026-09-20",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "平台经济",
+            "反垄断",
+            "反不正当竞争",
+            "飞猪",
+            "同程",
+            "途家",
+            "美团",
+            "常态化监管"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社报道（9月19日通报）：北京市市场监督管理局依据《反不正当竞争法》《电子商务法》，对杭州淘美航空服务（飞猪）、同程网络科技（同程旅行）、途家在线（途家民宿）、北京三快信息（美团酒旅）四家涉嫌相关违法行为的公司立案调查。四家均表态配合。此次适用反不正当竞争法/电商法（不以市场支配地位为前提），执法门槛显著低于此前携程反垄断案（罚没51.79亿元）；关联9月15日总局与文旅部行政指导会“以案为鉴”。",
+          "china_angle": "平台经济监管从“包容审慎”转向“常态化”：约谈—指导—立案—处罚成为标准动作，且从反垄断（需支配地位）扩至反不正当竞争（门槛更低），意味着即便非行业老大也可能被查。这是“反内卷”在平台侧的落地，关乎算法透明、费率规范与商户权益。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-19/china-opens-probes-four-online-travel-booking-platforms",
+          "body_available": true,
+          "body_zh": "彭博（9/19通报）：北京市监局依《反不正当竞争法》《电子商务法》对飞猪(杭州淘美)、同程、途家、美团酒旅四家立案调查，四家均配合。此次适用反不正当竞争/电商法（不以支配地位为前提），门槛低于携程反垄断案（罚没51.79亿）；关联9/15总局文旅部指导会。",
+          "cited_sources": [
+            "北京市市场监督管理局",
+            "杭州淘美/飞猪",
+            "同程旅行",
+            "途家",
+            "美团酒旅",
+            "中国饭店协会"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://www.163.com/dy/article/L7734R6405199NPP.html",
+            "evidence_note": "彭博官网直连被JS墙拦截；经 21世纪经济报道/网易 取全文细节（9/19 17:08）。彭博 China Focus 条目“China opens probes into four online travel booking platforms / By Bloomberg”。机构稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r1",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's yuan strengthens past 6.7 per dollar, best since January 2023",
+          "title_zh": "人民币升破6.7：在岸离岸双破关口，创2023年1月以来最强",
+          "published_at": "2026-09-20",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "人民币汇率",
+            "在岸",
+            "离岸",
+            "美元",
+            "资本流动",
+            "出口韧性"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透/彭博报道：9月18日在岸、离岸人民币兑美元双双升破6.7关口，创2023年1月以来最强；年内人民币兑美元升值逾4%。中间价报6.7521，为连续第八个交易日调强。支撑因素包括出口韧性（连续三月单月进出口超4.5万亿元）、美元走弱与中美利差“脱敏”；但亦引发对出口企业汇兑损益与外贸竞争力的关注。",
+          "china_angle": "人民币走强是“出口韧性+美元走弱+资本管控”的组合结果，亦折射中美利差走阔下人民币“脱敏”的持续；但强势汇率对出口企业结汇与 competitiveness 构成双面影响，是观察外贸与货币政策权衡的窗口。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/markets/china-yuan-breaks-6-7-strongest-since-jan-2023-2026-09-18/",
+          "body_available": true,
+          "body_zh": "路透/彭博：9/18在岸、离岸人民币双破6.7，创2023年1月以来最强，年内兑美元升逾4%；中间价6.7521，连续第八日调强。支撑来自出口韧性、美元走弱与利差脱敏；亦引发对出口企业汇兑与竞争力的关注。",
+          "cited_sources": [
+            "中国外汇交易中心",
+            "Reuters / Bloomberg",
+            "PBoC"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://xueqiu.com/1021113906/409918595",
+            "evidence_note": "路透官网直连被JS墙拦截；经 雪球《全球及中国财经要闻综述(2026.09.20)》与华尔街见闻等交叉确认（9/18在岸离岸双破6.7、年内升逾4%）。机构市场稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 4,
+        "by_media": {
+          "彭博社": 3,
+          "路透社": 1
+        },
+        "sentiment_split": {
+          "negative": 0,
+          "neutral": 4,
+          "positive": 0
+        },
+        "negatives": [],
+        "top_topics": [
+          [
+            "阿里巴巴",
+            1
+          ],
+          [
+            "通义千问",
+            1
+          ],
+          [
+            "Qwen",
+            1
+          ],
+          [
+            "全模态",
+            1
+          ],
+          [
+            "Agent",
+            1
+          ],
+          [
+            "AI模型",
+            1
+          ]
+        ],
+        "key_takeaway": "阿里发布Qwen3.8-Omni-Flash：百万上下文+音视频API降价超九成"
+      },
+      "questions": [
+        {
+          "title": "阿里Qwen3.8-Omni-Flash发布：全模态Agent“降本+长上下文”路线的中国样本",
+          "trigger": "9月20日彭博报道，阿里发布原生全模态模型Qwen3.8-Omni-Flash，支持1M上下文、30项评测较上代平均+26%，每小时音频输入API降价超98%、音视频降约93%。",
+          "background": "Qwen3.8以“长上下文+超低价+全模态Agent”路线，是中国大模型从“堆参数”转向“效率与可执行性”的样本；音视频API降价超九成直接压低多模态应用门槛，与DeepSeek效率路线呼应，亦加剧与Gemini/Claude的性价比竞争。达摩院同期在《Science》发表通用医学影像AI。",
+          "value": "全模态Agent的“降本”路线决定多模态应用的普及速度：低价+长上下文若兑现，将加速会议、影视、短视频翻译等端到端工作流落地；亦是中国大模型全球性价比竞争与开源生态的关键变量。",
+          "evidence": [
+            {
+              "media": "Bloomberg",
+              "date": "2026-09-20",
+              "title": "Alibaba introduces next-generation Qwen3.8-Omni-Flash model",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-18/alibaba-unveils-qwen3-8-omni-flash-model"
+            }
+          ],
+          "type": "AI模型/全模态",
+          "urgency": "中",
+          "source_type": "彭博",
+          "angles": [
+            "音视频API降价对应用生态的影响",
+            "与Gemini/Claude的性价比",
+            "达摩院医学影像AI的商业化"
+          ],
+          "watch": [
+            "Qwen3.8实际调用量与口碑",
+            "后续Qwen4架构预告",
+            "开源权重发布节奏"
+          ],
+          "tags": [
+            "阿里巴巴",
+            "Qwen",
+            "全模态",
+            "Agent",
+            "降本"
+          ],
+          "id": "q-2026-09-20-1",
+          "rank": 1
+        },
+        {
+          "title": "字节上半年净利降至约200亿美元：AI基建烧钱挤压利润，中国科技资本开支拐点",
+          "trigger": "9月20日彭博/The Information 报道，受AI基础设施投入拖累，字节上半年净利约200亿美元（同比个位数下滑）、营收约1200亿美元（+30%），海外占比逾30%；近期获约296亿美元银团贷款支撑AI投入。",
+          "background": "中国科技巨头行至“规模扩张 vs AI投入”十字路口：营收比肩Meta、海外占比新高，但AI重资产模式短期压制利润（净利率约16.7%）。这既是国产大模型/视频/云军备竞赛的成本侧写照，也折射融资—算力—回报闭环尚未跑通；彭博5月报其2026年AI资本开支上限或700亿美元。",
+          "value": "字节利润承压是中国AI资本开支周期的微观样本：若头部大厂普遍“增收不增利”，将影响后续融资节奏、算力采购与AI云定价，亦关乎估值与资本市场对AI投入回报的耐心。",
+          "evidence": [
+            {
+              "media": "Bloomberg",
+              "date": "2026-09-20",
+              "title": "TikTok developer ByteDance profit drops as AI spending weighs",
+              "url": "https://finance.yahoo.com/technology/ai/articles/tiktok-developer-bytedance-profit-drops-142800788.html"
+            }
+          ],
+          "type": "AI资本开支/科技财报",
+          "urgency": "高",
+          "source_type": "彭博/The Information",
+          "angles": [
+            "AI资本开支上限与回报周期",
+            "银团贷款对算力采购的支撑",
+            "净利率下滑对估值的压力"
+          ],
+          "watch": [
+            "字节后续财报与AI支出指引",
+            "其他大厂(阿里/腾讯)AI投入回报",
+            "芯片与数据中心采购数据"
+          ],
+          "tags": [
+            "字节跳动",
+            "AI投入",
+            "利润承压",
+            "资本开支"
+          ],
+          "id": "q-2026-09-20-2",
+          "rank": 2
+        },
+        {
+          "title": "四家酒旅平台被立案：平台经济“常态化监管”从反垄断走向反不正当竞争",
+          "trigger": "9月19–20日彭博报道，北京市监局依《反不正当竞争法》《电子商务法》对飞猪、同程、途家、美团酒旅四家立案调查，四家均配合。",
+          "background": "平台经济监管从“包容审慎”转向“常态化”：约谈—指导—立案—处罚成标准动作，且从反垄断（需市场支配地位）扩至反不正当竞争（门槛更低），意味着即便非行业老大也可能被查。这是“反内卷”在平台侧落地，关乎算法透明、费率规范与商户权益；关联9月15日总局文旅部行政指导会。",
+          "value": "酒旅平台立案是观察平台经济监管演化的风向标：执法基准下移（反不正当竞争）将提高全行业合规成本，影响平台费率、商户生态与消费体验；亦关乎“反内卷”政策在平台侧的实质落地。",
+          "evidence": [
+            {
+              "media": "Bloomberg",
+              "date": "2026-09-19",
+              "title": "China opens probes into four online travel booking platforms",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-19/china-opens-probes-four-online-travel-booking-platforms"
+            }
+          ],
+          "type": "平台经济/监管",
+          "urgency": "中",
+          "source_type": "彭博",
+          "angles": [
+            "反不正当竞争执法基准",
+            "费率与算法透明度",
+            "与携程反垄断案的衔接"
+          ],
+          "watch": [
+            "四家平台调查结论",
+            "其他平台（电商/本地生活）类比",
+            "总局后续指导会"
+          ],
+          "tags": [
+            "平台经济",
+            "反不正当竞争",
+            "飞猪",
+            "同程",
+            "美团"
+          ],
+          "id": "q-2026-09-20-3",
+          "rank": 3
+        }
+      ]
+    },
+    "2026-09-19": {
+      "file": "2026-09-19.json",
+      "scan_time": "2026-09-19T18:00:00+08:00",
+      "window": "2026-09-19T00:00:00+08:00 ~ 2026-09-19T18:00:00+08:00",
+      "coverage": {
+        "reuters": {
+          "captured": 2,
+          "with_author": 2,
+          "with_fulltext": 2,
+          "note": "通道A官网直连被JS墙拦截→通道C WebSearch + Sun Herald（路透 syndication，含 Reporting by David Lawder）+ Techmeme（Kane Wu / Reuters）补全。2篇均取得真实署名（r1=David Lawder；r2=Kane Wu）。"
+        },
+        "bloomberg": {
+          "captured": 2,
+          "with_author": 1,
+          "with_fulltext": 2,
+          "note": "通道A官网直连被JS墙拦截→通道C WebSearch + Bloomberg Law + Techmeme（Nectar Gan / Bloomberg）补全。b2取得真实署名（Nectar Gan）；b1为 Bloomberg News 机构稿，authors_status=not_available，未编造。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "r1",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
+          "title_zh": "贝森特与格里尔周日纽约会晤何立峰：特朗普—习近平峰会前的经贸预备会",
+          "published_at": "2026-09-19",
+          "published_precision": "date",
+          "authors": [
+            "David Lawder"
+          ],
+          "author_locations": [
+            "Washington"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "中美经贸",
+            "何立峰",
+            "贝森特",
+            "格里尔",
+            "特朗普—习近平峰会",
+            "稀土",
+            "AI安全"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社9月19日报道（David Lawder）：美国财政部长斯科特·贝森特将于周日（9月20日）在纽约摩根大通总部与中国国务院副总理何立峰会晤，讨论AI安全、贸易及其他经济议题；美国贸易代表格里尔将一同出席。此次曼哈顿会谈距特朗普周四起在白宫接待习近平仅数日，定于美东时间周日上午10:30。会谈被定位为两国元首华盛顿峰会（9月24日）的铺垫，议题据报涵盖关税休战、稀土与AI模型治理（开源/闭源权重处理）。何立峰9月19–23日访美。",
+          "china_angle": "中美经贸进入“元首峰会前密集预备”阶段：关税休战、稀土、AI安全被并列摆上桌面，模型治理首次与关税同场讨论，预示AI竞合将成为峰会核心议题之一； venue 选在商业银行总部亦显非正式与高安保特征。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/us/china-he-lifeng-bessent-meet-new-york-2026-09-19/",
+          "body_available": true,
+          "body_zh": "路透9月19日（David Lawder）：美财长贝森特周日（9/20）于纽约摩根大通总部会晤何立峰，讨论AI安全、贸易与经济议题；贸易代表格里尔同席。会谈为特朗普—习近平9/24华盛顿峰会铺垫，议题含关税休战、稀土与AI模型治理。何立峰9/19–23访美。",
+          "cited_sources": [
+            "Scott Bessent (美财长)",
+            "Jamieson Greer (美贸易代表)",
+            "He Lifeng (何立峰, 中国副总理)",
+            "JPMorgan Chase",
+            "Reuters (David Lawder)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.sunherald.com/news/business/article317307965.html",
+            "evidence_note": "路透官网直连被JS墙拦截；经 Sun Herald（路透 syndication）取全文+真实署名（Reporting by David Lawder；Editing by Sergio Non and Rod Nickel），9/19 13:34 EDT。"
+          }
+        },
+        {
+          "id": "b2",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Trump administration has few good options to slow China's AI rise",
+          "title_zh": "彭博：美方遏制中国AI崛起“可选工具寥寥”，稀土限制成两难",
+          "published_at": "2026-09-19",
+          "published_precision": "date",
+          "authors": [
+            "Nectar Gan"
+          ],
+          "author_locations": [
+            "Hong Kong"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "中美AI竞争",
+            "出口管制",
+            "稀土",
+            "AI谈判",
+            "技术遏制"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社（Nectar Gan）报道：在中美AI会谈前夕，特朗普政府用以放缓中国AI崛起的可选工具寥寥，尤其在其试图避免进一步收紧稀土限制之际陷入两难——稀土既是美方可考虑的杠杆，过度使用又会推高自身产业成本并加速中国自主。文章指，AI治理（开源/闭源权重）正被纳入经贸预备会谈，与关税并列。这与贝森特—格里尔—何立峰纽约会谈的议程相互印证。",
+          "china_angle": "美方承认“遏制工具有限”，是中美AI竞合态势的转折性信号：稀土从“武器”变为“双刃剑”，模型治理被摆上谈判桌。这既是中国AI自主化阶段性成果的体现，也预示峰会后管制可能从“全面打压”转向“精准+谈判”模式。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-19/trump-administration-few-good-options-slow-china-ai-rise",
+          "body_available": true,
+          "body_zh": "彭博（Nectar Gan）：中美AI会谈前夕，美方放缓中国AI崛起的可选工具寥寥，避免进一步收紧稀土限制之际陷入两难——稀土是杠杆也是双刃剑。AI治理（开源/闭源权重）被纳入预备会谈，与关税并列，印证贝森特—格里尔—何立峰纽约议程。",
+          "cited_sources": [
+            "Bloomberg (Nectar Gan)",
+            "White House",
+            "USTR"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://tech.memeorandum.com/river",
+            "evidence_note": "彭博官网直连被JS墙拦截；经 Techmeme 聚合（Nectar Gan / Bloomberg，6:35 AM 条目“The Trump administration has few good options to slow China's AI rise… ahead of US-China AI talks”）确认署名。"
+          }
+        },
+        {
+          "id": "r2",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Anew Labs, ByteDance spinoff using AI for drug discovery, raises $290 million",
+          "title_zh": "字节系Anew Labs完成3亿美元融资：AI+生物医药“硬科技”资本化提速",
+          "published_at": "2026-09-19",
+          "published_precision": "date",
+          "authors": [
+            "Kane Wu"
+          ],
+          "author_locations": [
+            "Hong Kong"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "Anew Labs",
+            "字节跳动",
+            "AI制药",
+            "生物医药",
+            "VC融资",
+            "硬科技"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社（Kane Wu）报道：总部位于上海的 Anew Labs——一家利用AI进行药物发现的字节跳动分拆公司——已从红杉中国（HSG）、IDG资本等投资者处募集2.9亿美元，估值达15亿美元。这显示中国“AI+生物医药”赛道在智谱、MiniMax等AI企业密集登陆资本市场之外，正成为硬科技资本化的新热点；分拆与融资模式体现大厂以孵化+外部资本撬动前沿应用的路径。",
+          "china_angle": "“AI+生物医药”是中国硬科技资本化的新支点：继大模型公司涌向港股/科创板后，AI制药分拆获巨额融资，体现资本从模型层下沉到垂直应用层；亦折射字节系在AI全产业链（模型、视频、制药）的布局扩张。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/technology/ai-drug-discovery/anew-labs-bytedance-spinoff-raises-290-million-2026-09-19/",
+          "body_available": true,
+          "body_zh": "路透（Kane Wu）：上海AI制药公司Anew Labs（字节分拆）募资2.9亿美元、估值15亿美元，投资方含红杉中国(HSG)、IDG资本。中国“AI+生物医药”成硬科技资本化新热点，体现大厂孵化+外部资本撬动前沿应用的路径。",
+          "cited_sources": [
+            "Anew Labs",
+            "ByteDance (字节跳动)",
+            "HSG (红杉中国)",
+            "IDG Capital",
+            "Reuters (Kane Wu)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://tech.memeorandum.com/river",
+            "evidence_note": "路透官网直连被JS墙拦截；经 Techmeme 聚合（Kane Wu / Reuters，2:00 AM 条目“Shanghai-based Anew Labs… raised $290M from HSG, IDG Capital… at a $1.5B valuation”）确认署名与金额。"
+          }
+        },
+        {
+          "id": "b1",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China Slams US Law Tightening Sanctions on Russia and Iran",
+          "title_zh": "中国反对美国强化对俄伊制裁法案：次级制裁博弈成中美关系新摩擦点",
+          "published_at": "2026-09-19",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "中美关系",
+            "制裁",
+            "次级制裁",
+            "俄罗斯",
+            "伊朗",
+            "商务部"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社9月19日报道（Bloomberg News）：中国批评美国新近签署、强化对俄制裁并将对伊贸易措施延展的法律。中国商务部发言人在周六发布的声明中称，中方“一贯反对”单边制裁与所谓次级制裁，反对外交上缺乏联合国授权或国际法依据的制裁，将密切跟踪美方下一步并保留采取一切必要措施维护主权、发展利益的权利。该法案由特朗普周五签署，正值中美经贸预备会谈与元首峰会前夕，可能成为双边关系新摩擦点。",
+          "china_angle": "美方以“制裁俄罗斯和伊朗”为名的次级制裁，直接触及中国与俄伊的正常经贸；中方的反制表态与中美经贸预备会谈同期，凸显“制裁外溢”正成为中美关系新摩擦点，亦关联稀土、AI等峰会议题的博弈筹码。",
+          "stance": "neutral",
+          "source_url": "https://news.bloomberglaw.com/banking-law/china-slams-us-law-tightening-sanctions-on-russia-and-iran",
+          "body_available": true,
+          "body_zh": "彭博9月19日（Bloomberg News）：中国批评美国新签署、强化对俄制裁并延展对伊贸易措施的法律。商务部声明“一贯反对”单边与次级制裁，保留采取必要措施权利。法案由特朗普周五签署，适逢中美预备会谈与峰会前夕。",
+          "cited_sources": [
+            "中国商务部",
+            "Bloomberg News",
+            "White House (Trump)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://news.bloomberglaw.com/banking-law/china-slams-us-law-tightening-sanctions-on-russia-and-iran",
+            "evidence_note": "彭博官网直连被JS墙拦截；经 Bloomberg Law（彭博供稿）取全文。署名为 Bloomberg News 机构稿，无个人记者，authors_status=not_available，未编造。"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 4,
+        "by_media": {
+          "路透社": 2,
+          "彭博社": 2
+        },
+        "sentiment_split": {
+          "negative": 0,
+          "neutral": 4,
+          "positive": 0
+        },
+        "negatives": [],
+        "top_topics": [
+          [
+            "稀土",
+            2
+          ],
+          [
+            "中美经贸",
+            1
+          ],
+          [
+            "何立峰",
+            1
+          ],
+          [
+            "贝森特",
+            1
+          ],
+          [
+            "格里尔",
+            1
+          ],
+          [
+            "特朗普—习近平峰会",
+            1
+          ]
+        ],
+        "key_takeaway": "贝森特与格里尔周日纽约会晤何立峰：特朗普—习近平峰会前的经贸预备会"
+      },
+      "questions": [
+        {
+          "title": "贝森特+格里尔纽约会晤何立峰：特朗普—习近平峰会前的七大经贸议程",
+          "trigger": "9月19日路透（David Lawder）报道，美财长贝森特、贸易代表格里尔将于9月20日在纽约摩根大通总部会晤何立峰，为9月24日特朗普—习近平华盛顿峰会铺垫，议题含关税休战、稀土与AI模型治理。",
+          "background": "中美经贸进入元首峰会前密集预备阶段。关税休战、稀土、AI安全被并列摆上桌面，模型治理首次与关税同场讨论，标志AI竞合成为峰会核心议题之一。何立峰9月19–23日访美，会谈在联合国大会周高安保背景下于商业银行总部进行，显非正式与务实特征。",
+          "value": "此次预备会是预判峰会成果与中美经贸走向的关键窗口：稀土是否官方层面敲定、AI治理能否达成框架、关税休战是否延长，直接决定下半年双边经贸与科技管制节奏。",
+          "evidence": [
+            {
+              "media": "Reuters",
+              "date": "2026-09-19",
+              "title": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
+              "url": "https://www.reuters.com/world/us/china-he-lifeng-bessent-meet-new-york-2026-09-19/"
+            }
+          ],
+          "type": "中美经贸",
+          "urgency": "高",
+          "source_type": "路透",
+          "angles": [
+            "稀土议题是否官方落地",
+            "AI开源/闭源权重治理框架",
+            "关税休战延长与否"
+          ],
+          "watch": [
+            "9/20会谈公报",
+            "峰会前是否有关税动作",
+            "稀土出口管制调整"
+          ],
+          "tags": [
+            "中美经贸",
+            "何立峰",
+            "贝森特",
+            "稀土",
+            "AI安全"
+          ],
+          "id": "q-2026-09-19-1",
+          "rank": 1
+        },
+        {
+          "title": "字节系Anew Labs融资3亿美元：中国AI+生物医药“硬科技”资本化提速",
+          "trigger": "9月19日路透（Kane Wu）报道，上海AI制药公司Anew Labs（字节分拆）募资2.9亿美元、估值15亿美元，投资方含红杉中国、IDG资本。",
+          "background": "继智谱、MiniMax等大模型公司密集登陆港股/科创板后，“AI+生物医药”成为中国硬科技资本化新热点。Anew Labs以分拆+外部融资模式，体现大厂以孵化撬动前沿应用的路径；亦折射字节在AI全产业链（模型、视频、制药）的布局扩张。",
+          "value": "AI制药是观测中国硬科技资本化从“模型层”下沉到“垂直应用层”的切口；分拆融资热度预示AI+生物制造的资本开支与估值锚正在形成，亦关乎美国对生物数据/AI的双重审查。",
+          "evidence": [
+            {
+              "media": "Reuters",
+              "date": "2026-09-19",
+              "title": "Anew Labs, ByteDance spinoff using AI for drug discovery, raises $290 million",
+              "url": "https://www.reuters.com/technology/ai-drug-discovery/anew-labs-bytedance-spinoff-raises-290-million-2026-09-19/"
+            }
+          ],
+          "type": "AI资本化/生物医药",
+          "urgency": "中",
+          "source_type": "路透",
+          "angles": [
+            "AI制药估值锚",
+            "大厂分拆+外部资本模式",
+            "生物数据跨境审查风险"
+          ],
+          "watch": [
+            "Anew Labs后续轮次",
+            "其他AI制药分拆融资",
+            "监管对AI生物数据要求"
+          ],
+          "tags": [
+            "Anew Labs",
+            "字节跳动",
+            "AI制药",
+            "硬科技"
+          ],
+          "id": "q-2026-09-19-2",
+          "rank": 2
+        },
+        {
+          "title": "中国反对美《制裁俄伊法案》：次级制裁博弈成中美关系新摩擦点",
+          "trigger": "9月19日彭博（Bloomberg News）报道，中国批评美国新签署、强化对俄制裁并延展对伊贸易措施的法律，商务部称“一贯反对”单边与次级制裁并保留采取措施权利。",
+          "background": "美方以“制裁俄罗斯和伊朗”为名的次级制裁，直接触及中国与俄伊正常经贸。中方反制表态与中美经贸预备会谈、元首峰会同期，凸显“制裁外溢”正成为双边关系新摩擦点，亦关联稀土、AI等峰会议题的博弈筹码。",
+          "value": "次级制裁是中美关系的新变量：其走向影响中国与俄伊贸易空间、人民币结算与能源安全，也将成为峰会博弈的隐性筹码；持续追踪可预判中方反制工具箱与双边摩擦阈值。",
+          "evidence": [
+            {
+              "media": "Bloomberg",
+              "date": "2026-09-19",
+              "title": "China Slams US Law Tightening Sanctions on Russia and Iran",
+              "url": "https://news.bloomberglaw.com/banking-law/china-slams-us-law-tightening-sanctions-on-russia-and-iran"
+            }
+          ],
+          "type": "中美关系/制裁",
+          "urgency": "中",
+          "source_type": "彭博",
+          "angles": [
+            "次级制裁适用范围",
+            "中方反制工具箱",
+            "与稀土/AI议题的联动"
+          ],
+          "watch": [
+            "商务部后续表态",
+            "峰会前制裁相关动作",
+            "中俄/中伊贸易数据"
+          ],
+          "tags": [
+            "中美关系",
+            "次级制裁",
+            "俄罗斯",
+            "伊朗"
+          ],
+          "id": "q-2026-09-19-3",
+          "rank": 3
+        }
+      ]
+    },
+    "2026-09-18": {
+      "file": "2026-09-18.json",
+      "scan_time": "2026-09-18T18:00:00+08:00",
+      "window": "2026-09-18T00:00:00+08:00 ~ 2026-09-18T18:00:00+08:00",
+      "coverage": {
+        "reuters": {
+          "captured": 2,
+          "with_author": 2,
+          "with_fulltext": 2,
+          "note": "通道A官网直连被JS墙拦截→通道C WebSearch + The Edge Malaysia（路透 China Focus syndication）补全标题/署名/正文。2篇均取得真实署名（r1=Qiaoyi Li & Liz Lee；r2为机构/空管通告复核稿，无个人署名）。"
+        },
+        "bloomberg": {
+          "captured": 2,
+          "with_author": 0,
+          "with_fulltext": 2,
+          "note": "通道A官网直连被JS墙拦截→通道C WebSearch + Yahoo Finance/彭博供稿 + The Edge Malaysia 补全。2篇均为机构稿（财政测算、PE出价），无个人署名，authors_status=not_available，未编造。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "r1",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "BYD to recall over 180,000 cars over brake pedal risk, China's regulator says",
+          "title_zh": "比亚迪将召回逾18万辆车：制动踏板部件缺陷触发监管责令",
+          "published_at": "2026-09-18",
+          "published_precision": "date",
+          "authors": [
+            "Qiaoyi Li",
+            "Liz Lee"
+          ],
+          "author_locations": [
+            "Beijing",
+            "Beijing"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "比亚迪",
+            "电动车",
+            "质量召回",
+            "新能源汽车",
+            "安全监管"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社9月18日北京电（Qiaoyi Li、Liz Lee）：中国市场监管总局表示，电动车制造商比亚迪将立即召回逾18万辆汽车，以消除影响制动踏板部件的一项制造缺陷。这是比亚迪年内迄今规模最大的一次主动召回，涉及车型与具体缺陷细节由监管通报披露。召回凸显中国电动车龙头在产能高速扩张与出海提速背景下的质量与安全管理压力。",
+          "china_angle": "比亚迪是中国电动车出海的旗舰企业，单次大规模召回既是质量管控信号，也可能在其欧洲/东南亚建厂与欧盟本地含量规则博弈中被对手方援引；质量口碑关乎中国电动车整体出海声誉。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/byd-recall-over-180000-cars-brake-pedal-2026-09-18/",
+          "body_available": true,
+          "body_zh": "路透9月18日（Qiaoyi Li、Liz Lee）：市场监管总局责令比亚迪立即召回逾18万辆车，缺陷位于制动踏板部件。为比亚迪年内最大规模主动召回，涉及车型与批次由通报明确。召回发生在比亚迪加速出海、于欧洲寻觅产能之际，质量与安全管控受关注。",
+          "cited_sources": [
+            "比亚迪 BYD",
+            "中国国家市场监督管理总局",
+            "Reuters (Qiaoyi Li, Liz Lee)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
+            "evidence_note": "路透官网直连被JS墙拦截；经 The Edge Malaysia（路透 China Focus  syndication）取全文+真实署名（Qiaoyi Li、Liz Lee，9/18 04:37pm 条目）。"
+          }
+        },
+        {
+          "id": "b1",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China's Fiscal Pullback Stretches Into August as Spending Slumps",
+          "title_zh": "财政撤力延伸至8月：广义支出降幅扩大，内需疲弱下的刺激两难",
+          "published_at": "2026-09-18",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "财政",
+            "广义支出",
+            "内需不足",
+            "经济增长目标",
+            "宏观政策"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社9月18日报道（基于财政部数据测算）：中国广义预算支出8月同比下降6.7%，降幅较7月的4.4%扩大；广义收入增长2.9%，财政赤字当月收窄约五分之一，前8个月赤字达5.5万亿元（约8210亿美元）。支出撤力部分解释了8月内需持续疲弱——消费近乎停增、投资继续下滑。政策制定者正观察经济表现以评估是否需追加刺激以实现4.5%–5%的年度增长目标；迄今侧重加快既有预算资金运用而非推出新支持措施。中金测算年内剩余待发政府债约占GDP的1.1%。",
+          "china_angle": "“收多支少”与内需疲弱形成镜像：在生产强、外需强、新动能强的同时，终端消费与传统投资仍弱。是否加码刺激、如何在防债务与稳增长间平衡，是下半年宏观主线；亦与“反内卷/去产能”和平台常态化监管共同构成政策组合。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-18/china-fiscal-pullback-stretches-into-august-as-spending-slumps",
+          "body_available": true,
+          "body_zh": "彭博（基于财政部测算）9月18日：广义预算支出8月同比-6.7%（7月-4.4%），收入+2.9%，赤字当月收窄约1/5，前8个月赤字5.5万亿元。支出撤力解释了8月内需疲弱（消费近停增、投资下滑）。政策层评估是否追加刺激以实现4.5%–5%目标，目前侧重既有资金提速而非新刺激；中金测算剩余待发政府债约GDP的1.1%。",
+          "cited_sources": [
+            "中国财政部",
+            "Bloomberg（基于财政部数据测算）",
+            "中国国际金融股份有限公司 CICC (苗燕亮/Miao Yanliang)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://finance.yahoo.com/economy/policy/articles/china-fiscal-pullback-stretches-august-104301620.html",
+            "evidence_note": "彭博官网直连被JS墙拦截；经 Yahoo Finance（彭博供稿）取全文。署名为 Bloomberg（机构测算稿），无个人记者，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r2",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China creates Italy-sized no-fly zone around Beijing after rare crash",
+          "title_zh": "北京周边设“意大利大小”禁飞区：小型飞机撞楼事件后空域安保升级",
+          "published_at": "2026-09-18",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "北京",
+            "空域安全",
+            "禁飞区",
+            "低空安全",
+            "重大活动安保"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社9月18日报道：在中国，一架小型飞机此前撞入首都最高建筑后数月，中方正设立一片面积约相当于意大利、以北京为中心的永久“特别限制区”（Special Restricted Area），半径约600公里，自9月20日起生效，仅允许商业、获批商务与紧急航班通行。该空域通告归于北京空管部门，并经美国联邦航空管理局（FAA）公开 NOTAM 检索系统复核，由路透查阅确认。",
+          "china_angle": "低空安全与重大活动（联合国大会周、国庆）叠加下的空域管控升级，反映城市低空与高层地标安防的新课题；属国内治理维度，非地缘议题。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/china-no-fly-zone-beijing-special-restricted-area-2026-09-18/",
+          "body_available": true,
+          "body_zh": "路透9月18日：一架小型飞机撞入北京最高建筑后，中方将自9月20日起设立以北京为中心、半径约600公里的永久“特别限制区”，面积约意大利大小，仅放行商业/获批商务/紧急航班。空域通告经 FAA 公开 NOTAM 系统复核。",
+          "cited_sources": [
+            "北京空管部门",
+            "美国联邦航空管理局 FAA (NOTAM)",
+            "Reuters"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
+            "evidence_note": "路透官网直连被JS墙拦截；经 The Edge Malaysia（路透 China Focus）取全文。该稿为机构/空管通告复核稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "b2",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "PE firms said to consider fresh bids for China Evergrande unit",
+          "title_zh": "PE机构据报考虑对恒大物业提出新出价：出清地产风险资产最后一搏",
+          "published_at": "2026-09-18",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "恒大",
+            "房地产风险",
+            "物业板块",
+            "PE并购",
+            "出清"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社9月18日报道：此前围绕恒大物业（Evergrande Property Services Group，中国香港上市）徘徊的私募股权机构，正考虑对该中国香港上市物业管理业务提出新的出价。据知情人士称，相关方在早前一轮接触后重新评估报价。恒大体系风险出清仍是中国房地产Completed调整的焦点之一，物业板块因现金流相对稳定成为少数仍具吸引力的资产。",
+          "china_angle": "恒大风险化解进入“资产出清”深水区：物业等相对优质板块被PE盯上，反映地产风险定价与处置仍在推进；亦折射中国房地产从“保交楼”向“资产重组”阶段的过渡。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-18/pe-firms-consider-fresh-bids-china-evergrande-property-services",
+          "body_available": true,
+          "body_zh": "彭博9月18日：此前关注恒大物业（中国香港上市）的PE机构正考虑提出新出价。据知情人士，早前一轮接触后重新评估。恒大体系风险出清仍是中国房地产调整焦点，物业板块因现金流稳定成为少数具吸引力资产。",
+          "cited_sources": [
+            "Evergrande Property Services (恒大物业)",
+            "Bloomberg (sources)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://www.theedgemarkets.com/flash-categories/china-focus",
+            "evidence_note": "彭博官网直连被JS墙拦截；经 The Edge Malaysia（彭博 China Focus）取全文。机构稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 4,
+        "by_media": {
+          "路透社": 2,
+          "彭博社": 2
+        },
+        "sentiment_split": {
+          "negative": 0,
+          "neutral": 4,
+          "positive": 0
+        },
+        "negatives": [],
+        "top_topics": [
+          [
+            "比亚迪",
+            1
+          ],
+          [
+            "电动车",
+            1
+          ],
+          [
+            "质量召回",
+            1
+          ],
+          [
+            "新能源汽车",
+            1
+          ],
+          [
+            "安全监管",
+            1
+          ],
+          [
+            "北京",
+            1
+          ]
+        ],
+        "key_takeaway": "比亚迪将召回逾18万辆车：制动踏板部件缺陷触发监管责令"
+      },
+      "questions": [
+        {
+          "title": "比亚迪大规模召回逾18万辆：中国电动车质量与出海声誉的警示",
+          "trigger": "9月18日路透报道，中国市场监管总局责令比亚迪立即召回逾18万辆汽车，缺陷位于制动踏板部件，为比亚迪年内最大规模主动召回。",
+          "background": "比亚迪是中国电动车出海旗舰，正于欧洲寻觅产能以规避欧盟本地含量规则。单次大规模召回既是质量与安全管控信号，也可能被竞争对手在贸易与合规博弈中援引。质量口碑关乎中国电动车整体出海声誉，值得持续跟踪其欧洲/东南亚布局与监管反馈。",
+          "value": "召回是观测中国电动车“规模扩张—质量管控”张力的切口：若演变为趋势，将影响出口合规、品牌溢价与海外建厂节奏；也关乎“反内卷”语境下车企是否以质量换份额。",
+          "evidence": [
+            {
+              "media": "Reuters",
+              "date": "2026-09-18",
+              "title": "BYD to recall over 180,000 cars over brake pedal risk",
+              "url": "https://www.reuters.com/world/china/byd-recall-over-180000-cars-brake-pedal-2026-09-18/"
+            }
+          ],
+          "type": "电动车/质量出海",
+          "urgency": "中",
+          "source_type": "路透",
+          "angles": [
+            "召回涉及车型与批次",
+            "欧洲监管与消费者反馈",
+            "与欧盟本地含量规则的联动"
+          ],
+          "watch": [
+            "比亚迪官方召回公告明细",
+            "欧盟/东南亚监管表态",
+            "月度出口与海外交付数据"
+          ],
+          "tags": [
+            "比亚迪",
+            "电动车",
+            "质量召回",
+            "出海"
+          ],
+          "id": "q-2026-09-18-1",
+          "rank": 1
+        },
+        {
+          "title": "财政8月“收多支少”：广义支出降幅扩大，内需疲弱下的刺激两难",
+          "trigger": "9月18日彭博基于财政部数据测算：广义预算支出8月同比降6.7%（7月降4.4%），收入增2.9%，前8个月赤字5.5万亿元；政策层评估是否追加刺激以实现4.5%–5%增长目标。",
+          "background": "生产强、外需强、新动能强，与终端消费近停增、投资下滑形成镜像。财政“收多支少”在8月内需疲弱时尤为刺眼；政策目前侧重既有资金提速而非新刺激，中金测算剩余待发政府债约GDP的1.1%。是否加码、以何种工具加码，是下半年宏观主线。",
+          "value": "财政节奏是判断稳增长力度的先行指标：若广义支出降幅持续，三季度GDP或偏 sluggish；8000亿政策性金融工具与专项债提速是后续实物工作量关键。持续追踪可预判刺激拐点。",
+          "evidence": [
+            {
+              "media": "Bloomberg",
+              "date": "2026-09-18",
+              "title": "China's Fiscal Pullback Stretches Into August as Spending Slumps",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-18/china-fiscal-pullback-stretches-into-august-as-spending-slumps"
+            }
+          ],
+          "type": "宏观财政",
+          "urgency": "高",
+          "source_type": "彭博",
+          "angles": [
+            "广义支出降幅是否延续至9-12月",
+            "8000亿政策性金融工具落地节奏",
+            "专项债发行提速与实物工作量"
+          ],
+          "watch": [
+            "财政部月度财政数据",
+            "政治局会议与国常会定调",
+            "政策性金融工具投放进度"
+          ],
+          "tags": [
+            "财政",
+            "广义支出",
+            "内需",
+            "刺激"
+          ],
+          "id": "q-2026-09-18-2",
+          "rank": 2
+        },
+        {
+          "title": "PE据报考虑新出价恒大物业：出清地产风险资产的最后博弈",
+          "trigger": "9月18日彭博报道，此前围绕恒大物业（中国香港上市）的PE机构正考虑对该物业管理业务提出新出价。",
+          "background": "恒大体系风险化解进入“资产出清”深水区。物业板块因现金流相对稳定成为少数仍具吸引力的资产，被PE重新盯上，反映地产风险定价与处置仍在推进，也折射中国房地产从“保交楼”向“资产重组”阶段过渡。",
+          "value": "恒大物业处置是观测地产风险出清定价的样本：若PE新出价落地，将提供风险资产折价锚；亦关乎出清节奏对金融系统与购房者的外溢。",
+          "evidence": [
+            {
+              "media": "Bloomberg",
+              "date": "2026-09-18",
+              "title": "PE firms said to consider fresh bids for China Evergrande unit",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-18/pe-firms-consider-fresh-bids-china-evergrande-property-services"
+            }
+          ],
+          "type": "房地产风险",
+          "urgency": "中",
+          "source_type": "彭博",
+          "angles": [
+            "出价折扣与资产质量",
+            "出清对保交楼资金的影响",
+            "其他出险房企物业板块类比"
+          ],
+          "watch": [
+            "恒大物业正式交易公告",
+            "监管对出清方案的批复",
+            "同业物业板块并购动向"
+          ],
+          "tags": [
+            "恒大",
+            "房地产",
+            "物业",
+            "PE并购"
+          ],
+          "id": "q-2026-09-18-3",
+          "rank": 3
+        }
+      ]
+    },
     "2026-09-11": {
       "file": "2026-09-11.json",
       "scan_time": "2026-09-11T09:30:00+08:00",
@@ -48672,33 +49688,563 @@ window.__XFS_DATA__ = {
       },
       "_day": "2026-09-11",
       "_uid": "2026-09-11/b3"
+    },
+    {
+      "id": "r1",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "BYD to recall over 180,000 cars over brake pedal risk, China's regulator says",
+      "title_zh": "比亚迪将召回逾18万辆车：制动踏板部件缺陷触发监管责令",
+      "published_at": "2026-09-18",
+      "published_precision": "date",
+      "authors": [
+        "Qiaoyi Li",
+        "Liz Lee"
+      ],
+      "author_locations": [
+        "Beijing",
+        "Beijing"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "比亚迪",
+        "电动车",
+        "质量召回",
+        "新能源汽车",
+        "安全监管"
+      ],
+      "importance": "high",
+      "summary_zh": "路透社9月18日北京电（Qiaoyi Li、Liz Lee）：中国市场监管总局表示，电动车制造商比亚迪将立即召回逾18万辆汽车，以消除影响制动踏板部件的一项制造缺陷。这是比亚迪年内迄今规模最大的一次主动召回，涉及车型与具体缺陷细节由监管通报披露。召回凸显中国电动车龙头在产能高速扩张与出海提速背景下的质量与安全管理压力。",
+      "china_angle": "比亚迪是中国电动车出海的旗舰企业，单次大规模召回既是质量管控信号，也可能在其欧洲/东南亚建厂与欧盟本地含量规则博弈中被对手方援引；质量口碑关乎中国电动车整体出海声誉。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/byd-recall-over-180000-cars-brake-pedal-2026-09-18/",
+      "body_available": true,
+      "body_zh": "路透9月18日（Qiaoyi Li、Liz Lee）：市场监管总局责令比亚迪立即召回逾18万辆车，缺陷位于制动踏板部件。为比亚迪年内最大规模主动召回，涉及车型与批次由通报明确。召回发生在比亚迪加速出海、于欧洲寻觅产能之际，质量与安全管控受关注。",
+      "cited_sources": [
+        "比亚迪 BYD",
+        "中国国家市场监督管理总局",
+        "Reuters (Qiaoyi Li, Liz Lee)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
+        "evidence_note": "路透官网直连被JS墙拦截；经 The Edge Malaysia（路透 China Focus  syndication）取全文+真实署名（Qiaoyi Li、Liz Lee，9/18 04:37pm 条目）。"
+      },
+      "_day": "2026-09-18",
+      "_uid": "2026-09-18/r1"
+    },
+    {
+      "id": "r2",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China creates Italy-sized no-fly zone around Beijing after rare crash",
+      "title_zh": "北京周边设“意大利大小”禁飞区：小型飞机撞楼事件后空域安保升级",
+      "published_at": "2026-09-18",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "北京",
+        "空域安全",
+        "禁飞区",
+        "低空安全",
+        "重大活动安保"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透社9月18日报道：在中国，一架小型飞机此前撞入首都最高建筑后数月，中方正设立一片面积约相当于意大利、以北京为中心的永久“特别限制区”（Special Restricted Area），半径约600公里，自9月20日起生效，仅允许商业、获批商务与紧急航班通行。该空域通告归于北京空管部门，并经美国联邦航空管理局（FAA）公开 NOTAM 检索系统复核，由路透查阅确认。",
+      "china_angle": "低空安全与重大活动（联合国大会周、国庆）叠加下的空域管控升级，反映城市低空与高层地标安防的新课题；属国内治理维度，非地缘议题。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/china-no-fly-zone-beijing-special-restricted-area-2026-09-18/",
+      "body_available": true,
+      "body_zh": "路透9月18日：一架小型飞机撞入北京最高建筑后，中方将自9月20日起设立以北京为中心、半径约600公里的永久“特别限制区”，面积约意大利大小，仅放行商业/获批商务/紧急航班。空域通告经 FAA 公开 NOTAM 系统复核。",
+      "cited_sources": [
+        "北京空管部门",
+        "美国联邦航空管理局 FAA (NOTAM)",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
+        "evidence_note": "路透官网直连被JS墙拦截；经 The Edge Malaysia（路透 China Focus）取全文。该稿为机构/空管通告复核稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-18",
+      "_uid": "2026-09-18/r2"
+    },
+    {
+      "id": "b1",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China's Fiscal Pullback Stretches Into August as Spending Slumps",
+      "title_zh": "财政撤力延伸至8月：广义支出降幅扩大，内需疲弱下的刺激两难",
+      "published_at": "2026-09-18",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "财政",
+        "广义支出",
+        "内需不足",
+        "经济增长目标",
+        "宏观政策"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社9月18日报道（基于财政部数据测算）：中国广义预算支出8月同比下降6.7%，降幅较7月的4.4%扩大；广义收入增长2.9%，财政赤字当月收窄约五分之一，前8个月赤字达5.5万亿元（约8210亿美元）。支出撤力部分解释了8月内需持续疲弱——消费近乎停增、投资继续下滑。政策制定者正观察经济表现以评估是否需追加刺激以实现4.5%–5%的年度增长目标；迄今侧重加快既有预算资金运用而非推出新支持措施。中金测算年内剩余待发政府债约占GDP的1.1%。",
+      "china_angle": "“收多支少”与内需疲弱形成镜像：在生产强、外需强、新动能强的同时，终端消费与传统投资仍弱。是否加码刺激、如何在防债务与稳增长间平衡，是下半年宏观主线；亦与“反内卷/去产能”和平台常态化监管共同构成政策组合。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-18/china-fiscal-pullback-stretches-into-august-as-spending-slumps",
+      "body_available": true,
+      "body_zh": "彭博（基于财政部测算）9月18日：广义预算支出8月同比-6.7%（7月-4.4%），收入+2.9%，赤字当月收窄约1/5，前8个月赤字5.5万亿元。支出撤力解释了8月内需疲弱（消费近停增、投资下滑）。政策层评估是否追加刺激以实现4.5%–5%目标，目前侧重既有资金提速而非新刺激；中金测算剩余待发政府债约GDP的1.1%。",
+      "cited_sources": [
+        "中国财政部",
+        "Bloomberg（基于财政部数据测算）",
+        "中国国际金融股份有限公司 CICC (苗燕亮/Miao Yanliang)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://finance.yahoo.com/economy/policy/articles/china-fiscal-pullback-stretches-august-104301620.html",
+        "evidence_note": "彭博官网直连被JS墙拦截；经 Yahoo Finance（彭博供稿）取全文。署名为 Bloomberg（机构测算稿），无个人记者，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-18",
+      "_uid": "2026-09-18/b1"
+    },
+    {
+      "id": "b2",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "PE firms said to consider fresh bids for China Evergrande unit",
+      "title_zh": "PE机构据报考虑对恒大物业提出新出价：出清地产风险资产最后一搏",
+      "published_at": "2026-09-18",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "恒大",
+        "房地产风险",
+        "物业板块",
+        "PE并购",
+        "出清"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社9月18日报道：此前围绕恒大物业（Evergrande Property Services Group，中国香港上市）徘徊的私募股权机构，正考虑对该中国香港上市物业管理业务提出新的出价。据知情人士称，相关方在早前一轮接触后重新评估报价。恒大体系风险出清仍是中国房地产Completed调整的焦点之一，物业板块因现金流相对稳定成为少数仍具吸引力的资产。",
+      "china_angle": "恒大风险化解进入“资产出清”深水区：物业等相对优质板块被PE盯上，反映地产风险定价与处置仍在推进；亦折射中国房地产从“保交楼”向“资产重组”阶段的过渡。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-18/pe-firms-consider-fresh-bids-china-evergrande-property-services",
+      "body_available": true,
+      "body_zh": "彭博9月18日：此前关注恒大物业（中国香港上市）的PE机构正考虑提出新出价。据知情人士，早前一轮接触后重新评估。恒大体系风险出清仍是中国房地产调整焦点，物业板块因现金流稳定成为少数具吸引力资产。",
+      "cited_sources": [
+        "Evergrande Property Services (恒大物业)",
+        "Bloomberg (sources)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://www.theedgemarkets.com/flash-categories/china-focus",
+        "evidence_note": "彭博官网直连被JS墙拦截；经 The Edge Malaysia（彭博 China Focus）取全文。机构稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-18",
+      "_uid": "2026-09-18/b2"
+    },
+    {
+      "id": "r1",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
+      "title_zh": "贝森特与格里尔周日纽约会晤何立峰：特朗普—习近平峰会前的经贸预备会",
+      "published_at": "2026-09-19",
+      "published_precision": "date",
+      "authors": [
+        "David Lawder"
+      ],
+      "author_locations": [
+        "Washington"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "中美经贸",
+        "何立峰",
+        "贝森特",
+        "格里尔",
+        "特朗普—习近平峰会",
+        "稀土",
+        "AI安全"
+      ],
+      "importance": "high",
+      "summary_zh": "路透社9月19日报道（David Lawder）：美国财政部长斯科特·贝森特将于周日（9月20日）在纽约摩根大通总部与中国国务院副总理何立峰会晤，讨论AI安全、贸易及其他经济议题；美国贸易代表格里尔将一同出席。此次曼哈顿会谈距特朗普周四起在白宫接待习近平仅数日，定于美东时间周日上午10:30。会谈被定位为两国元首华盛顿峰会（9月24日）的铺垫，议题据报涵盖关税休战、稀土与AI模型治理（开源/闭源权重处理）。何立峰9月19–23日访美。",
+      "china_angle": "中美经贸进入“元首峰会前密集预备”阶段：关税休战、稀土、AI安全被并列摆上桌面，模型治理首次与关税同场讨论，预示AI竞合将成为峰会核心议题之一； venue 选在商业银行总部亦显非正式与高安保特征。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/us/china-he-lifeng-bessent-meet-new-york-2026-09-19/",
+      "body_available": true,
+      "body_zh": "路透9月19日（David Lawder）：美财长贝森特周日（9/20）于纽约摩根大通总部会晤何立峰，讨论AI安全、贸易与经济议题；贸易代表格里尔同席。会谈为特朗普—习近平9/24华盛顿峰会铺垫，议题含关税休战、稀土与AI模型治理。何立峰9/19–23访美。",
+      "cited_sources": [
+        "Scott Bessent (美财长)",
+        "Jamieson Greer (美贸易代表)",
+        "He Lifeng (何立峰, 中国副总理)",
+        "JPMorgan Chase",
+        "Reuters (David Lawder)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.sunherald.com/news/business/article317307965.html",
+        "evidence_note": "路透官网直连被JS墙拦截；经 Sun Herald（路透 syndication）取全文+真实署名（Reporting by David Lawder；Editing by Sergio Non and Rod Nickel），9/19 13:34 EDT。"
+      },
+      "_day": "2026-09-19",
+      "_uid": "2026-09-19/r1"
+    },
+    {
+      "id": "r2",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Anew Labs, ByteDance spinoff using AI for drug discovery, raises $290 million",
+      "title_zh": "字节系Anew Labs完成3亿美元融资：AI+生物医药“硬科技”资本化提速",
+      "published_at": "2026-09-19",
+      "published_precision": "date",
+      "authors": [
+        "Kane Wu"
+      ],
+      "author_locations": [
+        "Hong Kong"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "Anew Labs",
+        "字节跳动",
+        "AI制药",
+        "生物医药",
+        "VC融资",
+        "硬科技"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透社（Kane Wu）报道：总部位于上海的 Anew Labs——一家利用AI进行药物发现的字节跳动分拆公司——已从红杉中国（HSG）、IDG资本等投资者处募集2.9亿美元，估值达15亿美元。这显示中国“AI+生物医药”赛道在智谱、MiniMax等AI企业密集登陆资本市场之外，正成为硬科技资本化的新热点；分拆与融资模式体现大厂以孵化+外部资本撬动前沿应用的路径。",
+      "china_angle": "“AI+生物医药”是中国硬科技资本化的新支点：继大模型公司涌向港股/科创板后，AI制药分拆获巨额融资，体现资本从模型层下沉到垂直应用层；亦折射字节系在AI全产业链（模型、视频、制药）的布局扩张。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/technology/ai-drug-discovery/anew-labs-bytedance-spinoff-raises-290-million-2026-09-19/",
+      "body_available": true,
+      "body_zh": "路透（Kane Wu）：上海AI制药公司Anew Labs（字节分拆）募资2.9亿美元、估值15亿美元，投资方含红杉中国(HSG)、IDG资本。中国“AI+生物医药”成硬科技资本化新热点，体现大厂孵化+外部资本撬动前沿应用的路径。",
+      "cited_sources": [
+        "Anew Labs",
+        "ByteDance (字节跳动)",
+        "HSG (红杉中国)",
+        "IDG Capital",
+        "Reuters (Kane Wu)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://tech.memeorandum.com/river",
+        "evidence_note": "路透官网直连被JS墙拦截；经 Techmeme 聚合（Kane Wu / Reuters，2:00 AM 条目“Shanghai-based Anew Labs… raised $290M from HSG, IDG Capital… at a $1.5B valuation”）确认署名与金额。"
+      },
+      "_day": "2026-09-19",
+      "_uid": "2026-09-19/r2"
+    },
+    {
+      "id": "b1",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China Slams US Law Tightening Sanctions on Russia and Iran",
+      "title_zh": "中国反对美国强化对俄伊制裁法案：次级制裁博弈成中美关系新摩擦点",
+      "published_at": "2026-09-19",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "中美关系",
+        "制裁",
+        "次级制裁",
+        "俄罗斯",
+        "伊朗",
+        "商务部"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社9月19日报道（Bloomberg News）：中国批评美国新近签署、强化对俄制裁并将对伊贸易措施延展的法律。中国商务部发言人在周六发布的声明中称，中方“一贯反对”单边制裁与所谓次级制裁，反对外交上缺乏联合国授权或国际法依据的制裁，将密切跟踪美方下一步并保留采取一切必要措施维护主权、发展利益的权利。该法案由特朗普周五签署，正值中美经贸预备会谈与元首峰会前夕，可能成为双边关系新摩擦点。",
+      "china_angle": "美方以“制裁俄罗斯和伊朗”为名的次级制裁，直接触及中国与俄伊的正常经贸；中方的反制表态与中美经贸预备会谈同期，凸显“制裁外溢”正成为中美关系新摩擦点，亦关联稀土、AI等峰会议题的博弈筹码。",
+      "stance": "neutral",
+      "source_url": "https://news.bloomberglaw.com/banking-law/china-slams-us-law-tightening-sanctions-on-russia-and-iran",
+      "body_available": true,
+      "body_zh": "彭博9月19日（Bloomberg News）：中国批评美国新签署、强化对俄制裁并延展对伊贸易措施的法律。商务部声明“一贯反对”单边与次级制裁，保留采取必要措施权利。法案由特朗普周五签署，适逢中美预备会谈与峰会前夕。",
+      "cited_sources": [
+        "中国商务部",
+        "Bloomberg News",
+        "White House (Trump)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://news.bloomberglaw.com/banking-law/china-slams-us-law-tightening-sanctions-on-russia-and-iran",
+        "evidence_note": "彭博官网直连被JS墙拦截；经 Bloomberg Law（彭博供稿）取全文。署名为 Bloomberg News 机构稿，无个人记者，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-19",
+      "_uid": "2026-09-19/b1"
+    },
+    {
+      "id": "b2",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Trump administration has few good options to slow China's AI rise",
+      "title_zh": "彭博：美方遏制中国AI崛起“可选工具寥寥”，稀土限制成两难",
+      "published_at": "2026-09-19",
+      "published_precision": "date",
+      "authors": [
+        "Nectar Gan"
+      ],
+      "author_locations": [
+        "Hong Kong"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "中美AI竞争",
+        "出口管制",
+        "稀土",
+        "AI谈判",
+        "技术遏制"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社（Nectar Gan）报道：在中美AI会谈前夕，特朗普政府用以放缓中国AI崛起的可选工具寥寥，尤其在其试图避免进一步收紧稀土限制之际陷入两难——稀土既是美方可考虑的杠杆，过度使用又会推高自身产业成本并加速中国自主。文章指，AI治理（开源/闭源权重）正被纳入经贸预备会谈，与关税并列。这与贝森特—格里尔—何立峰纽约会谈的议程相互印证。",
+      "china_angle": "美方承认“遏制工具有限”，是中美AI竞合态势的转折性信号：稀土从“武器”变为“双刃剑”，模型治理被摆上谈判桌。这既是中国AI自主化阶段性成果的体现，也预示峰会后管制可能从“全面打压”转向“精准+谈判”模式。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-19/trump-administration-few-good-options-slow-china-ai-rise",
+      "body_available": true,
+      "body_zh": "彭博（Nectar Gan）：中美AI会谈前夕，美方放缓中国AI崛起的可选工具寥寥，避免进一步收紧稀土限制之际陷入两难——稀土是杠杆也是双刃剑。AI治理（开源/闭源权重）被纳入预备会谈，与关税并列，印证贝森特—格里尔—何立峰纽约议程。",
+      "cited_sources": [
+        "Bloomberg (Nectar Gan)",
+        "White House",
+        "USTR"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://tech.memeorandum.com/river",
+        "evidence_note": "彭博官网直连被JS墙拦截；经 Techmeme 聚合（Nectar Gan / Bloomberg，6:35 AM 条目“The Trump administration has few good options to slow China's AI rise… ahead of US-China AI talks”）确认署名。"
+      },
+      "_day": "2026-09-19",
+      "_uid": "2026-09-19/b2"
+    },
+    {
+      "id": "b1",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Alibaba introduces next-generation Qwen3.8-Omni-Flash model",
+      "title_zh": "阿里发布Qwen3.8-Omni-Flash：百万上下文+音视频API降价超九成",
+      "published_at": "2026-09-20",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "阿里巴巴",
+        "通义千问",
+        "Qwen",
+        "全模态",
+        "Agent",
+        "AI模型",
+        "降本"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社报道：阿里巴巴发布新一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本/图像/音频/视频输入与100万token上下文，在约30项评测中较上一代 Qwen3.5-Omni-Plus 平均提升超26%，音频能力整体超过 Gemini 3.8 Flash、音视频能力接近。价格大幅下探：每小时音频输入API降价超98%、音视频输入降约93%。模型主打“全感知、可执行”的Agent形态，支持工具调用与长周期任务编排；达摩院同期在《Science》发表可识别近150种腹部疾病的通用医学影像AI模型。",
+      "china_angle": "Qwen3.8以“长上下文+超低价+全模态Agent”路线，是中国大模型从“堆参数”转向“效率与可执行性”的样本；音视频API降价超九成直接压低多模态应用门槛，与DeepSeek的效率路线形成呼应，亦加剧与Gemini/Claude的性价比竞争。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-18/alibaba-unveils-qwen3-8-omni-flash-model",
+      "body_available": true,
+      "body_zh": "彭博：阿里发布Qwen3.8-Omni-Flash，原生全模态、1M上下文，30项评测较上代平均+26%，音频超Gemini 3.8 Flash。每小时音频输入API降价超98%、音视频降约93%。主打Agent可执行形态；达摩院同期于《Science》发表近150种腹部疾病通用医学影像AI。",
+      "cited_sources": [
+        "Alibaba (阿里巴巴)",
+        "Qwen / 通义千问",
+        "Damo Academy (达摩院)",
+        "Science",
+        "Gemini (Google)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://www.huxiu.com/ainews/15144.html",
+        "evidence_note": "彭博官网直连被JS墙拦截；彭博“Top Business”9/20综述收录该发布，细节经虎嗅等中文科技媒体（9/18上线）交叉验证。产品发布稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-20",
+      "_uid": "2026-09-20/b1"
+    },
+    {
+      "id": "b2",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "TikTok developer ByteDance profit drops as AI spending weighs",
+      "title_zh": "字节上半年净利降至约200亿美元：AI基建烧钱挤压利润",
+      "published_at": "2026-09-20",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "字节跳动",
+        "TikTok",
+        "AI投入",
+        "利润承压",
+        "资本开支",
+        "云"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博/The Information 报道：受AI基础设施投入拖累，字节跳动2026年上半年净利润降至约200亿美元（同比个位数百分点下滑），营收约1200亿美元（同比+30%）；海外收入占比升至逾30%（2024年为25%）。为支撑不断膨胀的AI投入，字节近期从近30家银行获得约296亿美元银团贷款（据路透，AI投资是借款重要驱动，部分用于芯片与海外数据中心）。彭博5月曾报道其2026年AI相关资本开支上限或达700亿美元。",
+      "china_angle": "中国科技巨头行至“规模扩张 vs AI投入”的十字路口：营收比肩Meta、海外占比新高，但AI基建重资产模式短期压制利润与净利率（上半年约16.7%）。这既是国产大模型/视频/云军备竞赛的成本侧写照，也折射融资—算力—回报的闭环尚未跑通。",
+      "stance": "neutral",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/tiktok-developer-bytedance-profit-drops-142800788.html",
+      "body_available": true,
+      "body_zh": "彭博/The Information：字节上半年净利约200亿美元（同比个位数下滑）、营收约1200亿美元（+30%），海外占比逾30%。为撑AI投入，近期从近30家银行获约296亿美元银团贷款（路透：AI投资驱动，部分用于芯片与海外数据中心）。彭博5月报其2026年AI资本开支上限或700亿美元。",
+      "cited_sources": [
+        "ByteDance (字节跳动)",
+        "The Information",
+        "Bloomberg",
+        "Reuters (银团贷款)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg / The Information",
+        "evidence_url": "https://finance.yahoo.com/technology/ai/articles/tiktok-developer-bytedance-profit-drops-142800788.html",
+        "evidence_note": "彭博官网直连被JS墙拦截；经 Yahoo Finance（综合彭博/The Information）取全文。该稿为媒体合成（The Information 泄露+彭博贷款报道），无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-20",
+      "_uid": "2026-09-20/b2"
+    },
+    {
+      "id": "b3",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China opens probes into four online travel booking platforms",
+      "title_zh": "四家酒旅平台被立案：平台经济“常态化监管”从反垄断走向反不正当竞争",
+      "published_at": "2026-09-20",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "平台经济",
+        "反垄断",
+        "反不正当竞争",
+        "飞猪",
+        "同程",
+        "途家",
+        "美团",
+        "常态化监管"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社报道（9月19日通报）：北京市市场监督管理局依据《反不正当竞争法》《电子商务法》，对杭州淘美航空服务（飞猪）、同程网络科技（同程旅行）、途家在线（途家民宿）、北京三快信息（美团酒旅）四家涉嫌相关违法行为的公司立案调查。四家均表态配合。此次适用反不正当竞争法/电商法（不以市场支配地位为前提），执法门槛显著低于此前携程反垄断案（罚没51.79亿元）；关联9月15日总局与文旅部行政指导会“以案为鉴”。",
+      "china_angle": "平台经济监管从“包容审慎”转向“常态化”：约谈—指导—立案—处罚成为标准动作，且从反垄断（需支配地位）扩至反不正当竞争（门槛更低），意味着即便非行业老大也可能被查。这是“反内卷”在平台侧的落地，关乎算法透明、费率规范与商户权益。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-19/china-opens-probes-four-online-travel-booking-platforms",
+      "body_available": true,
+      "body_zh": "彭博（9/19通报）：北京市监局依《反不正当竞争法》《电子商务法》对飞猪(杭州淘美)、同程、途家、美团酒旅四家立案调查，四家均配合。此次适用反不正当竞争/电商法（不以支配地位为前提），门槛低于携程反垄断案（罚没51.79亿）；关联9/15总局文旅部指导会。",
+      "cited_sources": [
+        "北京市市场监督管理局",
+        "杭州淘美/飞猪",
+        "同程旅行",
+        "途家",
+        "美团酒旅",
+        "中国饭店协会"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://www.163.com/dy/article/L7734R6405199NPP.html",
+        "evidence_note": "彭博官网直连被JS墙拦截；经 21世纪经济报道/网易 取全文细节（9/19 17:08）。彭博 China Focus 条目“China opens probes into four online travel booking platforms / By Bloomberg”。机构稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-20",
+      "_uid": "2026-09-20/b3"
+    },
+    {
+      "id": "r1",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's yuan strengthens past 6.7 per dollar, best since January 2023",
+      "title_zh": "人民币升破6.7：在岸离岸双破关口，创2023年1月以来最强",
+      "published_at": "2026-09-20",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "人民币汇率",
+        "在岸",
+        "离岸",
+        "美元",
+        "资本流动",
+        "出口韧性"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透/彭博报道：9月18日在岸、离岸人民币兑美元双双升破6.7关口，创2023年1月以来最强；年内人民币兑美元升值逾4%。中间价报6.7521，为连续第八个交易日调强。支撑因素包括出口韧性（连续三月单月进出口超4.5万亿元）、美元走弱与中美利差“脱敏”；但亦引发对出口企业汇兑损益与外贸竞争力的关注。",
+      "china_angle": "人民币走强是“出口韧性+美元走弱+资本管控”的组合结果，亦折射中美利差走阔下人民币“脱敏”的持续；但强势汇率对出口企业结汇与 competitiveness 构成双面影响，是观察外贸与货币政策权衡的窗口。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/markets/china-yuan-breaks-6-7-strongest-since-jan-2023-2026-09-18/",
+      "body_available": true,
+      "body_zh": "路透/彭博：9/18在岸、离岸人民币双破6.7，创2023年1月以来最强，年内兑美元升逾4%；中间价6.7521，连续第八日调强。支撑来自出口韧性、美元走弱与利差脱敏；亦引发对出口企业汇兑与竞争力的关注。",
+      "cited_sources": [
+        "中国外汇交易中心",
+        "Reuters / Bloomberg",
+        "PBoC"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://xueqiu.com/1021113906/409918595",
+        "evidence_note": "路透官网直连被JS墙拦截；经 雪球《全球及中国财经要闻综述(2026.09.20)》与华尔街见闻等交叉确认（9/18在岸离岸双破6.7、年内升逾4%）。机构市场稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-20",
+      "_uid": "2026-09-20/r1"
     }
   ],
   "archive": {
-    "days_count": 37,
+    "days_count": 40,
     "first_day": "2026-08-04",
-    "last_day": "2026-09-11",
-    "total_articles": 549,
+    "last_day": "2026-09-20",
+    "total_articles": 561,
     "by_media": {
-      "路透社": 339,
-      "彭博社": 210
+      "路透社": 344,
+      "彭博社": 217
     },
     "by_topic": {
+      "出口管制": 41,
       "半导体": 41,
-      "出口管制": 40,
+      "中美关系": 35,
       "宏观经济": 34,
-      "中美关系": 34,
       "人工智能": 33,
       "AI": 33,
       "港股": 24,
       "中美科技竞争": 22,
       "IPO": 21,
+      "中美经贸": 20,
       "中美科技": 20,
       "供应链": 20,
       "出口": 19,
       "人形机器人": 19,
-      "中美经贸": 19,
-      "伊朗": 18,
+      "伊朗": 19,
       "资本市场": 17,
       "关税": 17,
       "科技": 16,
@@ -48711,6 +50257,7 @@ window.__XFS_DATA__ = {
       "中国台湾": 13,
       "AI芯片": 13,
       "A股": 12,
+      "稀土": 12,
       "经贸": 12,
       "内需": 12,
       "科技竞争": 11,
@@ -48721,7 +50268,6 @@ window.__XFS_DATA__ = {
       "台海": 10,
       "军事": 10,
       "贸易": 10,
-      "稀土": 10,
       "中概股": 10,
       "机器人": 9,
       "开源模型": 9,
@@ -48730,18 +50276,21 @@ window.__XFS_DATA__ = {
       "中美贸易": 9,
       "存储芯片": 8,
       "通胀": 8,
+      "次级制裁": 8,
+      "新能源汽车": 7,
       "能源安全": 7,
       "融资": 7,
       "中美科技战": 7,
       "中美博弈": 7,
       "台风": 7,
       "中美": 7,
+      "阿里巴巴": 7,
+      "人民币汇率": 7,
+      "比亚迪": 7,
       "关键矿产": 7,
       "朝鲜半岛": 7,
       "监管": 7,
-      "次级制裁": 7,
       "企业动态": 6,
-      "新能源汽车": 6,
       "中欧关系": 6,
       "FCC": 6,
       "无人机": 6,
@@ -48751,26 +50300,24 @@ window.__XFS_DATA__ = {
       "网络安全": 6,
       "华为": 6,
       "金融": 6,
+      "宏观政策": 6,
       "PPI": 6,
       "CPI": 6,
       "应急管理": 6,
       "苹果": 6,
-      "阿里巴巴": 6,
       "英伟达": 6,
       "港股IPO": 6,
       "制造业": 6,
       "Shein": 6,
       "科创板": 6,
       "贸易摩擦": 6,
-      "人民币汇率": 6,
-      "比亚迪": 6,
       "中韩关系": 6,
+      "电动车": 6,
       "产业政策": 5,
       "军事安全": 5,
       "太阳能": 5,
       "中国香港": 5,
       "央行": 5,
-      "宏观政策": 5,
       "生物科技": 5,
       "跨境电商": 5,
       "外汇": 5,
@@ -48784,10 +50331,11 @@ window.__XFS_DATA__ = {
       "二级制裁": 5,
       "宏观数据": 5,
       "汇率": 5,
+      "恒大": 5,
       "金融风险": 5,
-      "电动车": 5,
       "香港": 5,
       "经贸摩擦": 4,
+      "制裁": 4,
       "对外投资": 4,
       "AI产业链": 4,
       "中东局势": 4,
@@ -48799,6 +50347,7 @@ window.__XFS_DATA__ = {
       "汉光演习": 4,
       "股市": 4,
       "宏观": 4,
+      "北京": 4,
       "药明康德": 4,
       "上海": 4,
       "油价": 4,
@@ -48807,13 +50356,14 @@ window.__XFS_DATA__ = {
       "长鑫CXMT": 4,
       "芯片": 4,
       "美联储": 4,
+      "字节跳动": 4,
       "AI大模型": 4,
       "南海": 4,
       "中菲关系": 4,
       "信贷": 4,
       "中美利差": 4,
+      "中美AI竞争": 4,
       "投资": 4,
-      "恒大": 4,
       "银行业": 4,
       "中尼关系": 4,
       "灾害救援": 4,
@@ -48821,7 +50371,6 @@ window.__XFS_DATA__ = {
       "贸易顺差": 4,
       "元首外交": 4,
       "社会民生": 3,
-      "制裁": 3,
       "科技产业": 3,
       "金融市场": 3,
       "防灾减灾": 3,
@@ -48831,10 +50380,11 @@ window.__XFS_DATA__ = {
       "全球市场": 3,
       "原油": 3,
       "科技股": 3,
+      "俄罗斯": 3,
       "朝鲜": 3,
       "中国汽车": 3,
       "中东": 3,
-      "北京": 3,
+      "财政": 3,
       "福建": 3,
       "欧盟": 3,
       "航天": 3,
@@ -48860,7 +50410,7 @@ window.__XFS_DATA__ = {
       "中国房地产": 3,
       "房价": 3,
       "产能过剩": 3,
-      "中美AI竞争": 3,
+      "通义千问": 3,
       "外交部": 3,
       "中国市场": 3,
       "美妆": 3,
@@ -48868,6 +50418,7 @@ window.__XFS_DATA__ = {
       "全球南方": 3,
       "华南": 3,
       "6G": 3,
+      "AI投入": 3,
       "西藏": 3,
       "全球利率": 3,
       "中报业绩": 3,
@@ -48878,6 +50429,9 @@ window.__XFS_DATA__ = {
       "中国证监会": 3,
       "DeepSeek": 3,
       "习特会": 3,
+      "资本流动": 3,
+      "AI安全": 3,
+      "商务部": 3,
       "知识产权": 2,
       "南海议题": 2,
       "涉台议题": 2,
@@ -48892,7 +50446,6 @@ window.__XFS_DATA__ = {
       "服务业PMI": 2,
       "Section 232": 2,
       "防卫白皮书": 2,
-      "俄罗斯": 2,
       "AI需求": 2,
       "区域安全": 2,
       "导弹": 2,
@@ -48910,7 +50463,6 @@ window.__XFS_DATA__ = {
       "法律": 2,
       "大宗商品": 2,
       "中国股市": 2,
-      "财政": 2,
       "浙江": 2,
       "消费电子": 2,
       "顺差": 2,
@@ -48926,9 +50478,9 @@ window.__XFS_DATA__ = {
       "军费": 2,
       "贸易逆差": 2,
       "内蒙古": 2,
+      "反垄断": 2,
       "寒武纪": 2,
       "霍尔木兹": 2,
-      "字节跳动": 2,
       "算力定价": 2,
       "推理模型": 2,
       "三一": 2,
@@ -48962,8 +50514,8 @@ window.__XFS_DATA__ = {
       "江泽民": 2,
       "去库存": 2,
       "中欧贸易": 2,
+      "美元": 2,
       "中国金融": 2,
-      "通义千问": 2,
       "APEC": 2,
       "中国香港股市": 2,
       "板块轮动": 2,
@@ -48995,7 +50547,6 @@ window.__XFS_DATA__ = {
       "贸易战": 2,
       "实体清单": 2,
       "质量安全": 2,
-      "AI投入": 2,
       "香港市场": 2,
       "PMI": 2,
       "债务重组": 2,
@@ -49014,21 +50565,20 @@ window.__XFS_DATA__ = {
       "债券市场": 2,
       "西藏吉隆口岸": 2,
       "中尼跨境灾害": 2,
+      "平台经济": 2,
       "航空业": 2,
       "半年报": 2,
       "中报亏损": 2,
       "预售制改革": 2,
       "汽车产业": 2,
       "航运安全": 2,
-      "资本流动": 2,
-      "AI安全": 2,
       "科技治理": 2,
       "金融开放": 2,
       "算力基础设施": 2,
       "中澳关系": 2,
       "经济数据": 2,
       "模型蒸馏": 2,
-      "商务部": 2,
+      "内需不足": 2,
       "涉疆议题": 1,
       "解释性报道": 1,
       "农产品贸易": 1,
@@ -49173,7 +50723,6 @@ window.__XFS_DATA__ = {
       "打新": 1,
       "人才管控": 1,
       "Arm": 1,
-      "反垄断": 1,
       "SAMR": 1,
       "贸易休战": 1,
       "特朗普": 1,
@@ -49270,7 +50819,6 @@ window.__XFS_DATA__ = {
       "碳中和": 1,
       "去风险": 1,
       "工业产出": 1,
-      "美元": 1,
       "中共高层": 1,
       "政治": 1,
       "开放权重模型": 1,
@@ -49428,7 +50976,6 @@ window.__XFS_DATA__ = {
       "二十届四中全会前瞻": 1,
       "堰塞湖监测": 1,
       "卫星遥感": 1,
-      "平台经济": 1,
       "即时零售": 1,
       "互联网反内卷": 1,
       "企业财报": 1,
@@ -49586,7 +51133,6 @@ window.__XFS_DATA__ = {
       "上海美国商会": 1,
       "合肥模式": 1,
       "地方政府产业政策": 1,
-      "内需不足": 1,
       "汽车出口": 1,
       "产能出海": 1,
       "内需疲软": 1,
@@ -49595,7 +51141,48 @@ window.__XFS_DATA__ = {
       "债市": 1,
       "青岛北海造船": 1,
       "船舶维修": 1,
-      "习近平指示": 1
+      "习近平指示": 1,
+      "质量召回": 1,
+      "安全监管": 1,
+      "空域安全": 1,
+      "禁飞区": 1,
+      "低空安全": 1,
+      "重大活动安保": 1,
+      "广义支出": 1,
+      "经济增长目标": 1,
+      "房地产风险": 1,
+      "物业板块": 1,
+      "PE并购": 1,
+      "出清": 1,
+      "何立峰": 1,
+      "贝森特": 1,
+      "格里尔": 1,
+      "特朗普—习近平峰会": 1,
+      "Anew Labs": 1,
+      "AI制药": 1,
+      "生物医药": 1,
+      "VC融资": 1,
+      "硬科技": 1,
+      "AI谈判": 1,
+      "技术遏制": 1,
+      "Qwen": 1,
+      "全模态": 1,
+      "Agent": 1,
+      "AI模型": 1,
+      "降本": 1,
+      "TikTok": 1,
+      "利润承压": 1,
+      "资本开支": 1,
+      "云": 1,
+      "反不正当竞争": 1,
+      "飞猪": 1,
+      "同程": 1,
+      "途家": 1,
+      "美团": 1,
+      "常态化监管": 1,
+      "在岸": 1,
+      "离岸": 1,
+      "出口韧性": 1
     },
     "sentiment_trend": [
       {
@@ -49819,6 +51406,24 @@ window.__XFS_DATA__ = {
         "negative": 0,
         "neutral": 5,
         "positive": 0
+      },
+      {
+        "date": "2026-09-18",
+        "negative": 0,
+        "neutral": 4,
+        "positive": 0
+      },
+      {
+        "date": "2026-09-19",
+        "negative": 0,
+        "neutral": 4,
+        "positive": 0
+      },
+      {
+        "date": "2026-09-20",
+        "negative": 0,
+        "neutral": 4,
+        "positive": 0
       }
     ],
     "cited_source_freq": [
@@ -49844,7 +51449,7 @@ window.__XFS_DATA__ = {
       ],
       [
         "Bloomberg",
-        16
+        17
       ],
       [
         "中国外交部",
@@ -49867,6 +51472,10 @@ window.__XFS_DATA__ = {
         7
       ],
       [
+        "中国商务部",
+        7
+      ],
+      [
         "华为",
         7
       ],
@@ -49876,6 +51485,10 @@ window.__XFS_DATA__ = {
       ],
       [
         "彭博",
+        7
+      ],
+      [
+        "Reuters",
         7
       ],
       [
@@ -49892,10 +51505,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "Kpler",
-        6
-      ],
-      [
-        "中国商务部",
         6
       ],
       [
@@ -49920,10 +51529,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "韩国外交部",
-        6
-      ],
-      [
-        "Reuters",
         6
       ],
       [
@@ -50059,6 +51664,10 @@ window.__XFS_DATA__ = {
         3
       ],
       [
+        "中国外汇交易中心",
+        3
+      ],
+      [
         "字节跳动",
         3
       ],
@@ -50104,6 +51713,10 @@ window.__XFS_DATA__ = {
       ],
       [
         "G20",
+        3
+      ],
+      [
+        "中国财政部",
         3
       ],
       [
@@ -50263,10 +51876,6 @@ window.__XFS_DATA__ = {
         2
       ],
       [
-        "中国外汇交易中心",
-        2
-      ],
-      [
         "寒武纪",
         2
       ],
@@ -50423,7 +52032,15 @@ window.__XFS_DATA__ = {
         2
       ],
       [
+        "White House",
+        2
+      ],
+      [
         "财政部",
+        2
+      ],
+      [
+        "The Information",
         2
       ],
       [
@@ -50460,10 +52077,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "两名知情人士（匿名）",
-        2
-      ],
-      [
-        "中国财政部",
         2
       ],
       [
@@ -50532,6 +52145,14 @@ window.__XFS_DATA__ = {
       ],
       [
         "Moonshot AI",
+        2
+      ],
+      [
+        "PBoC",
+        2
+      ],
+      [
+        "ByteDance (字节跳动)",
         2
       ],
       [
@@ -52507,10 +54128,6 @@ window.__XFS_DATA__ = {
         1
       ],
       [
-        "White House",
-        1
-      ],
-      [
         "路透调查",
         1
       ],
@@ -52572,10 +54189,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "Ben Blanchard/路透",
-        1
-      ],
-      [
-        "The Information",
         1
       ],
       [
@@ -54763,10 +56376,6 @@ window.__XFS_DATA__ = {
         1
       ],
       [
-        "PBoC",
-        1
-      ],
-      [
         "Federal Reserve",
         1
       ],
@@ -54785,9 +56394,177 @@ window.__XFS_DATA__ = {
       [
         "Qingdao Beihai Shipbuilding (青岛北海造船)",
         1
+      ],
+      [
+        "比亚迪 BYD",
+        1
+      ],
+      [
+        "中国国家市场监督管理总局",
+        1
+      ],
+      [
+        "Reuters (Qiaoyi Li, Liz Lee)",
+        1
+      ],
+      [
+        "北京空管部门",
+        1
+      ],
+      [
+        "美国联邦航空管理局 FAA (NOTAM)",
+        1
+      ],
+      [
+        "Bloomberg（基于财政部数据测算）",
+        1
+      ],
+      [
+        "中国国际金融股份有限公司 CICC (苗燕亮/Miao Yanliang)",
+        1
+      ],
+      [
+        "Evergrande Property Services (恒大物业)",
+        1
+      ],
+      [
+        "Bloomberg (sources)",
+        1
+      ],
+      [
+        "Scott Bessent (美财长)",
+        1
+      ],
+      [
+        "Jamieson Greer (美贸易代表)",
+        1
+      ],
+      [
+        "He Lifeng (何立峰, 中国副总理)",
+        1
+      ],
+      [
+        "JPMorgan Chase",
+        1
+      ],
+      [
+        "Reuters (David Lawder)",
+        1
+      ],
+      [
+        "Anew Labs",
+        1
+      ],
+      [
+        "HSG (红杉中国)",
+        1
+      ],
+      [
+        "IDG Capital",
+        1
+      ],
+      [
+        "Reuters (Kane Wu)",
+        1
+      ],
+      [
+        "Bloomberg News",
+        1
+      ],
+      [
+        "White House (Trump)",
+        1
+      ],
+      [
+        "Bloomberg (Nectar Gan)",
+        1
+      ],
+      [
+        "USTR",
+        1
+      ],
+      [
+        "Alibaba (阿里巴巴)",
+        1
+      ],
+      [
+        "Qwen / 通义千问",
+        1
+      ],
+      [
+        "Damo Academy (达摩院)",
+        1
+      ],
+      [
+        "Science",
+        1
+      ],
+      [
+        "Gemini (Google)",
+        1
+      ],
+      [
+        "Reuters (银团贷款)",
+        1
+      ],
+      [
+        "北京市市场监督管理局",
+        1
+      ],
+      [
+        "杭州淘美/飞猪",
+        1
+      ],
+      [
+        "同程旅行",
+        1
+      ],
+      [
+        "途家",
+        1
+      ],
+      [
+        "美团酒旅",
+        1
+      ],
+      [
+        "中国饭店协会",
+        1
+      ],
+      [
+        "Reuters / Bloomberg",
+        1
       ]
     ],
     "recurring_topics": [
+      {
+        "topic": "出口管制",
+        "count": 22,
+        "days": [
+          "2026-08-04",
+          "2026-08-05",
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-15",
+          "2026-08-16",
+          "2026-08-20",
+          "2026-08-21",
+          "2026-08-22",
+          "2026-08-24",
+          "2026-08-26",
+          "2026-08-29",
+          "2026-09-02",
+          "2026-09-03",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-19"
+        ]
+      },
       {
         "topic": "半导体",
         "count": 22,
@@ -54817,35 +56594,8 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "出口管制",
-        "count": 21,
-        "days": [
-          "2026-08-04",
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-15",
-          "2026-08-16",
-          "2026-08-20",
-          "2026-08-21",
-          "2026-08-22",
-          "2026-08-24",
-          "2026-08-26",
-          "2026-08-29",
-          "2026-09-02",
-          "2026-09-03",
-          "2026-09-04",
-          "2026-09-05"
-        ]
-      },
-      {
         "topic": "中美关系",
-        "count": 21,
+        "count": 22,
         "days": [
           "2026-08-05",
           "2026-08-06",
@@ -54867,7 +56617,8 @@ window.__XFS_DATA__ = {
           "2026-09-04",
           "2026-09-05",
           "2026-09-10",
-          "2026-09-11"
+          "2026-09-11",
+          "2026-09-19"
         ]
       },
       {
@@ -54912,6 +56663,26 @@ window.__XFS_DATA__ = {
           "2026-09-03",
           "2026-09-04",
           "2026-09-09"
+        ]
+      },
+      {
+        "topic": "中美经贸",
+        "count": 14,
+        "days": [
+          "2026-08-07",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-20",
+          "2026-08-25",
+          "2026-08-29",
+          "2026-08-30",
+          "2026-09-01",
+          "2026-09-02",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-19"
         ]
       },
       {
@@ -54990,25 +56761,6 @@ window.__XFS_DATA__ = {
           "2026-08-30",
           "2026-09-01",
           "2026-09-03"
-        ]
-      },
-      {
-        "topic": "中美经贸",
-        "count": 13,
-        "days": [
-          "2026-08-07",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-20",
-          "2026-08-25",
-          "2026-08-29",
-          "2026-08-30",
-          "2026-09-01",
-          "2026-09-02",
-          "2026-09-04",
-          "2026-09-05"
         ]
       },
       {
@@ -55293,6 +57045,21 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "伊朗",
+        "count": 9,
+        "days": [
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-16",
+          "2026-08-21",
+          "2026-08-24",
+          "2026-08-25",
+          "2026-08-26",
+          "2026-08-27",
+          "2026-09-19"
+        ]
+      },
+      {
         "topic": "货币政策",
         "count": 8,
         "days": [
@@ -55377,6 +57144,20 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "稀土",
+        "count": 8,
+        "days": [
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-12",
+          "2026-08-15",
+          "2026-08-26",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-19"
+        ]
+      },
+      {
         "topic": "内需",
         "count": 8,
         "days": [
@@ -55388,20 +57169,6 @@ window.__XFS_DATA__ = {
           "2026-08-18",
           "2026-08-21",
           "2026-09-01"
-        ]
-      },
-      {
-        "topic": "伊朗",
-        "count": 8,
-        "days": [
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-16",
-          "2026-08-21",
-          "2026-08-24",
-          "2026-08-25",
-          "2026-08-26",
-          "2026-08-27"
         ]
       },
       {
@@ -55418,16 +57185,16 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "稀土",
+        "topic": "人民币汇率",
         "count": 7,
         "days": [
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-12",
-          "2026-08-15",
-          "2026-08-26",
-          "2026-09-04",
-          "2026-09-05"
+          "2026-08-11",
+          "2026-08-13",
+          "2026-08-16",
+          "2026-08-25",
+          "2026-08-30",
+          "2026-09-11",
+          "2026-09-20"
         ]
       },
       {
@@ -55552,6 +57319,18 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "宏观政策",
+        "count": 6,
+        "days": [
+          "2026-08-08",
+          "2026-08-18",
+          "2026-08-21",
+          "2026-08-22",
+          "2026-08-25",
+          "2026-09-18"
+        ]
+      },
+      {
         "topic": "科技",
         "count": 6,
         "days": [
@@ -55561,6 +57340,18 @@ window.__XFS_DATA__ = {
           "2026-08-25",
           "2026-09-01",
           "2026-09-03"
+        ]
+      },
+      {
+        "topic": "阿里巴巴",
+        "count": 6,
+        "days": [
+          "2026-08-09",
+          "2026-08-16",
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-22",
+          "2026-09-20"
         ]
       },
       {
@@ -55576,15 +57367,26 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "人民币汇率",
+        "topic": "比亚迪",
         "count": 6,
         "days": [
-          "2026-08-11",
-          "2026-08-13",
-          "2026-08-16",
+          "2026-08-12",
+          "2026-08-14",
+          "2026-08-20",
+          "2026-08-28",
+          "2026-09-08",
+          "2026-09-18"
+        ]
+      },
+      {
+        "topic": "新能源汽车",
+        "count": 5,
+        "days": [
+          "2026-08-04",
+          "2026-08-12",
           "2026-08-25",
-          "2026-08-30",
-          "2026-09-11"
+          "2026-08-28",
+          "2026-09-18"
         ]
       },
       {
@@ -55665,17 +57467,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "宏观政策",
-        "count": 5,
-        "days": [
-          "2026-08-08",
-          "2026-08-18",
-          "2026-08-21",
-          "2026-08-22",
-          "2026-08-25"
-        ]
-      },
-      {
         "topic": "通胀",
         "count": 5,
         "days": [
@@ -55706,17 +57497,6 @@ window.__XFS_DATA__ = {
           "2026-08-11",
           "2026-08-14",
           "2026-08-15"
-        ]
-      },
-      {
-        "topic": "阿里巴巴",
-        "count": 5,
-        "days": [
-          "2026-08-09",
-          "2026-08-16",
-          "2026-08-17",
-          "2026-08-18",
-          "2026-08-22"
         ]
       },
       {
@@ -55797,17 +57577,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "比亚迪",
-        "count": 5,
-        "days": [
-          "2026-08-12",
-          "2026-08-14",
-          "2026-08-20",
-          "2026-08-28",
-          "2026-09-08"
-        ]
-      },
-      {
         "topic": "关键矿产",
         "count": 5,
         "days": [
@@ -55849,16 +57618,6 @@ window.__XFS_DATA__ = {
           "2026-08-25",
           "2026-09-01",
           "2026-09-08"
-        ]
-      },
-      {
-        "topic": "新能源汽车",
-        "count": 4,
-        "days": [
-          "2026-08-04",
-          "2026-08-12",
-          "2026-08-25",
-          "2026-08-28"
         ]
       },
       {
@@ -55919,6 +57678,16 @@ window.__XFS_DATA__ = {
           "2026-08-10",
           "2026-08-13",
           "2026-08-25"
+        ]
+      },
+      {
+        "topic": "北京",
+        "count": 4,
+        "days": [
+          "2026-08-08",
+          "2026-08-10",
+          "2026-08-12",
+          "2026-09-18"
         ]
       },
       {
@@ -55992,6 +57761,16 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "字节跳动",
+        "count": 4,
+        "days": [
+          "2026-08-12",
+          "2026-09-03",
+          "2026-09-19",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "AI大模型",
         "count": 4,
         "days": [
@@ -56052,6 +57831,16 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "中美AI竞争",
+        "count": 4,
+        "days": [
+          "2026-08-17",
+          "2026-08-19",
+          "2026-09-10",
+          "2026-09-19"
+        ]
+      },
+      {
         "topic": "中概股",
         "count": 4,
         "days": [
@@ -56059,6 +57848,16 @@ window.__XFS_DATA__ = {
           "2026-08-24",
           "2026-08-25",
           "2026-08-26"
+        ]
+      },
+      {
+        "topic": "恒大",
+        "count": 4,
+        "days": [
+          "2026-08-22",
+          "2026-08-24",
+          "2026-09-02",
+          "2026-09-18"
         ]
       },
       {
@@ -56072,6 +57871,16 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "电动车",
+        "count": 4,
+        "days": [
+          "2026-08-22",
+          "2026-09-08",
+          "2026-09-11",
+          "2026-09-18"
+        ]
+      },
+      {
         "topic": "香港",
         "count": 4,
         "days": [
@@ -56079,6 +57888,16 @@ window.__XFS_DATA__ = {
           "2026-08-24",
           "2026-08-26",
           "2026-09-05"
+        ]
+      },
+      {
+        "topic": "次级制裁",
+        "count": 4,
+        "days": [
+          "2026-08-24",
+          "2026-08-25",
+          "2026-08-28",
+          "2026-09-19"
         ]
       },
       {
@@ -56118,6 +57937,15 @@ window.__XFS_DATA__ = {
           "2026-08-04",
           "2026-08-25",
           "2026-08-27"
+        ]
+      },
+      {
+        "topic": "制裁",
+        "count": 3,
+        "days": [
+          "2026-08-04",
+          "2026-08-09",
+          "2026-09-19"
         ]
       },
       {
@@ -56211,6 +58039,15 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "俄罗斯",
+        "count": 3,
+        "days": [
+          "2026-08-06",
+          "2026-08-16",
+          "2026-09-19"
+        ]
+      },
+      {
         "topic": "朝鲜",
         "count": 3,
         "days": [
@@ -56274,15 +58111,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "北京",
-        "count": 3,
-        "days": [
-          "2026-08-08",
-          "2026-08-10",
-          "2026-08-12"
-        ]
-      },
-      {
         "topic": "生物科技",
         "count": 3,
         "days": [
@@ -56298,6 +58126,15 @@ window.__XFS_DATA__ = {
           "2026-08-08",
           "2026-08-22",
           "2026-08-24"
+        ]
+      },
+      {
+        "topic": "财政",
+        "count": 3,
+        "days": [
+          "2026-08-09",
+          "2026-08-22",
+          "2026-09-18"
         ]
       },
       {
@@ -56526,12 +58363,12 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "中美AI竞争",
+        "topic": "通义千问",
         "count": 3,
         "days": [
           "2026-08-17",
-          "2026-08-19",
-          "2026-09-10"
+          "2026-08-18",
+          "2026-09-20"
         ]
       },
       {
@@ -56553,39 +58390,12 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "恒大",
-        "count": 3,
-        "days": [
-          "2026-08-22",
-          "2026-08-24",
-          "2026-09-02"
-        ]
-      },
-      {
-        "topic": "电动车",
-        "count": 3,
-        "days": [
-          "2026-08-22",
-          "2026-09-08",
-          "2026-09-11"
-        ]
-      },
-      {
         "topic": "华南",
         "count": 3,
         "days": [
           "2026-08-24",
           "2026-08-25",
           "2026-08-26"
-        ]
-      },
-      {
-        "topic": "次级制裁",
-        "count": 3,
-        "days": [
-          "2026-08-24",
-          "2026-08-25",
-          "2026-08-28"
         ]
       },
       {
@@ -56661,6 +58471,24 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "资本流动",
+        "count": 3,
+        "days": [
+          "2026-09-02",
+          "2026-09-03",
+          "2026-09-20"
+        ]
+      },
+      {
+        "topic": "AI安全",
+        "count": 3,
+        "days": [
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-19"
+        ]
+      },
+      {
         "topic": "军事安全",
         "count": 2,
         "days": [
@@ -56682,14 +58510,6 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-04",
           "2026-09-05"
-        ]
-      },
-      {
-        "topic": "制裁",
-        "count": 2,
-        "days": [
-          "2026-08-04",
-          "2026-08-09"
         ]
       },
       {
@@ -56797,14 +58617,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "俄罗斯",
-        "count": 2,
-        "days": [
-          "2026-08-06",
-          "2026-08-16"
-        ]
-      },
-      {
         "topic": "AI需求",
         "count": 2,
         "days": [
@@ -56906,14 +58718,6 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-08",
           "2026-08-18"
-        ]
-      },
-      {
-        "topic": "财政",
-        "count": 2,
-        "days": [
-          "2026-08-09",
-          "2026-08-22"
         ]
       },
       {
@@ -57045,6 +58849,14 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "反垄断",
+        "count": 2,
+        "days": [
+          "2026-08-11",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "寒武纪",
         "count": 2,
         "days": [
@@ -57066,14 +58878,6 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-08-12",
           "2026-08-19"
-        ]
-      },
-      {
-        "topic": "字节跳动",
-        "count": 2,
-        "days": [
-          "2026-08-12",
-          "2026-09-03"
         ]
       },
       {
@@ -57381,15 +59185,15 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "中国金融",
+        "topic": "美元",
         "count": 2,
         "days": [
           "2026-08-17",
-          "2026-08-18"
+          "2026-09-20"
         ]
       },
       {
-        "topic": "通义千问",
+        "topic": "中国金融",
         "count": 2,
         "days": [
           "2026-08-17",
@@ -57621,6 +59425,14 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "AI投入",
+        "count": 2,
+        "days": [
+          "2026-08-25",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "PMI",
         "count": 2,
         "days": [
@@ -57701,6 +59513,14 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "平台经济",
+        "count": 2,
+        "days": [
+          "2026-08-29",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "全球失衡",
         "count": 2,
         "days": [
@@ -57741,22 +59561,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "资本流动",
-        "count": 2,
-        "days": [
-          "2026-09-02",
-          "2026-09-03"
-        ]
-      },
-      {
-        "topic": "AI安全",
-        "count": 2,
-        "days": [
-          "2026-09-04",
-          "2026-09-05"
-        ]
-      },
-      {
         "topic": "科技治理",
         "count": 2,
         "days": [
@@ -57778,6 +59582,22 @@ window.__XFS_DATA__ = {
         "days": [
           "2026-09-04",
           "2026-09-05"
+        ]
+      },
+      {
+        "topic": "商务部",
+        "count": 2,
+        "days": [
+          "2026-09-10",
+          "2026-09-19"
+        ]
+      },
+      {
+        "topic": "内需不足",
+        "count": 2,
+        "days": [
+          "2026-09-11",
+          "2026-09-18"
         ]
       }
     ],
@@ -59272,14 +61092,41 @@ window.__XFS_DATA__ = {
       }
     ],
     "penetration": {
-      "运行天数": 37,
-      "累计报道": 549,
-      "覆盖议题": 912,
-      "覆盖信源": 1241,
+      "运行天数": 40,
+      "累计报道": 561,
+      "覆盖议题": 953,
+      "覆盖信源": 1277,
       "负面累计": 186,
-      "谋题累计": 36
+      "谋题累计": 45
     },
     "questions_timeline": [
+      {
+        "day": "2026-09-20",
+        "count": 3,
+        "titles": [
+          "阿里Qwen3.8-Omni-Flash发布：全模态Agent“降本+长上下文”路线的中国样本",
+          "字节上半年净利降至约200亿美元：AI基建烧钱挤压利润，中国科技资本开支拐点",
+          "四家酒旅平台被立案：平台经济“常态化监管”从反垄断走向反不正当竞争"
+        ]
+      },
+      {
+        "day": "2026-09-19",
+        "count": 3,
+        "titles": [
+          "贝森特+格里尔纽约会晤何立峰：特朗普—习近平峰会前的七大经贸议程",
+          "字节系Anew Labs融资3亿美元：中国AI+生物医药“硬科技”资本化提速",
+          "中国反对美《制裁俄伊法案》：次级制裁博弈成中美关系新摩擦点"
+        ]
+      },
+      {
+        "day": "2026-09-18",
+        "count": 3,
+        "titles": [
+          "比亚迪大规模召回逾18万辆：中国电动车质量与出海声誉的警示",
+          "财政8月“收多支少”：广义支出降幅扩大，内需疲弱下的刺激两难",
+          "PE据报考虑新出价恒大物业：出清地产风险资产的最后博弈"
+        ]
+      },
       {
         "day": "2026-09-11",
         "count": 3,
@@ -59391,11 +61238,11 @@ window.__XFS_DATA__ = {
     ]
   },
   "stats": {
-    "total": 549,
-    "days": 37,
+    "total": 561,
+    "days": 40,
     "negatives": 186,
-    "with_author": 312,
-    "with_body": 133,
-    "with_sources": 487
+    "with_author": 316,
+    "with_body": 145,
+    "with_sources": 499
   }
 };

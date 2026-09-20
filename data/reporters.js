@@ -801,5 +801,62 @@ window.__XFS_REPORTERS__ = [
     ],
     handles: { x: "—", linkedin: "—", email: "—" },
     sources: ["https://srnnews.com/us-firms-in-china-more-upbeat-on-outlook-as-profits-recover-survey-shows", "https://muckrack.com/shanghaicasey"]
+  },
+  {
+    id: "david-lawder", name: "David Lawder", name_zh: "—",
+    gender: "男(推测)",
+    nationality: "美国(推测)",
+    ethnic_chinese: "否",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "美国财政部/七国集团首席记者（头衔未确认）", title_en: "Reporter (US Treasury / G7)",
+    beat: "驻华盛顿，覆盖美国财政部、七国集团与宏观经济政策；亦报道中美经贸会谈。",
+    base: "华盛顿", base_en: "Washington, D.C.",
+    background: "路透社记者，2026-09-19署名报道美财长贝森特、贸易代表格里尔将于纽约会晤中国副总理何立峰（特朗普—习近平峰会前经贸预备会）。公开履历与毕业院校未检索到，本档不编造。",
+    education: "未公开检索到",
+    career: ["路透 美国财政部/宏观经济记者（驻华盛顿）"],
+    focus: ["美国财政", "G7", "中美经贸", "宏观经济"],
+    recent: [
+      { t: "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters", d: "2026-09-19", n: "路透署名（Sun Herald syndication 确认 Reporting by David Lawder）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.sunherald.com/news/business/article317307965.html"]
+  },
+  {
+    id: "kane-wu", name: "Kane Wu", name_zh: "—",
+    gender: "待定",
+    nationality: "待定",
+    ethnic_chinese: "待定",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "亚洲并购/中国科技记者（头衔未确认）", title_en: "Chief Asia M&A Correspondent",
+    beat: "驻香港，覆盖亚洲并购、中国科技与创业融资，包括AI与生物医药分拆。",
+    base: "香港", base_en: "Hong Kong",
+    background: "路透社记者（Chief Asia M&A Correspondent），2026-09-19署名报道字节系AI制药分拆公司Anew Labs完成2.9亿美元融资（估值15亿美元，红杉中国/IDG参投）。公开履历与毕业院校未检索到，本档不编造。",
+    education: "未公开检索到",
+    career: ["路透 亚洲并购/中国科技记者（驻香港）"],
+    focus: ["中国科技", "私募股权", "AI制药", "创业融资"],
+    recent: [
+      { t: "Anew Labs, ByteDance spinoff using AI for drug discovery, raises $290 million", d: "2026-09-19", n: "路透署名（Techmeme 聚合确认 Kane Wu / Reuters）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://tech.memeorandum.com/river", "https://muckrack.com/kane-wu"]
+  },
+  {
+    id: "nectar-gan", name: "Nectar Gan", name_zh: "—",
+    gender: "待定",
+    nationality: "待定",
+    ethnic_chinese: "待定",
+    org: "Bloomberg", org_unit: "Bloomberg", role: "reporter",
+    title: "中国/美国科技政策记者（头衔未确认）", title_en: "Reporter (China / US tech policy)",
+    beat: "覆盖中美科技竞争、AI政策与美国出口管制。",
+    base: "香港", base_en: "Hong Kong",
+    background: "彭博社记者，2026-09-19署名报道“特朗普政府遏制中国AI崛起可选工具寥寥、稀土限制成两难”，适逢中美AI会谈前夕。公开履历与毕业院校未检索到，本档不编造。",
+    education: "未公开检索到",
+    career: ["Bloomberg 中美科技政策记者（驻香港）"],
+    focus: ["中美AI竞争", "出口管制", "稀土", "科技政策"],
+    recent: [
+      { t: "Trump administration has few good options to slow China's AI rise", d: "2026-09-19", n: "彭博署名（Techmeme 聚合确认 Nectar Gan / Bloomberg）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://tech.memeorandum.com/river"]
   }
 ];
