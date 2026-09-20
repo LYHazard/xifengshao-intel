@@ -878,4 +878,25 @@ window.__XFS_REPORTERS__ = [
     handles: { x: "—", linkedin: "—", email: "—" },
     sources: ["https://www.reuters.com/business/aerospace/major-us-airlines-oppose-air-china-us-flights-2026-09-18/"]
   }
+,
+  {
+    id: "william-wilkes", name: "William Wilkes", name_zh: "—",
+    gender: "男",
+    nationality: "待定",
+    ethnic_chinese: "否",
+    org: "Bloomberg", org_unit: "Bloomberg News", role: "reporter",
+    title: "汽车产业记者", title_en: "Autos Reporter",
+    beat: "覆盖德国及欧洲汽车产业——大众、保时捷等车企的重组、裁员、利润与电动化转型，以及中美关税与对华需求对其业绩的冲击；主理彭博《Auto Monitor》汽车周讯。",
+    base: "未确认（德国车企线，常驻法兰克福推测）", base_en: "—",
+    background: "彭博社汽车产业记者，署名覆盖大众汽车（Volkswagen）、保时捷（Porsche）等德国车企重组与业绩报道，并主理彭博《Auto Monitor》汽车产业周讯。2026-09-19 署名报道大众因中国销量滑坡与保时捷减值大幅下调全年利润指引。公开履历与毕业院校未检索到，本档不编造。",
+    education: "未公开检索到",
+    career: ["彭博 汽车产业记者（德国车企线）", "主理 Bloomberg Auto Monitor 周讯"],
+    focus: ["汽车", "大众", "保时捷", "德国制造", "电动化", "中美关税"],
+    recent: [
+      { t: "VW slashes profit outlook after China sales slump and US$6.9 bil writedown", d: "2026-09-19", n: "大众下调利润指引（中国销量滑坡+保时捷减值）" },
+      { t: "Volkswagen Boss Blume Risks Losing the Locker Room", d: "2026-08-31", n: "Bloomberg Auto Monitor 周讯" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.envoy.cirrus.bloomberg.com/news/newsletters/2026-08-31/volkswagen-ceo-blume-risks-losing-the-locker-room", "https://news.bloombergtax.com/international-trade/vw-eyes-cutting-100-000-jobs-and-closing-plants-report-says-2"]
+  }
 ];

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:43:50+08:00",
+  "generated_at": "2026-09-20T11:20:57+08:00",
   "latest_questions_day": "2026-09-20",
   "days": {
     "2026-09-20": {
@@ -8,16 +8,16 @@
       "window": "2026-09-19T00:00:00+08:00 ~ 2026-09-20T09:46:00+08:00",
       "coverage": {
         "reuters": {
-          "captured": 1,
+          "captured": 2,
           "with_author": 0,
-          "with_fulltext": 1,
-          "note": "补采合并后共 1 篇；具名 0 篇；含正文 1 篇。新增稿件经 WebSearch + 转载源补全标题/署名/正文，机构稿 authors_status=not_available 未编造。"
+          "with_fulltext": 2,
+          "note": "通道A直连 reuters.com 被JS墙拦截→B代理对官方域401/403不可用→C WebSearch多组+国际转载(ICAC/财新/PIQ/Caixin)补全。本轮增量新增1篇(r2 香港建行亚洲前经理受贿案,机构稿 authors_status=not_available,署名经WebSearch二次找回尝试仍无真名)。r1 人民币走强为早前已录。"
         },
         "bloomberg": {
-          "captured": 4,
-          "with_author": 0,
-          "with_fulltext": 4,
-          "note": "补采合并后共 4 篇；具名 0 篇；含正文 4 篇。新增稿件经 WebSearch + 转载源补全标题/署名/正文，机构稿 authors_status=not_available 未编造。"
+          "captured": 6,
+          "with_author": 1,
+          "with_fulltext": 6,
+          "note": "通道A直连 bloomberg.com 拦截→C WebSearch+转载(Edge Malaysia/Yahoo Finance/OilPrice/TradingView)补全。本轮增量新增2篇(b5 大众中国销量滑坡致利润预警,具名 William Wilkes;b6 特朗普-习峰会宏观前瞻,机构稿 not_available)。b1-b4为早前已录。"
         }
       },
       "enriched_at": null,
@@ -230,20 +230,150 @@
             "evidence_url": "https://xueqiu.com/1021113906/409918595",
             "evidence_note": "路透官网直连被JS墙拦截；经 雪球《全球及中国财经要闻综述(2026.09.20)》与华尔街见闻等交叉确认（9/18在岸离岸双破6.7、年内升逾4%）。机构市场稿，无个人署名，authors_status=not_available，未编造。"
           }
+        },
+        {
+          "id": "b6",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Trump-Xi showdown casts shadow over global economy",
+          "title_zh": "特朗普—习近平峰会笼罩全球经济：关税、科技与两大经济体博弈成本周焦点",
+          "published_at": "2026-09-20",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "中美关系",
+            "特朗普",
+            "习近平",
+            "峰会",
+            "关税",
+            "科技",
+            "全球经济"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社9月20日宏观前瞻：美国总统特朗普与中国领导人习近平本周在华盛顿的会晤，将成为全球市场与政策层面的焦点事件，议题涵盖从关税到科技等两大经济体之间的核心分歧。在9月24日峰会前夕，双方工作层（美财长贝森特、贸易代表格里尔与中国副总理何立峰）已于纽约会晤，为领导人峰会铺路，焦点包括关税休战延期、AI安全与治理、稀土、农产品与市场准入。市场关注峰会能否为持续紧张的贸易与技术关系带来“稳定锚”，抑或仅是脆弱的暂时冻结。",
+          "china_angle": "此次峰会是观察中美“贸易休战能否延续、科技管制是否再加码、AI治理能否设护栏”的窗口：关税、稀土、AI安全、台海构成四大议题；其结果将直接影响全球供应链、汇率与风险资产定价，是本周全球经济最大单一变量。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-20/trump-xi-showdown-casts-shadow-over-global-economy",
+          "body_available": true,
+          "body_zh": "彭博9月20日宏观前瞻：特朗普—习近平本周华盛顿会晤为全球本周焦点事件，议题涵盖关税与科技等两大经济体核心分歧；工作层（贝森特、格里尔、何立峰）已纽约会晤铺路，焦点为关税休战、AI安全、稀土、农产品与市场准入。市场关注峰会能否提供稳定锚。",
+          "cited_sources": [
+            "Bloomberg Economics",
+            "White House",
+            "中国商务部"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://theedgemalaysia.com/node/818621",
+            "evidence_note": "彭博官网直连被JS墙拦截；经 The Edge Malaysia（'Trump-Xi showdown casts shadow over global economy' / Bloomberg, 2026-09-20 08:16）确认。机构宏观稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "b5",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "VW slashes profit outlook after China sales slump and US$6.9 bil writedown",
+          "title_zh": "大众下调全年利润指引：中国市场滑坡叠加保时捷60亿欧元减值，经营利润率预期砍至最高1%",
+          "published_at": "2026-09-19",
+          "published_precision": "date",
+          "authors": [
+            "William Wilkes"
+          ],
+          "author_locations": [],
+          "authors_status": "named",
+          "topics": [
+            "大众汽车",
+            "Volkswagen",
+            "保时捷",
+            "中国市场",
+            "利润预警",
+            "减值",
+            "电动车"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社9月19日报道（By William Wilkes）：大众汽车大幅下调2026全年利润指引——预计销售回报率（operating return on sales）最高仅1%，远低于此前4%—5.5%的指引；全年营收预期降至约3150亿欧元（2025年为3219亿）。约100亿欧元（约115亿美元）一次性特殊项目拖累利润，其中约60亿欧元为对保时捷（大众持股75.4%）商誉的非现金减值，反映保时捷中期估值假设下修（受美国关税与中国奢侈品需求崩塌冲击）；另有约20亿欧元来自中国相关资产减值与重组费用（提前退休、出售奥斯纳布吕克工厂）。CFO Arno Antlitz 内部备忘录称中国市场萎缩约20%、中国车企在欧洲抢份额、电动车占比上升压低利润，“已没有时间可浪费”。大众股价盘中最多跌约7.5%—8%。监事会本月已将全球裁员计划翻倍至10万人。",
+          "china_angle": "大众利润预警是“中国车企出海+本土需求疲弱”双重挤压欧洲老牌车企的缩影：中国市场收缩约20%、中国品牌凭高性价比电动车在欧洲扩张，直接削弱大众两大利润支柱（中国盈利与豪华品牌）。这既是中德汽车竞争格局转折的信号，也关联美国关税、保时捷在华奢侈品需求塌陷等跨战线压力。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-19/volkswagen-slashes-profit-outlook-china-sales-slump",
+          "body_available": true,
+          "body_zh": "彭博（By William Wilkes）9月19日：大众下调2026利润指引，销售回报率预期最高1%（原4%—5.5%），营收约3150亿欧元。约100亿欧元特殊项中60亿为保时捷商誉减值（美国关税+中国奢侈品需求崩），约20亿为中国资产减值与重组。CFO称中国市场萎缩约20%、中国车企抢欧洲份额、电动车压利。股价盘中跌约7.5%—8%，全球裁员翻倍至10万。",
+          "cited_sources": [
+            "Volkswagen AG 大众汽车",
+            "Porsche AG 保时捷",
+            "Arno Antlitz (CFO)",
+            "Bloomberg"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "大众预警折射欧洲车企在华“护城河”崩塌：其中国市场份额被比亚迪、吉利等凭智能电动产品快速侵蚀，而本土市场又遭中国品牌以高性价比EV反攻，形成“两头受压”。保时捷减值更直接点名“中国奢侈品需求崩塌+美国关税”双杀——说明即便豪华品牌也难避中国需求结构性走弱。叠加欧盟对华电动车关税与反补贴博弈、美国25%汽车关税，大众被迫以10万人裁员与产能出清自救，标志全球汽车产业权力转移进入车企资产负债表层面。其成败将成为观察“中国电动车出海是否触发欧洲产业重组”的关键样本。",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://finance.yahoo.com/markets/stocks/articles/volkswagen-cuts-2026-profit-forecast-182249007.html",
+            "evidence_note": "彭博官网直连被JS墙拦截；经 Yahoo Finance（Quartz/Bloomberg 综合）/OilPrice/TradingView 全文转载确认（By William Wilkes / Bloomberg）。真实记者署名经转载 byline 取得，authors_status=named。"
+          }
+        },
+        {
+          "id": "r2",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes",
+          "title_zh": "香港判处建行亚洲前客户经理4年：认证16亿美元虚假信用证、收受47万美元泰达币贿款",
+          "published_at": "2026-09-19",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "香港",
+            "建行亚洲",
+            "廉政公署",
+            "虚假信用证",
+            "加密货币贿赂",
+            "金融诚信"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社9月19日报道：香港区域法院判处中国建设银行（亚洲）前客户经理林俊贤（Lam Chun-yin）监禁4年，因其串谋收受总值逾47万美元（约370万港元）的泰达币（USDT）贿款，在无权处理情况下认证多份假称由建行签发的备用信用证及抵押函件，涉案文书名义总值逾16亿美元。法官练锦鸿以6年量刑起点、认罪扣减三分之一至4年，并判令向建行亚洲归还约370万港元。案发于2022年4—6月，林透过海外金融科技公司Vesttoo及Yu Po Holdings的保险相关投资骗局获利；建行亚洲内部调查发现后向廉政公署投诉。廉署已申请手令通缉其他涉案人士。此案凸显加密货币作贿赂通道、危及香港国际金融中心信誉，与香港扩大多资产监管（代币化存款、区块链结算）同步受关注。",
+          "china_angle": "此案是香港金融诚信与虚拟资产监管的交汇点：以USDT绕开银行记录支付贿款、伪造银行担保文书，暴露贸易融资欺诈与加密贿赂的新型风险；亦关乎中国建设银行（亚洲）的声誉与香港作为国际金融中心的法治形象，可与内地反洗钱、跨境资本监管形成对照。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/hong-kong-jails-former-banker-1-6-billion-false-credit-crypto-bribes-2026-09-19",
+          "body_available": true,
+          "body_zh": "路透9月19日：香港区域法院判建行亚洲前客户经理林俊贤4年监禁，收受逾47万美元USDT贿款、认证名义值逾16亿美元虚假备用信用证与抵押函件。法官练锦鸿6年起刑、认罪扣减至4年，令归还约370万港元。案发2022年4—6月，涉Vesttoo/Yu Po保险投资骗局；建行亚洲内审揭发后报廉署，廉署已通缉其他涉案者。",
+          "cited_sources": [
+            "China Construction Bank (Asia) 建行亚洲",
+            "Hong Kong ICAC 廉政公署",
+            "Hong Kong District Court 区域法院",
+            "Vesttoo Limited",
+            "Yu Po Holdings",
+            "Judge Ernest Lin Kam-hung 练锦鸿"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.icac.org.hk/sc/p/press-archive/index_id_5022.html",
+            "evidence_note": "路透官网直连被JS墙拦截；经香港廉政公署新闻公布（9月9日认罪、9月18日判刑）及财新（9月18日）交叉确认。记者署名经 WebSearch 检索未命中 reuters.com 真名（二次找回尝试失败，仅机构/法院通稿），authors_status=not_available，未编造。"
+          }
         }
       ],
       "daily_analysis": {
-        "total": 5,
+        "total": 8,
         "by_media": {
-          "彭博社": 4,
-          "路透社": 1
+          "彭博社": 6,
+          "路透社": 2
         },
         "sentiment_split": {
-          "negative": 0,
-          "neutral": 5,
+          "negative": 1,
+          "neutral": 7,
           "positive": 0
         },
-        "negatives": [],
+        "negatives": [
+          "b5"
+        ],
         "top_topics": [
           [
             "阿里巴巴",
@@ -270,7 +400,7 @@
             1
           ]
         ],
-        "key_takeaway": "阿里发布Qwen3.8-Omni-Flash：百万上下文+音视频API降价超九成"
+        "key_takeaway": "大众下调全年利润指引：中国市场滑坡叠加保时捷60亿欧元减值，经营利润率预期砍至最高1%"
       },
       "questions": [
         {
@@ -51510,21 +51640,155 @@
       },
       "_day": "2026-09-20",
       "_uid": "2026-09-20/b4"
+    },
+    {
+      "id": "r2",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes",
+      "title_zh": "香港判处建行亚洲前客户经理4年：认证16亿美元虚假信用证、收受47万美元泰达币贿款",
+      "published_at": "2026-09-19",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "香港",
+        "建行亚洲",
+        "廉政公署",
+        "虚假信用证",
+        "加密货币贿赂",
+        "金融诚信"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透社9月19日报道：香港区域法院判处中国建设银行（亚洲）前客户经理林俊贤（Lam Chun-yin）监禁4年，因其串谋收受总值逾47万美元（约370万港元）的泰达币（USDT）贿款，在无权处理情况下认证多份假称由建行签发的备用信用证及抵押函件，涉案文书名义总值逾16亿美元。法官练锦鸿以6年量刑起点、认罪扣减三分之一至4年，并判令向建行亚洲归还约370万港元。案发于2022年4—6月，林透过海外金融科技公司Vesttoo及Yu Po Holdings的保险相关投资骗局获利；建行亚洲内部调查发现后向廉政公署投诉。廉署已申请手令通缉其他涉案人士。此案凸显加密货币作贿赂通道、危及香港国际金融中心信誉，与香港扩大多资产监管（代币化存款、区块链结算）同步受关注。",
+      "china_angle": "此案是香港金融诚信与虚拟资产监管的交汇点：以USDT绕开银行记录支付贿款、伪造银行担保文书，暴露贸易融资欺诈与加密贿赂的新型风险；亦关乎中国建设银行（亚洲）的声誉与香港作为国际金融中心的法治形象，可与内地反洗钱、跨境资本监管形成对照。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/hong-kong-jails-former-banker-1-6-billion-false-credit-crypto-bribes-2026-09-19",
+      "body_available": true,
+      "body_zh": "路透9月19日：香港区域法院判建行亚洲前客户经理林俊贤4年监禁，收受逾47万美元USDT贿款、认证名义值逾16亿美元虚假备用信用证与抵押函件。法官练锦鸿6年起刑、认罪扣减至4年，令归还约370万港元。案发2022年4—6月，涉Vesttoo/Yu Po保险投资骗局；建行亚洲内审揭发后报廉署，廉署已通缉其他涉案者。",
+      "cited_sources": [
+        "China Construction Bank (Asia) 建行亚洲",
+        "Hong Kong ICAC 廉政公署",
+        "Hong Kong District Court 区域法院",
+        "Vesttoo Limited",
+        "Yu Po Holdings",
+        "Judge Ernest Lin Kam-hung 练锦鸿"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.icac.org.hk/sc/p/press-archive/index_id_5022.html",
+        "evidence_note": "路透官网直连被JS墙拦截；经香港廉政公署新闻公布（9月9日认罪、9月18日判刑）及财新（9月18日）交叉确认。记者署名经 WebSearch 检索未命中 reuters.com 真名（二次找回尝试失败，仅机构/法院通稿），authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-20",
+      "_uid": "2026-09-20/r2"
+    },
+    {
+      "id": "b5",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "VW slashes profit outlook after China sales slump and US$6.9 bil writedown",
+      "title_zh": "大众下调全年利润指引：中国市场滑坡叠加保时捷60亿欧元减值，经营利润率预期砍至最高1%",
+      "published_at": "2026-09-19",
+      "published_precision": "date",
+      "authors": [
+        "William Wilkes"
+      ],
+      "author_locations": [],
+      "authors_status": "named",
+      "topics": [
+        "大众汽车",
+        "Volkswagen",
+        "保时捷",
+        "中国市场",
+        "利润预警",
+        "减值",
+        "电动车"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社9月19日报道（By William Wilkes）：大众汽车大幅下调2026全年利润指引——预计销售回报率（operating return on sales）最高仅1%，远低于此前4%—5.5%的指引；全年营收预期降至约3150亿欧元（2025年为3219亿）。约100亿欧元（约115亿美元）一次性特殊项目拖累利润，其中约60亿欧元为对保时捷（大众持股75.4%）商誉的非现金减值，反映保时捷中期估值假设下修（受美国关税与中国奢侈品需求崩塌冲击）；另有约20亿欧元来自中国相关资产减值与重组费用（提前退休、出售奥斯纳布吕克工厂）。CFO Arno Antlitz 内部备忘录称中国市场萎缩约20%、中国车企在欧洲抢份额、电动车占比上升压低利润，“已没有时间可浪费”。大众股价盘中最多跌约7.5%—8%。监事会本月已将全球裁员计划翻倍至10万人。",
+      "china_angle": "大众利润预警是“中国车企出海+本土需求疲弱”双重挤压欧洲老牌车企的缩影：中国市场收缩约20%、中国品牌凭高性价比电动车在欧洲扩张，直接削弱大众两大利润支柱（中国盈利与豪华品牌）。这既是中德汽车竞争格局转折的信号，也关联美国关税、保时捷在华奢侈品需求塌陷等跨战线压力。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-19/volkswagen-slashes-profit-outlook-china-sales-slump",
+      "body_available": true,
+      "body_zh": "彭博（By William Wilkes）9月19日：大众下调2026利润指引，销售回报率预期最高1%（原4%—5.5%），营收约3150亿欧元。约100亿欧元特殊项中60亿为保时捷商誉减值（美国关税+中国奢侈品需求崩），约20亿为中国资产减值与重组。CFO称中国市场萎缩约20%、中国车企抢欧洲份额、电动车压利。股价盘中跌约7.5%—8%，全球裁员翻倍至10万。",
+      "cited_sources": [
+        "Volkswagen AG 大众汽车",
+        "Porsche AG 保时捷",
+        "Arno Antlitz (CFO)",
+        "Bloomberg"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "大众预警折射欧洲车企在华“护城河”崩塌：其中国市场份额被比亚迪、吉利等凭智能电动产品快速侵蚀，而本土市场又遭中国品牌以高性价比EV反攻，形成“两头受压”。保时捷减值更直接点名“中国奢侈品需求崩塌+美国关税”双杀——说明即便豪华品牌也难避中国需求结构性走弱。叠加欧盟对华电动车关税与反补贴博弈、美国25%汽车关税，大众被迫以10万人裁员与产能出清自救，标志全球汽车产业权力转移进入车企资产负债表层面。其成败将成为观察“中国电动车出海是否触发欧洲产业重组”的关键样本。",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://finance.yahoo.com/markets/stocks/articles/volkswagen-cuts-2026-profit-forecast-182249007.html",
+        "evidence_note": "彭博官网直连被JS墙拦截；经 Yahoo Finance（Quartz/Bloomberg 综合）/OilPrice/TradingView 全文转载确认（By William Wilkes / Bloomberg）。真实记者署名经转载 byline 取得，authors_status=named。"
+      },
+      "_day": "2026-09-20",
+      "_uid": "2026-09-20/b5"
+    },
+    {
+      "id": "b6",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Trump-Xi showdown casts shadow over global economy",
+      "title_zh": "特朗普—习近平峰会笼罩全球经济：关税、科技与两大经济体博弈成本周焦点",
+      "published_at": "2026-09-20",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "中美关系",
+        "特朗普",
+        "习近平",
+        "峰会",
+        "关税",
+        "科技",
+        "全球经济"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社9月20日宏观前瞻：美国总统特朗普与中国领导人习近平本周在华盛顿的会晤，将成为全球市场与政策层面的焦点事件，议题涵盖从关税到科技等两大经济体之间的核心分歧。在9月24日峰会前夕，双方工作层（美财长贝森特、贸易代表格里尔与中国副总理何立峰）已于纽约会晤，为领导人峰会铺路，焦点包括关税休战延期、AI安全与治理、稀土、农产品与市场准入。市场关注峰会能否为持续紧张的贸易与技术关系带来“稳定锚”，抑或仅是脆弱的暂时冻结。",
+      "china_angle": "此次峰会是观察中美“贸易休战能否延续、科技管制是否再加码、AI治理能否设护栏”的窗口：关税、稀土、AI安全、台海构成四大议题；其结果将直接影响全球供应链、汇率与风险资产定价，是本周全球经济最大单一变量。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-20/trump-xi-showdown-casts-shadow-over-global-economy",
+      "body_available": true,
+      "body_zh": "彭博9月20日宏观前瞻：特朗普—习近平本周华盛顿会晤为全球本周焦点事件，议题涵盖关税与科技等两大经济体核心分歧；工作层（贝森特、格里尔、何立峰）已纽约会晤铺路，焦点为关税休战、AI安全、稀土、农产品与市场准入。市场关注峰会能否提供稳定锚。",
+      "cited_sources": [
+        "Bloomberg Economics",
+        "White House",
+        "中国商务部"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://theedgemalaysia.com/node/818621",
+        "evidence_note": "彭博官网直连被JS墙拦截；经 The Edge Malaysia（'Trump-Xi showdown casts shadow over global economy' / Bloomberg, 2026-09-20 08:16）确认。机构宏观稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-20",
+      "_uid": "2026-09-20/b6"
     }
   ],
   "archive": {
     "days_count": 40,
     "first_day": "2026-08-04",
     "last_day": "2026-09-20",
-    "total_articles": 577,
+    "total_articles": 580,
     "by_media": {
-      "路透社": 354,
-      "彭博社": 223
+      "路透社": 355,
+      "彭博社": 225
     },
     "by_topic": {
       "出口管制": 42,
       "半导体": 41,
-      "中美关系": 36,
+      "中美关系": 37,
       "宏观经济": 35,
       "AI": 34,
       "人工智能": 33,
@@ -51537,10 +51801,10 @@
       "伊朗": 20,
       "出口": 19,
       "人形机器人": 19,
+      "关税": 19,
       "资本市场": 18,
-      "关税": 18,
+      "科技": 17,
       "房地产": 16,
-      "科技": 16,
       "消费": 16,
       "地缘": 15,
       "出海": 15,
@@ -51585,6 +51849,7 @@
       "关键矿产": 7,
       "朝鲜半岛": 7,
       "监管": 7,
+      "电动车": 7,
       "企业动态": 6,
       "中欧关系": 6,
       "FCC": 6,
@@ -51606,7 +51871,7 @@
       "贸易摩擦": 6,
       "中韩关系": 6,
       "宏观数据": 6,
-      "电动车": 6,
+      "香港": 6,
       "产业政策": 5,
       "军事安全": 5,
       "太阳能": 5,
@@ -51624,12 +51889,12 @@
       "情报": 5,
       "南海": 5,
       "电商": 5,
+      "习近平": 5,
       "二级制裁": 5,
       "汇率": 5,
       "中美AI竞争": 5,
       "恒大": 5,
       "金融风险": 5,
-      "香港": 5,
       "元首外交": 5,
       "特朗普—习近平峰会": 5,
       "经贸摩擦": 4,
@@ -51656,9 +51921,9 @@
       "美联储": 4,
       "AI大模型": 4,
       "中菲关系": 4,
-      "习近平": 4,
       "信贷": 4,
       "中美利差": 4,
+      "中国市场": 4,
       "投资": 4,
       "银行业": 4,
       "中尼关系": 4,
@@ -51689,6 +51954,7 @@
       "算力": 3,
       "智能制造": 3,
       "反倾销": 3,
+      "特朗普": 3,
       "华为昇腾": 3,
       "电动卡车": 3,
       "安全生产": 3,
@@ -51708,7 +51974,6 @@
       "美元": 3,
       "通义千问": 3,
       "外交部": 3,
-      "中国市场": 3,
       "美妆": 3,
       "电动汽车": 3,
       "LPR": 3,
@@ -51756,6 +52021,7 @@
       "反制": 2,
       "行情": 2,
       "法律": 2,
+      "峰会": 2,
       "大宗商品": 2,
       "中国股市": 2,
       "浙江": 2,
@@ -51775,7 +52041,6 @@
       "内蒙古": 2,
       "反垄断": 2,
       "寒武纪": 2,
-      "特朗普": 2,
       "霍尔木兹": 2,
       "算力定价": 2,
       "推理模型": 2,
@@ -51975,7 +52240,6 @@
       "海关数据": 1,
       "法律工具箱": 1,
       "反外国制裁法": 1,
-      "峰会": 1,
       "黄金": 1,
       "储备": 1,
       "光伏": 1,
@@ -52507,7 +52771,18 @@
       "离岸": 1,
       "出口韧性": 1,
       "复苏动能": 1,
-      "早期指标": 1
+      "早期指标": 1,
+      "建行亚洲": 1,
+      "廉政公署": 1,
+      "虚假信用证": 1,
+      "加密货币贿赂": 1,
+      "金融诚信": 1,
+      "大众汽车": 1,
+      "Volkswagen": 1,
+      "保时捷": 1,
+      "利润预警": 1,
+      "减值": 1,
+      "全球经济": 1
     },
     "sentiment_trend": [
       {
@@ -52746,8 +53021,8 @@
       },
       {
         "date": "2026-09-20",
-        "negative": 0,
-        "neutral": 5,
+        "negative": 1,
+        "neutral": 7,
         "positive": 0
       }
     ],
@@ -52766,7 +53041,7 @@
       ],
       [
         "Bloomberg",
-        20
+        21
       ],
       [
         "官方数据/企业披露",
@@ -52797,11 +53072,11 @@
         8
       ],
       [
-        "中国海关总署",
-        7
+        "中国商务部",
+        8
       ],
       [
-        "中国商务部",
+        "中国海关总署",
         7
       ],
       [
@@ -52877,6 +53152,10 @@
         5
       ],
       [
+        "White House",
+        5
+      ],
+      [
         "彭博社（引述知情人士）",
         5
       ],
@@ -52945,10 +53224,6 @@
         4
       ],
       [
-        "White House",
-        4
-      ],
-      [
         "Investing.com",
         4
       ],
@@ -52958,6 +53233,10 @@
       ],
       [
         "China Digital Press",
+        4
+      ],
+      [
+        "Bloomberg Economics",
         4
       ],
       [
@@ -53042,10 +53321,6 @@
       ],
       [
         "U.S. Treasury",
-        3
-      ],
-      [
-        "Bloomberg Economics",
         3
       ],
       [
@@ -57979,9 +58254,75 @@
       [
         "四大一线城市新房销售",
         1
+      ],
+      [
+        "China Construction Bank (Asia) 建行亚洲",
+        1
+      ],
+      [
+        "Hong Kong ICAC 廉政公署",
+        1
+      ],
+      [
+        "Hong Kong District Court 区域法院",
+        1
+      ],
+      [
+        "Vesttoo Limited",
+        1
+      ],
+      [
+        "Yu Po Holdings",
+        1
+      ],
+      [
+        "Judge Ernest Lin Kam-hung 练锦鸿",
+        1
+      ],
+      [
+        "Volkswagen AG 大众汽车",
+        1
+      ],
+      [
+        "Porsche AG 保时捷",
+        1
+      ],
+      [
+        "Arno Antlitz (CFO)",
+        1
       ]
     ],
     "recurring_topics": [
+      {
+        "topic": "中美关系",
+        "count": 24,
+        "days": [
+          "2026-08-05",
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-20",
+          "2026-08-21",
+          "2026-08-25",
+          "2026-08-26",
+          "2026-08-27",
+          "2026-08-28",
+          "2026-08-30",
+          "2026-09-01",
+          "2026-09-02",
+          "2026-09-03",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-10",
+          "2026-09-11",
+          "2026-09-18",
+          "2026-09-19",
+          "2026-09-20"
+        ]
+      },
       {
         "topic": "出口管制",
         "count": 23,
@@ -58007,35 +58348,6 @@
           "2026-09-03",
           "2026-09-04",
           "2026-09-05",
-          "2026-09-18",
-          "2026-09-19"
-        ]
-      },
-      {
-        "topic": "中美关系",
-        "count": 23,
-        "days": [
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-17",
-          "2026-08-18",
-          "2026-08-20",
-          "2026-08-21",
-          "2026-08-25",
-          "2026-08-26",
-          "2026-08-27",
-          "2026-08-28",
-          "2026-08-30",
-          "2026-09-01",
-          "2026-09-02",
-          "2026-09-03",
-          "2026-09-04",
-          "2026-09-05",
-          "2026-09-10",
-          "2026-09-11",
           "2026-09-18",
           "2026-09-19"
         ]
@@ -58115,6 +58427,27 @@
         ]
       },
       {
+        "topic": "关税",
+        "count": 15,
+        "days": [
+          "2026-08-07",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-16",
+          "2026-08-21",
+          "2026-08-24",
+          "2026-08-25",
+          "2026-08-30",
+          "2026-09-01",
+          "2026-09-03",
+          "2026-09-19",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "AI",
         "count": 15,
         "days": [
@@ -58154,26 +58487,6 @@
           "2026-09-08",
           "2026-09-10",
           "2026-09-18"
-        ]
-      },
-      {
-        "topic": "关税",
-        "count": 14,
-        "days": [
-          "2026-08-07",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-16",
-          "2026-08-21",
-          "2026-08-24",
-          "2026-08-25",
-          "2026-08-30",
-          "2026-09-01",
-          "2026-09-03",
-          "2026-09-19"
         ]
       },
       {
@@ -58661,6 +58974,19 @@
         ]
       },
       {
+        "topic": "科技",
+        "count": 7,
+        "days": [
+          "2026-08-08",
+          "2026-08-22",
+          "2026-08-23",
+          "2026-08-25",
+          "2026-09-01",
+          "2026-09-03",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "中国经济",
         "count": 7,
         "days": [
@@ -58803,18 +59129,6 @@
           "2026-08-22",
           "2026-08-25",
           "2026-09-18"
-        ]
-      },
-      {
-        "topic": "科技",
-        "count": 6,
-        "days": [
-          "2026-08-08",
-          "2026-08-22",
-          "2026-08-23",
-          "2026-08-25",
-          "2026-09-01",
-          "2026-09-03"
         ]
       },
       {
@@ -59119,6 +59433,28 @@
         ]
       },
       {
+        "topic": "电动车",
+        "count": 5,
+        "days": [
+          "2026-08-22",
+          "2026-09-08",
+          "2026-09-11",
+          "2026-09-18",
+          "2026-09-20"
+        ]
+      },
+      {
+        "topic": "香港",
+        "count": 5,
+        "days": [
+          "2026-08-22",
+          "2026-08-24",
+          "2026-08-26",
+          "2026-09-05",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "元首外交",
         "count": 5,
         "days": [
@@ -59310,6 +59646,16 @@
         ]
       },
       {
+        "topic": "习近平",
+        "count": 4,
+        "days": [
+          "2026-08-15",
+          "2026-08-17",
+          "2026-09-18",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "信贷",
         "count": 4,
         "days": [
@@ -59377,26 +59723,6 @@
           "2026-08-24",
           "2026-08-28",
           "2026-09-10"
-        ]
-      },
-      {
-        "topic": "电动车",
-        "count": 4,
-        "days": [
-          "2026-08-22",
-          "2026-09-08",
-          "2026-09-11",
-          "2026-09-18"
-        ]
-      },
-      {
-        "topic": "香港",
-        "count": 4,
-        "days": [
-          "2026-08-22",
-          "2026-08-24",
-          "2026-08-26",
-          "2026-09-05"
         ]
       },
       {
@@ -59718,6 +60044,15 @@
         ]
       },
       {
+        "topic": "特朗普",
+        "count": 3,
+        "days": [
+          "2026-08-12",
+          "2026-09-18",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "腾讯",
         "count": 3,
         "days": [
@@ -59808,15 +60143,6 @@
         ]
       },
       {
-        "topic": "习近平",
-        "count": 3,
-        "days": [
-          "2026-08-15",
-          "2026-08-17",
-          "2026-09-18"
-        ]
-      },
-      {
         "topic": "二级制裁",
         "count": 3,
         "days": [
@@ -59858,6 +60184,15 @@
         "days": [
           "2026-08-17",
           "2026-08-18",
+          "2026-09-20"
+        ]
+      },
+      {
+        "topic": "中国市场",
+        "count": 3,
+        "days": [
+          "2026-08-19",
+          "2026-08-20",
           "2026-09-20"
         ]
       },
@@ -60212,6 +60547,14 @@
         ]
       },
       {
+        "topic": "峰会",
+        "count": 2,
+        "days": [
+          "2026-08-08",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "大宗商品",
         "count": 2,
         "days": [
@@ -60369,14 +60712,6 @@
         "days": [
           "2026-08-11",
           "2026-08-12"
-        ]
-      },
-      {
-        "topic": "特朗普",
-        "count": 2,
-        "days": [
-          "2026-08-12",
-          "2026-09-18"
         ]
       },
       {
@@ -60756,14 +61091,6 @@
         ]
       },
       {
-        "topic": "中国市场",
-        "count": 2,
-        "days": [
-          "2026-08-19",
-          "2026-08-20"
-        ]
-      },
-      {
         "topic": "王毅",
         "count": 2,
         "days": [
@@ -61133,6 +61460,14 @@
       }
     ],
     "important_negatives": [
+      {
+        "id": "b5",
+        "date": "2026-09-19",
+        "media": "彭博社",
+        "title_zh": "大众下调全年利润指引：中国市场滑坡叠加保时捷60亿欧元减值，经营利润率预期砍至最高1%",
+        "importance": "high",
+        "day": "2026-09-20"
+      },
       {
         "id": "r3",
         "date": "2026-09-09",
@@ -62624,10 +62959,10 @@
     ],
     "penetration": {
       "运行天数": 40,
-      "累计报道": 577,
-      "覆盖议题": 986,
-      "覆盖信源": 1307,
-      "负面累计": 186,
+      "累计报道": 580,
+      "覆盖议题": 997,
+      "覆盖信源": 1316,
+      "负面累计": 187,
       "谋题累计": 45
     },
     "questions_timeline": [
@@ -62769,11 +63104,11 @@
     ]
   },
   "stats": {
-    "total": 577,
+    "total": 580,
     "days": 40,
-    "negatives": 186,
-    "with_author": 317,
-    "with_body": 161,
-    "with_sources": 515
+    "negatives": 187,
+    "with_author": 318,
+    "with_body": 164,
+    "with_sources": 518
   }
 }
