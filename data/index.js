@@ -1,5 +1,5 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-09-20T11:20:57+08:00",
+  "generated_at": "2026-09-20T18:07:40+08:00",
   "latest_questions_day": "2026-09-20",
   "days": {
     "2026-09-20": {
@@ -630,9 +630,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中美据报磋商下调美LNG关税：峰会前的能源牌",
           "published_at": "2026-09-19",
           "published_precision": "date",
-          "authors": [],
+          "authors": [
+            "Jarrett Renshaw"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美经贸",
             "LNG",
@@ -659,7 +661,9 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.newsquawk.com/headlines/newsquawk-daily-asia-pac-opening-news---18th-september-2026",
             "evidence_note": "路透官网直连被JS墙拦截；经 Newsquawk（'US and China reportedly discuss cutting tariff on US LNG ahead of Xi's visit, according to Reuters'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Yahoo reprint: 'By Jarrett Renshaw' / '(Reporting By Jarrett Renshaw)'"
         },
         {
           "id": "b4",
@@ -1398,9 +1402,12 @@ window.__XFS_DATA__ = {
           "title_zh": "中国海警船撞击菲方补给渔船：南海对峙再升级",
           "published_at": "2026-09-18",
           "published_precision": "date",
-          "authors": [],
+          "authors": [
+            "Nestor Corrales",
+            "Liz Lee"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "南海",
             "中国海警",
@@ -1427,7 +1434,9 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.fdd.org/overnight-brief/september-18-2026",
             "evidence_note": "路透官网直连被JS墙拦截；经 FDD Overnight Brief（9/18）转引路透原文确认。机构稿，无个人署名，authors_status=not_available，未编造。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "U.S. News: \"(Reporting by Nestor Corrales; Additional reporting by Liz Lee in Beijing; Editing by David Stanway and Sam Holmes)\""
         },
         {
           "id": "r8",
@@ -1437,9 +1446,11 @@ window.__XFS_DATA__ = {
           "title_zh": "沙特求援后，中国私下促伊朗约束胡塞武装",
           "published_at": "2026-09-18",
           "published_precision": "date",
-          "authors": [],
+          "authors": [
+            "Parisa Hafezi"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中东",
             "胡塞武装",
@@ -1467,7 +1478,9 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.fdd.org/overnight-brief/september-18-2026",
             "evidence_note": "路透官网直连被JS墙拦截；经 FDD Overnight Brief（9/18）转引路透原文（'China has privately asked Tehran to help rein in Yemen's Houthis'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "The Print / Yahoo: \"By Parisa Hafezi\""
         },
         {
           "id": "r10",
@@ -1558,9 +1571,13 @@ window.__XFS_DATA__ = {
           "title_zh": "王毅与鲁比奥通话：为元首互动'做好准备'，中美外交预热",
           "published_at": "2026-09-17",
           "published_precision": "date",
-          "authors": [],
+          "authors": [
+            "Xiuhao Chen",
+            "Yukun Zhang",
+            "Ryan Woo"
+          ],
           "author_locations": [],
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美关系",
             "王毅",
@@ -1588,7 +1605,9 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
             "evidence_note": "路透官网直连被JS墙拦截；经 The Edge Malaysia（路透 China Focus，9/17 11:56pm 条目'China, US top diplomats discuss high-level interactions'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "The Print: \"(Reporting by Xiuhao Chen, Yukun Zhang and Ryan Woo; Editing by Toby Chopra)\""
         },
         {
           "id": "b5",
@@ -3706,9 +3725,11 @@ window.__XFS_DATA__ = {
           "title_zh": "彭博：中国大型银行与保险机构寻求至少530亿美元资本补充",
           "published_at": "2026-09-06T12:00:00Z",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Charlie Zhu"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中国经济",
             "银行资本",
@@ -3741,7 +3762,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "WebSearch（Bloomberg China Mega Banks Insurers September 6 2026）",
             "evidence_url": "https://primenestnews.com/detail/china-mega-banks-insurers-seek-at-least-53-billion-in-capital",
             "evidence_note": "primenestnews全文转载彭博原稿（(Bloomberg) -- 机构署名，Charlie Zhu协助），取得正文与全部认购数字；原链bloomberg.com/news/articles/2026-09-06/agb经bigmarketmoves.com来源追踪交叉验证"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Yahoo HK / Finnhub reprint: '联合报道 Charlie Zhu' / '--With assistance from Charlie Zhu'"
         }
       ],
       "daily_analysis": {
@@ -3908,9 +3931,11 @@ window.__XFS_DATA__ = {
           "title_zh": "彭博：李家超称香港首份五年规划将扩大离岸人民币使用与跨境投资",
           "published_at": "2026-09-05T02:45:00Z",
           "published_precision": "minute",
-          "authors": [],
+          "authors": [
+            "Echo Wong"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "香港",
             "人民币国际化",
@@ -3942,7 +3967,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博原文页(origin.www.bloomberg.com)与investing.com/econotimes/中国日报香港版交叉印证",
             "evidence_url": "https://www.investing.com/news/economy-news/hong-kong-targets-bigger-offshore-yuan-role-mainland-links-in-first-5year-plan-4890159",
             "evidence_note": "investing.com 明确标注「Bloomberg reported on Saturday, citing Chief Executive John Lee」，含离岸人民币产品、股票通/债券通/理财通、9月16日立法会提交、北部都会区、梁凤仪AI表态等要点；彭博原文页 URL 经 origin.www.bloomberg.com 检索确认（2026-09-05 版）。彭博正文为机构署名，标 not_available。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "ima.qq.com Bloomberg screenshot (Sept 5, 2026): \"By Echo Wong\""
         },
         {
           "id": "r6",
@@ -4607,9 +4634,12 @@ window.__XFS_DATA__ = {
           "title_zh": "彭博：DeepSeek拟在内蒙古数据中心部署至少16万颗华为昇腾芯片",
           "published_at": "2026-09-04T08:00:00Z",
           "published_precision": "hour",
-          "authors": [],
+          "authors": [
+            "Mackenzie Hawkins",
+            "Haze Fan"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "人工智能",
             "半导体",
@@ -4639,7 +4669,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博原文(origin.www.bloomberg.com)与 The Edge Malaysia「China Focus」全量转载交叉印证",
             "evidence_url": "https://origin.www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center",
             "evidence_note": "彭博9月4日原文确认16万颗昇腾950DT、内蒙古吉瓦级数据中心、不用于训练、产能受高端存储限制等要点；The Edge Malaysia China Focus 04 Sep 2026 18:03 条目同步转载彭博电。彭博正文机构署名，标 not_available。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "The Edge Malaysia / XenoSpectrum: 'By Mackenzie Hawkins & Haze Fan / Bloomberg'"
         },
         {
           "id": "r5",
@@ -4775,9 +4807,11 @@ window.__XFS_DATA__ = {
           "title_zh": "路透独家：中美筹备9月中旬AI安全对话，贝森特或率美方",
           "published_at": "2026-09-04T00:00:00Z",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Laurie Chen"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美关系",
             "人工智能",
@@ -4809,7 +4843,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+Economic Times/India Today/Korea Times 全文转载路透原稿，与钜亨网、观察者网中文转述交叉印证",
             "evidence_url": "https://economictimes.indiatimes.com/ai/ai-insights/us-china-gear-up-for-mid-september-ai-safety-dialogue/printarticle/133770855.cms",
             "evidence_note": "Economic Times 全文转载路透9月4日原稿，含贝森特牵头、实验室自我监督提案、Mythos级模型担忧、丁薛祥/何立峰/阴和俊可能出席、财政部「可能10月」表态等全部要点；钜亨网与观察者网中文转述一致。路透未附个人记者署名，标 not_available。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "The Print reprint: 'By Laurie Chen BEIJING, Sept 4 (Reuters)'"
         },
         {
           "id": "b3",
@@ -4819,9 +4855,13 @@ window.__XFS_DATA__ = {
           "title_zh": "彭博：月之暗面秘密递交港股IPO申请，拟募资至多50亿美元、估值500亿美元",
           "published_at": "2026-09-04T00:00:00Z",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Dong Cao",
+            "Julia Fioretti",
+            "Luz Ding"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "人工智能",
             "大模型",
@@ -4853,7 +4893,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博日文财经首页(Bloomberg JP)「独自」条目与路透、TechNode、SCMP 交叉印证",
             "evidence_url": "https://www.bloomberg.com/jp/finance",
             "evidence_note": "彭博日文财经首页 2026年9月4日「独自」条目「ムーンショットが年内にも香港でIPO、最大50億ドル調達検討-関係者」；路透同步报道30亿美元募资目标与高盛/中金/德银辅导；startupfortune、Yahoo Finance 补充ARR三级跳与红筹拆除细节。彭博正文机构署名，标 not_available。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "bundle.app（Bloomberg 转载）：'Dong Cao, Julia Fioretti, Pei Li and Luz Ding sourced the account to people familiar with the matter' [剔除 Pei Li：库中其为路透记者，疑为跨媒体误配]"
         },
         {
           "id": "r6",
@@ -5386,9 +5428,12 @@ window.__XFS_DATA__ = {
           "title_zh": "尼泊尔拟在中尼边境恢复滑坡预警系统",
           "published_at": "2026-09-02T16:28:00Z",
           "published_precision": "minute",
-          "authors": [],
+          "authors": [
+            "Sarita Chaganti Singh",
+            "Ariba Shahid"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中尼关系",
             "边境安全",
@@ -5414,7 +5459,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+statement.com转述路透段落取得",
             "evidence_url": "https://statement.com/1302519/china-proposes-a-new-security-order-for-the-middle-east",
             "evidence_note": "statement.com 聚合页含路透关于尼泊尔中尼边境预警系统的完整段落（标注 Reuters, bak），为匿名政府信源，无个人记者署名，故 authors_status=not_available。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "CRBC News: \"Reporting: Sarita Chaganti Singh in New Delhi. Writing: Ariba Shahid. Editing: Rick Noack, Gareth Jones and Christian Schmollinger.\""
         },
         {
           "id": "b5",
@@ -6448,9 +6495,11 @@ window.__XFS_DATA__ = {
           "title_zh": "贝森特称将要求G20重新审视对华贸易条款",
           "published_at": "2026-08-30T16:00:00Z",
           "published_precision": "hour",
-          "authors": [],
+          "authors": [
+            "David Lawder"
+          ],
           "author_locations": "WASHINGTON",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美经贸",
             "G20",
@@ -6477,7 +6526,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A/B失败后经通道C(WebSearch多组关键词)+通道D(时间限定)与国际转载源取得",
             "evidence_url": "https://www.mayberryinv.com/overseas-headlines-august-31-2026",
             "evidence_note": "Mayberry Investments 每日海外头条引述并链接彭博转发页，确认贝森特周日对路透的原话与1.2万亿美元顺差表述。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Fidelity/Internazionale reprint: '(Reporting by David Lawder; Editing by Edmund Klamann)'"
         }
       ],
       "daily_analysis": {
@@ -6727,9 +6778,11 @@ window.__XFS_DATA__ = {
           "title_zh": "贝森特G20会前放话：各国应审视对华贸易条件、共同遏制1.2万亿美元顺差",
           "published_at": "2026-08-30T18:00:00Z",
           "published_precision": "hour",
-          "authors": [],
+          "authors": [
+            "David Lawder"
+          ],
           "author_locations": "ASHEVILLE, North Carolina",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美经贸",
             "G20",
@@ -6761,7 +6814,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch多组关键词)+The Hindu全文转载路透原稿、AOL路透授权聚合页交叉取得",
             "evidence_url": "https://www.thehindu.com/news/international/g20-countries-should-consider-more-trade-barriers-on-china-to-cut-imbalances-bessent-says/article71409702.ece/amp",
             "evidence_note": "The Hindu（路透授权转载）全文刊载该稿，含阿什维尔8月30日电头、贝森特引语（1.2万亿美元顺差、新广场协议批评、300亿美元非战略货物、潘功盛会晤等），文末注明August 30, 2026；AOL转载页面（us-eyes-china-overcapacity-tariffs-155346000）载有同稿及背景链接。路透转载文本未附记者署名行，authors_status=not_available；to-the-minute发布时刻未能确证，published_at为小时级近似。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Same Reuters article as 2026-09-01 r5 ('G20 countries should consider more trade barriers on China'), Reporting by David Lawder"
         },
         {
           "id": "r5",
@@ -8267,9 +8322,11 @@ window.__XFS_DATA__ = {
           "title_zh": "智谱开源GLM-5.3-Flash加剧中美AI模型竞赛",
           "published_at": "2026-08-27",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Luz Ding"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "人工智能",
             "开源模型",
@@ -8293,7 +8350,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://xnews.jin10.com/details/228480",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "urgent.news 转载：'(Luz Ding/Bloomberg)'"
         },
         {
           "id": "r1",
@@ -8378,9 +8437,12 @@ window.__XFS_DATA__ = {
           "title_zh": "俄罗斯阿穆尔天然气化工厂火灾致多名中国公民伤亡",
           "published_at": "2026-08-27",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Marina Bobrova",
+            "Vladimir Soldatkin"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "海外安全",
             "能源化工",
@@ -8404,7 +8466,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26082700198",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "usnews.com 刊载路透稿（Reuters, MOSCOW, Aug 26）文末署名：'Reporting by Marina Bobrova and Vladimir Soldatkin; Editing by Muralikumar Anantharaman and Stephen Coates'。"
         },
         {
           "id": "r7",
@@ -9128,9 +9192,12 @@ window.__XFS_DATA__ = {
           "title_zh": "中国楼市压力未消：房价、销售与投资同步走弱",
           "published_at": "2026-08-26",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Liangping Gao",
+            "Ryan Woo"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "房地产",
             "宏观经济",
@@ -9155,7 +9222,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://www.aastocks.com/share/news/hk/NOW.1470247/?s=00754&l=eng&ns=HK6",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "NewsBreak/local 与 piqmarkets 转载：'(Reporting by Liangping Gao and Ryan Woo; Additional Reporting by Shuyan Wang; Editing by Saad Sayeed)'；另见 'Liangping Gao Reuters reporter / Ryan Woo Reuters reporter'"
         },
         {
           "id": "r7",
@@ -9314,9 +9383,12 @@ window.__XFS_DATA__ = {
           "title_zh": "路透调查：中国 8 月制造业扩张料再度放缓",
           "published_at": "2026-08-26",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Yukun Zhang",
+            "Liz Lee"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "宏观经济",
             "制造业",
@@ -9340,7 +9412,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://www.octaasia.com/markets/news/view/605999/",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "gfm.news 转载路透稿（Reuters, Beijing, Aug 28）文末署名：'Reporting by Yukun Zhang and Liz Lee; Polling by Susobhan Sarkar in Bengaluru and Jing Wang in Shanghai; Editing by Kim Coghill'。"
         },
         {
           "id": "r4",
@@ -12588,9 +12662,13 @@ window.__XFS_DATA__ = {
           "title_zh": "彭博：中国AI模型成本仅美国十分之一，全球使用率超60%",
           "published_at": "2026-08-22",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Luz Ding",
+            "Spe Chen",
+            "Hayley Warren"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "AI",
             "科技竞争",
@@ -12614,7 +12692,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A被拦截；经通道C(WebSearch)与中文聚合(腾讯新闻引彭博)补全",
             "evidence_url": "https://view.inews.qq.com/k/20260823A03H6I00",
             "evidence_note": "原页不可达；'1/10成本、>60%使用率'来自腾讯新闻对彭博报道的转述。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Bloomberg.com/graphics/2026-us-china-ai-race/: 'By Luz Ding, Spe Chen, Hayley Warren August 20, 2026'"
         },
         {
           "id": "b4",
@@ -12850,9 +12930,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中国离岸股票年内跌近8%，AI行情冷落香港",
           "published_at": "2026-08-22",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Winnie Hsu"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "股市",
             "金融",
@@ -12876,7 +12958,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A被拦截；经通道C(WebSearch)与聚合转载(getfinancebrief 引彭博数据)补全",
             "evidence_url": "https://getfinancebrief.com/story/china-stocks-down-8-ytd-ai-trade-hong-kong",
             "evidence_note": "原页不可达，署名未确认；'年内跌8%/MSCI回落18%/恒指垫底'来自彭博跟踪数据转述。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "bloomberg.com (原文 china-stock-gauge-sinks-as-traders-favor-ai-winners-elsewhere): 'By Winnie Hsu'"
         },
         {
           "id": "b10",
@@ -13158,9 +13242,12 @@ window.__XFS_DATA__ = {
           "title_zh": "奇瑞机器人子公司筹备IPO，赶人形机器人热潮",
           "published_at": "2026-08-21",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Qiaoyi Li",
+            "Kevin Krolicki"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "机器人",
             "IPO",
@@ -13184,7 +13271,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C(WebSearch)与 Reuters China 社媒(twitterviewer)补全",
             "evidence_url": "https://www.twitterviewer.io/profile/ReutersChina",
             "evidence_note": "原页不可达，署名未确认；IPO筹备与'竞争加剧'来自 Reuters China 社媒转发。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "streetinsider.com (Reuters reprint): '(Reporting by Qiaoyi Li and Kevin Krolicki; Editing by Miyoung Kim and Saad Sayeed)'"
         },
         {
           "id": "b3",
@@ -13499,9 +13588,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中国与瑞士达成新贸易协定，几乎取消所有关税",
           "published_at": "2026-08-20",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Levin Stamm"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中欧关系",
             "贸易协定",
@@ -13526,7 +13617,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A(bloomberg.com首页)机器人验证拦截；经通道C/D(WebSearch)取得原页URL与要点",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-20/swiss-agree-trade-deal-that-gives-it-tariff-free-access-to-china",
             "evidence_note": "原页付费墙，署名未确认；99.8%关税豁免为检索确认。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "swissinfo.ch (Bloomberg reprint): '–With assistance from Levin Stamm.'"
         },
         {
           "id": "20260821-reuters-rate-hold",
@@ -16052,9 +16145,12 @@ window.__XFS_DATA__ = {
           "title_zh": "长鑫存储登顶中国市值最高公司，预示硬科技新时代",
           "published_at": "2026-08-17",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Gao Yuan",
+            "Jeanny Yu"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "半导体",
             "CXMT",
@@ -16080,7 +16176,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 引号标题补全）",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era",
             "evidence_note": "Bloomberg 8/17"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "theedgemalaysia.com/node/814753: 'By Gao Yuan & Jeanny Yu / Bloomberg'"
         },
         {
           "id": "20260818-bloomberg-china-economy-slowdown",
@@ -18432,9 +18530,11 @@ window.__XFS_DATA__ = {
           "title_zh": "德国汽车业岗位降至20余年最低，中国车企竞争成主因",
           "published_at": "2026-08-14",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Sasha Draeger-Mazer"
+          ],
           "author_locations": "柏林",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "德国汽车",
             "中国车企",
@@ -18460,7 +18560,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被机器人验证拦截（fetch failed），WebSearch 关键词（Bloomberg German autos workforce China rivals / 彭博 德国 汽车 岗位 中国 竞争）+ mayberryinv 海外头条补全",
             "evidence_url": "https://www.mayberryinv.com/overseas-headlines-august-14-2026/",
             "evidence_note": "Bloomberg 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "theedgemalaysia.com (Bloomberg reprint): 'By Sasha Draeger-Mazer / Bloomberg'; bloomberg.com: 'By Sasha Draeger-Mazer'"
         }
       ],
       "daily_analysis": {
@@ -18865,9 +18967,11 @@ window.__XFS_DATA__ = {
           "title_zh": "深度求索发布 V4 Pro，谷峰定价上线，AI 价格战白热化",
           "published_at": "2026-08-13",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Eduardo Baptista"
+          ],
           "author_locations": "北京/杭州",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "AI大模型",
             "算力定价",
@@ -18893,7 +18997,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透中国栏目直连被JS墙拦截，WebSearch 多组关键词（Reuters DeepSeek V4 Pro / 路透 深度求索 V4 Pro）+ 财经转载源补全",
             "evidence_url": "https://www.reuters.com/technology/deepseek-launches-v4-pro-peak-valley-pricing-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Fidelity reprint of Reuters: '(Reporting by Eduardo Baptista; Editing by Kirsten Donovan)'"
         },
         {
           "id": "20260813-reuters-iran-war-electric-trucks",
@@ -19377,9 +19483,11 @@ window.__XFS_DATA__ = {
           "title_zh": "深度求索发布 V4 Pro，谷峰定价上线，AI 价格战白热化",
           "published_at": "2026-08-13",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Eduardo Baptista"
+          ],
           "author_locations": "北京/杭州",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "AI大模型",
             "算力定价",
@@ -19405,7 +19513,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透中国栏目直连被JS墙拦截，WebSearch 多组关键词（Reuters DeepSeek V4 Pro / 路透 深度求索 V4 Pro）+ 财经转载源补全",
             "evidence_url": "https://www.reuters.com/technology/deepseek-launches-v4-pro-peak-valley-pricing-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "AOL reprint: '(Reporting by Eduardo Baptista; Editing by Kirsten Donovan)'"
         },
         {
           "id": "20260813-reuters-zhu-rongji-obituary",
@@ -19496,9 +19606,13 @@ window.__XFS_DATA__ = {
           "title_zh": "特朗普签署公告对进口无人机征最高100%关税，彭博称重创中国无人机在美市场",
           "published_at": "2026-08-13",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Laura Curtis",
+            "Alicia Diaz",
+            "Lucille Liu"
+          ],
           "author_locations": "华盛顿",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美经贸",
             "无人机",
@@ -19526,7 +19640,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截(fetch failed)，WebSearch(Bloomberg Trump drone tariff China August 13 2026 / 彭博 无人机 100% 关税 中国)+港媒(经济通)/朝鲜日报/腾讯转载补全彭博分析",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-13/trump-imposes-100-percent-tariff-imported-drones-china-dji",
             "evidence_note": "Bloomberg 8月13日分析稿(多家港媒/外媒引述'彭博')；机构稿未具名个人记者，authors_status=not_available"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Hartford Courant / Newshunt reprint of Bloomberg: 'By Laura Curtis, Alicia Diaz and Lucille Liu, Bloomberg News'"
         },
         {
           "id": "20260813-reuters-iran-war-electric-trucks",
@@ -20707,9 +20823,11 @@ window.__XFS_DATA__ = {
           "title_zh": "中国对日本中重稀土出口归零：镝、铽、钇6月对华输出为零",
           "published_at": "2026-08-11",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Solomon Cefai"
+          ],
           "author_locations": "北京",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "稀土",
             "出口管制",
@@ -20736,7 +20854,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 检索路透/日经海关数据转载（中央社/头条）补全",
             "evidence_url": "https://news.seehua.com/page/3",
             "evidence_note": "Reuters 援引中国海关数据报道（经中央社/日经转载）；机构稿未具名个人记者，故 authors_status=not_available"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Fidelity reprint of Reuters: '(Reporting by Solomon Cefai; Editing by Joe Bavier)'"
         },
         {
           "id": "20260811-reuters-typhoon-dolphin-floods",
@@ -20939,9 +21059,14 @@ window.__XFS_DATA__ = {
           "title_zh": "台风'白海豚'减弱但仍重创华东，上海逾千航班取消、百万人转移",
           "published_at": "2026-08-11",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Kevin Yao",
+            "Shuyan Wang",
+            "Nicoco Chan",
+            "Eduardo Baptista"
+          ],
           "author_locations": "上海/浙江",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "台风",
             "极端天气",
@@ -20969,7 +21094,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透亚太栏直连抓取（图文稿，机构稿未具名） + 联网检索转载(metapress/firstpost)补全数据",
             "evidence_url": "https://metapress.net/asia/2026/08/11/typhoon-dolphin-weakens-but-disrupts-travel-in-east-china",
             "evidence_note": "Reuters 图文报道（摄影 Go Nakamura），机构稿未具名个人记者，故 authors_status=not_available"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "The Star (Malaysia) reprint of Reuters: '(Reporting by Kevin Yao, Shuyan Wang, Nicoco Chan and Eduardo Baptista; editing by Lincoln Feast.)'"
         },
         {
           "id": "20260811-bloomberg-ai-talent-travel",
@@ -21469,9 +21596,11 @@ window.__XFS_DATA__ = {
           "title_zh": "人民币对美元创三年半新高，出口高景气支撑",
           "published_at": "2026-08-10",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Qizi Sun"
+          ],
           "author_locations": "上海",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "人民币汇率",
             "宏观经济",
@@ -21498,7 +21627,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 转载源(界面/澎湃)补全",
             "evidence_url": "https://www.163.com/dy/article/L400KHRS0514R9P4.html",
             "evidence_note": "Bloomberg 报道(转引)，机构稿未具名个人记者，故 authors_status=not_available"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "finance.yahoo.com (Bloomberg reprint): '--With assistance from Qizi Sun.' (Bloomberg 人民币创新高报道文末署名)"
         },
         {
           "id": "20260810-bloomberg-china-stocks-rally",
@@ -22118,9 +22249,11 @@ window.__XFS_DATA__ = {
           "title_zh": "苹果测试中国长鑫(CXMT)存储芯片用于iPhone与MacBook",
           "published_at": "2026-08-10",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Mark Gurman"
+          ],
           "author_locations": "中国香港",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "苹果",
             "长鑫CXMT",
@@ -22148,7 +22281,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 多组关键词（Bloomberg Apple CXMT memory chips August 2026）+ 中文财经博客(hkut.news.blog)补全",
             "evidence_url": "https://hkut.news.blog/financial",
             "evidence_note": "Bloomberg 8月10日报道；机构稿未具名个人记者，故 authors_status=not_available；基于WSJ报道"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Korea Herald / WCCFtech reprint: 'Bloomberg's Mark Gurman'"
         },
         {
           "id": "20260810-reuters-china-stocks-mixed-economic-data",
@@ -22199,9 +22334,14 @@ window.__XFS_DATA__ = {
           "title_zh": "希音(Shein)推动主要中国供应商赴越南设厂，进展不如预期",
           "published_at": "2026-08-10",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Francesco Guarascio",
+            "Sophie Yu",
+            "Casey Hall",
+            "Phuong Nguyen"
+          ],
           "author_locations": "新加坡/中国",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "Shein",
             "供应链",
@@ -22228,7 +22368,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 多组关键词（Reuters Shein suppliers Vietnam August 2026 / 路透 希音 越南 供应商）+ 路透社官方X账号(@ReutersChina 8/10)线索补全",
             "evidence_url": "https://www.twitterviewer.io/profile/ReutersChina",
             "evidence_note": "Reuters China 8月10日推文线索；机构稿未具名个人记者，故 authors_status=not_available"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Fidelity Investments reprint: '(Reporting by Francesco Guarascio, Sophie Yu, Casey Hall and Phuong Nguyen; Editing by Edwina Gibbs)'"
         },
         {
           "id": "20260810-reuters-us-not-disengaging-asia-colby",
@@ -24008,9 +24150,13 @@ window.__XFS_DATA__ = {
           "title_zh": "中国就美国科技限制出台对等措施反制",
           "published_at": "2026-08-06",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Eduardo Baptista",
+            "Ethan Wang",
+            "Ryan Woo"
+          ],
           "author_locations": "北京",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "中美贸易",
             "反制",
@@ -24035,7 +24181,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters China retaliates US countermeasures trade / 路透 中国 反制 美国 2026年8月）+ 中文财经媒体转引路透补全",
             "evidence_url": "https://www.toutiao.com/article/7669739873791705627/",
             "evidence_note": "Reuters 8月5–6日综合报道；机构稿未具名个人记者，故 authors_status=not_available"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Fidelity reprint: '(Reporting by Eduardo Baptista, Ethan Wang and Ryan Woo; Editing by Sharon Singleton and David Holmes)'"
         },
         {
           "id": "20260808-reuters-china-paloalto-cyber-review",
@@ -25136,9 +25284,13 @@ window.__XFS_DATA__ = {
           "title_zh": "台湾启动大型军演以测试指挥临机应变能力",
           "published_at": "2026-08-06",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Yi-Chin Lee",
+            "Ann Wang",
+            "Ben Blanchard"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "台海",
             "军事",
@@ -25156,7 +25308,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索聚合",
             "evidence_url": "https://www.reuters.com/world/china/taiwan-launches-major-war-games-test-command-flexibility-2026-08-05/",
             "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "The Print / Yahoo reprint of Reuters: '(Reporting by Yi-Chin Lee and Ann Wang; Writing by Ben Blanchard; Editing by Tom Hogue)'"
         },
         {
           "id": "20260806-reuters-kim-yojong-japan",
@@ -25643,9 +25797,13 @@ window.__XFS_DATA__ = {
           "title_zh": "三星与SK海力士测试中国产芯片设备，以对冲美国出口管制风险",
           "published_at": "2026-08-04",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Alexandra Alper",
+            "Hyunjoo Jin",
+            "Heekyong Yang"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "半导体设备",
             "中美科技竞争",
@@ -25681,7 +25839,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索 + 转载源(gs.asiams.net)",
             "evidence_url": "https://www.gs.asiams.net/article_details/samsung-sk-hynix-test-chinese-chip-tools-as-hedge-against-us-ban",
             "evidence_note": "gs.asiams.net转载路透稿，文末保留完整路透署名：Reporting by Reuters staff; Additional reporting by Alexandra Alper in Washington, Hyunjoo Jin and Heekyong Yang in Seoul; Editing by Eduardo Baptista, Miyoung Kim and Shri Navaratnam。机构署名（Reuters staff），无具名个人记者，故authors_status=not_available。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "NeoDrop Chinese reprint of Reuters: 'Reuters staff 撰写, Alexandra Alper、Hyunjoo Jin 与 Heekyong Yang 补充报道'"
         },
         {
           "id": "20260804-reuters-fcc-optical-transceiver-ban",
@@ -25957,9 +26117,12 @@ window.__XFS_DATA__ = {
           "title_zh": "彭博独家：白宫告知美AI巨头，中国开放权重模型豁免美政府安全测试",
           "published_at": "2026-08-05T00:00:00Z",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Maggie Eastland",
+            "Shirin Ghaffary"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "人工智能",
             "开源模型",
@@ -25988,7 +26151,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博官网原文(origin.www.bloomberg.com)+中文财经媒体(unwire/blocktempo)交叉印证",
             "evidence_url": "https://www.blocktempo.com/white-house-exempts-chinese-open-weight-ai-models-safety-testing/",
             "evidence_note": "彭博原创稿（2026-08-05，题 China's Open-Weight Models Will Be Spared US Safety Tests, US Firms Told），origin.www.bloomberg.com可访问，摘要与匿名信源信息完整；unwire.hk（2026/08/05）与blocktempo中文转载补充8月4日闭门会议、Amodei立场、Cairncross表态等细节。彭博正文机构署名，标 not_available。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Yahoo HK reprint: '白宮據悉告知美國公司 將不對中國開放權重AI模型進行測試 Maggie Eastland､Shirin Ghaffary 【彭博】'"
         },
         {
           "id": "b1",
@@ -26038,9 +26203,11 @@ window.__XFS_DATA__ = {
           "title_zh": "彭博：长鑫存储LPDDR6手机内存逼近三星、SK海力士",
           "published_at": "2026-08-04T00:00:00Z",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Debby Wu"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "半导体",
             "存储芯片",
@@ -26069,7 +26236,9 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博转载源(cryptobriefing标Via bloomberg.com/asiatoday)取得全文",
             "evidence_url": "https://en.asiatoday.co.kr/view.php?key=20260805001014483",
             "evidence_note": "asiatoday（2026-08-05）详述彭博8月4日报道内容：长鑫拟年底小批量生产LPDDR6、原型验证通过后放量，含16Gb/12.8Gbps技术参数、一季度全球份额约8%、净利24.8亿元、科创板IPO等；cryptobriefing全文转载（Via bloomberg.com）交叉验证。彭博正文机构署名，标 not_available。"
-          }
+          },
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Yahoo Finance HK Chinese reprint: 'CXMT Narrows Gap ... --聯合報導 Debby Wu'"
         },
         {
           "id": "r2",
@@ -26465,9 +26634,11 @@ window.__XFS_DATA__ = {
           "title_zh": "美国以所谓涉疆强迫劳动为由，新增禁止43家企业产品进口",
           "published_at": "2026-08-02",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Karen Freifeld"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "涉疆议题",
             "经贸摩擦",
@@ -26491,7 +26662,9 @@ window.__XFS_DATA__ = {
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "【深度研判】美国以所谓涉疆强迫劳动为由，新增禁止43家企业产品进口（路透社 · 2026-08-02）\n\n核心事实：路透报道美国依据《维吾尔强迫劳动预防法》(UFLPA) 新增43家中国企业至进口禁令实体清单。中方对此强烈反应：外交部及商务部将该举措定性为经济胁迫，强调新疆棉花、番茄制品、多晶硅等产品具有强竞争力，美方限制进口并施压盟友跟进，实为抬高自身产业成本、降低贸易效率。中国社科院研究员周密指出，此举发生在中美经贸牵头官员刚结束视频通话、双方同意加强沟通之后，损害了市场对美方信誉的信心。\n\n引用信源：商务部、外交部。\n研判要点：属负面涉华叙事; 重要度评级为高。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源商务部、外交部的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。"
+          "deep_analysis": "【深度研判】美国以所谓涉疆强迫劳动为由，新增禁止43家企业产品进口（路透社 · 2026-08-02）\n\n核心事实：路透报道美国依据《维吾尔强迫劳动预防法》(UFLPA) 新增43家中国企业至进口禁令实体清单。中方对此强烈反应：外交部及商务部将该举措定性为经济胁迫，强调新疆棉花、番茄制品、多晶硅等产品具有强竞争力，美方限制进口并施压盟友跟进，实为抬高自身产业成本、降低贸易效率。中国社科院研究员周密指出，此举发生在中美经贸牵头官员刚结束视频通话、双方同意加强沟通之后，损害了市场对美方信誉的信心。\n\n引用信源：商务部、外交部。\n研判要点：属负面涉华叙事; 重要度评级为高。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源商务部、外交部的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Yahoo Finance Canada / WTVB reprint: 'By Karen Freifeld' / 'Reporting by Karen Freifeld; editing by Susan Heavey and Chizu Nomiyama'"
         },
         {
           "id": "20260802-reuters-shared-beds-young-workers",
@@ -27366,9 +27539,12 @@ window.__XFS_DATA__ = {
           "title_zh": "两艘中国超级油轮疑似突破胡塞红海封锁",
           "published_at": "2026-07-23",
           "published_precision": "day",
-          "authors": [],
+          "authors": [
+            "Florence Tan",
+            "Siyi Liu"
+          ],
           "author_locations": "",
-          "authors_status": "not_available",
+          "authors_status": "named",
           "topics": [
             "能源安全",
             "红海航运",
@@ -27396,7 +27572,9 @@ window.__XFS_DATA__ = {
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "两艘中国VLCC在红海封锁中“疑似脱困”，表面是孤立航运事件，实则暴露中国能源通道的结构性软肋：曼德海峡与霍尔木兹海峡两大 chokepoint 同时承压，而中国约92%原油靠海运、沙特是第二大来源。事件揭示双重博弈——中方船只凭AIS中国船员标识+联合石化租约“过关”，而其他船只遭袭，暗示存在某种非公开的“通行默契”（后由7/28路透独家进一步坐实中方与胡塞直接沟通）。对情报判断而言，这标志着中国在中东从“搭便车护航”转向“直接与非国家行为体谈判保通”，风险与收益并存：短期保油，长期或被卷入代理人冲突、并引发美西方对其“与胡塞勾连”的地缘叙事。"
+          "deep_analysis": "两艘中国VLCC在红海封锁中“疑似脱困”，表面是孤立航运事件，实则暴露中国能源通道的结构性软肋：曼德海峡与霍尔木兹海峡两大 chokepoint 同时承压，而中国约92%原油靠海运、沙特是第二大来源。事件揭示双重博弈——中方船只凭AIS中国船员标识+联合石化租约“过关”，而其他船只遭袭，暗示存在某种非公开的“通行默契”（后由7/28路透独家进一步坐实中方与胡塞直接沟通）。对情报判断而言，这标志着中国在中东从“搭便车护航”转向“直接与非国家行为体谈判保通”，风险与收益并存：短期保油，长期或被卷入代理人冲突、并引发美西方对其“与胡塞勾连”的地缘叙事。",
+          "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+          "byline_note": "Fidelity / gCaptain reprint of Reuters: '(Reporting by Florence Tan and Siyi Liu; Editing by ...)'"
         },
         {
           "id": "20260715-reuters-q2-gdp-cools",
@@ -27794,9 +27972,11 @@ window.__XFS_DATA__ = {
       "title_zh": "美国以所谓涉疆强迫劳动为由，新增禁止43家企业产品进口",
       "published_at": "2026-08-02",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Karen Freifeld"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "涉疆议题",
         "经贸摩擦",
@@ -27821,6 +28001,8 @@ window.__XFS_DATA__ = {
       "sentiment": "negative",
       "is_negative": true,
       "deep_analysis": "【深度研判】美国以所谓涉疆强迫劳动为由，新增禁止43家企业产品进口（路透社 · 2026-08-02）\n\n核心事实：路透报道美国依据《维吾尔强迫劳动预防法》(UFLPA) 新增43家中国企业至进口禁令实体清单。中方对此强烈反应：外交部及商务部将该举措定性为经济胁迫，强调新疆棉花、番茄制品、多晶硅等产品具有强竞争力，美方限制进口并施压盟友跟进，实为抬高自身产业成本、降低贸易效率。中国社科院研究员周密指出，此举发生在中美经贸牵头官员刚结束视频通话、双方同意加强沟通之后，损害了市场对美方信誉的信心。\n\n引用信源：商务部、外交部。\n研判要点：属负面涉华叙事; 重要度评级为高。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源商务部、外交部的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Yahoo Finance Canada / WTVB reprint: 'By Karen Freifeld' / 'Reporting by Karen Freifeld; editing by Susan Heavey and Chizu Nomiyama'",
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260802-reuters-uflpa-43-companies"
     },
@@ -28860,9 +29042,12 @@ window.__XFS_DATA__ = {
       "title_zh": "两艘中国超级油轮疑似突破胡塞红海封锁",
       "published_at": "2026-07-23",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Florence Tan",
+        "Siyi Liu"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "能源安全",
         "红海航运",
@@ -28891,6 +29076,8 @@ window.__XFS_DATA__ = {
       "sentiment": "negative",
       "is_negative": true,
       "deep_analysis": "两艘中国VLCC在红海封锁中“疑似脱困”，表面是孤立航运事件，实则暴露中国能源通道的结构性软肋：曼德海峡与霍尔木兹海峡两大 chokepoint 同时承压，而中国约92%原油靠海运、沙特是第二大来源。事件揭示双重博弈——中方船只凭AIS中国船员标识+联合石化租约“过关”，而其他船只遭袭，暗示存在某种非公开的“通行默契”（后由7/28路透独家进一步坐实中方与胡塞直接沟通）。对情报判断而言，这标志着中国在中东从“搭便车护航”转向“直接与非国家行为体谈判保通”，风险与收益并存：短期保油，长期或被卷入代理人冲突、并引发美西方对其“与胡塞勾连”的地缘叙事。",
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Fidelity / gCaptain reprint of Reuters: '(Reporting by Florence Tan and Siyi Liu; Editing by ...)'",
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260723-reuters-chinese-tankers-escape-red-sea"
     },
@@ -29267,9 +29454,12 @@ window.__XFS_DATA__ = {
       "title_zh": "彭博独家：白宫告知美AI巨头，中国开放权重模型豁免美政府安全测试",
       "published_at": "2026-08-05T00:00:00Z",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Maggie Eastland",
+        "Shirin Ghaffary"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "人工智能",
         "开源模型",
@@ -29299,6 +29489,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.blocktempo.com/white-house-exempts-chinese-open-weight-ai-models-safety-testing/",
         "evidence_note": "彭博原创稿（2026-08-05，题 China's Open-Weight Models Will Be Spared US Safety Tests, US Firms Told），origin.www.bloomberg.com可访问，摘要与匿名信源信息完整；unwire.hk（2026/08/05）与blocktempo中文转载补充8月4日闭门会议、Amodei立场、Cairncross表态等细节。彭博正文机构署名，标 not_available。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Yahoo HK reprint: '白宮據悉告知美國公司 將不對中國開放權重AI模型進行測試 Maggie Eastland､Shirin Ghaffary 【彭博】'",
       "_day": "2026-08-05",
       "_uid": "2026-08-05/b3"
     },
@@ -29310,9 +29502,11 @@ window.__XFS_DATA__ = {
       "title_zh": "彭博：长鑫存储LPDDR6手机内存逼近三星、SK海力士",
       "published_at": "2026-08-04T00:00:00Z",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Debby Wu"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "半导体",
         "存储芯片",
@@ -29342,6 +29536,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://en.asiatoday.co.kr/view.php?key=20260805001014483",
         "evidence_note": "asiatoday（2026-08-05）详述彭博8月4日报道内容：长鑫拟年底小批量生产LPDDR6、原型验证通过后放量，含16Gb/12.8Gbps技术参数、一季度全球份额约8%、净利24.8亿元、科创板IPO等；cryptobriefing全文转载（Via bloomberg.com）交叉验证。彭博正文机构署名，标 not_available。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Yahoo Finance HK Chinese reprint: 'CXMT Narrows Gap ... --聯合報導 Debby Wu'",
       "_day": "2026-08-05",
       "_uid": "2026-08-05/b4"
     },
@@ -29407,9 +29603,13 @@ window.__XFS_DATA__ = {
       "title_zh": "三星与SK海力士测试中国产芯片设备，以对冲美国出口管制风险",
       "published_at": "2026-08-04",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Alexandra Alper",
+        "Hyunjoo Jin",
+        "Heekyong Yang"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "半导体设备",
         "中美科技竞争",
@@ -29446,6 +29646,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.gs.asiams.net/article_details/samsung-sk-hynix-test-chinese-chip-tools-as-hedge-against-us-ban",
         "evidence_note": "gs.asiams.net转载路透稿，文末保留完整路透署名：Reporting by Reuters staff; Additional reporting by Alexandra Alper in Washington, Hyunjoo Jin and Heekyong Yang in Seoul; Editing by Eduardo Baptista, Miyoung Kim and Shri Navaratnam。机构署名（Reuters staff），无具名个人记者，故authors_status=not_available。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "NeoDrop Chinese reprint of Reuters: 'Reuters staff 撰写, Alexandra Alper、Hyunjoo Jin 与 Heekyong Yang 补充报道'",
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260804-reuters-samsung-sk-hynix-chinese-tools"
     },
@@ -29972,9 +30174,13 @@ window.__XFS_DATA__ = {
       "title_zh": "台湾启动大型军演以测试指挥临机应变能力",
       "published_at": "2026-08-06",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Yi-Chin Lee",
+        "Ann Wang",
+        "Ben Blanchard"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "台海",
         "军事",
@@ -29993,6 +30199,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china/taiwan-launches-major-war-games-test-command-flexibility-2026-08-05/",
         "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "The Print / Yahoo reprint of Reuters: '(Reporting by Yi-Chin Lee and Ann Wang; Writing by Ben Blanchard; Editing by Tom Hogue)'",
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260806-reuters-taiwan-war-games"
     },
@@ -31295,9 +31503,13 @@ window.__XFS_DATA__ = {
       "title_zh": "中国就美国科技限制出台对等措施反制",
       "published_at": "2026-08-06",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Eduardo Baptista",
+        "Ethan Wang",
+        "Ryan Woo"
+      ],
       "author_locations": "北京",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美贸易",
         "反制",
@@ -31323,6 +31535,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.toutiao.com/article/7669739873791705627/",
         "evidence_note": "Reuters 8月5–6日综合报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Fidelity reprint: '(Reporting by Eduardo Baptista, Ethan Wang and Ryan Woo; Editing by Sharon Singleton and David Holmes)'",
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-reuters-china-retaliates-us-countermeasures"
     },
@@ -32628,9 +32842,14 @@ window.__XFS_DATA__ = {
       "title_zh": "希音(Shein)推动主要中国供应商赴越南设厂，进展不如预期",
       "published_at": "2026-08-10",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Francesco Guarascio",
+        "Sophie Yu",
+        "Casey Hall",
+        "Phuong Nguyen"
+      ],
       "author_locations": "新加坡/中国",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "Shein",
         "供应链",
@@ -32658,6 +32877,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.twitterviewer.io/profile/ReutersChina",
         "evidence_note": "Reuters China 8月10日推文线索；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Fidelity Investments reprint: '(Reporting by Francesco Guarascio, Sophie Yu, Casey Hall and Phuong Nguyen; Editing by Edwina Gibbs)'",
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-reuters-shein-chinese-suppliers-vietnam"
     },
@@ -33138,9 +33359,11 @@ window.__XFS_DATA__ = {
       "title_zh": "苹果测试中国长鑫(CXMT)存储芯片用于iPhone与MacBook",
       "published_at": "2026-08-10",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Mark Gurman"
+      ],
       "author_locations": "中国香港",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "苹果",
         "长鑫CXMT",
@@ -33169,6 +33392,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://hkut.news.blog/financial",
         "evidence_note": "Bloomberg 8月10日报道；机构稿未具名个人记者，故 authors_status=not_available；基于WSJ报道"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Korea Herald / WCCFtech reprint: 'Bloomberg's Mark Gurman'",
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-bloomberg-apple-tests-cxmt-chips"
     },
@@ -33709,9 +33934,14 @@ window.__XFS_DATA__ = {
       "title_zh": "台风'白海豚'减弱但仍重创华东，上海逾千航班取消、百万人转移",
       "published_at": "2026-08-11",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Kevin Yao",
+        "Shuyan Wang",
+        "Nicoco Chan",
+        "Eduardo Baptista"
+      ],
       "author_locations": "上海/浙江",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "台风",
         "极端天气",
@@ -33740,6 +33970,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://metapress.net/asia/2026/08/11/typhoon-dolphin-weakens-but-disrupts-travel-in-east-china",
         "evidence_note": "Reuters 图文报道（摄影 Go Nakamura），机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "The Star (Malaysia) reprint of Reuters: '(Reporting by Kevin Yao, Shuyan Wang, Nicoco Chan and Eduardo Baptista; editing by Lincoln Feast.)'",
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260811-reuters-typhoon-dolphin"
     },
@@ -33956,9 +34188,11 @@ window.__XFS_DATA__ = {
       "title_zh": "人民币对美元创三年半新高，出口高景气支撑",
       "published_at": "2026-08-10",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Qizi Sun"
+      ],
       "author_locations": "上海",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "人民币汇率",
         "宏观经济",
@@ -33986,6 +34220,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.163.com/dy/article/L400KHRS0514R9P4.html",
         "evidence_note": "Bloomberg 报道(转引)，机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "finance.yahoo.com (Bloomberg reprint): '--With assistance from Qizi Sun.' (Bloomberg 人民币创新高报道文末署名)",
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260810-bloomberg-yuan-high"
     },
@@ -34342,9 +34578,11 @@ window.__XFS_DATA__ = {
       "title_zh": "中国对日本中重稀土出口归零：镝、铽、钇6月对华输出为零",
       "published_at": "2026-08-11",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Solomon Cefai"
+      ],
       "author_locations": "北京",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "稀土",
         "出口管制",
@@ -34372,6 +34610,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://news.seehua.com/page/3",
         "evidence_note": "Reuters 援引中国海关数据报道（经中央社/日经转载）；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Fidelity reprint of Reuters: '(Reporting by Solomon Cefai; Editing by Joe Bavier)'",
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260811-reuters-china-rare-earth-japan"
     },
@@ -34769,9 +35009,11 @@ window.__XFS_DATA__ = {
       "title_zh": "深度求索发布 V4 Pro，谷峰定价上线，AI 价格战白热化",
       "published_at": "2026-08-13",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Eduardo Baptista"
+      ],
       "author_locations": "北京/杭州",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "AI大模型",
         "算力定价",
@@ -34798,6 +35040,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/technology/deepseek-launches-v4-pro-peak-valley-pricing-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "AOL reprint: '(Reporting by Eduardo Baptista; Editing by Kirsten Donovan)'",
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-deepseek-v4-pro"
     },
@@ -35403,9 +35647,13 @@ window.__XFS_DATA__ = {
       "title_zh": "特朗普签署公告对进口无人机征最高100%关税，彭博称重创中国无人机在美市场",
       "published_at": "2026-08-13",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Laura Curtis",
+        "Alicia Diaz",
+        "Lucille Liu"
+      ],
       "author_locations": "华盛顿",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美经贸",
         "无人机",
@@ -35434,6 +35682,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-13/trump-imposes-100-percent-tariff-imported-drones-china-dji",
         "evidence_note": "Bloomberg 8月13日分析稿(多家港媒/外媒引述'彭博')；机构稿未具名个人记者，authors_status=not_available"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Hartford Courant / Newshunt reprint of Bloomberg: 'By Laura Curtis, Alicia Diaz and Lucille Liu, Bloomberg News'",
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-bloomberg-us-drone-tariff-100pct"
     },
@@ -35573,9 +35823,11 @@ window.__XFS_DATA__ = {
       "title_zh": "深度求索发布 V4 Pro，谷峰定价上线，AI 价格战白热化",
       "published_at": "2026-08-13",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Eduardo Baptista"
+      ],
       "author_locations": "北京/杭州",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "AI大模型",
         "算力定价",
@@ -35602,6 +35854,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/technology/deepseek-launches-v4-pro-peak-valley-pricing-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Fidelity reprint of Reuters: '(Reporting by Eduardo Baptista; Editing by Kirsten Donovan)'",
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260813-reuters-deepseek-v4-pro"
     },
@@ -37040,9 +37294,11 @@ window.__XFS_DATA__ = {
       "title_zh": "德国汽车业岗位降至20余年最低，中国车企竞争成主因",
       "published_at": "2026-08-14",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Sasha Draeger-Mazer"
+      ],
       "author_locations": "柏林",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "德国汽车",
         "中国车企",
@@ -37069,6 +37325,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.mayberryinv.com/overseas-headlines-august-14-2026/",
         "evidence_note": "Bloomberg 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "theedgemalaysia.com (Bloomberg reprint): 'By Sasha Draeger-Mazer / Bloomberg'; bloomberg.com: 'By Sasha Draeger-Mazer'",
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-bloomberg-german-autos-china-rivals"
     },
@@ -38786,9 +39044,12 @@ window.__XFS_DATA__ = {
       "title_zh": "长鑫存储登顶中国市值最高公司，预示硬科技新时代",
       "published_at": "2026-08-17",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Gao Yuan",
+        "Jeanny Yu"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "半导体",
         "CXMT",
@@ -38815,6 +39076,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era",
         "evidence_note": "Bloomberg 8/17"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "theedgemalaysia.com/node/814753: 'By Gao Yuan & Jeanny Yu / Bloomberg'",
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-bloomberg-cxmt-most-valuable"
     },
@@ -40802,9 +41065,11 @@ window.__XFS_DATA__ = {
       "title_zh": "中国与瑞士达成新贸易协定，几乎取消所有关税",
       "published_at": "2026-08-20",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Levin Stamm"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中欧关系",
         "贸易协定",
@@ -40830,6 +41095,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-20/swiss-agree-trade-deal-that-gives-it-tariff-free-access-to-china",
         "evidence_note": "原页付费墙，署名未确认；99.8%关税豁免为检索确认。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "swissinfo.ch (Bloomberg reprint): '–With assistance from Levin Stamm.'",
       "_day": "2026-08-21",
       "_uid": "2026-08-21/20260821-bloomberg-china-swiss-trade"
     },
@@ -41424,9 +41691,12 @@ window.__XFS_DATA__ = {
       "title_zh": "奇瑞机器人子公司筹备IPO，赶人形机器人热潮",
       "published_at": "2026-08-21",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Qiaoyi Li",
+        "Kevin Krolicki"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "机器人",
         "IPO",
@@ -41451,6 +41721,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.twitterviewer.io/profile/ReutersChina",
         "evidence_note": "原页不可达，署名未确认；IPO筹备与'竞争加剧'来自 Reuters China 社媒转发。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "streetinsider.com (Reuters reprint): '(Reporting by Qiaoyi Li and Kevin Krolicki; Editing by Miyoung Kim and Saad Sayeed)'",
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r12"
     },
@@ -41501,9 +41773,13 @@ window.__XFS_DATA__ = {
       "title_zh": "彭博：中国AI模型成本仅美国十分之一，全球使用率超60%",
       "published_at": "2026-08-22",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Luz Ding",
+        "Spe Chen",
+        "Hayley Warren"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "AI",
         "科技竞争",
@@ -41528,6 +41804,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://view.inews.qq.com/k/20260823A03H6I00",
         "evidence_note": "原页不可达；'1/10成本、>60%使用率'来自腾讯新闻对彭博报道的转述。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Bloomberg.com/graphics/2026-us-china-ai-race/: 'By Luz Ding, Spe Chen, Hayley Warren August 20, 2026'",
       "_day": "2026-08-22",
       "_uid": "2026-08-22/b2"
     },
@@ -41695,9 +41973,11 @@ window.__XFS_DATA__ = {
       "title_zh": "中国离岸股票年内跌近8%，AI行情冷落香港",
       "published_at": "2026-08-22",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Winnie Hsu"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "股市",
         "金融",
@@ -41722,6 +42002,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://getfinancebrief.com/story/china-stocks-down-8-ytd-ai-trade-hong-kong",
         "evidence_note": "原页不可达，署名未确认；'年内跌8%/MSCI回落18%/恒指垫底'来自彭博跟踪数据转述。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "bloomberg.com (原文 china-stock-gauge-sinks-as-traders-favor-ai-winners-elsewhere): 'By Winnie Hsu'",
       "_day": "2026-08-22",
       "_uid": "2026-08-22/b7"
     },
@@ -44036,9 +44318,12 @@ window.__XFS_DATA__ = {
       "title_zh": "路透调查：中国 8 月制造业扩张料再度放缓",
       "published_at": "2026-08-26",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Yukun Zhang",
+        "Liz Lee"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "宏观经济",
         "制造业",
@@ -44063,6 +44348,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.octaasia.com/markets/news/view/605999/",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "gfm.news 转载路透稿（Reuters, Beijing, Aug 28）文末署名：'Reporting by Yukun Zhang and Liz Lee; Polling by Susobhan Sarkar in Bengaluru and Jing Wang in Shanghai; Editing by Kim Coghill'。",
       "_day": "2026-08-26",
       "_uid": "2026-08-26/r3"
     },
@@ -44154,9 +44441,12 @@ window.__XFS_DATA__ = {
       "title_zh": "中国楼市压力未消：房价、销售与投资同步走弱",
       "published_at": "2026-08-26",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Liangping Gao",
+        "Ryan Woo"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "房地产",
         "宏观经济",
@@ -44182,6 +44472,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aastocks.com/share/news/hk/NOW.1470247/?s=00754&l=eng&ns=HK6",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "NewsBreak/local 与 piqmarkets 转载：'(Reporting by Liangping Gao and Ryan Woo; Additional Reporting by Shuyan Wang; Editing by Saad Sayeed)'；另见 'Liangping Gao Reuters reporter / Ryan Woo Reuters reporter'",
       "_day": "2026-08-26",
       "_uid": "2026-08-26/r6"
     },
@@ -44781,9 +45073,12 @@ window.__XFS_DATA__ = {
       "title_zh": "俄罗斯阿穆尔天然气化工厂火灾致多名中国公民伤亡",
       "published_at": "2026-08-27",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Marina Bobrova",
+        "Vladimir Soldatkin"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "海外安全",
         "能源化工",
@@ -44808,6 +45103,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26082700198",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "usnews.com 刊载路透稿（Reuters, MOSCOW, Aug 26）文末署名：'Reporting by Marina Bobrova and Vladimir Soldatkin; Editing by Muralikumar Anantharaman and Stephen Coates'。",
       "_day": "2026-08-27",
       "_uid": "2026-08-27/r6"
     },
@@ -45202,9 +45499,11 @@ window.__XFS_DATA__ = {
       "title_zh": "智谱开源GLM-5.3-Flash加剧中美AI模型竞赛",
       "published_at": "2026-08-27",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Luz Ding"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "人工智能",
         "开源模型",
@@ -45229,6 +45528,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://xnews.jin10.com/details/228480",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "urgent.news 转载：'(Luz Ding/Bloomberg)'",
       "_day": "2026-08-27",
       "_uid": "2026-08-27/b7"
     },
@@ -46215,9 +46516,11 @@ window.__XFS_DATA__ = {
       "title_zh": "贝森特G20会前放话：各国应审视对华贸易条件、共同遏制1.2万亿美元顺差",
       "published_at": "2026-08-30T18:00:00Z",
       "published_precision": "hour",
-      "authors": [],
+      "authors": [
+        "David Lawder"
+      ],
       "author_locations": "ASHEVILLE, North Carolina",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美经贸",
         "G20",
@@ -46250,6 +46553,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.thehindu.com/news/international/g20-countries-should-consider-more-trade-barriers-on-china-to-cut-imbalances-bessent-says/article71409702.ece/amp",
         "evidence_note": "The Hindu（路透授权转载）全文刊载该稿，含阿什维尔8月30日电头、贝森特引语（1.2万亿美元顺差、新广场协议批评、300亿美元非战略货物、潘功盛会晤等），文末注明August 30, 2026；AOL转载页面（us-eyes-china-overcapacity-tariffs-155346000）载有同稿及背景链接。路透转载文本未附记者署名行，authors_status=not_available；to-the-minute发布时刻未能确证，published_at为小时级近似。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Same Reuters article as 2026-09-01 r5 ('G20 countries should consider more trade barriers on China'), Reporting by David Lawder",
       "_day": "2026-08-30",
       "_uid": "2026-08-30/r1"
     },
@@ -46774,9 +47079,11 @@ window.__XFS_DATA__ = {
       "title_zh": "贝森特称将要求G20重新审视对华贸易条款",
       "published_at": "2026-08-30T16:00:00Z",
       "published_precision": "hour",
-      "authors": [],
+      "authors": [
+        "David Lawder"
+      ],
       "author_locations": "WASHINGTON",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美经贸",
         "G20",
@@ -46804,6 +47111,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.mayberryinv.com/overseas-headlines-august-31-2026",
         "evidence_note": "Mayberry Investments 每日海外头条引述并链接彭博转发页，确认贝森特周日对路透的原话与1.2万亿美元顺差表述。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Fidelity/Internazionale reprint: '(Reporting by David Lawder; Editing by Edmund Klamann)'",
       "_day": "2026-09-01",
       "_uid": "2026-09-01/r5"
     },
@@ -47371,9 +47680,12 @@ window.__XFS_DATA__ = {
       "title_zh": "尼泊尔拟在中尼边境恢复滑坡预警系统",
       "published_at": "2026-09-02T16:28:00Z",
       "published_precision": "minute",
-      "authors": [],
+      "authors": [
+        "Sarita Chaganti Singh",
+        "Ariba Shahid"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中尼关系",
         "边境安全",
@@ -47400,6 +47712,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://statement.com/1302519/china-proposes-a-new-security-order-for-the-middle-east",
         "evidence_note": "statement.com 聚合页含路透关于尼泊尔中尼边境预警系统的完整段落（标注 Reuters, bak），为匿名政府信源，无个人记者署名，故 authors_status=not_available。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "CRBC News: \"Reporting: Sarita Chaganti Singh in New Delhi. Writing: Ariba Shahid. Editing: Rick Noack, Gareth Jones and Christian Schmollinger.\"",
       "_day": "2026-09-02",
       "_uid": "2026-09-02/r3"
     },
@@ -48116,9 +48430,11 @@ window.__XFS_DATA__ = {
       "title_zh": "路透独家：中美筹备9月中旬AI安全对话，贝森特或率美方",
       "published_at": "2026-09-04T00:00:00Z",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Laurie Chen"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美关系",
         "人工智能",
@@ -48151,6 +48467,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://economictimes.indiatimes.com/ai/ai-insights/us-china-gear-up-for-mid-september-ai-safety-dialogue/printarticle/133770855.cms",
         "evidence_note": "Economic Times 全文转载路透9月4日原稿，含贝森特牵头、实验室自我监督提案、Mythos级模型担忧、丁薛祥/何立峰/阴和俊可能出席、财政部「可能10月」表态等全部要点；钜亨网与观察者网中文转述一致。路透未附个人记者署名，标 not_available。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "The Print reprint: 'By Laurie Chen BEIJING, Sept 4 (Reuters)'",
       "_day": "2026-09-04",
       "_uid": "2026-09-04/r3"
     },
@@ -48349,9 +48667,12 @@ window.__XFS_DATA__ = {
       "title_zh": "彭博：DeepSeek拟在内蒙古数据中心部署至少16万颗华为昇腾芯片",
       "published_at": "2026-09-04T08:00:00Z",
       "published_precision": "hour",
-      "authors": [],
+      "authors": [
+        "Mackenzie Hawkins",
+        "Haze Fan"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "人工智能",
         "半导体",
@@ -48382,6 +48703,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://origin.www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center",
         "evidence_note": "彭博9月4日原文确认16万颗昇腾950DT、内蒙古吉瓦级数据中心、不用于训练、产能受高端存储限制等要点；The Edge Malaysia China Focus 04 Sep 2026 18:03 条目同步转载彭博电。彭博正文机构署名，标 not_available。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "The Edge Malaysia / XenoSpectrum: 'By Mackenzie Hawkins & Haze Fan / Bloomberg'",
       "_day": "2026-09-04",
       "_uid": "2026-09-04/b1"
     },
@@ -48435,9 +48758,13 @@ window.__XFS_DATA__ = {
       "title_zh": "彭博：月之暗面秘密递交港股IPO申请，拟募资至多50亿美元、估值500亿美元",
       "published_at": "2026-09-04T00:00:00Z",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Dong Cao",
+        "Julia Fioretti",
+        "Luz Ding"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "人工智能",
         "大模型",
@@ -48470,6 +48797,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/jp/finance",
         "evidence_note": "彭博日文财经首页 2026年9月4日「独自」条目「ムーンショットが年内にも香港でIPO、最大50億ドル調達検討-関係者」；路透同步报道30亿美元募资目标与高盛/中金/德银辅导；startupfortune、Yahoo Finance 补充ARR三级跳与红筹拆除细节。彭博正文机构署名，标 not_available。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "bundle.app（Bloomberg 转载）：'Dong Cao, Julia Fioretti, Pei Li and Luz Ding sourced the account to people familiar with the matter' [剔除 Pei Li：库中其为路透记者，疑为跨媒体误配]",
       "_day": "2026-09-04",
       "_uid": "2026-09-04/b3"
     },
@@ -49042,9 +49371,11 @@ window.__XFS_DATA__ = {
       "title_zh": "彭博：李家超称香港首份五年规划将扩大离岸人民币使用与跨境投资",
       "published_at": "2026-09-05T02:45:00Z",
       "published_precision": "minute",
-      "authors": [],
+      "authors": [
+        "Echo Wong"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "香港",
         "人民币国际化",
@@ -49077,6 +49408,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.investing.com/news/economy-news/hong-kong-targets-bigger-offshore-yuan-role-mainland-links-in-first-5year-plan-4890159",
         "evidence_note": "investing.com 明确标注「Bloomberg reported on Saturday, citing Chief Executive John Lee」，含离岸人民币产品、股票通/债券通/理财通、9月16日立法会提交、北部都会区、梁凤仪AI表态等要点；彭博原文页 URL 经 origin.www.bloomberg.com 检索确认（2026-09-05 版）。彭博正文为机构署名，标 not_available。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "ima.qq.com Bloomberg screenshot (Sept 5, 2026): \"By Echo Wong\"",
       "_day": "2026-09-05",
       "_uid": "2026-09-05/b5"
     },
@@ -49138,9 +49471,11 @@ window.__XFS_DATA__ = {
       "title_zh": "彭博：中国大型银行与保险机构寻求至少530亿美元资本补充",
       "published_at": "2026-09-06T12:00:00Z",
       "published_precision": "day",
-      "authors": [],
+      "authors": [
+        "Charlie Zhu"
+      ],
       "author_locations": "",
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中国经济",
         "银行资本",
@@ -49174,6 +49509,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://primenestnews.com/detail/china-mega-banks-insurers-seek-at-least-53-billion-in-capital",
         "evidence_note": "primenestnews全文转载彭博原稿（(Bloomberg) -- 机构署名，Charlie Zhu协助），取得正文与全部认购数字；原链bloomberg.com/news/articles/2026-09-06/agb经bigmarketmoves.com来源追踪交叉验证"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Yahoo HK / Finnhub reprint: '联合报道 Charlie Zhu' / '--With assistance from Charlie Zhu'",
       "_day": "2026-09-06",
       "_uid": "2026-09-06/b1"
     },
@@ -50748,9 +51085,12 @@ window.__XFS_DATA__ = {
       "title_zh": "中国海警船撞击菲方补给渔船：南海对峙再升级",
       "published_at": "2026-09-18",
       "published_precision": "date",
-      "authors": [],
+      "authors": [
+        "Nestor Corrales",
+        "Liz Lee"
+      ],
       "author_locations": [],
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "南海",
         "中国海警",
@@ -50778,6 +51118,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.fdd.org/overnight-brief/september-18-2026",
         "evidence_note": "路透官网直连被JS墙拦截；经 FDD Overnight Brief（9/18）转引路透原文确认。机构稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "U.S. News: \"(Reporting by Nestor Corrales; Additional reporting by Liz Lee in Beijing; Editing by David Stanway and Sam Holmes)\"",
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r7"
     },
@@ -50789,9 +51131,11 @@ window.__XFS_DATA__ = {
       "title_zh": "沙特求援后，中国私下促伊朗约束胡塞武装",
       "published_at": "2026-09-18",
       "published_precision": "date",
-      "authors": [],
+      "authors": [
+        "Parisa Hafezi"
+      ],
       "author_locations": [],
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中东",
         "胡塞武装",
@@ -50820,6 +51164,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.fdd.org/overnight-brief/september-18-2026",
         "evidence_note": "路透官网直连被JS墙拦截；经 FDD Overnight Brief（9/18）转引路透原文（'China has privately asked Tehran to help rein in Yemen's Houthis'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "The Print / Yahoo: \"By Parisa Hafezi\"",
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r8"
     },
@@ -50916,9 +51262,13 @@ window.__XFS_DATA__ = {
       "title_zh": "王毅与鲁比奥通话：为元首互动'做好准备'，中美外交预热",
       "published_at": "2026-09-17",
       "published_precision": "date",
-      "authors": [],
+      "authors": [
+        "Xiuhao Chen",
+        "Yukun Zhang",
+        "Ryan Woo"
+      ],
       "author_locations": [],
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美关系",
         "王毅",
@@ -50947,6 +51297,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
         "evidence_note": "路透官网直连被JS墙拦截；经 The Edge Malaysia（路透 China Focus，9/17 11:56pm 条目'China, US top diplomats discuss high-level interactions'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "The Print: \"(Reporting by Xiuhao Chen, Yukun Zhang and Ryan Woo; Editing by Toby Chopra)\"",
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r11"
     },
@@ -51265,9 +51617,11 @@ window.__XFS_DATA__ = {
       "title_zh": "中美据报磋商下调美LNG关税：峰会前的能源牌",
       "published_at": "2026-09-19",
       "published_precision": "date",
-      "authors": [],
+      "authors": [
+        "Jarrett Renshaw"
+      ],
       "author_locations": [],
-      "authors_status": "not_available",
+      "authors_status": "named",
       "topics": [
         "中美经贸",
         "LNG",
@@ -51295,6 +51649,8 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.newsquawk.com/headlines/newsquawk-daily-asia-pac-opening-news---18th-september-2026",
         "evidence_note": "路透官网直连被JS墙拦截；经 Newsquawk（'US and China reportedly discuss cutting tariff on US LNG ahead of Xi's visit, according to Reuters'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "byline_recovered_at": "2026-09-20T18:30:00+08:00",
+      "byline_note": "Yahoo reprint: 'By Jarrett Renshaw' / '(Reporting By Jarrett Renshaw)'",
       "_day": "2026-09-19",
       "_uid": "2026-09-19/r3"
     },
@@ -63107,7 +63463,7 @@ window.__XFS_DATA__ = {
     "total": 580,
     "days": 40,
     "negatives": 187,
-    "with_author": 318,
+    "with_author": 355,
     "with_body": 164,
     "with_sources": 518
   }

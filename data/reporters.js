@@ -7,6 +7,871 @@
  * 文章关联：用 name 与 DATA.days 中 articles.authors 匹配。
  */
 window.__XFS_REPORTERS__ = [
+{
+  "id": "florence-tan",
+  "name": "Florence Tan",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "新加坡(推测)",
+  "ethnic_chinese": "是(推测)",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "能源与大宗商品记者",
+  "title_en": "能源与大宗商品记者",
+  "beat": "能源、大宗商品、海运（新加坡）",
+  "base": "新加坡",
+  "base_en": "Singapore",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "能源"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "siyi-liu",
+  "name": "Siyi Liu",
+  "name_zh": "—",
+  "gender": "待定",
+  "nationality": "中国(推测)",
+  "ethnic_chinese": "是(推测)",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "中国科技/数据记者",
+  "title_en": "中国科技/数据记者",
+  "beat": "中国经济与科技数据",
+  "base": "北京(推测)",
+  "base_en": "Beijing",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "中国经济与科技数据"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "karen-freifeld",
+  "name": "Karen Freifeld",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "美国(推测)",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "贸易法/制裁记者（华盛顿）",
+  "title_en": "贸易法/制裁记者（华盛顿）",
+  "beat": "贸易法、制裁、合规（华盛顿）",
+  "base": "华盛顿",
+  "base_en": "Washington",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "贸易法"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "alexandra-alper",
+  "name": "Alexandra Alper",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "美国(推测)",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "美国贸易政策记者",
+  "title_en": "美国贸易政策记者",
+  "beat": "美国贸易政策、对华关税",
+  "base": "华盛顿",
+  "base_en": "Washington",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "美国贸易政策"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "hyunjoo-jin",
+  "name": "Hyunjoo Jin",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "韩国",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "首尔科技记者",
+  "title_en": "首尔科技记者",
+  "beat": "韩国科技、半导体（首尔）",
+  "base": "首尔",
+  "base_en": "Seoul",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "韩国科技"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "heekyong-yang",
+  "name": "Heekyong Yang",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "韩国",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "首尔消费/零售记者",
+  "title_en": "首尔消费/零售记者",
+  "beat": "韩国消费、零售、企业",
+  "base": "首尔",
+  "base_en": "Seoul",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "韩国消费"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "yi-chin-lee",
+  "name": "Yi-Chin Lee",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "中国台湾",
+  "ethnic_chinese": "是",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "台北记者",
+  "title_en": "台北记者",
+  "beat": "中国台湾政治、两岸",
+  "base": "台北",
+  "base_en": "Taipei",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "中国台湾政治"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "ann-wang",
+  "name": "Ann Wang",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "中国(推测)",
+  "ethnic_chinese": "是(推测)",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "中国宏观/社会记者",
+  "title_en": "中国宏观/社会记者",
+  "beat": "中国宏观、社会",
+  "base": "北京(推测)",
+  "base_en": "Beijing",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "中国宏观"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "mark-gurman",
+  "name": "Mark Gurman",
+  "name_zh": "—",
+  "gender": "男(推测)",
+  "nationality": "美国",
+  "ethnic_chinese": "否",
+  "org": "Bloomberg",
+  "org_unit": "Bloomberg News",
+  "role": "reporter",
+  "title": "苹果/消费电子记者",
+  "title_en": "苹果/消费电子记者",
+  "beat": "苹果、消费电子（旧金山）",
+  "base": "旧金山",
+  "base_en": "San Francisco",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "苹果"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "shuyan-wang",
+  "name": "Shuyan Wang",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "中国(推测)",
+  "ethnic_chinese": "是(推测)",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "中国宏观经济记者",
+  "title_en": "中国宏观经济记者",
+  "beat": "中国宏观经济、数据",
+  "base": "北京",
+  "base_en": "Beijing",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "中国宏观经济"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "nicoco-chan",
+  "name": "Nicoco Chan",
+  "name_zh": "—",
+  "gender": "待定",
+  "nationality": "中国香港(推测)",
+  "ethnic_chinese": "是(推测)",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "中国香港财经记者",
+  "title_en": "中国香港财经记者",
+  "beat": "中国香港、财经",
+  "base": "中国香港",
+  "base_en": "Hong Kong",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "中国香港"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "solomon-cefai",
+  "name": "Solomon Cefai",
+  "name_zh": "—",
+  "gender": "男(推测)",
+  "nationality": "待定",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "大宗商品/航运记者",
+  "title_en": "大宗商品/航运记者",
+  "beat": "大宗商品、航运（推断）",
+  "base": "待定",
+  "base_en": "—",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "大宗商品"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "laura-curtis",
+  "name": "Laura Curtis",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "美国(推测)",
+  "ethnic_chinese": "否",
+  "org": "Bloomberg",
+  "org_unit": "Bloomberg News",
+  "role": "reporter",
+  "title": "中美贸易记者",
+  "title_en": "中美贸易记者",
+  "beat": "中美贸易、关税（华盛顿）",
+  "base": "华盛顿",
+  "base_en": "Washington",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "中美贸易"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "alicia-diaz",
+  "name": "Alicia Diaz",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "待定",
+  "ethnic_chinese": "否",
+  "org": "Bloomberg",
+  "org_unit": "Bloomberg News",
+  "role": "reporter",
+  "title": "美国政治/贸易记者",
+  "title_en": "美国政治/贸易记者",
+  "beat": "美国政治、贸易（推断）",
+  "base": "华盛顿(推测)",
+  "base_en": "Washington",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "美国政治"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "gao-yuan",
+  "name": "Gao Yuan",
+  "name_zh": "—",
+  "gender": "待定",
+  "nationality": "中国",
+  "ethnic_chinese": "是",
+  "org": "Bloomberg",
+  "org_unit": "Bloomberg News",
+  "role": "reporter",
+  "title": "中国科技记者",
+  "title_en": "中国科技记者",
+  "beat": "中国科技、AI（北京）",
+  "base": "北京",
+  "base_en": "Beijing",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "中国科技"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "jeanny-yu",
+  "name": "Jeanny Yu",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "中国香港(推测)",
+  "ethnic_chinese": "是(推测)",
+  "org": "Bloomberg",
+  "org_unit": "Bloomberg News",
+  "role": "reporter",
+  "title": "港股市场记者",
+  "title_en": "港股市场记者",
+  "beat": "港股、市场",
+  "base": "中国香港",
+  "base_en": "Hong Kong",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "港股"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "dong-cao",
+  "name": "Dong Cao",
+  "name_zh": "—",
+  "gender": "待定",
+  "nationality": "中国",
+  "ethnic_chinese": "是",
+  "org": "Bloomberg",
+  "org_unit": "Bloomberg News",
+  "role": "reporter",
+  "title": "中国AI/科技记者",
+  "title_en": "中国AI/科技记者",
+  "beat": "中国AI、科技（北京）",
+  "base": "北京",
+  "base_en": "Beijing",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "中国AI"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "qizi-sun",
+  "name": "Qizi Sun",
+  "name_zh": "—",
+  "gender": "待定",
+  "nationality": "中国(推测)",
+  "ethnic_chinese": "是(推测)",
+  "org": "Bloomberg",
+  "org_unit": "Bloomberg News",
+  "role": "reporter",
+  "title": "人民币/外汇记者",
+  "title_en": "人民币/外汇记者",
+  "beat": "人民币、外汇（推断）",
+  "base": "中国香港(推测)",
+  "base_en": "Hong Kong",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "人民币"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "sasha-draeger-mazer",
+  "name": "Sasha Draeger-Mazer",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "德国(推测)",
+  "ethnic_chinese": "否",
+  "org": "Bloomberg",
+  "org_unit": "Bloomberg News",
+  "role": "reporter",
+  "title": "汽车/中国车企记者",
+  "title_en": "汽车/中国车企记者",
+  "beat": "汽车、中国车企（推断）",
+  "base": "待定",
+  "base_en": "—",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "汽车"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "levin-stamm",
+  "name": "Levin Stamm",
+  "name_zh": "—",
+  "gender": "男(推测)",
+  "nationality": "待定",
+  "ethnic_chinese": "否",
+  "org": "Bloomberg",
+  "org_unit": "Bloomberg News",
+  "role": "reporter",
+  "title": "欧洲市场记者",
+  "title_en": "欧洲市场记者",
+  "beat": "瑞士/欧洲市场（推断）",
+  "base": "待定",
+  "base_en": "—",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "瑞士/欧洲市场"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "winnie-hsu",
+  "name": "Winnie Hsu",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "中国台湾(推测)",
+  "ethnic_chinese": "是(推测)",
+  "org": "Bloomberg",
+  "org_unit": "Bloomberg News",
+  "role": "reporter",
+  "title": "台港市场记者",
+  "title_en": "台港市场记者",
+  "beat": "市场、台港股市",
+  "base": "台北",
+  "base_en": "Taipei",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "市场"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "francesco-guarascio",
+  "name": "Francesco Guarascio",
+  "name_zh": "—",
+  "gender": "男(推测)",
+  "nationality": "意大利",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "欧盟/中国贸易记者",
+  "title_en": "欧盟/中国贸易记者",
+  "beat": "欧盟、中国贸易（布鲁塞尔）",
+  "base": "布鲁塞尔",
+  "base_en": "Brussels",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "欧盟"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "sophie-yu",
+  "name": "Sophie Yu",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "中国",
+  "ethnic_chinese": "是",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "中国公司/供应链记者",
+  "title_en": "中国公司/供应链记者",
+  "beat": "中国公司、供应链",
+  "base": "北京(推测)",
+  "base_en": "Beijing",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "中国公司"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "phuong-nguyen",
+  "name": "Phuong Nguyen",
+  "name_zh": "—",
+  "gender": "待定",
+  "nationality": "越南",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "越南制造业记者",
+  "title_en": "越南制造业记者",
+  "beat": "越南供应链、制造业",
+  "base": "河内(推测)",
+  "base_en": "Hanoi",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "越南供应链"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "marina-bobrova",
+  "name": "Marina Bobrova",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "俄罗斯",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "莫斯科能源记者",
+  "title_en": "莫斯科能源记者",
+  "beat": "俄罗斯、能源（莫斯科）",
+  "base": "莫斯科",
+  "base_en": "Moscow",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "俄罗斯"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "vladimir-soldatkin",
+  "name": "Vladimir Soldatkin",
+  "name_zh": "—",
+  "gender": "男(推测)",
+  "nationality": "俄罗斯",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "莫斯科能源/OPEC记者",
+  "title_en": "莫斯科能源/OPEC记者",
+  "beat": "俄罗斯、OPEC/能源（莫斯科）",
+  "base": "莫斯科",
+  "base_en": "Moscow",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "俄罗斯"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "sarita-chaganti-singh",
+  "name": "Sarita Chaganti Singh",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "印度",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "新德里政治记者",
+  "title_en": "新德里政治记者",
+  "beat": "印度政治、中美（新德里）",
+  "base": "新德里",
+  "base_en": "New Delhi",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "印度政治"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "ariba-shahid",
+  "name": "Ariba Shahid",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "巴基斯坦",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "巴基斯坦/南亚记者",
+  "title_en": "巴基斯坦/南亚记者",
+  "beat": "巴基斯坦、南亚",
+  "base": "卡拉奇(推测)",
+  "base_en": "Karachi",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "巴基斯坦"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "echo-wong",
+  "name": "Echo Wong",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "中国香港(推测)",
+  "ethnic_chinese": "是(推测)",
+  "org": "Bloomberg",
+  "org_unit": "Bloomberg News",
+  "role": "reporter",
+  "title": "中国香港金融记者",
+  "title_en": "中国香港金融记者",
+  "beat": "中国香港市场、金融",
+  "base": "中国香港",
+  "base_en": "Hong Kong",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "中国香港市场"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "xiuhao-chen",
+  "name": "Xiuhao Chen",
+  "name_zh": "—",
+  "gender": "男(推测)",
+  "nationality": "中国",
+  "ethnic_chinese": "是",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "北京政治/宏观记者",
+  "title_en": "北京政治/宏观记者",
+  "beat": "中国政治、宏观（北京）",
+  "base": "北京",
+  "base_en": "Beijing",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "中国政治"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "nestor-corrales",
+  "name": "Nestor Corrales",
+  "name_zh": "—",
+  "gender": "男(推测)",
+  "nationality": "菲律宾",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "马尼拉记者",
+  "title_en": "马尼拉记者",
+  "beat": "菲律宾、南海（马尼拉）",
+  "base": "马尼拉",
+  "base_en": "Manila",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "菲律宾"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+{
+  "id": "parisa-hafezi",
+  "name": "Parisa Hafezi",
+  "name_zh": "—",
+  "gender": "女(推测)",
+  "nationality": "伊朗",
+  "ethnic_chinese": "否",
+  "org": "Reuters",
+  "org_unit": "Reuters",
+  "role": "reporter",
+  "title": "德黑兰记者",
+  "title_en": "德黑兰记者",
+  "beat": "伊朗、中东（德黑兰）",
+  "base": "德黑兰",
+  "base_en": "Tehran",
+  "background": "未公开检索到（依署名回溯新增，未独立核实）",
+  "focus": [
+    "伊朗"
+  ],
+  "recent": [],
+  "handles": {
+    "x": "—",
+    "linkedin": "—",
+    "email": "—"
+  },
+  "sources": []
+},
+
   {
     id: "luz-ding", name: "Luz Ding", name_zh: "丁璐（未公开确认）",
     gender: "女",
