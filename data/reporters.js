@@ -858,5 +858,24 @@ window.__XFS_REPORTERS__ = [
     ],
     handles: { x: "—", linkedin: "—", email: "—" },
     sources: ["https://tech.memeorandum.com/river"]
+  },
+  {
+    id: "david-shepardson", name: "David Shepardson", name_zh: "—",
+    gender: "男(推测)",
+    nationality: "美国(推测)",
+    ethnic_chinese: "否",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "交通运输/航空与汽车政策记者（头衔未确认）", title_en: "Reporter (Transportation / Aerospace & Autos)",
+    beat: "驻华盛顿，覆盖美国交通运输政策、航空与汽车产业，以及中美航权与贸易摩擦。",
+    base: "华盛顿", base_en: "Washington, D.C.",
+    background: "路透社记者，2026-09-18署名报道美国航空公司联盟反对国航增班北京—纽约/华盛顿（俄领空绕飞成本差成争议核心）。公开履历与毕业院校未检索到，本档不编造。",
+    education: "未公开检索到",
+    career: ["路透 交通运输/航空汽车政策记者（驻华盛顿）"],
+    focus: ["中美航权", "航空运输", "汽车产业", "美国交通政策"],
+    recent: [
+      { t: "Major US airlines oppose Air China bid to schedule additional US flights", d: "2026-09-18", n: "路透署名（中文转载确认 By David Shepardson）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.reuters.com/business/aerospace/major-us-airlines-oppose-air-china-us-flights-2026-09-18/"]
   }
 ];
