@@ -1,5 +1,5 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-09-21T09:03:15+08:00",
+  "generated_at": "2026-09-21T11:01:13+08:00",
   "latest_questions_day": "2026-09-21",
   "days": {
     "2026-09-21": {
@@ -796,6 +796,48 @@ window.__XFS_DATA__ = {
           }
         },
         {
+          "id": "r4",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Taiwan says US policy unchanged; allies fret over Trump's Taiwan hand before summit",
+          "title_zh": "台当局称美对台政策不变；盟友忧特朗普峰会前“对台手软”",
+          "published_at": "2026-09-20",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "台湾",
+            "台海",
+            "对台军售",
+            "中美关系",
+            "美日关系",
+            "峰会"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社9月20日综合报道：在日本首相高市早苗（Sanae Takaichi）寻求峰会前与特朗普会谈、担忧其对台支持在换取经济让步时被软化之际，台湾外交部长林佳龙表示华盛顿已反复保证对台政策未变。八名两党参议员致信特朗普，敦促就约140亿美元对台军售案通知国会，并称“美国对台支持不容与中方谈判”。此前中方已警告，若美批准新军售将取消9月24日特朗普—习近平峰会；特朗普则称该军售是“很好的谈判筹码”。",
+          "china_angle": "峰会前的“对台手软”之忧，折射盟友对美台承诺“交易化”的焦虑：日本急于锁住美国安全承诺，台湾则被动观望。北京的红线表态与华盛顿的筹码操作，共同把台湾议题推上峰会前地缘博弈的中心。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/us-allies-fret-trump-taiwan-hand-xi-summit-2026-09-20/",
+          "body_available": true,
+          "body_zh": "路透9/20综合：日首相高市早苗寻峰会前见特朗普、忧其对台支持被软化；台外长林佳龙称美政策未变。八名参议员促就140亿美元军售通知国会，“对台支持不容与中方谈判”。中方此前警告若批新军售将取消峰会；特朗普称军售为“谈判筹码”。",
+          "cited_sources": [
+            "台湾外交部",
+            "Japanese PM Office",
+            "US Senators",
+            "White House",
+            "Reuters"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.reuters.com/world/china/us-allies-fret-trump-taiwan-hand-xi-summit-2026-09-20/",
+            "evidence_note": "路透官网直连被拦截；经聚合检索（Reuters syndication、CIVL/Straits Times 等）确认“Japanese PM seeks Trump meeting before Xi summit over Taiwan”“Taiwan says US policy unchanged”主线。机构外交稿，未获个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
           "id": "b5",
           "media": "Bloomberg",
           "media_zh": "彭博社",
@@ -884,14 +926,14 @@ window.__XFS_DATA__ = {
         }
       ],
       "daily_analysis": {
-        "total": 9,
+        "total": 10,
         "by_media": {
           "彭博社": 6,
-          "路透社": 3
+          "路透社": 4
         },
         "sentiment_split": {
           "negative": 1,
-          "neutral": 8,
+          "neutral": 9,
           "positive": 0
         },
         "negatives": [
@@ -900,6 +942,14 @@ window.__XFS_DATA__ = {
         "top_topics": [
           [
             "房地产",
+            2
+          ],
+          [
+            "中美关系",
+            2
+          ],
+          [
+            "峰会",
             2
           ],
           [
@@ -912,14 +962,6 @@ window.__XFS_DATA__ = {
           ],
           [
             "Qwen",
-            1
-          ],
-          [
-            "全模态",
-            1
-          ],
-          [
-            "Agent",
             1
           ]
         ],
@@ -1228,6 +1270,49 @@ window.__XFS_DATA__ = {
           }
         },
         {
+          "id": "r5",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China tells US it will cancel Xi-Trump summit if new arms sales to Taiwan approved",
+          "title_zh": "中方以取消峰会相胁：若美批准对台军售将取消特朗普—习近平峰会",
+          "published_at": "2026-09-19",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "台湾",
+            "台海",
+            "对台军售",
+            "中美关系",
+            "特朗普",
+            "习近平",
+            "峰会"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社（综合纽约时报等）9月19日报道：中方告知美方，若华盛顿批准新的对台军售，将取消计划于9月24日举行的特朗普—习近平华盛顿峰会。报道指，一笔价值约140亿美元、可能为史上最大规模的对台军售案已就绪、待特朗普签字，预计含爱国者PAC-3、NASAMS等先进防空系统及约60亿美元“非对称”能力；特朗普此前称对台军售是“很好的谈判筹码”。台湾防长顾立雄（Wellington Koo）表态称台北未收到军售延迟的信号；外长林佳龙称美方已反复保证对台政策不变。八名两党参议员致信特朗普，敦促就140亿美元军售案通知国会。",
+          "china_angle": "对台军售成为峰会前最尖锐的博弈点：中方将其与元首会晤直接挂钩，凸显台湾问题在中美关系中的“红线”属性；特朗普以军售为筹码、盟友忧虑其“对台手软”，共同构成峰会前围绕台湾的角力场。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/china-tells-us-cancel-summit-taiwan-arms-sales-2026-09-19/",
+          "body_available": true,
+          "body_zh": "路透（综合NYT等）9/19：中方告知美方，若批准新对台军售将取消9/24特朗普—习近平峰会。约140亿美元对台军售案待特朗普签字（含PAC-3、NASAMS等），特朗普称其为“谈判筹码”。台防长顾立雄称未收延迟信号；外长林佳龙称美政策不变。八名参议员促通知国会。",
+          "cited_sources": [
+            "中国外交部",
+            "White House",
+            "Taiwan Defense Ministry",
+            "US Senators",
+            "Reuters / NYT"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "对台军售在峰会前被中方升格为“峰会存续”的先决条件，是台湾议题年度化、筹码化的最新注脚：特朗普以140亿美元军售为对华谈判杠杆，北京则以取消元首会晤相胁，形成“以台制华／以台逼统”与“以台索价”的双向博弈。其外溢是盟友（日、澳等）担忧美国在对台承诺上“交易化”，以及对台海突发危机管控机制的持续承压。",
+          "provenance": {
+            "source": "Reuters / NYT",
+            "evidence_url": "https://www.reuters.com/world/china/china-tells-us-cancel-summit-taiwan-arms-sales-2026-09-19/",
+            "evidence_note": "路透/纽时官网直连被拦截；经聚合检索（NYT/Reuters syndication、Straits Times 等）确认“China threatens to cancel summit if US approves new arms sales to Taiwan”主线与140亿美元军售案细节。机构外交稿，未获个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
           "id": "r2",
           "media": "Reuters",
           "media_zh": "路透社",
@@ -1394,17 +1479,19 @@ window.__XFS_DATA__ = {
         }
       ],
       "daily_analysis": {
-        "total": 8,
+        "total": 9,
         "by_media": {
-          "路透社": 4,
+          "路透社": 5,
           "彭博社": 4
         },
         "sentiment_split": {
-          "negative": 0,
+          "negative": 1,
           "neutral": 8,
           "positive": 0
         },
-        "negatives": [],
+        "negatives": [
+          "r5"
+        ],
         "top_topics": [
           [
             "中美经贸",
@@ -1427,7 +1514,7 @@ window.__XFS_DATA__ = {
             2
           ],
           [
-            "商务部",
+            "中美关系",
             2
           ]
         ],
@@ -2602,7 +2689,7 @@ window.__XFS_DATA__ = {
           "published_at": "2026-09-17",
           "published_precision": "date",
           "authors": [
-            "董永年"
+            "Roger Tung"
           ],
           "author_locations": [
             "台北"
@@ -52877,7 +52964,7 @@ window.__XFS_DATA__ = {
       "published_at": "2026-09-17",
       "published_precision": "date",
       "authors": [
-        "董永年"
+        "Roger Tung"
       ],
       "author_locations": [
         "台北"
@@ -54083,6 +54170,51 @@ window.__XFS_DATA__ = {
       "_uid": "2026-09-19/b4"
     },
     {
+      "id": "r5",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China tells US it will cancel Xi-Trump summit if new arms sales to Taiwan approved",
+      "title_zh": "中方以取消峰会相胁：若美批准对台军售将取消特朗普—习近平峰会",
+      "published_at": "2026-09-19",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "台湾",
+        "台海",
+        "对台军售",
+        "中美关系",
+        "特朗普",
+        "习近平",
+        "峰会"
+      ],
+      "importance": "high",
+      "summary_zh": "路透社（综合纽约时报等）9月19日报道：中方告知美方，若华盛顿批准新的对台军售，将取消计划于9月24日举行的特朗普—习近平华盛顿峰会。报道指，一笔价值约140亿美元、可能为史上最大规模的对台军售案已就绪、待特朗普签字，预计含爱国者PAC-3、NASAMS等先进防空系统及约60亿美元“非对称”能力；特朗普此前称对台军售是“很好的谈判筹码”。台湾防长顾立雄（Wellington Koo）表态称台北未收到军售延迟的信号；外长林佳龙称美方已反复保证对台政策不变。八名两党参议员致信特朗普，敦促就140亿美元军售案通知国会。",
+      "china_angle": "对台军售成为峰会前最尖锐的博弈点：中方将其与元首会晤直接挂钩，凸显台湾问题在中美关系中的“红线”属性；特朗普以军售为筹码、盟友忧虑其“对台手软”，共同构成峰会前围绕台湾的角力场。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/china-tells-us-cancel-summit-taiwan-arms-sales-2026-09-19/",
+      "body_available": true,
+      "body_zh": "路透（综合NYT等）9/19：中方告知美方，若批准新对台军售将取消9/24特朗普—习近平峰会。约140亿美元对台军售案待特朗普签字（含PAC-3、NASAMS等），特朗普称其为“谈判筹码”。台防长顾立雄称未收延迟信号；外长林佳龙称美政策不变。八名参议员促通知国会。",
+      "cited_sources": [
+        "中国外交部",
+        "White House",
+        "Taiwan Defense Ministry",
+        "US Senators",
+        "Reuters / NYT"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "对台军售在峰会前被中方升格为“峰会存续”的先决条件，是台湾议题年度化、筹码化的最新注脚：特朗普以140亿美元军售为对华谈判杠杆，北京则以取消元首会晤相胁，形成“以台制华／以台逼统”与“以台索价”的双向博弈。其外溢是盟友（日、澳等）担忧美国在对台承诺上“交易化”，以及对台海突发危机管控机制的持续承压。",
+      "provenance": {
+        "source": "Reuters / NYT",
+        "evidence_url": "https://www.reuters.com/world/china/china-tells-us-cancel-summit-taiwan-arms-sales-2026-09-19/",
+        "evidence_note": "路透/纽时官网直连被拦截；经聚合检索（NYT/Reuters syndication、Straits Times 等）确认“China threatens to cancel summit if US approves new arms sales to Taiwan”主线与140亿美元军售案细节。机构外交稿，未获个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-19",
+      "_uid": "2026-09-19/r5"
+    },
+    {
       "id": "b1",
       "media": "Bloomberg",
       "media_zh": "彭博社",
@@ -54477,6 +54609,50 @@ window.__XFS_DATA__ = {
       "_uid": "2026-09-20/b6"
     },
     {
+      "id": "r4",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Taiwan says US policy unchanged; allies fret over Trump's Taiwan hand before summit",
+      "title_zh": "台当局称美对台政策不变；盟友忧特朗普峰会前“对台手软”",
+      "published_at": "2026-09-20",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "台湾",
+        "台海",
+        "对台军售",
+        "中美关系",
+        "美日关系",
+        "峰会"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透社9月20日综合报道：在日本首相高市早苗（Sanae Takaichi）寻求峰会前与特朗普会谈、担忧其对台支持在换取经济让步时被软化之际，台湾外交部长林佳龙表示华盛顿已反复保证对台政策未变。八名两党参议员致信特朗普，敦促就约140亿美元对台军售案通知国会，并称“美国对台支持不容与中方谈判”。此前中方已警告，若美批准新军售将取消9月24日特朗普—习近平峰会；特朗普则称该军售是“很好的谈判筹码”。",
+      "china_angle": "峰会前的“对台手软”之忧，折射盟友对美台承诺“交易化”的焦虑：日本急于锁住美国安全承诺，台湾则被动观望。北京的红线表态与华盛顿的筹码操作，共同把台湾议题推上峰会前地缘博弈的中心。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/us-allies-fret-trump-taiwan-hand-xi-summit-2026-09-20/",
+      "body_available": true,
+      "body_zh": "路透9/20综合：日首相高市早苗寻峰会前见特朗普、忧其对台支持被软化；台外长林佳龙称美政策未变。八名参议员促就140亿美元军售通知国会，“对台支持不容与中方谈判”。中方此前警告若批新军售将取消峰会；特朗普称军售为“谈判筹码”。",
+      "cited_sources": [
+        "台湾外交部",
+        "Japanese PM Office",
+        "US Senators",
+        "White House",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.reuters.com/world/china/us-allies-fret-trump-taiwan-hand-xi-summit-2026-09-20/",
+        "evidence_note": "路透官网直连被拦截；经聚合检索（Reuters syndication、CIVL/Straits Times 等）确认“Japanese PM seeks Trump meeting before Xi summit over Taiwan”“Taiwan says US policy unchanged”主线。机构外交稿，未获个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-20",
+      "_uid": "2026-09-20/r4"
+    },
+    {
       "id": "r1",
       "media": "Reuters",
       "media_zh": "路透社",
@@ -54806,15 +54982,15 @@ window.__XFS_DATA__ = {
     "days_count": 43,
     "first_day": "2026-08-04",
     "last_day": "2026-09-21",
-    "total_articles": 606,
+    "total_articles": 608,
     "by_media": {
-      "路透社": 378,
+      "路透社": 380,
       "彭博社": 228
     },
     "by_topic": {
       "半导体": 45,
       "出口管制": 42,
-      "中美关系": 40,
+      "中美关系": 42,
       "AI": 38,
       "宏观经济": 36,
       "人工智能": 35,
@@ -54835,6 +55011,7 @@ window.__XFS_DATA__ = {
       "科技": 17,
       "消费": 16,
       "地缘": 15,
+      "台海": 15,
       "经贸": 15,
       "AI芯片": 15,
       "外交": 14,
@@ -54843,7 +55020,6 @@ window.__XFS_DATA__ = {
       "能源": 13,
       "A股": 13,
       "财报": 13,
-      "台海": 13,
       "内需": 13,
       "科技竞争": 11,
       "自然灾害": 11,
@@ -54862,6 +55038,7 @@ window.__XFS_DATA__ = {
       "华为": 8,
       "台风": 8,
       "关键矿产": 8,
+      "习近平": 8,
       "次级制裁": 8,
       "新能源汽车": 7,
       "能源安全": 7,
@@ -54875,7 +55052,6 @@ window.__XFS_DATA__ = {
       "阿里巴巴": 7,
       "英伟达": 7,
       "比亚迪": 7,
-      "习近平": 7,
       "朝鲜半岛": 7,
       "监管": 7,
       "电动车": 7,
@@ -54888,6 +55064,7 @@ window.__XFS_DATA__ = {
       "中日关系": 6,
       "汽车": 6,
       "金融": 6,
+      "峰会": 6,
       "PPI": 6,
       "CPI": 6,
       "应急管理": 6,
@@ -54898,6 +55075,7 @@ window.__XFS_DATA__ = {
       "科创板": 6,
       "芯片": 6,
       "贸易摩擦": 6,
+      "特朗普": 6,
       "中韩关系": 6,
       "宏观数据": 6,
       "美国": 6,
@@ -54915,7 +55093,6 @@ window.__XFS_DATA__ = {
       "极端天气": 5,
       "市场": 5,
       "美联储": 5,
-      "特朗普": 5,
       "宇树": 5,
       "腾讯": 5,
       "字节跳动": 5,
@@ -54945,7 +55122,6 @@ window.__XFS_DATA__ = {
       "宏观": 4,
       "北京": 4,
       "药明康德": 4,
-      "峰会": 4,
       "财政": 4,
       "上海": 4,
       "油价": 4,
@@ -54966,6 +55142,7 @@ window.__XFS_DATA__ = {
       "中尼关系": 4,
       "灾害救援": 4,
       "大模型": 4,
+      "台湾": 4,
       "G20": 4,
       "贸易顺差": 4,
       "资本流动": 4,
@@ -55156,7 +55333,6 @@ window.__XFS_DATA__ = {
       "资产质量": 2,
       "堰塞湖": 2,
       "分红": 2,
-      "台湾": 2,
       "债券市场": 2,
       "西藏吉隆口岸": 2,
       "中尼跨境灾害": 2,
@@ -55184,6 +55360,7 @@ window.__XFS_DATA__ = {
       "主权争议": 2,
       "税收": 2,
       "何立峰": 2,
+      "对台军售": 2,
       "涉疆议题": 1,
       "解释性报道": 1,
       "农产品贸易": 1,
@@ -55833,6 +56010,7 @@ window.__XFS_DATA__ = {
       "利润预警": 1,
       "减值": 1,
       "全球经济": 1,
+      "美日关系": 1,
       "长鑫": 1,
       "土地出让": 1,
       "单边制裁": 1,
@@ -56083,14 +56261,14 @@ window.__XFS_DATA__ = {
       },
       {
         "date": "2026-09-19",
-        "negative": 0,
+        "negative": 1,
         "neutral": 8,
         "positive": 0
       },
       {
         "date": "2026-09-20",
         "negative": 1,
-        "neutral": 8,
+        "neutral": 9,
         "positive": 0
       },
       {
@@ -56111,7 +56289,7 @@ window.__XFS_DATA__ = {
       ],
       [
         "Reuters",
-        29
+        30
       ],
       [
         "市场数据",
@@ -56122,6 +56300,10 @@ window.__XFS_DATA__ = {
         25
       ],
       [
+        "中国外交部",
+        18
+      ],
+      [
         "官方数据/企业披露",
         18
       ],
@@ -56130,16 +56312,12 @@ window.__XFS_DATA__ = {
         17
       ],
       [
-        "中国外交部",
-        17
-      ],
-      [
         "中国商务部",
         12
       ],
       [
         "White House",
-        10
+        12
       ],
       [
         "阿里巴巴",
@@ -56867,6 +57045,10 @@ window.__XFS_DATA__ = {
       ],
       [
         "中国商务部 MOFCOM",
+        2
+      ],
+      [
+        "US Senators",
         2
       ],
       [
@@ -61418,6 +61600,14 @@ window.__XFS_DATA__ = {
         1
       ],
       [
+        "Taiwan Defense Ministry",
+        1
+      ],
+      [
+        "Reuters / NYT",
+        1
+      ],
+      [
         "Alibaba (阿里巴巴)",
         1
       ],
@@ -61519,6 +61709,14 @@ window.__XFS_DATA__ = {
       ],
       [
         "Arno Antlitz (CFO)",
+        1
+      ],
+      [
+        "台湾外交部",
+        1
+      ],
+      [
+        "Japanese PM Office",
         1
       ],
       [
@@ -61883,6 +62081,25 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "台海",
+        "count": 13,
+        "days": [
+          "2026-08-06",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-16",
+          "2026-09-01",
+          "2026-09-08",
+          "2026-09-16",
+          "2026-09-17",
+          "2026-09-19",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "中美科技竞争",
         "count": 12,
         "days": [
@@ -62004,23 +62221,6 @@ window.__XFS_DATA__ = {
           "2026-09-02",
           "2026-09-10",
           "2026-09-20"
-        ]
-      },
-      {
-        "topic": "台海",
-        "count": 11,
-        "days": [
-          "2026-08-06",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-16",
-          "2026-09-01",
-          "2026-09-08",
-          "2026-09-16",
-          "2026-09-17"
         ]
       },
       {
@@ -62306,6 +62506,19 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "习近平",
+        "count": 7,
+        "days": [
+          "2026-08-15",
+          "2026-08-17",
+          "2026-09-17",
+          "2026-09-18",
+          "2026-09-19",
+          "2026-09-20",
+          "2026-09-21"
+        ]
+      },
+      {
         "topic": "中国经济",
         "count": 7,
         "days": [
@@ -62499,6 +62712,18 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "特朗普",
+        "count": 6,
+        "days": [
+          "2026-08-12",
+          "2026-09-17",
+          "2026-09-18",
+          "2026-09-19",
+          "2026-09-20",
+          "2026-09-21"
+        ]
+      },
+      {
         "topic": "比亚迪",
         "count": 6,
         "days": [
@@ -62520,18 +62745,6 @@ window.__XFS_DATA__ = {
           "2026-08-26",
           "2026-09-05",
           "2026-09-16"
-        ]
-      },
-      {
-        "topic": "习近平",
-        "count": 6,
-        "days": [
-          "2026-08-15",
-          "2026-08-17",
-          "2026-09-17",
-          "2026-09-18",
-          "2026-09-20",
-          "2026-09-21"
         ]
       },
       {
@@ -62609,6 +62822,17 @@ window.__XFS_DATA__ = {
           "2026-09-02",
           "2026-09-16",
           "2026-09-18"
+        ]
+      },
+      {
+        "topic": "峰会",
+        "count": 5,
+        "days": [
+          "2026-08-08",
+          "2026-09-17",
+          "2026-09-19",
+          "2026-09-20",
+          "2026-09-21"
         ]
       },
       {
@@ -62730,17 +62954,6 @@ window.__XFS_DATA__ = {
           "2026-08-27",
           "2026-09-04",
           "2026-09-17"
-        ]
-      },
-      {
-        "topic": "特朗普",
-        "count": 5,
-        "days": [
-          "2026-08-12",
-          "2026-09-17",
-          "2026-09-18",
-          "2026-09-20",
-          "2026-09-21"
         ]
       },
       {
@@ -62919,16 +63132,6 @@ window.__XFS_DATA__ = {
           "2026-08-10",
           "2026-08-12",
           "2026-09-18"
-        ]
-      },
-      {
-        "topic": "峰会",
-        "count": 4,
-        "days": [
-          "2026-08-08",
-          "2026-09-17",
-          "2026-09-20",
-          "2026-09-21"
         ]
       },
       {
@@ -63189,6 +63392,16 @@ window.__XFS_DATA__ = {
           "2026-08-30",
           "2026-09-04",
           "2026-09-17"
+        ]
+      },
+      {
+        "topic": "台湾",
+        "count": 4,
+        "days": [
+          "2026-08-28",
+          "2026-08-30",
+          "2026-09-19",
+          "2026-09-20"
         ]
       },
       {
@@ -64698,14 +64911,6 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "台湾",
-        "count": 2,
-        "days": [
-          "2026-08-28",
-          "2026-08-30"
-        ]
-      },
-      {
         "topic": "债券市场",
         "count": 2,
         "days": [
@@ -64896,6 +65101,14 @@ window.__XFS_DATA__ = {
           "2026-09-18",
           "2026-09-21"
         ]
+      },
+      {
+        "topic": "对台军售",
+        "count": 2,
+        "days": [
+          "2026-09-19",
+          "2026-09-20"
+        ]
       }
     ],
     "important_negatives": [
@@ -64914,6 +65127,14 @@ window.__XFS_DATA__ = {
         "title_zh": "商务部回应特朗普签署针对俄伊的制裁法案：中方反对非法单边制裁",
         "importance": "medium",
         "day": "2026-09-21"
+      },
+      {
+        "id": "r5",
+        "date": "2026-09-19",
+        "media": "路透社",
+        "title_zh": "中方以取消峰会相胁：若美批准对台军售将取消特朗普—习近平峰会",
+        "importance": "high",
+        "day": "2026-09-19"
       },
       {
         "id": "b5",
@@ -66446,10 +66667,10 @@ window.__XFS_DATA__ = {
     ],
     "penetration": {
       "运行天数": 43,
-      "累计报道": 606,
-      "覆盖议题": 1027,
-      "覆盖信源": 1358,
-      "负面累计": 193,
+      "累计报道": 608,
+      "覆盖议题": 1029,
+      "覆盖信源": 1363,
+      "负面累计": 194,
       "谋题累计": 54
     },
     "questions_timeline": [
@@ -66618,11 +66839,11 @@ window.__XFS_DATA__ = {
     ]
   },
   "stats": {
-    "total": 606,
+    "total": 608,
     "days": 43,
-    "negatives": 193,
+    "negatives": 194,
     "with_author": 357,
-    "with_body": 190,
-    "with_sources": 544
+    "with_body": 192,
+    "with_sources": 546
   }
 };
