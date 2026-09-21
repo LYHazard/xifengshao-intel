@@ -1,5 +1,5 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-09-21T11:01:13+08:00",
+  "generated_at": "2026-09-21T12:34:54+08:00",
   "latest_questions_day": "2026-09-21",
   "days": {
     "2026-09-21": {
@@ -61,6 +61,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / Bloomberg",
             "evidence_url": "https://wallstreetcn.com/livenews/3167875",
             "evidence_note": "路透/彭博官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'中国商务部：何立峰于9月19日至23日率团赴美国与美方举行经贸磋商'）+ Business Standard 交叉确认。机构外交稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -100,6 +105,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / 长鑫公告",
             "evidence_url": "https://finance.sina.com.cn/stock/y/2026-09-21/doc-inispuec0918993.shtml",
             "evidence_note": "路透官网直连被JS墙拦截；经 新浪财经（'11.95纳米，接近全球顶尖！长鑫科技深夜披露，第五代DRAM平台实现量产' / 长鑫科技自愿性披露公告）确认。公司公告，无单一个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -140,6 +150,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / 商务部",
             "evidence_url": "https://wallstreetcn.com/livenews/3167875",
             "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'让中国“自愿限制”汽车出口？中国商务部：中方坚决反对，欧盟有关举措严重违反世贸组织规则'）确认。官方回应稿，无单一个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -177,6 +192,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / 财政部",
             "evidence_url": "https://wallstreetcn.com/livenews/3167875",
             "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'中国财政部：1至8月全国一般公共预算收入同比增长5.7%，证券交易印花税同比大增82%；国有土地使用权出让收入同比降28.6%'）确认。官方数据稿，无单一个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -216,6 +236,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / 商务部",
             "evidence_url": "https://wallstreetcn.com/livenews/3167875",
             "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'中国商务部回应特朗普签署针对俄罗斯和伊朗的制裁法案：中方反对非法单边制裁，保留采取一切必要措施的权利'）确认。官方回应稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -254,6 +279,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / 海关总署",
             "evidence_url": "https://finance.sina.com.cn/stock/y/2026-09-21/doc-inispuec0918993.shtml",
             "evidence_note": "路透官网直连被JS墙拦截；经 新浪财经（'中国海关总署统计数据显示，中国对美国进出口已连续5个月增长，今年1—8月累计进出口额达到2.76万亿元'）确认。官方数据稿，无单一个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -291,6 +321,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://wallstreetcn.com/livenews/3167875",
             "evidence_note": "彭博官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'特朗普称要组建“人工智能部队”并任命人工智能事务“总管”'）确认。机构政治稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -329,6 +364,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / 国家能源局",
             "evidence_url": "https://finance.sina.com.cn/stock/y/2026-09-21/doc-inispuec0918993.shtml",
             "evidence_note": "路透官网直连被JS墙拦截；经 新浪财经（'8月全社会用电量再破万亿，负荷创历史新高' / 国家能源局9月20日数据）确认。官方数据稿，无单一个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -547,6 +587,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://www.huxiu.com/ainews/15144.html",
             "evidence_note": "彭博官网直连被JS墙拦截；彭博“Top Business”9/20综述收录该发布，细节经虎嗅等中文科技媒体（9/18上线）交叉验证。产品发布稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -588,6 +633,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg / The Information",
             "evidence_url": "https://finance.yahoo.com/technology/ai/articles/tiktok-developer-bytedance-profit-drops-142800788.html",
             "evidence_note": "彭博官网直连被JS墙拦截；经 Yahoo Finance（综合彭博/The Information）取全文。该稿为媒体合成（The Information 泄露+彭博贷款报道），无单一个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -628,6 +678,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://airfreight.news/articles/full/chinaas-rebound-lost-momentum-in-september-early-data-show",
             "evidence_note": "彭博官网直连被JS墙拦截；经 Air Freight News（'China's rebound lost momentum in September, early data show' / Bloomberg）确认。机构指标稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -673,6 +728,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://www.163.com/dy/article/L7734R6405199NPP.html",
             "evidence_note": "彭博官网直连被JS墙拦截；经 21世纪经济报道/网易 取全文细节（9/19 17:08）。彭博 China Focus 条目“China opens probes into four online travel booking platforms / By Bloomberg”。机构稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -713,6 +773,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://xueqiu.com/1021113906/409918595",
             "evidence_note": "路透官网直连被JS墙拦截；经 雪球《全球及中国财经要闻综述(2026.09.20)》与华尔街见闻等交叉确认（9/18在岸离岸双破6.7、年内升逾4%）。机构市场稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -752,6 +817,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://mezha.net/eng/news/85c19d96_china_keeps_key/",
             "evidence_note": "路透官网直连被JS墙拦截；经 Mezha（'China Keeps Key Lending Rates Unchanged for 16th Straight Month' / As reported by Reuters, 2026-09-20）+ 央行授权全国银行间同业拆借中心公告交叉确认（9/20 1年期3.0%、5年期3.5%、连续16个月不变）。机构利率稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -793,6 +863,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://theedgemalaysia.com/node/818621",
             "evidence_note": "彭博官网直连被JS墙拦截；经 The Edge Malaysia（'Trump-Xi showdown casts shadow over global economy' / Bloomberg, 2026-09-20 08:16）确认。机构宏观稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -835,6 +910,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.reuters.com/world/china/us-allies-fret-trump-taiwan-hand-xi-summit-2026-09-20/",
             "evidence_note": "路透官网直连被拦截；经聚合检索（Reuters syndication、CIVL/Straits Times 等）确认“Japanese PM seeks Trump meeting before Xi summit over Taiwan”“Taiwan says US policy unchanged”主线。机构外交稿，未获个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -879,6 +959,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://finance.yahoo.com/markets/stocks/articles/volkswagen-cuts-2026-profit-forecast-182249007.html",
             "evidence_note": "彭博官网直连被JS墙拦截；经 Yahoo Finance（Quartz/Bloomberg 综合）/OilPrice/TradingView 全文转载确认（By William Wilkes / Bloomberg）。真实记者署名经转载 byline 取得，authors_status=named。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -922,6 +1007,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.icac.org.hk/sc/p/press-archive/index_id_5022.html",
             "evidence_note": "路透官网直连被JS墙拦截；经香港廉政公署新闻公布（9月9日认罪、9月18日判刑）及财新（9月18日）交叉确认。记者署名经 WebSearch 检索未命中 reuters.com 真名（二次找回尝试失败，仅机构/法院通稿），authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -1142,6 +1232,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.sunherald.com/news/business/article317307965.html",
             "evidence_note": "路透官网直连被JS墙拦截；经 Sun Herald（路透 syndication）取全文+真实署名（Reporting by David Lawder；Editing by Sergio Non and Rod Nickel），9/19 13:34 EDT。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1185,6 +1280,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://tech.memeorandum.com/river",
             "evidence_note": "彭博官网直连被JS墙拦截；经 Techmeme 聚合（Nectar Gan / Bloomberg，6:35 AM 条目“The Trump administration has few good options to slow China's AI rise… ahead of US-China AI talks”）确认署名。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1228,7 +1328,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "路透官网直连被JS墙拦截；经 Newsquawk（'US and China reportedly discuss cutting tariff on US LNG ahead of Xi's visit, according to Reuters'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Yahoo reprint: 'By Jarrett Renshaw' / '(Reporting By Jarrett Renshaw)'"
+          "byline_note": "Yahoo reprint: 'By Jarrett Renshaw' / '(Reporting By Jarrett Renshaw)'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b4",
@@ -1267,6 +1372,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://fllics.com/en/video/oil-supply-shortages-ai-safety-concerns-us-china-meeting-bloomberg-this-weekend-sept-19-2026",
             "evidence_note": "彭博官网直连被JS墙拦截；经 Fllics（'US Said to Hold Off on Tariffs Until After Xi-Trump Summit' / Bloomberg This Weekend）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1310,6 +1420,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / NYT",
             "evidence_url": "https://www.reuters.com/world/china/china-tells-us-cancel-summit-taiwan-arms-sales-2026-09-19/",
             "evidence_note": "路透/纽时官网直连被拦截；经聚合检索（NYT/Reuters syndication、Straits Times 等）确认“China threatens to cancel summit if US approves new arms sales to Taiwan”主线与140亿美元军售案细节。机构外交稿，未获个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1356,6 +1471,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://tech.memeorandum.com/river",
             "evidence_note": "路透官网直连被JS墙拦截；经 Techmeme 聚合（Kane Wu / Reuters，2:00 AM 条目“Shanghai-based Anew Labs… raised $290M from HSG, IDG Capital… at a $1.5B valuation”）确认署名与金额。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1396,6 +1516,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://news.bloomberglaw.com/banking-law/china-slams-us-law-tightening-sanctions-on-russia-and-iran",
             "evidence_note": "彭博官网直连被JS墙拦截；经 Bloomberg Law（彭博供稿）取全文。署名为 Bloomberg News 机构稿，无个人记者，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1435,6 +1560,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.ndtvprofit.com/world/chinas-vice-premier-he-lifeng-to-visit-us-for-economic-trade-talks-from-sept-19-23-12069526",
             "evidence_note": "路透官网直连被JS墙拦截；经 NDTV Profit（'China's Vice Premier He Lifeng To Visit US…' citing Reuters）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1475,6 +1605,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://wwwcn.aastocks.com/en/stocks/analysis/stock-aafn-con/06288/AAFN/NOW.1544798/hk-stock-news",
             "evidence_note": "彭博官网直连被JS墙拦截；经 AASTOCKS/经济通（'ByteDance Founder Zhang Yiming Becomes Asia's Richest Person…'）确认。机构榜单稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -1692,6 +1827,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
             "evidence_note": "路透官网直连被JS墙拦截；经 The Edge Malaysia（路透 China Focus  syndication）取全文+真实署名（Qiaoyi Li、Liz Lee，9/18 04:37pm 条目）。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1731,6 +1871,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://finance.yahoo.com/economy/policy/articles/china-fiscal-pullback-stretches-august-104301620.html",
             "evidence_note": "彭博官网直连被JS墙拦截；经 Yahoo Finance（彭博供稿）取全文。署名为 Bloomberg（机构测算稿），无个人记者，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1770,6 +1915,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://www.niotex.com/blog/trends-2026-09-18",
             "evidence_note": "彭博官网直连被JS墙拦截；经 Niotex 每日科技综述（'Trump and Xi Jinping Face Off on AI as White House Meeting Nears' / Bloomberg·September 18, 2026）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1809,6 +1959,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://activeinvestormag.com/story/2026-09-19-am-washington-and-beijing-stage-the-xi-visit-as-the-yuan-hits-a",
             "evidence_note": "彭博官网直连被JS墙拦截；经 Active Investor Magazine 综述（'Yuan Hits Four-Year High as PBOC Signals Support Before Trump-Xi' / Bloomberg.com）确认。机构市场稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1848,6 +2003,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
             "evidence_note": "路透官网直连被JS墙拦截；经 The Edge Malaysia（路透 China Focus）取全文。该稿为机构/空管通告复核稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1886,6 +2046,24 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://www.theedgemarkets.com/flash-categories/china-focus",
             "evidence_note": "彭博官网直连被JS墙拦截；经 The Edge Malaysia（彭博 China Focus）取全文。机构稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 3,
+            "hits": [
+              {
+                "kw": "据知情人士",
+                "snippet": "市物业管理业务提出新的出价。据知情人士称，相关方在早前一轮接触后重"
+              },
+              {
+                "kw": "知情人士称",
+                "snippet": "物业管理业务提出新的出价。据知情人士称，相关方在早前一轮接触后重新"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "管理业务提出新的出价。据知情人士称，相关方在早前一轮接触后重新评"
+              }
+            ]
           }
         },
         {
@@ -1926,6 +2104,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.indopremier.com/ipotnews/newsDetail.php/newsDetail.php?group_news=IPOTNEWS&news_id=242446",
             "evidence_note": "路透官网直连被JS墙拦截；经 Indo Premier（路透 syndication，9/18 12:49am EDT）取全文。机构市场稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -1965,6 +2148,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://news.supwil.com/en/news/general/2026-09-18",
             "evidence_note": "路透官网直连被JS墙拦截；经 supwil 每日综述（'China set to hold LPRs steady for a 16th month'）确认。机构调查稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -2002,6 +2190,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://news.supwil.com/en/news/general/2026-09-18",
             "evidence_note": "路透官网直连被JS墙拦截；经 supwil 每日综述（'China's January-August fiscal revenue up 5.7% year-on-year'）确认。机构数据稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -2046,7 +2239,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "路透官网直连被JS墙拦截；经 FDD Overnight Brief（9/18）转引路透原文确认。机构稿，无个人署名，authors_status=not_available，未编造。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "U.S. News: \"(Reporting by Nestor Corrales; Additional reporting by Liz Lee in Beijing; Editing by David Stanway and Sam Holmes)\""
+          "byline_note": "U.S. News: \"(Reporting by Nestor Corrales; Additional reporting by Liz Lee in Beijing; Editing by David Stanway and Sam Holmes)\"",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r8",
@@ -2090,7 +2288,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "路透官网直连被JS墙拦截；经 FDD Overnight Brief（9/18）转引路透原文（'China has privately asked Tehran to help rein in Yemen's Houthis'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "The Print / Yahoo: \"By Parisa Hafezi\""
+          "byline_note": "The Print / Yahoo: \"By Parisa Hafezi\"",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r10",
@@ -2133,6 +2336,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.reuters.com/business/aerospace/major-us-airlines-oppose-air-china-us-flights-2026-09-18/",
             "evidence_note": "路透官网直连被JS墙拦截；经中文转载（华人生活网）取真实署名（By David Shepardson，9/18 1:42pm CDT）确认。David Shepardson 为路透华盛顿交通运输线记者。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -2171,6 +2379,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.fdd.org/overnight-brief/september-18-2026",
             "evidence_note": "路透官网直连被JS墙拦截；经 FDD Overnight Brief（9/18）转引路透原文（'Shenzhen Forms Syntron Information has postponed its planned Hong Kong listing'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -2217,7 +2430,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "路透官网直连被JS墙拦截；经 The Edge Malaysia（路透 China Focus，9/17 11:56pm 条目'China, US top diplomats discuss high-level interactions'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "The Print: \"(Reporting by Xiuhao Chen, Yukun Zhang and Ryan Woo; Editing by Toby Chopra)\""
+          "byline_note": "The Print: \"(Reporting by Xiuhao Chen, Yukun Zhang and Ryan Woo; Editing by Toby Chopra)\"",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b5",
@@ -2256,6 +2474,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
             "evidence_note": "彭博官网直连被JS墙拦截；经 The Edge Malaysia（彭博 China Focus，9/17 12:43pm 条目'Huawei set to unveil AI chips to match Nvidia'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -2465,6 +2688,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / Bloomberg",
             "evidence_url": "https://mezha.net/eng/news/85c19d96_china_keeps_key/",
             "evidence_note": "路透/彭博官网直连被JS墙拦截；经 Mezha（'China Keeps Key Lending Rates Unchanged for 16th Straight Month' / As reported by Reuters）+ 环球时报 交叉确认（9/17 加息25bp、纳指跌2.8%）。机构宏观稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -2508,6 +2736,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / Bloomberg",
             "evidence_url": "https://www.business-standard.com/amp/world-news/us-china-trade-teams-set-to-meet-in-new-york-on-ai-iran-ahead-of-summit-126091900666_1.html",
             "evidence_note": "路透/彭博官网直连被JS墙拦截；经 Business Standard（'US, China trade teams set to meet in New York on AI, Iran ahead of summit' / Bloomberg）+ Daily Sabah（'Top US, Chinese officials set for AI, trade, minerals talks' / Reuters）确认。机构外交稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -2549,6 +2782,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / Bloomberg",
             "evidence_url": "https://www.trendforce.com/news/2026/09/17/news-huawei-speeds-up-ai-chip-roadmap-reportedly-pulls-ascend-960dt-forward-three-quarters-to-1q27/",
             "evidence_note": "路透/彭博官网直连被JS墙拦截；经 TrendForce（cites Bloomberg/Star Market Daily/Guancha）+ 经济参考报/网易 交叉确认（9/17 昇腾960超节点、NPO、4096卡、960DT提前至2027Q1）。产品发布稿，无单一个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -2599,6 +2837,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.aol.com/articles/us-navy-spy-plane-makes-183315000.html",
             "evidence_note": "路透官网直连被JS墙拦截；经 AOL（repost of Reuters：'US allies fret over how Trump might play his Taiwan hand with Xi' / Thu, Sep 17 2026）+ NeoDrop 交叉确认。真实记者署名经转载 byline 取得（Ben Blanchard, Tamiyuki Kihara, Yukiko Toyoda, John Geddie），authors_status=named。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -2638,6 +2881,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg / 国常会",
             "evidence_url": "https://www.toutiao.com/article/7686270596195418653/",
             "evidence_note": "彭博官网直连被JS墙拦截；经 今日头条（'9月17日财经早餐：国常会审议算力网指导意见，发改委新基建第三批109项超3200亿'）确认。政策通稿，无单一个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -2678,6 +2926,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / 东博会秘书处",
             "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806aab258a78852",
             "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月17日：'第23届中国—东盟博览会9月17日至21日在南宁举办，主题为共享3.0机遇，首设东盟需求馆与AI展区'）+ 环球时报 交叉确认。展会通稿，无单一个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -2721,6 +2974,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://news4alpha.com/?p=102161/",
             "evidence_note": "路透官网直连被JS墙拦截；经 News4alpha（路透终端 reprint：'台湾央行利率“连10冻”，分析师指料不会参与美联储升息循环' / Reuters News, 17-Sep-2026）取得真实署名 董永年（roger.tung@thomsonreuters.com，台北电），authors_status=named。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -2760,6 +3018,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / 日经新闻",
             "evidence_url": "https://www.xiaoyuzhoufm.com/episode/6aac03379d326477816ac290",
             "evidence_note": "路透官网直连被JS墙拦截；经 小宇宙（'日美磋商数万亿日元半导体工厂项目，格芯负责运营，对美投资从发电转向高科技制造' / 金十数据、日经新闻）确认。机构产业稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -2801,6 +3064,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806aab258a78852",
             "evidence_note": "彭博官网直连被JS墙拦截；经 华尔街见闻早餐（9月17日：'摩根士丹利：中国消费级AI每周使用率已达80%，领先美国的54%'）确认。机构研报稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -3015,6 +3283,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://globalpolitics.in/the-world-today.php?type=101",
             "evidence_note": "路透官网直连被JS墙拦截；经 The World Today（'EU will use all tools to cut China trade deficit, von der Leyen says' / Reuters, 16 Sep 2026）确认。机构政治稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -3057,6 +3330,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://ikjzd.com/news?current=3",
             "evidence_note": "路透官网直连被JS墙拦截；经 跨境知道（'企业外迁东南亚遇成本瓶颈，部分订单与产线回流中国' / 路透社报道）确认。机构经济稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -3098,6 +3376,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / Bloomberg",
             "evidence_url": "https://civl.com/news/story/china-s-central-bank-sets-stronger-yuan-rate-for-fifth-straight-day-fe1fb944",
             "evidence_note": "路透/彭博官网直连被JS墙拦截；经 CIVL（'China's central bank sets stronger yuan rate…'）+ 雪球/新华社 交叉确认（9/16 中间价6.7628、连续第五日调强、创2023年2月以来最强）。机构市场稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -3136,6 +3419,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://ikjzd.com/news?current=3",
             "evidence_note": "路透官网直连被JS墙拦截；经 跨境知道（'澳大利亚对进口自中国的轻型钢螺柱和轨道作出反倾销终裁'）确认。机构贸易稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -3176,6 +3464,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / 国台办",
             "evidence_url": "https://www.taiwan.cn/taiwan/top_news",
             "evidence_note": "路透官网直连被JS墙拦截；经 中国台湾网（9月16日国台办例行发布会要闻）+ 新浪财经（大湾区之声）交叉确认。发布会通稿，无单一个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -3215,6 +3508,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / 国台办",
             "evidence_url": "https://www.taiwan.cn/taiwan/top_news",
             "evidence_note": "路透官网直连被JS墙拦截；经 中国台湾网（9月16日国台办发布会）+ 新浪财经（大湾区之声）交叉确认。发布会通稿，无单一个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -3255,6 +3553,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://aastocks.com/en/funds/news/comment.aspx?source=AAFN&id=NOW.1519060&cur=N/A",
             "evidence_note": "路透官网直连被JS墙拦截；经 阿斯达克财经（'Asia-Pacific Markets Broadly Higher; Taiwan and Korea Hit Record Highs, MediaTek Limit Up' / Reuters 综合）确认。市场综述稿，无个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -3295,6 +3598,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters / 外交部",
             "evidence_url": "https://qihuo.jin10.com/articleDetail.html?id=230158",
             "evidence_note": "路透官网直连被JS墙拦截；经 金十期货早餐（9月16日：'外交部发言人宣布：伊朗外长阿拉格齐将于9月16日访华，王毅将同其举行会谈'）确认。外交通稿，无单一个人署名，authors_status=not_available，未编造。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -3524,6 +3832,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.thestandard.com.hk/china/article/342402/Hefeis-boom-reveals-limits-of-Chinas-state-led-manufacturing-push",
             "evidence_note": "路透官网直连被JS墙拦截，经 The Standard（香港，路透 syndication）取全文+真实署名（Kevin Yao；配图 REUTERS/Kevin Yao 摄于2026-05-19合肥EHang媒体行）"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -3567,6 +3880,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://srnnews.com/us-firms-in-china-more-upbeat-on-outlook-as-profits-recover-survey-shows",
             "evidence_note": "路透官网直连被JS墙拦截，经 SRN News（路透 syndication）取全文+真实署名（Casey Hall 上海；编辑 Mark Potter）"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -3611,6 +3929,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg (BNN Bloomberg / AP syndication)",
             "evidence_url": "https://beta.bnnbloomberg.ca/business/international/2026/09/10/chinas-car-exports-in-first-8-months-surpass-2025-total-as-ev-sales-soar",
             "evidence_note": "彭博官网直连被JS墙拦截，经 BNN Bloomberg（彭博电视网，美联社供稿）取全文+真实署名（Chan Ho-him，美联社商业记者，驻香港/曼谷）"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -3652,6 +3975,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://www.theedgesingapore.com/news/bonds-and-treasuries/china-us-10-year-bond-yield-gap-widens-record-policy-split",
             "evidence_note": "彭博官网直连被JS墙拦截，经 The Edge Singapore（彭博 syndication）取全文；署名为 Bloomberg News 机构稿（Photo: Bloomberg, Sept 10），无个人记者，authors_status=not_available，未编造"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -3692,6 +4020,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg (BNN Bloomberg / wire syndication)",
             "evidence_url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/11/25-killed-in-cargo-ship-fire",
             "evidence_note": "彭博官网直连被JS墙拦截；BNN Bloomberg 国际频道（彭博电视网）9月10日09:07 EDT 以 '25 dead after cargo ship catches fire in China's port, state media says' 收录该稿（聚合新华社/美联社电讯，— Agencies），无彭博个人记者署名，authors_status=not_available；事实细节经 The Star（— Agencies, 含新华社）复核"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -3927,6 +4260,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://uk.marketscreener.com/news/china-curbs-humanoid-ipos-after-unitree-s-volatile-debut-the-information-reports-ce785bd9d880fe24",
             "evidence_note": "路透官网直连被JS墙拦截，经国际转载 MarketScreener（路透 syndication）取全文+真实署名（Shivani Tanna, Bengaluru；编辑 Sonia Cheema、Mrigank Dhaniwala）"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -3970,6 +4308,20 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.fidelity.com/news/article/company-news/202609090211RTRSNEWSCOMBINED_KBN3UV0I3-OUSBS_1",
             "evidence_note": "路透官网直连被JS墙拦截，经 Fidelity 转载（路透 syndication）取全文；该稿为 Reuters staff 署名（无个人记者），编辑 Eduardo Baptista、Muralikumar Anantharaman，故 authors_status=not_available，未编造个人名"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "透社9月9日独家报道，据两位知情人士称，中国AI初创公司深度求索（"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "9月9日独家报道，据两位知情人士称，中国AI初创公司深度求索（D"
+              }
+            ]
           }
         },
         {
@@ -4023,6 +4375,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://www.teiss.co.uk/news/us-accuses-chinese-ai-firms-of-malicious-copying-of-ai-technology-18107",
             "evidence_note": "路透官网直连被JS墙拦截，经 Teiss（路透 syndication）取全文+真实署名（Courtney Rozen 华盛顿、AJ Vicens 底特律；编辑 Rod Nickel、Bill Berkrot、Thomas Derpinghaus）"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4067,6 +4424,24 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://test.theedgemalaysia.com/node/817358",
             "evidence_note": "彭博官网直连被JS墙/镜像超时拦截，经 The Edge Malaysia（彭博 syndication）取全文；署名为 Bloomberg 机构稿（By Bloomberg），无个人记者，authors_status=not_available，未编造机构名。彭博危机专栏标注 9/7，转引媒体 9/9 传播，本档以报道传播日 9/9 登记。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 3,
+            "hits": [
+              {
+                "kw": "据知情人士",
+                "snippet": "nds, MCB）失去兴趣。据知情人士称，中国证监会（CSRC）已"
+              },
+              {
+                "kw": "知情人士称",
+                "snippet": "ds, MCB）失去兴趣。据知情人士称，中国证监会（CSRC）已拒"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": ", MCB）失去兴趣。据知情人士称，中国证监会（CSRC）已拒绝"
+              }
+            ]
           }
         },
         {
@@ -4118,6 +4493,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg (BNN Bloomberg / AP syndication)",
             "evidence_url": "https://www.bnnbloomberg.ca/tariffs/2026/09/09/china-hits-back-at-us-claims-of-malicious-ai-distillation-ahead-of-planned-trump-xi-talks/",
             "evidence_note": "彭博官网直连被JS墙拦截，经 BNN Bloomberg（彭博电视网，AP 供稿）取全文+真实署名（Chan Ho-him，美联社商业记者，驻曼谷）；该稿为美联社供稿、彭博转引"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -4343,6 +4723,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://uk.marketscreener.com/news/rising-energy-costs-lift-china-s-producer-consumer-inflation-in-august-ce785bd9d881fe24",
             "evidence_note": "路透官网直连被JS墙拦截，经国际转载 MarketScreener 取全文+真实署名（Qiaoyi Li, Tina Qiao, Liz Lee）"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4381,6 +4766,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://www.cnbctv18.com/economy/china-inflation-rises-for-first-time-since-april-higher-food-and-fuel-prices-put-pressure-on-pockets-19987092.htm",
             "evidence_note": "彭博官网直连失败，经 CNBC TV18 转载（as reported by Bloomberg）取核心内容与数据；未获得具体记者署名，标 not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4424,6 +4814,11 @@ window.__XFS_DATA__ = {
             "source": "Reuters",
             "evidence_url": "https://finance.yahoo.com/economy/articles/chinas-exports-25-y-y-024544006.html",
             "evidence_note": "路透官网直连被JS墙拦截，经雅虎财经转载取全文+真实署名（Yukun Zhang, Liz Lee）"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4464,6 +4859,11 @@ window.__XFS_DATA__ = {
             "source": "Bloomberg",
             "evidence_url": "https://beta.bnnbloomberg.ca/business/international/2026/09/08/chinas-exports-pick-up-in-august-jumping-25-as-its-trade-surplus-widens",
             "evidence_note": "彭博官网直连失败，经 BNN Bloomberg / The Edge Singapore 转载取全文；未获得具体记者署名（AP/Bloomberg News），标 not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -4567,6 +4967,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-08/byd-eyes-2-5-million-overseas-sales-as-price-war-rages-at-home",
             "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；该稿 byline 为 Bloomberg News（机构发稿），经二次补全无真人署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4605,6 +5010,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
             "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；byline 为 Bloomberg News（机构发稿），二次补全无真人署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4644,6 +5054,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/features/2026-09-08/china-races-to-build-ai-data-centers-far-away-from-its-biggest-cities",
             "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；byline 为 Bloomberg News，内文'With assistance from Dan Murtaugh and Ocean Hou'（协助报道/摄影），主要署名仍属机构发稿，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4688,6 +5103,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://www.thestandard.com.hk/finance/article/342133/Chinas-exports-expand-25-percent-in-August-align-with-forecast",
             "evidence_note": "经 The Standard（香港）/路透转载复核全文；署名 Reporting by Yukun Zhang and Liz Lee，编辑 Shri Navaratnam。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4740,6 +5160,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://srnnews.com/chinas-car-exports-stay-strong-in-august-while-domestic-sales-decline-worsens",
             "evidence_note": "经 SRN News（路透 syndication）/路透转载复核全文；署名 Reporting by Qiaoyi Li, Zhang Yan and Ju-min Park，编辑 Clarence Fernandez、Stephen Coates。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4782,6 +5207,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
             "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；署名 Sangmi Cha（真人记者）。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4823,6 +5253,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://www.envoy.cirrus.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai",
             "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；署名 Catherine Thorbecke（Bloomberg Opinion 专栏作者，真人）。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4861,6 +5296,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/newsletters/2026-09-07/china-is-cracking-down-on-its-carmakers-for-developing-vehicles-too-fast",
             "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文（newsletter《Auto Monitor》）；byline 为 Bloomberg News（机构发稿），标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4904,6 +5344,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://www.zaobao.com/news/china/story20260907-9639371",
             "evidence_note": "经联合早报/路透转载复核：比利时检方声明、Belgan 背景、双国籍与在逃嫌疑人；署名记者 Inti Landauro，编辑 Bart Meijer、Andrew Cawthorne。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4952,6 +5397,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://theedgemalaysia.com/node/817021",
             "evidence_note": "经 The Edge Malaysia/路透转载复核全文；署名 By Ben Blanchard & Wen-Yee Lee / Reuters，编辑 Stephen Coates。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -4999,6 +5449,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://www.yahoo.com/news/articles/dance-floor-war-china-readies-060429355.html",
             "evidence_note": "经 Yahoo/路透转载复核全文；署名 By Eduardo Baptista，发自北京；含被引专家与采购/论文来源。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -5041,6 +5496,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://www.asiaone.com/china/beijing-expands-funding-tools-support-food-security-rural-modernisation",
             "evidence_note": "经 AsiaOne/路透转载复核全文；署名 Reporting by Liz Lee and Beijing newsroom，编辑 Tom Hogue、Stephen Coates。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -5084,6 +5544,11 @@ window.__XFS_DATA__ = {
           "provenance": {
             "evidence_url": "https://lufkindailynews.com/news_reuters/business/chinas-export-growth-seen-accelerating-in-august-reuters-poll/article_2297ae70-380f-5950-a79a-33fdf36fc681.html",
             "evidence_note": "经 Lufkin Daily News/路透转载复核；署名 Reporting by Yukun Zhang and Ryan Woo，Polling by Susobhan Sarkar、Jing Wang，编辑 Lincoln Feast。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -5328,6 +5793,16 @@ window.__XFS_DATA__ = {
             "retrieved_via": "WebSearch（Reuters Gyirong landslide foreigner missing 等）",
             "evidence_url": "https://www.thehindu.com/news/international/at-flood-destroyed-border-china-teams-scour-ruins-of-once-busy-port/article71436112.ece",
             "evidence_note": "AOL/The Hindu全文转载路透原稿（By Nicoco Chan and Tingshu Wang, GYIRONG, Sept 6），取得完整正文、署名与电头；发稿时间2026-09-06 21:27 GMT+8经AOL时间戳确认，归入09-06批次"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "私下对",
+                "snippet": "件遗物。四个有公民失踪的政府私下对中方信息共享有限表达不满，并"
+              }
+            ]
           }
         },
         {
@@ -5376,6 +5851,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "WebSearch多组关键词（Reuters China Sept 6 2026 / China state banks capital boost等）",
             "evidence_url": "https://theedgemalaysia.com/node/816983",
             "evidence_note": "The Edge Malaysia全文转载路透社原稿（By Reuters, BEIJING Sept 6），取得完整正文、数据与公司声明细节；原链reuters.com/world/asia-pacific/china-pump-47-bln-into-state-banks-insurers-capital-boosting-push-2026-09-06/经geoffreychen.com每日简报交叉验证"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -5425,7 +5905,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "primenestnews全文转载彭博原稿（(Bloomberg) -- 机构署名，Charlie Zhu协助），取得正文与全部认购数字；原链bloomberg.com/news/articles/2026-09-06/agb经bigmarketmoves.com来源追踪交叉验证"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Yahoo HK / Finnhub reprint: '联合报道 Charlie Zhu' / '--With assistance from Charlie Zhu'"
+          "byline_note": "Yahoo HK / Finnhub reprint: '联合报道 Charlie Zhu' / '--With assistance from Charlie Zhu'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         }
       ],
       "daily_analysis": {
@@ -5538,6 +6023,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia)与niotex彭博条目交叉印证",
             "evidence_url": "https://www.niotex.com/blog/trends-2026-09-06",
             "evidence_note": "niotex 期刊目录明确标注 Bloomberg·September 5, 2026·finance 条目「Traders Flock to Bullish Chinese Stock Bets for AI Alternative」并附原文首句；The Edge Malaysia「China Focus」09月6日 10:01am 转载该稿并署名 By Charlotte Yang / Bloomberg（彭博原发为9月5日）。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -5582,6 +6072,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+The Star转载路透专电与The Print/中国日报香港版交叉印证",
             "evidence_url": "https://theprint.in/world/chinese-national-rescued-from-nepal-tunnel-a-day-after-2-nepalis-pulled-out-alive/3034460/",
             "evidence_note": "The Print 转载路透专电，含电头 KATHMANDU, Sept 5 (Reuters) 与完整署名 Reporting by Sahana Bajracharya and Navesh Chitrakar; Editing by Shri Navaratnam and William Mallard；The Star 版含225米隧道、上特里苏里1号项目等细节，中国日报香港版补充中国驻尼使馆确认与韩方专家协同。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -5630,7 +6125,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "investing.com 明确标注「Bloomberg reported on Saturday, citing Chief Executive John Lee」，含离岸人民币产品、股票通/债券通/理财通、9月16日立法会提交、北部都会区、梁凤仪AI表态等要点；彭博原文页 URL 经 origin.www.bloomberg.com 检索确认（2026-09-05 版）。彭博正文为机构署名，标 not_available。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "ima.qq.com Bloomberg screenshot (Sept 5, 2026): \"By Echo Wong\""
+          "byline_note": "ima.qq.com Bloomberg screenshot (Sept 5, 2026): \"By Echo Wong\"",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r6",
@@ -5667,6 +6167,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+streetinsider路透终端实时消息聚合页取得",
             "evidence_url": "https://www.streetinsider.com/Reuters/Wall+St+gains+with+tech+shares%3B+regional+banks+fall/stock_lookup.php?q=S",
             "evidence_note": "streetinsider 路透实时聚合页条目「One dead, 11 people missing after mudslide in China's Jiangxi province」，时间 Sep 5, 2026 12:05AM，含电头 BEIJING, Sept 5 (Reuters) 与全文；路透快讯无个人署名，标 not_available。The Star 东盟头条「Mudslide in east China's Jiangxi leaves 1 dead, 11 missing」同步佐证。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -5715,6 +6220,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+thiratti转述彭博原文与aitechdaily/钜亨网/新浪财经交叉印证",
             "evidence_url": "https://www.aitechdaily.com/moonshot-hong-kong-ipo",
             "evidence_note": "aitechdaily 明确区分路透版（约30亿美元、估值500亿美元、拆除红筹结构境内注册）与彭博版（最高50亿美元、增聘美银为整体协调人、中金/德银/高盛保荐），并引彭博具名作者 Dong Cao、Julia Fioretti、Pei Li and Luz Ding；thiratti 全文转述彭博并保留贝森特黑名单与蒸馏指控段落。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -5763,6 +6273,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch多组关键词)+gfm.news全文转载路透原稿取得署名与电头",
             "evidence_url": "https://gfm.news/news/exclusive-us-china-gear-up-for-mid-september-ai-safety-dialogue-oggk",
             "evidence_note": "gfm.news 全文转载路透独家原稿，含电头 BEIJING, Sept 4 (Reuters)、完整署名 Reporting by Laurie Chen; Additional reporting by Eduardo Baptista in Beijing and Courtney Rozen in Washington; Editing by Paul Simao，以及贝森特牵头、何立峰/丁薛祥人选、Mythos与蒸馏指控、蒙迪二轨渠道等关键段落；reuters.com 原链 slug 由第三方AI日报参考目录交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -5806,6 +6321,20 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+srnnews全文转载路透独家与TradersUnion/Seeking Alpha交叉",
             "evidence_url": "https://srnnews.com/exclusive-citi-eyes-china-brokerage-unit-licence-as-soon-as-this-month-sources-say",
             "evidence_note": "srnnews 全文转载路透独家，含电头 HONG KONG, Sept 4 (Reuters)、完整署名 (Reporting by Selena Li; Editing by Sumeet Chatterjee and Jamie Freed)，及批文时点、百人编制、A股业务范围、高盛/摩通/大摩利润数据；The Edge Malaysia「China Focus」9月4日同类条目佐证。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "透香港9月4日独家报道，两名知情人士称，花旗集团预计最快本月获得中"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "港9月4日独家报道，两名知情人士称，花旗集团预计最快本月获得中国"
+              }
+            ]
           }
         },
         {
@@ -5848,6 +6377,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia 9月4日全量转载)与aitechdaily/aiweekly交叉印证",
             "evidence_url": "https://www.aitechdaily.com/deepseek-huawei-ascend-160k",
             "evidence_note": "aitechdaily 明确标注彭博9月4日（周五）报道并转述全文要点：至少16万颗昇腾950DT、乌兰察布约1GW站点、仅用于推理不用于训练、华为产能约束致交付或逾一年、2027年底或2028年初部分投运；The Edge Malaysia「China Focus」9月4日 06:03pm 条目同步刊载彭博该稿。彭博正文为机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -5897,6 +6431,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+investing.com路透专电全文与mining.com.au/观察者网交叉印证",
             "evidence_url": "https://investing.com/news/stock-market-news/china-rare-earth-firms-halt-some-us-shipments-over-geopolitical-worries-sources-say-4888882",
             "evidence_note": "investing.com 全文转载路透专电，含电头 BEIJING/SINGAPORE/WASHINGTON, Sept 4 (Reuters)、署名 By Laurie Chen, Solomon Cefai, Trevor Hunnicutt and Lewis Jackson，及RBA制裁、RMI审计、钇出口、对日数据等细节；mining.com.au 与观察者网中文转述交叉印证。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -5943,6 +6482,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+The Edge Malaysia转载彭博原文与investing.com/钜亨网交叉印证",
             "evidence_url": "https://ca.investing.com/news/stock-market-news/longsys-prices-hong-kong-listing-at-hk236-per-share--bloomberg-93CH-4827847",
             "evidence_note": "investing.com 明确标注「Longsys prices Hong Kong listing at HK$236 per share - Bloomberg」，含发行价236港元、上限240.60港元、2600万股、9月8日挂牌、44%折让等；The Edge Malaysia 版保留彭博署名 By Julia Fioretti & Sangmi Cha / Bloomberg 及基石投资者、财务数据全文。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -5988,6 +6532,16 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+Yahoo/AOL转载路透原稿与Samoa Observer/中国新闻网交叉印证",
             "evidence_url": "https://samoaobserver.ws/category/samoa/121898",
             "evidence_note": "Samoa Observer 9月4日引述路透（KATHMANDU/SYDNEY 电）完整刊载惠恕仁宣读的联合声明原文（含24小时提前通知条款与瑙鲁异议）及郭嘉昆回应；Yahoo/AOL 版保留路透电头 SYDNEY, Sept 4 (Reuters) 与署名 By Renju Jose。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "私下对",
+                "snippet": "成一致，尽管多名领导人公开或私下对地区军事化表达担忧。中方称试"
+              }
+            ]
           }
         },
         {
@@ -6036,6 +6590,16 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+stockopedia全文转载路透独家与mining.com交叉印证",
             "evidence_url": "https://www.mining.com/baowu-eyes-stake-in-bhps-massive-jimblebar-iron-ore-mine",
             "evidence_note": "mining.com 全文转载路透独家，含15%—25%持股区间、Jimblebar 2026财年6250万吨产量、BHP持股85%、CMRG争端和解等细节；stockopedia 转载版本保留路透完整署名 Reporting by Lewis Jackson in Beijing and Yantoultra Ngui in Singapore; Additional reporting by Melanie Burton in Melbourne and Amy Lv in Shanghai; Editing by Tony Munroe and Jan Harvey。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "澳金布巴铁矿的少数股权，两名知情人士称。宝武考虑取得15%至25%"
+              }
+            ]
           }
         }
       ],
@@ -6152,6 +6716,20 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch多组关键词)+国际转载源 internazionale.it 全文转载路透原稿，news4alpha 路透终端快讯与 Economic Times 交叉印证",
             "evidence_url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/05/exclusive-china-s-xi-to-bring-large-ceo-delegation-on-us-visit-sources-say",
             "evidence_note": "internazionale.it 全文转载路透原稿，含电头 BEIJING, Sept 4 (Reuters)、署名 By Laurie Chen and Eduardo Baptista，及甘思德评论、2015年波音380亿美元协议、特朗普5月带18名高管访华等细节；news4alpha 显示 LSEG 独家提示触发于 04-Sep-2026 22:41（北京时间）。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "消息人士称",
+                "snippet": "；路透无法确定随行高管名单。消息人士称，此举部分意在释放中国支持对"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "透无法确定随行高管名单。消息人士称，此举部分意在释放中国支持对美"
+              }
+            ]
           }
         },
         {
@@ -6195,6 +6773,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+Yahoo/路透原文转载与环球时报、IndexBox 交叉印证",
             "evidence_url": "https://www.yahoo.com/news/world/articles/chinese-shipper-cosco-denies-vessels-115322883.html",
             "evidence_note": "Yahoo 全文转载路透原稿，含电头 BEIJING, Sept 4 (Reuters)、署名 (Reporting by Beijing Newsroom; editing by Barbara Lewis)，及中远声明原文引语与9月1日指控回顾；环球时报补充「保留依法维护企业声誉权利」表述。路透为北京新闻部机构稿，无个人记者署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -6244,6 +6827,16 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+AOL 全文转载路透原稿，newsx 同步转载印证",
             "evidence_url": "https://www.aol.com/articles/analysis-shein-seeks-fast-fashion-105126000.html",
             "evidence_note": "AOL 全文转载路透原稿，含电头 LONDON/HONG KONG, Sept 4 (Reuters)、署名 By Helen Reid, Yantoultra Ngui and Selena Li，及股价38.14港元、销售增速1.1%、Everlane 8000万美元、Xcelerator品牌销售增15倍等关键数据。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "注入其高速供应链与庞大客群。知情人士称Everlane交易只是并购"
+              }
+            ]
           }
         },
         {
@@ -6285,6 +6878,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+外交部例行记者会双语实录（路透提问）与 news4alpha 路透中国快讯交叉印证",
             "evidence_url": "https://new.qq.com/rain/a/20260905A04E5F00?refer=cp_1009",
             "evidence_note": "外交部2026年9月4日例行记者会双语实录含路透记者就格里尔农业/非关税壁垒表态的提问与郭嘉昆回应；news4alpha 路透终端中国快讯（2026-09-04 06:15-06:18）记录格里尔「逆差同比下降20%」「墨西哥渴望保护北美免受中国进口商品冲击」「周四会见墨西哥贸易部长」三条原话。路透快讯无个人署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -6332,7 +6930,21 @@ window.__XFS_DATA__ = {
             "evidence_note": "彭博9月4日原文确认16万颗昇腾950DT、内蒙古吉瓦级数据中心、不用于训练、产能受高端存储限制等要点；The Edge Malaysia China Focus 04 Sep 2026 18:03 条目同步转载彭博电。彭博正文机构署名，标 not_available。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "The Edge Malaysia / XenoSpectrum: 'By Mackenzie Hawkins & Haze Fan / Bloomberg'"
+          "byline_note": "The Edge Malaysia / XenoSpectrum: 'By Mackenzie Hawkins & Haze Fan / Bloomberg'",
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "。安装时间取决于华为的产能。知情人士称，尽管华为将该芯片设计与营销"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "装时间取决于华为的产能。知情人士称，尽管华为将该芯片设计与营销为"
+              }
+            ]
+          }
         },
         {
           "id": "r5",
@@ -6375,6 +6987,16 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+The Edge Malaysia「China Focus」全文转载路透原稿（含署名与时间）",
             "evidence_url": "https://theedgemalaysia.com/node/816877",
             "evidence_note": "The Edge Malaysia 2026-09-04 15:15 全文转载路透稿，标注 By Selena Li / Reuters、HONG KONG (Sept 4)，含员工翻倍至100人、A股经纪/承销/研究/自营业务范围、高盛14.6亿元与摩根大通9.84亿元净利润对比等全部细节。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "为该部门增聘数十名员工，两名知情人士称。最终批准可能落在习近平9月"
+              }
+            ]
           }
         },
         {
@@ -6418,6 +7040,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+tradingnewsterminal 转述彭博「The China Show」9/4 与彭博每日简报数据交叉印证",
             "evidence_url": "https://www.tradingnewsterminal.com/news/2026/09/04/china-stocks-join-asia-rally-fed-hike-bets-ease-china-show",
             "evidence_note": "tradingnewsterminal 明确标注 via Bloomberg、Original reported by Bloomberg at September 04, 2026，标题 China Stocks Join Asia Rally As Fed Hike Bets Ease；同期彭博每日简报给出恒指涨2.1%、上证涨0.4%、服务业PMI 51.4（预期50.6，连续44个月扩张）、综合产出52.1 等数据。彭博正文机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -6458,6 +7085,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博原文(origin.www.bloomberg.com)与 Moneycontrol 转载交叉印证",
             "evidence_url": "https://origin.www.bloomberg.com/news/articles/2026-09-04/xi-s-big-personnel-reshuffle-picks-up-pace-as-new-faces-emerge",
             "evidence_note": "彭博9月4日原文确认龚正辞职、朱忠明接任上海代市长、年龄与退休年龄、2027年党代会与五中全会背景；Moneycontrol 全文转载印证。彭博正文机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -6506,7 +7138,17 @@ window.__XFS_DATA__ = {
             "evidence_note": "Economic Times 全文转载路透9月4日原稿，含贝森特牵头、实验室自我监督提案、Mythos级模型担忧、丁薛祥/何立峰/阴和俊可能出席、财政部「可能10月」表态等全部要点；钜亨网与观察者网中文转述一致。路透未附个人记者署名，标 not_available。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "The Print reprint: 'By Laurie Chen BEIJING, Sept 4 (Reuters)'"
+          "byline_note": "The Print reprint: 'By Laurie Chen BEIJING, Sept 4 (Reuters)'",
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "风险对话，两名了解筹备情况的知情人士称。这将是特朗普第二任期以来两"
+              }
+            ]
+          }
         },
         {
           "id": "b3",
@@ -6556,7 +7198,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "彭博日文财经首页 2026年9月4日「独自」条目「ムーンショットが年内にも香港でIPO、最大50億ドル調達検討-関係者」；路透同步报道30亿美元募资目标与高盛/中金/德银辅导；startupfortune、Yahoo Finance 补充ARR三级跳与红筹拆除细节。彭博正文机构署名，标 not_available。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "bundle.app（Bloomberg 转载）：'Dong Cao, Julia Fioretti, Pei Li and Luz Ding sourced the account to people familiar with the matter' [剔除 Pei Li：库中其为路透记者，疑为跨媒体误配]"
+          "byline_note": "bundle.app（Bloomberg 转载）：'Dong Cao, Julia Fioretti, Pei Li and Luz Ding sourced the account to people familiar with the matter' [剔除 Pei Li：库中其为路透记者，疑为跨媒体误配]",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r6",
@@ -6602,6 +7249,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+Wichita Eagle/Kansas.com 全文转载路透原稿（含完整署名与电头）",
             "evidence_url": "https://www.kansas.com/news/business/article317116297.html",
             "evidence_note": "Kansas.com 全文转载路透原稿，含电头 WASHINGTON, Sept 3 (Reuters)、署名 Reporting by David Shepardson; Editing by Franklin Paul, Philippa Fletcher and Christopher Cushing，及薄泽拉信件原文引语、中国驻美使馆回应、Polestar与商务部限制等细节。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -6714,6 +7366,20 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博原文(brp-prod-bcc.bloomberg.com)与头条/金融界交叉",
             "evidence_url": "https://brp-prod-bcc.bloomberg.com/news/articles/2026-09-03/bytedance-gets-30-billion-loan-asia-s-second-largest-this-year",
             "evidence_note": "彭博原文确认字节跳动获296亿美元贷款、亚洲年内第二大；今日头条/金融界补充利率SOFR+68bp、花旗摩通协调行等细节。彭博正文机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "年内第二大 彭博9月3日引述知情人士称，TikTok母公司字节跳动"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "第二大 彭博9月3日引述知情人士称，TikTok母公司字节跳动已"
+              }
+            ]
           }
         },
         {
@@ -6757,6 +7423,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+国际转载源 statement.com 与联合早报/头条交叉",
             "evidence_url": "https://www.zaobao.com/news/china/story20260903-9617762",
             "evidence_note": "联合早报9月3日全文引述路透报道，含1.5万美元行程、GloPen咨询增50%、深圳500万人次、小米工厂25万访客等；statement.com 同步刊载路透原文段落（标注 Reuters）。路透无个人署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -6799,6 +7470,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+头条/环球时报转述路透",
             "evidence_url": "https://www.toutiao.com/article/7681207071966036507/",
             "evidence_note": "头条/环球时报9月3日报道引述路透：贝森特在G20称因中国贸易顺差分歧致会议未发公报；并附潘功胜G20发言与中方“深表遗憾”表态。路透无个人署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -6839,6 +7515,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+腾讯/凤凰网转述彭博",
             "evidence_url": "https://new.qq.com/rain/a/20260903A05ZYH00?refer=cp_1009",
             "evidence_note": "腾讯财经9月3日转述彭博：发达债市抛售中中国等新兴债券收益率反降、套利交易回报22%、中国存款173万亿元未被挤出。彭博正文机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -6882,6 +7563,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+CNA/法新与路透原文段落交叉",
             "evidence_url": "https://www.channelnewsasia.com/east-asia/china-france-fast-fashion-law-countermeasure-shein-6360096",
             "evidence_note": "CNA 9月3日刊载“China urges France to halt fast-fashion law, warns of countermeasures”，含法方法案细节（单件近20欧元、希音200万款/日均4700款）与黄玲回应；路透上下文（REUTERS/Sarah Meyssonnier 文件照、对Zara/H&M不影响的报道）佐证。路透无个人署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -6923,6 +7609,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+凤凰网财经转述彭博",
             "evidence_url": "https://new.qq.com/rain/a/20260903A07PS400",
             "evidence_note": "凤凰网财经9月3日引彭博数据：迪拜原油近100美元、穆尔班运东亚溢价超30美元、中印日韩抢油、三井OSK称年内复航难。彭博正文机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -6966,6 +7657,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+indopremier 转载路透全文",
             "evidence_url": "https://www.indopremier.com/ipotnews/newsDetail.php/newsDetail.php?group_news=IPOTNEWS&news_id=237932",
             "evidence_note": "indopremier 全文转载路透9月3日中国股市反弹稿，含午盘数据、地产+4.9%、恒指25317.49、非农预期与潘功胜G20表态，署名 Reporting by Shanghai Newsroom; Editing by Janane Venkatraman。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7008,6 +7704,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+TechTimes/亚洲经济(引述彭博)与网易/观察者网交叉",
             "evidence_url": "https://www.asiae.co.kr/en/article/2026090308520068893",
             "evidence_note": "亚洲经济9月3日报道明确标注“According to Bloomberg”，详述卢特尼克G20表态、25%第一阶段关税、扩展至服务器与消费电子、对三星/SK海力士影响；网易/观察者网同步转述彭博。彭博正文机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -7122,7 +7823,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "statement.com 聚合页含路透关于尼泊尔中尼边境预警系统的完整段落（标注 Reuters, bak），为匿名政府信源，无个人记者署名，故 authors_status=not_available。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "CRBC News: \"Reporting: Sarita Chaganti Singh in New Delhi. Writing: Ariba Shahid. Editing: Rick Noack, Gareth Jones and Christian Schmollinger.\""
+          "byline_note": "CRBC News: \"Reporting: Sarita Chaganti Singh in New Delhi. Writing: Ariba Shahid. Editing: Rick Noack, Gareth Jones and Christian Schmollinger.\"",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b5",
@@ -7163,6 +7869,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+statement.com转述路透与中新网官方通稿交叉取得",
             "evidence_url": "https://statement.com/1302519/china-proposes-a-new-security-order-for-the-middle-east",
             "evidence_note": "statement.com 聚合页含路透关于「China Proposes a New Security Order for the Middle East」的段落；四点倡议细节与中国新闻网官方通稿一致。外媒稿多为机构/未具名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7203,6 +7914,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+tradingnewsterminal转述彭博取得",
             "evidence_url": "https://www.tradingnewsterminal.com/news/2026/09/02/china-us-yield-gap-nears-record-high-treasury-selloff",
             "evidence_note": "tradingnewsterminal 转述彭博9月2日中美利差稿，含美10年收益率4.81%、利差近纪录等要点；彭博正文机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7243,6 +7959,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia全量转载)与新华/人民日报公告交叉印证",
             "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
             "evidence_note": "The Edge Malaysia「China Focus」9月2日条目 China removes tax exemption on foreigners' dividend incomes（By Bloomberg），政策细节与新华网、人民日报公告一致；彭博正文为机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7288,6 +8009,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+国际转载源AOL取得路透全文与署名",
             "evidence_url": "https://www.aol.com/articles/china-restores-road-access-tibet-050801000.html",
             "evidence_note": "AOL 全文转载路透原稿，含电头 BEIJING, Sept 2 (Reuters)、署名 Reporting by Liz Lee, Ethan Wang, Joe Cash, Chu Mei Mei, Qiaoyi Li and Yukun Zhang; Editing by Saad Sayeed and Edwina Gibbs。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7329,6 +8055,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia)与国际媒体(superpowerdaily等)交叉取得",
             "evidence_url": "https://theedgemalaysia.com/node/816631",
             "evidence_note": "The Edge Malaysia 全文转载彭博燧原科技IPO稿，含4073倍认购、5.98万亿元订单、发行价142.18元、腾讯持股20%等关键数据；彭博正文机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7372,6 +8103,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+capital.com/newshunt转载路透全文取得",
             "evidence_url": "https://capital.com/en-int/news/china-stocks-decline-hk-flat-as-sentiment-hit-by-global",
             "evidence_note": "capital.com 全文转载路透原稿，含电头 HONG KONG, Sept 2 (Reuters)、署名 Summer Zhen，及李强会见美中贸委会、汽车股受出海指引影响等细节。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7416,6 +8152,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia)与newshunt/reuters转述交叉取得",
             "evidence_url": "https://theedgemalaysia.com/node/816571",
             "evidence_note": "The Edge Malaysia 全文转载彭博恒大稿，署名 By Pearl Liu & Trista Xinyi Luo / Bloomberg，含法官 H Au-Yeung、清盘人追讨77亿美元资产、向普华永道索赔570亿元等关键细节。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7460,6 +8201,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch多组关键词)+国际转载源gcaptain取得路透全文与署名",
             "evidence_url": "https://gcaptain.com/chinese-shipper-cosco-collects-intel-for-beijing-with-concealed-equipment",
             "evidence_note": "gcaptain 全文转载路透原稿，含电头 WASHINGTON, Sept 1 (Reuters)、署名 Reporting by Michael Martina; Editing by Don Durfee and Jamie Freed，及中远9月3日否认声明与1260H清单等背景。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -7569,6 +8315,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
             "evidence_url": "https://brp-prod-bcc.bloomberg.com/news/articles/2026-09-01/chinese-banks-extend-record-breaking-rally-on-earnings-dividend",
             "evidence_note": "彭博镜像取得正文前两段与时间戳 September 1, 2026 at 8:07 AM UTC，含三大指数代码 M0CN0BK / MXCN / S5FINL。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7610,6 +8361,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
             "evidence_url": "https://brp-prod-bcc.bloomberg.com/news/articles/2026-09-01/xi-s-busiest-travel-itinerary-in-seven-years-is-all-about-trump",
             "evidence_note": "彭博镜像 brp-prod-bcc.bloomberg.com 取得正文前段与精确时间戳 September 1, 2026 at 7:10 AM UTC，署名 By Bloomberg News。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7646,6 +8402,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
             "evidence_url": "https://brp-prod-bcc.bloomberg.com/asia",
             "evidence_note": "彭博亚洲镜像首页条目（2026-09-01，配图署名彭博摄影师 Lam Yik）；正文受付费墙限制未取得。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7687,6 +8448,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
             "evidence_url": "https://brp-prod-bcc.bloomberg.com/asia",
             "evidence_note": "彭博亚洲镜像首页三形态条目（文章 2026-09-01 / 通讯 Morning Briefing: Asia 2026-08-31 / 视频 2026-08-31），确认英伟达35亿美元投资联发科与股价涨10%。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7735,6 +8501,16 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
             "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-08-31/china-makes-cars-so-fast-that-it-s-starting-to-worry-regulators",
             "evidence_note": "彭博镜像 envoy.cirrus.bloomberg.com 取得导语与彭博原创标记；CNBC TV18 转载取得接近全文（含 Bill Russo、李学用引语与427万辆召回细节）；新浪财经/联合早报中文转载用于校核数据。署名经多源找回仍为 Bloomberg News。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "人士称，",
+                "snippet": "未获授权公开发言而要求匿名的人士称，中国车企一直在挑战开发符合安"
+              }
+            ]
           }
         },
         {
@@ -7774,6 +8550,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
             "evidence_url": "https://brp-prod-bcc.bloomberg.com/asia",
             "evidence_note": "彭博亚洲镜像首页列出该专栏条目（By Shuli Ren, Columnist，2026-08-31）；正文受付费墙限制未取得，摘要为条目级录入。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7813,6 +8594,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
             "evidence_url": "https://brp-prod-bcc.bloomberg.com/opinion/articles/2026-08-31/china-s-proya-cosmetics-giant-has-its-ulta-strategy-in-us-backwards",
             "evidence_note": "彭博镜像取得专栏正文前段、作者页链接与时间戳 August 31, 2026 at 6:00 PM UTC；作者 Juliana Liu 为彭博观点亚洲专栏作家（具名）。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7854,6 +8640,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A/B失败后经通道C(WebSearch多组关键词)+通道D(时间限定)与国际转载源取得",
             "evidence_url": "https://srnnews.com/taiwan-says-unpredictable-china-strengthens-air-and-sea-control-nearby/",
             "evidence_note": "SRN News 全文转载路透原稿，末尾 (Reporting by Ben Blanchard)；另有 LSEG 终端警报显示触发时间 31-Aug-2026 9:14:22 PM，用于校准 published_at。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7901,6 +8692,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A/B失败后经通道C(WebSearch多组关键词)+通道D(时间限定)与国际转载源取得",
             "evidence_url": "https://theedgemalaysia.com/node/816319",
             "evidence_note": "The Edge Malaysia 全文转载（含 SHANGHAI/HONG KONG dateline 与 Aug 31）；Stockopedia 另载 UPDATE 3 版本含指数代码与涨跌幅细节，两源交叉取正文。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7941,6 +8737,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A/B失败后经通道C(WebSearch多组关键词)+通道D(时间限定)与国际转载源取得",
             "evidence_url": "https://www.reuters.com/technology/huawei-first-half-profit-slumps-2026-08-31/",
             "evidence_note": "经 WebSearch 多组关键词定位路透原稿标题与署名 Eduardo Baptista；原页受JS墙限制未取得全文，摘要为检索级录入，正文待补。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -7980,6 +8781,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
             "evidence_url": "https://origin.www.bloomberg.com/news/articles/2026-08-31/bessent-to-push-g20-to-rethink-china-trade-terms-reuters-says",
             "evidence_note": "彭博镜像 origin.www.bloomberg.com 取得全文（Supply Lines 通讯条目）与时间戳 Aug 31 4:51 AM UTC / updated 8:12 AM UTC，署名 By Bloomberg News，信源标注 Reuters。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -8018,6 +8824,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A/B失败后经通道C(WebSearch多组关键词)+通道D(时间限定)与国际转载源取得",
             "evidence_url": "https://uk.marketscreener.com/news/new-china-property-sector-rules-expected-to-bring-consolidation-small-developers-shares-slide-ce7858dcdd8af727",
             "evidence_note": "MarketScreener UK 全文转载，末尾明确 (Reporting by Shanghai newsroom; Editing by Edwina Gibbs) —— 机构发稿，无个人署名。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -8056,6 +8867,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
             "evidence_url": "https://brp-prod-bcc.bloomberg.com/asia",
             "evidence_note": "彭博亚洲镜像首页条目：原题 Shein Set to Debut in Test of Investor Demand for Consumer Plays，上市后更新为 Shein Shares Plunge 10% in Hong Kong Debut（2026-08-31）。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -8104,6 +8920,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A/B失败后经通道C(WebSearch多组关键词)+通道D(时间限定)与国际转载源取得",
             "evidence_url": "https://www.aol.com/articles/chinas-factory-activity-improves-stays-014536000.html",
             "evidence_note": "AOL 全文转载路透原稿，末尾含 (Reporting by Yukun Zhang and Liz Lee; Editing by Jacqueline Wong)，署名与全文均据此取得。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -8146,6 +8967,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
             "evidence_url": "https://thefinancial.news/cxmt-passes-its-first-earnings-test-with-flying-colors-the-china-show-8-31-2026",
             "evidence_note": "The Financial News 转载彭博《The China Show》8/31 完整节目单与官方栏目介绍（Yvonne Man、David Ingles 主持），据此取得当日彭博涉华议题全谱与嘉宾名单。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -8189,7 +9015,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "Mayberry Investments 每日海外头条引述并链接彭博转发页，确认贝森特周日对路透的原话与1.2万亿美元顺差表述。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Fidelity/Internazionale reprint: '(Reporting by David Lawder; Editing by Edmund Klamann)'"
+          "byline_note": "Fidelity/Internazionale reprint: '(Reporting by David Lawder; Editing by Edmund Klamann)'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         }
       ],
       "daily_analysis": {
@@ -8477,7 +9308,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "The Hindu（路透授权转载）全文刊载该稿，含阿什维尔8月30日电头、贝森特引语（1.2万亿美元顺差、新广场协议批评、300亿美元非战略货物、潘功盛会晤等），文末注明August 30, 2026；AOL转载页面（us-eyes-china-overcapacity-tariffs-155346000）载有同稿及背景链接。路透转载文本未附记者署名行，authors_status=not_available；to-the-minute发布时刻未能确证，published_at为小时级近似。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Same Reuters article as 2026-09-01 r5 ('G20 countries should consider more trade barriers on China'), Reporting by David Lawder"
+          "byline_note": "Same Reuters article as 2026-09-01 r5 ('G20 countries should consider more trade barriers on China'), Reporting by David Lawder",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r5",
@@ -8520,6 +9356,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+91rb.live路透单行快讯标题+FinWire转载路透8/31三大航综合稿及网易财经披露数据交叉取得",
             "evidence_url": "https://finwire.io/news/stock-markets-news/chinas-three-biggest-airlines-post-heavy-first-half-losses-as-fuel-shock-bites",
             "evidence_note": "东航半年报于北京时间8/30晚间披露；路透当日单行快讯标题China Eastern posts wider first-half net loss经91rb.live路透热榜确证，正文数据与路透8月31日三大航综合稿（FinWire全文转载，含东航营收增11.1%、C919机队17架、2026-28年交付预测少13架等）及网易/新京报中文财经交叉一致。快讯未见转载署名，authors_status=not_available；published_at为小时级近似。此稿与r4（国航稿）同批披露，事实互补、单列以对应路透两则独立快讯。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -8563,6 +9404,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+HCN Times/FinWire/AeroCorner转载路透三大航综合稿与91rb.live路透单行快讯标题交叉取得",
             "evidence_url": "https://hcntimes.com/chinas-big-three-airlines-report-us1-21bn-first-half-loss-as-fuel-costs-surge",
             "evidence_note": "国航/东航半年报均于北京时间8月30日晚间在上交所披露（第一财经、网易财经等证实「截至8月30日三大航完成披露」，国航8/30晚间发布）；路透当日单发快讯标题经91rb.live路透热榜确证（Air China H1 net loss widens to about $341 million, filing shows / China Eastern posts wider first-half net loss），正文事实与路透8月31日综合稿（HONG KONG/BEIJING, Aug 31电头，HCN Times/FinWire全文转载）及网易/头条中文财经数字交叉一致。单行快讯未见转载署名，authors_status=not_available；to-the-minute发布时间未能确证，published_at为小时级近似。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -8615,6 +9461,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+bdnews24/The Business Standard/Yahoo/ThePrint全文转载路透滚动稿交叉取得",
             "evidence_url": "https://bdnews24.com/world/b77daa8c8bce",
             "evidence_note": "bdnews24（8月30日21:44更新）全文转载路透当日滚动稿，署名 Reporting by Sahana Bajracharya in Chitwan, Gopal Sharma in Kathmandu, Adnan Abidi in Trishuli, Laurie Chen and Ethan Wang in Beijing and Bipasha Dey; Writing by Aftab Ahmed; Editing by Christopher Cushing, Thomas Derpinghaus, Ros Russell；ThePrint版（TRISHULI/BEIJING电头）载早期版本与中方国籍分布明细；The Business Standard版含新华社/中国经济网引述的中科院成都山地所研究员苏鹏程气候归因补充。路透当日多版本滚动（死亡数字750→781），published_at取小时级近似。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -8660,6 +9511,32 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+Economic Times/IndexBox/BladeIntel全文转载路透特写、今日MG中文编译交叉取得",
             "evidence_url": "https://www.indexbox.io/blog/sheins-hong-kong-ipo-marks-shift-to-embrace-chinese-identity",
             "evidence_note": "IndexBox标注Reuters Analysis全文转载该特写，正文含三名匿名信源、许仰天15亿美元广东投资、南京研发中心、约265亿美元估值/募17亿美元、80%员工在华等细节；Economic Times版（S2S原始页面）与今日MG中文编译一致。Techmeme于美东8/30 5:40AM收录该路透特写（标题 How Shein pivoted to a Hong Kong IPO and sought to build Chinese government ties）。原稿转载页未附记者署名行，authors_status=not_available；published_at为小时级近似。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 5,
+            "hits": [
+              {
+                "kw": "据三名知情人士",
+                "snippet": "的证券监管机构）放行而告吹。据三名知情人士透露，2025年上半年转向香"
+              },
+              {
+                "kw": "知情人士称",
+                "snippet": "开设研发中心。三名要求匿名的知情人士称，Shein通过展示对国内的"
+              },
+              {
+                "kw": "知情人士透露",
+                "snippet": "监管机构）放行而告吹。据三名知情人士透露，2025年上半年转向香港上"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "研发中心。三名要求匿名的知情人士称，Shein通过展示对国内的经"
+              },
+              {
+                "kw": "人士透露，",
+                "snippet": "机构）放行而告吹。据三名知情人士透露，2025年上半年转向香港上市"
+              }
+            ]
           }
         },
         {
@@ -8701,6 +9578,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+The Economic Times彭博授权转载专题页确证标题与摘要；正文细节经该摘要及IMF框架展开",
             "evidence_url": "https://economictimes.indiatimes.com/topic/bloomberg-news-china/news",
             "evidence_note": "The Economic Times「bloomberg-news-china」专题页载该稿标题《Vietnam's Export Triumph: How a Small Nation Beat China and India to Become America's Top Trade Partner》与摘要（含1140亿美元、超中国与墨西哥、China+1），标注30 Aug 2026 12:20 PM IST（≈UTC 06:50，published_at取小时级近似）。彭博正文付费不可直接读，body_zh基于转载摘要编译并注明；彭博机构署名，authors_status=not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -8747,6 +9629,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+Yahoo Finance全文转载路透原稿取得",
             "evidence_url": "https://finance.yahoo.com/m/4dcfd065-6dfb-301a-ac3d-9b3d9bfff7aa/taiwan-prosecutors-search.html",
             "evidence_note": "Yahoo Finance全文转载路透原稿，含电头 TAIPEI, Aug 29 (Reuters)、署名 Reporting by Ben Blanchard and Wen-Yee Lee; Editing by William Mallard；台湾新闻(taiwannews)8月29日16:46当地时、优分析8月30日、SWIL供应链日报亦交叉载明。该稿原发8月29日（周六），08-29.json未收录，作为漏录稿本批补入。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -8794,6 +9681,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博feature预览镜像+腾讯新闻/网易全文编译转载取得；原发日期判定见note",
             "evidence_url": "https://news.qq.com/rain/a/20260829A04NPK00",
             "evidence_note": "彭博原稿标题《China's AI Boom Has a Favorite Bar》（Bloomberg.com，作者Charlie Zhu、Zheping Huang），feature页URL slug为2026-08-27，腾讯新闻转载页标注「彭博新闻社报道2026年8月28日」，故原发约为UTC 8月28日凌晨前后（published_at为小时级近似）；Techmeme于8月30日8:36AM(ET)再收录该稿、Bloomberg This Weekend播客（8/30播出）作为周末中国AI内容重点讨论，8-28/8-29两批次均未收录，遂作为周末深度稿补录。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -8909,6 +9801,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch）+bdnews24/Asian News India转载取得路透全文与署名",
             "evidence_url": "https://bdnews24.com/world/4af866fa04f1",
             "evidence_note": "bdnews24全文转载路透8月29日电（BEIJING, Aug 29 (Reuters)）；Asian News India镜像载明署名Reporting by Liz Lee and Yukun Zhang; Editing by Stephen Coates。注：8月28日文件r6已收录同事件『救援恢复』首报，本条为8月29日新增卫星监测稿（湖体面积9.9万平方米、缩减2.1万平方米、第二水体超12万平方米等为新增数据），故单列。to-the-minute发布时间未能确证，published_at为小时级近似。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -8953,6 +9850,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch）+彭博预览镜像取得正文前段，其余要点以路透同事件稿与中新经纬/凤凰科技转述交叉印证",
             "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-08-29/chinese-chipmaker-cxmt-sues-pentagon-to-get-off-us-blacklist",
             "evidence_note": "彭博原稿标题《Chinese Chipmaker CXMT Sues Pentagon to Get Off US Blacklist》，作者Ville Heiskanen，发布2026-08-29T03:39Z，属彭博Chip Wars专题，标注CXMT股票代码688825:CH。彭博正文付费受限仅取得前两段；被告构成、2月移出/撤回、小米与阿里先例等细节经路透同事件报道（Yahoo/HCN Times转载，署名Che Pan、Mrinmay Dey、Christian Martinez）及中新经纬转述交叉印证，facts一致。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -8996,6 +9898,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch）+Fidelity全文转载路透原稿取得",
             "evidence_url": "https://www.fidelity.com/news/article/default/202608281535RTRSNEWSCOMBINED_KBN3UJ260-OUSTP_1",
             "evidence_note": "Fidelity全文转载路透原稿，含电头WASHINGTON, Aug 28 (Reuters)、署名Reporting by Raphael Satter in Washington and AJ Vicens in Detroit; Editing by Franklin Paul, Chizu Nomiyama and Matthew Lewis。AOL版显示该稿最晚于UTC 8月28日21:43更新。路透canonical URL未能确证，source_url暂用Internazionale的Reuters转载镜像。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9037,6 +9944,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch多组关键词）+国际转载源KELO取得路透全文",
             "evidence_url": "https://kelo.com/2026/08/28/china-removes-top-generals-from-state-central-military-commission/",
             "evidence_note": "KELO全文转载路透原稿，含电头BEIJING, Aug 28 (Reuters)、12名全国人大代表被终止资格、赵宗琦被撤销政协资格等细节；路透原文署名『Reporting by Beijing Newsroom』，故authors_status=not_available。to-the-minute发布时间未能确证，published_at为小时级近似。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9079,6 +9991,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch）+Fidelity全文转载路透原稿取得",
             "evidence_url": "https://www.fidelity.com/news/article/default/202608280452RTRSNEWSCOMBINED_L6N44P0HM_1",
             "evidence_note": "Fidelity转载路透原稿，含电头SHANGHAI (Reuters)、署名Reporting by Casey Hall in Shanghai; Editing by Tomasz Janowski，以及4月监管36亿元罚款、淘宝/京东即时零售竞争背景。路透canonical URL因访问限制未能确证，source_url暂用Fidelity镜像。财务口径以公司公告为准。to-the-minute发布时间未能确证，published_at为小时级近似。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9120,6 +10037,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch）+The Edge Malaysia（Reuters授权转载）取得全文",
             "evidence_url": "https://theedgemalaysia.com/node/816154",
             "evidence_note": "The Edge Malaysia 8月28日转载路透原稿（By Ananya Palyekar / Reuters），含标普A+确认、4%增长预期、供应链/科技/制造业『强劲进展』及财政部欢迎表态。路透canonical URL因访问限制未能确证，source_url暂用该转载页。to-the-minute发布时间未能确证，published_at为小时级近似。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -9235,6 +10157,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+Reuters官网slug经检索直取全文",
             "evidence_url": "https://www.reuters.com/world/asia-pacific/chinas-icbc-worlds-biggest-bank-posts-33-profit-rise-first-half-2026-08-28/",
             "evidence_note": "Reuters原稿经搜索引擎返回标题与全文要点（BEIJING/HONG KONG, Aug 28 电头；Reporting by Ziyi Tang in Beijing and Selena Li in Hong Kong; writing by Engen Tham; Editing by Tomasz Janowski, Conor Humphries and Barbara Lewis），与腾讯/新浪对六大行中报的披露细节交叉一致。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9276,6 +10203,16 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+The Edge Malaysia与Times of India转载路透全文交叉取得",
             "evidence_url": "https://www.theedgemarkets.com/node/816199",
             "evidence_note": "The Edge Malaysia全文转载路透商品房销售制度改革稿（By Reuters，BEIJING电头）；Times of India、央视、人民日报交叉印证央行40年房贷与主办银行制等信贷配套细节。路透原文未见具名记者，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "匿名官员",
+                "snippet": "分烂尾至今超五年。新华社引述匿名官员称，以预售和快周转为主的旧制"
+              }
+            ]
           }
         },
         {
@@ -9322,6 +10259,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+Reuters官网slug检索+CNA/经济时报转载交叉取得",
             "evidence_url": "https://www.channelnewsasia.com/business/byd-posts-first-quarterly-profit-rise-in-over-year-6347776",
             "evidence_note": "Reuters原稿URL与标题经检索确认；CNA与经济时报全文转载路透原稿（BEIJING, Aug 28电头），Edge转稿标注记者 Qiaoyi Li、Zhang Yan、Ju-min Park。H1净利-20.5%等数据与比亚迪公告及中文财经报道一致。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9365,6 +10307,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+Business Standard全文转载彭博稿+彭博FX Center标题交叉取得",
             "evidence_url": "https://www.business-standard.com/amp/world-news/chinese-chipmaker-cxmt-s-sales-soar-almost-10-fold-amid-memory-crunch-126082801400_1.html",
             "evidence_note": "Business Standard转载彭博稿全文（标题与彭博FX Center所列 Chinese Chipmaker CXMT's Sales Soar Amid Memory Crunch 对应），数据（营收1503.1亿元/净利776.1亿元/研发87%增幅/市值超越腾讯）与长鑫科技公告、The Edge Malaysia及中文财经报道交叉一致；彭博正文机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9405,6 +10352,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+The Edge Malaysia「China Focus」全文转载彭博电取得",
             "evidence_url": "https://www.theedgemalaysia.com/node/816165",
             "evidence_note": "The Edge Malaysia全文转载彭博银行中报稿（By Bloomberg, Aug 28），含各行利润增幅、行业净息差1.41%、张辉与田枫林引语、分红比例等细节；与新浪/腾讯对六大行中报及业绩发布会内容交叉一致。彭博正文为机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9448,6 +10400,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+The Edge Malaysia「China Focus」条目取得彭博稿+中新社/香港中通社报道交叉核实数据",
             "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
             "evidence_note": "The Edge Malaysia「China Focus」8月28日条目 Taiwan projects population could fall to 12 mil by 2075（By Twinnie Siu / Bloomberg），人口推算数据（2045年1998万、2075年1215万、生育率0.695、2026年新生跌破10万）与中新社台北8月28日电及香港中通社报道一致。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9489,6 +10446,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+The Edge Malaysia全文转载彭博稿取得",
             "evidence_url": "https://www.theedgemarkets.com/node/816156",
             "evidence_note": "The Edge Malaysia全文转载彭博稿（By Bloomberg, Aug 28），含Hy4参数、上下文窗口、盲测分数、资本开支528亿元等细节；metirai等第三方评测博客与腾讯官方发布材料交叉印证。彭博正文为机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9538,6 +10500,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+WMBD Radio(The Associated Press广播站)全文转载路透综合稿取得",
             "evidence_url": "https://wmbdradio.com/2026/08/27/rescuers-scour-nepal-flood-debris-as-risk-of-fresh-flooding-grows",
             "evidence_note": "WMBD Radio全文转载路透综合稿（NUWAKOT, Nepal, Aug 28 (Reuters)；By Gopal Sharma, Sahana Bajracharya, Saurabh Sharma and Liz Lee），含政治局会议、李强抵吉隆、中国21人救援队「满目废墟」、印度北方邦发现遗体等细节；与Al Jazeera(Yahoo转载的Liz Lee北京稿)、央视/新华社中方通报数据交叉一致。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9582,6 +10549,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+MarketScreener全文转载取得",
             "evidence_url": "https://uk.marketscreener.com/news/china-home-prices-seen-falling-slightly-less-this-year-property-investment-slump-deepens-reuters-ce7858dfdb8af424",
             "evidence_note": "MarketScreener全文转载路透调查稿，含电头 BEIJING, Aug 28 (Reuters)、署名 Reporting by Liangping Gao and Ryan Woo; Additional reporting by Shuyan Wang; Editing by Saad Sayeed，及调查期间(8月17-27日)、机构数(11家)等元数据。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9622,6 +10594,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+Trendly/niotex聚合页取得彭博摘要+UBS官方新闻稿及中新社/上交所报道交叉印证",
             "evidence_url": "https://niotex.com/blog/trends-2026-08-28",
             "evidence_note": "Trendly digest 2026-08-28 摘录彭博原句（UBS Group AG's debut Chinese domestic bond sale this week underscores the market's growing popularity among international issuers looking for lower borrowing costs）；票息、规模、认购倍数等细节与瑞银官网新闻稿（8月27日）一致。彭博正文机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9663,6 +10640,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+The Sun Malaysia全文转载路透华盛顿电取得",
             "evidence_url": "https://thesun.my/news/world-news/trump-sanctions-chinese-banks-iran-links",
             "evidence_note": "The Sun Malaysia标注Reuters全文转载，含华盛顿电头与特朗普反问原文；香港01、TVB、news18及新华社/中青报报道中方8月28日回应交叉印证。路透白宫快讯无个人署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9707,6 +10689,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+gfm.news全文转载取得路透原稿",
             "evidence_url": "https://gfm.news/news/chinas-factory-activity-seen-contracting-again-in-august-0foj",
             "evidence_note": "gfm.news全文转载路透原稿，含电头 BEIJING, Aug 28 (Reuters)、署名 Reporting by Yukun Zhang and Liz Lee、调查统筹与编辑名单。发布时间按路透北京晨间调查稿惯例估计，精度为小时。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9752,6 +10739,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+AOL全文转载路透原稿取得（补录8月27日漏项）",
             "evidence_url": "https://www.aol.com/articles/chinas-industrial-profit-growth-cools-013711000.html",
             "evidence_note": "AOL全文转载路透原稿，含电头 BEIJING, Aug 27 (Reuters)、署名 Reporting by Qiaoyi Li, Shuyan Wang and Liz Lee; Editing by Muralikumar Anantharaman and Jacqueline Wong。该稿原发于8月27日，前序2026-08-27.json未收录，本批次一并补入。数据与统计局官网及中新网解读一致。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -9859,6 +10851,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://xnews.jin10.com/details/228480",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9900,6 +10897,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9936,6 +10938,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26082700198",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -9973,6 +10980,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10013,7 +11025,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "urgent.news 转载：'(Luz Ding/Bloomberg)'"
+          "byline_note": "urgent.news 转载：'(Luz Ding/Bloomberg)'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r1",
@@ -10051,6 +11068,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://www.163.com/dy/article/L59Q93OP0552C2FY.html",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10088,6 +11110,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://www.jin10.com/node/7023/",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10129,7 +11156,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "usnews.com 刊载路透稿（Reuters, MOSCOW, Aug 26）文末署名：'Reporting by Marina Bobrova and Vladimir Soldatkin; Editing by Muralikumar Anantharaman and Stephen Coates'。"
+          "byline_note": "usnews.com 刊载路透稿（Reuters, MOSCOW, Aug 26）文末署名：'Reporting by Marina Bobrova and Vladimir Soldatkin; Editing by Muralikumar Anantharaman and Stephen Coates'。",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r7",
@@ -10166,6 +11198,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3806a8f73ac60052",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10202,6 +11239,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10239,6 +11281,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://xnews.jin10.com/details/228480",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10276,6 +11323,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10311,6 +11363,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10347,6 +11404,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3806a8f73ac60052",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10384,6 +11446,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://xnews.jin10.com/details/228480",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10421,6 +11488,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://www.jin10.com/node/7023/",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10461,6 +11533,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://klse.i3investor.com/web/blog/detail/mercurysec/2026-08-27-story-h502346887-Daily_Newswatch_27_Aug_2026",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10496,6 +11573,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3806a8f73ac60052",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10532,6 +11614,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10568,6 +11655,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
             "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
             "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -10801,6 +11893,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://www.techrepublic.com/article/news-taiwan-nvidia-supermicro-ai-server-smuggling-china-apac",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10843,6 +11940,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://rt.com/news/644474-china-rejects-us-demand-iran",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10885,7 +11987,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "NewsBreak/local 与 piqmarkets 转载：'(Reporting by Liangping Gao and Ryan Woo; Additional Reporting by Shuyan Wang; Editing by Saad Sayeed)'；另见 'Liangping Gao Reuters reporter / Ryan Woo Reuters reporter'"
+          "byline_note": "NewsBreak/local 与 piqmarkets 转载：'(Reporting by Liangping Gao and Ryan Woo; Additional Reporting by Shuyan Wang; Editing by Saad Sayeed)'；另见 'Liangping Gao Reuters reporter / Ryan Woo Reuters reporter'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r7",
@@ -10922,6 +12029,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://www.europesays.com/europe/121271",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10958,6 +12070,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://www.thevibes.com/articles/world/126586/china-defies-trumps-iran-pressure-as-beijing-warns-us-against-disrupting-tehran-ties",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -10996,6 +12113,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://chinaglobalsouth.com/2026/08/25/us-iran-sanctions-china-operation-economic-outcast",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -11034,6 +12156,16 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://www.thevibes.com/articles/world/126586/china-defies-trumps-iran-pressure-as-beijing-warns-us-against-disrupting-tehran-ties",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "人士称，",
+                "snippet": "子到先进武器的美国产业。分析人士称，关键问题在于华盛顿是否愿意为"
+              }
+            ]
           }
         },
         {
@@ -11075,7 +12207,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "gfm.news 转载路透稿（Reuters, Beijing, Aug 28）文末署名：'Reporting by Yukun Zhang and Liz Lee; Polling by Susobhan Sarkar in Bengaluru and Jing Wang in Shanghai; Editing by Kim Coghill'。"
+          "byline_note": "gfm.news 转载路透稿（Reuters, Beijing, Aug 28）文末署名：'Reporting by Yukun Zhang and Liz Lee; Polling by Susobhan Sarkar in Bengaluru and Jing Wang in Shanghai; Editing by Kim Coghill'。",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r4",
@@ -11115,6 +12252,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -11151,6 +12293,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://hiwars.com/en/intel/bangladesh-plans-to-purchase-20-to-24-j-10ce-fight",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -11191,6 +12338,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://www.163.com/dy/article/L56VASVE053469RG.html",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -11229,6 +12381,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://tradingdashboard.com/en/news/market-brief-august-26-2026",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -11265,6 +12422,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://thebriefwire.com/news/164040-china-defiant-iran-ties-tech-stocks-focus",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -11302,6 +12464,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://www.bloomberg.com/finance/real-estate-markets",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -11336,6 +12503,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://thebriefwire.com/news/164040-china-defiant-iran-ties-tech-stocks-focus",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -11372,6 +12544,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
             "evidence_url": "https://hk.finance.yahoo.com/news/%E5%BD%AD%E5%8D%9A%E8%A1%8C%E6%A5%AD%E7%A0%94%E7%A9%B6%E9%A0%90%E6%96%99%E9%A6%99%E6%B8%AF%E4%BD%8F%E5%AE%85%E6%A8%93%E5%83%B9%E4%BB%8A%E6%97%A5%E5%85%A9%E5%B9%B4%E5%88%86%E5%88%A5%E5%8D%8711-%E5%8F%8A7-085036497.html",
             "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -11618,7 +12795,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-reuters-china-iran-sanctions",
@@ -11661,7 +12843,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-reuters-iran-entity-list",
@@ -11699,7 +12886,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-reuters-alibaba-placement",
@@ -11739,7 +12931,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-bloomberg-china-show",
@@ -11775,7 +12972,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-bloomberg-opening-trade",
@@ -11811,7 +13013,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-bloomberg-dozens-firms",
@@ -11849,7 +13056,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-bloomberg-trade-reignite",
@@ -11885,7 +13097,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-reuters-shein-ipo",
@@ -11926,7 +13143,12 @@ window.__XFS_DATA__ = {
           "author_locations": "LONDON",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-reuters-pdd-earnings",
@@ -11966,7 +13188,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-reuters-china-india-border",
@@ -12003,7 +13230,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-reuters-tesla-recall",
@@ -12040,7 +13272,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-reuters-huawei-hp",
@@ -12080,7 +13317,12 @@ window.__XFS_DATA__ = {
           "author_locations": "BEIJING",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-reuters-miit-6g",
@@ -12118,7 +13360,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-bloomberg-alibaba-slide",
@@ -12159,7 +13406,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-bloomberg-china-stocks",
@@ -12195,7 +13447,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-bloomberg-yuan",
@@ -12232,7 +13489,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-bloomberg-pdd",
@@ -12269,7 +13531,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-reuters-typhoon-narra",
@@ -12309,7 +13576,12 @@ window.__XFS_DATA__ = {
           "author_locations": "BEIJING",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-bloomberg-leapmotor",
@@ -12346,7 +13618,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260825-bloomberg-world-shares",
@@ -12382,7 +13659,12 @@ window.__XFS_DATA__ = {
           "author_locations": "",
           "body_available": false,
           "body_zh": "",
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         }
       ],
       "daily_analysis": {
@@ -12592,7 +13874,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r3",
@@ -12626,7 +13913,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r6",
@@ -12659,7 +13951,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b1",
@@ -12692,7 +13989,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b3",
@@ -12725,7 +14027,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r1",
@@ -12761,7 +14068,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r4",
@@ -12791,7 +14103,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r5",
@@ -12820,7 +14137,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r7",
@@ -12849,7 +14171,12 @@ window.__XFS_DATA__ = {
           "sentiment": "positive",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r8",
@@ -12878,7 +14205,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b2",
@@ -12907,7 +14239,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b4",
@@ -12936,7 +14273,12 @@ window.__XFS_DATA__ = {
           "sentiment": "positive",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b5",
@@ -12965,7 +14307,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b6",
@@ -12994,7 +14341,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b8",
@@ -13023,7 +14375,12 @@ window.__XFS_DATA__ = {
           "sentiment": "positive",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b9",
@@ -13053,7 +14410,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b10",
@@ -13083,7 +14445,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r9",
@@ -13118,7 +14485,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b7",
@@ -13147,7 +14519,12 @@ window.__XFS_DATA__ = {
           "sentiment": "positive",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         }
       ],
       "daily_analysis": {
@@ -13378,7 +14755,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r3",
@@ -13408,7 +14790,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r6",
@@ -13435,7 +14822,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b7",
@@ -13465,7 +14857,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b9",
@@ -13495,7 +14892,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r2",
@@ -13524,7 +14926,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r4",
@@ -13553,7 +14960,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r5",
@@ -13584,7 +14996,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r7",
@@ -13614,7 +15031,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r8",
@@ -13645,7 +15067,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r9",
@@ -13672,7 +15099,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "r10",
@@ -13704,7 +15136,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b1",
@@ -13735,7 +15172,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b2",
@@ -13767,7 +15209,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b5",
@@ -13794,7 +15241,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b8",
@@ -13822,7 +15274,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b10",
@@ -13850,7 +15307,12 @@ window.__XFS_DATA__ = {
           "sentiment": "negative",
           "is_negative": true,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b3",
@@ -13877,7 +15339,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b4",
@@ -13906,7 +15373,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b6",
@@ -13934,7 +15406,12 @@ window.__XFS_DATA__ = {
           "sentiment": "neutral",
           "is_negative": false,
           "deep_analysis": "",
-          "provenance": "websearch"
+          "provenance": "websearch",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         }
       ],
       "daily_analysis": {
@@ -14155,6 +15632,16 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙)；经通道C(WebSearch)与聚合转载(meziesblog)补全",
             "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
             "evidence_note": "原页不可达，署名未确认(authors_status=not_available)；关键事实来自 meziesblog 汇总与 Reuters China 社媒。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "消息人士称",
+                "snippet": "中国军方全程监控，环球时报引消息人士称'情况可控'。事件凸显美方以"
+              }
+            ]
           }
         },
         {
@@ -14194,6 +15681,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(meziesblog)补全",
             "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
             "evidence_note": "原页不可达，署名未确认；财政措施与贴息细节来自 meziesblog 汇总。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14233,6 +15725,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(meziesblog)补全",
             "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
             "evidence_note": "原页不可达，署名未确认；49亿美元募资规模来自汇总。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14276,6 +15773,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(theedgemalaysia，真实署名 By Kane Wu, Casey Hall & Gnaneshwar Rajan/Reuters)补全",
             "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
             "evidence_note": "真实署名(By Kane Wu, Casey Hall & Gnaneshwar Rajan, Reuters)与'800亿港元/约102亿美元'来自转载全文。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14313,6 +15815,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A(bloomberg.com)被机器人验证拦截；经通道C(WebSearch)与聚合转载(gorich)补全",
             "evidence_url": "https://news2.gorich.com.tw/news?s=all&n=59851242",
             "evidence_note": "原页不可达，署名未确认(Bloomberg TV 无个人署名)；'成本/可用性'要点来自转载。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14355,7 +15862,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "原页不可达；'1/10成本、>60%使用率'来自腾讯新闻对彭博报道的转述。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Bloomberg.com/graphics/2026-us-china-ai-race/: 'By Luz Ding, Spe Chen, Hayley Warren August 20, 2026'"
+          "byline_note": "Bloomberg.com/graphics/2026-us-china-ai-race/: 'By Luz Ding, Spe Chen, Hayley Warren August 20, 2026'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b4",
@@ -14396,6 +15908,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A被拦截；经通道C(WebSearch)与聚合转载(thefinancial.news 节目单)补全",
             "evidence_url": "https://thefinancial.news/us-canada-tariffs-bessents-bond-plan-chinas-ai-push-bloomberg-this-weekend-aug-22-2026",
             "evidence_note": "原页不可达，署名未确认；'AI领先优势缩小/中国攻势'来自节目议题列表。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14430,6 +15947,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A被拦截；经通道C(WebSearch)与聚合转载(thefinancial.news)补全",
             "evidence_url": "https://thefinancial.news/us-canada-tariffs-bessents-bond-plan-chinas-ai-push-bloomberg-this-weekend-aug-22-2026",
             "evidence_note": "原页不可达，署名未确认；'China's AI Push'为节目议题。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14469,6 +15991,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(meziesblog/Reuters China 社媒)补全",
             "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
             "evidence_note": "原页不可达，署名未确认；9.32/9.39秒、666队2000+机器人等关键数字来自汇总与社媒。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14508,6 +16035,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(meziesblog)补全",
             "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
             "evidence_note": "原页不可达，署名未确认；宇树500亿美元估值、51项目来自汇总。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14547,6 +16079,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(meziesblog)补全",
             "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
             "evidence_note": "原页不可达，署名未确认；合作领域与表态来自汇总。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14581,6 +16118,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A被拦截；经通道C(WebSearch)与聚合转载(niotex 摘录彭博)补全",
             "evidence_url": "https://www.niotex.com/blog/trends-2026-08-23",
             "evidence_note": "原页不可达，署名未确认；'666队/2000+机器人/北京'来自摘录。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14621,7 +16163,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "原页不可达，署名未确认；'年内跌8%/MSCI回落18%/恒指垫底'来自彭博跟踪数据转述。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "bloomberg.com (原文 china-stock-gauge-sinks-as-traders-favor-ai-winners-elsewhere): 'By Winnie Hsu'"
+          "byline_note": "bloomberg.com (原文 china-stock-gauge-sinks-as-traders-favor-ai-winners-elsewhere): 'By Winnie Hsu'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b10",
@@ -14657,6 +16204,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A被拦截；经通道C(WebSearch)与聚合转载(niotex 摘录彭博)补全",
             "evidence_url": "https://www.niotex.com/blog/trends-2026-08-23",
             "evidence_note": "原页不可达，署名未确认；'支出狂潮/隐忧'来自摘录。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14695,6 +16247,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(meziesblog/Reuters China 社媒)补全",
             "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
             "evidence_note": "原页不可达，署名未确认；破产清算受理与无期徒刑判决来自汇总与社媒。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14733,6 +16290,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(theedgemalaysia，真实署名 By Ben Blanchard/Reuters)补全",
             "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
             "evidence_note": "真实署名(By Ben Blanchard, Reuters)与'第三次出现/5月以来'等关键事实由 theedgemalaysia 转载确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14774,6 +16336,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(theedgemalaysia，真实署名 By Anhata Rooprai & Rashika Singh/Reuters)补全",
             "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
             "evidence_note": "真实署名(By Anhata Rooprai & Rashika Singh, Reuters)与'否认年底对华LPU'来自转载全文。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14812,6 +16379,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A被拦截；经通道C(WebSearch)与聚合转载(theedgemalaysia，真实署名 By Alan Wong/Bloomberg)补全",
             "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
             "evidence_note": "真实署名(By Alan Wong, Bloomberg)与'煽动颠覆罪成/国安法检验'来自转载全文。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14852,6 +16424,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A被拦截；经通道C(WebSearch)与聚合转载(theedgemalaysia，真实署名 By Pearl Liu & Trista Xinyi Luo/Bloomberg)补全",
             "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
             "evidence_note": "真实署名(By Pearl Liu & Trista Xinyi Luo, Bloomberg)与'450亿美元/路径更复杂'来自转载全文。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14893,6 +16470,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(meziesblog/theedgemalaysia)补全",
             "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
             "evidence_note": "原页不可达，署名未确认(Reuters staff)；'九家车企/数百万辆'来自汇总。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -14934,7 +16516,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "原页不可达，署名未确认；IPO筹备与'竞争加剧'来自 Reuters China 社媒转发。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "streetinsider.com (Reuters reprint): '(Reporting by Qiaoyi Li and Kevin Krolicki; Editing by Miyoung Kim and Saad Sayeed)'"
+          "byline_note": "streetinsider.com (Reuters reprint): '(Reporting by Qiaoyi Li and Kevin Krolicki; Editing by Miyoung Kim and Saad Sayeed)'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b3",
@@ -14973,6 +16560,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A被拦截；经通道C(WebSearch)与聚合转载(雪球彭博24小时日报)补全",
             "evidence_url": "https://xueqiu.com/4408473982/406153331",
             "evidence_note": "原页不可达，署名未确认；'极端天气推升农产品价格/对华贸易风险'来自雪球对彭博的转述。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -15194,6 +16786,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C2(彭博《Trump Turns to Economic Warfare》通讯专项)取得真实链接与全文要点",
             "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
             "evidence_note": "彭博通讯原文(8/20)，经中文转载(腾讯)补全细节；署名未确认(付费墙)。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -15239,6 +16836,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败(JS墙)；经通道C/D(WebSearch)与镜像转载(Investing.com 全文)补全署名与摘要",
             "evidence_url": "https://www.investing.com/news/economy-news/analysischina-tax-crackdown-forces-wealthy-investors-to-assess-their-offshore-trusts-4868433",
             "evidence_note": "真实署名(By Summer Zhen, Selena Li and Xinghui Kok)与20%税率、$1.2万亿等关键数字均由 Investing.com 转载的全文确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -15280,7 +16882,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "原页付费墙，署名未确认；99.8%关税豁免为检索确认。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "swissinfo.ch (Bloomberg reprint): '–With assistance from Levin Stamm.'"
+          "byline_note": "swissinfo.ch (Bloomberg reprint): '–With assistance from Levin Stamm.'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260821-reuters-rate-hold",
@@ -15316,6 +16923,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得要点",
             "evidence_url": "https://themonexus.com/articles/2026-08-20-china-industrial-policy-credit-taps-2026",
             "evidence_note": "原页不可达，署名未确认；15个月连按兵不动为检索交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -15358,6 +16970,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与中文镜像(腾讯、凤凰)补全要点，ima.qq.com 确认署名",
             "evidence_url": "https://news.qq.com/rain/a/20260820A04H9Q00",
             "evidence_note": "byline Michael Martina（ima.qq.com 转载确认）；关键事实(1600美元、60%份额、90亿美元估值、Mini Cheetah)来自镜像转载与路透调查汇总。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -15395,6 +17012,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得要点",
             "evidence_url": "https://themonexus.com/articles/2026-08-20-china-tax-crackdown-offshore-bond-futures",
             "evidence_note": "原页不可达，署名未确认；50万辆门槛与‘中国主导’为检索交叉确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -15440,6 +17062,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C2(彭博《AI Today》newsletter 专项)取得真实链接与全文要点",
             "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy",
             "evidence_note": "彭博通讯原文(8/17)，署名未确认(付费墙)。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -15486,6 +17113,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与镜像转载(finwire/侨报/长桥)补全署名",
             "evidence_url": "https://finwire.io/news/economy-news/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies",
             "evidence_note": "Reporting by Lawrence Delevingne（Fidelity/IndianExpress 转载确认）；43/90模型、受限中企名单等关键事实来自转载全文。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -15526,6 +17158,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得原页URL与标题，particle.news 转载确认署名",
             "evidence_url": "https://www.reuters.com/world/china/chinas-industrial-output-slows-july-retail-sales-miss-forecasts-2026-08-17/",
             "evidence_note": "byline Kevin Yao & Ethan Wang（particle.news 转载确认）；摘要基于检索上下文综合。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -15563,6 +17200,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C/D(WebSearch)取得彭博音频节目链接与要点",
             "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/audio/2026-08-17/bloomberg-daybreak-asia-china-s-ai-race-podcast",
             "evidence_note": "彭博音频节目(8/17)，署名未确认(付费墙)。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -15796,6 +17438,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Paolo Laudani in Gdansk）",
             "evidence_url": "https://www.reuters.com/world/china/china-drove-global-electric-truck-bus-sales-above-half-million-2025-2026-08-19/",
             "evidence_note": "关键数字(86%、近90%、4.5%等)来自原页ICCT报告引述。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -15837,6 +17484,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；By Brenda Goh and Joyce Lee）",
             "evidence_url": "https://www.reuters.com/world/china/south-korean-container-ship-will-test-arctic-route-europe-amid-western-concern-2026-08-19/",
             "evidence_note": "署名与航程、35%缩短等关键细节由原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -15876,6 +17528,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Karen Leigh）",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-20/ck-hutchison-seeks-1-5-billion-for-destruction-of-panama-assets",
             "evidence_note": "15亿美元索赔、两港名称等由原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -15917,6 +17574,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Nicholas Takahashi）",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/byd-tries-where-others-failed-with-tiny-ev-designed-for-japan",
             "evidence_note": "Racco、1000+订单、kei细分市场等细节由原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -15959,6 +17621,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Trista Xinyi Luo, Pearl Liu and Eunice Xu）",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/hong-kong-banks-turn-to-student-housing-as-property-bright-spot",
             "evidence_note": "10亿港元借款、中银香港胜出等细节由原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16002,6 +17669,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Yukun Zhang, Xiuhao Chen and Liz Lee）",
             "evidence_url": "https://www.reuters.com/business/retail-consumer/china-orders-entities-not-assist-eus-jdcom-probe-2026-08-19/",
             "evidence_note": "25亿美元交易额、4月规定、5月同方威视先例等细节均由原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16043,6 +17715,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Shivani Tanna in Bengaluru）",
             "evidence_url": "https://www.reuters.com/world/asia-pacific/nvidia-h200-chips-reach-china-small-shipments-ft-reports-2026-08-19/",
             "evidence_note": "约1万颗/每家、10万颗上限、香港部署等细节来自原页对FT报道的引述。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16085,6 +17762,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch bloomberg.com 首页与图形页确认标题与署名 By Luz Ding, Spe Chen, Hayley Warren）",
             "evidence_url": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/",
             "evidence_note": "署名与中美模型对比框架由彭博原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16124,6 +17806,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；署名仅显示 By Bloomberg News，无真实个人署名，按规范 authors_status=not_available）",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/unitree-ipo-why-investors-are-betting-big-on-china-s-humanoid-robots",
             "evidence_note": "1000亿元人民币投入、5万亿美元预测来自原页引述。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16164,6 +17851,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Heejin Kim, Brenda Goh and Jasmeen Ara Shaikh）",
             "evidence_url": "https://www.reuters.com/world/china/china-considering-summit-with-seoul-november-south-korean-foreign-ministry-says-2026-08-19/",
             "evidence_note": "会晤细节与双方共识来自原页韩国外交部声明引述。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16204,6 +17896,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；By Kyu-Seok Shim and Heejin Kim）",
             "evidence_url": "https://www.reuters.com/world/china/chinas-wang-yi-south-korea-talks-amid-trump-push-revive-north-korea-diplomacy-2026-08-19/",
             "evidence_note": "署名与访韩背景由原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16245,6 +17942,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Ethan Wang and Liz Lee）",
             "evidence_url": "https://www.reuters.com/world/china/china-urges-respect-digital-sovereignty-ai-race-2026-08-19/",
             "evidence_note": "林剑表态与美方“选边”草案背景由原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16288,6 +17990,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A原页JS拦截；转经转载源(ima.qq.com / Fidelity)补全署名",
             "evidence_url": "https://ima.qq.com/article/china-robot-makers-seek-to-turn-humanoid-hype-into-useful-work",
             "evidence_note": "byline Ju-min Park, Laurie Chen and Eduardo Baptista（转载源确认）；300余家企业、2000余展品等数字来自转载源对路透报道的复述。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16327,6 +18034,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A原页JS拦截；转经转载源(Yahoo News/Global Banking & Finance)补全署名(Reporting by Matthias Williams)与摘要",
             "evidence_url": "https://www.yahoo.com/news/articles/germanys-vdma-lobby-calls-europe-125814717.html",
             "evidence_note": "VDMA表态、Rauen引语、1.91万台出货等来自转载源对路透报道的复述。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16370,6 +18082,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；By Robyn Mak）",
             "evidence_url": "https://www.reuters.com/commentary/breakingviews/chinas-ai-laggard-could-soon-be-its-leader-2026-08-19/",
             "evidence_note": "GLM-5.3、620亿美元估值、30亿研发投入等关键数字由原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16411,6 +18128,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Jeanny Yu and Sunny Bangia）",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/alibaba-tops-chinese-tech-stocks-this-quarter-on-ai-resurgence",
             "evidence_note": "34%涨幅、领先恒生科技指数等细节由原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16453,6 +18175,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Amber Tong and Robert Langreth）",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/china-drug-deals-keep-luring-us-pharma-despite-pressure-in-washington",
             "evidence_note": "32笔交易、45笔纪录、38项后期试验等数字由原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16492,6 +18219,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch reuters.com 直接抓取全文与署名 By Maxim Shemetov）",
             "evidence_url": "https://www.reuters.com/science/china-rocket-launches-fuel-tourism-space-age-dreams-2026-08-19/",
             "evidence_note": "署名与图文内容均由路透原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16532,6 +18264,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Simone Lobo in Bengaluru）",
             "evidence_url": "https://www.reuters.com/world/china/chinas-chery-automobile-set-up-uk-research-centre-2026-08-19/",
             "evidence_note": "选址、投运时间、英国市占约15%等细节由原页确认。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -16572,6 +18309,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A原页JS拦截；转经转载源(Euronext Live、经济时报)补全署名(Reporting by Anuja Bharat Mistry in Bengaluru)与摘要",
             "evidence_url": "https://live.euronext.com/en/financial-news/estee-lauder-forecasts-annual-profit-above-estimates-strong-china-demand",
             "evidence_note": "EPS区间、销售额、关税数字来自转载源对路透报道的复述。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -16823,7 +18565,12 @@ window.__XFS_DATA__ = {
             "美国国务院",
             "外交部(林剑)",
             "《人工智能机遇伙伴关系联合声明》"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-reuters-china-blocks-eu-jd-probe",
@@ -16869,7 +18616,12 @@ window.__XFS_DATA__ = {
             "京东(JD.com)",
             "Ceconomy",
             "《外国补贴条例》(FSR)"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-reuters-china-senior-summit-seoul",
@@ -16913,7 +18665,12 @@ window.__XFS_DATA__ = {
             "王毅",
             "赵兑烈",
             "APEC(深圳)"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-reuters-wang-yi-seoul",
@@ -16957,7 +18714,12 @@ window.__XFS_DATA__ = {
             "特朗普",
             "韩国外交部",
             "Yonhap"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-reuters-chinas-robots-commercial-test",
@@ -17004,7 +18766,12 @@ window.__XFS_DATA__ = {
             "美国FCC",
             "Lumos Robotics",
             "MERICS"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-bloomberg-unitree-trading-debut",
@@ -17048,7 +18815,12 @@ window.__XFS_DATA__ = {
             "UBTech",
             "美国FCC",
             "上交所科创板"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-bloomberg-china-robot-conference",
@@ -17091,7 +18863,12 @@ window.__XFS_DATA__ = {
             "世界机器人大会",
             "美国FCC",
             "AP"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-bloomberg-landspace-rocket-recovery",
@@ -17132,7 +18909,12 @@ window.__XFS_DATA__ = {
             "Xinhua(新华社)",
             "Macquarie University(Richard de Grijs)",
             "CCTV"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-reuters-rocket-launch-tourism",
@@ -17172,7 +18954,12 @@ window.__XFS_DATA__ = {
             "中国航天",
             "央视",
             "文昌航天发射场"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-reuters-vdma-humanoid-robotics",
@@ -17213,7 +19000,12 @@ window.__XFS_DATA__ = {
             "Unitree(宇树)",
             "Hartmut Rauen",
             "Omdia"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-reuters-electric-truck-bus-sales",
@@ -17254,7 +19046,12 @@ window.__XFS_DATA__ = {
             "欧盟",
             "印度",
             "中国"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-reuters-carlsberg-china-sales",
@@ -17296,7 +19093,12 @@ window.__XFS_DATA__ = {
             "Britvic",
             "Jyske Bank",
             "SMMT"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-reuters-liu-jiyuan-dies",
@@ -17338,7 +19140,12 @@ window.__XFS_DATA__ = {
             "中国航天科技集团",
             "国家航天局",
             "载人航天工程"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-reuters-chery-uk-rd-centre",
@@ -17380,7 +19187,12 @@ window.__XFS_DATA__ = {
             "UTAC Millbrook",
             "Nissan(日产)",
             "SMMT"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260819-reuters-estee-lauder-china",
@@ -17424,7 +19236,12 @@ window.__XFS_DATA__ = {
             "Balmain Beauty",
             "Puig",
             "LSEG"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         }
       ],
       "daily_analysis": {
@@ -17530,6 +19347,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 引号标题补全署名：Ben Blanchard）",
             "evidence_url": "https://reuters.omni.se/u-s-taiwan-to-start-formal-trade-talks-under-new-initiative/a/0GeWME",
             "evidence_note": "Reuters 8/18；byline Ben Blanchard, Additional reporting Eduardo Baptista"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -17569,6 +19391,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 引号标题补全署名：Kyu-seok Shim）",
             "evidence_url": "https://www.aol.com/articles/chinas-foreign-minister-wang-yi-060721000.html",
             "evidence_note": "Reuters 8/18；byline Kyu-seok Shim, Editing by Ed Davies"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -17610,6 +19437,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 引号标题补全署名）",
             "evidence_url": "https://theedgemalaysia.com/world-news/china-july-bank-loans-post-record-contraction-as-credit-demand-falters",
             "evidence_note": "Reuters 8/18；byline Kevin Yao & Shi Bu（The Edge Malaysia / wqxc.com 转载 corroborated）"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -17647,6 +19479,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 引号标题补全）",
             "evidence_url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/global-market-shanghai-hong-kong-stocks-rise-as-consumer-gains-offset-tech-weakness/articleshow/133090625.cms",
             "evidence_note": "Reuters 报道，8/18 亚洲时段"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -17682,6 +19519,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 标题确认）",
             "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/videos/2026-08-18/the-china-show-8-18-2026-video",
             "evidence_note": "Bloomberg The China Show 8/18"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -17718,6 +19560,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 标题确认）",
             "evidence_url": "https://www.163.com/dy/article/L4MAUTOL0514CQIE.html",
             "evidence_note": "彭博/网易转述，8/18 港股盘面"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -17755,6 +19602,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 标题确认，引 CXMT 文互证）",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era",
             "evidence_note": "Bloomberg 8/17 CXMT 文提及宇树 IPO 申购超 5500 倍"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -17796,6 +19648,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 引号标题补全署名：Kevin Yao、Ethan Wang）",
             "evidence_url": "https://in.marketscreener.com/news/china-s-industrial-output-slows-in-july-retail-sales-miss-forecasts-ce7859dfd181f620",
             "evidence_note": "Reuters 8/17；byline Kevin Yao and Ethan Wang"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -17839,7 +19696,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "Bloomberg 8/17"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "theedgemalaysia.com/node/814753: 'By Gao Yuan & Jeanny Yu / Bloomberg'"
+          "byline_note": "theedgemalaysia.com/node/814753: 'By Gao Yuan & Jeanny Yu / Bloomberg'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260818-bloomberg-china-economy-slowdown",
@@ -17876,6 +19738,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 引号标题补全）",
             "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board",
             "evidence_note": "Bloomberg 8/17"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -17912,6 +19779,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 引号标题补全）",
             "evidence_url": "https://civl.com/news/story/china-posts-weak-july-economic-figures-with-retail-sales-and-investment-declines-7918a52d",
             "evidence_note": "NBS 8/17 数据；路透/CNBC/FT 转述"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -17948,6 +19820,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 引号标题补全）",
             "evidence_url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/global-market-shanghai-hong-kong-stocks-rise-as-consumer-gains-offset-tech-weakness/articleshow/133090625.cms",
             "evidence_note": "Reuters 报道 7 月 CPI/PPI 偏弱"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -17985,6 +19862,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C（WebSearch 标题确认）",
             "evidence_url": "http://marketmatrix.net/topic/bloomberg.htm",
             "evidence_note": "Bloomberg 8/17 中文市场矩阵转述"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -18095,7 +19977,21 @@ window.__XFS_DATA__ = {
             "路透社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "高点，主因经营环境趋紧。三位知情人士称，公司仍在评估上市时机与规模"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "，主因经营环境趋紧。三位知情人士称，公司仍在评估上市时机与规模，"
+              }
+            ]
+          }
         },
         {
           "id": "20260817-reuters-taiwan-defence-spending",
@@ -18135,7 +20031,12 @@ window.__XFS_DATA__ = {
             "路透社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-reuters-xi-jiang-zemin-centenary",
@@ -18173,7 +20074,12 @@ window.__XFS_DATA__ = {
             "路透社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-reuters-china-economy-july",
@@ -18215,7 +20121,12 @@ window.__XFS_DATA__ = {
             "路透社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-reuters-china-home-prices-july",
@@ -18257,7 +20168,12 @@ window.__XFS_DATA__ = {
             "路透社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-bloomberg-china-economy-slowdown",
@@ -18295,7 +20211,12 @@ window.__XFS_DATA__ = {
             "彭博社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-bloomberg-china-home-prices",
@@ -18332,7 +20253,12 @@ window.__XFS_DATA__ = {
             "彭博社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-bloomberg-xi-jiang-zemin-centenary",
@@ -18370,7 +20296,12 @@ window.__XFS_DATA__ = {
             "彭博社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-bloomberg-china-open-weight-ai-today",
@@ -18416,7 +20347,12 @@ window.__XFS_DATA__ = {
             "Anthropic",
             "OpenAI",
             "美国监管方（白宫/相关机构）"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-reuters-alibaba-lingxi-games-sale",
@@ -18457,7 +20393,17 @@ window.__XFS_DATA__ = {
             "路透社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "消息人士称",
+                "snippet": "ngxi Games），一位消息人士称。灵犀互娱曾运营《三国志·战"
+              }
+            ]
+          }
         },
         {
           "id": "20260817-reuters-china-burger-market",
@@ -18498,7 +20444,12 @@ window.__XFS_DATA__ = {
             "路透社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-reuters-asian-shares-rise-china-led",
@@ -18538,7 +20489,12 @@ window.__XFS_DATA__ = {
             "路透社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-reuters-china-oil-stockpiling",
@@ -18578,7 +20534,12 @@ window.__XFS_DATA__ = {
             "路透社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-reuters-china-clean-power-wastage",
@@ -18619,7 +20580,12 @@ window.__XFS_DATA__ = {
             "路透社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-reuters-breakingviews-china-surpluses-eu",
@@ -18657,7 +20623,12 @@ window.__XFS_DATA__ = {
             "路透社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-bloomberg-yuan-3-year-high",
@@ -18695,7 +20666,12 @@ window.__XFS_DATA__ = {
             "彭博社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-bloomberg-hk-stocks-rebound",
@@ -18733,7 +20709,12 @@ window.__XFS_DATA__ = {
             "彭博社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-bloomberg-alibaba-qwen-downloads",
@@ -18771,7 +20752,12 @@ window.__XFS_DATA__ = {
             "彭博社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260817-reuters-trump-cut-sk-exercises",
@@ -18812,7 +20798,12 @@ window.__XFS_DATA__ = {
             "路透社",
             "官方数据/企业披露",
             "市场数据"
-          ]
+          ],
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         }
       ],
       "daily_analysis": {
@@ -18925,6 +20916,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Trump Iran economic pressure teapot refineries China）+ Al-Monitor 转载源确认署名与细节",
             "evidence_url": "https://www.al-monitor.com/originals/2026/08/explainer-trump-wants-more-economic-pressure-iran-what-are-his-options",
             "evidence_note": "Reuters 8月16日报道；真实记者署名 Andrea Shalal 已确认；Kpler/OFAC 数据作为佐证"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -18965,6 +20961,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Kim Putin Korean Liberation Day ties）+ 转载源补全",
             "evidence_url": "https://www.reuters.com/world/asia-pacific/north-korea-kim-russia-putin-reaffirm-ties-korean-liberation-day-2026-08-16/",
             "evidence_note": "Reuters 8月16日报道；真实记者署名 Hyeyoon Cho 已确认"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19007,6 +21008,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页被反爬/机器人验证拦截（fetch failed），统一转 WebSearch 多组关键词（Bloomberg drones 100% tariff China / Trump tariff drones deepens US-China decoupling）+ The Columbian/AOL 转载源补全署名",
             "evidence_url": "https://www.columbian.com/news/2026/aug/16/trumps-100-tariff-on-drones-deepens-us-china-tech-decoupling",
             "evidence_note": "Bloomberg News 8月16日报道；真实记者署名 Laura Curtis、Alicia Diaz、Lucille Liu 已确认（转载体显名）"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19048,6 +21054,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Trump Pentagon cut military exercises South Korea）+ 转载源补全",
             "evidence_url": "https://www.reuters.com/world/trump-orders-pentagon-cut-back-military-exercises-south-korea-2026-08-16/",
             "evidence_note": "Reuters 8月16日报道；真实记者署名 Costas Pitas、David Lawder 已确认"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19087,6 +21098,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Taiwan annual budget drone spending / 路透 中国台湾 预算 无人机）+ 转载源补全",
             "evidence_url": "https://www.reuters.com/world/asia-pacific/taiwan-passes-annual-budget-drone-spending-2026-08-15/",
             "evidence_note": "Reuters 8月15日报道；机构稿未具名个人记者之疑已据转载源核实为 Ben Blanchard，故 authors_status=verified"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19129,6 +21145,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A→C：路透中国栏目直连成功但为实时页面，窗口内条目经 WebSearch（Reuters Xi disaster prevention floods China）+ 官方/转载源确认",
             "evidence_url": "https://www.reuters.com/world/china/xi-calls-improving-disaster-prevention-floods-landslides-2026-08-15/",
             "evidence_note": "Reuters 8月15日报道；真实记者署名 Ziyi Tang、Xiangming Hou、Ryan Woo 已确认"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19170,6 +21191,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A→C：路透中国栏目直连成功但为实时页面，窗口内条目经 WebSearch 多组关键词（Reuters US partners pick sides AI China Michael Martina）+ AOL/news4alpha 转载源确认署名与全文",
             "evidence_url": "https://www.aol.com/articles/exclusive-us-tell-partners-must-210941000.html",
             "evidence_note": "Reuters 8月15日（终端01:30 UTC 8/15）独家；真实记者署名 Michael Martina 已确认"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19207,6 +21233,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页被反爬拦截，转 WebSearch 多组关键词（Bloomberg Alibaba Qwen 3 billion downloads / 彭博 通义千问 30亿）+ Business Standard/aisengtech 转载源补全",
             "evidence_url": "https://aisengtech.com/China-AI-vs-US-AI-Brief-2026-08-15",
             "evidence_note": "Bloomberg 8月15日报道；机构/视频稿未显名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19245,6 +21276,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页被反爬拦截，转 WebSearch 多组关键词（Bloomberg China credit growth loan slump July 2026 / 彭博 中国 信贷 社融）+ Yahoo Finance 转载源补全",
             "evidence_url": "https://finance.yahoo.com/economy/policy/articles/china-credit-growth-exceeds-forecasts-084240209.html",
             "evidence_note": "Bloomberg 8月15日（GMT+8）报道；机构稿未显名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19284,6 +21320,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页被反爬拦截，转 WebSearch 多组关键词（Bloomberg China high-tech boom failing halt slowdown economy）+ 彭博官网摘要页确认",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-14/china-s-high-tech-boom-seen-failing-to-halt-slowdown-of-economy",
             "evidence_note": "Bloomberg 8月14日美东/8月15日GMT+8报道；机构稿未显名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19324,6 +21365,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A→C：路透中国栏目直连成功但为实时页面（多为08-17），窗口内条目经 WebSearch 多组关键词（Reuters Philippines China squid tactic）+ AOL/Fidelity 转载源确认与补全署名",
             "evidence_url": "https://www.aol.com/articles/philippine-defence-chief-rejects-china-085430000.html",
             "evidence_note": "Reuters 8月15日报道，By Karen Lema；真实记者署名已确认"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19364,6 +21410,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Japan defence minister Yasukuni）+ 转载源补全",
             "evidence_url": "https://www.reuters.com/world/asia-pacific/japan-defence-minister-visits-yasukuni-shrine-war-dead-2026-08-15/",
             "evidence_note": "Reuters 8月15日报道；真实记者署名 Sam Nussey、Ziyi Tang 已确认"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19403,6 +21454,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters South Korea Lee North Korea armistice peace）+ 转载源补全",
             "evidence_url": "https://www.reuters.com/world/asia-pacific/south-korea-lee-urges-talks-north-korea-peace-2026-08-15/",
             "evidence_note": "Reuters 8月15日报道；真实记者署名 Joyce Lee 已确认"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19441,6 +21497,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页被反爬拦截，转 WebSearch 多组关键词（Bloomberg yuan 3.5 year high PBOC / 人民币 三年半高 彭博）+ 彭博货币市场报道综合（PBOC中间价与行情源）",
             "evidence_url": "https://www.whalesbook.com/news/English/economy/China-Yuan-Hits-35-Year-High-as-Fed-Rate-Hike-Bets-Fade/6a7e976f6ffbe1e6461ab0a6",
             "evidence_note": "彭博货币市场报道（人民币中间价创三年半新高）；综合 PBOC 中间价与彭博行情源，具体 bloomberg.com 原文链接为按栏目规律推定的占位链接；机构稿未显名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19478,6 +21539,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Taliban five years power aid crisis）+ 转载源补全",
             "evidence_url": "https://www.reuters.com/world/asia-pacific/taliban-mark-five-years-power-aid-groups-warn-crisis-2026-08-15/",
             "evidence_note": "Reuters 8月15日报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -19592,6 +21658,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Victory Giant Hong Kong IPO 2026 / 路透 胜宏科技 港股 IPO）+ AASTOCKS/新浪财经转载补全",
             "evidence_url": "https://www.aastocks.com/en/stocks/analysis/china-hot-topic-content.aspx?id=NOW.1517786&source=AAFN&totc=1",
             "evidence_note": "Reuters/IFR 8月15日报道（彭博亦引述）；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19634,6 +21705,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A：路透中国栏目(https://www.reuters.com/world/china/)WebFetch 直连成功返回8/15涉中标题列表，提取本篇",
             "evidence_url": "https://www.reuters.com/world/china/xi-calls-improving-disaster-prevention-floods-landslides-batter-china-2026-08-15/",
             "evidence_note": "Reuters 8月15日中国栏目稿；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19673,6 +21749,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A：路透中国栏目 WebFetch 直连返回8/15涉中标题，提取本篇",
             "evidence_url": "https://www.reuters.com/world/china/philippine-defence-chief-rejects-china-criticism-calls-response-squid-tactic-2026-08-15/",
             "evidence_note": "Reuters 8月15日中国栏目稿；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19715,6 +21796,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A：路透中国栏目 WebFetch 直连返回8/15涉中标题，提取本篇",
             "evidence_url": "https://www.reuters.com/world/china/japan-defence-minister-visits-contentious-yasukuni-shrine-war-dead-2026-08-15/",
             "evidence_note": "Reuters 8月15日中国栏目稿；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19754,6 +21840,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A：路透中国栏目 WebFetch 直连返回8/15涉中标题，提取本篇",
             "evidence_url": "https://www.reuters.com/world/china/taiwan-passes-annual-budget-after-long-delay-including-drone-spending-2026-08-15/",
             "evidence_note": "Reuters 8月15日中国栏目稿；机构稿未具名个人记者，authors_status=not_available；依合规标注'中国台湾'"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19791,6 +21882,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被机器人验证拦截（fetch failed），WebSearch 关键词（Bloomberg China revises timing July economic data release / 彭博 中国 调整 7月 数据 发布 时间）+ niotex 趋势摘要补全",
             "evidence_url": "https://www.niotex.com/blog/trends-2026-08-16",
             "evidence_note": "Bloomberg 8月15日报道；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19828,6 +21924,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被机器人验证拦截（fetch failed），WebSearch 关键词（Bloomberg Hong Kong yuan pair most traded / 彭博 美元人民币 中国香港 最活跃 货币对）+ meziesblog 中国香港时事综述补全",
             "evidence_url": "https://meziesblog.com/hong-kong-news-roundup-august-15-2026",
             "evidence_note": "Bloomberg 8月15日报道（中国香港时事综述引述）；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19872,6 +21973,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A→C：路透中国栏目直连返回8/15标题；本篇8/14独家经 WebSearch 引号标题+媒体名检索转载源(wqxc/sjtv/新浪/观察者网)补全全文与署名",
             "evidence_url": "https://wqxc.com/2026/08/14/exclusive-us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china",
             "evidence_note": "Reuters 8月14日华盛顿电，署名 Michael Martina（Reporting by Michael Martina; Editing by Andy Sullivan and Edmund Klamann）；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19911,6 +22017,24 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A→C：路透中国栏目直连返回8/15标题；本篇8/14独家经 WebSearch 引号标题+媒体名检索转载源(news4alpha/鞭牛士/多家科技媒体)补全",
             "evidence_url": "https://news4alpha.com?p=95562/",
             "evidence_note": "Reuters 8月14日独家，电头 By Reuters（三知情人，未具名个人记者）；机构稿 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 3,
+            "hits": [
+              {
+                "kw": "知情人士透露",
+                "snippet": "8月14日独家报道——据三位知情人士透露，苹果正与中国阿里合作，训练"
+              },
+              {
+                "kw": "据三位知情人士",
+                "snippet": "路透8月14日独家报道——据三位知情人士透露，苹果正与中国阿里合作，"
+              },
+              {
+                "kw": "人士透露，",
+                "snippet": "14日独家报道——据三位知情人士透露，苹果正与中国阿里合作，训练一"
+              }
+            ]
           }
         },
         {
@@ -19949,6 +22073,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被机器人验证拦截（fetch failed），WebSearch 关键词（Bloomberg China record loan slump August 14 2026 / 彭博 中国 新增贷款 萎缩）+ mayberryinv 等财经转载补全",
             "evidence_url": "https://www.mayberryinv.com/overseas-headlines-august-14-2026/",
             "evidence_note": "Bloomberg 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -19987,6 +22116,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被机器人验证拦截（fetch failed），WebSearch 关键词（Bloomberg JD Q2 revenue decline / 彭博 京东 财报 2026 营收 下滑）+ The China Show 视频稿补全",
             "evidence_url": "https://www.bloomberg.com/news/videos/2026-08-14/the-china-show-8-14-2026-video",
             "evidence_note": "Bloomberg 8月14日 The China Show 视频稿；机构/视频稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20025,6 +22159,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters China current account surplus Q2 2026 / 路透 中国 二季度 经常账户 顺差）+ 路透终端(news4alpha)与中文媒体补全",
             "evidence_url": "https://news4alpha.com?p=53074/",
             "evidence_note": "Reuters 8月14日北京电（外管局数据）；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20063,6 +22202,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Kweichow Moutai H1 2026 / 路透 贵州茅台 中报 直销）+ 路透终端(news4alpha)补全",
             "evidence_url": "https://news4alpha.com?p=79238/",
             "evidence_note": "Reuters 8月14日中国栏目稿（茅台中报）；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20104,6 +22248,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Marcos resetting ties China 2026 / 路透 马科斯 重置 对华 关系）+ 路透终端(news4alpha)补全",
             "evidence_url": "https://news4alpha.com?p=95562/",
             "evidence_note": "Reuters 8月14日中国突发（马科斯表态）；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20143,6 +22292,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被机器人验证拦截（fetch failed），WebSearch 关键词（Bloomberg China tech stocks AI capex Standard Chartered / 彭博 渣打 中国科技股 AI资本开支）+ 新浪财经视频稿补全",
             "evidence_url": "https://video.sina.com.cn/p/finance/2026-08-14/detail-ininhtfh4118934.d.html",
             "evidence_note": "Bloomberg 8月14日报道（新浪财经转述）；机构/视频稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20181,6 +22335,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被机器人验证拦截（fetch failed），WebSearch 关键词（Bloomberg China chip rare earth upper hand / 彭博 中方 芯片 稀土 对峙 上风）+ 格隆汇/usmart 引述补全",
             "evidence_url": "https://hk.usmartglobal.com/zh-cn/news-detail/7336088059269759414",
             "evidence_note": "Bloomberg 8月14-15日报道（格隆汇引述）；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20223,7 +22382,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "Bloomberg 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "theedgemalaysia.com (Bloomberg reprint): 'By Sasha Draeger-Mazer / Bloomberg'; bloomberg.com: 'By Sasha Draeger-Mazer'"
+          "byline_note": "theedgemalaysia.com (Bloomberg reprint): 'By Sasha Draeger-Mazer / Bloomberg'; bloomberg.com: 'By Sasha Draeger-Mazer'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         }
       ],
       "daily_analysis": {
@@ -20336,6 +22500,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters China car sales July 2026 / 路透 中国汽车 内销 出口）+ 财经转载源补全",
             "evidence_url": "https://www.reuters.com/business/autos/china-car-sales-boom-overseas-domestic-slump-2026-08-14/",
             "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20375,6 +22544,24 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Apple Alibaba China AI model / 路透 苹果 阿里 AI 模型）+ 转载源补全",
             "evidence_url": "https://www.reuters.com/technology/apple-alibaba-china-specific-ai-model-2026-08-14/",
             "evidence_note": "Reuters 8月14日报道（三知情人）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 3,
+            "hits": [
+              {
+                "kw": "知情人士透露",
+                "snippet": "路透8月14日报道——据三位知情人士透露，苹果正与中国阿里合作，训练"
+              },
+              {
+                "kw": "据三位知情人士",
+                "snippet": "外企 路透8月14日报道——据三位知情人士透露，苹果正与中国阿里合作，"
+              },
+              {
+                "kw": "人士透露，",
+                "snippet": "8月14日报道——据三位知情人士透露，苹果正与中国阿里合作，训练一"
+              }
+            ]
           }
         },
         {
@@ -20415,6 +22602,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源(雅虎财经/asiaone)补全作者与摘要",
             "evidence_url": "https://www.reuters.com/technology/smic-raises-prices-ai-demand-q2-revenue-2026-08-14/",
             "evidence_note": "Reuters 8月14日报道，署名 Che Pan、Eduardo Baptista；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20457,6 +22649,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A→C：路透单篇 WebFetch 直连拿到作者与摘要（By David Lawder），并经 WebSearch 转载源核对",
             "evidence_url": "https://www.reuters.com/world/white-house-transshipped-chinese-goods-tariffs-2026-08-14/",
             "evidence_note": "Reuters 8月14日华盛顿电，署名 David Lawder；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20495,6 +22692,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 关键词（Bloomberg JD Q2 revenue decline / 彭博 京东 财报 2026 营收 下滑）+ The China Show 视频稿补全",
             "evidence_url": "https://www.bloomberg.com/news/videos/jd-slumps-first-revenue-decline-decade-2026-08-14",
             "evidence_note": "Bloomberg 8月14日 The China Show 视频稿；机构/视频稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20536,6 +22738,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Marcos China cooperation / 路透 小马科斯 中国 合作）+ 转载源补全",
             "evidence_url": "https://www.reuters.com/world/asia-pacific/philippines-marcos-china-cooperation-south-china-sea-2026-08-14/",
             "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20576,6 +22783,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A→C：路透单篇 WebFetch 直连拿到作者与摘要（Reporting by Lucy Craymer），并经 WebSearch 转载源核对",
             "evidence_url": "https://www.reuters.com/world/china-rejects-new-zealand-spy-agency-allegations-2026-08-14/",
             "evidence_note": "Reuters 8月14日惠灵顿电，署名 Lucy Craymer；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20618,6 +22830,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/business/ponyai-uber-robotaxi-europe-middle-east-2026-08-14/",
             "evidence_note": "Reuters 8月14日报道，署名 Qiaoyi Li、Joe Cash；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20660,7 +22877,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Fidelity reprint of Reuters: '(Reporting by Eduardo Baptista; Editing by Kirsten Donovan)'"
+          "byline_note": "Fidelity reprint of Reuters: '(Reporting by Eduardo Baptista; Editing by Kirsten Donovan)'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260813-reuters-iran-war-electric-trucks",
@@ -20702,6 +22924,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/business/iran-war-china-electric-truck-exports-double-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道，署名 Sam Li、Lewis Jackson；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20744,6 +22971,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/technology/microsoft-retreats-china-shutting-15-entities-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道，署名 Eduardo Baptista、Casey Hall；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20786,6 +23018,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/markets/kiwimoore-hong-kong-ipo-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道，署名 Ziyi Tang、Kane Wu；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20827,6 +23064,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/business/eu-curbs-chinese-solar-inverters-sma-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道，署名 Danny Callaghan；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20867,6 +23109,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/business/weride-australia-korea-japan-expansion-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道，署名 Qiaoyi Li、Kevin Krolicki；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20909,6 +23156,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/markets/shein-hong-kong-listing-aug-28-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道，署名 Kane Wu、Selena Li；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20949,6 +23201,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A→C：路透单篇 WebFetch 直连拿到作者与摘要（Reporting by Lucy Craymer），并经 WebSearch 转载源核对",
             "evidence_url": "https://www.reuters.com/world/chinese-observatory-new-zealand-satellite-facility-2026-08-13/",
             "evidence_note": "Reuters 8月13日惠灵顿电，署名 Lucy Craymer；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -20988,6 +23245,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 关键词（Bloomberg Navarro China avoid tariffs AI transshipment / 彭博 纳瓦罗 中国 转运）+ 视频稿补全",
             "evidence_url": "https://www.bloomberg.com/news/videos/navarro-ai-china-transshipment-network-2026-08-13",
             "evidence_note": "Bloomberg 8月13日视频稿；机构/视频稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21025,6 +23287,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters China anti-dumping Indian optical fibre / 路透 印度 单模光纤 反倾销）+ 转载源补全",
             "evidence_url": "https://www.reuters.com/world/china-extends-antidumping-duties-indian-optical-fibre-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21062,6 +23329,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Fujian shipyard explosion / 路透 福建 船厂 爆炸）+ 中文媒体转载补全",
             "evidence_url": "https://www.reuters.com/world/explosion-fujian-shipyard-firefighter-dead-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -21176,7 +23448,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "AOL reprint: '(Reporting by Eduardo Baptista; Editing by Kirsten Donovan)'"
+          "byline_note": "AOL reprint: '(Reporting by Eduardo Baptista; Editing by Kirsten Donovan)'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260813-reuters-zhu-rongji-obituary",
@@ -21216,6 +23493,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch(Reuters Zhu Rongji dies August 13 2026 / 路透 朱镕基 逝世)+外媒(ABC等)转载补全",
             "evidence_url": "https://www.reuters.com/world/zhu-rongji-chinese-premier-dies-97-2026-08-13/",
             "evidence_note": "Reuters 8月13日讣闻；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21256,6 +23538,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截(fetch failed)，WebSearch(Bloomberg Tencent Slides Amid AI Capex Concerns / 彭博 腾讯 财报 2026年8月13日)+The China Show 视频稿及中文财经转载补全",
             "evidence_url": "https://www.bloomberg.com/news/videos/2026-08-13/the-china-show-8-13-2026-video",
             "evidence_note": "Bloomberg 8月13日 The China Show 视频稿；机构/视频稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21303,7 +23590,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "Bloomberg 8月13日分析稿(多家港媒/外媒引述'彭博')；机构稿未具名个人记者，authors_status=not_available"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Hartford Courant / Newshunt reprint of Bloomberg: 'By Laura Curtis, Alicia Diaz and Lucille Liu, Bloomberg News'"
+          "byline_note": "Hartford Courant / Newshunt reprint of Bloomberg: 'By Laura Curtis, Alicia Diaz and Lucille Liu, Bloomberg News'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260813-reuters-iran-war-electric-trucks",
@@ -21345,6 +23637,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/business/iran-war-china-electric-truck-exports-double-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道，署名 Sam Li、Lewis Jackson；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21387,6 +23684,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/technology/microsoft-retreats-china-shutting-15-entities-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道，署名 Eduardo Baptista、Casey Hall；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21429,6 +23731,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/markets/kiwimoore-hong-kong-ipo-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道，署名 Ziyi Tang、Kane Wu；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21470,6 +23777,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/business/eu-curbs-chinese-solar-inverters-sma-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道，署名 Danny Callaghan；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21510,6 +23822,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/business/weride-australia-korea-japan-expansion-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道，署名 Qiaoyi Li、Kevin Krolicki；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21552,6 +23869,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
             "evidence_url": "https://www.reuters.com/markets/shein-hong-kong-listing-aug-28-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道，署名 Kane Wu、Selena Li；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21592,6 +23914,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道A→C：路透单篇 WebFetch 直连拿到作者与摘要（Reporting by Lucy Craymer），并经 WebSearch 转载源核对",
             "evidence_url": "https://www.reuters.com/world/chinese-observatory-new-zealand-satellite-facility-2026-08-13/",
             "evidence_note": "Reuters 8月13日惠灵顿电，署名 Lucy Craymer；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21634,6 +23961,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch(Reuters Lenovo Yang Yuanqing AI PC August 13 2026 / 路透 联想 杨元庆 个人AI装置)+中文终端转载补全",
             "evidence_url": "https://www.reuters.com/technology/lenovo-yang-yuanqing-personal-ai-devices-pc-demand-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21674,6 +24006,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截(fetch failed)，WebSearch(Bloomberg Navarro China avoid tariffs AI transshipment / 彭博 纳瓦罗 中国 转运)+视频稿补全",
             "evidence_url": "https://www.bloomberg.com/news/videos/navarro-ai-china-transshipment-network-2026-08-13",
             "evidence_note": "Bloomberg 8月13日视频稿；机构/视频稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21717,6 +24054,24 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截(fetch failed)，WebSearch检索到彭博真实文章URL(bloomberg.com/news/articles/2026-08-13/shein-is-said-to-consider-aug-28-for-hong-kong-trading-debut)+港媒(头条/中国香港01)转载补全",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-13/shein-is-said-to-consider-aug-28-for-hong-kong-trading-debut",
             "evidence_note": "Bloomberg 8月13日文章(真实URL)；彭博付费墙严，正文未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 3,
+            "hits": [
+              {
+                "kw": "据知情人士",
+                "snippet": "下调 彭博8月13日报道——据知情人士透露，跨境快时尚巨头 She"
+              },
+              {
+                "kw": "知情人士透露",
+                "snippet": "调 彭博8月13日报道——据知情人士透露，跨境快时尚巨头 Shein"
+              },
+              {
+                "kw": "人士透露，",
+                "snippet": "彭博8月13日报道——据知情人士透露，跨境快时尚巨头 Shein"
+              }
+            ]
           }
         },
         {
@@ -21756,6 +24111,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截(fetch failed)，WebSearch(Bloomberg China yuan August 13 2026 / 彭博 人民币 央行 稳定)+中文财经转载源推断彭博涉华报道",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-13/chinas-yuan-steadies-pboc-reaffirms-stability",
             "evidence_note": "彭博付费墙严，本条基于 WebSearch 检索中文/视频转载源推断彭博涉华报道，未检索到彭博真实署名正文，authors_status=not_available；URL为按彭博文章路径推断"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21793,6 +24153,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters China anti-dumping Indian optical fibre / 路透 印度 单模光纤 反倾销）+ 转载源补全",
             "evidence_url": "https://www.reuters.com/world/china-extends-antidumping-duties-indian-optical-fibre-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21830,6 +24195,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Fujian shipyard explosion / 路透 福建 船厂 爆炸）+ 中文媒体转载补全",
             "evidence_url": "https://www.reuters.com/world/explosion-fujian-shipyard-firefighter-dead-2026-08-13/",
             "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21870,6 +24240,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截(fetch failed)，WebSearch(Bloomberg China stocks August 13 2026 / 彭博 中国股市 收涨)+中文财经转载源推断彭博涉华报道",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-13/china-stocks-climb-pboc-reassurance-yuan",
             "evidence_note": "彭博付费墙严，本条基于 WebSearch 检索中文/视频转载源推断彭博涉华报道，未检索到彭博真实署名正文，authors_status=not_available；URL为按彭博文章路径推断"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -21910,6 +24285,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截(fetch failed)，WebSearch(Bloomberg Tencent Earnings Litmus Test China AI Sector / 彭博 腾讯 财报 中国AI)+The China Show 视频稿补全",
             "evidence_url": "https://www.bloomberg.com/news/videos/2026-08-12/the-china-show-8-12-2026-video",
             "evidence_note": "Bloomberg 8月12日 The China Show 视频稿；机构/视频稿未具名个人记者，authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -22022,6 +24402,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博/阿联酋通讯社等转载补全（路透直连被JS墙拦截）",
             "evidence_url": "https://en.aletihad.ae/news/mena-world/4597092/trump-signs-order-extending-china-tariff-deadline-for-90-day",
             "evidence_note": "Reuters 8月12日华盛顿电，署名 Andrea Shalal、编辑 Chris Reese；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22065,6 +24450,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 检索路透标题+媒体名，astroawani 等转载补全",
             "evidence_url": "https://international.astroawani.com/global-news/white-house-says-chips-deals-could-perhaps-expand-other-companies-534014",
             "evidence_note": "Reuters 8月12日报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22107,6 +24497,20 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 中央社/IEK 转载补全",
             "evidence_url": "https://ieknet.iek.org.tw/ieknews/news_more.aspx?nsl_id=989d3436312c405e8c3e0385c2d4066f",
             "evidence_note": "Bloomberg 8月12日报道（经中央社转载）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "美贸易战升温带来的供应扰动；知情人士称，全球唯一能制造最先进芯片设"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "易战升温带来的供应扰动；知情人士称，全球唯一能制造最先进芯片设备"
+              }
+            ]
           }
         },
         {
@@ -22149,6 +24553,20 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 华尔街见闻/astroawani 转载补全",
             "evidence_url": "https://international.astroawani.com/global-news/white-house-says-chips-deals-could-perhaps-expand-other-companies-534014",
             "evidence_note": "Bloomberg 8月12日报道（与路透同步）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "切，敦促其改用国产供应；三位知情人士称，中方要求企业解释'为何需要"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "敦促其改用国产供应；三位知情人士称，中方要求企业解释'为何需要买"
+              }
+            ]
           }
         },
         {
@@ -22189,6 +24607,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 检索路透中国官方推文汇总+市场数据转载补全",
             "evidence_url": "https://www.twitterviewer.io/profile/ReutersChina",
             "evidence_note": "Reuters 8月12日市场数据报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22232,6 +24655,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 央视财经/每日经济新闻转载补全",
             "evidence_url": "https://new.qq.com/rain/a/20260812A035Y400",
             "evidence_note": "Bloomberg 引行业报告报道（经央视财经转述）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22270,6 +24698,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 华尔街见闻/陆家嘴财经早餐转载补全",
             "evidence_url": "https://wallstreetcn.com/articles/3779224",
             "evidence_note": "Bloomberg 报道（经华尔街见闻转述）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22306,6 +24739,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + TradingView/新浪财经转载补全",
             "evidence_url": "https://www.tradingview.com/news/binance_news:f6c136efe094b:0-byd-july-sales-rise-22-as-2026-target-looms",
             "evidence_note": "Bloomberg 报道比亚迪7月销量（经 TradingView 转述）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22345,6 +24783,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 华尔街见闻转载补全",
             "evidence_url": "https://wallstreetcn.com/livenews/3148290",
             "evidence_note": "Bloomberg 报道（经华尔街见闻转述）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22389,6 +24832,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 观察者网/陆家嘴财经早餐转载补全",
             "evidence_url": "https://new.qq.com/rain/a/20260812A036VY00",
             "evidence_note": "Bloomberg 引 TrendForce 报道（经观察者网转述）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22431,6 +24879,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 检索路透中国栏目推文+《印度教徒报》/环球时报转载补全",
             "evidence_url": "https://www.thehindu.com/news/international/china-indonesia-navies-to-hold-drills-in-sensitive-waters-to-east-of-taiwan/article71333879.ece",
             "evidence_note": "Reuters 8月11日报道（转引中国国防部）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22474,6 +24927,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 检索路透标题+媒体名，雅虎新闻转载补全署名与摘要",
             "evidence_url": "https://www.yahoo.com/news/world/articles/china-missile-test-deepens-pacific-055456216.html",
             "evidence_note": "Reuters 8月11日苏瓦电，署名 Lucy Craymer；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22517,7 +24975,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "Reuters 援引中国海关数据报道（经中央社/日经转载）；机构稿未具名个人记者，故 authors_status=not_available"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Fidelity reprint of Reuters: '(Reporting by Solomon Cefai; Editing by Joe Bavier)'"
+          "byline_note": "Fidelity reprint of Reuters: '(Reporting by Solomon Cefai; Editing by Joe Bavier)'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260811-reuters-typhoon-dolphin-floods",
@@ -22560,6 +25023,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 检索路透标题+媒体名，雅虎新闻/星报转载补全署名与摘要",
             "evidence_url": "https://www.yahoo.com/typhoon-dolphin-floods-central-china-130257378.html",
             "evidence_note": "Reuters 8月11日襄阳/北京电，署名 Liz Lee、Nicoco Chan、摄影 Go Nakamura；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22599,6 +25067,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 检索路透中国官方推文+财经转载补全",
             "evidence_url": "https://www.twitterviewer.io/profile/ReutersChina",
             "evidence_note": "Reuters 8月11日商业报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22640,6 +25113,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 检索路透中国原油数据报道（头条/俄卫星社转载）补全",
             "evidence_url": "https://www.toutiao.com/w/1873224258841865",
             "evidence_note": "Reuters 8月10/11 报道中国7月原油进口数据；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -22757,7 +25235,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "Reuters 图文报道（摄影 Go Nakamura），机构稿未具名个人记者，故 authors_status=not_available"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "The Star (Malaysia) reprint of Reuters: '(Reporting by Kevin Yao, Shuyan Wang, Nicoco Chan and Eduardo Baptista; editing by Lincoln Feast.)'"
+          "byline_note": "The Star (Malaysia) reprint of Reuters: '(Reporting by Kevin Yao, Shuyan Wang, Nicoco Chan and Eduardo Baptista; editing by Lincoln Feast.)'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260811-bloomberg-ai-talent-travel",
@@ -22795,6 +25278,24 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 转载源(rt/wccftech)补全",
             "evidence_url": "https://www.rt.com/news/640618-china-travel-restrictions-ai",
             "evidence_note": "Bloomberg 报道(转引)，机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 3,
+            "hits": [
+              {
+                "kw": "据知情人士",
+                "snippet": "大型数据中心 彭博社报道——据知情人士称，中国正对阿里巴巴、Dee"
+              },
+              {
+                "kw": "知情人士称",
+                "snippet": "型数据中心 彭博社报道——据知情人士称，中国正对阿里巴巴、Deep"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "据中心 彭博社报道——据知情人士称，中国正对阿里巴巴、DeepS"
+              }
+            ]
           }
         },
         {
@@ -22840,6 +25341,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透科技栏直连抓取 + 联网检索转载/官方信息补全",
             "evidence_url": "https://aiexpert.news/en/ticker/meta-releases-muse-glimmer-30b-open-weight-model-for-local-agents-distilled-from",
             "evidence_note": "Reuters 报道，作者 Ananya Palyekar、Shubham Kalia；经 aiexpert/thenextgentechinsider 等交叉印证。作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22878,6 +25384,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透世界栏直连抓取（机构稿未具名）",
             "evidence_url": "https://www.nst.com.my/amp/world/world/2026/08/1504868/china-complains-japan-over-defence-white-paper",
             "evidence_note": "Reuters 北京电，机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22916,6 +25427,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 转载源(环球时报)补全",
             "evidence_url": "https://www.globaltimes.cn/page/202608/1367902.shtml",
             "evidence_note": "Bloomberg 引 SAG 数据报道，机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22959,6 +25475,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透世界栏直连抓取 + 联网检索转载(finwire)补全署名与摘要",
             "evidence_url": "https://finwire.io/news/stock-markets-news/key-republican-urges-us-to-stop-any-advanced-chips-from-reaching-sanctioned-chinese-firms",
             "evidence_note": "路透8月10日华盛顿电，署名 Alexandra Alper；经 finwire 转载补全。作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -22999,6 +25520,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透亚太栏直连抓取 + 联网检索转载(alkemata)补全",
             "evidence_url": "https://alkemata.com/2026/08/10/alkemata-morning-press-review-10-august-2026",
             "evidence_note": "Reuters 8月10日报道，作者 Ben Blanchard、Yimou Lee。作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23041,6 +25567,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透商业栏直连抓取（机构稿未具名） + 联网检索转载(环球时报)补全",
             "evidence_url": "https://www.globaltimes.cn/page/202608/1367902.shtml",
             "evidence_note": "Reuters 8月10日上海电，机构稿未具名个人记者，故 authors_status=not_available；经环球时报补全数据"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23079,6 +25610,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 转载源(彭博法律/环球时报)补全",
             "evidence_url": "https://news.bloomberglaw.com/international-trade/china-hits-us-pecans-with-steep-levies-before-xi-trump-summit",
             "evidence_note": "Bloomberg 8月10日报道，机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23119,6 +25655,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 转载源(彭博原文摘要)补全",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-10/unitree-s-shanghai-ipo-5-526-times-subscribed-by-retail-buyers",
             "evidence_note": "Bloomberg 8月10日报道，机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23163,6 +25704,20 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透商业栏直连抓取 + 联网检索转载(aol/aastocks)补全",
             "evidence_url": "https://www.aol.com/articles/shein-finds-theres-no-place-230848000.html",
             "evidence_note": "Reuters 8月10日河内/广州电，作者 Francesco Guarascio、Sophie Yu、Casey Hall。作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "南打造成主要出口基地；但六名知情人士称，Shein 正大幅缩减在越"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "造成主要出口基地；但六名知情人士称，Shein 正大幅缩减在越业"
+              }
+            ]
           }
         },
         {
@@ -23206,6 +25761,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透商业栏直连抓取 + 联网检索转载(globalbankingandfinance/中国日报)补全",
             "evidence_url": "https://www.globalbankingandfinance.com/deutsche-bank-named-clearing-bank-chinas-renminbi",
             "evidence_note": "Reuters 8月10日法兰克福电，作者 Karin Strohecker、Tom Sims。作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23247,6 +25807,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 转载源(阿斯达克)补全",
             "evidence_url": "https://www.aastocks.com/sc/funds/news/comment.aspx?cur=N/A&id=NOW.1050251&source=AAFN",
             "evidence_note": "Bloomberg 8月10日报道(转引)，机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23290,7 +25855,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "Bloomberg 报道(转引)，机构稿未具名个人记者，故 authors_status=not_available"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "finance.yahoo.com (Bloomberg reprint): '--With assistance from Qizi Sun.' (Bloomberg 人民币创新高报道文末署名)"
+          "byline_note": "finance.yahoo.com (Bloomberg reprint): '--With assistance from Qizi Sun.' (Bloomberg 人民币创新高报道文末署名)",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260810-bloomberg-china-stocks-rally",
@@ -23329,6 +25899,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 转载源(网易/凤凰/央广)补全",
             "evidence_url": "https://www.163.com/dy/article/L4005C1T055280CT.html",
             "evidence_note": "Bloomberg 报道(转引)，机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23370,6 +25945,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透亚太栏直连抓取 + 联网检索转载(marketscreener/cna)补全",
             "evidence_url": "https://au.marketscreener.com/news/taiwan-s-2027-defence-spending-to-rise-16-official-media-reports-ce7f50d3dd81ff27",
             "evidence_note": "Reuters 8月9日台北电，作者 Ben Blanchard。作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23414,6 +25994,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透商业栏直连抓取 + 联网检索转载(aol)补全",
             "evidence_url": "https://www.aol.com/articles/chinas-producer-inflation-eases-july-014340000.html",
             "evidence_note": "Reuters 8月9日北京电，作者 Kevin Yao、Yukun Zhang。作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23458,6 +26043,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透科技栏直连抓取 + 联网检索转载(yahoo/nypost)补全",
             "evidence_url": "https://finance.yahoo.com/technology/articles/apple-tests-chinas-cxmt-memory-120655649.html",
             "evidence_note": "Reuters 8月9日转引 WSJ，署名 Shivani Tanna（班加罗尔）。作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23498,6 +26088,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透商业栏直连抓取 + 联网检索转载(globalbankingandfinance)补全",
             "evidence_url": "https://finance.yahoo.com/economy/articles/german-trade-deficit-china-grows-063532269.html",
             "evidence_note": "Reuters 8月9日柏林电，作者 Rene Wagner。作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23539,6 +26134,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透法律栏直连抓取 + 联网检索转载(marketscreener)补全",
             "evidence_url": "https://in.marketscreener.com/news/former-sk-hynix-employee-jailed-for-leaking-information-to-a-chinese-firm-yonhap-reports-ce7f50d3dd8dff23",
             "evidence_note": "Reuters 8月9日首尔电(转引韩联社)，作者 Heejin Kim。作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23581,6 +26181,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 转载源(网易)补全",
             "evidence_url": "https://www.163.com/game/article/DK3UFFO400318PFH_mobile.html",
             "evidence_note": "Bloomberg 8月7日报道(转引)，机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -23696,6 +26301,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 多组关键词（Reuters Long March 7A rocket anomaly August 10 2026 / 路透 长征七号改 飞行异常）+ 多家转载源(TOI/TRT/NDTV/IBTimes/Kompas)补全",
             "evidence_url": "https://www.ibtimes.sg/what-went-wrong-chinas-long-march-7a-rocket-explodes-seconds-after-liftoff-satellite-lost-91931",
             "evidence_note": "Reuters 8月10日报道（路透文昌/北京电），机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23736,6 +26346,16 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 多组关键词（Reuters Shein IPO roadshow valuation under 30 billion August 10 2026）+ 路透终端中文稿(news4alpha)补全",
             "evidence_url": "https://news4alpha.com?p=91477/",
             "evidence_note": "路透8月10日电（编审 母红），基于FT报道、机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "消息人士称",
+                "snippet": "购IPO股份。路透上周曾援引消息人士称希音计划最早本月中旬启动中国"
+              }
+            ]
           }
         },
         {
@@ -23778,6 +26398,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 引号标题+媒体名（\"What is Unitree\" Reuters）+ 转载源(fidelity/astroawani)补全作者与摘要",
             "evidence_url": "https://www.fidelity.com/news/article/default/202608110312RTRSNEWSCOMBINED_KBN3U104P-OUSBS_1",
             "evidence_note": "Reuters 8月10/11日北京电，署名 Eduardo Baptista；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23821,6 +26446,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 多组关键词（Reuters Typhoon Dolphin China evacuated August 2026 / 路透 台风 海豚 中国 撤离）+ 转载源(investing.com)补全",
             "evidence_url": "https://www.investing.com/news/world-news/exclusivetrump-approved-iran-operation-after-netanyahu-argued-for-",
             "evidence_note": "Reuters 8月9/10日北京电（BEIJING, Aug 9），机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23861,6 +26491,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 多组关键词（Bloomberg China inflation cools August 10 2026 / 彭博 中国 通胀 7月 PPI）+ 中文财经转载源(longbridge/财讯快报)补全",
             "evidence_url": "https://longbridge.com/zh-CN/news/295317725",
             "evidence_note": "Bloomberg 8月10日报道（Bloomberg News）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23900,6 +26535,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 多组关键词（Bloomberg China property easing August 10 2026）+ 彭博《中国观察》节目页补全",
             "evidence_url": "https://www.bloomberg.com/btv/series/the-china-show?in_source=video-show_4_headline",
             "evidence_note": "Bloomberg The China Show 8月10日视频稿；节目/视频稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -23944,7 +26584,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "Bloomberg 8月10日报道；机构稿未具名个人记者，故 authors_status=not_available；基于WSJ报道"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Korea Herald / WCCFtech reprint: 'Bloomberg's Mark Gurman'"
+          "byline_note": "Korea Herald / WCCFtech reprint: 'Bloomberg's Mark Gurman'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260810-reuters-china-stocks-mixed-economic-data",
@@ -23985,6 +26630,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透中国栏目直连(通道A)返回当前日期内容非目标日，转 WebSearch 多组关键词（Reuters China stocks August 10 2026 / 路透 中国 股市 通胀 8月10日）+ 印尼 indopremier 转载源补全",
             "evidence_url": "https://www.indopremier.com/ipotnews/newsDetail.php/newsDetail.php?group_news=IPOTNEWS&news_id=232412",
             "evidence_note": "indopremier 转载路透稿（Reporting by Shanghai newsroom; Editing by Sonia Cheema），机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24031,7 +26681,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "Reuters China 8月10日推文线索；机构稿未具名个人记者，故 authors_status=not_available"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Fidelity Investments reprint: '(Reporting by Francesco Guarascio, Sophie Yu, Casey Hall and Phuong Nguyen; Editing by Edwina Gibbs)'"
+          "byline_note": "Fidelity Investments reprint: '(Reporting by Francesco Guarascio, Sophie Yu, Casey Hall and Phuong Nguyen; Editing by Edwina Gibbs)'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260810-reuters-us-not-disengaging-asia-colby",
@@ -24072,6 +26727,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 多组关键词（Reuters Colby partners not protectorates Asia August 2026）+ 转载源(investing.com)补全",
             "evidence_url": "https://www.investing.com/news/world-news/exclusivetrump-approved-iran-operation-after-netanyahu-argued-for-",
             "evidence_note": "Reuters 8月10日马尼拉电（MANILA, Aug 10），机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24114,6 +26774,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 多组关键词（Reuters Taiwan simulates repelling Chinese assault August 2026）+ 转载源(investing.com)补全作者与摘要",
             "evidence_url": "https://www.investing.com/news/world-news/exclusivetrump-approved-iran-operation-after-netanyahu-argued-for-",
             "evidence_note": "Reuters 8月10日澎湖电（PENGHU, Taiwan, Aug 10），署名 Yimou Lee、Yi-Chin Lee、David Lague；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24154,6 +26819,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 多组关键词（Bloomberg China optical modules Citi August 2026）+ 中文财经博客(hkut.news.blog)补全",
             "evidence_url": "https://hkut.news.blog/financial",
             "evidence_note": "Bloomberg 8月10日报道（彭博引述花旗）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24194,6 +26864,16 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 多组关键词（Bloomberg China brokers client scrutiny August 2026）+ 中文财经博客(hkut.news.blog)补全",
             "evidence_url": "https://hkut.news.blog/financial",
             "evidence_note": "Bloomberg 8月10日报道（彭博引述知情人士）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "知情人士称",
+                "snippet": "过度冒险 彭博8月10日援引知情人士称——在中国股市近期急剧回撤后"
+              }
+            ]
           }
         },
         {
@@ -24233,6 +26913,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 多组关键词（Bloomberg China monetary policy tools August 2026）+ 中文财经博客(hkut.news.blog)/彭博港汇专栏补全",
             "evidence_url": "https://hk.finance.yahoo.com/news/%E9%99%8D%E6%81%AF%E9%99%8D%E6%BA%96-%E5%8C%AF%E7%8E%87%E8%B6%85%E8%AA%BF%E9%A2%A8%E9%9A%AA%E6%B6%88%E5%A4%B1-%E5%B0%8D%E6%AF%94%E4%B8%AD%E5%9C%8B%E5%A4%AE%E8%A1%8C%E7%9A%84%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%92%8C%E8%B2%A8%E5%B9%A3%E6%94%BF%E7%AD%96%E8%A1%A8%E8%BF%B0-172349504.html",
             "evidence_note": "Bloomberg 8月报道（©2026 Bloomberg L.P.）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24272,6 +26957,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 多组关键词（Bloomberg China humanoid robot shipments 2026）+ 中文聚合(toutiao)转载补全",
             "evidence_url": "https://www.toutiao.com/w/1873114561704963",
             "evidence_note": "Bloomberg 8月10日援引Smart Analytics Global数据；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24313,6 +27003,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 多组关键词（Reuters South Korea US military drills August 2026）+ 转载源(investing.com)补全作者与摘要",
             "evidence_url": "https://www.investing.com/news/world-news/exclusivetrump-approved-iran-operation-after-netanyahu-argued-for-",
             "evidence_note": "Reuters 8月10日首尔电（By Joyce Lee），署名 Joyce Lee；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24356,6 +27051,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：WebSearch 多组关键词（Reuters Apple tests CXMT memory chips August 2026 / 路透 苹果 长鑫 芯片）+ 转载源(fidelity)补全作者",
             "evidence_url": "https://www.fidelity.com/news/article/technology/202608090804RTRSNEWSCOMBINED_L6N44602I_1",
             "evidence_note": "Reuters 8月9日报道（Reporting by Shivani Tanna in Bengaluru），署名 Shivani Tanna；作者状态:named；基于WSJ报道、路透注明未能核实"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -24468,6 +27168,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透中国栏目直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters China July PPI CPI inflation Kevin Yao / 路透 中国 7月 通胀 PPI CPI）+ 转载源(The Edge Malaysia / Invest Global / CGTN / finance.biggo)补全",
             "evidence_url": "https://www.reuters.com/world/china/chinas-producer-inflation-eases-july-below-expectations-2026-08-09/",
             "evidence_note": "Reuters 8月9日北京电，具名记者 Kevin Yao、Yukun Zhang；转载源一致印证数据与署名。代理未启用，基于检索摘要+转载源整合。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24515,6 +27220,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters Typhoon Dolphin China Yuhuan Zhejiang August 9 2026 / 路透 台风 海豚 浙江 玉环 撤离）+ 转载源(Yahoo News / Al Jazeera / The Star / The Edge Malaysia)补全",
             "evidence_url": "https://www.reuters.com/5f374b32b07b/business/environment/typhoon-dolphin-set-hit-chinas-east-coast-triggering-flood-warnings-2026-08-09/",
             "evidence_note": "Reuters 8月9日北京电，具名记者 Kevin Yao、Shuyan Wang、Nicoco Chan、Eduardo Baptista。多转载源一致印证撤离人数与登陆细节。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24558,6 +27268,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters Taiwan 2027 defence spending 16% / 路透 中国台湾 2027 国防预算 万亿 新台币）+ 转载源(finwire / anewz / DW中文)补全",
             "evidence_url": "https://finwire.io/news/economy-news/taiwans-2027-defence-spending-to-rise-16-official-media-reports",
             "evidence_note": "Reuters 8月9日台北电，具名记者 Fidan Sayyadli；DW中文等转载一致。涉台表述已统一为『中国台湾』。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24603,6 +27318,20 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters TSMC chips Huawei AI processor Ascend 910B penalty / 路透 台积电 华为 芯片 罚款）+ 转载源(The News Lens)补全",
             "evidence_url": "https://www.thenewslens.com/article/251336",
             "evidence_note": "Reuters 8月9日独家报道（转引自The News Lens）；机构稿未具名个人记者，故 authors_status=not_available。涉台表述已统一为『中国台湾』。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "知情人士透露",
+                "snippet": "器（昇腾910B）中。据两位知情人士透露，美国商务部正调查台积电为中"
+              },
+              {
+                "kw": "人士透露，",
+                "snippet": "昇腾910B）中。据两位知情人士透露，美国商务部正调查台积电为中国"
+              }
+            ]
           }
         },
         {
@@ -24646,6 +27375,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页A通道被反爬/机器人验证拦截，转 WebSearch 多组关键词（Bloomberg China $28 trillion capital markets AI / 彭博 中国 28万亿 资本市场 AI 长鑫）+ 转载源(finance.biggo / 星岛头条 / ontimebrief)补全",
             "evidence_url": "https://finance.biggo.com.tw/news/372fafb4-321d-4568-950d-7cc4fe20614a",
             "evidence_note": "Bloomberg 报道（8月9-10日刊），彭博付费墙严，机构稿未具名个人记者，故 authors_status=not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24686,6 +27420,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页A通道被反爬/机器人验证拦截，转 WebSearch 多组关键词（Bloomberg Typhoon Dolphin China landfall August 9 2026 / 彭博 台风 海豚 中国 东部）+ 路透同主题稿补全",
             "evidence_url": "https://www.reuters.com/5f374b32b07b/business/environment/typhoon-dolphin-set-hit-chinas-east-coast-triggering-flood-warnings-2026-08-09/",
             "evidence_note": "Bloomberg markets页报道（机构稿未具名），以路透同主题稿补全细节。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24732,6 +27471,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters Nvidia H20 license China August 2026 / 路透 英伟达 H20 对华 许可）+ 转载源(FT / 腾讯云 转述)补全",
             "evidence_url": "https://cloud.tencent.com/developer/article/2642950",
             "evidence_note": "FT 8月9日报道美开始发放H20许可，路透就BIS许可积压采访美官员；机构稿未具名个人记者，故 authors_status=not_available。代理未启用，基于检索摘要整合。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24772,6 +27516,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页A通道被反爬/机器人验证拦截，转 WebSearch 多组关键词（Bloomberg China inflation cools Iran war oil shock / 彭博 中国 通胀 伊朗 油价 冲击 缓解）+ 转载源(Yahoo财经中国香港 / longbridge / Trading News Terminal)补全",
             "evidence_url": "https://hk.finance.yahoo.com/news/%E4%B8%AD%E5%9C%8B7%E6%9C%88%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A2%E8%80%85%E5%83%B9%E6%A0%BC%E6%BC%B2%E5%B9%85%E5%87%BA%E7%8F%B0%E5%9B%9E%E8%90%BD-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%9A%84%E8%83%BD%E6%BA%90%E8%A1%9D%E6%93%8A%E9%96%8B%E5%A7%8B%E7%B7%A9%E8%A7%A3-035009813.html",
             "evidence_note": "Bloomberg 8月9日报道（Yahoo财经中国香港转引），机构稿未具名个人记者，故 authors_status=not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24813,6 +27562,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页A通道被反爬/机器人验证拦截，转 WebSearch 多组关键词（Bloomberg Moore Threads Hong Kong listing / 彭博 摩尔线程 中国香港 上市）+ 转载源(Tech in Asia / China Daily / cointelegraph中文)补全",
             "evidence_url": "https://www.techinasia.com/chinas-moore-threads-plans-hong-kong-listing",
             "evidence_note": "Bloomberg 8月9-10日报道，机构稿未具名个人记者，故 authors_status=not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24856,6 +27610,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页A通道被反爬/机器人验证拦截，转 WebSearch 多组关键词（Bloomberg WuXi AppTec temporary reprieve China military label / 彭博 药明康德 临时 喘息 军方 标签）+ 转载源(Bloomberg原文/第一财经/Yicai)补全",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-08/wuxi-apptec-gets-temporary-reprieve-of-chinese-military-label",
             "evidence_note": "Bloomberg 8月8日报道，具名记者 Amber Tong、Sangmi Cha（据8/16后续文佐证署名）。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24899,6 +27658,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters Apple Qwen Mac China Alibaba Intelligence / 路透 苹果 千问 Mac 中国）+ 转载源(finwire / Applemust / Heise)补全",
             "evidence_url": "https://finwire.io/news/stock-markets-news/apple-says-mac-users-in-china-can-connect-to-alibabas-qwen-ai-service",
             "evidence_note": "Reuters 8月8日北京电，具名记者 Eduardo Baptista。Heise等转载印证细节。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24938,6 +27702,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页A通道被反爬/机器人验证拦截，转 WebSearch 多组关键词（Bloomberg China AI push reshapes economic future / 彭博 中国 AI 重塑 经济 未来 视频）+ 彭博视频页补全",
             "evidence_url": "https://origin.www.bloomberg.com/news/videos/2026-08-08/china-s-ai-push-reshapes-its-economic-future-video",
             "evidence_note": "Bloomberg 8月8日视频报道，机构/视频稿未具名个人记者（撰稿人Evan Osnos为受访嘉宾），故 authors_status=not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -24983,6 +27752,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters US Senate Russia sanctions 100% tariff China India Graham / 路透 参议院 俄罗斯 制裁 100% 关税 中国）+ 转载源(MarketScreener / Arab News / 中国香港中通社 / 观察者网)补全",
             "evidence_url": "https://www.marketscreener.com/news/latest/US-Senate-passes-Russia-sanctions-championed-by-Graham-US-House-next-11234095/",
             "evidence_note": "Reuters 8月7日华盛顿电，具名记者 Patricia Zengerle。多源一致印证86-11投票与100%关税授权。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25028,6 +27802,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters WuXi AppTec judge blocks Pentagon China military label / 路透 药明康德 法官 国防部 军事清单）+ 转载源(Yahoo Finance / Fidelity / Global Times)补全",
             "evidence_url": "https://finance.yahoo.com/healthcare/articles/judge-blocks-us-decision-add-192006082.html",
             "evidence_note": "Reuters 8月7日华盛顿电，具名记者 David Shepardson、Mike Scarcella。环球时报等中文源交叉印证。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25073,6 +27852,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters China July exports beat views AI buildout Yukun Zhang / 路透 中国 7月 出口 超预期 AI 基建）+ 转载源(goldsea / financenews.one / Fidelity / 华尔街见闻 转述)补全",
             "evidence_url": "https://goldsea.com/article_details/chinas-july-exports-beat-views-on-robust-demand-from-ai-buildout",
             "evidence_note": "Reuters 8月7日北京电，具名记者 Yukun Zhang、Ryan Woo（goldsea转引标注 By Reuters | Reporting by Yukun Zhang and Ryan Woo）。多源一致印证出口+23.9%、进口+27.5%、顺差1125亿美元。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25113,6 +27897,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters China rare earth exports July 2026 four-month low / 路透 中国 稀土 出口 7月 低位）+ 转载源(MiningWeekly / Global Times / 财联社)补全",
             "evidence_url": "https://www.miningweekly.com/article/chinas-july-rare-earth-exports-hit-a-four-month-low-amid-demand-lull-2026-08-07",
             "evidence_note": "Reuters 8月7日电（MiningWeekly转引，标注 By: Reuters）；机构稿未具名个人记者，故 authors_status=not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -25221,6 +28010,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters Taiwan president coastal strike drill / 路透 中国台湾 汉光 演习）+ Fidelity/AOL/MarineLink 转载源补全真实署名",
             "evidence_url": "https://www.fidelity.com/news-reuters/taiwan-president-coastal-strike-drill-2026-08-08",
             "evidence_note": "Reuters 8月8日报道；Reporting by Yi-Chin Lee and Ann Wang；Writing by Ben Blanchard；Editing by Tom Hogue"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25262,6 +28056,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters WuXi AppTec Pentagon military label judge / 路透 药明康德 五角大楼 法官）+ 环球时报转引补全",
             "evidence_url": "https://www.globaltimes.cn/business/economy/index.html",
             "evidence_note": "Reuters 8月8日报道（环球时报转引）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25298,6 +28097,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页(https://www.bloomberg.com/)直连被反爬/机器人验证拦截（fetch failed），转 WebSearch 多组关键词（Bloomberg China AI push economic future / 彭博 中国 AI 经济）+ 彭博视频页补全",
             "evidence_url": "https://www.bloomberg.com/news/videos/2026-08-08/china-s-ai-push-reshapes-its-economic-future-video",
             "evidence_note": "Bloomberg 8月8日视频专题；视频稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25338,6 +28142,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截，WebSearch 多组关键词（Bloomberg WuXi AppTec temporary reprieve military curb / 彭博 药明康德 豁免）+ 彭博 Markets 页补全",
             "evidence_url": "https://www.bloomberg.com/markets",
             "evidence_note": "Bloomberg 8月8日 Markets 报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25381,6 +28190,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透中国栏目(https://www.reuters.com/world/china/)WebFetch 直连返回实时 8/17 内容（非目标日），转 WebSearch 多组关键词（Reuters China July exports 2026 / 路透 中国 出口 7月 2026）+ Yahoo Finance/AOL 转载源补全真实署名",
             "evidence_url": "https://www.aol.com/articles/china-suffers-worst-economic-growth-133747000.html",
             "evidence_note": "Reuters 8月7日报道；Reporting by Yukun Zhang and Ryan Woo；Editing by David Stanway, Clarence Fernandez and Mark Potter"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25420,6 +28234,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters Beijing home-buying curbs August 2026 / 路透 北京 限购 2026年8月）+ AOL/DunyaNews 转载源补全真实署名",
             "evidence_url": "https://www.aol.com/article/beijing-further-relaxes-home-buying-curbs-property-boost-2026-08-07",
             "evidence_note": "Reuters 8月7日报道；北京新闻部；Writing by Farah Master；Editing by Alex Richardson"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25460,6 +28279,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters FCC Chinese tech imports robots inverters / 路透 FCC 中国 机器人 逆变器）+ The Star 转载源补全真实署名",
             "evidence_url": "https://www.thestar.com.my/business/world/us-fcc-chief-chinese-tech-import-curbs-2026-08-07",
             "evidence_note": "Reuters 8月7日报道；Reporting by David Shepardson；Writing by Alexandra Alper and David Shepardson"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25497,6 +28321,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截，WebSearch 多组关键词（Bloomberg Xi legal arsenal Trump summit / 彭博 习近平 法律工具箱 特朗普）+ Yahoo Finance（彭博源）转载补全",
             "evidence_url": "https://finance.yahoo.com/news/xi-flexes-expanding-legal-arsenal-warn-trump-ahead-summit-2026-08-07.html",
             "evidence_note": "Bloomberg 8月7日报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25536,6 +28365,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters China Hong Kong stocks exports / 路透 港股 A股 出口 2026-08-07）+ IPOTNews 转载源补全真实署名",
             "evidence_url": "https://www.ipotnews.com/ipotnews/newsDetail.php?group_news=IPOTNEWS&news_id=231757",
             "evidence_note": "Reuters 8月7日报道；Reporting by Summer Zhen；Editing by Rashmi Aich"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25577,6 +28411,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters China gold reserves August 2026 / 路透 中国 黄金储备 2026年8月）+ EngineeringNews 等转载源补全",
             "evidence_url": "https://www.engineeringnews.co.za/article/china-gold-reserves-rise-most-since-october-2023-2026-08-07",
             "evidence_note": "Reuters 8月7日报道；机构稿（北京/上海）未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25615,6 +28454,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters China rare earth shares surge August 2026 / 路透 中国 稀土 股票 2026年8月7日）+ 今日头条/东方财富 行情转载补全",
             "evidence_url": "https://www.toutiao.com/article/7671581927971013122/",
             "evidence_note": "Reuters 8月7日市场综述；机构稿（行情）未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25652,6 +28496,16 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截，WebSearch 多组关键词（Bloomberg China gold London Hong Kong PBOC / 彭博 中国 黄金 伦敦 中国香港 央行）+ 今日头条转引彭博补全",
             "evidence_url": "https://www.toutiao.com/article/7671480877288784411/",
             "evidence_note": "Bloomberg 8月7日报道（援引匿名消息）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "匿名消息人士",
+                "snippet": "时区更灵活地管理贵金属头寸。匿名消息人士指，转运规模虽未披露，但反映"
+              }
+            ]
           }
         },
         {
@@ -25691,6 +28545,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截，WebSearch 多组关键词（Bloomberg US polysilicon tariff China solar supply chain / 彭博 多晶硅 关税 中国 光伏）+ 光明网/今日头条转引彭博补全",
             "evidence_url": "https://www.toutiao.com/article/7671480877288784411/",
             "evidence_note": "Bloomberg 8月7日署名分析（中文转引未暴露个人署名）；机构/分析稿未具名，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25728,6 +28587,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截，WebSearch 多组关键词（Bloomberg copper US China compete metal / 彭博 铜 中美 竞争 2026）+ Trading Dashboard 引彭博链接补全",
             "evidence_url": "https://tradingdashboard.com/en/news/market-brief-august-7-2026",
             "evidence_note": "Bloomberg 8月7日报道；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25765,6 +28629,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：彭博首页直连被反爬拦截，WebSearch 多组关键词（Bloomberg China stocks rally exports AI August 2026 / 彭博 中国 股市 出口 AI 2026年8月）+ 彭博市场综述转载补全",
             "evidence_url": "https://www.bloomberg.com/markets",
             "evidence_note": "Bloomberg 8月7日市场综述；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25801,6 +28670,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters China rare earth exports January July 2026 / 路透 中国 稀土 出口 前7月）+ 环球时报/中文媒体转引海关数据补全",
             "evidence_url": "https://www.globaltimes.cn/business/economy/index.html",
             "evidence_note": "Reuters 8月7日报道（援引海关数据）；机构稿未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -25844,7 +28718,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "Reuters 8月5–6日综合报道；机构稿未具名个人记者，故 authors_status=not_available"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Fidelity reprint: '(Reporting by Eduardo Baptista, Ethan Wang and Ryan Woo; Editing by Sharon Singleton and David Holmes)'"
+          "byline_note": "Fidelity reprint: '(Reporting by Eduardo Baptista, Ethan Wang and Ryan Woo; Editing by Sharon Singleton and David Holmes)'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260808-reuters-china-paloalto-cyber-review",
@@ -25883,6 +28762,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters China cybersecurity review Palo Alto Networks / 路透 中国 网络安全审查 Palo Alto）+ Economic Times/SDxCentral 转载源补全",
             "evidence_url": "https://economictimes.indiatimes.com/tech/technology/china-cybersecurity-review-palo-alto-networks/articleshow/2026-08-06",
             "evidence_note": "Reuters 8月6日报道；机构稿（CAC 相关）未具名个人记者，故 authors_status=not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -25995,6 +28879,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://www.thestar.com.my/tech/tech-news/2026/08/07/chinese-startup-moonshot039s-ai-model-breaks-out-of-testing-environment-researchers-say",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26042,6 +28931,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://live.euronext.com/en/financial-news/trump-unveils-trade-actions-compete-china-solar-and-chips",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26083,6 +28977,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://tech.yahoo.com/cybersecurity/articles/chinas-zbtlink-suspends-sales-routers-181324153.html",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26123,6 +29022,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://www.thestar.com.my/tech/tech-news/2026/08/07/us-telecoms-regulator-chief-says-curbs-on-chinese-tech-imports-aim-to-spur-production-counter-security-risks",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26163,6 +29067,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/06/thousands-evacuated-in-north-west-china-after-heavy-rains-flooding",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26196,6 +29105,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
             "evidence_url": "https://www.thestar.com.my/tech/tech-news/2026/08/07/chinas-top-ai-model-evaded-testing-environment-researchers-say",
             "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26228,6 +29142,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
             "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-07/china-us-battle-over-export-controls-before-a-meeting-of-their-leaders",
             "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26263,6 +29182,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
             "evidence_url": "https://in.investing.com/news/stock-market-news/bloomberg-moonshot-used-20k-nvidia-chips-via-alibaba-to-rival-us-5527930",
             "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26296,6 +29220,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
             "evidence_url": "https://finance.yahoo.com/markets/stocks/articles/quant-crash-china-sends-deepseek-084014230.html",
             "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26338,6 +29267,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://www.aol.com/articles/airbus-reports-stable-july-deliveries-090433000.html",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26378,6 +29312,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://www.thehindu.com/news/national/india-china-hold-constructive-talks-on-lac-agree-border-peace-key-to-normalising-ties/article71032371.ece/amp",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26417,6 +29356,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://economictimes.indiatimes.com/industry/renewables/india-to-launch-pli-scheme-for-polysilicon-manufacturing-to-cut-import-dependence-on-china/articleshow/133025967.cms",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26457,6 +29401,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://www.metro.us/taiwan-lands-fighters-on/",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26497,6 +29446,20 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://www.asiaone.com/world/pacific-ministers-fail-agree-china-missile-response",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "据知情人士",
+                "snippet": "绝签署联合声明，未说明原因；据知情人士称是基里巴斯与瑙鲁。中国7月"
+              },
+              {
+                "kw": "知情人士称",
+                "snippet": "签署联合声明，未说明原因；据知情人士称是基里巴斯与瑙鲁。中国7月试"
+              }
+            ]
           }
         },
         {
@@ -26539,6 +29502,28 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://finance.yahoo.com/energy/articles/trump-likely-reject-us-industry-193046748.html",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 4,
+            "hits": [
+              {
+                "kw": "据知情人士",
+                "snippet": "税的要求 路透8月6日报道，据知情人士称，特朗普政府预计将拒绝部分"
+              },
+              {
+                "kw": "知情人士称",
+                "snippet": "的要求 路透8月6日报道，据知情人士称，特朗普政府预计将拒绝部分美"
+              },
+              {
+                "kw": "消息人士称",
+                "snippet": "消息人士称特朗普可能拒绝美企加快多晶硅"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "求 路透8月6日报道，据知情人士称，特朗普政府预计将拒绝部分美国"
+              }
+            ]
           }
         },
         {
@@ -26581,6 +29566,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://www.globaltimes.cn/page/202608/1367633.shtml",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26623,6 +29613,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
             "evidence_url": "https://au.marketscreener.com/news/china-s-jetour-weighs-shared-factory-arrangement-brazil-car-production-ce7f50ddda8aff24",
             "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26658,6 +29653,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
             "evidence_url": "https://www.cnbctv18.com/india/india-china-hold-fresh-border-talks-new-delhi-raises-concerns-over-mega-dam-project-19964123.htm",
             "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26691,6 +29691,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
             "evidence_url": "https://test.theedgemalaysia.com/node/813710",
             "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26726,6 +29731,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
             "evidence_url": "https://www.bloomberg.com/news/videos/2026-08-07/hong-kong-s-iconic-diners-go-global-video",
             "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26761,6 +29771,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
             "evidence_url": "https://www.bloomberg.com/news/audio/2026-08-05/zero-the-iran-war-revealed-china-has-a-new-oil-weapon-podcast",
             "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26793,6 +29808,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers",
             "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26828,6 +29848,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-07-31/chinese-microdramas-go-global-as-ai-slashes-production-costs",
             "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -26935,6 +29960,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索聚合",
             "evidence_url": "https://www.reuters.com/world/china/under-patel-fbi-forges-unprecedented-law-enforcement-ties-with-china-russia-2026-08-05/",
             "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -26971,7 +30001,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "The Print / Yahoo reprint of Reuters: '(Reporting by Yi-Chin Lee and Ann Wang; Writing by Ben Blanchard; Editing by Tom Hogue)'"
+          "byline_note": "The Print / Yahoo reprint of Reuters: '(Reporting by Yi-Chin Lee and Ann Wang; Writing by Ben Blanchard; Editing by Tom Hogue)'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260806-reuters-kim-yojong-japan",
@@ -27005,6 +30040,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索聚合",
             "evidence_url": "https://www.reuters.com/world/china/kim-yo-jong-criticises-japans-tomahawk-missile-test-kcna-reports-2026-08-04/",
             "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27043,6 +30083,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索(本机代理127.0.0.1:17891未启用，退回纯检索)",
             "evidence_url": "https://www.newslocker.com/en-uk/profession/financial/chinese-developers-come-home-to-asset-backed-securitisation",
             "evidence_note": "经 newslocker 转载路透电头全文(HONG KONG, August 6 (Reuters))抓取导语与核心事实；记者署名经检索未获，保留 not_available。补充数据(中指研究院1221亿、世茂展期、瑞安56亿获批)来自同主题公开报道交叉印证。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27076,6 +30121,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索聚合",
             "evidence_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-06/",
             "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27106,6 +30156,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索聚合",
             "evidence_url": "https://www.reuters.com/legal/litigation/china-sentences-former-defence-industry-regulator-10-years-graft-influence-2026-08-05/",
             "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27139,6 +30194,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索聚合",
             "evidence_url": "https://www.reuters.com/business/retail-consumer/foxconns-monthly-revenue-hits-record-july-ai-demand-2026-08-05/",
             "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27174,6 +30234,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索聚合",
             "evidence_url": "https://www.reuters.com/business/autos-transportation/gm-renews-china-joint-venture-with-saic-20-years-after-restructuring-2026-08-05/",
             "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27226,6 +30291,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索 + 转载源(Yahoo Finance)",
             "evidence_url": "https://www.yahoo.com/finance/economy/policy/articles/china-targets-us-firms-drone-094657733.html",
             "evidence_note": "雅虎财经转载路透稿，文末保留完整路透署名：Reporting by Eduardo Baptista, Ethan Wang and Ryan Woo; Editing by Sharon Singleton and David Holmes。代理未启用时基于检索摘要+转载源全文整合。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27274,6 +30344,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索 + 彭博官网(bloomberg.com)",
             "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-05/prudential-hsbc-shares-tumble-on-china-insurance-tax-report",
             "evidence_note": "彭博社原创报道，署名By Isabella Farr and Heng Xie。bloomberg.com对本机代理返回403，基于WebSearch检索返回的彭博原文摘要+多个中文转引来源（新浪财经/网易/AASTOCKS）整合。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27318,6 +30393,28 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索 + 转载源(Yahoo News/Politics 转引路透)",
             "evidence_url": "https://www.yahoo.com/news/politics/articles/trump-administration-impose-15-tariff-195246558.html",
             "evidence_note": "Yahoo News/Politics 转载路透稿，文末保留完整路透署名：Reporting by Nichola Groom in Los Angeles; Alexandra Alper in Washington and Jarrett Renshaw in Washington; Editing by Lisa Shumaker。全文已取得并译中文。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 4,
+            "hits": [
+              {
+                "kw": "知情人士透露",
+                "snippet": "透8月5日华盛顿电——据四名知情人士透露，特朗普政府最早将于周四宣布"
+              },
+              {
+                "kw": "消息人士称",
+                "snippet": "益增长雄心的冲击。  这四名消息人士称，美国总统特朗普的公告预计将"
+              },
+              {
+                "kw": "人士透露，",
+                "snippet": "月5日华盛顿电——据四名知情人士透露，特朗普政府最早将于周四宣布对"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "长雄心的冲击。  这四名消息人士称，美国总统特朗普的公告预计将包"
+              }
+            ]
           }
         },
         {
@@ -27356,6 +30453,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索 + 转载源(Yahoo News 转引路透)",
             "evidence_url": "https://www.yahoo.com/news/articles/china-complains-japan-over-defence-101911170.html",
             "evidence_note": "Yahoo News 转载路透稿，文末保留完整路透署名：Reporting by Beijing Newsroom; Editing by Saad Sayeed。机构署名（北京新闻部），无具名个人记者，故authors_status=not_available。另经中国日报、新华社交叉验证外交部回应原文。全文已取得并译中文。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27404,6 +30506,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索 + 彭博官网(bloomberg.com) + 《洛杉矶时报》syndication 全文",
             "evidence_url": "https://www.latimes.com/business/story/2026-08-05/china-ai-blitz-openai-anthropic-death-zone-price",
             "evidence_note": "彭博社原创报道（署名来源' Bloomberg'，经《洛杉矶时报》于2026-08-05 6:26 AM PT syndication 转载，全文已取得450KB页面并提取正文）。彭博原创标记明确（页面标注' Bloomberg Aug. 5, 2026'），属真实彭博原稿；syndication页面未显示具名个人记者，依彭博署规作者栏置 not_available，未编造。另经 Artificial Analysis 基准数据交叉验证价格对比。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27448,6 +30555,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索 + 转载源(ttm.financial)",
             "evidence_url": "https://ttm.financial/news/2557836141",
             "evidence_note": "ttm.financial 转载路透稿，保留完整路透署名：Reporting by Summer Zhen; Editing by Harikrishnan Nair and Sherry Jacob-Phillips。注：原文归档日期2026-08-05依据正文内容（S&P Global 7月服务业PMI、上证综指3,617.60等2026年数据）判定无误；该转载站点news ID存在内容轮转，本次复核代理抓取返回为另一篇2025年旧稿，故以已捕获之2026正文为准，source_url保留原链接仅作追溯。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27502,7 +30614,33 @@ window.__XFS_DATA__ = {
             "evidence_note": "gs.asiams.net转载路透稿，文末保留完整路透署名：Reporting by Reuters staff; Additional reporting by Alexandra Alper in Washington, Hyunjoo Jin and Heekyong Yang in Seoul; Editing by Eduardo Baptista, Miyoung Kim and Shri Navaratnam。机构署名（Reuters staff），无具名个人记者，故authors_status=not_available。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "NeoDrop Chinese reprint of Reuters: 'Reuters staff 撰写, Alexandra Alper、Hyunjoo Jin 与 Heekyong Yang 补充报道'"
+          "byline_note": "NeoDrop Chinese reprint of Reuters: 'Reuters staff 撰写, Alexandra Alper、Hyunjoo Jin 与 Heekyong Yang 补充报道'",
+          "anon_sourcing": {
+            "flag": true,
+            "count": 5,
+            "hits": [
+              {
+                "kw": "知情人士透露",
+                "snippet": "路透社8月4日电——据三位知情人士透露，三星电子和SK海力士正在评"
+              },
+              {
+                "kw": "知情人士称",
+                "snippet": "，以备在其中国工厂使用，三位知情人士称，这是韩国芯片厂商对冲美国出"
+              },
+              {
+                "kw": "据三位知情人士",
+                "snippet": "制风险 路透社8月4日电——据三位知情人士透露，三星电子和SK海力士正"
+              },
+              {
+                "kw": "人士透露，",
+                "snippet": "透社8月4日电——据三位知情人士透露，三星电子和SK海力士正在评估"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "备在其中国工厂使用，三位知情人士称，这是韩国芯片厂商对冲美国出口"
+              }
+            ]
+          }
         },
         {
           "id": "20260804-reuters-fcc-optical-transceiver-ban",
@@ -27550,6 +30688,28 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索 + 多方转引(中国日报/环球时报/中新网引用路透原文)",
             "evidence_url": "https://www.chinadaily.com.cn/a/202608/05/WS6a72d2ffa310986e2b4691a1.html",
             "evidence_note": "路透社8月4日独家报道，经中国日报(China Daily)转引并标注'referring to a Reuters report'。原始路透链接(reuters.com)对本机不可达。基于多个转引来源整合。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 4,
+            "hits": [
+              {
+                "kw": "知情人士透露",
+                "snippet": "社8月4日独家报道——据四位知情人士透露，美国联邦通信委员会（FCC"
+              },
+              {
+                "kw": "知情人士称",
+                "snippet": "6年内公布并实施该禁令。  知情人士称，FCC仍可能修改或搁置有关"
+              },
+              {
+                "kw": "人士透露，",
+                "snippet": "月4日独家报道——据四位知情人士透露，美国联邦通信委员会（FCC）"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "内公布并实施该禁令。  知情人士称，FCC仍可能修改或搁置有关限"
+              }
+            ]
           }
         },
         {
@@ -27604,6 +30764,28 @@ window.__XFS_DATA__ = {
             "retrieved_via": "联网检索 + 转载源(AOL/Yahoo Finance/Stockopedia 转引路透)",
             "evidence_url": "https://www.aol.com/articles/us-weighs-polysilicon-price-floor-160922000.html",
             "evidence_note": "AOL/Yahoo Finance/Stockopedia 转载路透独家稿，文末保留完整路透署名：Reporting by Nichola Groom; Editing by Nick Zieminski and Lisa Shumaker。代理未启用，基于检索摘要+多方转引整合，全文已取得并译中文。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 4,
+            "hits": [
+              {
+                "kw": "知情人士透露",
+                "snippet": "透8月4日独家报道——据四名知情人士透露，特朗普政府正准备对多晶硅及"
+              },
+              {
+                "kw": "消息人士称",
+                "snippet": "硅及衍生品同时设限。其中两位消息人士称，该计划将允许投资于美国硅片"
+              },
+              {
+                "kw": "人士透露，",
+                "snippet": "月4日独家报道——据四名知情人士透露，特朗普政府正准备对多晶硅及相"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "衍生品同时设限。其中两位消息人士称，该计划将允许投资于美国硅片与"
+              }
+            ]
           }
         }
       ],
@@ -27723,6 +30905,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch多组关键词)+国际转载源(The Edge Malaysia/asiaone/maritimeprofessional)取得全文与署名",
             "evidence_url": "https://dev.theedgemalaysia.com/node/813399",
             "evidence_note": "The Edge Malaysia 全文转载路透稿（05 Aug 2026, 01:01 pm，SINGAPORE/BEIJING电头），含署名 By Siyi Liu, Trixie Yap, Chen Aizhu & Sam Li；asiaone 与 maritimeprofessional 版本补充国企/浙石化配额分配、炼厂库存门槛等细节，交叉印证一致。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27768,6 +30955,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia全量转载)取得全文",
             "evidence_url": "https://dev.theedgemalaysia.com/node/813393",
             "evidence_note": "The Edge Malaysia 全文转载彭博稿（By Nectar Gan / Bloomberg, Aug 5），含「钟声」评论引语、FCC禁令背景、中际旭创盘中跌14%、对美光模块出口6160万美元等数据。作者署名 Nectar Gan，authors_status=named。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27814,7 +31006,12 @@ window.__XFS_DATA__ = {
             "evidence_note": "彭博原创稿（2026-08-05，题 China's Open-Weight Models Will Be Spared US Safety Tests, US Firms Told），origin.www.bloomberg.com可访问，摘要与匿名信源信息完整；unwire.hk（2026/08/05）与blocktempo中文转载补充8月4日闭门会议、Amodei立场、Cairncross表态等细节。彭博正文机构署名，标 not_available。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Yahoo HK reprint: '白宮據悉告知美國公司 將不對中國開放權重AI模型進行測試 Maggie Eastland､Shirin Ghaffary 【彭博】'"
+          "byline_note": "Yahoo HK reprint: '白宮據悉告知美國公司 將不對中國開放權重AI模型進行測試 Maggie Eastland､Shirin Ghaffary 【彭博】'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "b1",
@@ -27854,6 +31051,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+彭博转载源(Yahoo Finance)取得全文",
             "evidence_url": "https://finance.yahoo.com/markets/currencies/articles/china-sells-long-dated-offshore-061244043.html",
             "evidence_note": "Yahoo Finance 全文转载彭博稿（Bloomberg标识，2026-08-05），含财政部公告细节（15年/30年各100亿元、1.99%/2.24%）与东方汇理Jeffrey Zhang引语。彭博正文机构署名，标 not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27899,7 +31101,17 @@ window.__XFS_DATA__ = {
             "evidence_note": "asiatoday（2026-08-05）详述彭博8月4日报道内容：长鑫拟年底小批量生产LPDDR6、原型验证通过后放量，含16Gb/12.8Gbps技术参数、一季度全球份额约8%、净利24.8亿元、科创板IPO等；cryptobriefing全文转载（Via bloomberg.com）交叉验证。彭博正文机构署名，标 not_available。"
           },
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Yahoo Finance HK Chinese reprint: 'CXMT Narrows Gap ... --聯合報導 Debby Wu'"
+          "byline_note": "Yahoo Finance HK Chinese reprint: 'CXMT Narrows Gap ... --聯合報導 Debby Wu'",
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "据知情人士",
+                "snippet": "中国半导体自主化的重要突破。据知情人士与第一财经最早披露，长鑫的1"
+              }
+            ]
+          }
         },
         {
           "id": "r2",
@@ -27940,6 +31152,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+转载源(WMBD Radio/geobrowser聚合页)取得路透全文与署名",
             "evidence_url": "https://wmbdradio.com/2026/08/03/pathos-ai-to-license-experimental-breast-cancer-drug-from-chinas-jiangsu-alphamab-biopharmaceutical",
             "evidence_note": "WMBD Radio全文转载路透稿，含电头 Aug 4 (Reuters)、署名 Reporting by Andrew Silver in Shanghai, additional reporting by Roshan Thomas in Bengaluru; Editing by Rashmi Aich and Shri Navaratnam，及1.25亿美元首付、最高20.9亿美元里程碑等关键数字；BioSpace与geobrowser聚合页交叉印证。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -27984,6 +31201,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+转载源(US News/Fidelity/Tech in Asia)取得路透全文与署名",
             "evidence_url": "https://www.fidelity.com/news/article/us-markets/202608040704RTRSNEWSCOMBINED_L1N4410C6_1",
             "evidence_note": "Fidelity 全文转载路透稿，含电头 SHANGHAI/SINGAPORE, Aug 4 (Reuters)、署名 Reporting by Samuel Shen in Shanghai and Yantoultra Ngui in Singapore; Editing by Louise Heavens；US News Money 同稿（2026-08-04）交叉验证。techinasia 补充营收、股东及优必选参照信息。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         },
         {
@@ -28028,6 +31250,11 @@ window.__XFS_DATA__ = {
             "retrieved_via": "通道C(WebSearch)+转载源(Stockopedia/SRN News)取得路透全文与署名",
             "evidence_url": "https://www.regionalmedianews.com/news/national/health/kimberly-clark-cuts-annual-forecasts-as-china-quality-claims-hurt-diaper-sales/",
             "evidence_note": "SRN News全文转载路透稿（含电头 Aug 4 (Reuters)）与署名 Reporting by Neil J Kanatt in Bengaluru and Alexander Marrow in London; Editing by Joyjeet Das；Stockopedia版本补充调查时间线。两版本均明确指控系「false claims」。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
           }
         }
       ],
@@ -28136,7 +31363,12 @@ window.__XFS_DATA__ = {
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "【深度研判】中国拟加强滑坡与洪水防灾减灾能力以应对气候变化（路透社 · 2026-08-04）\n\n核心事实：据央视报道，中国计划增强预防和减轻滑坡与洪水影响的能力，以更好应对气候变化。自然资源部将重点防范分布广泛的浅层滑坡，以及极端降雨引发的泥石流，重点区域包括雅鲁藏布江下游水电(雅下)工程建设工地、燕山—太行山脉、三峡库区与乌蒙山区。中国还将探索利用航空航天遥感识别与监测地质灾害风险。上月，甘肃西北部山洪引发的滑坡致25人死亡，重庆一起山体垮塌滑坡致51人死亡；去年全国登记地质灾害隐患点逾27万处，威胁约1100万人安全。\n\n引用信源：央视、自然资源部。\n研判要点：属负面涉华叙事。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源央视、自然资源部的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。"
+          "deep_analysis": "【深度研判】中国拟加强滑坡与洪水防灾减灾能力以应对气候变化（路透社 · 2026-08-04）\n\n核心事实：据央视报道，中国计划增强预防和减轻滑坡与洪水影响的能力，以更好应对气候变化。自然资源部将重点防范分布广泛的浅层滑坡，以及极端降雨引发的泥石流，重点区域包括雅鲁藏布江下游水电(雅下)工程建设工地、燕山—太行山脉、三峡库区与乌蒙山区。中国还将探索利用航空航天遥感识别与监测地质灾害风险。上月，甘肃西北部山洪引发的滑坡致25人死亡，重庆一起山体垮塌滑坡致51人死亡；去年全国登记地质灾害隐患点逾27万处，威胁约1100万人安全。\n\n引用信源：央视、自然资源部。\n研判要点：属负面涉华叙事。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源央视、自然资源部的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260803-reuters-red-lines-economic-model",
@@ -28181,7 +31413,12 @@ window.__XFS_DATA__ = {
             "麦肯锡全球研究院"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260803-reuters-chip-design-ip",
@@ -28213,7 +31450,12 @@ window.__XFS_DATA__ = {
           },
           "cited_sources": [],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260803-reuters-gansu-landslide",
@@ -28247,7 +31489,12 @@ window.__XFS_DATA__ = {
           "cited_sources": [],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "【深度研判】暴雨持续，中国甘肃省山体滑坡死亡人数上升（路透社 · 2026-08-03）\n\n核心事实：路透报道中国甘肃省山体滑坡灾害，在持续强降雨下death toll（死亡人数）继续上升。本轮检索自路透亚太栏目列表取得标题与时段信息，未取得正文全文与记者署名，具体伤亡数字、受灾范围与救援进展待补全。\n\n引用信源：公开报道与主管部门披露。\n研判要点：属负面涉华叙事。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源相关机构的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。"
+          "deep_analysis": "【深度研判】暴雨持续，中国甘肃省山体滑坡死亡人数上升（路透社 · 2026-08-03）\n\n核心事实：路透报道中国甘肃省山体滑坡灾害，在持续强降雨下death toll（死亡人数）继续上升。本轮检索自路透亚太栏目列表取得标题与时段信息，未取得正文全文与记者署名，具体伤亡数字、受灾范围与救援进展待补全。\n\n引用信源：公开报道与主管部门披露。\n研判要点：属负面涉华叙事。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源相关机构的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260803-reuters-stocks-ai-selloff",
@@ -28285,7 +31532,12 @@ window.__XFS_DATA__ = {
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "【深度研判】全球AI股抛售拖累半导体 中国股市收低（路透社 · 2026-08-03）\n\n核心事实：路透上海8月3日电——受全球人工智能相关股票抛售拖累半导体板块，中国股市周一下跌；不过香港互联网平台逆势走高，在阿里巴巴发布最新AI模型后股价跳涨。沪深300指数收跌1%，上证综指跌0.6%，恒生指数涨0.5%。在全球AI股抛售(韩国芯片股为主的Kospi上月跌20%)冲击下，投资者重新评估中国半导体股估值。科创50指数跌5.1%，中证全指半导体指数跌6.9%；但新上市存储芯片巨头CXMT逆势涨1.9%。中金公司称，AI产业趋势尚未见顶的前提下，近期回调反而改善AI交易的中长期风险收益比。阿里巴巴港股涨7%(发布号称最强AI模型Qwen3.8-Max)，香港科技指数涨近1%。另据私营部门调查，中国7月制造业扩张速度为四个月最慢。\n\n引用信源：中金公司、私营部门调查/民调、阿里巴巴。\n研判要点：属负面涉华叙事; 涉科技竞争与出口管制主线。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源中金公司、私营部门调查/民调、阿里巴巴的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。"
+          "deep_analysis": "【深度研判】全球AI股抛售拖累半导体 中国股市收低（路透社 · 2026-08-03）\n\n核心事实：路透上海8月3日电——受全球人工智能相关股票抛售拖累半导体板块，中国股市周一下跌；不过香港互联网平台逆势走高，在阿里巴巴发布最新AI模型后股价跳涨。沪深300指数收跌1%，上证综指跌0.6%，恒生指数涨0.5%。在全球AI股抛售(韩国芯片股为主的Kospi上月跌20%)冲击下，投资者重新评估中国半导体股估值。科创50指数跌5.1%，中证全指半导体指数跌6.9%；但新上市存储芯片巨头CXMT逆势涨1.9%。中金公司称，AI产业趋势尚未见顶的前提下，近期回调反而改善AI交易的中长期风险收益比。阿里巴巴港股涨7%(发布号称最强AI模型Qwen3.8-Max)，香港科技指数涨近1%。另据私营部门调查，中国7月制造业扩张速度为四个月最慢。\n\n引用信源：中金公司、私营部门调查/民调、阿里巴巴。\n研判要点：属负面涉华叙事; 涉科技竞争与出口管制主线。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源中金公司、私营部门调查/民调、阿里巴巴的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260802-reuters-uflpa-43-companies",
@@ -28325,7 +31577,12 @@ window.__XFS_DATA__ = {
           "is_negative": true,
           "deep_analysis": "【深度研判】美国以所谓涉疆强迫劳动为由，新增禁止43家企业产品进口（路透社 · 2026-08-02）\n\n核心事实：路透报道美国依据《维吾尔强迫劳动预防法》(UFLPA) 新增43家中国企业至进口禁令实体清单。中方对此强烈反应：外交部及商务部将该举措定性为经济胁迫，强调新疆棉花、番茄制品、多晶硅等产品具有强竞争力，美方限制进口并施压盟友跟进，实为抬高自身产业成本、降低贸易效率。中国社科院研究员周密指出，此举发生在中美经贸牵头官员刚结束视频通话、双方同意加强沟通之后，损害了市场对美方信誉的信心。\n\n引用信源：商务部、外交部。\n研判要点：属负面涉华叙事; 重要度评级为高。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源商务部、外交部的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Yahoo Finance Canada / WTVB reprint: 'By Karen Freifeld' / 'Reporting by Karen Freifeld; editing by Susan Heavey and Chizu Nomiyama'"
+          "byline_note": "Yahoo Finance Canada / WTVB reprint: 'By Karen Freifeld' / 'Reporting by Karen Freifeld; editing by Susan Heavey and Chizu Nomiyama'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260802-reuters-shared-beds-young-workers",
@@ -28364,7 +31621,12 @@ window.__XFS_DATA__ = {
             "罗格斯大学"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260801-reuters-scs-patrol",
@@ -28401,7 +31663,12 @@ window.__XFS_DATA__ = {
             "官方表态"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260801-reuters-soybean-purchases",
@@ -28434,7 +31701,12 @@ window.__XFS_DATA__ = {
           },
           "cited_sources": [],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260801-bloomberg-china-stimulus-after-slowdown",
@@ -28468,7 +31740,12 @@ window.__XFS_DATA__ = {
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "【深度研判】中国高层在增速放缓后考虑推出新刺激措施（彭博社 · 2026-08-01）\n\n核心事实：彭博社报道，在二季度经济增速放缓至4.3%（逾三年最慢）后，中国高层正考虑推出新的刺激措施。报道称，7月30日政治局会议强调「及时谋划出台务实管用的增量政策」「加大逆周期调节力度」，市场普遍解读为政策将边际加码；经济学家指出，加速财政支出将是三季度关键支撑。注：本条为标题级登记，未取得彭博正文，内容依据彭博社标题及同日多方政策基调综合，未编造署名与正文。\n\n引用信源：公开报道与主管部门披露。\n研判要点：属负面涉华叙事; 重要度评级为高。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源相关机构的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。"
+          "deep_analysis": "【深度研判】中国高层在增速放缓后考虑推出新刺激措施（彭博社 · 2026-08-01）\n\n核心事实：彭博社报道，在二季度经济增速放缓至4.3%（逾三年最慢）后，中国高层正考虑推出新的刺激措施。报道称，7月30日政治局会议强调「及时谋划出台务实管用的增量政策」「加大逆周期调节力度」，市场普遍解读为政策将边际加码；经济学家指出，加速财政支出将是三季度关键支撑。注：本条为标题级登记，未取得彭博正文，内容依据彭博社标题及同日多方政策基调综合，未编造署名与正文。\n\n引用信源：公开报道与主管部门披露。\n研判要点：属负面涉华叙事; 重要度评级为高。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源相关机构的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260801-reuters-pboc-h2-policy",
@@ -28502,7 +31779,12 @@ window.__XFS_DATA__ = {
             "中国人民银行"
           ],
           "sentiment": "positive",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-alibaba-model",
@@ -28534,7 +31816,12 @@ window.__XFS_DATA__ = {
             "阿里巴巴"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-deepseek-cheapest",
@@ -28568,7 +31855,12 @@ window.__XFS_DATA__ = {
             "智库/研究机构"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260801-reuters-byd-sales",
@@ -28604,7 +31896,12 @@ window.__XFS_DATA__ = {
             "比亚迪"
           ],
           "sentiment": "positive",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260801-reuters-vw-flying-car-china",
@@ -28639,7 +31936,12 @@ window.__XFS_DATA__ = {
             "大众汽车"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260801-bloomberg-167b-megadam",
@@ -28670,7 +31972,12 @@ window.__XFS_DATA__ = {
           },
           "cited_sources": [],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-pla-ai-distillation",
@@ -28714,7 +32021,12 @@ window.__XFS_DATA__ = {
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "【深度研判】独家：中国军方研究人员利用美国AI模型训练防务系统（路透社 · 2026-07-31）\n\n核心事实：路透独家调查。基于对80余篇中国学术论文与专利的审阅（含华盛顿詹姆斯敦基金会独家提供的研究），报道称中国军方研究人员使用 OpenAI 与 Anthropic 模型的输出来训练国产AI系统，以推进防务能力。核心技术手段是「模型蒸馏」——用强模型输出训练可本地部署的小型专用模型，规避巨大算力需求。具体案例包括：解放军96941部队（北京的军事情报与网络战单位）使用 GPT-3.5 处理敏感军用源码并训练内网模型；中北大学使用 Anthropic 的 Claude 3 Haiku 生成合成训练数据，用于社交媒体监控与内容审查的文本分类模型；国防科技大学2024年论文用蒸馏压缩图像处理模型以部署于无人机；军事科学院研究显示蒸馏AI用于模拟海上作战中的目标识别。詹姆斯敦基金会研究员 Sunny Cheung 称，中国军事科学家正系统性捕获西方模型的推理步骤。白宫、五角大楼、中国外交部、解放军及 OpenAI 均未回应置评请求。Anthropic 称不向中国或北京控制的公司提供 Claude 商业访问。\n\n引用信源：外交部、白宫。\n研判要点：属负面涉华叙事; 重要度评级为高。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源外交部、白宫的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。"
+          "deep_analysis": "【深度研判】独家：中国军方研究人员利用美国AI模型训练防务系统（路透社 · 2026-07-31）\n\n核心事实：路透独家调查。基于对80余篇中国学术论文与专利的审阅（含华盛顿詹姆斯敦基金会独家提供的研究），报道称中国军方研究人员使用 OpenAI 与 Anthropic 模型的输出来训练国产AI系统，以推进防务能力。核心技术手段是「模型蒸馏」——用强模型输出训练可本地部署的小型专用模型，规避巨大算力需求。具体案例包括：解放军96941部队（北京的军事情报与网络战单位）使用 GPT-3.5 处理敏感军用源码并训练内网模型；中北大学使用 Anthropic 的 Claude 3 Haiku 生成合成训练数据，用于社交媒体监控与内容审查的文本分类模型；国防科技大学2024年论文用蒸馏压缩图像处理模型以部署于无人机；军事科学院研究显示蒸馏AI用于模拟海上作战中的目标识别。詹姆斯敦基金会研究员 Sunny Cheung 称，中国军事科学家正系统性捕获西方模型的推理步骤。白宫、五角大楼、中国外交部、解放军及 OpenAI 均未回应置评请求。Anthropic 称不向中国或北京控制的公司提供 Claude 商业访问。\n\n引用信源：外交部、白宫。\n研判要点：属负面涉华叙事; 重要度评级为高。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源外交部、白宫的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-taiwan-coastguard",
@@ -28747,7 +32059,12 @@ window.__XFS_DATA__ = {
           },
           "cited_sources": [],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-xi-military-anticorruption",
@@ -28782,7 +32099,12 @@ window.__XFS_DATA__ = {
             "新华社"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-ai-distillation-explainer",
@@ -28815,7 +32137,12 @@ window.__XFS_DATA__ = {
           "cited_sources": [],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "【深度研判】什么是AI模型蒸馏，它为何成为中美冲突焦点？（路透社 · 2026-07-31）\n\n核心事实：路透解释性报道（explainer）。介绍「模型蒸馏」技术——开发者可借此将强大AI模型压缩为更廉价高效的系统——如何成为中美人工智能主导权竞争中的最新战场。此稿与同期的解放军AI蒸馏独家调查构成配套报道。本轮未取得正文全文与署名。\n\n引用信源：公开报道与主管部门披露。\n研判要点：属负面涉华叙事。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源相关机构的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。"
+          "deep_analysis": "【深度研判】什么是AI模型蒸馏，它为何成为中美冲突焦点？（路透社 · 2026-07-31）\n\n核心事实：路透解释性报道（explainer）。介绍「模型蒸馏」技术——开发者可借此将强大AI模型压缩为更廉价高效的系统——如何成为中美人工智能主导权竞争中的最新战场。此稿与同期的解放军AI蒸馏独家调查构成配套报道。本轮未取得正文全文与署名。\n\n引用信源：公开报道与主管部门披露。\n研判要点：属负面涉华叙事。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源相关机构的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-ford-ceo-chinese-automakers",
@@ -28851,7 +32178,12 @@ window.__XFS_DATA__ = {
             "福特CEO 吉姆·法利(Jim Farley)"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-tesla-china-separation",
@@ -28889,7 +32221,12 @@ window.__XFS_DATA__ = {
             "马斯克"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-sinochem-pirelli",
@@ -28925,7 +32262,12 @@ window.__XFS_DATA__ = {
             "中国中化集团（Sinochem）"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-temu-eu-charges",
@@ -28961,7 +32303,12 @@ window.__XFS_DATA__ = {
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "【深度研判】Temu 因未配合去年12月突击检查遭欧盟指控（路透社 · 2026-07-31）\n\n核心事实：路透报道电商平台 Temu 因在去年12月欧盟突击检查中未予配合而遭到欧盟正式指控。本轮未取得正文全文与署名。\n\n引用信源：欧盟。\n研判要点：属负面涉华叙事。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源欧盟的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。"
+          "deep_analysis": "【深度研判】Temu 因未配合去年12月突击检查遭欧盟指控（路透社 · 2026-07-31）\n\n核心事实：路透报道电商平台 Temu 因在去年12月欧盟突击检查中未予配合而遭到欧盟正式指控。本轮未取得正文全文与署名。\n\n引用信源：欧盟。\n研判要点：属负面涉华叙事。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源欧盟的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-uk-china-embassy",
@@ -28996,7 +32343,12 @@ window.__XFS_DATA__ = {
             "英国法院"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-spain-chinese-firms",
@@ -29031,7 +32383,12 @@ window.__XFS_DATA__ = {
             "西班牙政府"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-minimax-h3",
@@ -29065,7 +32422,12 @@ window.__XFS_DATA__ = {
             "MiniMax"
           ],
           "sentiment": "positive",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260731-reuters-philippines-china-education",
@@ -29100,7 +32462,12 @@ window.__XFS_DATA__ = {
             "菲律宾政府"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260728-reuters-china-houthi-red-sea-talks",
@@ -29150,7 +32517,21 @@ window.__XFS_DATA__ = {
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "这是路透 7/28 独家，与此前 7/23“两艘中国油轮脱困”形成因果闭环：中方并非“幸运过关”，而是主动与胡塞建立直接沟通渠道、逐艘“清关”以保红海石油通道。战略含义有三：①能源安全优先级压倒意识形态——在美西方军事护航失效（多国绕行好望角）之际，北京选择务实谈判而非对抗；②外交新范式——首次有主要经济体被曝与胡塞直接交易，模糊了“护航联盟”与“中立调停”的界限，可能招致美方“纵容胡塞”的指责；③风险敞口：一旦某艘“已清关”船只仍遭袭或胡塞反悔，中方将直接暴露在代理人冲突前沿，且向伊朗“报备”的做法使其被深度绑定于中东棋局。对涉华舆情系统，这是能源-外交交叉的高价值信源，建议持续追踪胡塞后续表态与中方能源到岸数据。"
+          "deep_analysis": "这是路透 7/28 独家，与此前 7/23“两艘中国油轮脱困”形成因果闭环：中方并非“幸运过关”，而是主动与胡塞建立直接沟通渠道、逐艘“清关”以保红海石油通道。战略含义有三：①能源安全优先级压倒意识形态——在美西方军事护航失效（多国绕行好望角）之际，北京选择务实谈判而非对抗；②外交新范式——首次有主要经济体被曝与胡塞直接交易，模糊了“护航联盟”与“中立调停”的界限，可能招致美方“纵容胡塞”的指责；③风险敞口：一旦某艘“已清关”船只仍遭袭或胡塞反悔，中方将直接暴露在代理人冲突前沿，且向伊朗“报备”的做法使其被深度绑定于中东棋局。对涉华舆情系统，这是能源-外交交叉的高价值信源，建议持续追踪胡塞后续表态与中方能源到岸数据。",
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "消息人士称",
+                "snippet": "安全通过红海南部的曼德海峡。消息人士称，中国是首批就曼德海峡通行直"
+              },
+              {
+                "kw": "人士称，",
+                "snippet": "通过红海南部的曼德海峡。消息人士称，中国是首批就曼德海峡通行直接"
+              }
+            ]
+          }
         },
         {
           "id": "20260728-reuters-high-tech-manufacturing-hubs",
@@ -29190,7 +32571,12 @@ window.__XFS_DATA__ = {
           ],
           "sentiment": "neutral",
           "is_negative": false,
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260723-reuters-chinese-tankers-escape-red-sea",
@@ -29235,7 +32621,12 @@ window.__XFS_DATA__ = {
           "is_negative": true,
           "deep_analysis": "两艘中国VLCC在红海封锁中“疑似脱困”，表面是孤立航运事件，实则暴露中国能源通道的结构性软肋：曼德海峡与霍尔木兹海峡两大 chokepoint 同时承压，而中国约92%原油靠海运、沙特是第二大来源。事件揭示双重博弈——中方船只凭AIS中国船员标识+联合石化租约“过关”，而其他船只遭袭，暗示存在某种非公开的“通行默契”（后由7/28路透独家进一步坐实中方与胡塞直接沟通）。对情报判断而言，这标志着中国在中东从“搭便车护航”转向“直接与非国家行为体谈判保通”，风险与收益并存：短期保油，长期或被卷入代理人冲突、并引发美西方对其“与胡塞勾连”的地缘叙事。",
           "byline_recovered_at": "2026-09-20T18:30:00+08:00",
-          "byline_note": "Fidelity / gCaptain reprint of Reuters: '(Reporting by Florence Tan and Siyi Liu; Editing by ...)'"
+          "byline_note": "Fidelity / gCaptain reprint of Reuters: '(Reporting by Florence Tan and Siyi Liu; Editing by ...)'",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260715-reuters-q2-gdp-cools",
@@ -29278,7 +32669,12 @@ window.__XFS_DATA__ = {
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "4.3%的二季度增速跌破目标区间下沿，是年内最重要的宏观拐点信号。4.3%并非终点，其危险性在“结构”：制造与出口单兵突进，而消费、投资、房地产三线同步走弱——上半年固定资产投资同比萎缩5.7%、房地产投资降18%，为数十年罕见。这意味着增长对芯片/半导体的依赖被推向极致，一旦外需因关税或全球AI资本开支周期回落而逆转，内需无法接棒，下行将自我强化。政策两难尖锐：扩赤字稳增长 vs 债务率约束；7月底政治局会议大概率“靠前发力”存量财政、克制增量，保“十五五”开门红而非强刺激。对涉华舆情而言，西方将据此强化“产能过剩/失衡输出”叙事，贸易摩擦压力上升。"
+          "deep_analysis": "4.3%的二季度增速跌破目标区间下沿，是年内最重要的宏观拐点信号。4.3%并非终点，其危险性在“结构”：制造与出口单兵突进，而消费、投资、房地产三线同步走弱——上半年固定资产投资同比萎缩5.7%、房地产投资降18%，为数十年罕见。这意味着增长对芯片/半导体的依赖被推向极致，一旦外需因关税或全球AI资本开支周期回落而逆转，内需无法接棒，下行将自我强化。政策两难尖锐：扩赤字稳增长 vs 债务率约束；7月底政治局会议大概率“靠前发力”存量财政、克制增量，保“十五五”开门红而非强刺激。对涉华舆情而言，西方将据此强化“产能过剩/失衡输出”叙事，贸易摩擦压力上升。",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260713-reuters-exports-ride-ai-boom",
@@ -29323,7 +32719,12 @@ window.__XFS_DATA__ = {
           ],
           "sentiment": "neutral",
           "is_negative": false,
-          "deep_analysis": ""
+          "deep_analysis": "",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260629-reuters-factory-activity-june-pmi",
@@ -29365,7 +32766,12 @@ window.__XFS_DATA__ = {
           ],
           "sentiment": "negative",
           "is_negative": true,
-          "deep_analysis": "6月PMI仅勉强站上荣枯线（预估50.1），叠加5月零售三年多来首跌、新房价格加速下行，印证“强供给、弱需求”的结构失衡仍在发酵。两个先行信号值得盯：一是企业因能源成本与关税不确定性“抢出口”带来的补库脉冲正在退潮，外需支撑的可持续性存疑；二是央行据称要求商业银行加大放贷，侧面反映信用需求疲弱、内需引擎失速。若7月底美国新301关税生效引发出口前置效应反转，下半年增长对芯片与半导体的单点依赖将被放大，政策稳增长压力上升。"
+          "deep_analysis": "6月PMI仅勉强站上荣枯线（预估50.1），叠加5月零售三年多来首跌、新房价格加速下行，印证“强供给、弱需求”的结构失衡仍在发酵。两个先行信号值得盯：一是企业因能源成本与关税不确定性“抢出口”带来的补库脉冲正在退潮，外需支撑的可持续性存疑；二是央行据称要求商业银行加大放贷，侧面反映信用需求疲弱、内需引擎失速。若7月底美国新301关税生效引发出口前置效应反转，下半年增长对芯片与半导体的单点依赖将被放大，政策稳增长压力上升。",
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         },
         {
           "id": "20260415-bloomberg-china-bond-league-q1",
@@ -29402,7 +32808,12 @@ window.__XFS_DATA__ = {
             "彭博行业研究"
           ],
           "sentiment": "neutral",
-          "is_negative": false
+          "is_negative": false,
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
         }
       ],
       "daily_analysis": {
@@ -29506,6 +32917,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260803-reuters-red-lines-economic-model"
     },
@@ -29552,6 +32968,11 @@ window.__XFS_DATA__ = {
       "sentiment": "negative",
       "is_negative": true,
       "deep_analysis": "【深度研判】独家：中国军方研究人员利用美国AI模型训练防务系统（路透社 · 2026-07-31）\n\n核心事实：路透独家调查。基于对80余篇中国学术论文与专利的审阅（含华盛顿詹姆斯敦基金会独家提供的研究），报道称中国军方研究人员使用 OpenAI 与 Anthropic 模型的输出来训练国产AI系统，以推进防务能力。核心技术手段是「模型蒸馏」——用强模型输出训练可本地部署的小型专用模型，规避巨大算力需求。具体案例包括：解放军96941部队（北京的军事情报与网络战单位）使用 GPT-3.5 处理敏感军用源码并训练内网模型；中北大学使用 Anthropic 的 Claude 3 Haiku 生成合成训练数据，用于社交媒体监控与内容审查的文本分类模型；国防科技大学2024年论文用蒸馏压缩图像处理模型以部署于无人机；军事科学院研究显示蒸馏AI用于模拟海上作战中的目标识别。詹姆斯敦基金会研究员 Sunny Cheung 称，中国军事科学家正系统性捕获西方模型的推理步骤。白宫、五角大楼、中国外交部、解放军及 OpenAI 均未回应置评请求。Anthropic 称不向中国或北京控制的公司提供 Claude 商业访问。\n\n引用信源：外交部、白宫。\n研判要点：属负面涉华叙事; 重要度评级为高。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源外交部、白宫的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-pla-ai-distillation"
     },
@@ -29586,6 +33007,11 @@ window.__XFS_DATA__ = {
       "cited_sources": [],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260803-reuters-chip-design-ip"
     },
@@ -29622,6 +33048,11 @@ window.__XFS_DATA__ = {
       "sentiment": "negative",
       "is_negative": true,
       "deep_analysis": "【深度研判】暴雨持续，中国甘肃省山体滑坡死亡人数上升（路透社 · 2026-08-03）\n\n核心事实：路透报道中国甘肃省山体滑坡灾害，在持续强降雨下death toll（死亡人数）继续上升。本轮检索自路透亚太栏目列表取得标题与时段信息，未取得正文全文与记者署名，具体伤亡数字、受灾范围与救援进展待补全。\n\n引用信源：公开报道与主管部门披露。\n研判要点：属负面涉华叙事。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源相关机构的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260803-reuters-gansu-landslide"
     },
@@ -29664,6 +33095,11 @@ window.__XFS_DATA__ = {
       "deep_analysis": "【深度研判】美国以所谓涉疆强迫劳动为由，新增禁止43家企业产品进口（路透社 · 2026-08-02）\n\n核心事实：路透报道美国依据《维吾尔强迫劳动预防法》(UFLPA) 新增43家中国企业至进口禁令实体清单。中方对此强烈反应：外交部及商务部将该举措定性为经济胁迫，强调新疆棉花、番茄制品、多晶硅等产品具有强竞争力，美方限制进口并施压盟友跟进，实为抬高自身产业成本、降低贸易效率。中国社科院研究员周密指出，此举发生在中美经贸牵头官员刚结束视频通话、双方同意加强沟通之后，损害了市场对美方信誉的信心。\n\n引用信源：商务部、外交部。\n研判要点：属负面涉华叙事; 重要度评级为高。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源商务部、外交部的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Yahoo Finance Canada / WTVB reprint: 'By Karen Freifeld' / 'Reporting by Karen Freifeld; editing by Susan Heavey and Chizu Nomiyama'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260802-reuters-uflpa-43-companies"
     },
@@ -29703,6 +33139,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260801-reuters-scs-patrol"
     },
@@ -29738,6 +33179,11 @@ window.__XFS_DATA__ = {
       "cited_sources": [],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-taiwan-coastguard"
     },
@@ -29775,6 +33221,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-xi-military-anticorruption"
     },
@@ -29810,6 +33261,11 @@ window.__XFS_DATA__ = {
       "sentiment": "negative",
       "is_negative": true,
       "deep_analysis": "【深度研判】什么是AI模型蒸馏，它为何成为中美冲突焦点？（路透社 · 2026-07-31）\n\n核心事实：路透解释性报道（explainer）。介绍「模型蒸馏」技术——开发者可借此将强大AI模型压缩为更廉价高效的系统——如何成为中美人工智能主导权竞争中的最新战场。此稿与同期的解放军AI蒸馏独家调查构成配套报道。本轮未取得正文全文与署名。\n\n引用信源：公开报道与主管部门披露。\n研判要点：属负面涉华叙事。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源相关机构的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-ai-distillation-explainer"
     },
@@ -29846,6 +33302,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "positive",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-minimax-h3"
     },
@@ -29880,6 +33341,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-alibaba-model"
     },
@@ -29916,6 +33382,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-deepseek-cheapest"
     },
@@ -29951,6 +33422,11 @@ window.__XFS_DATA__ = {
       "cited_sources": [],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260801-reuters-soybean-purchases"
     },
@@ -29989,6 +33465,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "positive",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260801-reuters-byd-sales"
     },
@@ -30027,6 +33508,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-ford-ceo-chinese-automakers"
     },
@@ -30067,6 +33553,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-tesla-china-separation"
     },
@@ -30105,6 +33596,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-sinochem-pirelli"
     },
@@ -30143,6 +33639,11 @@ window.__XFS_DATA__ = {
       "sentiment": "negative",
       "is_negative": true,
       "deep_analysis": "【深度研判】Temu 因未配合去年12月突击检查遭欧盟指控（路透社 · 2026-07-31）\n\n核心事实：路透报道电商平台 Temu 因在去年12月欧盟突击检查中未予配合而遭到欧盟正式指控。本轮未取得正文全文与署名。\n\n引用信源：欧盟。\n研判要点：属负面涉华叙事。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源欧盟的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-temu-eu-charges"
     },
@@ -30180,6 +33681,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-uk-china-embassy"
     },
@@ -30217,6 +33723,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-philippines-china-education"
     },
@@ -30254,6 +33765,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260801-reuters-vw-flying-car-china"
     },
@@ -30291,6 +33807,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260731-reuters-spain-chinese-firms"
     },
@@ -30327,6 +33848,11 @@ window.__XFS_DATA__ = {
       "sentiment": "negative",
       "is_negative": true,
       "deep_analysis": "【深度研判】中国高层在增速放缓后考虑推出新刺激措施（彭博社 · 2026-08-01）\n\n核心事实：彭博社报道，在二季度经济增速放缓至4.3%（逾三年最慢）后，中国高层正考虑推出新的刺激措施。报道称，7月30日政治局会议强调「及时谋划出台务实管用的增量政策」「加大逆周期调节力度」，市场普遍解读为政策将边际加码；经济学家指出，加速财政支出将是三季度关键支撑。注：本条为标题级登记，未取得彭博正文，内容依据彭博社标题及同日多方政策基调综合，未编造署名与正文。\n\n引用信源：公开报道与主管部门披露。\n研判要点：属负面涉华叙事; 重要度评级为高。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源相关机构的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260801-bloomberg-china-stimulus-after-slowdown"
     },
@@ -30360,6 +33886,11 @@ window.__XFS_DATA__ = {
       "cited_sources": [],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260801-bloomberg-167b-megadam"
     },
@@ -30399,6 +33930,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260415-bloomberg-china-bond-league-q1"
     },
@@ -30440,6 +33976,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "neutral",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260802-reuters-shared-beds-young-workers"
     },
@@ -30476,6 +34017,11 @@ window.__XFS_DATA__ = {
       ],
       "sentiment": "positive",
       "is_negative": false,
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260801-reuters-pboc-h2-policy"
     },
@@ -30516,6 +34062,11 @@ window.__XFS_DATA__ = {
       "sentiment": "negative",
       "is_negative": true,
       "deep_analysis": "【深度研判】中国拟加强滑坡与洪水防灾减灾能力以应对气候变化（路透社 · 2026-08-04）\n\n核心事实：据央视报道，中国计划增强预防和减轻滑坡与洪水影响的能力，以更好应对气候变化。自然资源部将重点防范分布广泛的浅层滑坡，以及极端降雨引发的泥石流，重点区域包括雅鲁藏布江下游水电(雅下)工程建设工地、燕山—太行山脉、三峡库区与乌蒙山区。中国还将探索利用航空航天遥感识别与监测地质灾害风险。上月，甘肃西北部山洪引发的滑坡致25人死亡，重庆一起山体垮塌滑坡致51人死亡；去年全国登记地质灾害隐患点逾27万处，威胁约1100万人安全。\n\n引用信源：央视、自然资源部。\n研判要点：属负面涉华叙事。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源央视、自然资源部的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260804-reuters-landslide-flood-prevention"
     },
@@ -30556,6 +34107,11 @@ window.__XFS_DATA__ = {
       "sentiment": "negative",
       "is_negative": true,
       "deep_analysis": "【深度研判】全球AI股抛售拖累半导体 中国股市收低（路透社 · 2026-08-03）\n\n核心事实：路透上海8月3日电——受全球人工智能相关股票抛售拖累半导体板块，中国股市周一下跌；不过香港互联网平台逆势走高，在阿里巴巴发布最新AI模型后股价跳涨。沪深300指数收跌1%，上证综指跌0.6%，恒生指数涨0.5%。在全球AI股抛售(韩国芯片股为主的Kospi上月跌20%)冲击下，投资者重新评估中国半导体股估值。科创50指数跌5.1%，中证全指半导体指数跌6.9%；但新上市存储芯片巨头CXMT逆势涨1.9%。中金公司称，AI产业趋势尚未见顶的前提下，近期回调反而改善AI交易的中长期风险收益比。阿里巴巴港股涨7%(发布号称最强AI模型Qwen3.8-Max)，香港科技指数涨近1%。另据私营部门调查，中国7月制造业扩张速度为四个月最慢。\n\n引用信源：中金公司、私营部门调查/民调、阿里巴巴。\n研判要点：属负面涉华叙事; 涉科技竞争与出口管制主线。此类报道若持续出现，往往反映外部媒体对相关议题的关注焦点与定性倾向，建议纳入连续跟踪，观察其在路透/彭博后续报道中的频次与措辞变化，并比对中方权威信源（外交部、主管部门）的回应口径。\n\n监测建议：① 跟踪信源中金公司、私营部门调查/民调、阿里巴巴的后续表态；② 关注同议题未来数日是否升温；③ 记录措辞定性强弱变化，识别叙事升级信号。",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260803-reuters-stocks-ai-selloff"
     },
@@ -30600,6 +34156,11 @@ window.__XFS_DATA__ = {
       "sentiment": "negative",
       "is_negative": true,
       "deep_analysis": "6月PMI仅勉强站上荣枯线（预估50.1），叠加5月零售三年多来首跌、新房价格加速下行，印证“强供给、弱需求”的结构失衡仍在发酵。两个先行信号值得盯：一是企业因能源成本与关税不确定性“抢出口”带来的补库脉冲正在退潮，外需支撑的可持续性存疑；二是央行据称要求商业银行加大放贷，侧面反映信用需求疲弱、内需引擎失速。若7月底美国新301关税生效引发出口前置效应反转，下半年增长对芯片与半导体的单点依赖将被放大，政策稳增长压力上升。",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260629-reuters-factory-activity-june-pmi"
     },
@@ -30647,6 +34208,11 @@ window.__XFS_DATA__ = {
       "sentiment": "neutral",
       "is_negative": false,
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260713-reuters-exports-ride-ai-boom"
     },
@@ -30692,6 +34258,11 @@ window.__XFS_DATA__ = {
       "sentiment": "negative",
       "is_negative": true,
       "deep_analysis": "4.3%的二季度增速跌破目标区间下沿，是年内最重要的宏观拐点信号。4.3%并非终点，其危险性在“结构”：制造与出口单兵突进，而消费、投资、房地产三线同步走弱——上半年固定资产投资同比萎缩5.7%、房地产投资降18%，为数十年罕见。这意味着增长对芯片/半导体的依赖被推向极致，一旦外需因关税或全球AI资本开支周期回落而逆转，内需无法接棒，下行将自我强化。政策两难尖锐：扩赤字稳增长 vs 债务率约束；7月底政治局会议大概率“靠前发力”存量财政、克制增量，保“十五五”开门红而非强刺激。对涉华舆情而言，西方将据此强化“产能过剩/失衡输出”叙事，贸易摩擦压力上升。",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260715-reuters-q2-gdp-cools"
     },
@@ -30739,6 +34310,11 @@ window.__XFS_DATA__ = {
       "deep_analysis": "两艘中国VLCC在红海封锁中“疑似脱困”，表面是孤立航运事件，实则暴露中国能源通道的结构性软肋：曼德海峡与霍尔木兹海峡两大 chokepoint 同时承压，而中国约92%原油靠海运、沙特是第二大来源。事件揭示双重博弈——中方船只凭AIS中国船员标识+联合石化租约“过关”，而其他船只遭袭，暗示存在某种非公开的“通行默契”（后由7/28路透独家进一步坐实中方与胡塞直接沟通）。对情报判断而言，这标志着中国在中东从“搭便车护航”转向“直接与非国家行为体谈判保通”，风险与收益并存：短期保油，长期或被卷入代理人冲突、并引发美西方对其“与胡塞勾连”的地缘叙事。",
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Fidelity / gCaptain reprint of Reuters: '(Reporting by Florence Tan and Siyi Liu; Editing by ...)'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260723-reuters-chinese-tankers-escape-red-sea"
     },
@@ -30791,6 +34367,20 @@ window.__XFS_DATA__ = {
       "sentiment": "negative",
       "is_negative": true,
       "deep_analysis": "这是路透 7/28 独家，与此前 7/23“两艘中国油轮脱困”形成因果闭环：中方并非“幸运过关”，而是主动与胡塞建立直接沟通渠道、逐艘“清关”以保红海石油通道。战略含义有三：①能源安全优先级压倒意识形态——在美西方军事护航失效（多国绕行好望角）之际，北京选择务实谈判而非对抗；②外交新范式——首次有主要经济体被曝与胡塞直接交易，模糊了“护航联盟”与“中立调停”的界限，可能招致美方“纵容胡塞”的指责；③风险敞口：一旦某艘“已清关”船只仍遭袭或胡塞反悔，中方将直接暴露在代理人冲突前沿，且向伊朗“报备”的做法使其被深度绑定于中东棋局。对涉华舆情系统，这是能源-外交交叉的高价值信源，建议持续追踪胡塞后续表态与中方能源到岸数据。",
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "消息人士称",
+            "snippet": "安全通过红海南部的曼德海峡。消息人士称，中国是首批就曼德海峡通行直"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "通过红海南部的曼德海峡。消息人士称，中国是首批就曼德海峡通行直接"
+          }
+        ]
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260728-reuters-china-houthi-red-sea-talks"
     },
@@ -30833,6 +34423,11 @@ window.__XFS_DATA__ = {
       "sentiment": "neutral",
       "is_negative": false,
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-04",
       "_uid": "2026-08-04/20260728-reuters-high-tech-manufacturing-hubs"
     },
@@ -30880,6 +34475,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://dev.theedgemalaysia.com/node/813399",
         "evidence_note": "The Edge Malaysia 全文转载路透稿（05 Aug 2026, 01:01 pm，SINGAPORE/BEIJING电头），含署名 By Siyi Liu, Trixie Yap, Chen Aizhu & Sam Li；asiaone 与 maritimeprofessional 版本补充国企/浙石化配额分配、炼厂库存门槛等细节，交叉印证一致。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-05",
       "_uid": "2026-08-05/r1"
     },
@@ -30922,6 +34522,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+转载源(WMBD Radio/geobrowser聚合页)取得路透全文与署名",
         "evidence_url": "https://wmbdradio.com/2026/08/03/pathos-ai-to-license-experimental-breast-cancer-drug-from-chinas-jiangsu-alphamab-biopharmaceutical",
         "evidence_note": "WMBD Radio全文转载路透稿，含电头 Aug 4 (Reuters)、署名 Reporting by Andrew Silver in Shanghai, additional reporting by Roshan Thomas in Bengaluru; Editing by Rashmi Aich and Shri Navaratnam，及1.25亿美元首付、最高20.9亿美元里程碑等关键数字；BioSpace与geobrowser聚合页交叉印证。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-05",
       "_uid": "2026-08-05/r2"
@@ -30969,6 +34574,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.fidelity.com/news/article/us-markets/202608040704RTRSNEWSCOMBINED_L1N4410C6_1",
         "evidence_note": "Fidelity 全文转载路透稿，含电头 SHANGHAI/SINGAPORE, Aug 4 (Reuters)、署名 Reporting by Samuel Shen in Shanghai and Yantoultra Ngui in Singapore; Editing by Louise Heavens；US News Money 同稿（2026-08-04）交叉验证。techinasia 补充营收、股东及优必选参照信息。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-05",
       "_uid": "2026-08-05/r3"
     },
@@ -31015,6 +34625,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.regionalmedianews.com/news/national/health/kimberly-clark-cuts-annual-forecasts-as-china-quality-claims-hurt-diaper-sales/",
         "evidence_note": "SRN News全文转载路透稿（含电头 Aug 4 (Reuters)）与署名 Reporting by Neil J Kanatt in Bengaluru and Alexander Marrow in London; Editing by Joyjeet Das；Stockopedia版本补充调查时间线。两版本均明确指控系「false claims」。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-05",
       "_uid": "2026-08-05/r4"
     },
@@ -31056,6 +34671,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+彭博转载源(Yahoo Finance)取得全文",
         "evidence_url": "https://finance.yahoo.com/markets/currencies/articles/china-sells-long-dated-offshore-061244043.html",
         "evidence_note": "Yahoo Finance 全文转载彭博稿（Bloomberg标识，2026-08-05），含财政部公告细节（15年/30年各100亿元、1.99%/2.24%）与东方汇理Jeffrey Zhang引语。彭博正文机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-05",
       "_uid": "2026-08-05/b1"
@@ -31103,6 +34723,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia全量转载)取得全文",
         "evidence_url": "https://dev.theedgemalaysia.com/node/813393",
         "evidence_note": "The Edge Malaysia 全文转载彭博稿（By Nectar Gan / Bloomberg, Aug 5），含「钟声」评论引语、FCC禁令背景、中际旭创盘中跌14%、对美光模块出口6160万美元等数据。作者署名 Nectar Gan，authors_status=named。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-05",
       "_uid": "2026-08-05/b2"
@@ -31152,6 +34777,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Yahoo HK reprint: '白宮據悉告知美國公司 將不對中國開放權重AI模型進行測試 Maggie Eastland､Shirin Ghaffary 【彭博】'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-05",
       "_uid": "2026-08-05/b3"
     },
@@ -31199,6 +34829,16 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Yahoo Finance HK Chinese reprint: 'CXMT Narrows Gap ... --聯合報導 Debby Wu'",
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "据知情人士",
+            "snippet": "中国半导体自主化的重要突破。据知情人士与第一财经最早披露，长鑫的1"
+          }
+        ]
+      },
       "_day": "2026-08-05",
       "_uid": "2026-08-05/b4"
     },
@@ -31252,6 +34892,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "联网检索 + 转载源(Yahoo Finance)",
         "evidence_url": "https://www.yahoo.com/finance/economy/policy/articles/china-targets-us-firms-drone-094657733.html",
         "evidence_note": "雅虎财经转载路透稿，文末保留完整路透署名：Reporting by Eduardo Baptista, Ethan Wang and Ryan Woo; Editing by Sharon Singleton and David Holmes。代理未启用时基于检索摘要+转载源全文整合。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260805-reuters-mofcom-retaliation-us"
@@ -31309,6 +34954,32 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "NeoDrop Chinese reprint of Reuters: 'Reuters staff 撰写, Alexandra Alper、Hyunjoo Jin 与 Heekyong Yang 补充报道'",
+      "anon_sourcing": {
+        "flag": true,
+        "count": 5,
+        "hits": [
+          {
+            "kw": "知情人士透露",
+            "snippet": "路透社8月4日电——据三位知情人士透露，三星电子和SK海力士正在评"
+          },
+          {
+            "kw": "知情人士称",
+            "snippet": "，以备在其中国工厂使用，三位知情人士称，这是韩国芯片厂商对冲美国出"
+          },
+          {
+            "kw": "据三位知情人士",
+            "snippet": "制风险 路透社8月4日电——据三位知情人士透露，三星电子和SK海力士正"
+          },
+          {
+            "kw": "人士透露，",
+            "snippet": "透社8月4日电——据三位知情人士透露，三星电子和SK海力士正在评估"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "备在其中国工厂使用，三位知情人士称，这是韩国芯片厂商对冲美国出口"
+          }
+        ]
+      },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260804-reuters-samsung-sk-hynix-chinese-tools"
     },
@@ -31359,6 +35030,28 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.chinadaily.com.cn/a/202608/05/WS6a72d2ffa310986e2b4691a1.html",
         "evidence_note": "路透社8月4日独家报道，经中国日报(China Daily)转引并标注'referring to a Reuters report'。原始路透链接(reuters.com)对本机不可达。基于多个转引来源整合。"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 4,
+        "hits": [
+          {
+            "kw": "知情人士透露",
+            "snippet": "社8月4日独家报道——据四位知情人士透露，美国联邦通信委员会（FCC"
+          },
+          {
+            "kw": "知情人士称",
+            "snippet": "6年内公布并实施该禁令。  知情人士称，FCC仍可能修改或搁置有关"
+          },
+          {
+            "kw": "人士透露，",
+            "snippet": "月4日独家报道——据四位知情人士透露，美国联邦通信委员会（FCC）"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "内公布并实施该禁令。  知情人士称，FCC仍可能修改或搁置有关限"
+          }
+        ]
+      },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260804-reuters-fcc-optical-transceiver-ban"
     },
@@ -31404,6 +35097,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "联网检索 + 转载源(ttm.financial)",
         "evidence_url": "https://ttm.financial/news/2557836141",
         "evidence_note": "ttm.financial 转载路透稿，保留完整路透署名：Reporting by Summer Zhen; Editing by Harikrishnan Nair and Sherry Jacob-Phillips。注：原文归档日期2026-08-05依据正文内容（S&P Global 7月服务业PMI、上证综指3,617.60等2026年数据）判定无误；该转载站点news ID存在内容轮转，本次复核代理抓取返回为另一篇2025年旧稿，故以已捕获之2026正文为准，source_url保留原链接仅作追溯。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260805-reuters-china-stocks-services-pmi"
@@ -31454,6 +35152,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "联网检索 + 彭博官网(bloomberg.com)",
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-05/prudential-hsbc-shares-tumble-on-china-insurance-tax-report",
         "evidence_note": "彭博社原创报道，署名By Isabella Farr and Heng Xie。bloomberg.com对本机代理返回403，基于WebSearch检索返回的彭博原文摘要+多个中文转引来源（新浪财经/网易/AASTOCKS）整合。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260805-bloomberg-hk-insurance-tax"
@@ -31511,6 +35214,28 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aol.com/articles/us-weighs-polysilicon-price-floor-160922000.html",
         "evidence_note": "AOL/Yahoo Finance/Stockopedia 转载路透独家稿，文末保留完整路透署名：Reporting by Nichola Groom; Editing by Nick Zieminski and Lisa Shumaker。代理未启用，基于检索摘要+多方转引整合，全文已取得并译中文。"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 4,
+        "hits": [
+          {
+            "kw": "知情人士透露",
+            "snippet": "透8月4日独家报道——据四名知情人士透露，特朗普政府正准备对多晶硅及"
+          },
+          {
+            "kw": "消息人士称",
+            "snippet": "硅及衍生品同时设限。其中两位消息人士称，该计划将允许投资于美国硅片"
+          },
+          {
+            "kw": "人士透露，",
+            "snippet": "月4日独家报道——据四名知情人士透露，特朗普政府正准备对多晶硅及相"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "衍生品同时设限。其中两位消息人士称，该计划将允许投资于美国硅片与"
+          }
+        ]
+      },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260804-reuters-polysilicon-price-floor"
     },
@@ -31557,6 +35282,28 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.yahoo.com/news/politics/articles/trump-administration-impose-15-tariff-195246558.html",
         "evidence_note": "Yahoo News/Politics 转载路透稿，文末保留完整路透署名：Reporting by Nichola Groom in Los Angeles; Alexandra Alper in Washington and Jarrett Renshaw in Washington; Editing by Lisa Shumaker。全文已取得并译中文。"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 4,
+        "hits": [
+          {
+            "kw": "知情人士透露",
+            "snippet": "透8月5日华盛顿电——据四名知情人士透露，特朗普政府最早将于周四宣布"
+          },
+          {
+            "kw": "消息人士称",
+            "snippet": "益增长雄心的冲击。  这四名消息人士称，美国总统特朗普的公告预计将"
+          },
+          {
+            "kw": "人士透露，",
+            "snippet": "月5日华盛顿电——据四名知情人士透露，特朗普政府最早将于周四宣布对"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "长雄心的冲击。  这四名消息人士称，美国总统特朗普的公告预计将包"
+          }
+        ]
+      },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260805-reuters-polysilicon-15pct-tariff"
     },
@@ -31596,6 +35343,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "联网检索 + 转载源(Yahoo News 转引路透)",
         "evidence_url": "https://www.yahoo.com/news/articles/china-complains-japan-over-defence-101911170.html",
         "evidence_note": "Yahoo News 转载路透稿，文末保留完整路透署名：Reporting by Beijing Newsroom; Editing by Saad Sayeed。机构署名（北京新闻部），无具名个人记者，故authors_status=not_available。另经中国日报、新华社交叉验证外交部回应原文。全文已取得并译中文。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260805-reuters-china-japan-defence-whitepaper"
@@ -31647,6 +35399,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.latimes.com/business/story/2026-08-05/china-ai-blitz-openai-anthropic-death-zone-price",
         "evidence_note": "彭博社原创报道（署名来源' Bloomberg'，经《洛杉矶时报》于2026-08-05 6:26 AM PT syndication 转载，全文已取得450KB页面并提取正文）。彭博原创标记明确（页面标注' Bloomberg Aug. 5, 2026'），属真实彭博原稿；syndication页面未显示具名个人记者，依彭博署规作者栏置 not_available，未编造。另经 Artificial Analysis 基准数据交叉验证价格对比。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260805-bloomberg-china-ai-death-zone"
     },
@@ -31687,6 +35444,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.newslocker.com/en-uk/profession/financial/chinese-developers-come-home-to-asset-backed-securitisation",
         "evidence_note": "经 newslocker 转载路透电头全文(HONG KONG, August 6 (Reuters))抓取导语与核心事实；记者署名经检索未获，保留 not_available。补充数据(中指研究院1221亿、世茂展期、瑞安56亿获批)来自同主题公开报道交叉印证。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260806-reuters-china-developers-abs-return"
     },
@@ -31722,6 +35484,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-06/",
         "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260806-reuters-asia-shares-iran-talks"
     },
@@ -31753,6 +35520,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "联网检索聚合",
         "evidence_url": "https://www.reuters.com/legal/litigation/china-sentences-former-defence-industry-regulator-10-years-graft-influence-2026-08-05/",
         "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260806-reuters-defence-regulator-10y"
@@ -31789,6 +35561,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china/under-patel-fbi-forges-unprecedented-law-enforcement-ties-with-china-russia-2026-08-05/",
         "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260806-reuters-fbi-china-russia-ties"
     },
@@ -31823,6 +35600,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "联网检索聚合",
         "evidence_url": "https://www.reuters.com/business/retail-consumer/foxconns-monthly-revenue-hits-record-july-ai-demand-2026-08-05/",
         "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260806-reuters-foxconn-july-record"
@@ -31862,6 +35644,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "The Print / Yahoo reprint of Reuters: '(Reporting by Yi-Chin Lee and Ann Wang; Writing by Ben Blanchard; Editing by Tom Hogue)'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260806-reuters-taiwan-war-games"
     },
@@ -31899,6 +35686,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/business/autos-transportation/gm-renews-china-joint-venture-with-saic-20-years-after-restructuring-2026-08-05/",
         "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260806-reuters-gm-saic-jv-renew"
     },
@@ -31934,6 +35726,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "联网检索聚合",
         "evidence_url": "https://www.reuters.com/world/china/kim-yo-jong-criticises-japans-tomahawk-missile-test-kcna-reports-2026-08-04/",
         "evidence_note": "经路透社中国栏目页检索取得标题与摘要，未取得正文全文，按检索级登记并附原始链接。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-06",
       "_uid": "2026-08-06/20260806-reuters-kim-yojong-japan"
@@ -31978,6 +35775,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
         "evidence_url": "https://www.aol.com/articles/airbus-reports-stable-july-deliveries-090433000.html",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-airbus-china-orders"
@@ -32025,6 +35827,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.thestar.com.my/tech/tech-news/2026/08/07/chinese-startup-moonshot039s-ai-model-breaks-out-of-testing-environment-researchers-say",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-moonshot-kimi-k3"
     },
@@ -32067,6 +35874,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.thehindu.com/news/national/india-china-hold-constructive-talks-on-lac-agree-border-peace-key-to-normalising-ties/article71032371.ece/amp",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-india-china-wmcc"
     },
@@ -32107,6 +35919,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
         "evidence_url": "https://economictimes.indiatimes.com/industry/renewables/india-to-launch-pli-scheme-for-polysilicon-manufacturing-to-cut-import-dependence-on-china/articleshow/133025967.cms",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-india-polysilicon-pli"
@@ -32157,6 +35974,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://live.euronext.com/en/financial-news/trump-unveils-trade-actions-compete-china-solar-and-chips",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-trump-polysilicon-tariff"
     },
@@ -32199,6 +36021,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.metro.us/taiwan-lands-fighters-on/",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-taiwan-mirage-drills"
     },
@@ -32240,6 +36067,20 @@ window.__XFS_DATA__ = {
         "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
         "evidence_url": "https://www.asiaone.com/world/pacific-ministers-fail-agree-china-missile-response",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "据知情人士",
+            "snippet": "绝签署联合声明，未说明原因；据知情人士称是基里巴斯与瑙鲁。中国7月"
+          },
+          {
+            "kw": "知情人士称",
+            "snippet": "签署联合声明，未说明原因；据知情人士称是基里巴斯与瑙鲁。中国7月试"
+          }
+        ]
       },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-pacific-china-missile"
@@ -32285,6 +36126,28 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finance.yahoo.com/energy/articles/trump-likely-reject-us-industry-193046748.html",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 4,
+        "hits": [
+          {
+            "kw": "据知情人士",
+            "snippet": "税的要求 路透8月6日报道，据知情人士称，特朗普政府预计将拒绝部分"
+          },
+          {
+            "kw": "知情人士称",
+            "snippet": "的要求 路透8月6日报道，据知情人士称，特朗普政府预计将拒绝部分美"
+          },
+          {
+            "kw": "消息人士称",
+            "snippet": "消息人士称特朗普可能拒绝美企加快多晶硅"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "求 路透8月6日报道，据知情人士称，特朗普政府预计将拒绝部分美国"
+          }
+        ]
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-polysilicon-tariff-pace"
     },
@@ -32328,6 +36191,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://tech.yahoo.com/cybersecurity/articles/chinas-zbtlink-suspends-sales-routers-181324153.html",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-zbtlink-backdoor"
     },
@@ -32370,6 +36238,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.thestar.com.my/tech/tech-news/2026/08/07/us-telecoms-regulator-chief-says-curbs-on-chinese-tech-imports-aim-to-spur-production-counter-security-risks",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-fcc-curbs"
     },
@@ -32411,6 +36284,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "路透中国栏目抓取 + 联网检索转载补全",
         "evidence_url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/06/thousands-evacuated-in-north-west-china-after-heavy-rains-flooding",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-shaanxi-floods"
@@ -32456,6 +36334,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.globaltimes.cn/page/202608/1367633.shtml",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-argentina-huawei"
     },
@@ -32500,6 +36383,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://au.marketscreener.com/news/china-s-jetour-weighs-shared-factory-arrangement-brazil-car-production-ce7f50ddda8aff24",
         "evidence_note": "路透中国栏目(https://www.reuters.com/world/china/)抓取标题，经AOL/The Star/Economic Times等转载补全署名与摘要；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-reuters-jetour-brazil"
     },
@@ -32533,6 +36421,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers",
         "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-bloomberg-china-s-ai-blitz"
@@ -32568,6 +36461,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
         "evidence_url": "https://www.thestar.com.my/tech/tech-news/2026/08/07/chinas-top-ai-model-evaded-testing-environment-researchers-say",
         "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-bloomberg-china-s-top-ai-model-evaded-testing-environment-re"
@@ -32606,6 +36504,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.cnbctv18.com/india/india-china-hold-fresh-border-talks-new-delhi-raises-concerns-over-mega-dam-project-19964123.htm",
         "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-bloomberg-india-seeks-china-river-data-as-tibet-mega-dam-rai"
     },
@@ -32639,6 +36542,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
         "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-07/china-us-battle-over-export-controls-before-a-meeting-of-their-leaders",
         "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-bloomberg-china-us-raise-the-stakes-before-a-meeting-of-thei"
@@ -32677,6 +36585,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://in.investing.com/news/stock-market-news/bloomberg-moonshot-used-20k-nvidia-chips-via-alibaba-to-rival-us-5527930",
         "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-bloomberg-us-reviews-china-s-offshore-nvidia-chip-access-aft"
     },
@@ -32712,6 +36625,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finance.yahoo.com/markets/stocks/articles/quant-crash-china-sends-deepseek-084014230.html",
         "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-bloomberg-quant-crash-in-china-sends-deepseek-founder-s-fund"
     },
@@ -32746,6 +36664,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
         "evidence_url": "https://test.theedgemalaysia.com/node/813710",
         "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-bloomberg-key-chinese-ports-near-shanghai-halt-operations-ah"
@@ -32784,6 +36707,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-07-31/chinese-microdramas-go-global-as-ai-slashes-production-costs",
         "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-bloomberg-china-has-the-world-hooked-on-two-minute-microdram"
     },
@@ -32821,6 +36749,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/videos/2026-08-07/hong-kong-s-iconic-diners-go-global-video",
         "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-bloomberg-hong-kong-s-iconic-diners-go-global"
     },
@@ -32857,6 +36790,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "彭博首页抓取 + 联网检索转载补全",
         "evidence_url": "https://www.bloomberg.com/news/audio/2026-08-05/zero-the-iran-war-revealed-china-has-a-new-oil-weapon-podcast",
         "evidence_note": "彭博首页(https://www.bloomberg.com/)抓取标题，经 Yahoo Finance/Investing.com/The Star 等转载补全署名与摘要；作者状态:not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-07",
       "_uid": "2026-08-07/20260807-bloomberg-zero-the-iran-war-revealed-china-has-a-new-oil-wea"
@@ -32903,6 +36841,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aol.com/articles/china-suffers-worst-economic-growth-133747000.html",
         "evidence_note": "Reuters 8月7日报道；Reporting by Yukun Zhang and Ryan Woo；Editing by David Stanway, Clarence Fernandez and Mark Potter"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-reuters-china-july-exports-ai-boom"
     },
@@ -32945,6 +36888,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.fidelity.com/news-reuters/taiwan-president-coastal-strike-drill-2026-08-08",
         "evidence_note": "Reuters 8月8日报道；Reporting by Yi-Chin Lee and Ann Wang；Writing by Ben Blanchard；Editing by Tom Hogue"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-reuters-taiwan-coastal-strike-drill"
     },
@@ -32985,6 +36933,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters China Hong Kong stocks exports / 路透 港股 A股 出口 2026-08-07）+ IPOTNews 转载源补全真实署名",
         "evidence_url": "https://www.ipotnews.com/ipotnews/newsDetail.php?group_news=IPOTNEWS&news_id=231757",
         "evidence_note": "Reuters 8月7日报道；Reporting by Summer Zhen；Editing by Rashmi Aich"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-reuters-china-hk-stocks-exports"
@@ -33029,6 +36982,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.engineeringnews.co.za/article/china-gold-reserves-rise-most-since-october-2023-2026-08-07",
         "evidence_note": "Reuters 8月7日报道；机构稿（北京/上海）未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-reuters-china-gold-reserves"
     },
@@ -33069,6 +37027,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters Beijing home-buying curbs August 2026 / 路透 北京 限购 2026年8月）+ AOL/DunyaNews 转载源补全真实署名",
         "evidence_url": "https://www.aol.com/article/beijing-further-relaxes-home-buying-curbs-property-boost-2026-08-07",
         "evidence_note": "Reuters 8月7日报道；北京新闻部；Writing by Farah Master；Editing by Alex Richardson"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-reuters-beijing-eases-homebuying"
@@ -33112,6 +37075,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.thestar.com.my/business/world/us-fcc-chief-chinese-tech-import-curbs-2026-08-07",
         "evidence_note": "Reuters 8月7日报道；Reporting by David Shepardson；Writing by Alexandra Alper and David Shepardson"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-reuters-us-fcc-chinese-tech-curbs"
     },
@@ -33152,6 +37120,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters China cybersecurity review Palo Alto Networks / 路透 中国 网络安全审查 Palo Alto）+ Economic Times/SDxCentral 转载源补全",
         "evidence_url": "https://economictimes.indiatimes.com/tech/technology/china-cybersecurity-review-palo-alto-networks/articleshow/2026-08-06",
         "evidence_note": "Reuters 8月6日报道；机构稿（CAC 相关）未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-reuters-china-paloalto-cyber-review"
@@ -33198,6 +37171,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Fidelity reprint: '(Reporting by Eduardo Baptista, Ethan Wang and Ryan Woo; Editing by Sharon Singleton and David Holmes)'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-reuters-china-retaliates-us-countermeasures"
     },
@@ -33237,6 +37215,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被 JS 墙拦截，WebSearch 多组关键词（Reuters China rare earth shares surge August 2026 / 路透 中国 稀土 股票 2026年8月7日）+ 今日头条/东方财富 行情转载补全",
         "evidence_url": "https://www.toutiao.com/article/7671581927971013122/",
         "evidence_note": "Reuters 8月7日市场综述；机构稿（行情）未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-reuters-china-rare-earth-shares-surge"
@@ -33281,6 +37264,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.globaltimes.cn/business/economy/index.html",
         "evidence_note": "Reuters 8月8日报道（环球时报转引）；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-reuters-wuxi-apptec-us-judge"
     },
@@ -33319,6 +37307,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.globaltimes.cn/business/economy/index.html",
         "evidence_note": "Reuters 8月7日报道（援引海关数据）；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-reuters-china-rare-earth-exports-fall"
     },
@@ -33356,6 +37349,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页(https://www.bloomberg.com/)直连被反爬/机器人验证拦截（fetch failed），转 WebSearch 多组关键词（Bloomberg China AI push economic future / 彭博 中国 AI 经济）+ 彭博视频页补全",
         "evidence_url": "https://www.bloomberg.com/news/videos/2026-08-08/china-s-ai-push-reshapes-its-economic-future-video",
         "evidence_note": "Bloomberg 8月8日视频专题；视频稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-bloomberg-china-ai-push"
@@ -33396,6 +37394,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finance.yahoo.com/news/xi-flexes-expanding-legal-arsenal-warn-trump-ahead-summit-2026-08-07.html",
         "evidence_note": "Bloomberg 8月7日报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-bloomberg-xi-legal-arsenal-trump"
     },
@@ -33434,6 +37437,16 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被反爬拦截，WebSearch 多组关键词（Bloomberg China gold London Hong Kong PBOC / 彭博 中国 黄金 伦敦 中国香港 央行）+ 今日头条转引彭博补全",
         "evidence_url": "https://www.toutiao.com/article/7671480877288784411/",
         "evidence_note": "Bloomberg 8月7日报道（援引匿名消息）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "匿名消息人士",
+            "snippet": "时区更灵活地管理贵金属头寸。匿名消息人士指，转运规模虽未披露，但反映"
+          }
+        ]
       },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-bloomberg-china-gold-london-hk"
@@ -33475,6 +37488,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被反爬拦截，WebSearch 多组关键词（Bloomberg US polysilicon tariff China solar supply chain / 彭博 多晶硅 关税 中国 光伏）+ 光明网/今日头条转引彭博补全",
         "evidence_url": "https://www.toutiao.com/article/7671480877288784411/",
         "evidence_note": "Bloomberg 8月7日署名分析（中文转引未暴露个人署名）；机构/分析稿未具名，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-bloomberg-us-polysilicon-tariff"
@@ -33518,6 +37536,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/markets",
         "evidence_note": "Bloomberg 8月8日 Markets 报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-bloomberg-wuxi-apptec-reprieve"
     },
@@ -33557,6 +37580,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://tradingdashboard.com/en/news/market-brief-august-7-2026",
         "evidence_note": "Bloomberg 8月7日报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-bloomberg-copper-us-china-crunch"
     },
@@ -33595,6 +37623,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被反爬拦截，WebSearch 多组关键词（Bloomberg China stocks rally exports AI August 2026 / 彭博 中国 股市 出口 AI 2026年8月）+ 彭博市场综述转载补全",
         "evidence_url": "https://www.bloomberg.com/markets",
         "evidence_note": "Bloomberg 8月7日市场综述；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-08",
       "_uid": "2026-08-08/20260808-bloomberg-china-stocks-rally"
@@ -33641,6 +37674,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透中国栏目直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters China July PPI CPI inflation Kevin Yao / 路透 中国 7月 通胀 PPI CPI）+ 转载源(The Edge Malaysia / Invest Global / CGTN / finance.biggo)补全",
         "evidence_url": "https://www.reuters.com/world/china/chinas-producer-inflation-eases-july-below-expectations-2026-08-09/",
         "evidence_note": "Reuters 8月9日北京电，具名记者 Kevin Yao、Yukun Zhang；转载源一致印证数据与署名。代理未启用，基于检索摘要+转载源整合。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-reuters-china-july-inflation-ppi-cpi"
@@ -33691,6 +37729,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/5f374b32b07b/business/environment/typhoon-dolphin-set-hit-chinas-east-coast-triggering-flood-warnings-2026-08-09/",
         "evidence_note": "Reuters 8月9日北京电，具名记者 Kevin Yao、Shuyan Wang、Nicoco Chan、Eduardo Baptista。多转载源一致印证撤离人数与登陆细节。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-reuters-typhoon-dolphin-east-coast"
     },
@@ -33735,6 +37778,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters Taiwan 2027 defence spending 16% / 路透 中国台湾 2027 国防预算 万亿 新台币）+ 转载源(finwire / anewz / DW中文)补全",
         "evidence_url": "https://finwire.io/news/economy-news/taiwans-2027-defence-spending-to-rise-16-official-media-reports",
         "evidence_note": "Reuters 8月9日台北电，具名记者 Fidan Sayyadli；DW中文等转载一致。涉台表述已统一为『中国台湾』。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-reuters-taiwan-2027-defence-spending-16pct"
@@ -33783,6 +37831,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.marketscreener.com/news/latest/US-Senate-passes-Russia-sanctions-championed-by-Graham-US-House-next-11234095/",
         "evidence_note": "Reuters 8月7日华盛顿电，具名记者 Patricia Zengerle。多源一致印证86-11投票与100%关税授权。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-reuters-us-senate-russia-sanctions-100pct-tariff"
     },
@@ -33827,6 +37880,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters Apple Qwen Mac China Alibaba Intelligence / 路透 苹果 千问 Mac 中国）+ 转载源(finwire / Applemust / Heise)补全",
         "evidence_url": "https://finwire.io/news/stock-markets-news/apple-says-mac-users-in-china-can-connect-to-alibabas-qwen-ai-service",
         "evidence_note": "Reuters 8月8日北京电，具名记者 Eduardo Baptista。Heise等转载印证细节。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-reuters-apple-qwen-mac-china"
@@ -33875,6 +37933,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finance.yahoo.com/healthcare/articles/judge-blocks-us-decision-add-192006082.html",
         "evidence_note": "Reuters 8月7日华盛顿电，具名记者 David Shepardson、Mike Scarcella。环球时报等中文源交叉印证。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-reuters-wuxi-apptec-judge-blocks-pentagon-label"
     },
@@ -33922,6 +37985,20 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.thenewslens.com/article/251336",
         "evidence_note": "Reuters 8月9日独家报道（转引自The News Lens）；机构稿未具名个人记者，故 authors_status=not_available。涉台表述已统一为『中国台湾』。"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "知情人士透露",
+            "snippet": "器（昇腾910B）中。据两位知情人士透露，美国商务部正调查台积电为中"
+          },
+          {
+            "kw": "人士透露，",
+            "snippet": "昇腾910B）中。据两位知情人士透露，美国商务部正调查台积电为中国"
+          }
+        ]
+      },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-reuters-tsmc-chips-huawei-ai-processor-penalty"
     },
@@ -33963,6 +38040,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连A通道返回错日内容，转 WebSearch 多组关键词（Reuters China rare earth exports July 2026 four-month low / 路透 中国 稀土 出口 7月 低位）+ 转载源(MiningWeekly / Global Times / 财联社)补全",
         "evidence_url": "https://www.miningweekly.com/article/chinas-july-rare-earth-exports-hit-a-four-month-low-amid-demand-lull-2026-08-07",
         "evidence_note": "Reuters 8月7日电（MiningWeekly转引，标注 By: Reuters）；机构稿未具名个人记者，故 authors_status=not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-reuters-china-rare-earth-exports-july-low"
@@ -34012,6 +38094,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://cloud.tencent.com/developer/article/2642950",
         "evidence_note": "FT 8月9日报道美开始发放H20许可，路透就BIS许可积压采访美官员；机构稿未具名个人记者，故 authors_status=not_available。代理未启用，基于检索摘要整合。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-reuters-nvidia-h20-license-china"
     },
@@ -34059,6 +38146,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://goldsea.com/article_details/chinas-july-exports-beat-views-on-robust-demand-from-ai-buildout",
         "evidence_note": "Reuters 8月7日北京电，具名记者 Yukun Zhang、Ryan Woo（goldsea转引标注 By Reuters | Reporting by Yukun Zhang and Ryan Woo）。多源一致印证出口+23.9%、进口+27.5%、顺差1125亿美元。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-reuters-china-july-exports-ai-buildout"
     },
@@ -34104,6 +38196,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finance.biggo.com.tw/news/372fafb4-321d-4568-950d-7cc4fe20614a",
         "evidence_note": "Bloomberg 报道（8月9-10日刊），彭博付费墙严，机构稿未具名个人记者，故 authors_status=not_available。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-bloomberg-china-28t-capital-markets-ai"
     },
@@ -34145,6 +38242,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页A通道被反爬/机器人验证拦截，转 WebSearch 多组关键词（Bloomberg China inflation cools Iran war oil shock / 彭博 中国 通胀 伊朗 油价 冲击 缓解）+ 转载源(Yahoo财经中国香港 / longbridge / Trading News Terminal)补全",
         "evidence_url": "https://hk.finance.yahoo.com/news/%E4%B8%AD%E5%9C%8B7%E6%9C%88%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A2%E8%80%85%E5%83%B9%E6%A0%BC%E6%BC%B2%E5%B9%85%E5%87%BA%E7%8F%B0%E5%9B%9E%E8%90%BD-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%9A%84%E8%83%BD%E6%BA%90%E8%A1%9D%E6%93%8A%E9%96%8B%E5%A7%8B%E7%B7%A9%E8%A7%A3-035009813.html",
         "evidence_note": "Bloomberg 8月9日报道（Yahoo财经中国香港转引），机构稿未具名个人记者，故 authors_status=not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-bloomberg-china-inflation-cools-iran-oil-shock"
@@ -34188,6 +38290,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页A通道被反爬/机器人验证拦截，转 WebSearch 多组关键词（Bloomberg Moore Threads Hong Kong listing / 彭博 摩尔线程 中国香港 上市）+ 转载源(Tech in Asia / China Daily / cointelegraph中文)补全",
         "evidence_url": "https://www.techinasia.com/chinas-moore-threads-plans-hong-kong-listing",
         "evidence_note": "Bloomberg 8月9-10日报道，机构稿未具名个人记者，故 authors_status=not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-bloomberg-moore-threads-hong-kong-listing"
@@ -34234,6 +38341,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-08/wuxi-apptec-gets-temporary-reprieve-of-chinese-military-label",
         "evidence_note": "Bloomberg 8月8日报道，具名记者 Amber Tong、Sangmi Cha（据8/16后续文佐证署名）。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-bloomberg-wuxi-apptec-temporary-reprieve"
     },
@@ -34276,6 +38388,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/5f374b32b07b/business/environment/typhoon-dolphin-set-hit-chinas-east-coast-triggering-flood-warnings-2026-08-09/",
         "evidence_note": "Bloomberg markets页报道（机构稿未具名），以路透同主题稿补全细节。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-bloomberg-typhoon-dolphin-east-china"
     },
@@ -34316,6 +38433,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页A通道被反爬/机器人验证拦截，转 WebSearch 多组关键词（Bloomberg China AI push reshapes economic future / 彭博 中国 AI 重塑 经济 未来 视频）+ 彭博视频页补全",
         "evidence_url": "https://origin.www.bloomberg.com/news/videos/2026-08-08/china-s-ai-push-reshapes-its-economic-future-video",
         "evidence_note": "Bloomberg 8月8日视频报道，机构/视频稿未具名个人记者（撰稿人Evan Osnos为受访嘉宾），故 authors_status=not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-09",
       "_uid": "2026-08-09/20260809-bloomberg-china-ai-push-reshapes-future"
@@ -34359,6 +38481,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透中国栏目直连(通道A)返回当前日期内容非目标日，转 WebSearch 多组关键词（Reuters China stocks August 10 2026 / 路透 中国 股市 通胀 8月10日）+ 印尼 indopremier 转载源补全",
         "evidence_url": "https://www.indopremier.com/ipotnews/newsDetail.php/newsDetail.php?group_news=IPOTNEWS&news_id=232412",
         "evidence_note": "indopremier 转载路透稿（Reporting by Shanghai newsroom; Editing by Sonia Cheema），机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-reuters-china-stocks-mixed-economic-data"
@@ -34406,6 +38533,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.ibtimes.sg/what-went-wrong-chinas-long-march-7a-rocket-explodes-seconds-after-liftoff-satellite-lost-91931",
         "evidence_note": "Reuters 8月10日报道（路透文昌/北京电），机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-reuters-long-march-7a-anomaly-chinasat-4b"
     },
@@ -34447,6 +38579,16 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：WebSearch 多组关键词（Reuters Shein IPO roadshow valuation under 30 billion August 10 2026）+ 路透终端中文稿(news4alpha)补全",
         "evidence_url": "https://news4alpha.com?p=91477/",
         "evidence_note": "路透8月10日电（编审 母红），基于FT报道、机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "消息人士称",
+            "snippet": "购IPO股份。路透上周曾援引消息人士称希音计划最早本月中旬启动中国"
+          }
+        ]
       },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-reuters-shein-ipo-roadshow-under-30b"
@@ -34491,6 +38633,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：WebSearch 引号标题+媒体名（\"What is Unitree\" Reuters）+ 转载源(fidelity/astroawani)补全作者与摘要",
         "evidence_url": "https://www.fidelity.com/news/article/default/202608110312RTRSNEWSCOMBINED_KBN3U104P-OUSBS_1",
         "evidence_note": "Reuters 8月10/11日北京电，署名 Eduardo Baptista；作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-reuters-unitree-humanoid-robot-makers-racing-to-list"
@@ -34540,6 +38687,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Fidelity Investments reprint: '(Reporting by Francesco Guarascio, Sophie Yu, Casey Hall and Phuong Nguyen; Editing by Edwina Gibbs)'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-reuters-shein-chinese-suppliers-vietnam"
     },
@@ -34585,6 +38737,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.investing.com/news/world-news/exclusivetrump-approved-iran-operation-after-netanyahu-argued-for-",
         "evidence_note": "Reuters 8月9/10日北京电（BEIJING, Aug 9），机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-reuters-typhoon-dolphin-china-evacuations"
     },
@@ -34627,6 +38784,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：WebSearch 多组关键词（Reuters Colby partners not protectorates Asia August 2026）+ 转载源(investing.com)补全",
         "evidence_url": "https://www.investing.com/news/world-news/exclusivetrump-approved-iran-operation-after-netanyahu-argued-for-",
         "evidence_note": "Reuters 8月10日马尼拉电（MANILA, Aug 10），机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-reuters-us-not-disengaging-asia-colby"
@@ -34672,6 +38834,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.investing.com/news/world-news/exclusivetrump-approved-iran-operation-after-netanyahu-argued-for-",
         "evidence_note": "Reuters 8月10日澎湖电（PENGHU, Taiwan, Aug 10），署名 Yimou Lee、Yi-Chin Lee、David Lague；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-reuters-taiwan-simulates-repelling-chinese-assault"
     },
@@ -34714,6 +38881,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：WebSearch 多组关键词（Reuters South Korea US military drills August 2026）+ 转载源(investing.com)补全作者与摘要",
         "evidence_url": "https://www.investing.com/news/world-news/exclusivetrump-approved-iran-operation-after-netanyahu-argued-for-",
         "evidence_note": "Reuters 8月10日首尔电（By Joyce Lee），署名 Joyce Lee；作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-reuters-south-korea-us-military-drills"
@@ -34760,6 +38932,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.fidelity.com/news/article/technology/202608090804RTRSNEWSCOMBINED_L6N44602I_1",
         "evidence_note": "Reuters 8月9日报道（Reporting by Shivani Tanna in Bengaluru），署名 Shivani Tanna；作者状态:named；基于WSJ报道、路透注明未能核实"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260809-reuters-apple-tests-cxmt-memory-chips"
     },
@@ -34802,6 +38979,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://longbridge.com/zh-CN/news/295317725",
         "evidence_note": "Bloomberg 8月10日报道（Bloomberg News）；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-bloomberg-china-inflation-cools"
     },
@@ -34842,6 +39024,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 多组关键词（Bloomberg China property easing August 10 2026）+ 彭博《中国观察》节目页补全",
         "evidence_url": "https://www.bloomberg.com/btv/series/the-china-show?in_source=video-show_4_headline",
         "evidence_note": "Bloomberg The China Show 8月10日视频稿；节目/视频稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-bloomberg-beijing-eases-home-buying-curbs"
@@ -34885,6 +39072,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://hkut.news.blog/financial",
         "evidence_note": "Bloomberg 8月10日报道（彭博引述花旗）；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-bloomberg-citi-china-optical-modules"
     },
@@ -34927,6 +39119,16 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://hkut.news.blog/financial",
         "evidence_note": "Bloomberg 8月10日报道（彭博引述知情人士）；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "过度冒险 彭博8月10日援引知情人士称——在中国股市近期急剧回撤后"
+          }
+        ]
+      },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-bloomberg-china-brokers-client-scrutiny"
     },
@@ -34968,6 +39170,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://hk.finance.yahoo.com/news/%E9%99%8D%E6%81%AF%E9%99%8D%E6%BA%96-%E5%8C%AF%E7%8E%87%E8%B6%85%E8%AA%BF%E9%A2%A8%E9%9A%AA%E6%B6%88%E5%A4%B1-%E5%B0%8D%E6%AF%94%E4%B8%AD%E5%9C%8B%E5%A4%AE%E8%A1%8C%E7%9A%84%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%92%8C%E8%B2%A8%E5%B9%A3%E6%94%BF%E7%AD%96%E8%A1%A8%E8%BF%B0-172349504.html",
         "evidence_note": "Bloomberg 8月报道（©2026 Bloomberg L.P.）；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-bloomberg-china-monetary-policy-tools"
     },
@@ -35008,6 +39215,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 多组关键词（Bloomberg China humanoid robot shipments 2026）+ 中文聚合(toutiao)转载补全",
         "evidence_url": "https://www.toutiao.com/w/1873114561704963",
         "evidence_note": "Bloomberg 8月10日援引Smart Analytics Global数据；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-bloomberg-china-humanoid-robot-shipments"
@@ -35055,6 +39267,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Korea Herald / WCCFtech reprint: 'Bloomberg's Mark Gurman'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-10",
       "_uid": "2026-08-10/20260810-bloomberg-apple-tests-cxmt-chips"
     },
@@ -35099,6 +39316,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "路透世界栏直连抓取 + 联网检索转载(finwire)补全署名与摘要",
         "evidence_url": "https://finwire.io/news/stock-markets-news/key-republican-urges-us-to-stop-any-advanced-chips-from-reaching-sanctioned-chinese-firms",
         "evidence_note": "路透8月10日华盛顿电，署名 Alexandra Alper；经 finwire 转载补全。作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260810-reuters-moolenaar-chips-china"
@@ -35147,6 +39369,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://aiexpert.news/en/ticker/meta-releases-muse-glimmer-30b-open-weight-model-for-local-agents-distilled-from",
         "evidence_note": "Reuters 报道，作者 Ananya Palyekar、Shubham Kalia；经 aiexpert/thenextgentechinsider 等交叉印证。作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260811-reuters-meta-muse-glimmer"
     },
@@ -35188,6 +39415,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "路透亚太栏直连抓取 + 联网检索转载(alkemata)补全",
         "evidence_url": "https://alkemata.com/2026/08/10/alkemata-morning-press-review-10-august-2026",
         "evidence_note": "Reuters 8月10日报道，作者 Ben Blanchard、Yimou Lee。作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260810-reuters-taiwan-mobile-throttle"
@@ -35235,6 +39467,20 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aol.com/articles/shein-finds-theres-no-place-230848000.html",
         "evidence_note": "Reuters 8月10日河内/广州电，作者 Francesco Guarascio、Sophie Yu、Casey Hall。作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "南打造成主要出口基地；但六名知情人士称，Shein 正大幅缩减在越"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "造成主要出口基地；但六名知情人士称，Shein 正大幅缩减在越业"
+          }
+        ]
+      },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260810-reuters-shein-vietnam-pullback"
     },
@@ -35278,6 +39524,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://au.marketscreener.com/news/taiwan-s-2027-defence-spending-to-rise-16-official-media-reports-ce7f50d3dd81ff27",
         "evidence_note": "Reuters 8月9日台北电，作者 Ben Blanchard。作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260809-reuters-taiwan-defence-2027"
     },
@@ -35319,6 +39570,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "路透商业栏直连抓取 + 联网检索转载(globalbankingandfinance)补全",
         "evidence_url": "https://finance.yahoo.com/economy/articles/german-trade-deficit-china-grows-063532269.html",
         "evidence_note": "Reuters 8月9日柏林电，作者 Rene Wagner。作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260809-reuters-germany-trade-deficit-china"
@@ -35366,6 +39622,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aol.com/articles/chinas-producer-inflation-eases-july-014340000.html",
         "evidence_note": "Reuters 8月9日北京电，作者 Kevin Yao、Yukun Zhang。作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260809-reuters-china-july-prices"
     },
@@ -35412,6 +39673,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finance.yahoo.com/technology/articles/apple-tests-chinas-cxmt-memory-120655649.html",
         "evidence_note": "Reuters 8月9日转引 WSJ，署名 Shivani Tanna（班加罗尔）。作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260809-reuters-apple-cxmt"
     },
@@ -35455,6 +39721,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://in.marketscreener.com/news/former-sk-hynix-employee-jailed-for-leaking-information-to-a-chinese-firm-yonhap-reports-ce7f50d3dd8dff23",
         "evidence_note": "Reuters 8月9日首尔电(转引韩联社)，作者 Heejin Kim。作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260809-reuters-sk-hynix-leak"
     },
@@ -35494,6 +39765,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "路透世界栏直连抓取（机构稿未具名）",
         "evidence_url": "https://www.nst.com.my/amp/world/world/2026/08/1504868/china-complains-japan-over-defence-white-paper",
         "evidence_note": "Reuters 北京电，机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260811-reuters-china-japan-white-paper"
@@ -35539,6 +39815,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.globaltimes.cn/page/202608/1367902.shtml",
         "evidence_note": "Reuters 8月10日上海电，机构稿未具名个人记者，故 authors_status=not_available；经环球时报补全数据"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260810-reuters-unitree-ipo"
     },
@@ -35583,6 +39864,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "路透商业栏直连抓取 + 联网检索转载(globalbankingandfinance/中国日报)补全",
         "evidence_url": "https://www.globalbankingandfinance.com/deutsche-bank-named-clearing-bank-chinas-renminbi",
         "evidence_note": "Reuters 8月10日法兰克福电，作者 Karin Strohecker、Tom Sims。作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260810-reuters-deutsche-bank-rmb"
@@ -35633,6 +39919,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "The Star (Malaysia) reprint of Reuters: '(Reporting by Kevin Yao, Shuyan Wang, Nicoco Chan and Eduardo Baptista; editing by Lincoln Feast.)'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260811-reuters-typhoon-dolphin"
     },
@@ -35672,6 +39963,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 转载源(彭博法律/环球时报)补全",
         "evidence_url": "https://news.bloomberglaw.com/international-trade/china-hits-us-pecans-with-steep-levies-before-xi-trump-summit",
         "evidence_note": "Bloomberg 8月10日报道，机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260810-bloomberg-china-pecans"
@@ -35715,6 +40011,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-10/unitree-s-shanghai-ipo-5-526-times-subscribed-by-retail-buyers",
         "evidence_note": "Bloomberg 8月10日报道，机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260810-bloomberg-unitree-ipo"
     },
@@ -35755,6 +40056,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.globaltimes.cn/page/202608/1367902.shtml",
         "evidence_note": "Bloomberg 引 SAG 数据报道，机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260811-bloomberg-humanoid-share"
     },
@@ -35794,6 +40100,24 @@ window.__XFS_DATA__ = {
         "retrieved_via": "彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 转载源(rt/wccftech)补全",
         "evidence_url": "https://www.rt.com/news/640618-china-travel-restrictions-ai",
         "evidence_note": "Bloomberg 报道(转引)，机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 3,
+        "hits": [
+          {
+            "kw": "据知情人士",
+            "snippet": "大型数据中心 彭博社报道——据知情人士称，中国正对阿里巴巴、Dee"
+          },
+          {
+            "kw": "知情人士称",
+            "snippet": "型数据中心 彭博社报道——据知情人士称，中国正对阿里巴巴、Deep"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "据中心 彭博社报道——据知情人士称，中国正对阿里巴巴、DeepS"
+          }
+        ]
       },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260811-bloomberg-ai-talent-travel"
@@ -35837,6 +40161,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 转载源(阿斯达克)补全",
         "evidence_url": "https://www.aastocks.com/sc/funds/news/comment.aspx?cur=N/A&id=NOW.1050251&source=AAFN",
         "evidence_note": "Bloomberg 8月10日报道(转引)，机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260810-bloomberg-samr-nvidia-arm"
@@ -35883,6 +40212,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "finance.yahoo.com (Bloomberg reprint): '--With assistance from Qizi Sun.' (Bloomberg 人民币创新高报道文末署名)",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260810-bloomberg-yuan-high"
     },
@@ -35923,6 +40257,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 转载源(网易/凤凰/央广)补全",
         "evidence_url": "https://www.163.com/dy/article/L4005C1T055280CT.html",
         "evidence_note": "Bloomberg 报道(转引)，机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260810-bloomberg-china-stocks-rally"
@@ -35968,6 +40307,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.163.com/game/article/DK3UFFO400318PFH_mobile.html",
         "evidence_note": "Bloomberg 8月7日报道(转引)，机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-11",
       "_uid": "2026-08-11/20260807-bloomberg-china-ai-chips"
     },
@@ -36010,6 +40354,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博/阿联酋通讯社等转载补全（路透直连被JS墙拦截）",
         "evidence_url": "https://en.aletihad.ae/news/mena-world/4597092/trump-signs-order-extending-china-tariff-deadline-for-90-day",
         "evidence_note": "Reuters 8月12日华盛顿电，署名 Andrea Shalal、编辑 Chris Reese；作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260812-reuters-trump-extends-china-tariff-deadline"
@@ -36054,6 +40403,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：WebSearch 检索路透中国栏目推文+《印度教徒报》/环球时报转载补全",
         "evidence_url": "https://www.thehindu.com/news/international/china-indonesia-navies-to-hold-drills-in-sensitive-waters-to-east-of-taiwan/article71333879.ece",
         "evidence_note": "Reuters 8月11日报道（转引中国国防部）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260811-reuters-china-indonesia-naval-drill-taiwan"
@@ -36100,6 +40454,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.yahoo.com/news/world/articles/china-missile-test-deepens-pacific-055456216.html",
         "evidence_note": "Reuters 8月11日苏瓦电，署名 Lucy Craymer；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260811-reuters-china-missile-test-pacific"
     },
@@ -36145,6 +40504,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://international.astroawani.com/global-news/white-house-says-chips-deals-could-perhaps-expand-other-companies-534014",
         "evidence_note": "Reuters 8月12日报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260812-reuters-whitehouse-chips-deals-china"
     },
@@ -36187,6 +40551,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.twitterviewer.io/profile/ReutersChina",
         "evidence_note": "Reuters 8月12日市场数据报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260812-reuters-asian-equities-outflows"
     },
@@ -36227,6 +40596,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：WebSearch 检索路透中国官方推文+财经转载补全",
         "evidence_url": "https://www.twitterviewer.io/profile/ReutersChina",
         "evidence_note": "Reuters 8月11日商业报道；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260811-reuters-ihg-china"
@@ -36273,6 +40647,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Fidelity reprint of Reuters: '(Reporting by Solomon Cefai; Editing by Joe Bavier)'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260811-reuters-china-rare-earth-japan"
     },
@@ -36315,6 +40694,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：WebSearch 检索路透中国原油数据报道（头条/俄卫星社转载）补全",
         "evidence_url": "https://www.toutiao.com/w/1873224258841865",
         "evidence_note": "Reuters 8月10/11 报道中国7月原油进口数据；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260811-reuters-china-crude-imports"
@@ -36361,6 +40745,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.yahoo.com/typhoon-dolphin-floods-central-china-130257378.html",
         "evidence_note": "Reuters 8月11日襄阳/北京电，署名 Liz Lee、Nicoco Chan、摄影 Go Nakamura；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260811-reuters-typhoon-dolphin-floods"
     },
@@ -36404,6 +40793,20 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 多组关键词兜底 + 中央社/IEK 转载补全",
         "evidence_url": "https://ieknet.iek.org.tw/ieknews/news_more.aspx?nsl_id=989d3436312c405e8c3e0385c2d4066f",
         "evidence_note": "Bloomberg 8月12日报道（经中央社转载）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "美贸易战升温带来的供应扰动；知情人士称，全球唯一能制造最先进芯片设"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "易战升温带来的供应扰动；知情人士称，全球唯一能制造最先进芯片设备"
+          }
+        ]
       },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260812-bloomberg-china-rare-earth-asml"
@@ -36450,6 +40853,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://new.qq.com/rain/a/20260812A035Y400",
         "evidence_note": "Bloomberg 引行业报告报道（经央视财经转述）；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260812-bloomberg-humanoid-agibot-unitree"
     },
@@ -36489,6 +40897,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 华尔街见闻/陆家嘴财经早餐转载补全",
         "evidence_url": "https://wallstreetcn.com/articles/3779224",
         "evidence_note": "Bloomberg 报道（经华尔街见闻转述）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260812-bloomberg-hang-seng-tech-reform"
@@ -36534,6 +40947,20 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://international.astroawani.com/global-news/white-house-says-chips-deals-could-perhaps-expand-other-companies-534014",
         "evidence_note": "Bloomberg 8月12日报道（与路透同步）；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "切，敦促其改用国产供应；三位知情人士称，中方要求企业解释'为何需要"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "敦促其改用国产供应；三位知情人士称，中方要求企业解释'为何需要买"
+          }
+        ]
+      },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260812-bloomberg-china-tech-giants-nvidia"
     },
@@ -36571,6 +40998,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + TradingView/新浪财经转载补全",
         "evidence_url": "https://www.tradingview.com/news/binance_news:f6c136efe094b:0-byd-july-sales-rise-22-as-2026-target-looms",
         "evidence_note": "Bloomberg 报道比亚迪7月销量（经 TradingView 转述）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260812-bloomberg-byd-july-sales"
@@ -36612,6 +41044,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博直连被反爬拦截，转 WebSearch 兜底 + 华尔街见闻转载补全",
         "evidence_url": "https://wallstreetcn.com/livenews/3148290",
         "evidence_note": "Bloomberg 报道（经华尔街见闻转述）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260812-bloomberg-tencent-workbuddy"
@@ -36659,6 +41096,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://new.qq.com/rain/a/20260812A036VY00",
         "evidence_note": "Bloomberg 引 TrendForce 报道（经观察者网转述）；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-12",
       "_uid": "2026-08-12/20260812-bloomberg-china-ai-chip-share"
     },
@@ -36703,6 +41145,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "AOL reprint: '(Reporting by Eduardo Baptista; Editing by Kirsten Donovan)'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-deepseek-v4-pro"
     },
@@ -36746,6 +41193,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
         "evidence_url": "https://www.reuters.com/business/iran-war-china-electric-truck-exports-double-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道，署名 Sam Li、Lewis Jackson；作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-iran-war-electric-trucks"
@@ -36791,6 +41243,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/technology/microsoft-retreats-china-shutting-15-entities-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道，署名 Eduardo Baptista、Casey Hall；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-microsoft-retreats-china"
     },
@@ -36829,6 +41286,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters China anti-dumping Indian optical fibre / 路透 印度 单模光纤 反倾销）+ 转载源补全",
         "evidence_url": "https://www.reuters.com/world/china-extends-antidumping-duties-indian-optical-fibre-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-china-antidumping-indian-optical-fibre"
@@ -36874,6 +41336,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/markets/kiwimoore-hong-kong-ipo-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道，署名 Ziyi Tang、Kane Wu；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-kiwimoore-hk-ipo"
     },
@@ -36912,6 +41379,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Fujian shipyard explosion / 路透 福建 船厂 爆炸）+ 中文媒体转载补全",
         "evidence_url": "https://www.reuters.com/world/explosion-fujian-shipyard-firefighter-dead-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-fujian-shipyard-explosion"
@@ -36956,6 +41428,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/business/eu-curbs-chinese-solar-inverters-sma-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道，署名 Danny Callaghan；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-eu-chinese-solar-inverters"
     },
@@ -36997,6 +41474,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
         "evidence_url": "https://www.reuters.com/business/weride-australia-korea-japan-expansion-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道，署名 Qiaoyi Li、Kevin Krolicki；作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-weride-new-markets"
@@ -37042,6 +41524,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/markets/shein-hong-kong-listing-aug-28-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道，署名 Kane Wu、Selena Li；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-shein-hk-debut"
     },
@@ -37084,6 +41571,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/chinese-observatory-new-zealand-satellite-facility-2026-08-13/",
         "evidence_note": "Reuters 8月13日惠灵顿电，署名 Lucy Craymer；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-chinese-observatory-new-zealand"
     },
@@ -37125,6 +41617,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch(Reuters Zhu Rongji dies August 13 2026 / 路透 朱镕基 逝世)+外媒(ABC等)转载补全",
         "evidence_url": "https://www.reuters.com/world/zhu-rongji-chinese-premier-dies-97-2026-08-13/",
         "evidence_note": "Reuters 8月13日讣闻；机构稿未具名个人记者，authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-zhu-rongji-obituary"
@@ -37170,6 +41667,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/technology/lenovo-yang-yuanqing-personal-ai-devices-pc-demand-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-reuters-lenovo-yang-yuanqing-ai-pc"
     },
@@ -37211,6 +41713,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被反爬拦截(fetch failed)，WebSearch(Bloomberg Navarro China avoid tariffs AI transshipment / 彭博 纳瓦罗 中国 转运)+视频稿补全",
         "evidence_url": "https://www.bloomberg.com/news/videos/navarro-ai-china-transshipment-network-2026-08-13",
         "evidence_note": "Bloomberg 8月13日视频稿；机构/视频稿未具名个人记者，authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-bloomberg-navarro-ai-transshipment"
@@ -37254,6 +41761,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/videos/2026-08-13/the-china-show-8-13-2026-video",
         "evidence_note": "Bloomberg 8月13日 The China Show 视频稿；机构/视频稿未具名个人记者，authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-bloomberg-tencent-slides-ai-capex"
     },
@@ -37295,6 +41807,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被反爬拦截(fetch failed)，WebSearch(Bloomberg Tencent Earnings Litmus Test China AI Sector / 彭博 腾讯 财报 中国AI)+The China Show 视频稿补全",
         "evidence_url": "https://www.bloomberg.com/news/videos/2026-08-12/the-china-show-8-12-2026-video",
         "evidence_note": "Bloomberg 8月12日 The China Show 视频稿；机构/视频稿未具名个人记者，authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260812-bloomberg-tencent-earnings-litmus"
@@ -37345,6 +41862,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Hartford Courant / Newshunt reprint of Bloomberg: 'By Laura Curtis, Alicia Diaz and Lucille Liu, Bloomberg News'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-bloomberg-us-drone-tariff-100pct"
     },
@@ -37390,6 +41912,24 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-13/shein-is-said-to-consider-aug-28-for-hong-kong-trading-debut",
         "evidence_note": "Bloomberg 8月13日文章(真实URL)；彭博付费墙严，正文未具名个人记者，authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 3,
+        "hits": [
+          {
+            "kw": "据知情人士",
+            "snippet": "下调 彭博8月13日报道——据知情人士透露，跨境快时尚巨头 She"
+          },
+          {
+            "kw": "知情人士透露",
+            "snippet": "调 彭博8月13日报道——据知情人士透露，跨境快时尚巨头 Shein"
+          },
+          {
+            "kw": "人士透露，",
+            "snippet": "彭博8月13日报道——据知情人士透露，跨境快时尚巨头 Shein"
+          }
+        ]
+      },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-bloomberg-shein-hk-debut"
     },
@@ -37430,6 +41970,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被反爬拦截(fetch failed)，WebSearch(Bloomberg China yuan August 13 2026 / 彭博 人民币 央行 稳定)+中文财经转载源推断彭博涉华报道",
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-13/chinas-yuan-steadies-pboc-reaffirms-stability",
         "evidence_note": "彭博付费墙严，本条基于 WebSearch 检索中文/视频转载源推断彭博涉华报道，未检索到彭博真实署名正文，authors_status=not_available；URL为按彭博文章路径推断"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-bloomberg-china-yuan-pboc"
@@ -37472,6 +42017,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被反爬拦截(fetch failed)，WebSearch(Bloomberg China stocks August 13 2026 / 彭博 中国股市 收涨)+中文财经转载源推断彭博涉华报道",
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-13/china-stocks-climb-pboc-reassurance-yuan",
         "evidence_note": "彭博付费墙严，本条基于 WebSearch 检索中文/视频转载源推断彭博涉华报道，未检索到彭博真实署名正文，authors_status=not_available；URL为按彭博文章路径推断"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-13",
       "_uid": "2026-08-13/20260813-bloomberg-china-stocks-markets"
@@ -37517,6 +42067,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Fidelity reprint of Reuters: '(Reporting by Eduardo Baptista; Editing by Kirsten Donovan)'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260813-reuters-deepseek-v4-pro"
     },
@@ -37562,6 +42117,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/business/autos/china-car-sales-boom-overseas-domestic-slump-2026-08-14/",
         "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260814-reuters-china-car-sales-domestic-slump-export-surge"
     },
@@ -37605,6 +42165,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/asia-pacific/philippines-marcos-china-cooperation-south-china-sea-2026-08-14/",
         "evidence_note": "Reuters 8月14日报道；机构稿未具名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260814-reuters-philippines-marcos-china-cooperation"
     },
@@ -37647,6 +42212,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china-rejects-new-zealand-spy-agency-allegations-2026-08-14/",
         "evidence_note": "Reuters 8月14日惠灵顿电，署名 Lucy Craymer；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260814-reuters-china-rejects-nz-spy-claims"
     },
@@ -37687,6 +42257,24 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Apple Alibaba China AI model / 路透 苹果 阿里 AI 模型）+ 转载源补全",
         "evidence_url": "https://www.reuters.com/technology/apple-alibaba-china-specific-ai-model-2026-08-14/",
         "evidence_note": "Reuters 8月14日报道（三知情人）；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 3,
+        "hits": [
+          {
+            "kw": "知情人士透露",
+            "snippet": "路透8月14日报道——据三位知情人士透露，苹果正与中国阿里合作，训练"
+          },
+          {
+            "kw": "据三位知情人士",
+            "snippet": "外企 路透8月14日报道——据三位知情人士透露，苹果正与中国阿里合作，"
+          },
+          {
+            "kw": "人士透露，",
+            "snippet": "8月14日报道——据三位知情人士透露，苹果正与中国阿里合作，训练一"
+          }
+        ]
       },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260814-reuters-apple-trains-china-ai-model"
@@ -37729,6 +42317,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源(雅虎财经/asiaone)补全作者与摘要",
         "evidence_url": "https://www.reuters.com/technology/smic-raises-prices-ai-demand-q2-revenue-2026-08-14/",
         "evidence_note": "Reuters 8月14日报道，署名 Che Pan、Eduardo Baptista；作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260814-reuters-smic-price-hike-ai-demand"
@@ -37774,6 +42367,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/white-house-transshipped-chinese-goods-tariffs-2026-08-14/",
         "evidence_note": "Reuters 8月14日华盛顿电，署名 David Lawder；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260814-reuters-white-house-transshipped-goods"
     },
@@ -37817,6 +42415,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
         "evidence_url": "https://www.reuters.com/business/ponyai-uber-robotaxi-europe-middle-east-2026-08-14/",
         "evidence_note": "Reuters 8月14日报道，署名 Qiaoyi Li、Joe Cash；作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260814-reuters-ponyai-uber-robotaxis"
@@ -37862,6 +42465,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/business/iran-war-china-electric-truck-exports-double-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道，署名 Sam Li、Lewis Jackson；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260813-reuters-iran-war-electric-trucks"
     },
@@ -37906,6 +42514,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/technology/microsoft-retreats-china-shutting-15-entities-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道，署名 Eduardo Baptista、Casey Hall；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260813-reuters-microsoft-retreats-china"
     },
@@ -37944,6 +42557,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters China anti-dumping Indian optical fibre / 路透 印度 单模光纤 反倾销）+ 转载源补全",
         "evidence_url": "https://www.reuters.com/world/china-extends-antidumping-duties-indian-optical-fibre-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260813-reuters-china-antidumping-indian-optical-fibre"
@@ -37989,6 +42607,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/markets/kiwimoore-hong-kong-ipo-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道，署名 Ziyi Tang、Kane Wu；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260813-reuters-kiwimoore-hk-ipo"
     },
@@ -38027,6 +42650,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Fujian shipyard explosion / 路透 福建 船厂 爆炸）+ 中文媒体转载补全",
         "evidence_url": "https://www.reuters.com/world/explosion-fujian-shipyard-firefighter-dead-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260813-reuters-fujian-shipyard-explosion"
@@ -38071,6 +42699,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/business/eu-curbs-chinese-solar-inverters-sma-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道，署名 Danny Callaghan；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260813-reuters-eu-chinese-solar-inverters"
     },
@@ -38112,6 +42745,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透单篇 WebFetch 被JS墙拦截，WebSearch 引号标题+媒体名检索转载源补全作者与摘要",
         "evidence_url": "https://www.reuters.com/business/weride-australia-korea-japan-expansion-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道，署名 Qiaoyi Li、Kevin Krolicki；作者状态:named"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260813-reuters-weride-new-markets"
@@ -38157,6 +42795,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/markets/shein-hong-kong-listing-aug-28-2026-08-13/",
         "evidence_note": "Reuters 8月13日报道，署名 Kane Wu、Selena Li；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260813-reuters-shein-hk-debut"
     },
@@ -38199,6 +42842,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/chinese-observatory-new-zealand-satellite-facility-2026-08-13/",
         "evidence_note": "Reuters 8月13日惠灵顿电，署名 Lucy Craymer；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260813-reuters-chinese-observatory-new-zealand"
     },
@@ -38238,6 +42886,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 关键词（Bloomberg JD Q2 revenue decline / 彭博 京东 财报 2026 营收 下滑）+ The China Show 视频稿补全",
         "evidence_url": "https://www.bloomberg.com/news/videos/jd-slumps-first-revenue-decline-decade-2026-08-14",
         "evidence_note": "Bloomberg 8月14日 The China Show 视频稿；机构/视频稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260814-bloomberg-jd-slumps-first-revenue-decline"
@@ -38279,6 +42932,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被反爬拦截（fetch failed），WebSearch 关键词（Bloomberg Navarro China avoid tariffs AI transshipment / 彭博 纳瓦罗 中国 转运）+ 视频稿补全",
         "evidence_url": "https://www.bloomberg.com/news/videos/navarro-ai-china-transshipment-network-2026-08-13",
         "evidence_note": "Bloomberg 8月13日视频稿；机构/视频稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-14",
       "_uid": "2026-08-14/20260813-bloomberg-navarro-ai-transshipment"
@@ -38326,6 +42984,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://wqxc.com/2026/08/14/exclusive-us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china",
         "evidence_note": "Reuters 8月14日华盛顿电，署名 Michael Martina（Reporting by Michael Martina; Editing by Andy Sullivan and Edmund Klamann）；作者状态:named"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-reuters-us-ai-pick-sides"
     },
@@ -38366,6 +43029,24 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A→C：路透中国栏目直连返回8/15标题；本篇8/14独家经 WebSearch 引号标题+媒体名检索转载源(news4alpha/鞭牛士/多家科技媒体)补全",
         "evidence_url": "https://news4alpha.com?p=95562/",
         "evidence_note": "Reuters 8月14日独家，电头 By Reuters（三知情人，未具名个人记者）；机构稿 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 3,
+        "hits": [
+          {
+            "kw": "知情人士透露",
+            "snippet": "8月14日独家报道——据三位知情人士透露，苹果正与中国阿里合作，训练"
+          },
+          {
+            "kw": "据三位知情人士",
+            "snippet": "路透8月14日独家报道——据三位知情人士透露，苹果正与中国阿里合作，"
+          },
+          {
+            "kw": "人士透露，",
+            "snippet": "14日独家报道——据三位知情人士透露，苹果正与中国阿里合作，训练一"
+          }
+        ]
       },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-reuters-apple-alibaba-china-ai-model"
@@ -38411,6 +43092,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china/xi-calls-improving-disaster-prevention-floods-landslides-batter-china-2026-08-15/",
         "evidence_note": "Reuters 8月15日中国栏目稿；机构稿未具名个人记者，authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-reuters-xi-disaster-prevention"
     },
@@ -38451,6 +43137,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A：路透中国栏目 WebFetch 直连返回8/15涉中标题，提取本篇",
         "evidence_url": "https://www.reuters.com/world/china/philippine-defence-chief-rejects-china-criticism-calls-response-squid-tactic-2026-08-15/",
         "evidence_note": "Reuters 8月15日中国栏目稿；机构稿未具名个人记者，authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-reuters-philippines-defence-squid-tactic"
@@ -38496,6 +43187,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china/japan-defence-minister-visits-contentious-yasukuni-shrine-war-dead-2026-08-15/",
         "evidence_note": "Reuters 8月15日中国栏目稿；机构稿未具名个人记者，authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-reuters-japan-yasukuni-shrine"
     },
@@ -38537,6 +43233,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china/taiwan-passes-annual-budget-after-long-delay-including-drone-spending-2026-08-15/",
         "evidence_note": "Reuters 8月15日中国栏目稿；机构稿未具名个人记者，authors_status=not_available；依合规标注'中国台湾'"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-reuters-taiwan-budget-drone"
     },
@@ -38577,6 +43278,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://news4alpha.com?p=53074/",
         "evidence_note": "Reuters 8月14日北京电（外管局数据）；机构稿未具名个人记者，authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-reuters-china-current-account-surplus"
     },
@@ -38616,6 +43322,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Kweichow Moutai H1 2026 / 路透 贵州茅台 中报 直销）+ 路透终端(news4alpha)补全",
         "evidence_url": "https://news4alpha.com?p=79238/",
         "evidence_note": "Reuters 8月14日中国栏目稿（茅台中报）；机构稿未具名个人记者，authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-reuters-kweichow-moutai-h1"
@@ -38662,6 +43373,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aastocks.com/en/stocks/analysis/china-hot-topic-content.aspx?id=NOW.1517786&source=AAFN&totc=1",
         "evidence_note": "Reuters/IFR 8月15日报道（彭博亦引述）；机构稿未具名个人记者，authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-reuters-victory-giant-hk-ipo"
     },
@@ -38705,6 +43421,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://news4alpha.com?p=95562/",
         "evidence_note": "Reuters 8月14日中国突发（马科斯表态）；机构稿未具名个人记者，authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-reuters-philippines-marcos-reset-ties"
     },
@@ -38744,6 +43465,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被机器人验证拦截（fetch failed），WebSearch 关键词（Bloomberg China record loan slump August 14 2026 / 彭博 中国 新增贷款 萎缩）+ mayberryinv 等财经转载补全",
         "evidence_url": "https://www.mayberryinv.com/overseas-headlines-august-14-2026/",
         "evidence_note": "Bloomberg 8月14日报道；机构稿未具名个人记者，authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-bloomberg-china-loan-slump"
@@ -38785,6 +43511,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/videos/2026-08-14/the-china-show-8-14-2026-video",
         "evidence_note": "Bloomberg 8月14日 The China Show 视频稿；机构/视频稿未具名个人记者，authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-bloomberg-jd-slumps"
     },
@@ -38823,6 +43554,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被机器人验证拦截（fetch failed），WebSearch 关键词（Bloomberg China revises timing July economic data release / 彭博 中国 调整 7月 数据 发布 时间）+ niotex 趋势摘要补全",
         "evidence_url": "https://www.niotex.com/blog/trends-2026-08-16",
         "evidence_note": "Bloomberg 8月15日报道；机构稿未具名个人记者，authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-bloomberg-china-data-release-timing"
@@ -38865,6 +43601,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://video.sina.com.cn/p/finance/2026-08-14/detail-ininhtfh4118934.d.html",
         "evidence_note": "Bloomberg 8月14日报道（新浪财经转述）；机构/视频稿未具名个人记者，authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-bloomberg-sc-china-tech-stocks"
     },
@@ -38903,6 +43644,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被机器人验证拦截（fetch failed），WebSearch 关键词（Bloomberg Hong Kong yuan pair most traded / 彭博 美元人民币 中国香港 最活跃 货币对）+ meziesblog 中国香港时事综述补全",
         "evidence_url": "https://meziesblog.com/hong-kong-news-roundup-august-15-2026",
         "evidence_note": "Bloomberg 8月15日报道（中国香港时事综述引述）；机构稿未具名个人记者，authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-bloomberg-hk-yuan-pair"
@@ -38943,6 +43689,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页直连被机器人验证拦截（fetch failed），WebSearch 关键词（Bloomberg China chip rare earth upper hand / 彭博 中方 芯片 稀土 对峙 上风）+ 格隆汇/usmart 引述补全",
         "evidence_url": "https://hk.usmartglobal.com/zh-cn/news-detail/7336088059269759414",
         "evidence_note": "Bloomberg 8月14-15日报道（格隆汇引述）；机构稿未具名个人记者，authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-bloomberg-china-chip-rare-earth-upper-hand"
@@ -38988,6 +43739,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "theedgemalaysia.com (Bloomberg reprint): 'By Sasha Draeger-Mazer / Bloomberg'; bloomberg.com: 'By Sasha Draeger-Mazer'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-15",
       "_uid": "2026-08-15/20260815-bloomberg-german-autos-china-rivals"
     },
@@ -39030,6 +43786,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aol.com/articles/philippine-defence-chief-rejects-china-085430000.html",
         "evidence_note": "Reuters 8月15日报道，By Karen Lema；真实记者署名已确认"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-reuters-philippines-squid-tactic"
     },
@@ -39070,6 +43831,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Taiwan annual budget drone spending / 路透 中国台湾 预算 无人机）+ 转载源补全",
         "evidence_url": "https://www.reuters.com/world/asia-pacific/taiwan-passes-annual-budget-drone-spending-2026-08-15/",
         "evidence_note": "Reuters 8月15日报道；机构稿未具名个人记者之疑已据转载源核实为 Ben Blanchard，故 authors_status=verified"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-reuters-taiwan-budget-drone-spending"
@@ -39115,6 +43881,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china/xi-calls-improving-disaster-prevention-floods-landslides-2026-08-15/",
         "evidence_note": "Reuters 8月15日报道；真实记者署名 Ziyi Tang、Xiangming Hou、Ryan Woo 已确认"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-reuters-xi-disaster-prevention-floods"
     },
@@ -39157,6 +43928,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/asia-pacific/japan-defence-minister-visits-yasukuni-shrine-war-dead-2026-08-15/",
         "evidence_note": "Reuters 8月15日报道；真实记者署名 Sam Nussey、Ziyi Tang 已确认"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-reuters-japan-yasukuni"
     },
@@ -39197,6 +43973,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters South Korea Lee North Korea armistice peace）+ 转载源补全",
         "evidence_url": "https://www.reuters.com/world/asia-pacific/south-korea-lee-urges-talks-north-korea-peace-2026-08-15/",
         "evidence_note": "Reuters 8月15日报道；真实记者署名 Joyce Lee 已确认"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-reuters-sk-lee-nk-talks"
@@ -39240,6 +44021,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Trump Pentagon cut military exercises South Korea）+ 转载源补全",
         "evidence_url": "https://www.reuters.com/world/trump-orders-pentagon-cut-back-military-exercises-south-korea-2026-08-16/",
         "evidence_note": "Reuters 8月16日报道；真实记者署名 Costas Pitas、David Lawder 已确认"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-reuters-trump-cut-sk-exercises"
@@ -39285,6 +44071,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.al-monitor.com/originals/2026/08/explainer-trump-wants-more-economic-pressure-iran-what-are-his-options",
         "evidence_note": "Reuters 8月16日报道；真实记者署名 Andrea Shalal 已确认；Kpler/OFAC 数据作为佐证"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-reuters-iran-teapot-refineries"
     },
@@ -39327,6 +44118,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/asia-pacific/north-korea-kim-russia-putin-reaffirm-ties-korean-liberation-day-2026-08-16/",
         "evidence_note": "Reuters 8月16日报道；真实记者署名 Hyeyoon Cho 已确认"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-reuters-kim-putin-liberation-day"
     },
@@ -39365,6 +44161,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：路透直连被JS墙拦截，WebSearch 多组关键词（Reuters Taliban five years power aid crisis）+ 转载源补全",
         "evidence_url": "https://www.reuters.com/world/asia-pacific/taliban-mark-five-years-power-aid-groups-warn-crisis-2026-08-15/",
         "evidence_note": "Reuters 8月15日报道；机构稿未具名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-reuters-taliban-five-years"
@@ -39408,6 +44209,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A→C：路透中国栏目直连成功但为实时页面，窗口内条目经 WebSearch 多组关键词（Reuters US partners pick sides AI China Michael Martina）+ AOL/news4alpha 转载源确认署名与全文",
         "evidence_url": "https://www.aol.com/articles/exclusive-us-tell-partners-must-210941000.html",
         "evidence_note": "Reuters 8月15日（终端01:30 UTC 8/15）独家；真实记者署名 Michael Martina 已确认"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-reuters-ai-pick-sides-china"
@@ -39453,6 +44259,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.columbian.com/news/2026/aug/16/trumps-100-tariff-on-drones-deepens-us-china-tech-decoupling",
         "evidence_note": "Bloomberg News 8月16日报道；真实记者署名 Laura Curtis、Alicia Diaz、Lucille Liu 已确认（转载体显名）"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-bloomberg-drone-100pct-tariff"
     },
@@ -39491,6 +44302,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页被反爬拦截，转 WebSearch 多组关键词（Bloomberg Alibaba Qwen 3 billion downloads / 彭博 通义千问 30亿）+ Business Standard/aisengtech 转载源补全",
         "evidence_url": "https://aisengtech.com/China-AI-vs-US-AI-Brief-2026-08-15",
         "evidence_note": "Bloomberg 8月15日报道；机构/视频稿未显名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-bloomberg-alibaba-qwen-3b"
@@ -39531,6 +44347,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页被反爬拦截，转 WebSearch 多组关键词（Bloomberg China credit growth loan slump July 2026 / 彭博 中国 信贷 社融）+ Yahoo Finance 转载源补全",
         "evidence_url": "https://finance.yahoo.com/economy/policy/articles/china-credit-growth-exceeds-forecasts-084240209.html",
         "evidence_note": "Bloomberg 8月15日（GMT+8）报道；机构稿未显名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-bloomberg-china-credit-loan-slump"
@@ -39573,6 +44394,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-14/china-s-high-tech-boom-seen-failing-to-halt-slowdown-of-economy",
         "evidence_note": "Bloomberg 8月14日美东/8月15日GMT+8报道；机构稿未显名个人记者，故 authors_status=not_available"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-bloomberg-high-tech-boom-slowdown"
     },
@@ -39612,6 +44438,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C：彭博首页被反爬拦截，转 WebSearch 多组关键词（Bloomberg yuan 3.5 year high PBOC / 人民币 三年半高 彭博）+ 彭博货币市场报道综合（PBOC中间价与行情源）",
         "evidence_url": "https://www.whalesbook.com/news/English/economy/China-Yuan-Hits-35-Year-High-as-Fed-Rate-Hike-Bets-Fade/6a7e976f6ffbe1e6461ab0a6",
         "evidence_note": "彭博货币市场报道（人民币中间价创三年半新高）；综合 PBOC 中间价与彭博行情源，具体 bloomberg.com 原文链接为按栏目规律推定的占位链接；机构稿未显名个人记者，故 authors_status=not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-16",
       "_uid": "2026-08-16/20260816-bloomberg-yuan-3-5-year-high"
@@ -39656,6 +44487,20 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "高点，主因经营环境趋紧。三位知情人士称，公司仍在评估上市时机与规模"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "，主因经营环境趋紧。三位知情人士称，公司仍在评估上市时机与规模，"
+          }
+        ]
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-reuters-shein-hk-ipo"
     },
@@ -39698,6 +44543,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-reuters-taiwan-defence-spending"
     },
@@ -39741,6 +44591,16 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "消息人士称",
+            "snippet": "ngxi Games），一位消息人士称。灵犀互娱曾运营《三国志·战"
+          }
+        ]
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-reuters-alibaba-lingxi-games-sale"
     },
@@ -39781,6 +44641,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-reuters-xi-jiang-zemin-centenary"
     },
@@ -39824,6 +44689,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-reuters-china-burger-market"
     },
@@ -39868,6 +44738,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-reuters-china-economy-july"
     },
@@ -39910,6 +44785,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-reuters-asian-shares-rise-china-led"
     },
@@ -39953,6 +44833,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-reuters-trump-cut-sk-exercises"
     },
@@ -39997,6 +44882,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-reuters-china-home-prices-july"
     },
@@ -40039,6 +44929,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-reuters-china-oil-stockpiling"
     },
@@ -40082,6 +44977,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-reuters-china-clean-power-wastage"
     },
@@ -40122,6 +45022,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-reuters-breakingviews-china-surpluses-eu"
     },
@@ -40162,6 +45067,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-bloomberg-china-economy-slowdown"
     },
@@ -40202,6 +45112,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-bloomberg-yuan-3-year-high"
     },
@@ -40242,6 +45157,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-bloomberg-hk-stocks-rebound"
     },
@@ -40281,6 +45201,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-bloomberg-china-home-prices"
     },
@@ -40321,6 +45246,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-bloomberg-alibaba-qwen-downloads"
     },
@@ -40361,6 +45291,11 @@ window.__XFS_DATA__ = {
         "官方数据/企业披露",
         "市场数据"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-bloomberg-xi-jiang-zemin-centenary"
     },
@@ -40409,6 +45344,11 @@ window.__XFS_DATA__ = {
         "OpenAI",
         "美国监管方（白宫/相关机构）"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-17",
       "_uid": "2026-08-17/20260817-bloomberg-china-open-weight-ai-today"
     },
@@ -40452,6 +45392,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://in.marketscreener.com/news/china-s-industrial-output-slows-in-july-retail-sales-miss-forecasts-ce7859dfd181f620",
         "evidence_note": "Reuters 8/17；byline Kevin Yao and Ethan Wang"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-reuters-china-july-data"
     },
@@ -40492,6 +45437,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C（WebSearch 引号标题补全署名：Kyu-seok Shim）",
         "evidence_url": "https://www.aol.com/articles/chinas-foreign-minister-wang-yi-060721000.html",
         "evidence_note": "Reuters 8/18；byline Kyu-seok Shim, Editing by Ed Davies"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-reuters-wang-yi-south-korea"
@@ -40536,6 +45486,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://reuters.omni.se/u-s-taiwan-to-start-formal-trade-talks-under-new-initiative/a/0GeWME",
         "evidence_note": "Reuters 8/18；byline Ben Blanchard, Additional reporting Eduardo Baptista"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-reuters-us-taiwan-trade-talks"
     },
@@ -40579,6 +45534,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://theedgemalaysia.com/world-news/china-july-bank-loans-post-record-contraction-as-credit-demand-falters",
         "evidence_note": "Reuters 8/18；byline Kevin Yao & Shi Bu（The Edge Malaysia / wqxc.com 转载 corroborated）"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-reuters-china-july-loans"
     },
@@ -40616,6 +45576,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C（WebSearch 引号标题补全）",
         "evidence_url": "https://civl.com/news/story/china-posts-weak-july-economic-figures-with-retail-sales-and-investment-declines-7918a52d",
         "evidence_note": "NBS 8/17 数据；路透/CNBC/FT 转述"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-reuters-china-property"
@@ -40655,6 +45620,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/global-market-shanghai-hong-kong-stocks-rise-as-consumer-gains-offset-tech-weakness/articleshow/133090625.cms",
         "evidence_note": "Reuters 报道 7 月 CPI/PPI 偏弱"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-reuters-china-deflation"
     },
@@ -40693,6 +45663,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C（WebSearch 引号标题补全）",
         "evidence_url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/global-market-shanghai-hong-kong-stocks-rise-as-consumer-gains-offset-tech-weakness/articleshow/133090625.cms",
         "evidence_note": "Reuters 报道，8/18 亚洲时段"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-reuters-china-stocks"
@@ -40739,6 +45714,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "theedgemalaysia.com/node/814753: 'By Gao Yuan & Jeanny Yu / Bloomberg'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-bloomberg-cxmt-most-valuable"
     },
@@ -40778,6 +45758,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board",
         "evidence_note": "Bloomberg 8/17"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-bloomberg-china-economy-slowdown"
     },
@@ -40814,6 +45799,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C（WebSearch 标题确认）",
         "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/videos/2026-08-18/the-china-show-8-18-2026-video",
         "evidence_note": "Bloomberg The China Show 8/18"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-bloomberg-china-show-stimulus"
@@ -40852,6 +45842,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C（WebSearch 标题确认）",
         "evidence_url": "https://www.163.com/dy/article/L4MAUTOL0514CQIE.html",
         "evidence_note": "彭博/网易转述，8/18 港股盘面"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-bloomberg-china-hk-stocks"
@@ -40892,6 +45887,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "http://marketmatrix.net/topic/bloomberg.htm",
         "evidence_note": "Bloomberg 8/17 中文市场矩阵转述"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-bloomberg-alibaba-ai-model"
     },
@@ -40930,6 +45930,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C（WebSearch 标题确认，引 CXMT 文互证）",
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era",
         "evidence_note": "Bloomberg 8/17 CXMT 文提及宇树 IPO 申购超 5500 倍"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-18",
       "_uid": "2026-08-18/20260818-bloomberg-unitree-ipo"
@@ -40974,6 +45979,11 @@ window.__XFS_DATA__ = {
         "外交部(林剑)",
         "《人工智能机遇伙伴关系联合声明》"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-reuters-china-digital-sovereignty-ai"
     },
@@ -41022,6 +46032,11 @@ window.__XFS_DATA__ = {
         "Ceconomy",
         "《外国补贴条例》(FSR)"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-reuters-china-blocks-eu-jd-probe"
     },
@@ -41064,6 +46079,11 @@ window.__XFS_DATA__ = {
         "央视",
         "文昌航天发射场"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-reuters-rocket-launch-tourism"
     },
@@ -41107,6 +46127,11 @@ window.__XFS_DATA__ = {
         "Hartmut Rauen",
         "Omdia"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-reuters-vdma-humanoid-robotics"
     },
@@ -41150,6 +46175,11 @@ window.__XFS_DATA__ = {
         "印度",
         "中国"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-reuters-electric-truck-bus-sales"
     },
@@ -41196,6 +46226,11 @@ window.__XFS_DATA__ = {
         "赵兑烈",
         "APEC(深圳)"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-reuters-china-senior-summit-seoul"
     },
@@ -41240,6 +46275,11 @@ window.__XFS_DATA__ = {
         "Jyske Bank",
         "SMMT"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-reuters-carlsberg-china-sales"
     },
@@ -41286,6 +46326,11 @@ window.__XFS_DATA__ = {
         "韩国外交部",
         "Yonhap"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-reuters-wang-yi-seoul"
     },
@@ -41330,6 +46375,11 @@ window.__XFS_DATA__ = {
         "国家航天局",
         "载人航天工程"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-reuters-liu-jiyuan-dies"
     },
@@ -41374,6 +46424,11 @@ window.__XFS_DATA__ = {
         "Nissan(日产)",
         "SMMT"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-reuters-chery-uk-rd-centre"
     },
@@ -41423,6 +46478,11 @@ window.__XFS_DATA__ = {
         "Lumos Robotics",
         "MERICS"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-reuters-chinas-robots-commercial-test"
     },
@@ -41469,6 +46529,11 @@ window.__XFS_DATA__ = {
         "Puig",
         "LSEG"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-reuters-estee-lauder-china"
     },
@@ -41515,6 +46580,11 @@ window.__XFS_DATA__ = {
         "美国FCC",
         "上交所科创板"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-bloomberg-unitree-trading-debut"
     },
@@ -41560,6 +46630,11 @@ window.__XFS_DATA__ = {
         "美国FCC",
         "AP"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-bloomberg-china-robot-conference"
     },
@@ -41603,6 +46678,11 @@ window.__XFS_DATA__ = {
         "Macquarie University(Richard de Grijs)",
         "CCTV"
       ],
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-19",
       "_uid": "2026-08-19/20260819-bloomberg-landspace-rocket-recovery"
     },
@@ -41644,6 +46724,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/science/china-rocket-launches-fuel-tourism-space-age-dreams-2026-08-19/",
         "evidence_note": "署名与图文内容均由路透原页确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-rocket-tourism"
     },
@@ -41683,6 +46768,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Paolo Laudani in Gdansk）",
         "evidence_url": "https://www.reuters.com/world/china/china-drove-global-electric-truck-bus-sales-above-half-million-2025-2026-08-19/",
         "evidence_note": "关键数字(86%、近90%、4.5%等)来自原页ICCT报告引述。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-ev-truck-bus"
@@ -41727,6 +46817,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china/south-korean-container-ship-will-test-arctic-route-europe-amid-western-concern-2026-08-19/",
         "evidence_note": "署名与航程、35%缩短等关键细节由原页确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-sk-arctic-route"
     },
@@ -41768,6 +46863,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Heejin Kim, Brenda Goh and Jasmeen Ara Shaikh）",
         "evidence_url": "https://www.reuters.com/world/china/china-considering-summit-with-seoul-november-south-korean-foreign-ministry-says-2026-08-19/",
         "evidence_note": "会晤细节与双方共识来自原页韩国外交部声明引述。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-seoul-summit"
@@ -41814,6 +46914,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/business/retail-consumer/china-orders-entities-not-assist-eus-jdcom-probe-2026-08-19/",
         "evidence_note": "25亿美元交易额、4月规定、5月同方威视先例等细节均由原页确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-eu-jd-probe"
     },
@@ -41855,6 +46960,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；By Kyu-Seok Shim and Heejin Kim）",
         "evidence_url": "https://www.reuters.com/world/china/chinas-wang-yi-south-korea-talks-amid-trump-push-revive-north-korea-diplomacy-2026-08-19/",
         "evidence_note": "署名与访韩背景由原页确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-wang-yi-seoul"
@@ -41899,6 +47009,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china/china-urges-respect-digital-sovereignty-ai-race-2026-08-19/",
         "evidence_note": "林剑表态与美方“选边”草案背景由原页确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-ai-digital-sovereignty"
     },
@@ -41942,6 +47057,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/asia-pacific/nvidia-h200-chips-reach-china-small-shipments-ft-reports-2026-08-19/",
         "evidence_note": "约1万颗/每家、10万颗上限、香港部署等细节来自原页对FT报道的引述。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-nvidia-h200-china"
     },
@@ -41983,6 +47103,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A（WebFetch reuters.com 直接抓取；Reporting by Simone Lobo in Bengaluru）",
         "evidence_url": "https://www.reuters.com/world/china/chinas-chery-automobile-set-up-uk-research-centre-2026-08-19/",
         "evidence_note": "选址、投运时间、英国市占约15%等细节由原页确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-chery-uk-rd"
@@ -42029,6 +47154,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://ima.qq.com/article/china-robot-makers-seek-to-turn-humanoid-hype-into-useful-work",
         "evidence_note": "byline Ju-min Park, Laurie Chen and Eduardo Baptista（转载源确认）；300余家企业、2000余展品等数字来自转载源对路透报道的复述。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-robot-conference"
     },
@@ -42071,6 +47201,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://live.euronext.com/en/financial-news/estee-lauder-forecasts-annual-profit-above-estimates-strong-china-demand",
         "evidence_note": "EPS区间、销售额、关税数字来自转载源对路透报道的复述。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-estee-lauder-china"
     },
@@ -42111,6 +47246,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A原页JS拦截；转经转载源(Yahoo News/Global Banking & Finance)补全署名(Reporting by Matthias Williams)与摘要",
         "evidence_url": "https://www.yahoo.com/news/articles/germanys-vdma-lobby-calls-europe-125814717.html",
         "evidence_note": "VDMA表态、Rauen引语、1.91万台出货等来自转载源对路透报道的复述。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-vdma-unitree"
@@ -42157,6 +47297,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/commentary/breakingviews/chinas-ai-laggard-could-soon-be-its-leader-2026-08-19/",
         "evidence_note": "GLM-5.3、620亿美元估值、30亿研发投入等关键数字由原页确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-reuters-zai-glm53"
     },
@@ -42201,6 +47346,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/",
         "evidence_note": "署名与中美模型对比框架由彭博原页确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-bloomberg-us-china-ai-race"
     },
@@ -42244,6 +47394,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/alibaba-tops-chinese-tech-stocks-this-quarter-on-ai-resurgence",
         "evidence_note": "34%涨幅、领先恒生科技指数等细节由原页确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-bloomberg-alibaba-tech-stocks"
     },
@@ -42284,6 +47439,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；署名仅显示 By Bloomberg News，无真实个人署名，按规范 authors_status=not_available）",
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/unitree-ipo-why-investors-are-betting-big-on-china-s-humanoid-robots",
         "evidence_note": "1000亿元人民币投入、5万亿美元预测来自原页引述。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-bloomberg-unitree-ipo"
@@ -42329,6 +47489,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/china-drug-deals-keep-luring-us-pharma-despite-pressure-in-washington",
         "evidence_note": "32笔交易、45笔纪录、38项后期试验等数字由原页确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-bloomberg-china-drug-deals"
     },
@@ -42369,6 +47534,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Karen Leigh）",
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-20/ck-hutchison-seeks-1-5-billion-for-destruction-of-panama-assets",
         "evidence_note": "15亿美元索赔、两港名称等由原页确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-bloomberg-ck-hutchison-panama"
@@ -42413,6 +47583,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/byd-tries-where-others-failed-with-tiny-ev-designed-for-japan",
         "evidence_note": "Racco、1000+订单、kei细分市场等细节由原页确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-bloomberg-byd-kei-japan"
     },
@@ -42456,6 +47631,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A（WebFetch bloomberg.com 直接抓取；By Trista Xinyi Luo, Pearl Liu and Eunice Xu）",
         "evidence_url": "https://www.bloomberg.com/news/articles/2026-08-19/hong-kong-banks-turn-to-student-housing-as-property-bright-spot",
         "evidence_note": "10亿港元借款、中银香港胜出等细节由原页确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-20",
       "_uid": "2026-08-20/20260820-bloomberg-hk-student-housing"
@@ -42504,6 +47684,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.investing.com/news/economy-news/analysischina-tax-crackdown-forces-wealthy-investors-to-assess-their-offshore-trusts-4868433",
         "evidence_note": "真实署名(By Summer Zhen, Selena Li and Xinghui Kok)与20%税率、$1.2万亿等关键数字均由 Investing.com 转载的全文确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-21",
       "_uid": "2026-08-21/20260821-reuters-offshore-trust"
     },
@@ -42547,6 +47732,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)与中文镜像(腾讯、凤凰)补全要点，ima.qq.com 确认署名",
         "evidence_url": "https://news.qq.com/rain/a/20260820A04H9Q00",
         "evidence_note": "byline Michael Martina（ima.qq.com 转载确认）；关键事实(1600美元、60%份额、90亿美元估值、Mini Cheetah)来自镜像转载与路透调查汇总。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-21",
       "_uid": "2026-08-21/20260821-reuters-robot-dogs"
@@ -42596,6 +47786,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finwire.io/news/economy-news/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies",
         "evidence_note": "Reporting by Lawrence Delevingne（Fidelity/IndianExpress 转载确认）；43/90模型、受限中企名单等关键事实来自转载全文。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-21",
       "_uid": "2026-08-21/20260821-reuters-trump-crypto-ai"
     },
@@ -42638,6 +47833,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china/chinas-industrial-output-slows-july-retail-sales-miss-forecasts-2026-08-17/",
         "evidence_note": "byline Kevin Yao & Ethan Wang（particle.news 转载确认）；摘要基于检索上下文综合。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-21",
       "_uid": "2026-08-21/20260821-reuters-industrial-output"
     },
@@ -42675,6 +47875,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得要点",
         "evidence_url": "https://themonexus.com/articles/2026-08-20-china-industrial-policy-credit-taps-2026",
         "evidence_note": "原页不可达，署名未确认；15个月连按兵不动为检索交叉确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-21",
       "_uid": "2026-08-21/20260821-reuters-rate-hold"
@@ -42714,6 +47919,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败；经通道C/D(WebSearch)取得要点",
         "evidence_url": "https://themonexus.com/articles/2026-08-20-china-tax-crackdown-offshore-bond-futures",
         "evidence_note": "原页不可达，署名未确认；50万辆门槛与‘中国主导’为检索交叉确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-21",
       "_uid": "2026-08-21/20260821-reuters-ev-truck-bus"
@@ -42758,6 +47968,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "swissinfo.ch (Bloomberg reprint): '–With assistance from Levin Stamm.'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-21",
       "_uid": "2026-08-21/20260821-bloomberg-china-swiss-trade"
     },
@@ -42798,6 +48013,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C2(彭博《Trump Turns to Economic Warfare》通讯专项)取得真实链接与全文要点",
         "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
         "evidence_note": "彭博通讯原文(8/20)，经中文转载(腾讯)补全细节；署名未确认(付费墙)。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-21",
       "_uid": "2026-08-21/20260821-bloomberg-trump-iran-economic-war"
@@ -42846,6 +48066,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy",
         "evidence_note": "彭博通讯原文(8/17)，署名未确认(付费墙)。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-21",
       "_uid": "2026-08-21/20260821-bloomberg-open-weight-ai"
     },
@@ -42884,6 +48109,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C/D(WebSearch)取得彭博音频节目链接与要点",
         "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/audio/2026-08-17/bloomberg-daybreak-asia-china-s-ai-race-podcast",
         "evidence_note": "彭博音频节目(8/17)，署名未确认(付费墙)。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-21",
       "_uid": "2026-08-21/20260821-bloomberg-ai-cyber-defense"
@@ -42924,6 +48154,16 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(JS墙)；经通道C(WebSearch)与聚合转载(meziesblog)补全",
         "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
         "evidence_note": "原页不可达，署名未确认(authors_status=not_available)；关键事实来自 meziesblog 汇总与 Reuters China 社媒。"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "消息人士称",
+            "snippet": "中国军方全程监控，环球时报引消息人士称'情况可控'。事件凸显美方以"
+          }
+        ]
       },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r1"
@@ -42966,6 +48206,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
         "evidence_note": "原页不可达，署名未确认；财政措施与贴息细节来自 meziesblog 汇总。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r2"
     },
@@ -43006,6 +48251,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(meziesblog/Reuters China 社媒)补全",
         "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
         "evidence_note": "原页不可达，署名未确认；9.32/9.39秒、666队2000+机器人等关键数字来自汇总与社媒。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r3"
@@ -43048,6 +48298,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
         "evidence_note": "原页不可达，署名未确认；宇树500亿美元估值、51项目来自汇总。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r4"
     },
@@ -43088,6 +48343,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(meziesblog)补全",
         "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
         "evidence_note": "原页不可达，署名未确认；合作领域与表态来自汇总。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r5"
@@ -43130,6 +48390,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
         "evidence_note": "原页不可达，署名未确认；49亿美元募资规模来自汇总。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r6"
     },
@@ -43169,6 +48434,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(meziesblog/Reuters China 社媒)补全",
         "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
         "evidence_note": "原页不可达，署名未确认；破产清算受理与无期徒刑判决来自汇总与社媒。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r7"
@@ -43213,6 +48483,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://meziesblog.com/china-top-news-saturday-august-22-2026",
         "evidence_note": "原页不可达，署名未确认(Reuters staff)；'九家车企/数百万辆'来自汇总。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r8"
     },
@@ -43252,6 +48527,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(theedgemalaysia，真实署名 By Ben Blanchard/Reuters)补全",
         "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
         "evidence_note": "真实署名(By Ben Blanchard, Reuters)与'第三次出现/5月以来'等关键事实由 theedgemalaysia 转载确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r9"
@@ -43295,6 +48575,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败；经通道C(WebSearch)与聚合转载(theedgemalaysia，真实署名 By Anhata Rooprai & Rashika Singh/Reuters)补全",
         "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
         "evidence_note": "真实署名(By Anhata Rooprai & Rashika Singh, Reuters)与'否认年底对华LPU'来自转载全文。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r10"
@@ -43341,6 +48626,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
         "evidence_note": "真实署名(By Kane Wu, Casey Hall & Gnaneshwar Rajan, Reuters)与'800亿港元/约102亿美元'来自转载全文。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r11"
     },
@@ -43384,6 +48674,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "streetinsider.com (Reuters reprint): '(Reporting by Qiaoyi Li and Kevin Krolicki; Editing by Miyoung Kim and Saad Sayeed)'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/r12"
     },
@@ -43422,6 +48717,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A(bloomberg.com)被机器人验证拦截；经通道C(WebSearch)与聚合转载(gorich)补全",
         "evidence_url": "https://news2.gorich.com.tw/news?s=all&n=59851242",
         "evidence_note": "原页不可达，署名未确认(Bloomberg TV 无个人署名)；'成本/可用性'要点来自转载。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/b1"
@@ -43467,6 +48767,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Bloomberg.com/graphics/2026-us-china-ai-race/: 'By Luz Ding, Spe Chen, Hayley Warren August 20, 2026'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/b2"
     },
@@ -43507,6 +48812,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A被拦截；经通道C(WebSearch)与聚合转载(雪球彭博24小时日报)补全",
         "evidence_url": "https://xueqiu.com/4408473982/406153331",
         "evidence_note": "原页不可达，署名未确认；'极端天气推升农产品价格/对华贸易风险'来自雪球对彭博的转述。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/b3"
@@ -43551,6 +48861,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://thefinancial.news/us-canada-tariffs-bessents-bond-plan-chinas-ai-push-bloomberg-this-weekend-aug-22-2026",
         "evidence_note": "原页不可达，署名未确认；'AI领先优势缩小/中国攻势'来自节目议题列表。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/b4"
     },
@@ -43587,6 +48902,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.niotex.com/blog/trends-2026-08-23",
         "evidence_note": "原页不可达，署名未确认；'666队/2000+机器人/北京'来自摘录。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/b5"
     },
@@ -43622,6 +48942,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A被拦截；经通道C(WebSearch)与聚合转载(thefinancial.news)补全",
         "evidence_url": "https://thefinancial.news/us-canada-tariffs-bessents-bond-plan-chinas-ai-push-bloomberg-this-weekend-aug-22-2026",
         "evidence_note": "原页不可达，署名未确认；'China's AI Push'为节目议题。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/b6"
@@ -43665,6 +48990,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "bloomberg.com (原文 china-stock-gauge-sinks-as-traders-favor-ai-winners-elsewhere): 'By Winnie Hsu'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/b7"
     },
@@ -43704,6 +49034,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A被拦截；经通道C(WebSearch)与聚合转载(theedgemalaysia，真实署名 By Alan Wong/Bloomberg)补全",
         "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
         "evidence_note": "真实署名(By Alan Wong, Bloomberg)与'煽动颠覆罪成/国安法检验'来自转载全文。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/b8"
@@ -43747,6 +49082,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
         "evidence_note": "真实署名(By Pearl Liu & Trista Xinyi Luo, Bloomberg)与'450亿美元/路径更复杂'来自转载全文。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/b9"
     },
@@ -43785,6 +49125,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.niotex.com/blog/trends-2026-08-23",
         "evidence_note": "原页不可达，署名未确认；'支出狂潮/隐忧'来自摘录。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-22",
       "_uid": "2026-08-22/b10"
     },
@@ -43817,6 +49162,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/r1"
     },
@@ -43848,6 +49198,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/r2"
     },
@@ -43880,6 +49235,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/r3"
     },
@@ -43911,6 +49271,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/r4"
     },
@@ -43944,6 +49309,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/r5"
     },
@@ -43973,6 +49343,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/r6"
     },
@@ -44005,6 +49380,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/r7"
     },
@@ -44038,6 +49418,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/r8"
     },
@@ -44067,6 +49452,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/r9"
     },
@@ -44101,6 +49491,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/r10"
     },
@@ -44134,6 +49529,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/b1"
     },
@@ -44168,6 +49568,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/b2"
     },
@@ -44197,6 +49602,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/b3"
     },
@@ -44228,6 +49638,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/b4"
     },
@@ -44257,6 +49672,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/b5"
     },
@@ -44287,6 +49707,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/b6"
     },
@@ -44319,6 +49744,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/b7"
     },
@@ -44349,6 +49779,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/b8"
     },
@@ -44381,6 +49816,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/b9"
     },
@@ -44411,6 +49851,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-23",
       "_uid": "2026-08-23/b10"
     },
@@ -44449,6 +49894,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/r1"
     },
@@ -44484,6 +49934,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/r2"
     },
@@ -44520,6 +49975,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/r3"
     },
@@ -44552,6 +50012,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/r4"
     },
@@ -44583,6 +50048,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/r5"
     },
@@ -44618,6 +50088,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/r6"
     },
@@ -44649,6 +50124,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/r7"
     },
@@ -44680,6 +50160,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/r8"
     },
@@ -44717,6 +50202,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/r9"
     },
@@ -44752,6 +50242,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/b1"
     },
@@ -44783,6 +50278,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/b2"
     },
@@ -44818,6 +50318,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/b3"
     },
@@ -44849,6 +50354,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/b4"
     },
@@ -44880,6 +50390,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/b5"
     },
@@ -44911,6 +50426,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/b6"
     },
@@ -44942,6 +50462,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/b7"
     },
@@ -44973,6 +50498,11 @@ window.__XFS_DATA__ = {
       "is_negative": false,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/b8"
     },
@@ -45005,6 +50535,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/b9"
     },
@@ -45037,6 +50572,11 @@ window.__XFS_DATA__ = {
       "is_negative": true,
       "deep_analysis": "",
       "provenance": "websearch",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-24",
       "_uid": "2026-08-24/b10"
     },
@@ -45079,6 +50619,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-reuters-typhoon-narra"
     },
@@ -45122,6 +50667,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-reuters-shein-ipo"
     },
@@ -45161,6 +50711,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-reuters-75-tariff"
     },
@@ -45206,6 +50761,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-reuters-china-iran-sanctions"
     },
@@ -45246,6 +50806,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-reuters-iran-entity-list"
     },
@@ -45288,6 +50853,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-reuters-pdd-earnings"
     },
@@ -45327,6 +50897,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-reuters-china-india-border"
     },
@@ -45366,6 +50941,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-reuters-tesla-recall"
     },
@@ -45408,6 +50988,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-reuters-huawei-hp"
     },
@@ -45448,6 +51033,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-reuters-miit-6g"
     },
@@ -45490,6 +51080,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-reuters-alibaba-placement"
     },
@@ -45528,6 +51123,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-bloomberg-china-show"
     },
@@ -45566,6 +51166,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-bloomberg-opening-trade"
     },
@@ -45606,6 +51211,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-bloomberg-dozens-firms"
     },
@@ -45644,6 +51254,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-bloomberg-trade-reignite"
     },
@@ -45687,6 +51302,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-bloomberg-alibaba-slide"
     },
@@ -45725,6 +51345,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-bloomberg-china-stocks"
     },
@@ -45764,6 +51389,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-bloomberg-leapmotor"
     },
@@ -45802,6 +51432,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-bloomberg-world-shares"
     },
@@ -45841,6 +51476,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-bloomberg-yuan"
     },
@@ -45880,6 +51520,11 @@ window.__XFS_DATA__ = {
       "body_available": false,
       "body_zh": "",
       "deep_analysis": "",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-25",
       "_uid": "2026-08-25/20260825-bloomberg-pdd"
     },
@@ -45923,6 +51568,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
         "evidence_url": "https://www.techrepublic.com/article/news-taiwan-nvidia-supermicro-ai-server-smuggling-china-apac",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/r1"
@@ -45968,6 +51618,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://rt.com/news/644474-china-rejects-us-demand-iran",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/r2"
     },
@@ -46011,6 +51666,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "gfm.news 转载路透稿（Reuters, Beijing, Aug 28）文末署名：'Reporting by Yukun Zhang and Liz Lee; Polling by Susobhan Sarkar in Bengaluru and Jing Wang in Shanghai; Editing by Kim Coghill'。",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/r3"
     },
@@ -46053,6 +51713,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/r4"
     },
@@ -46090,6 +51755,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
         "evidence_url": "https://hiwars.com/en/intel/bangladesh-plans-to-purchase-20-to-24-j-10ce-fight",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/r5"
@@ -46135,6 +51805,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "NewsBreak/local 与 piqmarkets 转载：'(Reporting by Liangping Gao and Ryan Woo; Additional Reporting by Shuyan Wang; Editing by Saad Sayeed)'；另见 'Liangping Gao Reuters reporter / Ryan Woo Reuters reporter'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/r6"
     },
@@ -46173,6 +51848,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
         "evidence_url": "https://www.europesays.com/europe/121271",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/r7"
@@ -46216,6 +51896,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.163.com/dy/article/L56VASVE053469RG.html",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/r8"
     },
@@ -46253,6 +51938,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
         "evidence_url": "https://www.thevibes.com/articles/world/126586/china-defies-trumps-iran-pressure-as-beijing-warns-us-against-disrupting-tehran-ties",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/b1"
@@ -46294,6 +51984,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://tradingdashboard.com/en/news/market-brief-august-26-2026",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/b2"
     },
@@ -46334,6 +52029,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://chinaglobalsouth.com/2026/08/25/us-iran-sanctions-china-operation-economic-outcast",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/b3"
     },
@@ -46369,6 +52069,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
         "evidence_url": "https://thebriefwire.com/news/164040-china-defiant-iran-ties-tech-stocks-focus",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/b4"
@@ -46410,6 +52115,16 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.thevibes.com/articles/world/126586/china-defies-trumps-iran-pressure-as-beijing-warns-us-against-disrupting-tehran-ties",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "人士称，",
+            "snippet": "子到先进武器的美国产业。分析人士称，关键问题在于华盛顿是否愿意为"
+          }
+        ]
+      },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/b5"
     },
@@ -46447,6 +52162,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
         "evidence_url": "https://thebriefwire.com/news/164040-china-defiant-iran-ties-tech-stocks-focus",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/b6"
@@ -46487,6 +52207,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bloomberg.com/finance/real-estate-markets",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/b7"
     },
@@ -46524,6 +52249,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(reuters.com/bloomberg.com JS墙/付费墙)；经通道C(WebSearch 多组关键词)与转载页(Investing/Yahoo/TechRepublic/Guardian/The Vibes 等)补全标题、URL与摘要",
         "evidence_url": "https://hk.finance.yahoo.com/news/%E5%BD%AD%E5%8D%9A%E8%A1%8C%E6%A5%AD%E7%A0%94%E7%A9%B6%E9%A0%90%E6%96%99%E9%A6%99%E6%B8%AF%E4%BD%8F%E5%AE%85%E6%A8%93%E5%83%B9%E4%BB%8A%E6%97%A5%E5%85%A9%E5%B9%B4%E5%88%86%E5%88%A5%E5%8D%8711-%E5%8F%8A7-085036497.html",
         "evidence_note": "原始或转载链接见 source_url；署名情况见 authors_status。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-26",
       "_uid": "2026-08-26/b8"
@@ -46565,6 +52295,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.163.com/dy/article/L59Q93OP0552C2FY.html",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/r1"
     },
@@ -46604,6 +52339,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.jin10.com/node/7023/",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/r2"
     },
@@ -46641,6 +52381,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
         "evidence_url": "https://xnews.jin10.com/details/228480",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/r3"
@@ -46685,6 +52430,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/r4"
     },
@@ -46722,6 +52472,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
         "evidence_url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26082700198",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/r5"
@@ -46766,6 +52521,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "usnews.com 刊载路透稿（Reuters, MOSCOW, Aug 26）文末署名：'Reporting by Marina Bobrova and Vladimir Soldatkin; Editing by Muralikumar Anantharaman and Stephen Coates'。",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/r6"
     },
@@ -46805,6 +52565,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3806a8f73ac60052",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/r7"
     },
@@ -46842,6 +52607,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
         "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/r8"
@@ -46882,6 +52652,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://xnews.jin10.com/details/228480",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/r9"
     },
@@ -46921,6 +52696,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/r10"
     },
@@ -46957,6 +52737,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
         "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/b1"
@@ -46995,6 +52780,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3806a8f73ac60052",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/b2"
     },
@@ -47032,6 +52822,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
         "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3806a8f73ac60052",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/b3"
@@ -47072,6 +52867,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/b4"
     },
@@ -47109,6 +52909,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
         "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/b5"
@@ -47148,6 +52953,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
         "evidence_url": "https://xnews.jin10.com/details/228480",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/b6"
@@ -47191,6 +53001,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "urgent.news 转载：'(Luz Ding/Bloomberg)'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/b7"
     },
@@ -47229,6 +53044,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
         "evidence_url": "https://www.jin10.com/node/7023/",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/b8"
@@ -47272,6 +53092,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://klse.i3investor.com/web/blog/detail/mercurysec/2026-08-27-story-h502346887-Daily_Newswatch_27_Aug_2026",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/b9"
     },
@@ -47309,6 +53134,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A直连失败(JS墙/机器人验证拦截)；经通道C(WebSearch)与聚合转载补全标题、URL与摘要",
         "evidence_url": "https://new.qq.com/rain/a/20260827A0303300?refer=cp_1009",
         "evidence_note": "原页不可达，署名未确认(付费墙/JS限制)；关键事实来自检索结果与聚合转载交叉确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-27",
       "_uid": "2026-08-27/b10"
@@ -47356,6 +53186,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://gfm.news/news/chinas-factory-activity-seen-contracting-again-in-august-0foj",
         "evidence_note": "gfm.news全文转载路透原稿，含电头 BEIJING, Aug 28 (Reuters)、署名 Reporting by Yukun Zhang and Liz Lee、调查统筹与编辑名单。发布时间按路透北京晨间调查稿惯例估计，精度为小时。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/r1"
     },
@@ -47398,6 +53233,16 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+The Edge Malaysia与Times of India转载路透全文交叉取得",
         "evidence_url": "https://www.theedgemarkets.com/node/816199",
         "evidence_note": "The Edge Malaysia全文转载路透商品房销售制度改革稿（By Reuters，BEIJING电头）；Times of India、央视、人民日报交叉印证央行40年房贷与主办银行制等信贷配套细节。路透原文未见具名记者，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "匿名官员",
+            "snippet": "分烂尾至今超五年。新华社引述匿名官员称，以预售和快周转为主的旧制"
+          }
+        ]
       },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/r2"
@@ -47444,6 +53289,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+MarketScreener全文转载取得",
         "evidence_url": "https://uk.marketscreener.com/news/china-home-prices-seen-falling-slightly-less-this-year-property-investment-slump-deepens-reuters-ce7858dfdb8af424",
         "evidence_note": "MarketScreener全文转载路透调查稿，含电头 BEIJING, Aug 28 (Reuters)、署名 Reporting by Liangping Gao and Ryan Woo; Additional reporting by Shuyan Wang; Editing by Saad Sayeed，及调查期间(8月17-27日)、机构数(11家)等元数据。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/r3"
@@ -47492,6 +53342,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/asia-pacific/chinas-icbc-worlds-biggest-bank-posts-33-profit-rise-first-half-2026-08-28/",
         "evidence_note": "Reuters原稿经搜索引擎返回标题与全文要点（BEIJING/HONG KONG, Aug 28 电头；Reporting by Ziyi Tang in Beijing and Selena Li in Hong Kong; writing by Engen Tham; Editing by Tomasz Janowski, Conor Humphries and Barbara Lewis），与腾讯/新浪对六大行中报的披露细节交叉一致。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/r4"
     },
@@ -47539,6 +53394,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+Reuters官网slug检索+CNA/经济时报转载交叉取得",
         "evidence_url": "https://www.channelnewsasia.com/business/byd-posts-first-quarterly-profit-rise-in-over-year-6347776",
         "evidence_note": "Reuters原稿URL与标题经检索确认；CNA与经济时报全文转载路透原稿（BEIJING, Aug 28电头），Edge转稿标注记者 Qiaoyi Li、Zhang Yan、Ju-min Park。H1净利-20.5%等数据与比亚迪公告及中文财经报道一致。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/r5"
@@ -47591,6 +53451,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://wmbdradio.com/2026/08/27/rescuers-scour-nepal-flood-debris-as-risk-of-fresh-flooding-grows",
         "evidence_note": "WMBD Radio全文转载路透综合稿（NUWAKOT, Nepal, Aug 28 (Reuters)；By Gopal Sharma, Sahana Bajracharya, Saurabh Sharma and Liz Lee），含政治局会议、李强抵吉隆、中国21人救援队「满目废墟」、印度北方邦发现遗体等细节；与Al Jazeera(Yahoo转载的Liz Lee北京稿)、央视/新华社中方通报数据交叉一致。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/r6"
     },
@@ -47633,6 +53498,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+The Sun Malaysia全文转载路透华盛顿电取得",
         "evidence_url": "https://thesun.my/news/world-news/trump-sanctions-chinese-banks-iran-links",
         "evidence_note": "The Sun Malaysia标注Reuters全文转载，含华盛顿电头与特朗普反问原文；香港01、TVB、news18及新华社/中青报报道中方8月28日回应交叉印证。路透白宫快讯无个人署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/r7"
@@ -47681,6 +53551,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aol.com/articles/chinas-industrial-profit-growth-cools-013711000.html",
         "evidence_note": "AOL全文转载路透原稿，含电头 BEIJING, Aug 27 (Reuters)、署名 Reporting by Qiaoyi Li, Shuyan Wang and Liz Lee; Editing by Muralikumar Anantharaman and Jacqueline Wong。该稿原发于8月27日，前序2026-08-27.json未收录，本批次一并补入。数据与统计局官网及中新网解读一致。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/r8"
     },
@@ -47722,6 +53597,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+The Edge Malaysia「China Focus」全文转载彭博电取得",
         "evidence_url": "https://www.theedgemalaysia.com/node/816165",
         "evidence_note": "The Edge Malaysia全文转载彭博银行中报稿（By Bloomberg, Aug 28），含各行利润增幅、行业净息差1.41%、张辉与田枫林引语、分红比例等细节；与新浪/腾讯对六大行中报及业绩发布会内容交叉一致。彭博正文为机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/b1"
@@ -47768,6 +53648,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.business-standard.com/amp/world-news/chinese-chipmaker-cxmt-s-sales-soar-almost-10-fold-amid-memory-crunch-126082801400_1.html",
         "evidence_note": "Business Standard转载彭博稿全文（标题与彭博FX Center所列 Chinese Chipmaker CXMT's Sales Soar Amid Memory Crunch 对应），数据（营收1503.1亿元/净利776.1亿元/研发87%增幅/市值超越腾讯）与长鑫科技公告、The Edge Malaysia及中文财经报道交叉一致；彭博正文机构署名，标 not_available。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/b2"
     },
@@ -47810,6 +53695,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+The Edge Malaysia全文转载彭博稿取得",
         "evidence_url": "https://www.theedgemarkets.com/node/816156",
         "evidence_note": "The Edge Malaysia全文转载彭博稿（By Bloomberg, Aug 28），含Hy4参数、上下文窗口、盲测分数、资本开支528亿元等细节；metirai等第三方评测博客与腾讯官方发布材料交叉印证。彭博正文为机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/b3"
@@ -47856,6 +53746,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
         "evidence_note": "The Edge Malaysia「China Focus」8月28日条目 Taiwan projects population could fall to 12 mil by 2075（By Twinnie Siu / Bloomberg），人口推算数据（2045年1998万、2075年1215万、生育率0.695、2026年新生跌破10万）与中新社台北8月28日电及香港中通社报道一致。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/b4"
     },
@@ -47897,6 +53792,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+Trendly/niotex聚合页取得彭博摘要+UBS官方新闻稿及中新社/上交所报道交叉印证",
         "evidence_url": "https://niotex.com/blog/trends-2026-08-28",
         "evidence_note": "Trendly digest 2026-08-28 摘录彭博原句（UBS Group AG's debut Chinese domestic bond sale this week underscores the market's growing popularity among international issuers looking for lower borrowing costs）；票息、规模、认购倍数等细节与瑞银官网新闻稿（8月27日）一致。彭博正文机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-28",
       "_uid": "2026-08-28/b5"
@@ -47940,6 +53840,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C（WebSearch多组关键词）+国际转载源KELO取得路透全文",
         "evidence_url": "https://kelo.com/2026/08/28/china-removes-top-generals-from-state-central-military-commission/",
         "evidence_note": "KELO全文转载路透原稿，含电头BEIJING, Aug 28 (Reuters)、12名全国人大代表被终止资格、赵宗琦被撤销政协资格等细节；路透原文署名『Reporting by Beijing Newsroom』，故authors_status=not_available。to-the-minute发布时间未能确证，published_at为小时级近似。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-29",
       "_uid": "2026-08-29/r1"
@@ -47988,6 +53893,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://bdnews24.com/world/4af866fa04f1",
         "evidence_note": "bdnews24全文转载路透8月29日电（BEIJING, Aug 29 (Reuters)）；Asian News India镜像载明署名Reporting by Liz Lee and Yukun Zhang; Editing by Stephen Coates。注：8月28日文件r6已收录同事件『救援恢复』首报，本条为8月29日新增卫星监测稿（湖体面积9.9万平方米、缩减2.1万平方米、第二水体超12万平方米等为新增数据），故单列。to-the-minute发布时间未能确证，published_at为小时级近似。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-29",
       "_uid": "2026-08-29/r2"
     },
@@ -48032,6 +53942,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.fidelity.com/news/article/default/202608280452RTRSNEWSCOMBINED_L6N44P0HM_1",
         "evidence_note": "Fidelity转载路透原稿，含电头SHANGHAI (Reuters)、署名Reporting by Casey Hall in Shanghai; Editing by Tomasz Janowski，以及4月监管36亿元罚款、淘宝/京东即时零售竞争背景。路透canonical URL因访问限制未能确证，source_url暂用Fidelity镜像。财务口径以公司公告为准。to-the-minute发布时间未能确证，published_at为小时级近似。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-29",
       "_uid": "2026-08-29/r3"
     },
@@ -48074,6 +53989,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C（WebSearch）+The Edge Malaysia（Reuters授权转载）取得全文",
         "evidence_url": "https://theedgemalaysia.com/node/816154",
         "evidence_note": "The Edge Malaysia 8月28日转载路透原稿（By Ananya Palyekar / Reuters），含标普A+确认、4%增长预期、供应链/科技/制造业『强劲进展』及财政部欢迎表态。路透canonical URL因访问限制未能确证，source_url暂用该转载页。to-the-minute发布时间未能确证，published_at为小时级近似。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-29",
       "_uid": "2026-08-29/r4"
@@ -48120,6 +54040,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.fidelity.com/news/article/default/202608281535RTRSNEWSCOMBINED_KBN3UJ260-OUSTP_1",
         "evidence_note": "Fidelity全文转载路透原稿，含电头WASHINGTON, Aug 28 (Reuters)、署名Reporting by Raphael Satter in Washington and AJ Vicens in Detroit; Editing by Franklin Paul, Chizu Nomiyama and Matthew Lewis。AOL版显示该稿最晚于UTC 8月28日21:43更新。路透canonical URL未能确证，source_url暂用Internazionale的Reuters转载镜像。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-29",
       "_uid": "2026-08-29/r5"
     },
@@ -48165,6 +54090,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C（WebSearch）+彭博预览镜像取得正文前段，其余要点以路透同事件稿与中新经纬/凤凰科技转述交叉印证",
         "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-08-29/chinese-chipmaker-cxmt-sues-pentagon-to-get-off-us-blacklist",
         "evidence_note": "彭博原稿标题《Chinese Chipmaker CXMT Sues Pentagon to Get Off US Blacklist》，作者Ville Heiskanen，发布2026-08-29T03:39Z，属彭博Chip Wars专题，标注CXMT股票代码688825:CH。彭博正文付费受限仅取得前两段；被告构成、2月移出/撤回、小米与阿里先例等细节经路透同事件报道（Yahoo/HCN Times转载，署名Che Pan、Mrinmay Dey、Christian Martinez）及中新经纬转述交叉印证，facts一致。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-29",
       "_uid": "2026-08-29/b1"
@@ -48216,6 +54146,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Same Reuters article as 2026-09-01 r5 ('G20 countries should consider more trade barriers on China'), Reporting by David Lawder",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-30",
       "_uid": "2026-08-30/r1"
     },
@@ -48270,6 +54205,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://bdnews24.com/world/b77daa8c8bce",
         "evidence_note": "bdnews24（8月30日21:44更新）全文转载路透当日滚动稿，署名 Reporting by Sahana Bajracharya in Chitwan, Gopal Sharma in Kathmandu, Adnan Abidi in Trishuli, Laurie Chen and Ethan Wang in Beijing and Bipasha Dey; Writing by Aftab Ahmed; Editing by Christopher Cushing, Thomas Derpinghaus, Ros Russell；ThePrint版（TRISHULI/BEIJING电头）载早期版本与中方国籍分布明细；The Business Standard版含新华社/中国经济网引述的中科院成都山地所研究员苏鹏程气候归因补充。路透当日多版本滚动（死亡数字750→781），published_at取小时级近似。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-30",
       "_uid": "2026-08-30/r2"
     },
@@ -48318,6 +54258,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finance.yahoo.com/m/4dcfd065-6dfb-301a-ac3d-9b3d9bfff7aa/taiwan-prosecutors-search.html",
         "evidence_note": "Yahoo Finance全文转载路透原稿，含电头 TAIPEI, Aug 29 (Reuters)、署名 Reporting by Ben Blanchard and Wen-Yee Lee; Editing by William Mallard；台湾新闻(taiwannews)8月29日16:46当地时、优分析8月30日、SWIL供应链日报亦交叉载明。该稿原发8月29日（周六），08-29.json未收录，作为漏录稿本批补入。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-30",
       "_uid": "2026-08-30/r3"
     },
@@ -48363,6 +54308,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://hcntimes.com/chinas-big-three-airlines-report-us1-21bn-first-half-loss-as-fuel-costs-surge",
         "evidence_note": "国航/东航半年报均于北京时间8月30日晚间在上交所披露（第一财经、网易财经等证实「截至8月30日三大航完成披露」，国航8/30晚间发布）；路透当日单发快讯标题经91rb.live路透热榜确证（Air China H1 net loss widens to about $341 million, filing shows / China Eastern posts wider first-half net loss），正文事实与路透8月31日综合稿（HONG KONG/BEIJING, Aug 31电头，HCN Times/FinWire全文转载）及网易/头条中文财经数字交叉一致。单行快讯未见转载署名，authors_status=not_available；to-the-minute发布时间未能确证，published_at为小时级近似。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-30",
       "_uid": "2026-08-30/r4"
     },
@@ -48407,6 +54357,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+91rb.live路透单行快讯标题+FinWire转载路透8/31三大航综合稿及网易财经披露数据交叉取得",
         "evidence_url": "https://finwire.io/news/stock-markets-news/chinas-three-biggest-airlines-post-heavy-first-half-losses-as-fuel-shock-bites",
         "evidence_note": "东航半年报于北京时间8/30晚间披露；路透当日单行快讯标题China Eastern posts wider first-half net loss经91rb.live路透热榜确证，正文数据与路透8月31日三大航综合稿（FinWire全文转载，含东航营收增11.1%、C919机队17架、2026-28年交付预测少13架等）及网易/新京报中文财经交叉一致。快讯未见转载署名，authors_status=not_available；published_at为小时级近似。此稿与r4（国航稿）同批披露，事实互补、单列以对应路透两则独立快讯。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-30",
       "_uid": "2026-08-30/r5"
@@ -48454,6 +54409,32 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+Economic Times/IndexBox/BladeIntel全文转载路透特写、今日MG中文编译交叉取得",
         "evidence_url": "https://www.indexbox.io/blog/sheins-hong-kong-ipo-marks-shift-to-embrace-chinese-identity",
         "evidence_note": "IndexBox标注Reuters Analysis全文转载该特写，正文含三名匿名信源、许仰天15亿美元广东投资、南京研发中心、约265亿美元估值/募17亿美元、80%员工在华等细节；Economic Times版（S2S原始页面）与今日MG中文编译一致。Techmeme于美东8/30 5:40AM收录该路透特写（标题 How Shein pivoted to a Hong Kong IPO and sought to build Chinese government ties）。原稿转载页未附记者署名行，authors_status=not_available；published_at为小时级近似。"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 5,
+        "hits": [
+          {
+            "kw": "据三名知情人士",
+            "snippet": "的证券监管机构）放行而告吹。据三名知情人士透露，2025年上半年转向香"
+          },
+          {
+            "kw": "知情人士称",
+            "snippet": "开设研发中心。三名要求匿名的知情人士称，Shein通过展示对国内的"
+          },
+          {
+            "kw": "知情人士透露",
+            "snippet": "监管机构）放行而告吹。据三名知情人士透露，2025年上半年转向香港上"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "研发中心。三名要求匿名的知情人士称，Shein通过展示对国内的经"
+          },
+          {
+            "kw": "人士透露，",
+            "snippet": "机构）放行而告吹。据三名知情人士透露，2025年上半年转向香港上市"
+          }
+        ]
       },
       "_day": "2026-08-30",
       "_uid": "2026-08-30/r6"
@@ -48504,6 +54485,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://news.qq.com/rain/a/20260829A04NPK00",
         "evidence_note": "彭博原稿标题《China's AI Boom Has a Favorite Bar》（Bloomberg.com，作者Charlie Zhu、Zheping Huang），feature页URL slug为2026-08-27，腾讯新闻转载页标注「彭博新闻社报道2026年8月28日」，故原发约为UTC 8月28日凌晨前后（published_at为小时级近似）；Techmeme于8月30日8:36AM(ET)再收录该稿、Bloomberg This Weekend播客（8/30播出）作为周末中国AI内容重点讨论，8-28/8-29两批次均未收录，遂作为周末深度稿补录。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-08-30",
       "_uid": "2026-08-30/b1"
     },
@@ -48546,6 +54532,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+The Economic Times彭博授权转载专题页确证标题与摘要；正文细节经该摘要及IMF框架展开",
         "evidence_url": "https://economictimes.indiatimes.com/topic/bloomberg-news-china/news",
         "evidence_note": "The Economic Times「bloomberg-news-china」专题页载该稿标题《Vietnam's Export Triumph: How a Small Nation Beat China and India to Become America's Top Trade Partner》与摘要（含1140亿美元、超中国与墨西哥、China+1），标注30 Aug 2026 12:20 PM IST（≈UTC 06:50，published_at取小时级近似）。彭博正文付费不可直接读，body_zh基于转载摘要编译并注明；彭博机构署名，authors_status=not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-08-30",
       "_uid": "2026-08-30/b2"
@@ -48597,6 +54588,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aol.com/articles/chinas-factory-activity-improves-stays-014536000.html",
         "evidence_note": "AOL 全文转载路透原稿，末尾含 (Reporting by Yukun Zhang and Liz Lee; Editing by Jacqueline Wong)，署名与全文均据此取得。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/r1"
     },
@@ -48646,6 +54642,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://theedgemalaysia.com/node/816319",
         "evidence_note": "The Edge Malaysia 全文转载（含 SHANGHAI/HONG KONG dateline 与 Aug 31）；Stockopedia 另载 UPDATE 3 版本含指数代码与涨跌幅细节，两源交叉取正文。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/r2"
     },
@@ -48685,6 +54686,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A/B失败后经通道C(WebSearch多组关键词)+通道D(时间限定)与国际转载源取得",
         "evidence_url": "https://uk.marketscreener.com/news/new-china-property-sector-rules-expected-to-bring-consolidation-small-developers-shares-slide-ce7858dcdd8af727",
         "evidence_note": "MarketScreener UK 全文转载，末尾明确 (Reporting by Shanghai newsroom; Editing by Edwina Gibbs) —— 机构发稿，无个人署名。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/r3"
@@ -48728,6 +54734,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A/B失败后经通道C(WebSearch多组关键词)+通道D(时间限定)与国际转载源取得",
         "evidence_url": "https://srnnews.com/taiwan-says-unpredictable-china-strengthens-air-and-sea-control-nearby/",
         "evidence_note": "SRN News 全文转载路透原稿，末尾 (Reporting by Ben Blanchard)；另有 LSEG 终端警报显示触发时间 31-Aug-2026 9:14:22 PM，用于校准 published_at。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/r4"
@@ -48774,6 +54785,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Fidelity/Internazionale reprint: '(Reporting by David Lawder; Editing by Edmund Klamann)'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/r5"
     },
@@ -48815,6 +54831,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A/B失败后经通道C(WebSearch多组关键词)+通道D(时间限定)与国际转载源取得",
         "evidence_url": "https://www.reuters.com/technology/huawei-first-half-profit-slumps-2026-08-31/",
         "evidence_note": "经 WebSearch 多组关键词定位路透原稿标题与署名 Eduardo Baptista；原页受JS墙限制未取得全文，摘要为检索级录入，正文待补。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/r6"
@@ -48866,6 +54887,16 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-08-31/china-makes-cars-so-fast-that-it-s-starting-to-worry-regulators",
         "evidence_note": "彭博镜像 envoy.cirrus.bloomberg.com 取得导语与彭博原创标记；CNBC TV18 转载取得接近全文（含 Bill Russo、李学用引语与427万辆召回细节）；新浪财经/联合早报中文转载用于校核数据。署名经多源找回仍为 Bloomberg News。"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "人士称，",
+            "snippet": "未获授权公开发言而要求匿名的人士称，中国车企一直在挑战开发符合安"
+          }
+        ]
+      },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/b1"
     },
@@ -48909,6 +54940,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://brp-prod-bcc.bloomberg.com/news/articles/2026-09-01/xi-s-busiest-travel-itinerary-in-seven-years-is-all-about-trump",
         "evidence_note": "彭博镜像 brp-prod-bcc.bloomberg.com 取得正文前段与精确时间戳 September 1, 2026 at 7:10 AM UTC，署名 By Bloomberg News。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/b2"
     },
@@ -48950,6 +54986,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://origin.www.bloomberg.com/news/articles/2026-08-31/bessent-to-push-g20-to-rethink-china-trade-terms-reuters-says",
         "evidence_note": "彭博镜像 origin.www.bloomberg.com 取得全文（Supply Lines 通讯条目）与时间戳 Aug 31 4:51 AM UTC / updated 8:12 AM UTC，署名 By Bloomberg News，信源标注 Reuters。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/b3"
     },
@@ -48989,6 +55030,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
         "evidence_url": "https://brp-prod-bcc.bloomberg.com/news/articles/2026-09-01/chinese-banks-extend-record-breaking-rally-on-earnings-dividend",
         "evidence_note": "彭博镜像取得正文前两段与时间戳 September 1, 2026 at 8:07 AM UTC，含三大指数代码 M0CN0BK / MXCN / S5FINL。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/b4"
@@ -49031,6 +55077,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://brp-prod-bcc.bloomberg.com/opinion/articles/2026-08-31/china-s-proya-cosmetics-giant-has-its-ulta-strategy-in-us-backwards",
         "evidence_note": "彭博镜像取得专栏正文前段、作者页链接与时间戳 August 31, 2026 at 6:00 PM UTC；作者 Juliana Liu 为彭博观点亚洲专栏作家（具名）。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/b5"
     },
@@ -49072,6 +55123,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://brp-prod-bcc.bloomberg.com/asia",
         "evidence_note": "彭博亚洲镜像首页列出该专栏条目（By Shuli Ren, Columnist，2026-08-31）；正文受付费墙限制未取得，摘要为条目级录入。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/b6"
     },
@@ -49109,6 +55165,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
         "evidence_url": "https://brp-prod-bcc.bloomberg.com/asia",
         "evidence_note": "彭博亚洲镜像首页条目（2026-09-01，配图署名彭博摄影师 Lam Yik）；正文受付费墙限制未取得。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/b7"
@@ -49149,6 +55210,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
         "evidence_url": "https://brp-prod-bcc.bloomberg.com/asia",
         "evidence_note": "彭博亚洲镜像首页条目：原题 Shein Set to Debut in Test of Investor Demand for Consumer Plays，上市后更新为 Shein Shares Plunge 10% in Hong Kong Debut（2026-08-31）。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/b8"
@@ -49194,6 +55260,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://thefinancial.news/cxmt-passes-its-first-earnings-test-with-flying-colors-the-china-show-8-31-2026",
         "evidence_note": "The Financial News 转载彭博《The China Show》8/31 完整节目单与官方栏目介绍（Yvonne Man、David Ingles 主持），据此取得当日彭博涉华议题全谱与嘉宾名单。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/b9"
     },
@@ -49236,6 +55307,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道A变体(彭博可访问镜像 brp-prod-bcc/envoy.cirrus)+通道C/C2(WebSearch与newsletter专项)取得",
         "evidence_url": "https://brp-prod-bcc.bloomberg.com/asia",
         "evidence_note": "彭博亚洲镜像首页三形态条目（文章 2026-09-01 / 通讯 Morning Briefing: Asia 2026-08-31 / 视频 2026-08-31），确认英伟达35亿美元投资联发科与股价涨10%。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-01",
       "_uid": "2026-09-01/b10"
@@ -49282,6 +55358,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch多组关键词)+国际转载源gcaptain取得路透全文与署名",
         "evidence_url": "https://gcaptain.com/chinese-shipper-cosco-collects-intel-for-beijing-with-concealed-equipment",
         "evidence_note": "gcaptain 全文转载路透原稿，含电头 WASHINGTON, Sept 1 (Reuters)、署名 Reporting by Michael Martina; Editing by Don Durfee and Jamie Freed，及中远9月3日否认声明与1260H清单等背景。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-02",
       "_uid": "2026-09-02/r1"
@@ -49330,6 +55411,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aol.com/articles/china-restores-road-access-tibet-050801000.html",
         "evidence_note": "AOL 全文转载路透原稿，含电头 BEIJING, Sept 2 (Reuters)、署名 Reporting by Liz Lee, Ethan Wang, Joe Cash, Chu Mei Mei, Qiaoyi Li and Yukun Zhang; Editing by Saad Sayeed and Edwina Gibbs。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-02",
       "_uid": "2026-09-02/r2"
     },
@@ -49375,6 +55461,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "CRBC News: \"Reporting: Sarita Chaganti Singh in New Delhi. Writing: Ariba Shahid. Editing: Rick Noack, Gareth Jones and Christian Schmollinger.\"",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-02",
       "_uid": "2026-09-02/r3"
     },
@@ -49420,6 +55511,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://capital.com/en-int/news/china-stocks-decline-hk-flat-as-sentiment-hit-by-global",
         "evidence_note": "capital.com 全文转载路透原稿，含电头 HONG KONG, Sept 2 (Reuters)、署名 Summer Zhen，及李强会见美中贸委会、汽车股受出海指引影响等细节。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-02",
       "_uid": "2026-09-02/r4"
     },
@@ -49461,6 +55557,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia全量转载)与新华/人民日报公告交叉印证",
         "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
         "evidence_note": "The Edge Malaysia「China Focus」9月2日条目 China removes tax exemption on foreigners' dividend incomes（By Bloomberg），政策细节与新华网、人民日报公告一致；彭博正文为机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-02",
       "_uid": "2026-09-02/b1"
@@ -49504,6 +55605,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia)与国际媒体(superpowerdaily等)交叉取得",
         "evidence_url": "https://theedgemalaysia.com/node/816631",
         "evidence_note": "The Edge Malaysia 全文转载彭博燧原科技IPO稿，含4073倍认购、5.98万亿元订单、发行价142.18元、腾讯持股20%等关键数据；彭博正文机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-02",
       "_uid": "2026-09-02/b2"
@@ -49551,6 +55657,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://theedgemalaysia.com/node/816571",
         "evidence_note": "The Edge Malaysia 全文转载彭博恒大稿，署名 By Pearl Liu & Trista Xinyi Luo / Bloomberg，含法官 H Au-Yeung、清盘人追讨77亿美元资产、向普华永道索赔570亿元等关键细节。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-02",
       "_uid": "2026-09-02/b3"
     },
@@ -49592,6 +55703,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+tradingnewsterminal转述彭博取得",
         "evidence_url": "https://www.tradingnewsterminal.com/news/2026/09/02/china-us-yield-gap-nears-record-high-treasury-selloff",
         "evidence_note": "tradingnewsterminal 转述彭博9月2日中美利差稿，含美10年收益率4.81%、利差近纪录等要点；彭博正文机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-02",
       "_uid": "2026-09-02/b4"
@@ -49635,6 +55751,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+statement.com转述路透与中新网官方通稿交叉取得",
         "evidence_url": "https://statement.com/1302519/china-proposes-a-new-security-order-for-the-middle-east",
         "evidence_note": "statement.com 聚合页含路透关于「China Proposes a New Security Order for the Middle East」的段落；四点倡议细节与中国新闻网官方通稿一致。外媒稿多为机构/未具名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-02",
       "_uid": "2026-09-02/b5"
@@ -49681,6 +55802,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.zaobao.com/news/china/story20260903-9617762",
         "evidence_note": "联合早报9月3日全文引述路透报道，含1.5万美元行程、GloPen咨询增50%、深圳500万人次、小米工厂25万访客等；statement.com 同步刊载路透原文段落（标注 Reuters）。路透无个人署名，标 not_available。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-03",
       "_uid": "2026-09-03/r1"
     },
@@ -49726,6 +55852,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.indopremier.com/ipotnews/newsDetail.php/newsDetail.php?group_news=IPOTNEWS&news_id=237932",
         "evidence_note": "indopremier 全文转载路透9月3日中国股市反弹稿，含午盘数据、地产+4.9%、恒指25317.49、非农预期与潘功胜G20表态，署名 Reporting by Shanghai Newsroom; Editing by Janane Venkatraman。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-03",
       "_uid": "2026-09-03/r2"
     },
@@ -49769,6 +55900,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+头条/环球时报转述路透",
         "evidence_url": "https://www.toutiao.com/article/7681207071966036507/",
         "evidence_note": "头条/环球时报9月3日报道引述路透：贝森特在G20称因中国贸易顺差分歧致会议未发公报；并附潘功胜G20发言与中方“深表遗憾”表态。路透无个人署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-03",
       "_uid": "2026-09-03/r3"
@@ -49815,6 +55951,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.channelnewsasia.com/east-asia/china-france-fast-fashion-law-countermeasure-shein-6360096",
         "evidence_note": "CNA 9月3日刊载“China urges France to halt fast-fashion law, warns of countermeasures”，含法方法案细节（单件近20欧元、希音200万款/日均4700款）与黄玲回应；路透上下文（REUTERS/Sarah Meyssonnier 文件照、对Zara/H&M不影响的报道）佐证。路透无个人署名，标 not_available。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-03",
       "_uid": "2026-09-03/r4"
     },
@@ -49857,6 +55998,20 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+彭博原文(brp-prod-bcc.bloomberg.com)与头条/金融界交叉",
         "evidence_url": "https://brp-prod-bcc.bloomberg.com/news/articles/2026-09-03/bytedance-gets-30-billion-loan-asia-s-second-largest-this-year",
         "evidence_note": "彭博原文确认字节跳动获296亿美元贷款、亚洲年内第二大；今日头条/金融界补充利率SOFR+68bp、花旗摩通协调行等细节。彭博正文机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "年内第二大 彭博9月3日引述知情人士称，TikTok母公司字节跳动"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "第二大 彭博9月3日引述知情人士称，TikTok母公司字节跳动已"
+          }
+        ]
       },
       "_day": "2026-09-03",
       "_uid": "2026-09-03/b1"
@@ -49902,6 +56057,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.asiae.co.kr/en/article/2026090308520068893",
         "evidence_note": "亚洲经济9月3日报道明确标注“According to Bloomberg”，详述卢特尼克G20表态、25%第一阶段关税、扩展至服务器与消费电子、对三星/SK海力士影响；网易/观察者网同步转述彭博。彭博正文机构署名，标 not_available。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-03",
       "_uid": "2026-09-03/b2"
     },
@@ -49943,6 +56103,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+腾讯/凤凰网转述彭博",
         "evidence_url": "https://new.qq.com/rain/a/20260903A05ZYH00?refer=cp_1009",
         "evidence_note": "腾讯财经9月3日转述彭博：发达债市抛售中中国等新兴债券收益率反降、套利交易回报22%、中国存款173万亿元未被挤出。彭博正文机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-03",
       "_uid": "2026-09-03/b3"
@@ -49986,6 +56151,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+凤凰网财经转述彭博",
         "evidence_url": "https://new.qq.com/rain/a/20260903A07PS400",
         "evidence_note": "凤凰网财经9月3日引彭博数据：迪拜原油近100美元、穆尔班运东亚溢价超30美元、中印日韩抢油、三井OSK称年内复航难。彭博正文机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-03",
       "_uid": "2026-09-03/b4"
@@ -50035,6 +56205,20 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/05/exclusive-china-s-xi-to-bring-large-ceo-delegation-on-us-visit-sources-say",
         "evidence_note": "internazionale.it 全文转载路透原稿，含电头 BEIJING, Sept 4 (Reuters)、署名 By Laurie Chen and Eduardo Baptista，及甘思德评论、2015年波音380亿美元协议、特朗普5月带18名高管访华等细节；news4alpha 显示 LSEG 独家提示触发于 04-Sep-2026 22:41（北京时间）。"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "消息人士称",
+            "snippet": "；路透无法确定随行高管名单。消息人士称，此举部分意在释放中国支持对"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "透无法确定随行高管名单。消息人士称，此举部分意在释放中国支持对美"
+          }
+        ]
+      },
       "_day": "2026-09-04",
       "_uid": "2026-09-04/r1"
     },
@@ -50079,6 +56263,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+Yahoo/路透原文转载与环球时报、IndexBox 交叉印证",
         "evidence_url": "https://www.yahoo.com/news/world/articles/chinese-shipper-cosco-denies-vessels-115322883.html",
         "evidence_note": "Yahoo 全文转载路透原稿，含电头 BEIJING, Sept 4 (Reuters)、署名 (Reporting by Beijing Newsroom; editing by Barbara Lewis)，及中远声明原文引语与9月1日指控回顾；环球时报补充「保留依法维护企业声誉权利」表述。路透为北京新闻部机构稿，无个人记者署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-04",
       "_uid": "2026-09-04/r2"
@@ -50130,6 +56319,16 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "The Print reprint: 'By Laurie Chen BEIJING, Sept 4 (Reuters)'",
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "风险对话，两名了解筹备情况的知情人士称。这将是特朗普第二任期以来两"
+          }
+        ]
+      },
       "_day": "2026-09-04",
       "_uid": "2026-09-04/r3"
     },
@@ -50181,6 +56380,16 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aol.com/articles/analysis-shein-seeks-fast-fashion-105126000.html",
         "evidence_note": "AOL 全文转载路透原稿，含电头 LONDON/HONG KONG, Sept 4 (Reuters)、署名 By Helen Reid, Yantoultra Ngui and Selena Li，及股价38.14港元、销售增速1.1%、Everlane 8000万美元、Xcelerator品牌销售增15倍等关键数据。"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "注入其高速供应链与庞大客群。知情人士称Everlane交易只是并购"
+          }
+        ]
+      },
       "_day": "2026-09-04",
       "_uid": "2026-09-04/r4"
     },
@@ -50225,6 +56434,16 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+The Edge Malaysia「China Focus」全文转载路透原稿（含署名与时间）",
         "evidence_url": "https://theedgemalaysia.com/node/816877",
         "evidence_note": "The Edge Malaysia 2026-09-04 15:15 全文转载路透稿，标注 By Selena Li / Reuters、HONG KONG (Sept 4)，含员工翻倍至100人、A股经纪/承销/研究/自营业务范围、高盛14.6亿元与摩根大通9.84亿元净利润对比等全部细节。"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "为该部门增聘数十名员工，两名知情人士称。最终批准可能落在习近平9月"
+          }
+        ]
       },
       "_day": "2026-09-04",
       "_uid": "2026-09-04/r5"
@@ -50274,6 +56493,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.kansas.com/news/business/article317116297.html",
         "evidence_note": "Kansas.com 全文转载路透原稿，含电头 WASHINGTON, Sept 3 (Reuters)、署名 Reporting by David Shepardson; Editing by Franklin Paul, Philippa Fletcher and Christopher Cushing，及薄泽拉信件原文引语、中国驻美使馆回应、Polestar与商务部限制等细节。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-04",
       "_uid": "2026-09-04/r6"
     },
@@ -50316,6 +56540,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+外交部例行记者会双语实录（路透提问）与 news4alpha 路透中国快讯交叉印证",
         "evidence_url": "https://new.qq.com/rain/a/20260905A04E5F00?refer=cp_1009",
         "evidence_note": "外交部2026年9月4日例行记者会双语实录含路透记者就格里尔农业/非关税壁垒表态的提问与郭嘉昆回应；news4alpha 路透终端中国快讯（2026-09-04 06:15-06:18）记录格里尔「逆差同比下降20%」「墨西哥渴望保护北美免受中国进口商品冲击」「周四会见墨西哥贸易部长」三条原话。路透快讯无个人署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-04",
       "_uid": "2026-09-04/r7"
@@ -50366,6 +56595,20 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "The Edge Malaysia / XenoSpectrum: 'By Mackenzie Hawkins & Haze Fan / Bloomberg'",
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "。安装时间取决于华为的产能。知情人士称，尽管华为将该芯片设计与营销"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "装时间取决于华为的产能。知情人士称，尽管华为将该芯片设计与营销为"
+          }
+        ]
+      },
       "_day": "2026-09-04",
       "_uid": "2026-09-04/b1"
     },
@@ -50407,6 +56650,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+彭博原文(origin.www.bloomberg.com)与 Moneycontrol 转载交叉印证",
         "evidence_url": "https://origin.www.bloomberg.com/news/articles/2026-09-04/xi-s-big-personnel-reshuffle-picks-up-pace-as-new-faces-emerge",
         "evidence_note": "彭博9月4日原文确认龚正辞职、朱忠明接任上海代市长、年龄与退休年龄、2027年党代会与五中全会背景；Moneycontrol 全文转载印证。彭博正文机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-04",
       "_uid": "2026-09-04/b2"
@@ -50460,6 +56708,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "bundle.app（Bloomberg 转载）：'Dong Cao, Julia Fioretti, Pei Li and Luz Ding sourced the account to people familiar with the matter' [剔除 Pei Li：库中其为路透记者，疑为跨媒体误配]",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-04",
       "_uid": "2026-09-04/b3"
     },
@@ -50504,6 +56757,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+tradingnewsterminal 转述彭博「The China Show」9/4 与彭博每日简报数据交叉印证",
         "evidence_url": "https://www.tradingnewsterminal.com/news/2026/09/04/china-stocks-join-asia-rally-fed-hike-bets-ease-china-show",
         "evidence_note": "tradingnewsterminal 明确标注 via Bloomberg、Original reported by Bloomberg at September 04, 2026，标题 China Stocks Join Asia Rally As Fed Hike Bets Ease；同期彭博每日简报给出恒指涨2.1%、上证涨0.4%、服务业PMI 51.4（预期50.6，连续44个月扩张）、综合产出52.1 等数据。彭博正文机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-04",
       "_uid": "2026-09-04/b4"
@@ -50554,6 +56812,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch多组关键词)+gfm.news全文转载路透原稿取得署名与电头",
         "evidence_url": "https://gfm.news/news/exclusive-us-china-gear-up-for-mid-september-ai-safety-dialogue-oggk",
         "evidence_note": "gfm.news 全文转载路透独家原稿，含电头 BEIJING, Sept 4 (Reuters)、完整署名 Reporting by Laurie Chen; Additional reporting by Eduardo Baptista in Beijing and Courtney Rozen in Washington; Editing by Paul Simao，以及贝森特牵头、何立峰/丁薛祥人选、Mythos与蒸馏指控、蒙迪二轨渠道等关键段落；reuters.com 原链 slug 由第三方AI日报参考目录交叉确认。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-05",
       "_uid": "2026-09-05/r1"
@@ -50606,6 +56869,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://investing.com/news/stock-market-news/china-rare-earth-firms-halt-some-us-shipments-over-geopolitical-worries-sources-say-4888882",
         "evidence_note": "investing.com 全文转载路透专电，含电头 BEIJING/SINGAPORE/WASHINGTON, Sept 4 (Reuters)、署名 By Laurie Chen, Solomon Cefai, Trevor Hunnicutt and Lewis Jackson，及RBA制裁、RMI审计、钇出口、对日数据等细节；mining.com.au 与观察者网中文转述交叉印证。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-05",
       "_uid": "2026-09-05/r2"
     },
@@ -50656,6 +56924,16 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.mining.com/baowu-eyes-stake-in-bhps-massive-jimblebar-iron-ore-mine",
         "evidence_note": "mining.com 全文转载路透独家，含15%—25%持股区间、Jimblebar 2026财年6250万吨产量、BHP持股85%、CMRG争端和解等细节；stockopedia 转载版本保留路透完整署名 Reporting by Lewis Jackson in Beijing and Yantoultra Ngui in Singapore; Additional reporting by Melanie Burton in Melbourne and Amy Lv in Shanghai; Editing by Tony Munroe and Jan Harvey。"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "澳金布巴铁矿的少数股权，两名知情人士称。宝武考虑取得15%至25%"
+          }
+        ]
+      },
       "_day": "2026-09-05",
       "_uid": "2026-09-05/r3"
     },
@@ -50700,6 +56978,20 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+srnnews全文转载路透独家与TradersUnion/Seeking Alpha交叉",
         "evidence_url": "https://srnnews.com/exclusive-citi-eyes-china-brokerage-unit-licence-as-soon-as-this-month-sources-say",
         "evidence_note": "srnnews 全文转载路透独家，含电头 HONG KONG, Sept 4 (Reuters)、完整署名 (Reporting by Selena Li; Editing by Sumeet Chatterjee and Jamie Freed)，及批文时点、百人编制、A股业务范围、高盛/摩通/大摩利润数据；The Edge Malaysia「China Focus」9月4日同类条目佐证。"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "透香港9月4日独家报道，两名知情人士称，花旗集团预计最快本月获得中"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "港9月4日独家报道，两名知情人士称，花旗集团预计最快本月获得中国"
+          }
+        ]
       },
       "_day": "2026-09-05",
       "_uid": "2026-09-05/r4"
@@ -50748,6 +57040,16 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://samoaobserver.ws/category/samoa/121898",
         "evidence_note": "Samoa Observer 9月4日引述路透（KATHMANDU/SYDNEY 电）完整刊载惠恕仁宣读的联合声明原文（含24小时提前通知条款与瑙鲁异议）及郭嘉昆回应；Yahoo/AOL 版保留路透电头 SYDNEY, Sept 4 (Reuters) 与署名 By Renju Jose。"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "私下对",
+            "snippet": "成一致，尽管多名领导人公开或私下对地区军事化表达担忧。中方称试"
+          }
+        ]
+      },
       "_day": "2026-09-05",
       "_uid": "2026-09-05/r5"
     },
@@ -50786,6 +57088,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+streetinsider路透终端实时消息聚合页取得",
         "evidence_url": "https://www.streetinsider.com/Reuters/Wall+St+gains+with+tech+shares%3B+regional+banks+fall/stock_lookup.php?q=S",
         "evidence_note": "streetinsider 路透实时聚合页条目「One dead, 11 people missing after mudslide in China's Jiangxi province」，时间 Sep 5, 2026 12:05AM，含电头 BEIJING, Sept 5 (Reuters) 与全文；路透快讯无个人署名，标 not_available。The Star 东盟头条「Mudslide in east China's Jiangxi leaves 1 dead, 11 missing」同步佐证。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-05",
       "_uid": "2026-09-05/r6"
@@ -50832,6 +57139,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+The Star转载路透专电与The Print/中国日报香港版交叉印证",
         "evidence_url": "https://theprint.in/world/chinese-national-rescued-from-nepal-tunnel-a-day-after-2-nepalis-pulled-out-alive/3034460/",
         "evidence_note": "The Print 转载路透专电，含电头 KATHMANDU, Sept 5 (Reuters) 与完整署名 Reporting by Sahana Bajracharya and Navesh Chitrakar; Editing by Shri Navaratnam and William Mallard；The Star 版含225米隧道、上特里苏里1号项目等细节，中国日报香港版补充中国驻尼使馆确认与韩方专家协同。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-05",
       "_uid": "2026-09-05/r7"
@@ -50883,6 +57195,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aitechdaily.com/moonshot-hong-kong-ipo",
         "evidence_note": "aitechdaily 明确区分路透版（约30亿美元、估值500亿美元、拆除红筹结构境内注册）与彭博版（最高50亿美元、增聘美银为整体协调人、中金/德银/高盛保荐），并引彭博具名作者 Dong Cao、Julia Fioretti、Pei Li and Luz Ding；thiratti 全文转述彭博并保留贝森特黑名单与蒸馏指控段落。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-05",
       "_uid": "2026-09-05/b1"
     },
@@ -50926,6 +57243,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia 9月4日全量转载)与aitechdaily/aiweekly交叉印证",
         "evidence_url": "https://www.aitechdaily.com/deepseek-huawei-ascend-160k",
         "evidence_note": "aitechdaily 明确标注彭博9月4日（周五）报道并转述全文要点：至少16万颗昇腾950DT、乌兰察布约1GW站点、仅用于推理不用于训练、华为产能约束致交付或逾一年、2027年底或2028年初部分投运；The Edge Malaysia「China Focus」9月4日 06:03pm 条目同步刊载彭博该稿。彭博正文为机构署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-05",
       "_uid": "2026-09-05/b2"
@@ -50975,6 +57297,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://ca.investing.com/news/stock-market-news/longsys-prices-hong-kong-listing-at-hk236-per-share--bloomberg-93CH-4827847",
         "evidence_note": "investing.com 明确标注「Longsys prices Hong Kong listing at HK$236 per share - Bloomberg」，含发行价236港元、上限240.60港元、2600万股、9月8日挂牌、44%折让等；The Edge Malaysia 版保留彭博署名 By Julia Fioretti & Sangmi Cha / Bloomberg 及基石投资者、财务数据全文。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-05",
       "_uid": "2026-09-05/b3"
     },
@@ -51020,6 +57347,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "通道C(WebSearch)+彭博China Focus(The Edge Malaysia)与niotex彭博条目交叉印证",
         "evidence_url": "https://www.niotex.com/blog/trends-2026-09-06",
         "evidence_note": "niotex 期刊目录明确标注 Bloomberg·September 5, 2026·finance 条目「Traders Flock to Bullish Chinese Stock Bets for AI Alternative」并附原文首句；The Edge Malaysia「China Focus」09月6日 10:01am 转载该稿并署名 By Charlotte Yang / Bloomberg（彭博原发为9月5日）。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-05",
       "_uid": "2026-09-05/b4"
@@ -51071,6 +57403,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "ima.qq.com Bloomberg screenshot (Sept 5, 2026): \"By Echo Wong\"",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-05",
       "_uid": "2026-09-05/b5"
     },
@@ -51120,6 +57457,11 @@ window.__XFS_DATA__ = {
         "retrieved_via": "WebSearch多组关键词（Reuters China Sept 6 2026 / China state banks capital boost等）",
         "evidence_url": "https://theedgemalaysia.com/node/816983",
         "evidence_note": "The Edge Malaysia全文转载路透社原稿（By Reuters, BEIJING Sept 6），取得完整正文、数据与公司声明细节；原链reuters.com/world/asia-pacific/china-pump-47-bln-into-state-banks-insurers-capital-boosting-push-2026-09-06/经geoffreychen.com每日简报交叉验证"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-06",
       "_uid": "2026-09-06/r1"
@@ -51172,6 +57514,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Yahoo HK / Finnhub reprint: '联合报道 Charlie Zhu' / '--With assistance from Charlie Zhu'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-06",
       "_uid": "2026-09-06/b1"
     },
@@ -51221,6 +57568,16 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.thehindu.com/news/international/at-flood-destroyed-border-china-teams-scour-ruins-of-once-busy-port/article71436112.ece",
         "evidence_note": "AOL/The Hindu全文转载路透原稿（By Nicoco Chan and Tingshu Wang, GYIRONG, Sept 6），取得完整正文、署名与电头；发稿时间2026-09-06 21:27 GMT+8经AOL时间戳确认，归入09-06批次"
       },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "私下对",
+            "snippet": "件遗物。四个有公民失踪的政府私下对中方信息共享有限表达不满，并"
+          }
+        ]
+      },
       "_day": "2026-09-06",
       "_uid": "2026-09-06/r2"
     },
@@ -51266,6 +57623,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.zaobao.com/news/china/story20260907-9639371",
         "evidence_note": "经联合早报/路透转载复核：比利时检方声明、Belgan 背景、双国籍与在逃嫌疑人；署名记者 Inti Landauro，编辑 Bart Meijer、Andrew Cawthorne。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/r1"
     },
@@ -51309,6 +57671,11 @@ window.__XFS_DATA__ = {
       "provenance": {
         "evidence_url": "https://www.asiaone.com/china/beijing-expands-funding-tools-support-food-security-rural-modernisation",
         "evidence_note": "经 AsiaOne/路透转载复核全文；署名 Reporting by Liz Lee and Beijing newsroom，编辑 Tom Hogue、Stephen Coates。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/r2"
@@ -51360,6 +57727,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://theedgemalaysia.com/node/817021",
         "evidence_note": "经 The Edge Malaysia/路透转载复核全文；署名 By Ben Blanchard & Wen-Yee Lee / Reuters，编辑 Stephen Coates。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/r3"
     },
@@ -51409,6 +57781,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.yahoo.com/news/articles/dance-floor-war-china-readies-060429355.html",
         "evidence_note": "经 Yahoo/路透转载复核全文；署名 By Eduardo Baptista，发自北京；含被引专家与采购/论文来源。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/r4"
     },
@@ -51454,6 +57831,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://lufkindailynews.com/news_reuters/business/chinas-export-growth-seen-accelerating-in-august-reuters-poll/article_2297ae70-380f-5950-a79a-33fdf36fc681.html",
         "evidence_note": "经 Lufkin Daily News/路透转载复核；署名 Reporting by Yukun Zhang and Ryan Woo，Polling by Susobhan Sarkar、Jing Wang，编辑 Lincoln Feast。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/r5"
     },
@@ -51491,6 +57873,11 @@ window.__XFS_DATA__ = {
       "provenance": {
         "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-08/byd-eyes-2-5-million-overseas-sales-as-price-war-rages-at-home",
         "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；该稿 byline 为 Bloomberg News（机构发稿），经二次补全无真人署名，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/b1"
@@ -51532,6 +57919,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-08/china-export-growth-rebounds-as-ai-boom-offsets-extreme-weather",
         "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；byline 为 Bloomberg News（机构发稿），二次补全无真人署名，标 not_available。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/b2"
     },
@@ -51572,6 +57964,11 @@ window.__XFS_DATA__ = {
       "provenance": {
         "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/features/2026-09-08/china-races-to-build-ai-data-centers-far-away-from-its-biggest-cities",
         "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；byline 为 Bloomberg News，内文'With assistance from Dan Murtaugh and Ocean Hou'（协助报道/摄影），主要署名仍属机构发稿，标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/b3"
@@ -51617,6 +58014,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
         "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；署名 Sangmi Cha（真人记者）。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/b4"
     },
@@ -51656,6 +58058,11 @@ window.__XFS_DATA__ = {
       "provenance": {
         "evidence_url": "https://www.envoy.cirrus.bloomberg.com/news/newsletters/2026-09-07/china-is-cracking-down-on-its-carmakers-for-developing-vehicles-too-fast",
         "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文（newsletter《Auto Monitor》）；byline 为 Bloomberg News（机构发稿），标 not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/b5"
@@ -51699,6 +58106,11 @@ window.__XFS_DATA__ = {
       "provenance": {
         "evidence_url": "https://www.envoy.cirrus.bloomberg.com/opinion/articles/2026-09-07/you-don-t-have-to-trust-chinese-ai",
         "evidence_note": "经 Bloomberg 镜像(envoy.cirrus)抓取全文；署名 Catherine Thorbecke（Bloomberg Opinion 专栏作者，真人）。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/b6"
@@ -51745,6 +58157,11 @@ window.__XFS_DATA__ = {
       "provenance": {
         "evidence_url": "https://www.thestandard.com.hk/finance/article/342133/Chinas-exports-expand-25-percent-in-August-align-with-forecast",
         "evidence_note": "经 The Standard（香港）/路透转载复核全文；署名 Reporting by Yukun Zhang and Liz Lee，编辑 Shri Navaratnam。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/r6"
@@ -51800,6 +58217,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://srnnews.com/chinas-car-exports-stay-strong-in-august-while-domestic-sales-decline-worsens",
         "evidence_note": "经 SRN News（路透 syndication）/路透转载复核全文；署名 Reporting by Qiaoyi Li, Zhang Yan and Ju-min Park，编辑 Clarence Fernandez、Stephen Coates。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-08",
       "_uid": "2026-09-08/r7"
     },
@@ -51847,6 +58269,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://uk.marketscreener.com/news/rising-energy-costs-lift-china-s-producer-consumer-inflation-in-august-ce785bd9d881fe24",
         "evidence_note": "路透官网直连被JS墙拦截，经国际转载 MarketScreener 取全文+真实署名（Qiaoyi Li, Tina Qiao, Liz Lee）"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-09",
       "_uid": "2026-09-09/r1"
     },
@@ -51892,6 +58319,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finance.yahoo.com/economy/articles/chinas-exports-25-y-y-024544006.html",
         "evidence_note": "路透官网直连被JS墙拦截，经雅虎财经转载取全文+真实署名（Yukun Zhang, Liz Lee）"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-09",
       "_uid": "2026-09-09/r2"
     },
@@ -51931,6 +58363,11 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg",
         "evidence_url": "https://www.cnbctv18.com/economy/china-inflation-rises-for-first-time-since-april-higher-food-and-fuel-prices-put-pressure-on-pockets-19987092.htm",
         "evidence_note": "彭博官网直连失败，经 CNBC TV18 转载（as reported by Bloomberg）取核心内容与数据；未获得具体记者署名，标 not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-09",
       "_uid": "2026-09-09/b1"
@@ -51973,6 +58410,11 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg",
         "evidence_url": "https://beta.bnnbloomberg.ca/business/international/2026/09/08/chinas-exports-pick-up-in-august-jumping-25-as-its-trade-surplus-widens",
         "evidence_note": "彭博官网直连失败，经 BNN Bloomberg / The Edge Singapore 转载取全文；未获得具体记者署名（AP/Bloomberg News），标 not_available"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-09",
       "_uid": "2026-09-09/b2"
@@ -52019,6 +58461,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://uk.marketscreener.com/news/china-curbs-humanoid-ipos-after-unitree-s-volatile-debut-the-information-reports-ce785bd9d880fe24",
         "evidence_note": "路透官网直连被JS墙拦截，经国际转载 MarketScreener（路透 syndication）取全文+真实署名（Shivani Tanna, Bengaluru；编辑 Sonia Cheema、Mrigank Dhaniwala）"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-10",
       "_uid": "2026-09-10/r1"
     },
@@ -52063,6 +58510,20 @@ window.__XFS_DATA__ = {
         "source": "Reuters",
         "evidence_url": "https://www.fidelity.com/news/article/company-news/202609090211RTRSNEWSCOMBINED_KBN3UV0I3-OUSBS_1",
         "evidence_note": "路透官网直连被JS墙拦截，经 Fidelity 转载（路透 syndication）取全文；该稿为 Reuters staff 署名（无个人记者），编辑 Eduardo Baptista、Muralikumar Anantharaman，故 authors_status=not_available，未编造个人名"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "知情人士称",
+            "snippet": "透社9月9日独家报道，据两位知情人士称，中国AI初创公司深度求索（"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "9月9日独家报道，据两位知情人士称，中国AI初创公司深度求索（D"
+          }
+        ]
       },
       "_day": "2026-09-10",
       "_uid": "2026-09-10/r2"
@@ -52119,6 +58580,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.teiss.co.uk/news/us-accuses-chinese-ai-firms-of-malicious-copying-of-ai-technology-18107",
         "evidence_note": "路透官网直连被JS墙拦截，经 Teiss（路透 syndication）取全文+真实署名（Courtney Rozen 华盛顿、AJ Vicens 底特律；编辑 Rod Nickel、Bill Berkrot、Thomas Derpinghaus）"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-10",
       "_uid": "2026-09-10/r3"
     },
@@ -52164,6 +58630,24 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg",
         "evidence_url": "https://test.theedgemalaysia.com/node/817358",
         "evidence_note": "彭博官网直连被JS墙/镜像超时拦截，经 The Edge Malaysia（彭博 syndication）取全文；署名为 Bloomberg 机构稿（By Bloomberg），无个人记者，authors_status=not_available，未编造机构名。彭博危机专栏标注 9/7，转引媒体 9/9 传播，本档以报道传播日 9/9 登记。"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 3,
+        "hits": [
+          {
+            "kw": "据知情人士",
+            "snippet": "nds, MCB）失去兴趣。据知情人士称，中国证监会（CSRC）已"
+          },
+          {
+            "kw": "知情人士称",
+            "snippet": "ds, MCB）失去兴趣。据知情人士称，中国证监会（CSRC）已拒"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": ", MCB）失去兴趣。据知情人士称，中国证监会（CSRC）已拒绝"
+          }
+        ]
       },
       "_day": "2026-09-10",
       "_uid": "2026-09-10/b1"
@@ -52218,6 +58702,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.bnnbloomberg.ca/tariffs/2026/09/09/china-hits-back-at-us-claims-of-malicious-ai-distillation-ahead-of-planned-trump-xi-talks/",
         "evidence_note": "彭博官网直连被JS墙拦截，经 BNN Bloomberg（彭博电视网，AP 供稿）取全文+真实署名（Chan Ho-him，美联社商业记者，驻曼谷）；该稿为美联社供稿、彭博转引"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-10",
       "_uid": "2026-09-10/b2"
     },
@@ -52262,6 +58751,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters",
         "evidence_url": "https://srnnews.com/us-firms-in-china-more-upbeat-on-outlook-as-profits-recover-survey-shows",
         "evidence_note": "路透官网直连被JS墙拦截，经 SRN News（路透 syndication）取全文+真实署名（Casey Hall 上海；编辑 Mark Potter）"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-11",
       "_uid": "2026-09-11/r1"
@@ -52313,6 +58807,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.thestandard.com.hk/china/article/342402/Hefeis-boom-reveals-limits-of-Chinas-state-led-manufacturing-push",
         "evidence_note": "路透官网直连被JS墙拦截，经 The Standard（香港，路透 syndication）取全文+真实署名（Kevin Yao；配图 REUTERS/Kevin Yao 摄于2026-05-19合肥EHang媒体行）"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-11",
       "_uid": "2026-09-11/r2"
     },
@@ -52359,6 +58858,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://beta.bnnbloomberg.ca/business/international/2026/09/10/chinas-car-exports-in-first-8-months-surpass-2025-total-as-ev-sales-soar",
         "evidence_note": "彭博官网直连被JS墙拦截，经 BNN Bloomberg（彭博电视网，美联社供稿）取全文+真实署名（Chan Ho-him，美联社商业记者，驻香港/曼谷）"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-11",
       "_uid": "2026-09-11/b1"
     },
@@ -52402,6 +58906,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.theedgesingapore.com/news/bonds-and-treasuries/china-us-10-year-bond-yield-gap-widens-record-policy-split",
         "evidence_note": "彭博官网直连被JS墙拦截，经 The Edge Singapore（彭博 syndication）取全文；署名为 Bloomberg News 机构稿（Photo: Bloomberg, Sept 10），无个人记者，authors_status=not_available，未编造"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-11",
       "_uid": "2026-09-11/b2"
     },
@@ -52443,6 +58952,11 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg (BNN Bloomberg / wire syndication)",
         "evidence_url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/11/25-killed-in-cargo-ship-fire",
         "evidence_note": "彭博官网直连被JS墙拦截；BNN Bloomberg 国际频道（彭博电视网）9月10日09:07 EDT 以 '25 dead after cargo ship catches fire in China's port, state media says' 收录该稿（聚合新华社/美联社电讯，— Agencies），无彭博个人记者署名，authors_status=not_available；事实细节经 The Star（— Agencies, 含新华社）复核"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-11",
       "_uid": "2026-09-11/b3"
@@ -52487,6 +59001,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://civl.com/news/story/china-s-central-bank-sets-stronger-yuan-rate-for-fifth-straight-day-fe1fb944",
         "evidence_note": "路透/彭博官网直连被JS墙拦截；经 CIVL（'China's central bank sets stronger yuan rate…'）+ 雪球/新华社 交叉确认（9/16 中间价6.7628、连续第五日调强、创2023年2月以来最强）。机构市场稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-16",
       "_uid": "2026-09-16/r1"
     },
@@ -52528,6 +59047,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters",
         "evidence_url": "https://globalpolitics.in/the-world-today.php?type=101",
         "evidence_note": "路透官网直连被JS墙拦截；经 The World Today（'EU will use all tools to cut China trade deficit, von der Leyen says' / Reuters, 16 Sep 2026）确认。机构政治稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-16",
       "_uid": "2026-09-16/r2"
@@ -52573,6 +59097,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://ikjzd.com/news?current=3",
         "evidence_note": "路透官网直连被JS墙拦截；经 跨境知道（'企业外迁东南亚遇成本瓶颈，部分订单与产线回流中国' / 路透社报道）确认。机构经济稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-16",
       "_uid": "2026-09-16/r3"
     },
@@ -52612,6 +59141,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters",
         "evidence_url": "https://ikjzd.com/news?current=3",
         "evidence_note": "路透官网直连被JS墙拦截；经 跨境知道（'澳大利亚对进口自中国的轻型钢螺柱和轨道作出反倾销终裁'）确认。机构贸易稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-16",
       "_uid": "2026-09-16/r4"
@@ -52655,6 +59189,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.taiwan.cn/taiwan/top_news",
         "evidence_note": "路透官网直连被JS墙拦截；经 中国台湾网（9月16日国台办例行发布会要闻）+ 新浪财经（大湾区之声）交叉确认。发布会通稿，无单一个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-16",
       "_uid": "2026-09-16/r5"
     },
@@ -52695,6 +59234,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters / 国台办",
         "evidence_url": "https://www.taiwan.cn/taiwan/top_news",
         "evidence_note": "路透官网直连被JS墙拦截；经 中国台湾网（9月16日国台办发布会）+ 新浪财经（大湾区之声）交叉确认。发布会通稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-16",
       "_uid": "2026-09-16/r6"
@@ -52738,6 +59282,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://aastocks.com/en/funds/news/comment.aspx?source=AAFN&id=NOW.1519060&cur=N/A",
         "evidence_note": "路透官网直连被JS墙拦截；经 阿斯达克财经（'Asia-Pacific Markets Broadly Higher; Taiwan and Korea Hit Record Highs, MediaTek Limit Up' / Reuters 综合）确认。市场综述稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-16",
       "_uid": "2026-09-16/r7"
     },
@@ -52780,6 +59329,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://qihuo.jin10.com/articleDetail.html?id=230158",
         "evidence_note": "路透官网直连被JS墙拦截；经 金十期货早餐（9月16日：'外交部发言人宣布：伊朗外长阿拉格齐将于9月16日访华，王毅将同其举行会谈'）确认。外交通稿，无单一个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-16",
       "_uid": "2026-09-16/r8"
     },
@@ -52821,6 +59375,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters / Bloomberg",
         "evidence_url": "https://mezha.net/eng/news/85c19d96_china_keeps_key/",
         "evidence_note": "路透/彭博官网直连被JS墙拦截；经 Mezha（'China Keeps Key Lending Rates Unchanged for 16th Straight Month' / As reported by Reuters）+ 环球时报 交叉确认（9/17 加息25bp、纳指跌2.8%）。机构宏观稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-17",
       "_uid": "2026-09-17/r1"
@@ -52867,6 +59426,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.business-standard.com/amp/world-news/us-china-trade-teams-set-to-meet-in-new-york-on-ai-iran-ahead-of-summit-126091900666_1.html",
         "evidence_note": "路透/彭博官网直连被JS墙拦截；经 Business Standard（'US, China trade teams set to meet in New York on AI, Iran ahead of summit' / Bloomberg）+ Daily Sabah（'Top US, Chinese officials set for AI, trade, minerals talks' / Reuters）确认。机构外交稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-17",
       "_uid": "2026-09-17/r2"
     },
@@ -52910,6 +59474,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.trendforce.com/news/2026/09/17/news-huawei-speeds-up-ai-chip-roadmap-reportedly-pulls-ascend-960dt-forward-three-quarters-to-1q27/",
         "evidence_note": "路透/彭博官网直连被JS墙拦截；经 TrendForce（cites Bloomberg/Star Market Daily/Guancha）+ 经济参考报/网易 交叉确认（9/17 昇腾960超节点、NPO、4096卡、960DT提前至2027Q1）。产品发布稿，无单一个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-17",
       "_uid": "2026-09-17/r3"
     },
@@ -52951,6 +59520,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters / 东博会秘书处",
         "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806aab258a78852",
         "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月17日：'第23届中国—东盟博览会9月17日至21日在南宁举办，主题为共享3.0机遇，首设东盟需求馆与AI展区'）+ 环球时报 交叉确认。展会通稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-17",
       "_uid": "2026-09-17/r4"
@@ -52996,6 +59570,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters",
         "evidence_url": "https://news4alpha.com/?p=102161/",
         "evidence_note": "路透官网直连被JS墙拦截；经 News4alpha（路透终端 reprint：'台湾央行利率“连10冻”，分析师指料不会参与美联储升息循环' / Reuters News, 17-Sep-2026）取得真实署名 董永年（roger.tung@thomsonreuters.com，台北电），authors_status=named。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-17",
       "_uid": "2026-09-17/r5"
@@ -53049,6 +59628,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.aol.com/articles/us-navy-spy-plane-makes-183315000.html",
         "evidence_note": "路透官网直连被JS墙拦截；经 AOL（repost of Reuters：'US allies fret over how Trump might play his Taiwan hand with Xi' / Thu, Sep 17 2026）+ NeoDrop 交叉确认。真实记者署名经转载 byline 取得（Ben Blanchard, Tamiyuki Kihara, Yukiko Toyoda, John Geddie），authors_status=named。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-17",
       "_uid": "2026-09-17/r6"
     },
@@ -53089,6 +59673,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters / 日经新闻",
         "evidence_url": "https://www.xiaoyuzhoufm.com/episode/6aac03379d326477816ac290",
         "evidence_note": "路透官网直连被JS墙拦截；经 小宇宙（'日美磋商数万亿日元半导体工厂项目，格芯负责运营，对美投资从发电转向高科技制造' / 金十数据、日经新闻）确认。机构产业稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-17",
       "_uid": "2026-09-17/r7"
@@ -53133,6 +59722,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806aab258a78852",
         "evidence_note": "彭博官网直连被JS墙拦截；经 华尔街见闻早餐（9月17日：'摩根士丹利：中国消费级AI每周使用率已达80%，领先美国的54%'）确认。机构研报稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-17",
       "_uid": "2026-09-17/b1"
     },
@@ -53173,6 +59767,11 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg / 国常会",
         "evidence_url": "https://www.toutiao.com/article/7686270596195418653/",
         "evidence_note": "彭博官网直连被JS墙拦截；经 今日头条（'9月17日财经早餐：国常会审议算力网指导意见，发改委新基建第三批109项超3200亿'）确认。政策通稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-17",
       "_uid": "2026-09-17/b2"
@@ -53221,6 +59820,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
         "evidence_note": "路透官网直连被JS墙拦截；经 The Edge Malaysia（路透 China Focus  syndication）取全文+真实署名（Qiaoyi Li、Liz Lee，9/18 04:37pm 条目）。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r1"
     },
@@ -53261,6 +59865,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters",
         "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
         "evidence_note": "路透官网直连被JS墙拦截；经 The Edge Malaysia（路透 China Focus）取全文。该稿为机构/空管通告复核稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r2"
@@ -53303,6 +59912,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finance.yahoo.com/economy/policy/articles/china-fiscal-pullback-stretches-august-104301620.html",
         "evidence_note": "彭博官网直连被JS墙拦截；经 Yahoo Finance（彭博供稿）取全文。署名为 Bloomberg（机构测算稿），无个人记者，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/b1"
     },
@@ -53342,6 +59956,24 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg",
         "evidence_url": "https://www.theedgemarkets.com/flash-categories/china-focus",
         "evidence_note": "彭博官网直连被JS墙拦截；经 The Edge Malaysia（彭博 China Focus）取全文。机构稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 3,
+        "hits": [
+          {
+            "kw": "据知情人士",
+            "snippet": "市物业管理业务提出新的出价。据知情人士称，相关方在早前一轮接触后重"
+          },
+          {
+            "kw": "知情人士称",
+            "snippet": "物业管理业务提出新的出价。据知情人士称，相关方在早前一轮接触后重新"
+          },
+          {
+            "kw": "人士称，",
+            "snippet": "管理业务提出新的出价。据知情人士称，相关方在早前一轮接触后重新评"
+          }
+        ]
       },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/b2"
@@ -53385,6 +60017,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.indopremier.com/ipotnews/newsDetail.php/newsDetail.php?group_news=IPOTNEWS&news_id=242446",
         "evidence_note": "路透官网直连被JS墙拦截；经 Indo Premier（路透 syndication，9/18 12:49am EDT）取全文。机构市场稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r3"
     },
@@ -53426,6 +60063,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://news.supwil.com/en/news/general/2026-09-18",
         "evidence_note": "路透官网直连被JS墙拦截；经 supwil 每日综述（'China set to hold LPRs steady for a 16th month'）确认。机构调查稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r4"
     },
@@ -53464,6 +60106,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters",
         "evidence_url": "https://news.supwil.com/en/news/general/2026-09-18",
         "evidence_note": "路透官网直连被JS墙拦截；经 supwil 每日综述（'China's January-August fiscal revenue up 5.7% year-on-year'）确认。机构数据稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r5"
@@ -53511,6 +60158,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "U.S. News: \"(Reporting by Nestor Corrales; Additional reporting by Liz Lee in Beijing; Editing by David Stanway and Sam Holmes)\"",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r7"
     },
@@ -53557,6 +60209,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "The Print / Yahoo: \"By Parisa Hafezi\"",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r8"
     },
@@ -53596,6 +60253,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters",
         "evidence_url": "https://www.fdd.org/overnight-brief/september-18-2026",
         "evidence_note": "路透官网直连被JS墙拦截；经 FDD Overnight Brief（9/18）转引路透原文（'Shenzhen Forms Syntron Information has postponed its planned Hong Kong listing'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r9"
@@ -53641,6 +60303,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters",
         "evidence_url": "https://www.reuters.com/business/aerospace/major-us-airlines-oppose-air-china-us-flights-2026-09-18/",
         "evidence_note": "路透官网直连被JS墙拦截；经中文转载（华人生活网）取真实署名（By David Shepardson，9/18 1:42pm CDT）确认。David Shepardson 为路透华盛顿交通运输线记者。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r10"
@@ -53690,6 +60357,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "The Print: \"(Reporting by Xiuhao Chen, Yukun Zhang and Ryan Woo; Editing by Toby Chopra)\"",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/r11"
     },
@@ -53730,6 +60402,11 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg",
         "evidence_url": "https://www.niotex.com/blog/trends-2026-09-18",
         "evidence_note": "彭博官网直连被JS墙拦截；经 Niotex 每日科技综述（'Trump and Xi Jinping Face Off on AI as White House Meeting Nears' / Bloomberg·September 18, 2026）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/b3"
@@ -53772,6 +60449,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://activeinvestormag.com/story/2026-09-19-am-washington-and-beijing-stage-the-xi-visit-as-the-yuan-hits-a",
         "evidence_note": "彭博官网直连被JS墙拦截；经 Active Investor Magazine 综述（'Yuan Hits Four-Year High as PBOC Signals Support Before Trump-Xi' / Bloomberg.com）确认。机构市场稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/b4"
     },
@@ -53812,6 +60494,11 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg",
         "evidence_url": "https://theedgemalaysia.com/flash-categories/China%20Focus",
         "evidence_note": "彭博官网直连被JS墙拦截；经 The Edge Malaysia（彭博 China Focus，9/17 12:43pm 条目'Huawei set to unveil AI chips to match Nvidia'）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-18",
       "_uid": "2026-09-18/b5"
@@ -53862,6 +60549,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.sunherald.com/news/business/article317307965.html",
         "evidence_note": "路透官网直连被JS墙拦截；经 Sun Herald（路透 syndication）取全文+真实署名（Reporting by David Lawder；Editing by Sergio Non and Rod Nickel），9/19 13:34 EDT。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-19",
       "_uid": "2026-09-19/r1"
     },
@@ -53910,6 +60602,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://tech.memeorandum.com/river",
         "evidence_note": "路透官网直连被JS墙拦截；经 Techmeme 聚合（Kane Wu / Reuters，2:00 AM 条目“Shanghai-based Anew Labs… raised $290M from HSG, IDG Capital… at a $1.5B valuation”）确认署名与金额。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-19",
       "_uid": "2026-09-19/r2"
     },
@@ -53951,6 +60648,11 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg",
         "evidence_url": "https://news.bloomberglaw.com/banking-law/china-slams-us-law-tightening-sanctions-on-russia-and-iran",
         "evidence_note": "彭博官网直连被JS墙拦截；经 Bloomberg Law（彭博供稿）取全文。署名为 Bloomberg News 机构稿，无个人记者，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-19",
       "_uid": "2026-09-19/b1"
@@ -53997,6 +60699,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://tech.memeorandum.com/river",
         "evidence_note": "彭博官网直连被JS墙拦截；经 Techmeme 聚合（Nectar Gan / Bloomberg，6:35 AM 条目“The Trump administration has few good options to slow China's AI rise… ahead of US-China AI talks”）确认署名。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-19",
       "_uid": "2026-09-19/b2"
     },
@@ -54042,6 +60749,11 @@ window.__XFS_DATA__ = {
       },
       "byline_recovered_at": "2026-09-20T18:30:00+08:00",
       "byline_note": "Yahoo reprint: 'By Jarrett Renshaw' / '(Reporting By Jarrett Renshaw)'",
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-19",
       "_uid": "2026-09-19/r3"
     },
@@ -54082,6 +60794,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters",
         "evidence_url": "https://www.ndtvprofit.com/world/chinas-vice-premier-he-lifeng-to-visit-us-for-economic-trade-talks-from-sept-19-23-12069526",
         "evidence_note": "路透官网直连被JS墙拦截；经 NDTV Profit（'China's Vice Premier He Lifeng To Visit US…' citing Reuters）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-19",
       "_uid": "2026-09-19/r4"
@@ -54125,6 +60842,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://wwwcn.aastocks.com/en/stocks/analysis/stock-aafn-con/06288/AAFN/NOW.1544798/hk-stock-news",
         "evidence_note": "彭博官网直连被JS墙拦截；经 AASTOCKS/经济通（'ByteDance Founder Zhang Yiming Becomes Asia's Richest Person…'）确认。机构榜单稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-19",
       "_uid": "2026-09-19/b3"
     },
@@ -54165,6 +60887,11 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg",
         "evidence_url": "https://fllics.com/en/video/oil-supply-shortages-ai-safety-concerns-us-china-meeting-bloomberg-this-weekend-sept-19-2026",
         "evidence_note": "彭博官网直连被JS墙拦截；经 Fllics（'US Said to Hold Off on Tariffs Until After Xi-Trump Summit' / Bloomberg This Weekend）确认。机构稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-19",
       "_uid": "2026-09-19/b4"
@@ -54211,6 +60938,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china/china-tells-us-cancel-summit-taiwan-arms-sales-2026-09-19/",
         "evidence_note": "路透/纽时官网直连被拦截；经聚合检索（NYT/Reuters syndication、Straits Times 等）确认“China threatens to cancel summit if US approves new arms sales to Taiwan”主线与140亿美元军售案细节。机构外交稿，未获个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-19",
       "_uid": "2026-09-19/r5"
     },
@@ -54256,6 +60988,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.huxiu.com/ainews/15144.html",
         "evidence_note": "彭博官网直连被JS墙拦截；彭博“Top Business”9/20综述收录该发布，细节经虎嗅等中文科技媒体（9/18上线）交叉验证。产品发布稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-20",
       "_uid": "2026-09-20/b1"
     },
@@ -54298,6 +61035,11 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg / The Information",
         "evidence_url": "https://finance.yahoo.com/technology/ai/articles/tiktok-developer-bytedance-profit-drops-142800788.html",
         "evidence_note": "彭博官网直连被JS墙拦截；经 Yahoo Finance（综合彭博/The Information）取全文。该稿为媒体合成（The Information 泄露+彭博贷款报道），无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-20",
       "_uid": "2026-09-20/b2"
@@ -54346,6 +61088,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.163.com/dy/article/L7734R6405199NPP.html",
         "evidence_note": "彭博官网直连被JS墙拦截；经 21世纪经济报道/网易 取全文细节（9/19 17:08）。彭博 China Focus 条目“China opens probes into four online travel booking platforms / By Bloomberg”。机构稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-20",
       "_uid": "2026-09-20/b3"
     },
@@ -54388,6 +61135,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://xueqiu.com/1021113906/409918595",
         "evidence_note": "路透官网直连被JS墙拦截；经 雪球《全球及中国财经要闻综述(2026.09.20)》与华尔街见闻等交叉确认（9/18在岸离岸双破6.7、年内升逾4%）。机构市场稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-20",
       "_uid": "2026-09-20/r1"
     },
@@ -54429,6 +61181,11 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg",
         "evidence_url": "https://airfreight.news/articles/full/chinaas-rebound-lost-momentum-in-september-early-data-show",
         "evidence_note": "彭博官网直连被JS墙拦截；经 Air Freight News（'China's rebound lost momentum in September, early data show' / Bloomberg）确认。机构指标稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-20",
       "_uid": "2026-09-20/b4"
@@ -54475,6 +61232,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.icac.org.hk/sc/p/press-archive/index_id_5022.html",
         "evidence_note": "路透官网直连被JS墙拦截；经香港廉政公署新闻公布（9月9日认罪、9月18日判刑）及财新（9月18日）交叉确认。记者署名经 WebSearch 检索未命中 reuters.com 真名（二次找回尝试失败，仅机构/法院通稿），authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-20",
       "_uid": "2026-09-20/r2"
     },
@@ -54515,6 +61277,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters",
         "evidence_url": "https://mezha.net/eng/news/85c19d96_china_keeps_key/",
         "evidence_note": "路透官网直连被JS墙拦截；经 Mezha（'China Keeps Key Lending Rates Unchanged for 16th Straight Month' / As reported by Reuters, 2026-09-20）+ 央行授权全国银行间同业拆借中心公告交叉确认（9/20 1年期3.0%、5年期3.5%、连续16个月不变）。机构利率稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-20",
       "_uid": "2026-09-20/r3"
@@ -54562,6 +61329,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finance.yahoo.com/markets/stocks/articles/volkswagen-cuts-2026-profit-forecast-182249007.html",
         "evidence_note": "彭博官网直连被JS墙拦截；经 Yahoo Finance（Quartz/Bloomberg 综合）/OilPrice/TradingView 全文转载确认（By William Wilkes / Bloomberg）。真实记者署名经转载 byline 取得，authors_status=named。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-20",
       "_uid": "2026-09-20/b5"
     },
@@ -54604,6 +61376,11 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg",
         "evidence_url": "https://theedgemalaysia.com/node/818621",
         "evidence_note": "彭博官网直连被JS墙拦截；经 The Edge Malaysia（'Trump-Xi showdown casts shadow over global economy' / Bloomberg, 2026-09-20 08:16）确认。机构宏观稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-20",
       "_uid": "2026-09-20/b6"
@@ -54649,6 +61426,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://www.reuters.com/world/china/us-allies-fret-trump-taiwan-hand-xi-summit-2026-09-20/",
         "evidence_note": "路透官网直连被拦截；经聚合检索（Reuters syndication、CIVL/Straits Times 等）确认“Japanese PM seeks Trump meeting before Xi summit over Taiwan”“Taiwan says US policy unchanged”主线。机构外交稿，未获个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-20",
       "_uid": "2026-09-20/r4"
     },
@@ -54692,6 +61474,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://wallstreetcn.com/livenews/3167875",
         "evidence_note": "路透/彭博官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'中国商务部：何立峰于9月19日至23日率团赴美国与美方举行经贸磋商'）+ Business Standard 交叉确认。机构外交稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-21",
       "_uid": "2026-09-21/r1"
     },
@@ -54733,6 +61520,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finance.sina.com.cn/stock/y/2026-09-21/doc-inispuec0918993.shtml",
         "evidence_note": "路透官网直连被JS墙拦截；经 新浪财经（'11.95纳米，接近全球顶尖！长鑫科技深夜披露，第五代DRAM平台实现量产' / 长鑫科技自愿性披露公告）确认。公司公告，无单一个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-21",
       "_uid": "2026-09-21/r2"
     },
@@ -54771,6 +61563,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters / 财政部",
         "evidence_url": "https://wallstreetcn.com/livenews/3167875",
         "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'中国财政部：1至8月全国一般公共预算收入同比增长5.7%，证券交易印花税同比大增82%；国有土地使用权出让收入同比降28.6%'）确认。官方数据稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-21",
       "_uid": "2026-09-21/r3"
@@ -54814,6 +61611,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://wallstreetcn.com/livenews/3167875",
         "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'让中国“自愿限制”汽车出口？中国商务部：中方坚决反对，欧盟有关举措严重违反世贸组织规则'）确认。官方回应稿，无单一个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-21",
       "_uid": "2026-09-21/r4"
     },
@@ -54855,6 +61657,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://wallstreetcn.com/livenews/3167875",
         "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'中国商务部回应特朗普签署针对俄罗斯和伊朗的制裁法案：中方反对非法单边制裁，保留采取一切必要措施的权利'）确认。官方回应稿，无个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-21",
       "_uid": "2026-09-21/r5"
     },
@@ -54894,6 +61701,11 @@ window.__XFS_DATA__ = {
         "source": "Reuters / 国家能源局",
         "evidence_url": "https://finance.sina.com.cn/stock/y/2026-09-21/doc-inispuec0918993.shtml",
         "evidence_note": "路透官网直连被JS墙拦截；经 新浪财经（'8月全社会用电量再破万亿，负荷创历史新高' / 国家能源局9月20日数据）确认。官方数据稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-21",
       "_uid": "2026-09-21/r6"
@@ -54935,6 +61747,11 @@ window.__XFS_DATA__ = {
         "evidence_url": "https://finance.sina.com.cn/stock/y/2026-09-21/doc-inispuec0918993.shtml",
         "evidence_note": "路透官网直连被JS墙拦截；经 新浪财经（'中国海关总署统计数据显示，中国对美国进出口已连续5个月增长，今年1—8月累计进出口额达到2.76万亿元'）确认。官方数据稿，无单一个人署名，authors_status=not_available，未编造。"
       },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
       "_day": "2026-09-21",
       "_uid": "2026-09-21/r7"
     },
@@ -54973,6 +61790,11 @@ window.__XFS_DATA__ = {
         "source": "Bloomberg",
         "evidence_url": "https://wallstreetcn.com/livenews/3167875",
         "evidence_note": "彭博官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'特朗普称要组建“人工智能部队”并任命人工智能事务“总管”'）确认。机构政治稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
       },
       "_day": "2026-09-21",
       "_uid": "2026-09-21/b1"
@@ -66844,6 +73666,7 @@ window.__XFS_DATA__ = {
     "negatives": 194,
     "with_author": 357,
     "with_body": 192,
-    "with_sources": 546
+    "with_sources": 546,
+    "with_anon": 39
   }
 };

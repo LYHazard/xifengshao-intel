@@ -38,6 +38,7 @@
     q: '',
     collapse: false,
     reporterId: null,
+    anonOnly: false,
   };
 
   // 记者/分析师档案（data/reporters.js）
@@ -63,6 +64,7 @@
       '<div><b>' + (arc['累计报道'] || s.total || 0) + '</b>累计报道</div>' +
       '<div><b>' + (arc['运行天数'] || s.days || 0) + '</b>运行天数</div>' +
       '<div><b>' + (arc['负面累计'] || s.negatives || 0) + '</b>负面累计</div>' +
+      '<div><b>' + (s.with_anon || 0) + '</b>含匿名信源</div>' +
       '<div style="text-align:right"><b>' + esc((DATA.generated_at || '').replace('T', ' ').slice(0, 16)) + '</b>索引生成</div>';
 
     // 折叠详情：展示最近一日的采集覆盖
@@ -208,6 +210,7 @@
         '<span class="badge ' + mediaCls + '">' + esc(a.media_zh || a.media) + '</span>' +
         '<span class="imp imp-' + esc(a.importance) + '">重要 ' + (IMP_TEXT[a.importance] || '中') + '</span>' +
         (a.is_negative ? '<span class="sent-badge negative">负面</span>' : '') +
+        (a.anon_sourcing && a.anon_sourcing.flag ? '<span class="flag flag-anon">匿名信源</span>' : '') +
       '</div>' +
       '<h4 class="m-title">' + esc(a.title_zh || '') + '</h4>' +
       '<div class="m-abs">' + esc(a.summary_zh || '') + '</div>' +
@@ -246,16 +249,22 @@
   function renderDomains(domainFilter) {
     var domains = domainFilter ? [domainFilter] : DOMAIN_ORDER;
     var html = '';
+    var anonToggle = '<button class="anon-toggle' + (state.anonOnly ? ' on' : '') +
+      '" id="anonToggle" title="仅显示标注了匿名/秘密信源的报道">' +
+      (state.anonOnly ? '✓ 仅看匿名信源' : '匿名信源筛选（关）') + '</button>';
     if (domainFilter) {
       html += '<section class="doc-head"><h1>领域 · ' + esc(domainFilter) + '</h1>' +
-        '<div class="doc-sub">该领域全部扫描日报道，按日期（新→旧）排列，再按报道方（记者/机构）归并</div></section>';
+        '<div class="doc-sub">该领域全部扫描日报道，按日期（新→旧）排列，再按报道方（记者/机构）归并</div>' +
+        '<div class="doc-tools">' + anonToggle + '</div></section>';
     } else {
       html += '<section class="doc-head"><h1>全部领域 · 涉华情报</h1>' +
-        '<div class="doc-sub">按领域归集路透/彭博全部扫描日报道；领域内按日期（新→旧）排列，再按报道方（记者/机构）归并</div></section>';
+        '<div class="doc-sub">按领域归集路透/彭博全部扫描日报道；领域内按日期（新→旧）排列，再按报道方（记者/机构）归并</div>' +
+        '<div class="doc-tools">' + anonToggle + '</div></section>';
     }
     domains.forEach(function (dom) {
       var list = [];
       for (var i = 0; i < ALL.length; i++) if (domainOf(ALL[i]) === dom) list.push(ALL[i]);
+      if (state.anonOnly) list = list.filter(function (x) { return x.anon_sourcing && x.anon_sourcing.flag; });
       if (!list.length) return;
       // 按日期分组
       var byDate = {};
@@ -291,6 +300,8 @@
     });
     $('main').innerHTML = html;
     bindCards();
+    var at = $('anonToggle');
+    if (at) at.addEventListener('click', function () { state.anonOnly = !state.anonOnly; renderDomains(state.domain); });
   }
 
   /* ===================== 关注议题（逐日） ===================== */
@@ -557,6 +568,7 @@
         '<span class="imp imp-' + esc(a.importance) + '">重要性 ' + (IMP_TEXT[a.importance] || '中') + '</span>' +
         (a.is_negative ? '<span class="sent-badge negative">负面</span>' : (sent === 'positive' ? '<span class="sent-badge positive">正面</span>' : '')) +
         (a.body_available ? '<span class="flag">含正文</span>' : '<span class="flag flag-warn">仅标题级</span>') +
+        (a.anon_sourcing && a.anon_sourcing.flag ? '<span class="flag flag-anon">匿名信源 ' + (a.anon_sourcing.count || '') + '</span>' : '') +
         '<span class="date">' + esc(a.published_at || '') + '</span>' +
       '</div>' +
       '<h2>' + esc(a.title_zh || '') + '</h2>' +
@@ -714,6 +726,7 @@
         '<span class="imp imp-' + esc(a.importance) + '">重要性 ' + (IMP_TEXT[a.importance] || '中') + '</span>' +
         (a.is_negative ? '<span class="sent-badge negative">负面</span>' : '') +
         (a.body_available ? '<span class="flag">含正文</span>' : '<span class="flag flag-warn">仅标题级</span>') +
+        (a.anon_sourcing && a.anon_sourcing.flag ? '<span class="flag flag-anon">匿名信源 ' + (a.anon_sourcing.count || '') + '</span>' : '') +
       '</div>' +
       '<h2>' + esc(a.title_zh || '') + '</h2>' +
       '<div class="m-en">' + esc(a.title_en || '') + '</div>' +
@@ -730,6 +743,16 @@
       (a.body_zh ? '<div class="m-sec"><h4>正文（中文翻译）</h4><div class="m-body">' +
         esc(a.body_zh).split('\n').map(function (t) { return '<p>' + t + '</p>'; }).join('') + '</div></div>' : '') +
       (a.deep_analysis ? '<div class="m-sec"><h4>深度研判</h4><div class="m-deep"><p>' + esc(a.deep_analysis) + '</p></div></div>' : '') +
+      (function () {
+        var an = a.anon_sourcing;
+        if (!an || !an.flag) return '';
+        var hits = (an.hits || []).map(function (h) {
+          return '<li><span class="anon-kw">' + esc(h.kw) + '</span>　' + esc(h.snippet) + '</li>';
+        }).join('');
+        return '<div class="m-sec anon-sec"><h4>⚠ 匿名/秘密信源提示</h4>' +
+          '<p class="anon-note">本篇报道含未具名信源表述，以下为命中的原文片段（仅作信源透明度提示，不代表事实认定）：</p>' +
+          '<ul class="anon-hits">' + hits + '</ul></div>';
+      })() +
       '<div class="m-sec"><h4>采集溯源</h4><div class="m-prov">' +
         '<b>采集方式：</b>' + esc(p.retrieved_via || '-') + '<br>' +
         '<b>证据来源：</b><a href="' + esc(p.evidence_url || '#') + '" target="_blank" rel="noopener">' + esc(p.evidence_url || '-') + '</a><br>' +
