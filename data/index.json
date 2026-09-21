@@ -1,7 +1,491 @@
 {
-  "generated_at": "2026-09-20T18:07:40+08:00",
-  "latest_questions_day": "2026-09-20",
+  "generated_at": "2026-09-21T09:03:15+08:00",
+  "latest_questions_day": "2026-09-21",
   "days": {
+    "2026-09-21": {
+      "file": "2026-09-21.json",
+      "scan_time": "2026-09-21T09:30:00+08:00",
+      "window": "2026-09-19T00:00:00+08:00 ~ 2026-09-21T09:30:00+08:00",
+      "coverage": {
+        "reuters": {
+          "captured": 5,
+          "with_author": 0,
+          "with_fulltext": 5,
+          "note": "通道A直连 reuters.com 被JS墙拦截→B代理对官方域401/403不可用→C WebSearch多组+国际转载(华尔街见闻/新浪/商务部/海关总署)补全。9/21为周一晨间简报周期，国际涉华报道集中于：何立峰率团赴美经贸磋商、长鑫第五代DRAM量产、财政部1-8月收支、中方反对欧盟限制汽车出口、商务部回应特朗普制裁俄伊法案、对美进出口连增5月。机构稿 authors_status=not_available，未编造。"
+        },
+        "bloomberg": {
+          "captured": 3,
+          "with_author": 0,
+          "with_fulltext": 3,
+          "note": "通道A直连 bloomberg.com 拦截→C WebSearch+转载(华尔街见闻/Business Standard)补全。彭博涉华主线：何立峰赴美磋商（峰会前）、特朗普组建“人工智能部队”、人民币走强。机构稿 authors_status=not_available，未编造。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "r1",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's He Lifeng leads delegation to US for economic, trade talks Sept 19-23",
+          "title_zh": "何立峰率团赴美经贸磋商（9/19—23）：为特朗普—习近平峰会做最后铺垫",
+          "published_at": "2026-09-21",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "中美关系",
+            "中美经贸",
+            "经贸",
+            "特朗普",
+            "习近平",
+            "峰会"
+          ],
+          "importance": "high",
+          "summary_zh": "路透/彭博报道：中国商务部9月21日确认，国务院副总理何立峰于9月19日至23日率团赴美国，与美方举行经贸磋商。此行紧接9月17日贝森特—何立峰纽约预备会后，为9月24日特朗普在白宫接待习近平（习近平十多年来首次华盛顿国事访问）做最后铺垫。中方最高关切料为台湾及拟议对台军售，美方则聚焦关税休战续期、稀土磁铁出口与 AI 护栏。中国据报或以“更多稀土许可”为谈判筹码。",
+          "china_angle": "何立峰此行是峰会前中方“经贸+政治”双线探路：一手稳住关税休战与稀土流动，一手以台湾军售为红线施压。其成败直接决定9/24峰会能否从“脆弱冻结”走向“阶段性稳定”。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/he-lifeng-us-trade-talks-2026-09-21/",
+          "body_available": true,
+          "body_zh": "路透/彭博+商务部：何立峰9/19—23率团赴美与美方经贸磋商，紧接9/17纽约预备会，为9/24特朗普—习近平峰会铺垫；中方关切台湾及拟议对台军售，美方聚焦关税休战续期、稀土出口、AI护栏；中方或以更多稀土许可为筹码。",
+          "cited_sources": [
+            "中国商务部",
+            "US Treasury 美财长",
+            "White House",
+            "Reuters / Bloomberg"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / Bloomberg",
+            "evidence_url": "https://wallstreetcn.com/livenews/3167875",
+            "evidence_note": "路透/彭博官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'中国商务部：何立峰于9月19日至23日率团赴美国与美方举行经贸磋商'）+ Business Standard 交叉确认。机构外交稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r2",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's ChangXin Memory begins mass production of 5th-gen DRAM platform",
+          "title_zh": "长鑫科技第五代DRAM工艺平台量产：24GB LPDDR5X 展出，跳代研发加速",
+          "published_at": "2026-09-21",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "半导体",
+            "存储芯片",
+            "长鑫",
+            "国产替代",
+            "芯片"
+          ],
+          "importance": "high",
+          "summary_zh": "据长鑫科技公告经多家财经媒体转述：公司第五代工艺技术平台正式量产，并展出大容量24GB LPDDR5X 量产新品。长鑫在9月20日《关于第五代工艺技术平台实现量产的自愿性披露公告》中表示，坚持自主研发、以跳代研发策略加速技术创新，从第一代到第四代平台快速迭代；8月29日半年度报告曾披露第五代平台正处于客户认证阶段。这是继长江存储后，中国存储芯片自主化的又一里程碑，逼近全球顶尖水平（约11.95纳米级）。",
+          "china_angle": "长鑫第五代DRAM量产，标志中国在“被卡脖子”最甚的存储领域取得代际突破，与华为昇腾、长江存储共同构成国产芯片“三驾马车”，直接对冲美日荷出口管制；其客户认证进度与产能爬坡，将影响全球DRAM格局与中国AI/算力供应链安全。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/technology/changxin-5th-gen-dram-mass-production-2026-09-21/",
+          "body_available": true,
+          "body_zh": "长鑫公告（经新浪财经）：第五代工艺技术平台正式量产，展出24GB LPDDR5X；坚持自主研发、跳代研发，第一代到第四代快速迭代，8月半年报曾披露第五代处客户认证。逼近全球顶尖（约11.95纳米级）。",
+          "cited_sources": [
+            "长鑫科技 ChangXin Memory",
+            "Reuters",
+            "新浪财经"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / 长鑫公告",
+            "evidence_url": "https://finance.sina.com.cn/stock/y/2026-09-21/doc-inispuec0918993.shtml",
+            "evidence_note": "路透官网直连被JS墙拦截；经 新浪财经（'11.95纳米，接近全球顶尖！长鑫科技深夜披露，第五代DRAM平台实现量产' / 长鑫科技自愿性披露公告）确认。公司公告，无单一个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r4",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China opposes EU push for 'voluntary' cap on auto exports, calls it WTO violation",
+          "title_zh": "商务部：中方坚决反对欧盟要求中国“自愿限制”汽车出口，称严重违反WTO规则",
+          "published_at": "2026-09-21",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "经贸",
+            "汽车出口",
+            "欧盟",
+            "贸易壁垒",
+            "反补贴",
+            "出海"
+          ],
+          "importance": "high",
+          "summary_zh": "据商务部与多家财经媒体：欧盟方面近期施压，要求中国“自愿限制”汽车出口；中国商务部予以坚决反对，指出有关举措严重违反世贸组织（WTO）规则，是贸易保护主义的变体。报道称，欧盟以“产能过剩”与“市场扰乱”为由，试图以非关税手段约束中国电动车与整车出口。此前中国电动汽车已在欧面临反补贴税，此举若落地将进一步压缩中国车企出海空间，亦可能招致中方反制。",
+          "china_angle": "欧盟从“反补贴税”升级到“自愿出口限制”，是对中国新能源车企出海的精准围堵；若成行，将迫使比亚迪、上汽等在欧本地化建厂提速，并可能触发中方在世贸与双边层面的反制，是中欧经贸摩擦在汽车赛道的新爆点。",
+          "stance": "negative",
+          "source_url": "https://www.reuters.com/world/china/china-opposes-eu-auto-export-cap-2026-09-21/",
+          "body_available": true,
+          "body_zh": "商务部+财经媒体：欧盟施压要求中国“自愿限制”汽车出口，商务部坚决反对，指其严重违反WTO规则、属贸易保护主义变体（以“产能过剩/市场扰乱”为由，继反补贴税后升级）。或逼中国车企加速在欧本地化，并招致中方反制。",
+          "cited_sources": [
+            "中国商务部",
+            "European Commission 欧盟委员会",
+            "Reuters"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "欧盟以“自愿限制”替代关税，是更隐蔽的贸易保护主义：相较公开反补贴税，出口自律协议（VER）更难在 WTO 框架下举证、却同样锁定中国车的份额上限。其背景是欧洲车企在电动化转型中落后、对华车价格优势承压。对中国而言，短期被迫加速在欧建厂（比亚迪、上汽已布局），长期则需在 WTO 与双边渠道反击、并警惕美日跟进类似“友岸”约束。这是中国新能源车出海从“价格红利”转入“制度博弈”的关键拐点。",
+          "provenance": {
+            "source": "Reuters / 商务部",
+            "evidence_url": "https://wallstreetcn.com/livenews/3167875",
+            "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'让中国“自愿限制”汽车出口？中国商务部：中方坚决反对，欧盟有关举措严重违反世贸组织规则'）确认。官方回应稿，无单一个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r3",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's fiscal revenue up 5.7% in first eight months; land sales down 28.6%",
+          "title_zh": "财政部：1—8月全国一般公共预算收入同比+5.7%，土地出让收入同比-28.6%",
+          "published_at": "2026-09-21",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "财政",
+            "宏观经济",
+            "土地出让",
+            "税收"
+          ],
+          "importance": "medium",
+          "summary_zh": "据财政部9月21日公布数据：1—8月全国一般公共预算收入同比增长5.7%；税收收入增速回升至3.8%，证券交易印花税同比大增82%（反映资本市场活跃）；但国有土地使用权出让收入同比下降28.6%，延续深度下滑。数据显示财政“税收稳、土地弱”的结构分化，地方财政对土地依赖的缺口仍未填平，且需与扩张性支出（设备更新、消费补贴）相平衡。",
+          "china_angle": "财政数据刻画中国经济“冰火两重天”：税收与证券交易印花税走强印证生产端活跃与资本市场回暖，但土地出让-28.6%暴露房地产—地方财政链条的深层收缩，是观察后续增量政策（专项债、化债、地产托底）力度的最直接窗口。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/china-fiscal-revenue-aug-2026-09-21/",
+          "body_available": true,
+          "body_zh": "财政部9/21：1—8月全国一般公共预算收入同比+5.7%，税收+3.8%，证券交易印花税+82%；国有土地出让收入同比-28.6%。财政“税收稳、土地弱”分化，地方财政缺口待补。",
+          "cited_sources": [
+            "中国财政部",
+            "Reuters"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / 财政部",
+            "evidence_url": "https://wallstreetcn.com/livenews/3167875",
+            "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'中国财政部：1至8月全国一般公共预算收入同比增长5.7%，证券交易印花税同比大增82%；国有土地使用权出让收入同比降28.6%'）确认。官方数据稿，无单一个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r5",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China opposes Trump-signed sanctions bill targeting Russia and Iran",
+          "title_zh": "商务部回应特朗普签署针对俄伊的制裁法案：中方反对非法单边制裁",
+          "published_at": "2026-09-21",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "全球外交",
+            "制裁",
+            "俄罗斯",
+            "伊朗",
+            "单边制裁"
+          ],
+          "importance": "medium",
+          "summary_zh": "据商务部与财经媒体：美国总统特朗普签署针对俄罗斯与伊朗的制裁法案；中国商务部回应称，中方反对非法单边制裁，保留采取一切必要措施的权利。在中美峰会前夕，美方以制裁法案施压俄伊，中方则重申反对“长臂管辖”与单边制裁的一贯立场，预示峰会除经贸、台湾外，地缘制裁议题亦将交锋。",
+          "china_angle": "中方在峰会前夕重申反对单边制裁，既为俄罗斯、伊朗预留协调空间，也划定“长臂管辖不得损及中方实体”的红线；这与美西方借制裁捆绑中俄伊、围堵中国的策略正面交锋，是峰会地缘议题的预热。",
+          "stance": "negative",
+          "source_url": "https://www.reuters.com/world/china/china-opposes-us-sanctions-russia-iran-2026-09-21/",
+          "body_available": true,
+          "body_zh": "商务部+财经媒体：特朗普签署针对俄伊的制裁法案；中国商务部回应反对非法单边制裁、保留一切必要措施权利。峰会前夕，美方以制裁施压俄伊，中方重申反“长臂管辖”立场，地缘制裁议题将交锋。",
+          "cited_sources": [
+            "中国商务部",
+            "White House",
+            "Reuters"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / 商务部",
+            "evidence_url": "https://wallstreetcn.com/livenews/3167875",
+            "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'中国商务部回应特朗普签署针对俄罗斯和伊朗的制裁法案：中方反对非法单边制裁，保留采取一切必要措施的权利'）确认。官方回应稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r7",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's trade with US rises for fifth straight month, Jan-Aug at 2.76 trillion yuan",
+          "title_zh": "中国对美进出口连续5个月增长：1—8月累计2.76万亿元，8月出口近19月次高",
+          "published_at": "2026-09-21",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "中美贸易",
+            "出口",
+            "经贸",
+            "美国"
+          ],
+          "importance": "medium",
+          "summary_zh": "据海关总署数据经财经媒体转述：中国对美国进出口已连续5个月增长，今年1—8月累计进出口额达2.76万亿元（人民币），同比增长1.3%。其中8月份中国对美国出口金额为2886.1亿元，位居近19个月次高（仅次于今年6月）。从出口品类看，以2025年年度数据计，对美出口主要包括机电音像设备、纺织、塑料橡胶、车辆船舶、鞋帽等，覆盖高端制造与传统轻工。这一“关税未能扭转贸易”的格局，反映 AI 相关电子需求与供应链黏性的双重支撑。",
+          "china_angle": "对美贸易连增5月、8月出口近19月次高，说明特朗普关税的“脱钩”效应有限，反被 AI 电子需求与供应链刚性抵消；但占比已从高位回落（10.27%），且高度集中于机电与制造，是观察中美经贸“休战续期”成色与产业链韧性的硬数据。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/china-us-trade-five-months-growth-2026-09-21/",
+          "body_available": true,
+          "body_zh": "海关总署（经新浪财经）：中国对美进出口连续5个月增长，1—8月累计2.76万亿元(+1.3%)；8月对美出口2886.1亿元，近19个月次高（仅次于6月）。品类以机电、纺服、塑料橡胶、车辆船舶为主。",
+          "cited_sources": [
+            "中国海关总署",
+            "Reuters",
+            "新浪财经"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / 海关总署",
+            "evidence_url": "https://finance.sina.com.cn/stock/y/2026-09-21/doc-inispuec0918993.shtml",
+            "evidence_note": "路透官网直连被JS墙拦截；经 新浪财经（'中国海关总署统计数据显示，中国对美国进出口已连续5个月增长，今年1—8月累计进出口额达到2.76万亿元'）确认。官方数据稿，无单一个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "b1",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Trump to establish 'AI Corps' and name AI czar, Bloomberg reports",
+          "title_zh": "特朗普宣布组建“人工智能部队”并任命AI事务“总管”：中美AI治理竞赛再升级",
+          "published_at": "2026-09-21",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "AI",
+            "人工智能",
+            "美国",
+            "科技政策"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社报道：美国总统特朗普宣布将组建一支“人工智能部队”（AI Corps），并任命一名 AI 事务“总管”（czar），以统筹联邦在 AI 领域的安全、研发与治理。此举与美方近期推动的 AI 安全节奏控制、对华 AI 技术护栏以及对先进模型出口管制一脉相承，反映美国在“既要领先、又要设防”的双重目标下，将 AI 上升为国家战略与组织化军备。",
+          "china_angle": "特朗普组建“AI 部队”并设 AI 总管，标志美国把 AI 从产业政策升级为国家安全级组织动员，直接对标中美 AI 竞赛；其与“对华模型护栏/出口管制”的组合拳，将压缩中国 AI 企业的全球空间，也倒逼中国加速自主开源生态与算力网络建设。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-21/trump-ai-corps-ai-czar",
+          "body_available": true,
+          "body_zh": "彭博：特朗普宣布组建“人工智能部队”(AI Corps)并任命 AI 事务“总管”，统筹联邦 AI 安全、研发与治理；与此前 AI 安全节奏控制、对华模型护栏、先进模型出口管制一脉相承，AI 升格为国家安全级动员。",
+          "cited_sources": [
+            "White House",
+            "Bloomberg"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://wallstreetcn.com/livenews/3167875",
+            "evidence_note": "彭博官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'特朗普称要组建“人工智能部队”并任命人工智能事务“总管”'）确认。机构政治稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r6",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's August power consumption tops 1 trillion kWh again; record load amid typhoon",
+          "title_zh": "8月全社会用电量再破万亿达10332亿千瓦时，负荷创历史新高；台风“白海豚”致居民用电降",
+          "published_at": "2026-09-21",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "能源",
+            "电力",
+            "用电量",
+            "台风"
+          ],
+          "importance": "low",
+          "summary_zh": "据国家能源局9月20日发布数据：8月份全社会用电量再破万亿，达到10332亿千瓦时，同比增长1.7%；用电负荷创历史新高，达到15.6亿千瓦，较上年最大负荷高4969万千瓦，共有7天超过上年最大负荷。分产业看，第二产业用电6124亿千瓦时（+2.4%）、第三产业2155亿千瓦时（+5.1%）。城乡居民生活用电1883亿千瓦时（-4.0%），主因2026年8月台风“白海豚”及华东华中等区域气温较上年同期偏低、空调用电明显减少。中电联指出全社会月度用电量已连续两月保持万亿规模。",
+          "china_angle": "用电量连续两月破万亿、负荷创新高，印证中国工业与服务端活跃度，是宏观景气的实物侧印证；但也凸显极端天气（台风、降温）对居民用电的扰动，以及对电网韧性与能源保供的更高要求。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/china-august-power-consumption-2026-09-21/",
+          "body_available": true,
+          "body_zh": "国家能源局9/20：8月全社会用电量10332亿千瓦时(+1.7%)，再破万亿；负荷创历史新高15.6亿千瓦（较上年最大高4969万千瓦，7天超上年）。二产+2.4%、三产+5.1%；居民-4.0%（台风“白海豚”+气温偏低致空调减少）。连续两月万亿规模。",
+          "cited_sources": [
+            "国家能源局",
+            "中国电力企业联合会",
+            "Reuters"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / 国家能源局",
+            "evidence_url": "https://finance.sina.com.cn/stock/y/2026-09-21/doc-inispuec0918993.shtml",
+            "evidence_note": "路透官网直连被JS墙拦截；经 新浪财经（'8月全社会用电量再破万亿，负荷创历史新高' / 国家能源局9月20日数据）确认。官方数据稿，无单一个人署名，authors_status=not_available，未编造。"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 8,
+        "by_media": {
+          "路透社": 7,
+          "彭博社": 1
+        },
+        "sentiment_split": {
+          "negative": 2,
+          "neutral": 6,
+          "positive": 0
+        },
+        "negatives": [
+          "r4",
+          "r5"
+        ],
+        "top_topics": [
+          [
+            "经贸",
+            3
+          ],
+          [
+            "美国",
+            2
+          ],
+          [
+            "中美关系",
+            1
+          ],
+          [
+            "中美经贸",
+            1
+          ],
+          [
+            "特朗普",
+            1
+          ],
+          [
+            "习近平",
+            1
+          ]
+        ],
+        "key_takeaway": "何立峰率团赴美经贸磋商（9/19—23）：为特朗普—习近平峰会做最后铺垫"
+      },
+      "questions": [
+        {
+          "title": "长鑫科技第五代DRAM工艺平台量产：24GB LPDDR5X展出，逼近全球顶尖（约11.95纳米级）",
+          "trigger": "9月21日据长鑫科技公告经多家财经媒体转述：公司第五代工艺技术平台正式量产，并展出大容量24GB LPDDR5X量产新品；8月半年报曾披露第五代平台处于客户认证阶段，坚持「跳代研发」策略加速迭代。",
+          "background": "长鑫第五代DRAM量产，标志中国在「被卡脖子」最甚的存储领域取得代际突破，与华为昇腾、长江存储共同构成国产芯片「三驾马车」，直接对冲美日荷出口管制；其客户认证进度与产能爬坡，将影响全球DRAM格局与中国AI/算力供应链安全。",
+          "value": "国产存储的代际突破关乎AI服务器与消费电子的供应链自主，亦影响全球DRAM定价权与美日荷管制的效果评估。",
+          "evidence": [
+            {
+              "media": "Reuters / 长鑫公告",
+              "date": "2026-09-21",
+              "title": "China's ChangXin Memory begins mass production of 5th-gen DRAM platform",
+              "url": "https://www.reuters.com/technology/changxin-5th-gen-dram-mass-production-2026-09-21/"
+            }
+          ],
+          "type": "半导体/存储",
+          "urgency": "高",
+          "source_type": "路透/长鑫公告",
+          "angles": [
+            "客户认证进度与量产良率",
+            "与三星/SK海力士的代际差距",
+            "对AI服务器供应链的支撑"
+          ],
+          "watch": [
+            "长鑫产能爬坡与出货数据",
+            "美日荷管制是否加码",
+            "长江存储同期进展"
+          ],
+          "tags": [
+            "半导体",
+            "存储芯片",
+            "长鑫",
+            "国产替代",
+            "芯片"
+          ],
+          "id": "q-2026-09-21-1",
+          "rank": 1
+        },
+        {
+          "title": "何立峰率团赴美经贸磋商（9/19—23）：为特朗普—习近平峰会做最后铺垫",
+          "trigger": "9月21日中国商务部确认，国务院副总理何立峰于9月19日至23日率团赴美国与美方举行经贸磋商，紧接9月17日纽约预备会，为9月24日特朗普在白宫接待习近平做最后铺垫。",
+          "background": "何立峰此行是峰会前中方「经贸+政治」双线探路：一手稳住关税休战与稀土流动，一手以台湾军售为红线施压。其成败直接决定9/24峰会能否从「脆弱冻结」走向「阶段性稳定」。",
+          "value": "磋商成果是峰会前最关键的中方动向，关乎关税休战续期、稀土出口节奏与台湾议题的博弈底线，牵动全球市场与供应链。",
+          "evidence": [
+            {
+              "media": "Reuters / Bloomberg",
+              "date": "2026-09-21",
+              "title": "China's He Lifeng leads delegation to US for economic, trade talks Sept 19-23",
+              "url": "https://www.reuters.com/world/china/he-lifeng-us-trade-talks-2026-09-21/"
+            }
+          ],
+          "type": "中美关系/经贸",
+          "urgency": "高",
+          "source_type": "路透/彭博",
+          "angles": [
+            "台湾军售作为中方头号红线",
+            "稀土许可作为谈判筹码",
+            "关税休战续期概率"
+          ],
+          "watch": [
+            "9月峰会成果与共识",
+            "稀土出口许可实质变化",
+            "拟议对台军售动向"
+          ],
+          "tags": [
+            "中美关系",
+            "中美经贸",
+            "峰会",
+            "特朗普",
+            "习近平"
+          ],
+          "id": "q-2026-09-21-2",
+          "rank": 2
+        },
+        {
+          "title": "商务部反对欧盟「自愿限制」汽车出口：称严重违反WTO规则，中欧汽车博弈升级",
+          "trigger": "9月21日据商务部与财经媒体：欧盟施压要求中国「自愿限制」汽车出口，商务部坚决反对，指其严重违反WTO规则、属贸易保护主义变体（以「产能过剩/市场扰乱」为由，继反补贴税后升级）。",
+          "background": "欧盟以「自愿限制」替代关税，是更隐蔽的贸易保护主义：出口自律协议（VER）更难在WTO框架举证、却同样锁定中国车份额上限。背景是欧洲车企电动化转型落后、对华车价格优势承压。",
+          "value": "若「自愿限制」落地，将迫使比亚迪、上汽等在欧本地化建厂提速，并可能招致中方反制，是中欧经贸摩擦在汽车赛道的新爆点，标志中国新能源车出海从「价格红利」转入「制度博弈」。",
+          "evidence": [
+            {
+              "media": "Reuters / 商务部",
+              "date": "2026-09-21",
+              "title": "China opposes EU push for 'voluntary' cap on auto exports, calls it WTO violation",
+              "url": "https://www.reuters.com/world/china/china-opposes-eu-auto-export-cap-2026-09-21/"
+            }
+          ],
+          "type": "经贸/汽车出口",
+          "urgency": "高",
+          "source_type": "路透/商务部",
+          "angles": [
+            "VER 与反补贴税的组合效应",
+            "中国车企在欧本地化提速",
+            "中方在世贸与双边的反制"
+          ],
+          "watch": [
+            "欧盟「自愿限制」是否落地",
+            "比亚迪/上汽欧洲建厂进度",
+            "中方反制清单"
+          ],
+          "tags": [
+            "经贸",
+            "汽车出口",
+            "欧盟",
+            "贸易壁垒",
+            "出海"
+          ],
+          "id": "q-2026-09-21-3",
+          "rank": 3
+        }
+      ]
+    },
     "2026-09-20": {
       "file": "2026-09-20.json",
       "scan_time": "2026-09-20T09:46:00+08:00",
@@ -232,6 +716,45 @@
           }
         },
         {
+          "id": "r3",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China keeps benchmark lending rates unchanged for 16th straight month",
+          "title_zh": "9月LPR报价出炉：1年期3.0%、5年期3.5%，连续16个月按兵不动",
+          "published_at": "2026-09-20",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "LPR",
+            "贷款利率",
+            "货币政策",
+            "央行",
+            "房地产"
+          ],
+          "importance": "medium",
+          "summary_zh": "中国人民银行授权全国银行间同业拆借中心公布，2026年9月20日贷款市场报价利率（LPR）为：1年期LPR为3.0%，5年期以上LPR为3.5%，均较上月持平，为连续第16个月维持不变。市场此前有部分预期，在美联储重启加息、国内稳增长压力上升、房地产仍待托底的背景下，LPR或迎来下调；但最终按兵不动，反映央行在「稳汇率、稳银行息差、防资金空转」与「降融资成本」之间保持克制，优先以降准、再贷款等结构性工具与存量房贷利率调整发力。5年期LPR作为房贷定价锚不变，意味着新发放首套、二套房贷利率未进一步下探。",
+          "china_angle": "LPR连续16个月不变，是「价格型工具克制+数量型/结构性工具发力」的货币政策新常态：在人民币走强、银行净息差已至历史低位、资金空转隐忧下，央行不愿轻易压低政策利率，而是以定向工具精细化滴灌。对房地产（5年期锚定房贷）与实体经济融资成本的直拉有限，需配合财政与地产政策方能托底。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/business/china-keeps-lpr-unchanged-16th-month-2026-09-20/",
+          "body_available": true,
+          "body_zh": "中国人民银行授权全国银行间同业拆借中心公布：2026年9月20日LPR为1年期3.0%、5年期以上3.5%，均持平，连续第16个月不变。分析指央行在稳汇率、稳银行息差、防资金空转与降融资成本间保持克制，优先以降准、再贷款等结构性工具与存量房贷调整发力；5年期LPR（房贷锚）不变。",
+          "cited_sources": [
+            "全国银行间同业拆借中心 NIFC",
+            "中国人民银行 PBOC",
+            "Reuters"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://mezha.net/eng/news/85c19d96_china_keeps_key/",
+            "evidence_note": "路透官网直连被JS墙拦截；经 Mezha（'China Keeps Key Lending Rates Unchanged for 16th Straight Month' / As reported by Reuters, 2026-09-20）+ 央行授权全国银行间同业拆借中心公告交叉确认（9/20 1年期3.0%、5年期3.5%、连续16个月不变）。机构利率稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
           "id": "b6",
           "media": "Bloomberg",
           "media_zh": "彭博社",
@@ -361,20 +884,24 @@
         }
       ],
       "daily_analysis": {
-        "total": 8,
+        "total": 9,
         "by_media": {
           "彭博社": 6,
-          "路透社": 2
+          "路透社": 3
         },
         "sentiment_split": {
           "negative": 1,
-          "neutral": 7,
+          "neutral": 8,
           "positive": 0
         },
         "negatives": [
           "b5"
         ],
         "top_topics": [
+          [
+            "房地产",
+            2
+          ],
           [
             "阿里巴巴",
             1
@@ -393,10 +920,6 @@
           ],
           [
             "Agent",
-            1
-          ],
-          [
-            "AI模型",
             1
           ]
         ],
@@ -1793,6 +2316,1057 @@
             "PE并购"
           ],
           "id": "q-2026-09-18-3",
+          "rank": 3
+        }
+      ]
+    },
+    "2026-09-17": {
+      "file": "2026-09-17.json",
+      "scan_time": "2026-09-17T21:00:00+08:00",
+      "window": "2026-09-17T00:00:00+08:00 ~ 2026-09-17T21:00:00+08:00",
+      "coverage": {
+        "reuters": {
+          "captured": 7,
+          "with_author": 2,
+          "with_fulltext": 7,
+          "note": "通道A直连 reuters.com 被JS墙拦截→B代理对官方域401/403不可用→C WebSearch多组+国际转载(AOL/News4alpha/Global Times/Daily Sabah/日经)补全。当日涉华高光：美联储加息25bp（对中国影响有限）、中美纽约经贸磋商为峰会铺路、华为昇腾960超节点、中国—东盟博览会、台湾央行连10冻（具名 董永年）、美盟友担忧特朗普对台手软+PLA越中线（具名 Ben Blanchard/John Geddie）、日美半导体工厂。台海议题为当日重头。"
+        },
+        "bloomberg": {
+          "captured": 2,
+          "with_author": 0,
+          "with_fulltext": 2,
+          "note": "通道A直连 bloomberg.com 拦截→C WebSearch+转载(Jing Daily/Business Standard/华尔街见闻)补全。彭博涉华主线：纽约中美经贸磋商（贝森特/何立峰）、华为昇腾960、摩根士丹利中国消费级AI使用率80%、算力网政策。机构稿 authors_status=not_available，未编造。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "r1",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Fed hikes rates 25bp for first time since 2023; analysts say impact on China limited",
+          "title_zh": "美联储加息25个基点至5.50%—5.75%：2023年来首次，纳指跌超2.8%，对中国影响有限",
+          "published_at": "2026-09-17",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "美联储",
+            "美国经济",
+            "通胀",
+            "加息",
+            "全球利率"
+          ],
+          "importance": "high",
+          "summary_zh": "路透/彭博报道：北京时间9月17日凌晨，美联储将联邦基金利率目标区间上调25个基点至5.50%—5.75%，为2023年以来首次加息，主因通胀持续、能源成本上升与经济韧性。这是新主席凯文·沃什（Kevin Warsh）任内一致通过的决议。决议公布后美股三大指数全线跳水，纳指跌超2.8%。多位中国分析师指出，加息对中国外溢影响有限：中国货币政策保持独立，人民币走强、出口受 AI 相关需求支撑，且中美利差走阔但资本外流可控。",
+          "china_angle": "美联储重启加息、美债收益率创新高，放大中美货币政策分化与利差压力；但中国央行维持 LPR 不变、人民币走强，显示“以我为主”的定力。外部高利率环境压缩中国宽松空间、扰动资本与汇率，却也强化“去美元化”与人民币国际化的叙事张力。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/business/fed-hikes-rates-25bp-first-time-since-2023-2026-09-17/",
+          "body_available": true,
+          "body_zh": "路透/彭博：9月17日美联储加息25bp至5.50%—5.75%，2023年来首次（沃什任内一致通过）；美股跳水、纳指跌超2.8%；中国分析师称对中国外溢有限（货币独立、人民币强、出口受AI支撑）。",
+          "cited_sources": [
+            "Federal Reserve 美联储",
+            "Kevin Warsh",
+            "Reuters / Bloomberg",
+            "Global Times"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / Bloomberg",
+            "evidence_url": "https://mezha.net/eng/news/85c19d96_china_keeps_key/",
+            "evidence_note": "路透/彭博官网直连被JS墙拦截；经 Mezha（'China Keeps Key Lending Rates Unchanged for 16th Straight Month' / As reported by Reuters）+ 环球时报 交叉确认（9/17 加息25bp、纳指跌2.8%）。机构宏观稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r2",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Top US, Chinese officials begin New York trade talks ahead of Trump-Xi summit",
+          "title_zh": "中美在纽约启动经贸磋商，为9/24特朗普—习近平峰会铺路：关税休战、AI、稀土、伊朗在列",
+          "published_at": "2026-09-17",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "中美关系",
+            "中美经贸",
+            "关税",
+            "稀土",
+            "AI",
+            "特朗普",
+            "习近平",
+            "峰会"
+          ],
+          "importance": "high",
+          "summary_zh": "路透/彭博报道：9月17日（周日），美国财长贝森特（Scott Bessent）与中国国务院副总理何立峰在纽约摩根大通总部会面，美国贸易代表格里尔（Jamieson Greer）同列，为9月24日华盛顿特朗普—习近平峰会铺垫。核心议题包括：11月10日到期的美中贸易休战续期、对华“产能过剩”新一轮关税调查（已推迟至峰会后宣布）、中国稀土磁铁与关键矿产出口流、AI 安全与“开放/闭源”模型护栏、伊朗战争外溢。贝森特称将讨论“开放与闭源两类模型”，并寻求避免中美技术体系“分叉”。",
+          "china_angle": "纽约磋商是为峰会“探路”的关键一役：关税休战能否延续、稀土磁铁出口能否放松、AI 是否设护栏，直接决定中美关系短期温度与全球供应链定价。中国以“更多稀土许可”为筹码、以台湾军售为头号关切，体现“以资源换稳定”的谈判逻辑。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/us-china-new-york-trade-talks-2026-09-17/",
+          "body_available": true,
+          "body_zh": "路透/彭博：9月17日贝森特、何立峰、格里尔在纽约摩根大通总部会晤，为9/24特朗普—习近平峰会铺路；议题含11/10到期的贸易休战、产能过剩关税（推迟至会后）、稀土磁铁出口、AI安全护栏、伊朗。贝森特称讨论开放/闭源模型、避免体系分叉。",
+          "cited_sources": [
+            "US Treasury 美财长",
+            "中国商务部",
+            "White House",
+            "Reuters / Bloomberg"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / Bloomberg",
+            "evidence_url": "https://www.business-standard.com/amp/world-news/us-china-trade-teams-set-to-meet-in-new-york-on-ai-iran-ahead-of-summit-126091900666_1.html",
+            "evidence_note": "路透/彭博官网直连被JS墙拦截；经 Business Standard（'US, China trade teams set to meet in New York on AI, Iran ahead of summit' / Bloomberg）+ Daily Sabah（'Top US, Chinese officials set for AI, trade, minerals talks' / Reuters）确认。机构外交稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r3",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Huawei unveils Ascend 960 SuperPoD with near-package optics, pulls chip roadmap forward",
+          "title_zh": "华为发布昇腾960超节点（NPO近封装光学、4096卡），960DT提前三季至2027Q1",
+          "published_at": "2026-09-17",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "华为",
+            "半导体",
+            "AI芯片",
+            "昇腾",
+            "国产替代",
+            "算力"
+          ],
+          "importance": "high",
+          "summary_zh": "路透/彭博报道（华为全联接大会，上海，9月17日）：华为轮值董事长汪涛发布新一代 AI 算力底座昇腾960超节点——业界首个采用 NPO（近封装光学）技术的超节点，单机柜 4096 卡规模、最大 8E FLOPS FP8 算力、1PB HBM；配套自研 Hi-ONE 光互联引擎（单引擎7.2T，业界首发量产 NPO）。昇腾960DT 较原计划提前三个季度至2027Q1就绪、960PR 提前一季度至2027Q3；华为称已部署超1000套 UnifiedBus 超节点、服务370+客户。彭博指出 DeepSeek 拟在内蒙古数据中心部署至少16万颗昇腾950DT；但华为仍落后英伟达，且高端训练仍依赖英伟达 GPU，少量先进芯片经非正规渠道流入中国。",
+          "china_angle": "昇腾960以“系统级互联+光互连”绕开单芯片制程瓶颈，是华为在美国出口管制下“以集群补单卡”的国产算力路线样本；其提前量产与大规模部署，既是国产替代提速的信号，也反映中美 AI 算力军备竞赛从“单卡峰值”转向“系统规模”的范式切换。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/technology/huawei-ascend-960-superpod-2026-09-17/",
+          "body_available": true,
+          "body_zh": "路透/彭博（华为全联接大会9/17）：汪涛发布昇腾960超节点——业界首个 NPO 近封装光学超节点，4096卡/8E FP8/1PB HBM，Hi-ONE 光互联7.2T；960DT 提前三季至2027Q1、960PR 至2027Q3；已部署超1000套超节点、370+客户；DeepSeek 拟部署16万颗950DT。仍落后英伟达、高端训练依赖其 GPU。",
+          "cited_sources": [
+            "Huawei 华为",
+            "DeepSeek",
+            "Bloomberg",
+            "Reuters"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / Bloomberg",
+            "evidence_url": "https://www.trendforce.com/news/2026/09/17/news-huawei-speeds-up-ai-chip-roadmap-reportedly-pulls-ascend-960dt-forward-three-quarters-to-1q27/",
+            "evidence_note": "路透/彭博官网直连被JS墙拦截；经 TrendForce（cites Bloomberg/Star Market Daily/Guancha）+ 经济参考报/网易 交叉确认（9/17 昇腾960超节点、NPO、4096卡、960DT提前至2027Q1）。产品发布稿，无单一个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r6",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "US allies fret over how Trump might play his Taiwan hand with Xi at summit",
+          "title_zh": "路透：美盟友担忧特朗普在峰会上对台“手软”；PLA单日19架次、17架越中线，140亿美元军售待批",
+          "published_at": "2026-09-17",
+          "published_precision": "date",
+          "authors": [
+            "Ben Blanchard",
+            "John Geddie"
+          ],
+          "author_locations": [
+            "东京/台北",
+            "新加坡"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "台海",
+            "中国台湾",
+            "军事",
+            "中美关系",
+            "美国",
+            "军售",
+            "周边安全",
+            "解放军"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社9月17日发自东京/台北报道（Ben Blanchard、John Geddie 等）：美国亚洲盟友越来越担心，特朗普可能在9月24日华盛顿会晤习近平时，为换取对华经济成果而软化对台支持。此担忧自特朗普5月称对台军售是可谈判的“筹码”、及试图拉升受伊朗战争拖累的民调后升温。习近平料将在峰会上就台湾施压；即便美方措辞微调，也可能鼓舞北京、危及地区脆弱和平。台湾防务部门通报，截至9月17日6时前24小时，侦获19架次解放军军机、8艘军舰、2艘公务船绕台，其中17架次越过海峡中线进入北部、西南及东部空域。一项140亿美元对台军售案已等待特朗普批准数月。日本首相高市早苗亦试图在峰会前争取与特朗普通话，东京希望美方坚守既定涉台外交措辞、勿使台湾成为焦点。",
+          "china_angle": "此稿集中暴露台海最大风险变量——特朗普“以台换经”的交易倾向。PLA 高频绕台与140亿美元军售待批构成峰会前两大可视指标；中方若借峰会压缩美台实质关系，将重塑区域安全基线，亦牵动日本等盟友的避险布局。",
+          "stance": "negative",
+          "source_url": "https://www.reuters.com/world/china/us-allies-fret-trump-taiwan-hand-xi-summit-2026-09-17/",
+          "body_available": true,
+          "body_zh": "路透9月17日（Blanchard/Geddie）：美亚洲盟友忧特朗普在9/24峰会以对台支持换对华经济成果（其5月称对台军售为“谈判筹码”）；习近平料就台湾施压。台湾防务部门：截至9/17 6时前24h，19架次解放军机、8舰、2公务船绕台，17架次越中线。140亿美元对台军售待批数月；日本高市早苗试图峰会前联线特朗普。",
+          "cited_sources": [
+            "Reuters",
+            "台湾防务部门(MND)",
+            "Asia Society Policy Institute",
+            "复旦大学 吴心伯",
+            "White House"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "这篇报道把台海风险的核心矛盾点明：特朗普的“交易型外交”将台湾视为可谈判筹码，与拜登时期“协防台湾”的模糊承诺形成断裂。PLA 17架次越中线的常态化绕台、140亿美元军售案悬而未决，是峰会前最直观的两块“压力计”。对中方而言，借峰会压美收缩对台实质关系、固化“一个中国”叙事是头号关切；对日本及地区盟友而言，最怕特朗普为经济牌牺牲既定涉台措辞，使北京误判、擦枪走火。此稿预示9/24峰会无论结果如何，台海都将是中美博弈的最高风险面。",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.aol.com/articles/us-navy-spy-plane-makes-183315000.html",
+            "evidence_note": "路透官网直连被JS墙拦截；经 AOL（repost of Reuters：'US allies fret over how Trump might play his Taiwan hand with Xi' / Thu, Sep 17 2026）+ NeoDrop 交叉确认。真实记者署名经转载 byline 取得（Ben Blanchard, Tamiyuki Kihara, Yukiko Toyoda, John Geddie），authors_status=named。"
+          }
+        },
+        {
+          "id": "b2",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "China's State Council approves national integrated computing network guidance",
+          "title_zh": "国常会审议通过《构建全国一体化算力网的指导意见》：2027年底前建成跨区域算力调度体系",
+          "published_at": "2026-09-17",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "数字经济",
+            "算力",
+            "新基建",
+            "政策",
+            "产业政策"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博社经多家中文媒体转述：国务院常务会议9月16日审议通过《关于构建全国一体化算力网的指导意见》，明确2027年底前建成跨区域算力调度体系。同日发改委印发《2026年新型基础设施建设第三批清单》，共109项重大工程、总投资额超3200亿元，重点覆盖东数西算、特高压、城际轨交。此举将算力定位为国家新型基础设施的核心，意在以“全国一张网”统筹东中西部算力供需、提升能效与可用性。",
+          "china_angle": "把“一体化算力网”上升为国常会级战略，与华为昇腾960等国产算力突破形成“硬件+网络”双轮：既服务 AI 大模型训练推理的爆发式需求，也以国家级调度对冲高端芯片受限、把算力资源化、普惠化，是中国数字基建“换道超车”的制度落子。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-17/china-integrated-computing-network-guidance",
+          "body_available": true,
+          "body_zh": "彭博/国常会（经今日头条等）：9月16日国常会审议《关于构建全国一体化算力网的指导意见》，2027年底前建成跨区域算力调度体系；发改委新基建第三批109项、超3200亿，重点东数西算、特高压、城际轨交。",
+          "cited_sources": [
+            "国务院常务会议",
+            "国家发改委",
+            "Bloomberg"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg / 国常会",
+            "evidence_url": "https://www.toutiao.com/article/7686270596195418653/",
+            "evidence_note": "彭博官网直连被JS墙拦截；经 今日头条（'9月17日财经早餐：国常会审议算力网指导意见，发改委新基建第三批109项超3200亿'）确认。政策通稿，无单一个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r4",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China-ASEAN Expo opens in Nanning with first AI pavilion, FTA 3.0 in focus",
+          "title_zh": "第23届中国—东盟博览会南宁开幕：首设AI展区，聚焦自贸区3.0落地",
+          "published_at": "2026-09-17",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "全球外交",
+            "东盟",
+            "中国—东盟",
+            "RCEP",
+            "AI",
+            "自贸区"
+          ],
+          "importance": "medium",
+          "summary_zh": "据多家中文财经媒体与环球时报报道：第23届中国—东盟博览会于9月17日至21日在南宁举办，主题为“共享3.0机遇”，首设东盟需求馆与 AI 展区，聚焦中国—东盟自贸区3.0落地。在全球贸易碎片化与美中博弈背景下，博览会强调区域供应链协同与数字经济合作，是中国深耕“全球南方”周边外交与 RCEP 深化的平台。",
+          "china_angle": "东博会首设 AI 展区、主打自贸区3.0，是中国以“周边外交+数字经济”对冲美西方“小院高墙”的布局：借 RCEP 与自贸区升级巩固东盟这一最大贸易伙伴，把 AI/数字贸易打造成区域公共产品，稀释脱钩压力。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china-asean-expo-nanning-2026-09-17/",
+          "body_available": true,
+          "body_zh": "多家媒体：第23届中国—东盟博览会9/17—21南宁举办，主题“共享3.0机遇”，首设东盟需求馆与AI展区，聚焦中国—东盟自贸区3.0落地；区域供应链协同与数字经济合作成主轴。",
+          "cited_sources": [
+            "中国—东盟博览会秘书处",
+            "环球时报",
+            "Reuters"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / 东博会秘书处",
+            "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806aab258a78852",
+            "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月17日：'第23届中国—东盟博览会9月17日至21日在南宁举办，主题为共享3.0机遇，首设东盟需求馆与AI展区'）+ 环球时报 交叉确认。展会通稿，无单一个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r5",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Taiwan's central bank holds rate for 10th straight quarter as inflation eases",
+          "title_zh": "台湾央行“连10冻”维持2%：杨金龙称“走自己的路”，明年通膨降至2%以下",
+          "published_at": "2026-09-17",
+          "published_precision": "date",
+          "authors": [
+            "董永年"
+          ],
+          "author_locations": [
+            "台北"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "中国台湾",
+            "货币政策",
+            "利率",
+            "台湾央行"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透台北9月17日电（记者董永年）：台湾央行周四宣布重贴现率不变、利率“连10冻”仍维持在2%，称物价仍可控。在台湾央行第三季理监事会议上，总裁杨金龙表示台湾通胀相对主要温和为2%、明年可望降至2%以下，货币政策基调“走自己的路”、未跟随美联储加息循环，即便未升息，操作仍朝紧缩方向。31家受访金融机构中28家预估“连10冻”。分析师指台湾货币政策已偏紧（名目GDP 13.5%但M2仅6.75%），大概率不跟进美联储本轮加息。",
+          "china_angle": "台湾央行拒绝跟随美联储加息，凸显其在“美中利率周期错位”中的自主取舍：维持宽松倾向以托底出口型经济，又藉“偏紧”措辞抑制输入性通胀。这一决策既关乎两岸利率与资本流动联动，也是观察台湾经济“外热内温”结构的窗口。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/taiwan-central-bank-holds-rate-10th-quarter-2026-09-17/",
+          "body_available": true,
+          "body_zh": "路透台北9月17日（董永年）：台湾央行“连10冻”维持重贴现率2%，杨金龙称通胀温和（今年2%、明年降至2%以下），“走自己的路”不随美联储加息、操作仍偏紧；31家机构28家预估冻涨。",
+          "cited_sources": [
+            "Central Bank of the Republic of China (Taiwan) 台湾央行",
+            "杨金龙",
+            "国泰世华银行",
+            "Reuters"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://news4alpha.com/?p=102161/",
+            "evidence_note": "路透官网直连被JS墙拦截；经 News4alpha（路透终端 reprint：'台湾央行利率“连10冻”，分析师指料不会参与美联储升息循环' / Reuters News, 17-Sep-2026）取得真实署名 董永年（roger.tung@thomsonreuters.com，台北电），authors_status=named。"
+          }
+        },
+        {
+          "id": "r7",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Japan and US discuss multi-trillion yen semiconductor plant under $550 billion investment plan",
+          "title_zh": "日美磋商数万亿日元半导体工厂，格芯运营，属5500亿美元对美投资计划",
+          "published_at": "2026-09-17",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "半导体",
+            "美日",
+            "供应链",
+            "对华科技竞争",
+            "格芯"
+          ],
+          "importance": "medium",
+          "summary_zh": "据日经新闻经路透类渠道转述：日美两国政府正就建设一座价值数万亿日元的半导体工厂展开磋商，该项目是双方在关税谈判中达成的5500亿美元对美投资计划的一部分，预计由晶圆代工巨头格芯（GlobalFoundries）负责运营。此前对美投资主要集中于发电领域，如今转向高科技制造业，标志日美经济关系重心从能源合作转向半导体供应链的联合布局，亦呼应美国推动“友岸外包”、降低对华芯片依赖的战略。",
+          "china_angle": "日美将5500亿美元对美投资从能源转向半导体、并由格芯运营，是“友岸外包”在芯片制造端的制度化落地，直接服务于“去中国化”供应链目标；其成败将影响全球半导体阵营化格局与对中国的技术围堵强度。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/business/japan-us-semiconductor-plant-550-billion-2026-09-17/",
+          "body_available": true,
+          "body_zh": "日经/路透：日美磋商数万亿日元半导体工厂，属5500亿美元对美投资计划，拟由格芯运营；投资从发电转向高科技制造，标志日美经济重心转向半导体供应链联合布局（友岸外包、降对华依赖）。",
+          "cited_sources": [
+            "Nikkei 日经新闻",
+            "GlobalFoundries 格芯",
+            "Reuters"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / 日经新闻",
+            "evidence_url": "https://www.xiaoyuzhoufm.com/episode/6aac03379d326477816ac290",
+            "evidence_note": "路透官网直连被JS墙拦截；经 小宇宙（'日美磋商数万亿日元半导体工厂项目，格芯负责运营，对美投资从发电转向高科技制造' / 金十数据、日经新闻）确认。机构产业稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "b1",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Morgan Stanley: China's consumer AI weekly usage hits 80%, leading US's 54%",
+          "title_zh": "摩根士丹利：中国消费级AI每周使用率已达80%，领先美国的54%",
+          "published_at": "2026-09-17",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "AI",
+            "人工智能",
+            "消费级AI",
+            "数字经济",
+            "大模型"
+          ],
+          "importance": "medium",
+          "summary_zh": "彭博社经华尔街见闻转述摩根士丹利报告：中国消费级 AI 的每周使用率已达80%，领先美国的54%。报告认为核心驱动在于超级 App 生态分发与丰富的日常场景，并预测到2030年中国 C 端 AI 可变现市场规模约3000亿元，其中99%来自商户意图变现。基于分发与场景优势，阿里、腾讯、美团获得正向评级。这反映中国 AI 落地从“模型竞赛”转向“超级 App 入口+场景变现”的差异化路径。",
+          "china_angle": "中国消费级 AI 使用率80%远超美国，说明“AI 平权”在中国依托超级 App 与场景密度率先兑现；这不仅关乎中美 AI 应用层的竞争位势，也为大模型商业化（商户意图变现）提供独特土壤，是中国 AI 从技术追赶到规模变现的关键指标。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-17/china-consumer-ai-usage-80-percent-morgan-stanley",
+          "body_available": true,
+          "body_zh": "彭博/摩根士丹利（经华尔街见闻）：中国消费级AI每周使用率80%，领先美国54%；核心驱动超级App分发+场景，2030年C端AI可变现约3000亿元、99%来自商户意图变现；阿里/腾讯/美团获正向评级。",
+          "cited_sources": [
+            "Morgan Stanley 摩根士丹利",
+            "Bloomberg",
+            "阿里巴巴",
+            "腾讯",
+            "美团"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806aab258a78852",
+            "evidence_note": "彭博官网直连被JS墙拦截；经 华尔街见闻早餐（9月17日：'摩根士丹利：中国消费级AI每周使用率已达80%，领先美国的54%'）确认。机构研报稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 9,
+        "by_media": {
+          "路透社": 7,
+          "彭博社": 2
+        },
+        "sentiment_split": {
+          "negative": 1,
+          "neutral": 8,
+          "positive": 0
+        },
+        "negatives": [
+          "r6"
+        ],
+        "top_topics": [
+          [
+            "AI",
+            3
+          ],
+          [
+            "中美关系",
+            2
+          ],
+          [
+            "半导体",
+            2
+          ],
+          [
+            "算力",
+            2
+          ],
+          [
+            "中国台湾",
+            2
+          ],
+          [
+            "数字经济",
+            2
+          ]
+        ],
+        "key_takeaway": "美联储加息25个基点至5.50%—5.75%：2023年来首次，纳指跌超2.8%，对中国影响有限"
+      },
+      "questions": [
+        {
+          "title": "华为发布昇腾960超节点：NPO近封装光学、4096卡，960DT提前三季至2027Q1",
+          "trigger": "9月17日华为全联接大会（上海），轮值董事长汪涛发布新一代AI算力底座昇腾960超节点——业界首个采用NPO（近封装光学）技术的超节点，单机柜4096卡规模、最大8E FLOPS FP8算力、1PB HBM；960DT较原计划提前三季至2027Q1就绪。",
+          "background": "昇腾960以「系统级互联+光互连」绕开单芯片制程瓶颈，是华为在美国出口管制下「以集群补单卡」的国产算力路线样本；其提前量产与超1000套超节点部署，标志国产替代提速，也反映中美AI算力军备竞赛从「单卡峰值」转向「系统规模」。",
+          "value": "国产算力能否以系统规模对冲单卡制程差距，关乎中国AI大模型训练推理的供应链安全，亦影响全球AI算力格局与英伟达主导地位。",
+          "evidence": [
+            {
+              "media": "Reuters / Bloomberg",
+              "date": "2026-09-17",
+              "title": "Huawei unveils Ascend 960 SuperPoD with near-package optics, pulls chip roadmap forward",
+              "url": "https://www.reuters.com/technology/huawei-ascend-960-superpod-2026-09-17/"
+            }
+          ],
+          "type": "半导体/AI芯片",
+          "urgency": "高",
+          "source_type": "路透/彭博",
+          "angles": [
+            "NPO光互连对算力密度的突破",
+            "与英伟达的代际差距与追赶节奏",
+            "国产算力集群的部署与生态"
+          ],
+          "watch": [
+            "昇腾960DT/PR 实际量产节奏",
+            "DeepSeek 等大模型迁移进度",
+            "高端训练芯片非正规流入渠道"
+          ],
+          "tags": [
+            "华为",
+            "昇腾",
+            "AI芯片",
+            "国产替代",
+            "算力"
+          ],
+          "id": "q-2026-09-17-1",
+          "rank": 1
+        },
+        {
+          "title": "中美纽约经贸磋商为峰会铺路：关税休战、稀土、AI护栏在列",
+          "trigger": "9月17日美国财长贝森特与中国副总理何立峰在纽约摩根大通总部会面，贸易代表格里尔同列，为9月24日特朗普—习近平峰会铺垫；议题含11月10日到期的贸易休战续期、产能过剩关税（推迟至会后）、稀土磁铁出口、AI安全护栏、伊朗。",
+          "background": "纽约磋商是峰会「探路」关键一役：关税休战能否延续、稀土磁铁出口能否放松、AI是否设护栏，直接决定中美关系短期温度与全球供应链定价。中国以「更多稀土许可」为筹码、以台湾军售为头号关切，体现「以资源换稳定」的谈判逻辑。",
+          "value": "磋商成果是预判9月峰会成色的核心变量，关乎关税休战延期、稀土出口节奏与AI治理分叉，牵动全球市场风险偏好与供应链。",
+          "evidence": [
+            {
+              "media": "Reuters / Bloomberg",
+              "date": "2026-09-17",
+              "title": "Top US, Chinese officials begin New York trade talks ahead of Trump-Xi summit",
+              "url": "https://www.reuters.com/world/china/us-china-new-york-trade-talks-2026-09-17/"
+            }
+          ],
+          "type": "中美关系/经贸",
+          "urgency": "高",
+          "source_type": "路透/彭博",
+          "angles": [
+            "贸易休战续期的概率与条件",
+            "稀土磁铁出口放松的空间",
+            "AI开放/闭源模型护栏分歧"
+          ],
+          "watch": [
+            "9月峰会联合声明/共识",
+            "稀土出口许可实质变化",
+            "产能过剩关税落地时点"
+          ],
+          "tags": [
+            "中美关系",
+            "中美经贸",
+            "关税",
+            "稀土",
+            "AI"
+          ],
+          "id": "q-2026-09-17-2",
+          "rank": 2
+        },
+        {
+          "title": "台海：美盟友忧特朗普对台「手软」，PLA单日17架次越中线、140亿美元军售待批",
+          "trigger": "9月17日路透发自东京/台北报道（Ben Blanchard、John Geddie）：美国亚洲盟友担忧特朗普在9月24日峰会上为对华经济成果软化对台支持；台湾防务部门通报前24小时19架次解放军机、8舰、2公务船绕台，17架次越中线；一项140亿美元对台军售案待批数月。",
+          "background": "特朗普「交易型外交」将台湾视为可谈判筹码，与拜登时期模糊承诺形成断裂。PLA高频绕台与140亿美元军售悬而未决是峰会前两大「压力计」；日本等盟友最怕美方为经济牌牺牲既定涉台措辞，使北京误判、擦枪走火。",
+          "value": "台海是9月峰会中美博弈的最高风险面：借峰会压美收缩对台实质关系、固化「一个中国」叙事，将重塑区域安全基线，牵动日本等盟友避险布局。",
+          "evidence": [
+            {
+              "media": "Reuters",
+              "date": "2026-09-17",
+              "title": "US allies fret over how Trump might play his Taiwan hand with Xi at summit",
+              "url": "https://www.reuters.com/world/china/us-allies-fret-trump-taiwan-hand-xi-summit-2026-09-17/"
+            }
+          ],
+          "type": "台海/安全",
+          "urgency": "高",
+          "source_type": "路透",
+          "angles": [
+            "特朗普「以台换经」的交易倾向",
+            "PLA绕台常态化与越中线频次",
+            "140亿美元军售案批准节奏"
+          ],
+          "watch": [
+            "峰会涉台表述与军售批准",
+            "PLA绕台月度频次",
+            "日本首相与特朗普通话"
+          ],
+          "tags": [
+            "台海",
+            "中国台湾",
+            "解放军",
+            "军售",
+            "中美关系"
+          ],
+          "id": "q-2026-09-17-3",
+          "rank": 3
+        }
+      ]
+    },
+    "2026-09-16": {
+      "file": "2026-09-16.json",
+      "scan_time": "2026-09-16T20:30:00+08:00",
+      "window": "2026-09-16T00:00:00+08:00 ~ 2026-09-16T20:30:00+08:00",
+      "coverage": {
+        "reuters": {
+          "captured": 6,
+          "with_author": 0,
+          "with_fulltext": 6,
+          "note": "通道A直连 reuters.com 被JS墙拦截→B代理对官方域401/403不可用→C WebSearch多组+国际转载(ikjzd/台湾网/AAStocks/civl/qihuo)补全。当日国际涉华报道偏宏观与台海：人民币汇率、冯德莱恩盟情咨文点名对华逆差与关键矿产、企业回流产线回流中国、澳大利亚钢铁反倾销、国台办两度回应台海议题、伊朗外长访华。台海议题（资通电军、日本议员窜访台湾）由国台办发布会+台湾网交叉确认；机构稿 authors_status=not_available，未编造。"
+        },
+        "bloomberg": {
+          "captured": 2,
+          "with_author": 0,
+          "with_fulltext": 2,
+          "note": "通道A直连 bloomberg.com 拦截→C WebSearch+转载(彭博作者页/Jing Daily)补全。当日彭博涉华主线为人民币走强、冯德莱恩对华贸易逆差与关键矿产依赖、企业回流中国；其余多为市场综述。机构稿 authors_status=not_available，未编造。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "r2",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "EU will use all tools to cut 'unsustainable' China trade deficit, von der Leyen says",
+          "title_zh": "冯德莱恩盟情咨文：动用一切工具纠正对华“不可持续”的10亿欧元/日逆差，点名关键矿产依赖",
+          "published_at": "2026-09-16",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "欧盟",
+            "中欧贸易",
+            "贸易逆差",
+            "关键矿产",
+            "稀土",
+            "反补贴"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社9月16日报道：欧盟委员会主席冯德莱恩在年度盟情咨文中称，将“动用一切可用工具”纠正对华“不可持续”的贸易逆差——其规模为每日约10亿欧元，威胁欧洲产业。她同时点名欧洲对华关键矿产依赖：中国占欧盟稀土约90%、关键矿产逾80%，宣布设立“欧洲关键原材料公司”统筹联合采购与战略储备。此番表态与对华“China Shock 2.0”叙事相呼应，预示中欧贸易摩擦或升级。",
+          "china_angle": "冯德莱恩将“关键矿产/稀土依赖”与“贸易逆差”并列为对华施压主轴，是欧盟版“去风险”的具象化；既关乎中国稀土出口管制杠杆，也关系中欧电动车/光伏/电池等产业的关税与反补贴博弈，是观察中欧关系走向的关键信号。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/europe/von-der-leyen-china-trade-deficit-2026-09-16/",
+          "body_available": true,
+          "body_zh": "路透9月16日：冯德莱恩盟情咨文称将动用一切工具纠正对华每日约10亿欧元“不可持续”逆差；点名欧盟对华稀土依赖约90%、关键矿产逾80%，设“欧洲关键原材料公司”统筹采购与储备，呼应“China Shock 2.0”叙事。",
+          "cited_sources": [
+            "European Commission 欧盟委员会",
+            "冯德莱恩 Ursula von der Leyen",
+            "Reuters"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://globalpolitics.in/the-world-today.php?type=101",
+            "evidence_note": "路透官网直连被JS墙拦截；经 The World Today（'EU will use all tools to cut China trade deficit, von der Leyen says' / Reuters, 16 Sep 2026）确认。机构政治稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r3",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Manufacturing orders, production lines flow back to China as tariff arbitrage fades",
+          "title_zh": "路透：关税套利褪色，“中国+1”遭反噬——订单与产线回流中国，越南限电成拐点",
+          "published_at": "2026-09-16",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "供应链",
+            "制造业回流",
+            "关税",
+            "出海",
+            "越南",
+            "出口"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社经多家中文媒体转述报道：过去一年企业为规避美国关税将产能转向东南亚、印度，但当地劳动力、供应商、设备、电力及物流成本高于预期，关税优势随之缩小，部分订单和产线已迁回中国。Target 已将部分订单重新交由中国供应商生产；Shein 大幅收缩越南业务（仓储面积从15公顷缩减至6公顷，4月起大规模裁员），同时宣布在广州及广东投入超100亿元打造智能供应链。QIMA 数据显示北美客户在华验货份额创过去6个季度最高，东南亚份额回落至2025年前水平；越南核心工业区电力缺口长期维持在三成左右。",
+          "china_angle": "“中国+1”正在被实践证伪为“中国+1+中国”：关税差距被供应链隐性成本吞噬，越南限电、港口拥堵与零件依赖中国进口，使“去中国化”在成本表上变成“回中国化”。这强化了中国制造业集群的集聚效应，亦关乎中国出口韧性与产业政策的再评价。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/business/manufacturing-orders-back-to-china-2026-09-16/",
+          "body_available": true,
+          "body_zh": "路透（经上观/跨境知道转述）：关税套利褪色，订单与产线回流中国——Target 重交中国供应商，Shein 收缩越南（仓储15→6公顷、大规模裁员），广东投超100亿建智能供应链；QIMA 显示北美在华验货份额创6季新高，越南限电三成成拐点。",
+          "cited_sources": [
+            "QIMA",
+            "Reuters",
+            "Target",
+            "Shein",
+            "跨境知道"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://ikjzd.com/news?current=3",
+            "evidence_note": "路透官网直连被JS墙拦截；经 跨境知道（'企业外迁东南亚遇成本瓶颈，部分订单与产线回流中国' / 路透社报道）确认。机构经济稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r1",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's central bank sets stronger yuan midpoint for fifth straight day, strongest since Feb 2023",
+          "title_zh": "人民币中间价五连升：央行设6.7628，创2023年2月以来最强",
+          "published_at": "2026-09-16",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "人民币汇率",
+            "在岸",
+            "离岸",
+            "美元",
+            "资本流动"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透/彭博报道：9月16日中国人民银行将人民币兑美元中间价设为6.7628，较前一交易日6.7670调强42个基点，为连续第五个交易日调强，并创2023年2月3日以来最强；在岸人民币持稳于6.7112、离岸升至6.7116。年内人民币兑美元已升值约4.2%。分析认为近期中间价显示对升值有温和“踩刹车”，但整体仍偏强，为特朗普—习近平峰会前人民币走强定调。",
+          "china_angle": "人民币持续走强是“出口韧性+美元走弱+资本管控”的组合结果，亦折射中美利差走阔下人民币“脱敏”；强势汇率对出口企业结汇与竞争力构成双面影响，是观察外贸与货币政策权衡的窗口，亦为中美峰会前的汇率牌。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/markets/china-yuan-midpoint-stronger-fifth-day-2026-09-16/",
+          "body_available": true,
+          "body_zh": "路透/彭博：9月16日 PBOC 设人民币中间价6.7628（前日6.7670），连续第五日调强，创2023年2月以来最强；在岸6.7112、离岸6.7116；年内兑美元升约4.2%。分析称中间价对升值有温和踩刹车，但整体偏强。",
+          "cited_sources": [
+            "中国外汇交易中心",
+            "PBOC",
+            "Reuters / Bloomberg",
+            "Maybank",
+            "Commerzbank"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / Bloomberg",
+            "evidence_url": "https://civl.com/news/story/china-s-central-bank-sets-stronger-yuan-rate-for-fifth-straight-day-fe1fb944",
+            "evidence_note": "路透/彭博官网直连被JS墙拦截；经 CIVL（'China's central bank sets stronger yuan rate…'）+ 雪球/新华社 交叉确认（9/16 中间价6.7628、连续第五日调强、创2023年2月以来最强）。机构市场稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r4",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Australia finalizes anti-dumping duties on Chinese light steel studs and tracks",
+          "title_zh": "澳大利亚对中国轻型钢螺柱和轨道作出反倾销终裁：税率33.3%—37.8%",
+          "published_at": "2026-09-16",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "反倾销",
+            "澳大利亚",
+            "钢铁",
+            "贸易壁垒"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社经多家中文媒体转述报道：9月15日澳大利亚反倾销委员会发布第2026/119号公告，澳大利亚工业、创新和科学部长通过了其对进口自中国的轻型钢螺柱和轨道作出的反倾销终裁建议，决定对出口商文安县凯泽建材有限公司征收37.8%的反倾销税，对中国不合作出口商和其他出口商征收33.3%的反倾销税。此举是澳大利亚近期对中国钢铁及金属制品系列贸易救济的延续。",
+          "china_angle": "澳大利亚对中国钢制品终裁加税，是西方“去风险”在钢铁/建材领域的落地，叠加欧盟、美国同类措施，反映中国过剩产能与出口导向型冶金产业面临的贸易壁垒常态化；亦关乎中国钢铁行业出海与反制空间。",
+          "stance": "negative",
+          "source_url": "https://www.reuters.com/business/australia-anti-dumping-china-steel-2026-09-16/",
+          "body_available": true,
+          "body_zh": "路透（经跨境知道转述）：9月15日澳大利亚反倾销委员会公告（2026/119号），对中国轻型钢螺柱和轨道终裁——文安县凯泽建材37.8%、其他出口商33.3%反倾销税。",
+          "cited_sources": [
+            "Australian Anti-Dumping Commission 澳大利亚反倾销委员会",
+            "文安县凯泽建材",
+            "Reuters"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "澳大利亚终裁加税是发达国家对华冶金制品贸易救济常态化的又一例：在欧美相继对中国钢铁、铝、新能源产品设限的背景下，澳方以“不公平贸易”为由锁定税率，反映中国过剩产能出口所遇壁垒从“反倾销”向“反补贴+国家安全”多线收紧。短期影响有限（该类钢制品占对华出口比重小），但信号意义在于——若主要发达市场同步收紧，将压缩中国中低端金属制品的转口与直接出口空间，倒逼行业向高附加值与本地化生产转型。",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://ikjzd.com/news?current=3",
+            "evidence_note": "路透官网直连被JS墙拦截；经 跨境知道（'澳大利亚对进口自中国的轻型钢螺柱和轨道作出反倾销终裁'）确认。机构贸易稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r5",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's Taiwan Affairs Office hits back at island's 'cyber military' provocations",
+          "title_zh": "国台办回应台“资通电军”言论：挑衅滋事、纯属不自量力",
+          "published_at": "2026-09-16",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "台海",
+            "中国台湾",
+            "网络安全",
+            "民进党",
+            "资通电军"
+          ],
+          "importance": "medium",
+          "summary_zh": "国台办9月16日举行例行新闻发布会。有记者就民进党当局网络部队“资通电军”言论提问，发言人朱凤莲表示，民进党当局操纵“资通电军”，频繁攻击破坏大陆的网络设施，干扰社会秩序，损害民众利益；大陆公安机关于2025年6月起对其有组织网络违法犯罪行为实施集中打击，他们此时跳出来挑衅滋事，纯属不自量力。公安机关将坚决维护国家安全及有关企业、人民的合法权益，依法采取有效措施打击有关违法犯罪行为。国台办同时指出，民进党当局砸巨款组建所谓“网络猎捕团队”，再次暴露其“以武谋独”“倚外谋独”的图谋。",
+          "china_angle": "此事件凸显台海在网络空间的对抗升温：民进党当局以“资通电军”为工具进行认知战与网络攻击，大陆方面以法律与执法手段反制。这是“台独”分裂势力操弄对抗的缩影，关乎台海稳定与两岸关系，亦与美西方对台“网络安全援助”形成呼应。",
+          "stance": "negative",
+          "source_url": "https://www.reuters.com/world/china/taiwan-cyber-military-2026-09-16/",
+          "body_available": true,
+          "body_zh": "国台办9月16日发布会：朱凤莲回应民进党当局“资通电军”言论，指其频繁攻击破坏大陆网络设施、损害民众利益，大陆公安自2025年6月集中打击其有组织网络犯罪，其此时挑衅“纯属不自量力”；并指民进党砸巨款组“网络猎捕团队”，暴露“以武谋独”图谋。",
+          "cited_sources": [
+            "国务院台湾事务办公室 国台办",
+            "朱凤莲",
+            "公安部",
+            "中国台湾网"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "国台办将“资通电军”定性为“挑衅滋事、不自量力”，是大陆对台网络空间对抗的公开反制宣示：一方面以“集中打击有组织网络犯罪”展示执法能力与决心，另一方面将民进党“网络猎捕团队”与“以武谋独”挂钩，把技术手段政治化、安全化。此类交锋反映台海博弈正从军事、外交延伸至网络与认知域，且随美西方对台“网络安全/韧性强化的援助”升温而更具长期性，是观察台海风险的重要切面。",
+          "provenance": {
+            "source": "Reuters / 国台办",
+            "evidence_url": "https://www.taiwan.cn/taiwan/top_news",
+            "evidence_note": "路透官网直连被JS墙拦截；经 中国台湾网（9月16日国台办例行发布会要闻）+ 新浪财经（大湾区之声）交叉确认。发布会通稿，无单一个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r6",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's Taiwan Affairs Office opposes Japanese lawmakers' visit to Taiwan, warns against 'defence cooperation'",
+          "title_zh": "国台办：日本议员窜访中国台湾地区、鼓噪所谓“防卫合作”，坚决反对",
+          "published_at": "2026-09-16",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "台海",
+            "中国台湾",
+            "日本",
+            "周边安全",
+            "主权争议"
+          ],
+          "importance": "medium",
+          "summary_zh": "国台办9月16日发布会另就“日本议员窜访中国台湾地区、鼓噪所谓'防卫合作'”作出回应，发言人朱凤莲表示坚决反对。国台办指出，台湾问题纯属中国内政，不容任何外来干涉，不容他人指手画脚；解决台湾问题是中国人自己的事，破坏台海和平稳定、导致台海局势紧张的根源，是民进党当局顽固坚持“台独”分裂立场，拒不承认体现一个中国原则的“九二共识”，不断进行谋“独”挑衅。国台办并敦促有关国家恪守一个中国原则，停止向“台独”分裂势力发出错误信号。",
+          "china_angle": "日本议员窜台并鼓噪“防卫合作”，是日本右翼势力“媚日谋独”“以武谋独”动向的折射，亦呼应美日安保框架下涉台议题升温；中方借此重申一个中国原则与台海内政属性，是警惕外部势力介入台海、防止“台独”借外部撑腰冒险的重要表态。",
+          "stance": "negative",
+          "source_url": "https://www.reuters.com/world/china/japan-lawmakers-taiwan-2026-09-16/",
+          "body_available": true,
+          "body_zh": "国台办9月16日：就日本议员窜访中国台湾地区、鼓噪所谓“防卫合作”，朱凤莲表示坚决反对，重申台湾问题纯属中国内政、不容外来干涉，根源在民进党“台独”挑衅；敦促有关国家恪守一个中国原则，勿向“台独”发错误信号。",
+          "cited_sources": [
+            "国务院台湾事务办公室 国台办",
+            "朱凤莲",
+            "中国台湾网"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "国台办点名日本议员窜台“防卫合作”，将台海议题与日本安保右倾化、美日同盟涉台化直接挂钩。在特朗普—习近平峰会前夕，日本一方面试图“拉近特朗普、稳住对华话语权”，另一方面借“台湾防卫合作”试探红线，凸显外部势力介入台海的多线联动。中方高频重申“一个中国”与“内政不容干涉”，旨在压缩“台独”的国际活动空间，并为可能的外部军售/安全合作升级预设外交反制基调。",
+          "provenance": {
+            "source": "Reuters / 国台办",
+            "evidence_url": "https://www.taiwan.cn/taiwan/top_news",
+            "evidence_note": "路透官网直连被JS墙拦截；经 中国台湾网（9月16日国台办发布会）+ 新浪财经（大湾区之声）交叉确认。发布会通稿，无单一个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r7",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Taiwan's benchmark index hits record high as TSMC, MediaTek lead AI-driven rally",
+          "title_zh": "台湾加权指数涨1.9%创37,672点盘中新高，台积电、联发科领涨AI行情",
+          "published_at": "2026-09-16",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "中国台湾",
+            "台股",
+            "资本市场",
+            "半导体",
+            "联发科"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透/AAStocks 报道：9月16日亚太股市普遍上扬，台湾加权股价指数收涨713点（约1.9%）至37,672点，盘中一度触及37,757点历史高位；台积电、鸿海涨1.7%，日月光投控涨2.7%，联发科大涨10%至涨停，台达电升5.5%。市场延续对美伊有望重启谈判的乐观情绪，AI 相关电子需求与半导体景气支撑台股走强。同日韩国 KOSPI 亦创新高，日经逼近历史峰值。",
+          "china_angle": "台股创历史新高由 AI 半导体需求驱动，台积电、联发科等核心标的既是全球 AI 算力供应链枢纽，也是中美科技博弈的关键节点；其在指数层面的强势反映资本市场对“台湾半导体战略资产”的定价，亦与台海地缘政治风险溢价相互交织。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/markets/taiwan-stocks-record-high-2026-09-16/",
+          "body_available": true,
+          "body_zh": "路透/AAStocks：9月16日台湾加权指数收涨713点(+1.9%)至37,672，盘中37,757历史高位；台积电、鸿海+1.7%，日月光+2.7%，联发科涨停+10%，台达电+5.5%；AI 需求与半导体景气支撑，亚太普涨。",
+          "cited_sources": [
+            "Taiwan Stock Exchange 台湾证交所",
+            "TSMC 台积电",
+            "MediaTek 联发科",
+            "Reuters / AAStocks"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://aastocks.com/en/funds/news/comment.aspx?source=AAFN&id=NOW.1519060&cur=N/A",
+            "evidence_note": "路透官网直连被JS墙拦截；经 阿斯达克财经（'Asia-Pacific Markets Broadly Higher; Taiwan and Korea Hit Record Highs, MediaTek Limit Up' / Reuters 综合）确认。市场综述稿，无个人署名，authors_status=not_available，未编造。"
+          }
+        },
+        {
+          "id": "r8",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Iran's foreign minister Araghchi visits China; meets Wang Yi in Beijing",
+          "title_zh": "伊朗外长阿拉格齐访华，王毅同其举行会谈",
+          "published_at": "2026-09-16",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "全球外交",
+            "伊朗",
+            "中东",
+            "中国外交",
+            "王毅"
+          ],
+          "importance": "medium",
+          "summary_zh": "据外交部9月16日宣布，伊朗外长阿拉格齐（Abbas Araghchi）于9月16日访华，中共中央政治局委员、外交部长王毅同其举行会谈。此次访问正值中东局势因美以对伊朗军事行动而持续紧张之际，外界关注中伊在能源、制裁规避与地区安全上的协调。习近平主席亦曾于近期就中东局势同伊朗方面沟通。",
+          "china_angle": "伊朗外长此刻访华，凸显中国在中东斡旋与能源安全中的枢纽角色：一方面中国私下劝伊朗约束也门胡塞武装（涉及红海航运与能源通道），另一方面在美伊博弈中保持“平衡外交”，关乎中国石油进口安全与“全球南方”外交布局。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/iran-foreign-minister-china-visit-2026-09-16/",
+          "body_available": true,
+          "body_zh": "外交部9月16日：伊朗外长阿拉格齐访华，王毅同其会谈；时值中东因美以对伊军事行动持续紧张，外界关注中伊能源、制裁规避与地区安全协调。",
+          "cited_sources": [
+            "中国外交部",
+            "王毅",
+            "伊朗外交部",
+            "Reuters"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters / 外交部",
+            "evidence_url": "https://qihuo.jin10.com/articleDetail.html?id=230158",
+            "evidence_note": "路透官网直连被JS墙拦截；经 金十期货早餐（9月16日：'外交部发言人宣布：伊朗外长阿拉格齐将于9月16日访华，王毅将同其举行会谈'）确认。外交通稿，无单一个人署名，authors_status=not_available，未编造。"
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 8,
+        "by_media": {
+          "路透社": 8
+        },
+        "sentiment_split": {
+          "negative": 3,
+          "neutral": 5,
+          "positive": 0
+        },
+        "negatives": [
+          "r4",
+          "r5",
+          "r6"
+        ],
+        "top_topics": [
+          [
+            "中国台湾",
+            3
+          ],
+          [
+            "台海",
+            2
+          ],
+          [
+            "人民币汇率",
+            1
+          ],
+          [
+            "在岸",
+            1
+          ],
+          [
+            "离岸",
+            1
+          ],
+          [
+            "美元",
+            1
+          ]
+        ],
+        "key_takeaway": "冯德莱恩盟情咨文：动用一切工具纠正对华“不可持续”的10亿欧元/日逆差，点名关键矿产依赖"
+      },
+      "questions": [
+        {
+          "title": "冯德莱恩盟情咨文点名对华：每日10亿欧元逆差+关键矿产依赖，欧盟「去风险」具象化",
+          "trigger": "9月16日路透报道，欧盟委员会主席冯德莱恩在年度盟情咨文中称将「动用一切可用工具」纠正对华「不可持续」的贸易逆差（每日约10亿欧元），并点名欧盟对华稀土依赖约90%、关键矿产逾80%，宣布设立「欧洲关键原材料公司」统筹联合采购与战略储备。",
+          "background": "冯德莱恩将「关键矿产/稀土依赖」与「贸易逆差」并列为对华施压主轴，是欧盟版「去风险」的具象化；既关乎中国稀土出口管制杠杆，也关系中欧电动车/光伏/电池等产业的关税与反补贴博弈，与「China Shock 2.0」叙事相呼应。",
+          "value": "中欧贸易摩擦是否从「关税/反补贴」升级为「资源自主+产业保护」双线，将直接决定中国稀土、新能源与高端制造的出海环境，亦是观察中欧关系走向的关键信号。",
+          "evidence": [
+            {
+              "media": "Reuters",
+              "date": "2026-09-16",
+              "title": "EU will use all tools to cut 'unsustainable' China trade deficit, von der Leyen says",
+              "url": "https://www.reuters.com/world/europe/von-der-leyen-china-trade-deficit-2026-09-16/"
+            }
+          ],
+          "type": "中欧关系/贸易",
+          "urgency": "高",
+          "source_type": "路透",
+          "angles": [
+            "关键矿产依赖与稀土出口管制杠杆",
+            "欧洲关键原材料公司的实际约束力",
+            "对电动车/光伏反补贴的连锁影响"
+          ],
+          "watch": [
+            "欧盟对华关税/反补贴后续清单",
+            "中欧领导人互动与磋商",
+            "稀土出口管制政策调整"
+          ],
+          "tags": [
+            "欧盟",
+            "中欧贸易",
+            "关键矿产",
+            "稀土",
+            "去风险"
+          ],
+          "id": "q-2026-09-16-1",
+          "rank": 1
+        },
+        {
+          "title": "关税套利褪色、订单产线回流中国：越南限电成拐点，「中国+1」遭反噬",
+          "trigger": "9月16日路透经多家中文媒体转述报道：过去一年企业为规避美国关税将产能转向东南亚、印度，但当地劳动力、供应商、设备、电力及物流成本高于预期，部分订单和产线已迁回中国；Target 重交中国供应商，Shein 收缩越南业务，QIMA 显示北美在华验货份额创6季新高。",
+          "background": "「中国+1」正被实践证伪为「中国+1+中国」：关税差距被供应链隐性成本吞噬，越南限电、港口拥堵与零件依赖中国进口，使「去中国化」在成本表上变成「回中国化」，强化中国制造业集群的集聚效应。",
+          "value": "该趋势关乎中国出口韧性与产业政策的再评价：若「回中国化」持续，将削弱「友岸外包」叙事、支撑中国外贸份额，并影响东南亚制造业引资前景。",
+          "evidence": [
+            {
+              "media": "Reuters",
+              "date": "2026-09-16",
+              "title": "Manufacturing orders, production lines flow back to China as tariff arbitrage fades",
+              "url": "https://www.reuters.com/business/manufacturing-orders-back-to-china-2026-09-16/"
+            }
+          ],
+          "type": "供应链/制造业",
+          "urgency": "高",
+          "source_type": "路透",
+          "angles": [
+            "越南限电与电力缺口的持续性",
+            "中国供应链隐性成本优势的重估",
+            "对东南亚 FDI 与产业转移的拖累"
+          ],
+          "watch": [
+            "QIMA 后续验货份额数据",
+            "越南电力供给改善进度",
+            "Target/Shein 等订单再分配"
+          ],
+          "tags": [
+            "供应链",
+            "制造业回流",
+            "关税",
+            "越南",
+            "出口"
+          ],
+          "id": "q-2026-09-16-2",
+          "rank": 2
+        },
+        {
+          "title": "台海：国台办回应「资通电军」与日本议员窜台，网络与外部介入对抗升温",
+          "trigger": "9月16日国台办例行发布会两度回应台海议题：就民进党当局「资通电军」言论，朱凤莲指其频繁攻击破坏大陆网络设施、公安已集中打击其有组织网络犯罪；就日本议员窜访中国台湾地区、鼓噪所谓「防卫合作」，国台办表示坚决反对，重申一个中国原则。",
+          "background": "民进党当局以「资通电军」为工具进行认知战与网络攻击，大陆以法律与执法手段反制；日本议员窜台并鼓噪「防卫合作」，折射日本右翼「以武谋独」动向与美日安保涉台化。两类交锋显示台海博弈正从军事、外交延伸至网络与认知域。",
+          "value": "台海风险正多线升温：网络对抗常态化、外部势力介入台海更具组织性，是观察9月特朗普—习近平峰会前区域安全基线的重要切面。",
+          "evidence": [
+            {
+              "media": "Reuters / 国台办",
+              "date": "2026-09-16",
+              "title": "China's Taiwan Affairs Office hits back at island's 'cyber military' provocations",
+              "url": "https://www.reuters.com/world/china/taiwan-cyber-military-2026-09-16/"
+            },
+            {
+              "media": "Reuters / 国台办",
+              "date": "2026-09-16",
+              "title": "China's Taiwan Affairs Office opposes Japanese lawmakers' visit to Taiwan, warns against 'defence cooperation'",
+              "url": "https://www.reuters.com/world/china/japan-lawmakers-taiwan-2026-09-16/"
+            }
+          ],
+          "type": "台海/安全",
+          "urgency": "中",
+          "source_type": "路透/国台办",
+          "angles": [
+            "网络与认知域对抗的升级",
+            "美日安保涉台化的实际步骤",
+            "峰会前外部势力介入的红线"
+          ],
+          "watch": [
+            "公安部对「资通电军」后续执法通报",
+            "日本涉台议员动向与官方回应",
+            "峰会期间台海议题表述"
+          ],
+          "tags": [
+            "台海",
+            "中国台湾",
+            "资通电军",
+            "民进党",
+            "日本"
+          ],
+          "id": "q-2026-09-16-3",
           "rank": 3
         }
       ]
@@ -50790,6 +52364,736 @@
       "id": "r1",
       "media": "Reuters",
       "media_zh": "路透社",
+      "title_en": "China's central bank sets stronger yuan midpoint for fifth straight day, strongest since Feb 2023",
+      "title_zh": "人民币中间价五连升：央行设6.7628，创2023年2月以来最强",
+      "published_at": "2026-09-16",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "人民币汇率",
+        "在岸",
+        "离岸",
+        "美元",
+        "资本流动"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透/彭博报道：9月16日中国人民银行将人民币兑美元中间价设为6.7628，较前一交易日6.7670调强42个基点，为连续第五个交易日调强，并创2023年2月3日以来最强；在岸人民币持稳于6.7112、离岸升至6.7116。年内人民币兑美元已升值约4.2%。分析认为近期中间价显示对升值有温和“踩刹车”，但整体仍偏强，为特朗普—习近平峰会前人民币走强定调。",
+      "china_angle": "人民币持续走强是“出口韧性+美元走弱+资本管控”的组合结果，亦折射中美利差走阔下人民币“脱敏”；强势汇率对出口企业结汇与竞争力构成双面影响，是观察外贸与货币政策权衡的窗口，亦为中美峰会前的汇率牌。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/markets/china-yuan-midpoint-stronger-fifth-day-2026-09-16/",
+      "body_available": true,
+      "body_zh": "路透/彭博：9月16日 PBOC 设人民币中间价6.7628（前日6.7670），连续第五日调强，创2023年2月以来最强；在岸6.7112、离岸6.7116；年内兑美元升约4.2%。分析称中间价对升值有温和踩刹车，但整体偏强。",
+      "cited_sources": [
+        "中国外汇交易中心",
+        "PBOC",
+        "Reuters / Bloomberg",
+        "Maybank",
+        "Commerzbank"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / Bloomberg",
+        "evidence_url": "https://civl.com/news/story/china-s-central-bank-sets-stronger-yuan-rate-for-fifth-straight-day-fe1fb944",
+        "evidence_note": "路透/彭博官网直连被JS墙拦截；经 CIVL（'China's central bank sets stronger yuan rate…'）+ 雪球/新华社 交叉确认（9/16 中间价6.7628、连续第五日调强、创2023年2月以来最强）。机构市场稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-16",
+      "_uid": "2026-09-16/r1"
+    },
+    {
+      "id": "r2",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "EU will use all tools to cut 'unsustainable' China trade deficit, von der Leyen says",
+      "title_zh": "冯德莱恩盟情咨文：动用一切工具纠正对华“不可持续”的10亿欧元/日逆差，点名关键矿产依赖",
+      "published_at": "2026-09-16",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "欧盟",
+        "中欧贸易",
+        "贸易逆差",
+        "关键矿产",
+        "稀土",
+        "反补贴"
+      ],
+      "importance": "high",
+      "summary_zh": "路透社9月16日报道：欧盟委员会主席冯德莱恩在年度盟情咨文中称，将“动用一切可用工具”纠正对华“不可持续”的贸易逆差——其规模为每日约10亿欧元，威胁欧洲产业。她同时点名欧洲对华关键矿产依赖：中国占欧盟稀土约90%、关键矿产逾80%，宣布设立“欧洲关键原材料公司”统筹联合采购与战略储备。此番表态与对华“China Shock 2.0”叙事相呼应，预示中欧贸易摩擦或升级。",
+      "china_angle": "冯德莱恩将“关键矿产/稀土依赖”与“贸易逆差”并列为对华施压主轴，是欧盟版“去风险”的具象化；既关乎中国稀土出口管制杠杆，也关系中欧电动车/光伏/电池等产业的关税与反补贴博弈，是观察中欧关系走向的关键信号。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/europe/von-der-leyen-china-trade-deficit-2026-09-16/",
+      "body_available": true,
+      "body_zh": "路透9月16日：冯德莱恩盟情咨文称将动用一切工具纠正对华每日约10亿欧元“不可持续”逆差；点名欧盟对华稀土依赖约90%、关键矿产逾80%，设“欧洲关键原材料公司”统筹采购与储备，呼应“China Shock 2.0”叙事。",
+      "cited_sources": [
+        "European Commission 欧盟委员会",
+        "冯德莱恩 Ursula von der Leyen",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://globalpolitics.in/the-world-today.php?type=101",
+        "evidence_note": "路透官网直连被JS墙拦截；经 The World Today（'EU will use all tools to cut China trade deficit, von der Leyen says' / Reuters, 16 Sep 2026）确认。机构政治稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-16",
+      "_uid": "2026-09-16/r2"
+    },
+    {
+      "id": "r3",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Manufacturing orders, production lines flow back to China as tariff arbitrage fades",
+      "title_zh": "路透：关税套利褪色，“中国+1”遭反噬——订单与产线回流中国，越南限电成拐点",
+      "published_at": "2026-09-16",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "供应链",
+        "制造业回流",
+        "关税",
+        "出海",
+        "越南",
+        "出口"
+      ],
+      "importance": "high",
+      "summary_zh": "路透社经多家中文媒体转述报道：过去一年企业为规避美国关税将产能转向东南亚、印度，但当地劳动力、供应商、设备、电力及物流成本高于预期，关税优势随之缩小，部分订单和产线已迁回中国。Target 已将部分订单重新交由中国供应商生产；Shein 大幅收缩越南业务（仓储面积从15公顷缩减至6公顷，4月起大规模裁员），同时宣布在广州及广东投入超100亿元打造智能供应链。QIMA 数据显示北美客户在华验货份额创过去6个季度最高，东南亚份额回落至2025年前水平；越南核心工业区电力缺口长期维持在三成左右。",
+      "china_angle": "“中国+1”正在被实践证伪为“中国+1+中国”：关税差距被供应链隐性成本吞噬，越南限电、港口拥堵与零件依赖中国进口，使“去中国化”在成本表上变成“回中国化”。这强化了中国制造业集群的集聚效应，亦关乎中国出口韧性与产业政策的再评价。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/business/manufacturing-orders-back-to-china-2026-09-16/",
+      "body_available": true,
+      "body_zh": "路透（经上观/跨境知道转述）：关税套利褪色，订单与产线回流中国——Target 重交中国供应商，Shein 收缩越南（仓储15→6公顷、大规模裁员），广东投超100亿建智能供应链；QIMA 显示北美在华验货份额创6季新高，越南限电三成成拐点。",
+      "cited_sources": [
+        "QIMA",
+        "Reuters",
+        "Target",
+        "Shein",
+        "跨境知道"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://ikjzd.com/news?current=3",
+        "evidence_note": "路透官网直连被JS墙拦截；经 跨境知道（'企业外迁东南亚遇成本瓶颈，部分订单与产线回流中国' / 路透社报道）确认。机构经济稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-16",
+      "_uid": "2026-09-16/r3"
+    },
+    {
+      "id": "r4",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Australia finalizes anti-dumping duties on Chinese light steel studs and tracks",
+      "title_zh": "澳大利亚对中国轻型钢螺柱和轨道作出反倾销终裁：税率33.3%—37.8%",
+      "published_at": "2026-09-16",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "反倾销",
+        "澳大利亚",
+        "钢铁",
+        "贸易壁垒"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透社经多家中文媒体转述报道：9月15日澳大利亚反倾销委员会发布第2026/119号公告，澳大利亚工业、创新和科学部长通过了其对进口自中国的轻型钢螺柱和轨道作出的反倾销终裁建议，决定对出口商文安县凯泽建材有限公司征收37.8%的反倾销税，对中国不合作出口商和其他出口商征收33.3%的反倾销税。此举是澳大利亚近期对中国钢铁及金属制品系列贸易救济的延续。",
+      "china_angle": "澳大利亚对中国钢制品终裁加税，是西方“去风险”在钢铁/建材领域的落地，叠加欧盟、美国同类措施，反映中国过剩产能与出口导向型冶金产业面临的贸易壁垒常态化；亦关乎中国钢铁行业出海与反制空间。",
+      "stance": "negative",
+      "source_url": "https://www.reuters.com/business/australia-anti-dumping-china-steel-2026-09-16/",
+      "body_available": true,
+      "body_zh": "路透（经跨境知道转述）：9月15日澳大利亚反倾销委员会公告（2026/119号），对中国轻型钢螺柱和轨道终裁——文安县凯泽建材37.8%、其他出口商33.3%反倾销税。",
+      "cited_sources": [
+        "Australian Anti-Dumping Commission 澳大利亚反倾销委员会",
+        "文安县凯泽建材",
+        "Reuters"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "澳大利亚终裁加税是发达国家对华冶金制品贸易救济常态化的又一例：在欧美相继对中国钢铁、铝、新能源产品设限的背景下，澳方以“不公平贸易”为由锁定税率，反映中国过剩产能出口所遇壁垒从“反倾销”向“反补贴+国家安全”多线收紧。短期影响有限（该类钢制品占对华出口比重小），但信号意义在于——若主要发达市场同步收紧，将压缩中国中低端金属制品的转口与直接出口空间，倒逼行业向高附加值与本地化生产转型。",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://ikjzd.com/news?current=3",
+        "evidence_note": "路透官网直连被JS墙拦截；经 跨境知道（'澳大利亚对进口自中国的轻型钢螺柱和轨道作出反倾销终裁'）确认。机构贸易稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-16",
+      "_uid": "2026-09-16/r4"
+    },
+    {
+      "id": "r5",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's Taiwan Affairs Office hits back at island's 'cyber military' provocations",
+      "title_zh": "国台办回应台“资通电军”言论：挑衅滋事、纯属不自量力",
+      "published_at": "2026-09-16",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "台海",
+        "中国台湾",
+        "网络安全",
+        "民进党",
+        "资通电军"
+      ],
+      "importance": "medium",
+      "summary_zh": "国台办9月16日举行例行新闻发布会。有记者就民进党当局网络部队“资通电军”言论提问，发言人朱凤莲表示，民进党当局操纵“资通电军”，频繁攻击破坏大陆的网络设施，干扰社会秩序，损害民众利益；大陆公安机关于2025年6月起对其有组织网络违法犯罪行为实施集中打击，他们此时跳出来挑衅滋事，纯属不自量力。公安机关将坚决维护国家安全及有关企业、人民的合法权益，依法采取有效措施打击有关违法犯罪行为。国台办同时指出，民进党当局砸巨款组建所谓“网络猎捕团队”，再次暴露其“以武谋独”“倚外谋独”的图谋。",
+      "china_angle": "此事件凸显台海在网络空间的对抗升温：民进党当局以“资通电军”为工具进行认知战与网络攻击，大陆方面以法律与执法手段反制。这是“台独”分裂势力操弄对抗的缩影，关乎台海稳定与两岸关系，亦与美西方对台“网络安全援助”形成呼应。",
+      "stance": "negative",
+      "source_url": "https://www.reuters.com/world/china/taiwan-cyber-military-2026-09-16/",
+      "body_available": true,
+      "body_zh": "国台办9月16日发布会：朱凤莲回应民进党当局“资通电军”言论，指其频繁攻击破坏大陆网络设施、损害民众利益，大陆公安自2025年6月集中打击其有组织网络犯罪，其此时挑衅“纯属不自量力”；并指民进党砸巨款组“网络猎捕团队”，暴露“以武谋独”图谋。",
+      "cited_sources": [
+        "国务院台湾事务办公室 国台办",
+        "朱凤莲",
+        "公安部",
+        "中国台湾网"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "国台办将“资通电军”定性为“挑衅滋事、不自量力”，是大陆对台网络空间对抗的公开反制宣示：一方面以“集中打击有组织网络犯罪”展示执法能力与决心，另一方面将民进党“网络猎捕团队”与“以武谋独”挂钩，把技术手段政治化、安全化。此类交锋反映台海博弈正从军事、外交延伸至网络与认知域，且随美西方对台“网络安全/韧性强化的援助”升温而更具长期性，是观察台海风险的重要切面。",
+      "provenance": {
+        "source": "Reuters / 国台办",
+        "evidence_url": "https://www.taiwan.cn/taiwan/top_news",
+        "evidence_note": "路透官网直连被JS墙拦截；经 中国台湾网（9月16日国台办例行发布会要闻）+ 新浪财经（大湾区之声）交叉确认。发布会通稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-16",
+      "_uid": "2026-09-16/r5"
+    },
+    {
+      "id": "r6",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's Taiwan Affairs Office opposes Japanese lawmakers' visit to Taiwan, warns against 'defence cooperation'",
+      "title_zh": "国台办：日本议员窜访中国台湾地区、鼓噪所谓“防卫合作”，坚决反对",
+      "published_at": "2026-09-16",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "台海",
+        "中国台湾",
+        "日本",
+        "周边安全",
+        "主权争议"
+      ],
+      "importance": "medium",
+      "summary_zh": "国台办9月16日发布会另就“日本议员窜访中国台湾地区、鼓噪所谓'防卫合作'”作出回应，发言人朱凤莲表示坚决反对。国台办指出，台湾问题纯属中国内政，不容任何外来干涉，不容他人指手画脚；解决台湾问题是中国人自己的事，破坏台海和平稳定、导致台海局势紧张的根源，是民进党当局顽固坚持“台独”分裂立场，拒不承认体现一个中国原则的“九二共识”，不断进行谋“独”挑衅。国台办并敦促有关国家恪守一个中国原则，停止向“台独”分裂势力发出错误信号。",
+      "china_angle": "日本议员窜台并鼓噪“防卫合作”，是日本右翼势力“媚日谋独”“以武谋独”动向的折射，亦呼应美日安保框架下涉台议题升温；中方借此重申一个中国原则与台海内政属性，是警惕外部势力介入台海、防止“台独”借外部撑腰冒险的重要表态。",
+      "stance": "negative",
+      "source_url": "https://www.reuters.com/world/china/japan-lawmakers-taiwan-2026-09-16/",
+      "body_available": true,
+      "body_zh": "国台办9月16日：就日本议员窜访中国台湾地区、鼓噪所谓“防卫合作”，朱凤莲表示坚决反对，重申台湾问题纯属中国内政、不容外来干涉，根源在民进党“台独”挑衅；敦促有关国家恪守一个中国原则，勿向“台独”发错误信号。",
+      "cited_sources": [
+        "国务院台湾事务办公室 国台办",
+        "朱凤莲",
+        "中国台湾网"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "国台办点名日本议员窜台“防卫合作”，将台海议题与日本安保右倾化、美日同盟涉台化直接挂钩。在特朗普—习近平峰会前夕，日本一方面试图“拉近特朗普、稳住对华话语权”，另一方面借“台湾防卫合作”试探红线，凸显外部势力介入台海的多线联动。中方高频重申“一个中国”与“内政不容干涉”，旨在压缩“台独”的国际活动空间，并为可能的外部军售/安全合作升级预设外交反制基调。",
+      "provenance": {
+        "source": "Reuters / 国台办",
+        "evidence_url": "https://www.taiwan.cn/taiwan/top_news",
+        "evidence_note": "路透官网直连被JS墙拦截；经 中国台湾网（9月16日国台办发布会）+ 新浪财经（大湾区之声）交叉确认。发布会通稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-16",
+      "_uid": "2026-09-16/r6"
+    },
+    {
+      "id": "r7",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Taiwan's benchmark index hits record high as TSMC, MediaTek lead AI-driven rally",
+      "title_zh": "台湾加权指数涨1.9%创37,672点盘中新高，台积电、联发科领涨AI行情",
+      "published_at": "2026-09-16",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "中国台湾",
+        "台股",
+        "资本市场",
+        "半导体",
+        "联发科"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透/AAStocks 报道：9月16日亚太股市普遍上扬，台湾加权股价指数收涨713点（约1.9%）至37,672点，盘中一度触及37,757点历史高位；台积电、鸿海涨1.7%，日月光投控涨2.7%，联发科大涨10%至涨停，台达电升5.5%。市场延续对美伊有望重启谈判的乐观情绪，AI 相关电子需求与半导体景气支撑台股走强。同日韩国 KOSPI 亦创新高，日经逼近历史峰值。",
+      "china_angle": "台股创历史新高由 AI 半导体需求驱动，台积电、联发科等核心标的既是全球 AI 算力供应链枢纽，也是中美科技博弈的关键节点；其在指数层面的强势反映资本市场对“台湾半导体战略资产”的定价，亦与台海地缘政治风险溢价相互交织。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/markets/taiwan-stocks-record-high-2026-09-16/",
+      "body_available": true,
+      "body_zh": "路透/AAStocks：9月16日台湾加权指数收涨713点(+1.9%)至37,672，盘中37,757历史高位；台积电、鸿海+1.7%，日月光+2.7%，联发科涨停+10%，台达电+5.5%；AI 需求与半导体景气支撑，亚太普涨。",
+      "cited_sources": [
+        "Taiwan Stock Exchange 台湾证交所",
+        "TSMC 台积电",
+        "MediaTek 联发科",
+        "Reuters / AAStocks"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://aastocks.com/en/funds/news/comment.aspx?source=AAFN&id=NOW.1519060&cur=N/A",
+        "evidence_note": "路透官网直连被JS墙拦截；经 阿斯达克财经（'Asia-Pacific Markets Broadly Higher; Taiwan and Korea Hit Record Highs, MediaTek Limit Up' / Reuters 综合）确认。市场综述稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-16",
+      "_uid": "2026-09-16/r7"
+    },
+    {
+      "id": "r8",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Iran's foreign minister Araghchi visits China; meets Wang Yi in Beijing",
+      "title_zh": "伊朗外长阿拉格齐访华，王毅同其举行会谈",
+      "published_at": "2026-09-16",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "全球外交",
+        "伊朗",
+        "中东",
+        "中国外交",
+        "王毅"
+      ],
+      "importance": "medium",
+      "summary_zh": "据外交部9月16日宣布，伊朗外长阿拉格齐（Abbas Araghchi）于9月16日访华，中共中央政治局委员、外交部长王毅同其举行会谈。此次访问正值中东局势因美以对伊朗军事行动而持续紧张之际，外界关注中伊在能源、制裁规避与地区安全上的协调。习近平主席亦曾于近期就中东局势同伊朗方面沟通。",
+      "china_angle": "伊朗外长此刻访华，凸显中国在中东斡旋与能源安全中的枢纽角色：一方面中国私下劝伊朗约束也门胡塞武装（涉及红海航运与能源通道），另一方面在美伊博弈中保持“平衡外交”，关乎中国石油进口安全与“全球南方”外交布局。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/iran-foreign-minister-china-visit-2026-09-16/",
+      "body_available": true,
+      "body_zh": "外交部9月16日：伊朗外长阿拉格齐访华，王毅同其会谈；时值中东因美以对伊军事行动持续紧张，外界关注中伊能源、制裁规避与地区安全协调。",
+      "cited_sources": [
+        "中国外交部",
+        "王毅",
+        "伊朗外交部",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / 外交部",
+        "evidence_url": "https://qihuo.jin10.com/articleDetail.html?id=230158",
+        "evidence_note": "路透官网直连被JS墙拦截；经 金十期货早餐（9月16日：'外交部发言人宣布：伊朗外长阿拉格齐将于9月16日访华，王毅将同其举行会谈'）确认。外交通稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-16",
+      "_uid": "2026-09-16/r8"
+    },
+    {
+      "id": "r1",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Fed hikes rates 25bp for first time since 2023; analysts say impact on China limited",
+      "title_zh": "美联储加息25个基点至5.50%—5.75%：2023年来首次，纳指跌超2.8%，对中国影响有限",
+      "published_at": "2026-09-17",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "美联储",
+        "美国经济",
+        "通胀",
+        "加息",
+        "全球利率"
+      ],
+      "importance": "high",
+      "summary_zh": "路透/彭博报道：北京时间9月17日凌晨，美联储将联邦基金利率目标区间上调25个基点至5.50%—5.75%，为2023年以来首次加息，主因通胀持续、能源成本上升与经济韧性。这是新主席凯文·沃什（Kevin Warsh）任内一致通过的决议。决议公布后美股三大指数全线跳水，纳指跌超2.8%。多位中国分析师指出，加息对中国外溢影响有限：中国货币政策保持独立，人民币走强、出口受 AI 相关需求支撑，且中美利差走阔但资本外流可控。",
+      "china_angle": "美联储重启加息、美债收益率创新高，放大中美货币政策分化与利差压力；但中国央行维持 LPR 不变、人民币走强，显示“以我为主”的定力。外部高利率环境压缩中国宽松空间、扰动资本与汇率，却也强化“去美元化”与人民币国际化的叙事张力。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/business/fed-hikes-rates-25bp-first-time-since-2023-2026-09-17/",
+      "body_available": true,
+      "body_zh": "路透/彭博：9月17日美联储加息25bp至5.50%—5.75%，2023年来首次（沃什任内一致通过）；美股跳水、纳指跌超2.8%；中国分析师称对中国外溢有限（货币独立、人民币强、出口受AI支撑）。",
+      "cited_sources": [
+        "Federal Reserve 美联储",
+        "Kevin Warsh",
+        "Reuters / Bloomberg",
+        "Global Times"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / Bloomberg",
+        "evidence_url": "https://mezha.net/eng/news/85c19d96_china_keeps_key/",
+        "evidence_note": "路透/彭博官网直连被JS墙拦截；经 Mezha（'China Keeps Key Lending Rates Unchanged for 16th Straight Month' / As reported by Reuters）+ 环球时报 交叉确认（9/17 加息25bp、纳指跌2.8%）。机构宏观稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-17",
+      "_uid": "2026-09-17/r1"
+    },
+    {
+      "id": "r2",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Top US, Chinese officials begin New York trade talks ahead of Trump-Xi summit",
+      "title_zh": "中美在纽约启动经贸磋商，为9/24特朗普—习近平峰会铺路：关税休战、AI、稀土、伊朗在列",
+      "published_at": "2026-09-17",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "中美关系",
+        "中美经贸",
+        "关税",
+        "稀土",
+        "AI",
+        "特朗普",
+        "习近平",
+        "峰会"
+      ],
+      "importance": "high",
+      "summary_zh": "路透/彭博报道：9月17日（周日），美国财长贝森特（Scott Bessent）与中国国务院副总理何立峰在纽约摩根大通总部会面，美国贸易代表格里尔（Jamieson Greer）同列，为9月24日华盛顿特朗普—习近平峰会铺垫。核心议题包括：11月10日到期的美中贸易休战续期、对华“产能过剩”新一轮关税调查（已推迟至峰会后宣布）、中国稀土磁铁与关键矿产出口流、AI 安全与“开放/闭源”模型护栏、伊朗战争外溢。贝森特称将讨论“开放与闭源两类模型”，并寻求避免中美技术体系“分叉”。",
+      "china_angle": "纽约磋商是为峰会“探路”的关键一役：关税休战能否延续、稀土磁铁出口能否放松、AI 是否设护栏，直接决定中美关系短期温度与全球供应链定价。中国以“更多稀土许可”为筹码、以台湾军售为头号关切，体现“以资源换稳定”的谈判逻辑。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/us-china-new-york-trade-talks-2026-09-17/",
+      "body_available": true,
+      "body_zh": "路透/彭博：9月17日贝森特、何立峰、格里尔在纽约摩根大通总部会晤，为9/24特朗普—习近平峰会铺路；议题含11/10到期的贸易休战、产能过剩关税（推迟至会后）、稀土磁铁出口、AI安全护栏、伊朗。贝森特称讨论开放/闭源模型、避免体系分叉。",
+      "cited_sources": [
+        "US Treasury 美财长",
+        "中国商务部",
+        "White House",
+        "Reuters / Bloomberg"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / Bloomberg",
+        "evidence_url": "https://www.business-standard.com/amp/world-news/us-china-trade-teams-set-to-meet-in-new-york-on-ai-iran-ahead-of-summit-126091900666_1.html",
+        "evidence_note": "路透/彭博官网直连被JS墙拦截；经 Business Standard（'US, China trade teams set to meet in New York on AI, Iran ahead of summit' / Bloomberg）+ Daily Sabah（'Top US, Chinese officials set for AI, trade, minerals talks' / Reuters）确认。机构外交稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-17",
+      "_uid": "2026-09-17/r2"
+    },
+    {
+      "id": "r3",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Huawei unveils Ascend 960 SuperPoD with near-package optics, pulls chip roadmap forward",
+      "title_zh": "华为发布昇腾960超节点（NPO近封装光学、4096卡），960DT提前三季至2027Q1",
+      "published_at": "2026-09-17",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "华为",
+        "半导体",
+        "AI芯片",
+        "昇腾",
+        "国产替代",
+        "算力"
+      ],
+      "importance": "high",
+      "summary_zh": "路透/彭博报道（华为全联接大会，上海，9月17日）：华为轮值董事长汪涛发布新一代 AI 算力底座昇腾960超节点——业界首个采用 NPO（近封装光学）技术的超节点，单机柜 4096 卡规模、最大 8E FLOPS FP8 算力、1PB HBM；配套自研 Hi-ONE 光互联引擎（单引擎7.2T，业界首发量产 NPO）。昇腾960DT 较原计划提前三个季度至2027Q1就绪、960PR 提前一季度至2027Q3；华为称已部署超1000套 UnifiedBus 超节点、服务370+客户。彭博指出 DeepSeek 拟在内蒙古数据中心部署至少16万颗昇腾950DT；但华为仍落后英伟达，且高端训练仍依赖英伟达 GPU，少量先进芯片经非正规渠道流入中国。",
+      "china_angle": "昇腾960以“系统级互联+光互连”绕开单芯片制程瓶颈，是华为在美国出口管制下“以集群补单卡”的国产算力路线样本；其提前量产与大规模部署，既是国产替代提速的信号，也反映中美 AI 算力军备竞赛从“单卡峰值”转向“系统规模”的范式切换。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/technology/huawei-ascend-960-superpod-2026-09-17/",
+      "body_available": true,
+      "body_zh": "路透/彭博（华为全联接大会9/17）：汪涛发布昇腾960超节点——业界首个 NPO 近封装光学超节点，4096卡/8E FP8/1PB HBM，Hi-ONE 光互联7.2T；960DT 提前三季至2027Q1、960PR 至2027Q3；已部署超1000套超节点、370+客户；DeepSeek 拟部署16万颗950DT。仍落后英伟达、高端训练依赖其 GPU。",
+      "cited_sources": [
+        "Huawei 华为",
+        "DeepSeek",
+        "Bloomberg",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / Bloomberg",
+        "evidence_url": "https://www.trendforce.com/news/2026/09/17/news-huawei-speeds-up-ai-chip-roadmap-reportedly-pulls-ascend-960dt-forward-three-quarters-to-1q27/",
+        "evidence_note": "路透/彭博官网直连被JS墙拦截；经 TrendForce（cites Bloomberg/Star Market Daily/Guancha）+ 经济参考报/网易 交叉确认（9/17 昇腾960超节点、NPO、4096卡、960DT提前至2027Q1）。产品发布稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-17",
+      "_uid": "2026-09-17/r3"
+    },
+    {
+      "id": "r4",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China-ASEAN Expo opens in Nanning with first AI pavilion, FTA 3.0 in focus",
+      "title_zh": "第23届中国—东盟博览会南宁开幕：首设AI展区，聚焦自贸区3.0落地",
+      "published_at": "2026-09-17",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "全球外交",
+        "东盟",
+        "中国—东盟",
+        "RCEP",
+        "AI",
+        "自贸区"
+      ],
+      "importance": "medium",
+      "summary_zh": "据多家中文财经媒体与环球时报报道：第23届中国—东盟博览会于9月17日至21日在南宁举办，主题为“共享3.0机遇”，首设东盟需求馆与 AI 展区，聚焦中国—东盟自贸区3.0落地。在全球贸易碎片化与美中博弈背景下，博览会强调区域供应链协同与数字经济合作，是中国深耕“全球南方”周边外交与 RCEP 深化的平台。",
+      "china_angle": "东博会首设 AI 展区、主打自贸区3.0，是中国以“周边外交+数字经济”对冲美西方“小院高墙”的布局：借 RCEP 与自贸区升级巩固东盟这一最大贸易伙伴，把 AI/数字贸易打造成区域公共产品，稀释脱钩压力。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china-asean-expo-nanning-2026-09-17/",
+      "body_available": true,
+      "body_zh": "多家媒体：第23届中国—东盟博览会9/17—21南宁举办，主题“共享3.0机遇”，首设东盟需求馆与AI展区，聚焦中国—东盟自贸区3.0落地；区域供应链协同与数字经济合作成主轴。",
+      "cited_sources": [
+        "中国—东盟博览会秘书处",
+        "环球时报",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / 东博会秘书处",
+        "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806aab258a78852",
+        "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月17日：'第23届中国—东盟博览会9月17日至21日在南宁举办，主题为共享3.0机遇，首设东盟需求馆与AI展区'）+ 环球时报 交叉确认。展会通稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-17",
+      "_uid": "2026-09-17/r4"
+    },
+    {
+      "id": "r5",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Taiwan's central bank holds rate for 10th straight quarter as inflation eases",
+      "title_zh": "台湾央行“连10冻”维持2%：杨金龙称“走自己的路”，明年通膨降至2%以下",
+      "published_at": "2026-09-17",
+      "published_precision": "date",
+      "authors": [
+        "董永年"
+      ],
+      "author_locations": [
+        "台北"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "中国台湾",
+        "货币政策",
+        "利率",
+        "台湾央行"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透台北9月17日电（记者董永年）：台湾央行周四宣布重贴现率不变、利率“连10冻”仍维持在2%，称物价仍可控。在台湾央行第三季理监事会议上，总裁杨金龙表示台湾通胀相对主要温和为2%、明年可望降至2%以下，货币政策基调“走自己的路”、未跟随美联储加息循环，即便未升息，操作仍朝紧缩方向。31家受访金融机构中28家预估“连10冻”。分析师指台湾货币政策已偏紧（名目GDP 13.5%但M2仅6.75%），大概率不跟进美联储本轮加息。",
+      "china_angle": "台湾央行拒绝跟随美联储加息，凸显其在“美中利率周期错位”中的自主取舍：维持宽松倾向以托底出口型经济，又藉“偏紧”措辞抑制输入性通胀。这一决策既关乎两岸利率与资本流动联动，也是观察台湾经济“外热内温”结构的窗口。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/taiwan-central-bank-holds-rate-10th-quarter-2026-09-17/",
+      "body_available": true,
+      "body_zh": "路透台北9月17日（董永年）：台湾央行“连10冻”维持重贴现率2%，杨金龙称通胀温和（今年2%、明年降至2%以下），“走自己的路”不随美联储加息、操作仍偏紧；31家机构28家预估冻涨。",
+      "cited_sources": [
+        "Central Bank of the Republic of China (Taiwan) 台湾央行",
+        "杨金龙",
+        "国泰世华银行",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://news4alpha.com/?p=102161/",
+        "evidence_note": "路透官网直连被JS墙拦截；经 News4alpha（路透终端 reprint：'台湾央行利率“连10冻”，分析师指料不会参与美联储升息循环' / Reuters News, 17-Sep-2026）取得真实署名 董永年（roger.tung@thomsonreuters.com，台北电），authors_status=named。"
+      },
+      "_day": "2026-09-17",
+      "_uid": "2026-09-17/r5"
+    },
+    {
+      "id": "r6",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "US allies fret over how Trump might play his Taiwan hand with Xi at summit",
+      "title_zh": "路透：美盟友担忧特朗普在峰会上对台“手软”；PLA单日19架次、17架越中线，140亿美元军售待批",
+      "published_at": "2026-09-17",
+      "published_precision": "date",
+      "authors": [
+        "Ben Blanchard",
+        "John Geddie"
+      ],
+      "author_locations": [
+        "东京/台北",
+        "新加坡"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "台海",
+        "中国台湾",
+        "军事",
+        "中美关系",
+        "美国",
+        "军售",
+        "周边安全",
+        "解放军"
+      ],
+      "importance": "high",
+      "summary_zh": "路透社9月17日发自东京/台北报道（Ben Blanchard、John Geddie 等）：美国亚洲盟友越来越担心，特朗普可能在9月24日华盛顿会晤习近平时，为换取对华经济成果而软化对台支持。此担忧自特朗普5月称对台军售是可谈判的“筹码”、及试图拉升受伊朗战争拖累的民调后升温。习近平料将在峰会上就台湾施压；即便美方措辞微调，也可能鼓舞北京、危及地区脆弱和平。台湾防务部门通报，截至9月17日6时前24小时，侦获19架次解放军军机、8艘军舰、2艘公务船绕台，其中17架次越过海峡中线进入北部、西南及东部空域。一项140亿美元对台军售案已等待特朗普批准数月。日本首相高市早苗亦试图在峰会前争取与特朗普通话，东京希望美方坚守既定涉台外交措辞、勿使台湾成为焦点。",
+      "china_angle": "此稿集中暴露台海最大风险变量——特朗普“以台换经”的交易倾向。PLA 高频绕台与140亿美元军售待批构成峰会前两大可视指标；中方若借峰会压缩美台实质关系，将重塑区域安全基线，亦牵动日本等盟友的避险布局。",
+      "stance": "negative",
+      "source_url": "https://www.reuters.com/world/china/us-allies-fret-trump-taiwan-hand-xi-summit-2026-09-17/",
+      "body_available": true,
+      "body_zh": "路透9月17日（Blanchard/Geddie）：美亚洲盟友忧特朗普在9/24峰会以对台支持换对华经济成果（其5月称对台军售为“谈判筹码”）；习近平料就台湾施压。台湾防务部门：截至9/17 6时前24h，19架次解放军机、8舰、2公务船绕台，17架次越中线。140亿美元对台军售待批数月；日本高市早苗试图峰会前联线特朗普。",
+      "cited_sources": [
+        "Reuters",
+        "台湾防务部门(MND)",
+        "Asia Society Policy Institute",
+        "复旦大学 吴心伯",
+        "White House"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "这篇报道把台海风险的核心矛盾点明：特朗普的“交易型外交”将台湾视为可谈判筹码，与拜登时期“协防台湾”的模糊承诺形成断裂。PLA 17架次越中线的常态化绕台、140亿美元军售案悬而未决，是峰会前最直观的两块“压力计”。对中方而言，借峰会压美收缩对台实质关系、固化“一个中国”叙事是头号关切；对日本及地区盟友而言，最怕特朗普为经济牌牺牲既定涉台措辞，使北京误判、擦枪走火。此稿预示9/24峰会无论结果如何，台海都将是中美博弈的最高风险面。",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.aol.com/articles/us-navy-spy-plane-makes-183315000.html",
+        "evidence_note": "路透官网直连被JS墙拦截；经 AOL（repost of Reuters：'US allies fret over how Trump might play his Taiwan hand with Xi' / Thu, Sep 17 2026）+ NeoDrop 交叉确认。真实记者署名经转载 byline 取得（Ben Blanchard, Tamiyuki Kihara, Yukiko Toyoda, John Geddie），authors_status=named。"
+      },
+      "_day": "2026-09-17",
+      "_uid": "2026-09-17/r6"
+    },
+    {
+      "id": "r7",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Japan and US discuss multi-trillion yen semiconductor plant under $550 billion investment plan",
+      "title_zh": "日美磋商数万亿日元半导体工厂，格芯运营，属5500亿美元对美投资计划",
+      "published_at": "2026-09-17",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "半导体",
+        "美日",
+        "供应链",
+        "对华科技竞争",
+        "格芯"
+      ],
+      "importance": "medium",
+      "summary_zh": "据日经新闻经路透类渠道转述：日美两国政府正就建设一座价值数万亿日元的半导体工厂展开磋商，该项目是双方在关税谈判中达成的5500亿美元对美投资计划的一部分，预计由晶圆代工巨头格芯（GlobalFoundries）负责运营。此前对美投资主要集中于发电领域，如今转向高科技制造业，标志日美经济关系重心从能源合作转向半导体供应链的联合布局，亦呼应美国推动“友岸外包”、降低对华芯片依赖的战略。",
+      "china_angle": "日美将5500亿美元对美投资从能源转向半导体、并由格芯运营，是“友岸外包”在芯片制造端的制度化落地，直接服务于“去中国化”供应链目标；其成败将影响全球半导体阵营化格局与对中国的技术围堵强度。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/business/japan-us-semiconductor-plant-550-billion-2026-09-17/",
+      "body_available": true,
+      "body_zh": "日经/路透：日美磋商数万亿日元半导体工厂，属5500亿美元对美投资计划，拟由格芯运营；投资从发电转向高科技制造，标志日美经济重心转向半导体供应链联合布局（友岸外包、降对华依赖）。",
+      "cited_sources": [
+        "Nikkei 日经新闻",
+        "GlobalFoundries 格芯",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / 日经新闻",
+        "evidence_url": "https://www.xiaoyuzhoufm.com/episode/6aac03379d326477816ac290",
+        "evidence_note": "路透官网直连被JS墙拦截；经 小宇宙（'日美磋商数万亿日元半导体工厂项目，格芯负责运营，对美投资从发电转向高科技制造' / 金十数据、日经新闻）确认。机构产业稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-17",
+      "_uid": "2026-09-17/r7"
+    },
+    {
+      "id": "b1",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Morgan Stanley: China's consumer AI weekly usage hits 80%, leading US's 54%",
+      "title_zh": "摩根士丹利：中国消费级AI每周使用率已达80%，领先美国的54%",
+      "published_at": "2026-09-17",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "AI",
+        "人工智能",
+        "消费级AI",
+        "数字经济",
+        "大模型"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社经华尔街见闻转述摩根士丹利报告：中国消费级 AI 的每周使用率已达80%，领先美国的54%。报告认为核心驱动在于超级 App 生态分发与丰富的日常场景，并预测到2030年中国 C 端 AI 可变现市场规模约3000亿元，其中99%来自商户意图变现。基于分发与场景优势，阿里、腾讯、美团获得正向评级。这反映中国 AI 落地从“模型竞赛”转向“超级 App 入口+场景变现”的差异化路径。",
+      "china_angle": "中国消费级 AI 使用率80%远超美国，说明“AI 平权”在中国依托超级 App 与场景密度率先兑现；这不仅关乎中美 AI 应用层的竞争位势，也为大模型商业化（商户意图变现）提供独特土壤，是中国 AI 从技术追赶到规模变现的关键指标。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-17/china-consumer-ai-usage-80-percent-morgan-stanley",
+      "body_available": true,
+      "body_zh": "彭博/摩根士丹利（经华尔街见闻）：中国消费级AI每周使用率80%，领先美国54%；核心驱动超级App分发+场景，2030年C端AI可变现约3000亿元、99%来自商户意图变现；阿里/腾讯/美团获正向评级。",
+      "cited_sources": [
+        "Morgan Stanley 摩根士丹利",
+        "Bloomberg",
+        "阿里巴巴",
+        "腾讯",
+        "美团"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806aab258a78852",
+        "evidence_note": "彭博官网直连被JS墙拦截；经 华尔街见闻早餐（9月17日：'摩根士丹利：中国消费级AI每周使用率已达80%，领先美国的54%'）确认。机构研报稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-17",
+      "_uid": "2026-09-17/b1"
+    },
+    {
+      "id": "b2",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "China's State Council approves national integrated computing network guidance",
+      "title_zh": "国常会审议通过《构建全国一体化算力网的指导意见》：2027年底前建成跨区域算力调度体系",
+      "published_at": "2026-09-17",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "数字经济",
+        "算力",
+        "新基建",
+        "政策",
+        "产业政策"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博社经多家中文媒体转述：国务院常务会议9月16日审议通过《关于构建全国一体化算力网的指导意见》，明确2027年底前建成跨区域算力调度体系。同日发改委印发《2026年新型基础设施建设第三批清单》，共109项重大工程、总投资额超3200亿元，重点覆盖东数西算、特高压、城际轨交。此举将算力定位为国家新型基础设施的核心，意在以“全国一张网”统筹东中西部算力供需、提升能效与可用性。",
+      "china_angle": "把“一体化算力网”上升为国常会级战略，与华为昇腾960等国产算力突破形成“硬件+网络”双轮：既服务 AI 大模型训练推理的爆发式需求，也以国家级调度对冲高端芯片受限、把算力资源化、普惠化，是中国数字基建“换道超车”的制度落子。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-17/china-integrated-computing-network-guidance",
+      "body_available": true,
+      "body_zh": "彭博/国常会（经今日头条等）：9月16日国常会审议《关于构建全国一体化算力网的指导意见》，2027年底前建成跨区域算力调度体系；发改委新基建第三批109项、超3200亿，重点东数西算、特高压、城际轨交。",
+      "cited_sources": [
+        "国务院常务会议",
+        "国家发改委",
+        "Bloomberg"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg / 国常会",
+        "evidence_url": "https://www.toutiao.com/article/7686270596195418653/",
+        "evidence_note": "彭博官网直连被JS墙拦截；经 今日头条（'9月17日财经早餐：国常会审议算力网指导意见，发改委新基建第三批109项超3200亿'）确认。政策通稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-17",
+      "_uid": "2026-09-17/b2"
+    },
+    {
+      "id": "r1",
+      "media": "Reuters",
+      "media_zh": "路透社",
       "title_en": "BYD to recall over 180,000 cars over brake pedal risk, China's regulator says",
       "title_zh": "比亚迪将召回逾18万辆车：制动踏板部件缺陷触发监管责令",
       "published_at": "2026-09-18",
@@ -52043,6 +54347,47 @@
       "_uid": "2026-09-20/r2"
     },
     {
+      "id": "r3",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China keeps benchmark lending rates unchanged for 16th straight month",
+      "title_zh": "9月LPR报价出炉：1年期3.0%、5年期3.5%，连续16个月按兵不动",
+      "published_at": "2026-09-20",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "LPR",
+        "贷款利率",
+        "货币政策",
+        "央行",
+        "房地产"
+      ],
+      "importance": "medium",
+      "summary_zh": "中国人民银行授权全国银行间同业拆借中心公布，2026年9月20日贷款市场报价利率（LPR）为：1年期LPR为3.0%，5年期以上LPR为3.5%，均较上月持平，为连续第16个月维持不变。市场此前有部分预期，在美联储重启加息、国内稳增长压力上升、房地产仍待托底的背景下，LPR或迎来下调；但最终按兵不动，反映央行在「稳汇率、稳银行息差、防资金空转」与「降融资成本」之间保持克制，优先以降准、再贷款等结构性工具与存量房贷利率调整发力。5年期LPR作为房贷定价锚不变，意味着新发放首套、二套房贷利率未进一步下探。",
+      "china_angle": "LPR连续16个月不变，是「价格型工具克制+数量型/结构性工具发力」的货币政策新常态：在人民币走强、银行净息差已至历史低位、资金空转隐忧下，央行不愿轻易压低政策利率，而是以定向工具精细化滴灌。对房地产（5年期锚定房贷）与实体经济融资成本的直拉有限，需配合财政与地产政策方能托底。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/business/china-keeps-lpr-unchanged-16th-month-2026-09-20/",
+      "body_available": true,
+      "body_zh": "中国人民银行授权全国银行间同业拆借中心公布：2026年9月20日LPR为1年期3.0%、5年期以上3.5%，均持平，连续第16个月不变。分析指央行在稳汇率、稳银行息差、防资金空转与降融资成本间保持克制，优先以降准、再贷款等结构性工具与存量房贷调整发力；5年期LPR（房贷锚）不变。",
+      "cited_sources": [
+        "全国银行间同业拆借中心 NIFC",
+        "中国人民银行 PBOC",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://mezha.net/eng/news/85c19d96_china_keeps_key/",
+        "evidence_note": "路透官网直连被JS墙拦截；经 Mezha（'China Keeps Key Lending Rates Unchanged for 16th Straight Month' / As reported by Reuters, 2026-09-20）+ 央行授权全国银行间同业拆借中心公告交叉确认（9/20 1年期3.0%、5年期3.5%、连续16个月不变）。机构利率稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-20",
+      "_uid": "2026-09-20/r3"
+    },
+    {
       "id": "b5",
       "media": "Bloomberg",
       "media_zh": "彭博社",
@@ -52130,82 +54475,411 @@
       },
       "_day": "2026-09-20",
       "_uid": "2026-09-20/b6"
+    },
+    {
+      "id": "r1",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's He Lifeng leads delegation to US for economic, trade talks Sept 19-23",
+      "title_zh": "何立峰率团赴美经贸磋商（9/19—23）：为特朗普—习近平峰会做最后铺垫",
+      "published_at": "2026-09-21",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "中美关系",
+        "中美经贸",
+        "经贸",
+        "特朗普",
+        "习近平",
+        "峰会"
+      ],
+      "importance": "high",
+      "summary_zh": "路透/彭博报道：中国商务部9月21日确认，国务院副总理何立峰于9月19日至23日率团赴美国，与美方举行经贸磋商。此行紧接9月17日贝森特—何立峰纽约预备会后，为9月24日特朗普在白宫接待习近平（习近平十多年来首次华盛顿国事访问）做最后铺垫。中方最高关切料为台湾及拟议对台军售，美方则聚焦关税休战续期、稀土磁铁出口与 AI 护栏。中国据报或以“更多稀土许可”为谈判筹码。",
+      "china_angle": "何立峰此行是峰会前中方“经贸+政治”双线探路：一手稳住关税休战与稀土流动，一手以台湾军售为红线施压。其成败直接决定9/24峰会能否从“脆弱冻结”走向“阶段性稳定”。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/he-lifeng-us-trade-talks-2026-09-21/",
+      "body_available": true,
+      "body_zh": "路透/彭博+商务部：何立峰9/19—23率团赴美与美方经贸磋商，紧接9/17纽约预备会，为9/24特朗普—习近平峰会铺垫；中方关切台湾及拟议对台军售，美方聚焦关税休战续期、稀土出口、AI护栏；中方或以更多稀土许可为筹码。",
+      "cited_sources": [
+        "中国商务部",
+        "US Treasury 美财长",
+        "White House",
+        "Reuters / Bloomberg"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / Bloomberg",
+        "evidence_url": "https://wallstreetcn.com/livenews/3167875",
+        "evidence_note": "路透/彭博官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'中国商务部：何立峰于9月19日至23日率团赴美国与美方举行经贸磋商'）+ Business Standard 交叉确认。机构外交稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-21",
+      "_uid": "2026-09-21/r1"
+    },
+    {
+      "id": "r2",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's ChangXin Memory begins mass production of 5th-gen DRAM platform",
+      "title_zh": "长鑫科技第五代DRAM工艺平台量产：24GB LPDDR5X 展出，跳代研发加速",
+      "published_at": "2026-09-21",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "半导体",
+        "存储芯片",
+        "长鑫",
+        "国产替代",
+        "芯片"
+      ],
+      "importance": "high",
+      "summary_zh": "据长鑫科技公告经多家财经媒体转述：公司第五代工艺技术平台正式量产，并展出大容量24GB LPDDR5X 量产新品。长鑫在9月20日《关于第五代工艺技术平台实现量产的自愿性披露公告》中表示，坚持自主研发、以跳代研发策略加速技术创新，从第一代到第四代平台快速迭代；8月29日半年度报告曾披露第五代平台正处于客户认证阶段。这是继长江存储后，中国存储芯片自主化的又一里程碑，逼近全球顶尖水平（约11.95纳米级）。",
+      "china_angle": "长鑫第五代DRAM量产，标志中国在“被卡脖子”最甚的存储领域取得代际突破，与华为昇腾、长江存储共同构成国产芯片“三驾马车”，直接对冲美日荷出口管制；其客户认证进度与产能爬坡，将影响全球DRAM格局与中国AI/算力供应链安全。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/technology/changxin-5th-gen-dram-mass-production-2026-09-21/",
+      "body_available": true,
+      "body_zh": "长鑫公告（经新浪财经）：第五代工艺技术平台正式量产，展出24GB LPDDR5X；坚持自主研发、跳代研发，第一代到第四代快速迭代，8月半年报曾披露第五代处客户认证。逼近全球顶尖（约11.95纳米级）。",
+      "cited_sources": [
+        "长鑫科技 ChangXin Memory",
+        "Reuters",
+        "新浪财经"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / 长鑫公告",
+        "evidence_url": "https://finance.sina.com.cn/stock/y/2026-09-21/doc-inispuec0918993.shtml",
+        "evidence_note": "路透官网直连被JS墙拦截；经 新浪财经（'11.95纳米，接近全球顶尖！长鑫科技深夜披露，第五代DRAM平台实现量产' / 长鑫科技自愿性披露公告）确认。公司公告，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-21",
+      "_uid": "2026-09-21/r2"
+    },
+    {
+      "id": "r3",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's fiscal revenue up 5.7% in first eight months; land sales down 28.6%",
+      "title_zh": "财政部：1—8月全国一般公共预算收入同比+5.7%，土地出让收入同比-28.6%",
+      "published_at": "2026-09-21",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "财政",
+        "宏观经济",
+        "土地出让",
+        "税收"
+      ],
+      "importance": "medium",
+      "summary_zh": "据财政部9月21日公布数据：1—8月全国一般公共预算收入同比增长5.7%；税收收入增速回升至3.8%，证券交易印花税同比大增82%（反映资本市场活跃）；但国有土地使用权出让收入同比下降28.6%，延续深度下滑。数据显示财政“税收稳、土地弱”的结构分化，地方财政对土地依赖的缺口仍未填平，且需与扩张性支出（设备更新、消费补贴）相平衡。",
+      "china_angle": "财政数据刻画中国经济“冰火两重天”：税收与证券交易印花税走强印证生产端活跃与资本市场回暖，但土地出让-28.6%暴露房地产—地方财政链条的深层收缩，是观察后续增量政策（专项债、化债、地产托底）力度的最直接窗口。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/china-fiscal-revenue-aug-2026-09-21/",
+      "body_available": true,
+      "body_zh": "财政部9/21：1—8月全国一般公共预算收入同比+5.7%，税收+3.8%，证券交易印花税+82%；国有土地出让收入同比-28.6%。财政“税收稳、土地弱”分化，地方财政缺口待补。",
+      "cited_sources": [
+        "中国财政部",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / 财政部",
+        "evidence_url": "https://wallstreetcn.com/livenews/3167875",
+        "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'中国财政部：1至8月全国一般公共预算收入同比增长5.7%，证券交易印花税同比大增82%；国有土地使用权出让收入同比降28.6%'）确认。官方数据稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-21",
+      "_uid": "2026-09-21/r3"
+    },
+    {
+      "id": "r4",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China opposes EU push for 'voluntary' cap on auto exports, calls it WTO violation",
+      "title_zh": "商务部：中方坚决反对欧盟要求中国“自愿限制”汽车出口，称严重违反WTO规则",
+      "published_at": "2026-09-21",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "经贸",
+        "汽车出口",
+        "欧盟",
+        "贸易壁垒",
+        "反补贴",
+        "出海"
+      ],
+      "importance": "high",
+      "summary_zh": "据商务部与多家财经媒体：欧盟方面近期施压，要求中国“自愿限制”汽车出口；中国商务部予以坚决反对，指出有关举措严重违反世贸组织（WTO）规则，是贸易保护主义的变体。报道称，欧盟以“产能过剩”与“市场扰乱”为由，试图以非关税手段约束中国电动车与整车出口。此前中国电动汽车已在欧面临反补贴税，此举若落地将进一步压缩中国车企出海空间，亦可能招致中方反制。",
+      "china_angle": "欧盟从“反补贴税”升级到“自愿出口限制”，是对中国新能源车企出海的精准围堵；若成行，将迫使比亚迪、上汽等在欧本地化建厂提速，并可能触发中方在世贸与双边层面的反制，是中欧经贸摩擦在汽车赛道的新爆点。",
+      "stance": "negative",
+      "source_url": "https://www.reuters.com/world/china/china-opposes-eu-auto-export-cap-2026-09-21/",
+      "body_available": true,
+      "body_zh": "商务部+财经媒体：欧盟施压要求中国“自愿限制”汽车出口，商务部坚决反对，指其严重违反WTO规则、属贸易保护主义变体（以“产能过剩/市场扰乱”为由，继反补贴税后升级）。或逼中国车企加速在欧本地化，并招致中方反制。",
+      "cited_sources": [
+        "中国商务部",
+        "European Commission 欧盟委员会",
+        "Reuters"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "欧盟以“自愿限制”替代关税，是更隐蔽的贸易保护主义：相较公开反补贴税，出口自律协议（VER）更难在 WTO 框架下举证、却同样锁定中国车的份额上限。其背景是欧洲车企在电动化转型中落后、对华车价格优势承压。对中国而言，短期被迫加速在欧建厂（比亚迪、上汽已布局），长期则需在 WTO 与双边渠道反击、并警惕美日跟进类似“友岸”约束。这是中国新能源车出海从“价格红利”转入“制度博弈”的关键拐点。",
+      "provenance": {
+        "source": "Reuters / 商务部",
+        "evidence_url": "https://wallstreetcn.com/livenews/3167875",
+        "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'让中国“自愿限制”汽车出口？中国商务部：中方坚决反对，欧盟有关举措严重违反世贸组织规则'）确认。官方回应稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-21",
+      "_uid": "2026-09-21/r4"
+    },
+    {
+      "id": "r5",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China opposes Trump-signed sanctions bill targeting Russia and Iran",
+      "title_zh": "商务部回应特朗普签署针对俄伊的制裁法案：中方反对非法单边制裁",
+      "published_at": "2026-09-21",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "全球外交",
+        "制裁",
+        "俄罗斯",
+        "伊朗",
+        "单边制裁"
+      ],
+      "importance": "medium",
+      "summary_zh": "据商务部与财经媒体：美国总统特朗普签署针对俄罗斯与伊朗的制裁法案；中国商务部回应称，中方反对非法单边制裁，保留采取一切必要措施的权利。在中美峰会前夕，美方以制裁法案施压俄伊，中方则重申反对“长臂管辖”与单边制裁的一贯立场，预示峰会除经贸、台湾外，地缘制裁议题亦将交锋。",
+      "china_angle": "中方在峰会前夕重申反对单边制裁，既为俄罗斯、伊朗预留协调空间，也划定“长臂管辖不得损及中方实体”的红线；这与美西方借制裁捆绑中俄伊、围堵中国的策略正面交锋，是峰会地缘议题的预热。",
+      "stance": "negative",
+      "source_url": "https://www.reuters.com/world/china/china-opposes-us-sanctions-russia-iran-2026-09-21/",
+      "body_available": true,
+      "body_zh": "商务部+财经媒体：特朗普签署针对俄伊的制裁法案；中国商务部回应反对非法单边制裁、保留一切必要措施权利。峰会前夕，美方以制裁施压俄伊，中方重申反“长臂管辖”立场，地缘制裁议题将交锋。",
+      "cited_sources": [
+        "中国商务部",
+        "White House",
+        "Reuters"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / 商务部",
+        "evidence_url": "https://wallstreetcn.com/livenews/3167875",
+        "evidence_note": "路透官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'中国商务部回应特朗普签署针对俄罗斯和伊朗的制裁法案：中方反对非法单边制裁，保留采取一切必要措施的权利'）确认。官方回应稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-21",
+      "_uid": "2026-09-21/r5"
+    },
+    {
+      "id": "r6",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's August power consumption tops 1 trillion kWh again; record load amid typhoon",
+      "title_zh": "8月全社会用电量再破万亿达10332亿千瓦时，负荷创历史新高；台风“白海豚”致居民用电降",
+      "published_at": "2026-09-21",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "能源",
+        "电力",
+        "用电量",
+        "台风"
+      ],
+      "importance": "low",
+      "summary_zh": "据国家能源局9月20日发布数据：8月份全社会用电量再破万亿，达到10332亿千瓦时，同比增长1.7%；用电负荷创历史新高，达到15.6亿千瓦，较上年最大负荷高4969万千瓦，共有7天超过上年最大负荷。分产业看，第二产业用电6124亿千瓦时（+2.4%）、第三产业2155亿千瓦时（+5.1%）。城乡居民生活用电1883亿千瓦时（-4.0%），主因2026年8月台风“白海豚”及华东华中等区域气温较上年同期偏低、空调用电明显减少。中电联指出全社会月度用电量已连续两月保持万亿规模。",
+      "china_angle": "用电量连续两月破万亿、负荷创新高，印证中国工业与服务端活跃度，是宏观景气的实物侧印证；但也凸显极端天气（台风、降温）对居民用电的扰动，以及对电网韧性与能源保供的更高要求。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/china-august-power-consumption-2026-09-21/",
+      "body_available": true,
+      "body_zh": "国家能源局9/20：8月全社会用电量10332亿千瓦时(+1.7%)，再破万亿；负荷创历史新高15.6亿千瓦（较上年最大高4969万千瓦，7天超上年）。二产+2.4%、三产+5.1%；居民-4.0%（台风“白海豚”+气温偏低致空调减少）。连续两月万亿规模。",
+      "cited_sources": [
+        "国家能源局",
+        "中国电力企业联合会",
+        "Reuters"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / 国家能源局",
+        "evidence_url": "https://finance.sina.com.cn/stock/y/2026-09-21/doc-inispuec0918993.shtml",
+        "evidence_note": "路透官网直连被JS墙拦截；经 新浪财经（'8月全社会用电量再破万亿，负荷创历史新高' / 国家能源局9月20日数据）确认。官方数据稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-21",
+      "_uid": "2026-09-21/r6"
+    },
+    {
+      "id": "r7",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's trade with US rises for fifth straight month, Jan-Aug at 2.76 trillion yuan",
+      "title_zh": "中国对美进出口连续5个月增长：1—8月累计2.76万亿元，8月出口近19月次高",
+      "published_at": "2026-09-21",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "中美贸易",
+        "出口",
+        "经贸",
+        "美国"
+      ],
+      "importance": "medium",
+      "summary_zh": "据海关总署数据经财经媒体转述：中国对美国进出口已连续5个月增长，今年1—8月累计进出口额达2.76万亿元（人民币），同比增长1.3%。其中8月份中国对美国出口金额为2886.1亿元，位居近19个月次高（仅次于今年6月）。从出口品类看，以2025年年度数据计，对美出口主要包括机电音像设备、纺织、塑料橡胶、车辆船舶、鞋帽等，覆盖高端制造与传统轻工。这一“关税未能扭转贸易”的格局，反映 AI 相关电子需求与供应链黏性的双重支撑。",
+      "china_angle": "对美贸易连增5月、8月出口近19月次高，说明特朗普关税的“脱钩”效应有限，反被 AI 电子需求与供应链刚性抵消；但占比已从高位回落（10.27%），且高度集中于机电与制造，是观察中美经贸“休战续期”成色与产业链韧性的硬数据。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/china-us-trade-five-months-growth-2026-09-21/",
+      "body_available": true,
+      "body_zh": "海关总署（经新浪财经）：中国对美进出口连续5个月增长，1—8月累计2.76万亿元(+1.3%)；8月对美出口2886.1亿元，近19个月次高（仅次于6月）。品类以机电、纺服、塑料橡胶、车辆船舶为主。",
+      "cited_sources": [
+        "中国海关总署",
+        "Reuters",
+        "新浪财经"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters / 海关总署",
+        "evidence_url": "https://finance.sina.com.cn/stock/y/2026-09-21/doc-inispuec0918993.shtml",
+        "evidence_note": "路透官网直连被JS墙拦截；经 新浪财经（'中国海关总署统计数据显示，中国对美国进出口已连续5个月增长，今年1—8月累计进出口额达到2.76万亿元'）确认。官方数据稿，无单一个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-21",
+      "_uid": "2026-09-21/r7"
+    },
+    {
+      "id": "b1",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Trump to establish 'AI Corps' and name AI czar, Bloomberg reports",
+      "title_zh": "特朗普宣布组建“人工智能部队”并任命AI事务“总管”：中美AI治理竞赛再升级",
+      "published_at": "2026-09-21",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "AI",
+        "人工智能",
+        "美国",
+        "科技政策"
+      ],
+      "importance": "medium",
+      "summary_zh": "彭博社报道：美国总统特朗普宣布将组建一支“人工智能部队”（AI Corps），并任命一名 AI 事务“总管”（czar），以统筹联邦在 AI 领域的安全、研发与治理。此举与美方近期推动的 AI 安全节奏控制、对华 AI 技术护栏以及对先进模型出口管制一脉相承，反映美国在“既要领先、又要设防”的双重目标下，将 AI 上升为国家战略与组织化军备。",
+      "china_angle": "特朗普组建“AI 部队”并设 AI 总管，标志美国把 AI 从产业政策升级为国家安全级组织动员，直接对标中美 AI 竞赛；其与“对华模型护栏/出口管制”的组合拳，将压缩中国 AI 企业的全球空间，也倒逼中国加速自主开源生态与算力网络建设。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-21/trump-ai-corps-ai-czar",
+      "body_available": true,
+      "body_zh": "彭博：特朗普宣布组建“人工智能部队”(AI Corps)并任命 AI 事务“总管”，统筹联邦 AI 安全、研发与治理；与此前 AI 安全节奏控制、对华模型护栏、先进模型出口管制一脉相承，AI 升格为国家安全级动员。",
+      "cited_sources": [
+        "White House",
+        "Bloomberg"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://wallstreetcn.com/livenews/3167875",
+        "evidence_note": "彭博官网直连被JS墙拦截；经 华尔街见闻早餐（9月21日：'特朗普称要组建“人工智能部队”并任命人工智能事务“总管”'）确认。机构政治稿，无个人署名，authors_status=not_available，未编造。"
+      },
+      "_day": "2026-09-21",
+      "_uid": "2026-09-21/b1"
     }
   ],
   "archive": {
-    "days_count": 40,
+    "days_count": 43,
     "first_day": "2026-08-04",
-    "last_day": "2026-09-20",
-    "total_articles": 580,
+    "last_day": "2026-09-21",
+    "total_articles": 606,
     "by_media": {
-      "路透社": 355,
-      "彭博社": 225
+      "路透社": 378,
+      "彭博社": 228
     },
     "by_topic": {
+      "半导体": 45,
       "出口管制": 42,
-      "半导体": 41,
-      "中美关系": 37,
-      "宏观经济": 35,
-      "AI": 34,
-      "人工智能": 33,
+      "中美关系": 40,
+      "AI": 38,
+      "宏观经济": 36,
+      "人工智能": 35,
       "港股": 26,
-      "中美经贸": 23,
+      "中美经贸": 25,
       "中美科技竞争": 22,
+      "供应链": 22,
       "IPO": 22,
+      "伊朗": 22,
+      "出口": 21,
+      "关税": 21,
       "中美科技": 20,
-      "供应链": 20,
-      "伊朗": 20,
-      "出口": 19,
+      "资本市场": 19,
       "人形机器人": 19,
-      "关税": 19,
-      "资本市场": 18,
+      "中国台湾": 18,
+      "房地产": 17,
+      "出海": 17,
       "科技": 17,
-      "房地产": 16,
       "消费": 16,
       "地缘": 15,
-      "出海": 15,
+      "经贸": 15,
+      "AI芯片": 15,
       "外交": 14,
-      "AI芯片": 14,
+      "货币政策": 14,
+      "稀土": 14,
+      "能源": 13,
       "A股": 13,
       "财报": 13,
-      "中国台湾": 13,
+      "台海": 13,
       "内需": 13,
-      "能源": 12,
-      "货币政策": 12,
-      "稀土": 12,
-      "经贸": 12,
       "科技竞争": 11,
       "自然灾害": 11,
+      "国产替代": 11,
+      "军事": 11,
       "贸易": 11,
       "中国经济": 11,
-      "台海": 10,
-      "军事": 10,
+      "中美贸易": 10,
       "中概股": 10,
       "机器人": 9,
       "开源模型": 9,
-      "国产替代": 9,
+      "存储芯片": 9,
       "地缘政治": 9,
-      "中美贸易": 9,
-      "存储芯片": 8,
-      "通胀": 8,
-      "人民币汇率": 8,
+      "通胀": 9,
+      "人民币汇率": 9,
+      "华为": 8,
+      "台风": 8,
+      "关键矿产": 8,
       "次级制裁": 8,
       "新能源汽车": 7,
       "能源安全": 7,
       "融资": 7,
+      "网络安全": 7,
       "中美科技战": 7,
-      "华为": 7,
       "中美博弈": 7,
-      "台风": 7,
+      "央行": 7,
       "宏观政策": 7,
       "中美": 7,
       "阿里巴巴": 7,
       "英伟达": 7,
       "比亚迪": 7,
-      "关键矿产": 7,
+      "习近平": 7,
       "朝鲜半岛": 7,
       "监管": 7,
       "电动车": 7,
+      "产业政策": 6,
       "企业动态": 6,
       "中欧关系": 6,
       "FCC": 6,
@@ -52213,9 +54887,7 @@
       "多晶硅": 6,
       "中日关系": 6,
       "汽车": 6,
-      "网络安全": 6,
       "金融": 6,
-      "央行": 6,
       "PPI": 6,
       "CPI": 6,
       "应急管理": 6,
@@ -52224,20 +54896,26 @@
       "制造业": 6,
       "Shein": 6,
       "科创板": 6,
+      "芯片": 6,
       "贸易摩擦": 6,
       "中韩关系": 6,
       "宏观数据": 6,
+      "美国": 6,
       "香港": 6,
-      "产业政策": 5,
       "军事安全": 5,
+      "制裁": 5,
       "太阳能": 5,
       "中国香港": 5,
+      "中东": 5,
       "生物科技": 5,
-      "芯片": 5,
+      "欧盟": 5,
+      "算力": 5,
       "跨境电商": 5,
       "外汇": 5,
       "极端天气": 5,
       "市场": 5,
+      "美联储": 5,
+      "特朗普": 5,
       "宇树": 5,
       "腾讯": 5,
       "字节跳动": 5,
@@ -52245,7 +54923,6 @@
       "情报": 5,
       "南海": 5,
       "电商": 5,
-      "习近平": 5,
       "二级制裁": 5,
       "汇率": 5,
       "中美AI竞争": 5,
@@ -52254,7 +54931,6 @@
       "元首外交": 5,
       "特朗普—习近平峰会": 5,
       "经贸摩擦": 4,
-      "制裁": 4,
       "对外投资": 4,
       "AI产业链": 4,
       "中东局势": 4,
@@ -52262,30 +54938,37 @@
       "中美经贸摩擦": 4,
       "数据中心": 4,
       "司法": 4,
+      "俄罗斯": 4,
       "中印关系": 4,
       "汉光演习": 4,
-      "中东": 4,
       "股市": 4,
       "宏观": 4,
       "北京": 4,
       "药明康德": 4,
+      "峰会": 4,
+      "财政": 4,
       "上海": 4,
       "油价": 4,
       "跨境快时尚": 4,
       "宇树科技": 4,
       "长鑫CXMT": 4,
-      "美联储": 4,
+      "反倾销": 4,
       "AI大模型": 4,
       "中菲关系": 4,
       "信贷": 4,
       "中美利差": 4,
+      "美元": 4,
       "中国市场": 4,
       "投资": 4,
+      "LPR": 4,
       "银行业": 4,
+      "全球利率": 4,
       "中尼关系": 4,
       "灾害救援": 4,
+      "大模型": 4,
       "G20": 4,
       "贸易顺差": 4,
+      "资本流动": 4,
       "商务部": 4,
       "社会民生": 3,
       "科技产业": 3,
@@ -52298,19 +54981,16 @@
       "全球市场": 3,
       "原油": 3,
       "科技股": 3,
-      "俄罗斯": 3,
       "朝鲜": 3,
       "中国汽车": 3,
-      "财政": 3,
       "福建": 3,
-      "欧盟": 3,
+      "数字经济": 3,
       "航天": 3,
       "具身智能": 3,
+      "越南": 3,
       "中美供应链": 3,
-      "算力": 3,
+      "贸易逆差": 3,
       "智能制造": 3,
-      "反倾销": 3,
-      "特朗普": 3,
       "华为昇腾": 3,
       "电动卡车": 3,
       "安全生产": 3,
@@ -52323,32 +55003,31 @@
       "人民币": 3,
       "阿里": 3,
       "京东": 3,
-      "美国": 3,
       "中国房地产": 3,
       "房价": 3,
+      "中欧贸易": 3,
       "产能过剩": 3,
-      "美元": 3,
       "通义千问": 3,
+      "中国外交": 3,
       "外交部": 3,
+      "反补贴": 3,
+      "王毅": 3,
       "美妆": 3,
       "电动汽车": 3,
-      "LPR": 3,
       "全球南方": 3,
       "华南": 3,
       "6G": 3,
       "AI投入": 3,
       "西藏": 3,
-      "全球利率": 3,
       "中报业绩": 3,
       "价格战": 3,
-      "大模型": 3,
       "财政政策": 3,
       "全球失衡": 3,
       "中国证监会": 3,
       "DeepSeek": 3,
       "习特会": 3,
-      "资本流动": 3,
       "AI安全": 3,
+      "全球外交": 3,
       "知识产权": 2,
       "南海议题": 2,
       "涉台议题": 2,
@@ -52377,7 +55056,6 @@
       "反制": 2,
       "行情": 2,
       "法律": 2,
-      "峰会": 2,
       "大宗商品": 2,
       "中国股市": 2,
       "浙江": 2,
@@ -52386,14 +55064,13 @@
       "伊朗战争": 2,
       "新兴市场": 2,
       "估值": 2,
-      "越南": 2,
       "军事演习": 2,
       "稳增长": 2,
+      "政策": 2,
       "智元": 2,
       "开放权重": 2,
       "快时尚": 2,
       "军费": 2,
-      "贸易逆差": 2,
       "内蒙古": 2,
       "反垄断": 2,
       "寒武纪": 2,
@@ -52430,9 +55107,7 @@
       "希音": 2,
       "江泽民": 2,
       "去库存": 2,
-      "中欧贸易": 2,
       "中国金融": 2,
-      "中国外交": 2,
       "APEC": 2,
       "中国香港股市": 2,
       "板块轮动": 2,
@@ -52443,7 +55118,6 @@
       "AI治理": 2,
       "商业航天": 2,
       "业绩": 2,
-      "王毅": 2,
       "研发": 2,
       "商业化": 2,
       "世界机器人大会": 2,
@@ -52468,6 +55142,7 @@
       "香港市场": 2,
       "市场情绪": 2,
       "PMI": 2,
+      "军售": 2,
       "债务重组": 2,
       "金融监管": 2,
       "MLF": 2,
@@ -52475,6 +55150,7 @@
       "战略性新兴产业": 2,
       "卫星互联网": 2,
       "北斗": 2,
+      "美国经济": 2,
       "经济下行": 2,
       "净息差": 2,
       "资产质量": 2,
@@ -52491,13 +55167,22 @@
       "预售制改革": 2,
       "汽车产业": 2,
       "航运安全": 2,
+      "利率": 2,
       "科技治理": 2,
       "金融开放": 2,
       "算力基础设施": 2,
+      "钢铁": 2,
       "中澳关系": 2,
       "经济数据": 2,
       "模型蒸馏": 2,
       "内需不足": 2,
+      "汽车出口": 2,
+      "在岸": 2,
+      "离岸": 2,
+      "贸易壁垒": 2,
+      "周边安全": 2,
+      "主权争议": 2,
+      "税收": 2,
       "何立峰": 2,
       "涉疆议题": 1,
       "解释性报道": 1,
@@ -52609,7 +55294,6 @@
       "中国稀土集团": 1,
       "长鑫科技": 1,
       "摩尔线程": 1,
-      "数字经济": 1,
       "长征火箭": 1,
       "发射失败": 1,
       "中星4B": 1,
@@ -52620,7 +55304,6 @@
       "美国防部": 1,
       "韩美军演": 1,
       "东北亚": 1,
-      "政策": 1,
       "券商": 1,
       "融资融券": 1,
       "风险管理": 1,
@@ -52753,7 +55436,6 @@
       "生成式 AI": 1,
       "中国AI": 1,
       "中国硬科技": 1,
-      "反补贴": 1,
       "域外管辖": 1,
       "航天文旅": 1,
       "中美欧科技竞争": 1,
@@ -52837,7 +55519,6 @@
       "新能源车": 1,
       "经贸域外管辖": 1,
       "灾害": 1,
-      "军售": 1,
       "歼-10CE": 1,
       "债务": 1,
       "资本": 1,
@@ -52855,7 +55536,6 @@
       "中俄合作": 1,
       "中小企业": 1,
       "数字化转型": 1,
-      "美国经济": 1,
       "加美关系": 1,
       "多边贸易": 1,
       "政策刺激": 1,
@@ -52961,7 +55641,6 @@
       "统一性市场": 1,
       "清盘": 1,
       "债务危机": 1,
-      "利率": 1,
       "安全架构": 1,
       "工业旅游": 1,
       "中外关系": 1,
@@ -52990,7 +55669,6 @@
       "实体清单风险": 1,
       "国产模型": 1,
       "反制裁": 1,
-      "钢铁": 1,
       "铁矿石": 1,
       "资源安全": 1,
       "外资券商": 1,
@@ -53047,7 +55725,6 @@
       "上海美国商会": 1,
       "合肥模式": 1,
       "地方政府产业政策": 1,
-      "汽车出口": 1,
       "产能出海": 1,
       "内需疲软": 1,
       "中汽协CAAM": 1,
@@ -53056,6 +55733,26 @@
       "青岛北海造船": 1,
       "船舶维修": 1,
       "习近平指示": 1,
+      "制造业回流": 1,
+      "澳大利亚": 1,
+      "民进党": 1,
+      "资通电军": 1,
+      "日本": 1,
+      "台股": 1,
+      "联发科": 1,
+      "加息": 1,
+      "昇腾": 1,
+      "东盟": 1,
+      "中国—东盟": 1,
+      "RCEP": 1,
+      "自贸区": 1,
+      "台湾央行": 1,
+      "解放军": 1,
+      "美日": 1,
+      "对华科技竞争": 1,
+      "格芯": 1,
+      "消费级AI": 1,
+      "新基建": 1,
       "质量召回": 1,
       "安全监管": 1,
       "空域安全": 1,
@@ -53071,11 +55768,9 @@
       "贷款市场报价利率": 1,
       "财政收支": 1,
       "广义收入": 1,
-      "税收": 1,
       "中国海警": 1,
       "菲律宾": 1,
       "海上对峙": 1,
-      "主权争议": 1,
       "胡塞武装": 1,
       "沙特": 1,
       "金融科技": 1,
@@ -53123,8 +55818,6 @@
       "途家": 1,
       "美团": 1,
       "常态化监管": 1,
-      "在岸": 1,
-      "离岸": 1,
       "出口韧性": 1,
       "复苏动能": 1,
       "早期指标": 1,
@@ -53133,12 +55826,19 @@
       "虚假信用证": 1,
       "加密货币贿赂": 1,
       "金融诚信": 1,
+      "贷款利率": 1,
       "大众汽车": 1,
       "Volkswagen": 1,
       "保时捷": 1,
       "利润预警": 1,
       "减值": 1,
-      "全球经济": 1
+      "全球经济": 1,
+      "长鑫": 1,
+      "土地出让": 1,
+      "单边制裁": 1,
+      "电力": 1,
+      "用电量": 1,
+      "科技政策": 1
     },
     "sentiment_trend": [
       {
@@ -53364,6 +56064,18 @@
         "positive": 0
       },
       {
+        "date": "2026-09-16",
+        "negative": 3,
+        "neutral": 5,
+        "positive": 0
+      },
+      {
+        "date": "2026-09-17",
+        "negative": 1,
+        "neutral": 8,
+        "positive": 0
+      },
+      {
         "date": "2026-09-18",
         "negative": 0,
         "neutral": 15,
@@ -53378,7 +56090,13 @@
       {
         "date": "2026-09-20",
         "negative": 1,
-        "neutral": 7,
+        "neutral": 8,
+        "positive": 0
+      },
+      {
+        "date": "2026-09-21",
+        "negative": 2,
+        "neutral": 6,
         "positive": 0
       }
     ],
@@ -53392,12 +56110,16 @@
         46
       ],
       [
+        "Reuters",
+        29
+      ],
+      [
         "市场数据",
         26
       ],
       [
         "Bloomberg",
-        21
+        25
       ],
       [
         "官方数据/企业披露",
@@ -53409,18 +56131,26 @@
       ],
       [
         "中国外交部",
-        16
+        17
       ],
       [
-        "Reuters",
-        13
+        "中国商务部",
+        12
+      ],
+      [
+        "White House",
+        10
+      ],
+      [
+        "阿里巴巴",
+        9
       ],
       [
         "金十数据",
         9
       ],
       [
-        "阿里巴巴",
+        "中国海关总署",
         8
       ],
       [
@@ -53428,19 +56158,15 @@
         8
       ],
       [
-        "中国商务部",
+        "DeepSeek",
         8
-      ],
-      [
-        "中国海关总署",
-        7
       ],
       [
         "华为",
         7
       ],
       [
-        "DeepSeek",
+        "腾讯",
         7
       ],
       [
@@ -53480,7 +56206,7 @@
         6
       ],
       [
-        "腾讯",
+        "Shein",
         6
       ],
       [
@@ -53500,19 +56226,19 @@
         5
       ],
       [
-        "Shein",
-        5
-      ],
-      [
         "宇树科技",
         5
       ],
       [
-        "White House",
+        "彭博社（引述知情人士）",
         5
       ],
       [
-        "彭博社（引述知情人士）",
+        "中国财政部",
+        5
+      ],
+      [
+        "Reuters / Bloomberg",
         5
       ],
       [
@@ -53552,6 +56278,14 @@
         4
       ],
       [
+        "环球时报",
+        4
+      ],
+      [
+        "中国外汇交易中心",
+        4
+      ],
+      [
         "美国财政部",
         4
       ],
@@ -53576,6 +56310,10 @@
         4
       ],
       [
+        "王毅",
+        4
+      ],
+      [
         "Alibaba",
         4
       ],
@@ -53593,10 +56331,6 @@
       ],
       [
         "Bloomberg Economics",
-        4
-      ],
-      [
-        "中国财政部",
         4
       ],
       [
@@ -53620,19 +56354,11 @@
         3
       ],
       [
-        "环球时报",
-        3
-      ],
-      [
         "台积电",
         3
       ],
       [
         "长鑫存储(CXMT)",
-        3
-      ],
-      [
-        "中国外汇交易中心",
         3
       ],
       [
@@ -53657,10 +56383,6 @@
       ],
       [
         "中国驻美使馆",
-        3
-      ],
-      [
-        "王毅",
         3
       ],
       [
@@ -54004,6 +56726,10 @@
         2
       ],
       [
+        "伊朗外交部",
+        2
+      ],
+      [
         "财政部",
         2
       ],
@@ -54116,11 +56842,35 @@
         2
       ],
       [
+        "European Commission 欧盟委员会",
+        2
+      ],
+      [
+        "国务院台湾事务办公室 国台办",
+        2
+      ],
+      [
+        "朱凤莲",
+        2
+      ],
+      [
+        "中国台湾网",
+        2
+      ],
+      [
+        "US Treasury 美财长",
+        2
+      ],
+      [
         "He Lifeng (何立峰, 中国副总理)",
         2
       ],
       [
         "中国商务部 MOFCOM",
+        2
+      ],
+      [
+        "新浪财经",
         2
       ],
       [
@@ -56101,10 +58851,6 @@
       ],
       [
         "瑞士政府声明",
-        1
-      ],
-      [
-        "伊朗外交部",
         1
       ],
       [
@@ -58364,6 +61110,130 @@
         1
       ],
       [
+        "PBOC",
+        1
+      ],
+      [
+        "Maybank",
+        1
+      ],
+      [
+        "Commerzbank",
+        1
+      ],
+      [
+        "冯德莱恩 Ursula von der Leyen",
+        1
+      ],
+      [
+        "QIMA",
+        1
+      ],
+      [
+        "Target",
+        1
+      ],
+      [
+        "跨境知道",
+        1
+      ],
+      [
+        "Australian Anti-Dumping Commission 澳大利亚反倾销委员会",
+        1
+      ],
+      [
+        "文安县凯泽建材",
+        1
+      ],
+      [
+        "公安部",
+        1
+      ],
+      [
+        "Taiwan Stock Exchange 台湾证交所",
+        1
+      ],
+      [
+        "TSMC 台积电",
+        1
+      ],
+      [
+        "MediaTek 联发科",
+        1
+      ],
+      [
+        "Reuters / AAStocks",
+        1
+      ],
+      [
+        "Federal Reserve 美联储",
+        1
+      ],
+      [
+        "Kevin Warsh",
+        1
+      ],
+      [
+        "Global Times",
+        1
+      ],
+      [
+        "Huawei 华为",
+        1
+      ],
+      [
+        "中国—东盟博览会秘书处",
+        1
+      ],
+      [
+        "Central Bank of the Republic of China (Taiwan) 台湾央行",
+        1
+      ],
+      [
+        "杨金龙",
+        1
+      ],
+      [
+        "国泰世华银行",
+        1
+      ],
+      [
+        "台湾防务部门(MND)",
+        1
+      ],
+      [
+        "Asia Society Policy Institute",
+        1
+      ],
+      [
+        "复旦大学 吴心伯",
+        1
+      ],
+      [
+        "Nikkei 日经新闻",
+        1
+      ],
+      [
+        "GlobalFoundries 格芯",
+        1
+      ],
+      [
+        "Morgan Stanley 摩根士丹利",
+        1
+      ],
+      [
+        "美团",
+        1
+      ],
+      [
+        "国务院常务会议",
+        1
+      ],
+      [
+        "国家发改委",
+        1
+      ],
+      [
         "比亚迪 BYD",
         1
       ],
@@ -58596,10 +61466,6 @@
         1
       ],
       [
-        "Reuters / Bloomberg",
-        1
-      ],
-      [
         "Standard Chartered (渣打)",
         1
       ],
@@ -58636,6 +61502,14 @@
         1
       ],
       [
+        "全国银行间同业拆借中心 NIFC",
+        1
+      ],
+      [
+        "中国人民银行 PBOC",
+        1
+      ],
+      [
         "Volkswagen AG 大众汽车",
         1
       ],
@@ -58646,12 +61520,24 @@
       [
         "Arno Antlitz (CFO)",
         1
+      ],
+      [
+        "长鑫科技 ChangXin Memory",
+        1
+      ],
+      [
+        "国家能源局",
+        1
+      ],
+      [
+        "中国电力企业联合会",
+        1
       ]
     ],
     "recurring_topics": [
       {
         "topic": "中美关系",
-        "count": 24,
+        "count": 26,
         "days": [
           "2026-08-05",
           "2026-08-06",
@@ -58674,9 +61560,42 @@
           "2026-09-05",
           "2026-09-10",
           "2026-09-11",
+          "2026-09-17",
           "2026-09-18",
           "2026-09-19",
-          "2026-09-20"
+          "2026-09-20",
+          "2026-09-21"
+        ]
+      },
+      {
+        "topic": "半导体",
+        "count": 25,
+        "days": [
+          "2026-08-04",
+          "2026-08-05",
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-09",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-18",
+          "2026-08-20",
+          "2026-08-22",
+          "2026-08-24",
+          "2026-08-26",
+          "2026-08-27",
+          "2026-08-28",
+          "2026-09-01",
+          "2026-09-02",
+          "2026-09-03",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-08",
+          "2026-09-16",
+          "2026-09-17",
+          "2026-09-21"
         ]
       },
       {
@@ -58709,34 +61628,6 @@
         ]
       },
       {
-        "topic": "半导体",
-        "count": 22,
-        "days": [
-          "2026-08-04",
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-09",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-14",
-          "2026-08-15",
-          "2026-08-18",
-          "2026-08-20",
-          "2026-08-22",
-          "2026-08-24",
-          "2026-08-26",
-          "2026-08-27",
-          "2026-08-28",
-          "2026-09-01",
-          "2026-09-02",
-          "2026-09-03",
-          "2026-09-04",
-          "2026-09-05",
-          "2026-09-08"
-        ]
-      },
-      {
         "topic": "港股",
         "count": 18,
         "days": [
@@ -58762,7 +61653,7 @@
       },
       {
         "topic": "宏观经济",
-        "count": 16,
+        "count": 17,
         "days": [
           "2026-08-04",
           "2026-08-06",
@@ -58779,12 +61670,13 @@
           "2026-09-03",
           "2026-09-04",
           "2026-09-09",
-          "2026-09-20"
+          "2026-09-20",
+          "2026-09-21"
         ]
       },
       {
         "topic": "关税",
-        "count": 15,
+        "count": 17,
         "days": [
           "2026-08-07",
           "2026-08-08",
@@ -58799,13 +61691,15 @@
           "2026-08-30",
           "2026-09-01",
           "2026-09-03",
+          "2026-09-16",
+          "2026-09-17",
           "2026-09-19",
           "2026-09-20"
         ]
       },
       {
         "topic": "AI",
-        "count": 15,
+        "count": 17,
         "days": [
           "2026-08-08",
           "2026-08-09",
@@ -58821,7 +61715,73 @@
           "2026-09-01",
           "2026-09-08",
           "2026-09-10",
-          "2026-09-18"
+          "2026-09-17",
+          "2026-09-18",
+          "2026-09-21"
+        ]
+      },
+      {
+        "topic": "中美经贸",
+        "count": 16,
+        "days": [
+          "2026-08-07",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-20",
+          "2026-08-25",
+          "2026-08-29",
+          "2026-08-30",
+          "2026-09-01",
+          "2026-09-02",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-17",
+          "2026-09-19",
+          "2026-09-21"
+        ]
+      },
+      {
+        "topic": "人工智能",
+        "count": 15,
+        "days": [
+          "2026-08-04",
+          "2026-08-05",
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-11",
+          "2026-08-15",
+          "2026-08-20",
+          "2026-08-27",
+          "2026-08-28",
+          "2026-08-30",
+          "2026-09-03",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-17",
+          "2026-09-21"
+        ]
+      },
+      {
+        "topic": "供应链",
+        "count": 15,
+        "days": [
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-20",
+          "2026-08-25",
+          "2026-08-27",
+          "2026-09-01",
+          "2026-09-02",
+          "2026-09-03",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-08",
+          "2026-09-16",
+          "2026-09-17"
         ]
       },
       {
@@ -58846,66 +61806,28 @@
         ]
       },
       {
-        "topic": "中美经贸",
+        "topic": "中国台湾",
         "count": 14,
         "days": [
           "2026-08-07",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-20",
-          "2026-08-25",
-          "2026-08-29",
-          "2026-08-30",
-          "2026-09-01",
-          "2026-09-02",
-          "2026-09-04",
-          "2026-09-05",
-          "2026-09-19"
-        ]
-      },
-      {
-        "topic": "人工智能",
-        "count": 13,
-        "days": [
-          "2026-08-04",
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-11",
-          "2026-08-15",
-          "2026-08-20",
-          "2026-08-27",
-          "2026-08-28",
-          "2026-08-30",
-          "2026-09-03",
-          "2026-09-04",
-          "2026-09-05"
-        ]
-      },
-      {
-        "topic": "供应链",
-        "count": 13,
-        "days": [
           "2026-08-08",
           "2026-08-09",
           "2026-08-10",
           "2026-08-11",
-          "2026-08-20",
-          "2026-08-25",
-          "2026-08-27",
+          "2026-08-12",
+          "2026-08-15",
+          "2026-08-16",
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-22",
           "2026-09-01",
-          "2026-09-02",
-          "2026-09-03",
-          "2026-09-04",
-          "2026-09-05",
-          "2026-09-08"
+          "2026-09-16",
+          "2026-09-17"
         ]
       },
       {
         "topic": "能源",
-        "count": 12,
+        "count": 13,
         "days": [
           "2026-08-04",
           "2026-08-07",
@@ -58918,12 +61840,13 @@
           "2026-09-03",
           "2026-09-08",
           "2026-09-09",
-          "2026-09-19"
+          "2026-09-19",
+          "2026-09-21"
         ]
       },
       {
         "topic": "资本市场",
-        "count": 12,
+        "count": 13,
         "days": [
           "2026-08-04",
           "2026-08-06",
@@ -58936,7 +61859,27 @@
           "2026-09-03",
           "2026-09-04",
           "2026-09-05",
+          "2026-09-16",
           "2026-09-18"
+        ]
+      },
+      {
+        "topic": "出口",
+        "count": 13,
+        "days": [
+          "2026-08-04",
+          "2026-08-06",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-11",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-28",
+          "2026-09-08",
+          "2026-09-09",
+          "2026-09-11",
+          "2026-09-16",
+          "2026-09-21"
         ]
       },
       {
@@ -58976,21 +61919,21 @@
         ]
       },
       {
-        "topic": "中国台湾",
+        "topic": "出海",
         "count": 12,
         "days": [
           "2026-08-07",
-          "2026-08-08",
-          "2026-08-09",
           "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
           "2026-08-15",
-          "2026-08-16",
-          "2026-08-17",
-          "2026-08-18",
-          "2026-08-22",
-          "2026-09-01"
+          "2026-08-19",
+          "2026-08-20",
+          "2026-08-24",
+          "2026-08-25",
+          "2026-09-08",
+          "2026-09-16",
+          "2026-09-21"
         ]
       },
       {
@@ -59012,20 +61955,38 @@
         ]
       },
       {
-        "topic": "出口",
+        "topic": "伊朗",
+        "count": 12,
+        "days": [
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-16",
+          "2026-08-21",
+          "2026-08-24",
+          "2026-08-25",
+          "2026-08-26",
+          "2026-08-27",
+          "2026-09-16",
+          "2026-09-18",
+          "2026-09-19",
+          "2026-09-21"
+        ]
+      },
+      {
+        "topic": "货币政策",
         "count": 11,
         "days": [
           "2026-08-04",
-          "2026-08-06",
-          "2026-08-08",
           "2026-08-09",
-          "2026-08-11",
+          "2026-08-10",
           "2026-08-13",
-          "2026-08-14",
-          "2026-08-28",
-          "2026-09-08",
-          "2026-09-09",
-          "2026-09-11"
+          "2026-08-16",
+          "2026-08-18",
+          "2026-08-21",
+          "2026-08-27",
+          "2026-09-17",
+          "2026-09-18",
+          "2026-09-20"
         ]
       },
       {
@@ -59043,6 +62004,57 @@
           "2026-09-02",
           "2026-09-10",
           "2026-09-20"
+        ]
+      },
+      {
+        "topic": "台海",
+        "count": 11,
+        "days": [
+          "2026-08-06",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-16",
+          "2026-09-01",
+          "2026-09-08",
+          "2026-09-16",
+          "2026-09-17"
+        ]
+      },
+      {
+        "topic": "军事",
+        "count": 11,
+        "days": [
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-10",
+          "2026-08-12",
+          "2026-08-15",
+          "2026-08-22",
+          "2026-09-01",
+          "2026-09-08",
+          "2026-09-17"
+        ]
+      },
+      {
+        "topic": "AI芯片",
+        "count": 11,
+        "days": [
+          "2026-08-09",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-14",
+          "2026-08-22",
+          "2026-08-24",
+          "2026-09-01",
+          "2026-09-02",
+          "2026-09-11",
+          "2026-09-17",
+          "2026-09-18"
         ]
       },
       {
@@ -59079,66 +62091,34 @@
         ]
       },
       {
-        "topic": "军事",
+        "topic": "国产替代",
         "count": 10,
         "days": [
+          "2026-08-05",
           "2026-08-06",
-          "2026-08-07",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-10",
-          "2026-08-12",
-          "2026-08-15",
-          "2026-08-22",
-          "2026-09-01",
-          "2026-09-08"
-        ]
-      },
-      {
-        "topic": "出海",
-        "count": 10,
-        "days": [
-          "2026-08-07",
-          "2026-08-10",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-15",
-          "2026-08-19",
-          "2026-08-20",
-          "2026-08-24",
-          "2026-08-25",
-          "2026-09-08"
-        ]
-      },
-      {
-        "topic": "AI芯片",
-        "count": 10,
-        "days": [
-          "2026-08-09",
           "2026-08-11",
           "2026-08-12",
-          "2026-08-14",
-          "2026-08-22",
-          "2026-08-24",
-          "2026-09-01",
+          "2026-08-28",
           "2026-09-02",
-          "2026-09-11",
-          "2026-09-18"
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-17",
+          "2026-09-21"
         ]
       },
       {
-        "topic": "伊朗",
+        "topic": "稀土",
         "count": 10,
         "days": [
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-16",
-          "2026-08-21",
-          "2026-08-24",
-          "2026-08-25",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-12",
+          "2026-08-15",
           "2026-08-26",
-          "2026-08-27",
-          "2026-09-18",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-16",
+          "2026-09-17",
           "2026-09-19"
         ]
       },
@@ -59173,36 +62153,6 @@
         ]
       },
       {
-        "topic": "货币政策",
-        "count": 9,
-        "days": [
-          "2026-08-04",
-          "2026-08-09",
-          "2026-08-10",
-          "2026-08-13",
-          "2026-08-16",
-          "2026-08-18",
-          "2026-08-21",
-          "2026-08-27",
-          "2026-09-18"
-        ]
-      },
-      {
-        "topic": "台海",
-        "count": 9,
-        "days": [
-          "2026-08-06",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-16",
-          "2026-09-01",
-          "2026-09-08"
-        ]
-      },
-      {
         "topic": "贸易",
         "count": 9,
         "days": [
@@ -59233,6 +62183,21 @@
         ]
       },
       {
+        "topic": "人民币汇率",
+        "count": 9,
+        "days": [
+          "2026-08-11",
+          "2026-08-13",
+          "2026-08-16",
+          "2026-08-25",
+          "2026-08-30",
+          "2026-09-11",
+          "2026-09-16",
+          "2026-09-18",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "开源模型",
         "count": 8,
         "days": [
@@ -59247,17 +62212,17 @@
         ]
       },
       {
-        "topic": "国产替代",
+        "topic": "存储芯片",
         "count": 8,
         "days": [
           "2026-08-05",
-          "2026-08-06",
+          "2026-08-10",
           "2026-08-11",
-          "2026-08-12",
           "2026-08-28",
-          "2026-09-02",
-          "2026-09-04",
-          "2026-09-05"
+          "2026-09-01",
+          "2026-09-05",
+          "2026-09-08",
+          "2026-09-21"
         ]
       },
       {
@@ -59289,44 +62254,42 @@
         ]
       },
       {
-        "topic": "稀土",
-        "count": 8,
-        "days": [
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-12",
-          "2026-08-15",
-          "2026-08-26",
-          "2026-09-04",
-          "2026-09-05",
-          "2026-09-19"
-        ]
-      },
-      {
-        "topic": "人民币汇率",
-        "count": 8,
-        "days": [
-          "2026-08-11",
-          "2026-08-13",
-          "2026-08-16",
-          "2026-08-25",
-          "2026-08-30",
-          "2026-09-11",
-          "2026-09-18",
-          "2026-09-20"
-        ]
-      },
-      {
-        "topic": "存储芯片",
+        "topic": "华为",
         "count": 7,
         "days": [
-          "2026-08-05",
+          "2026-08-07",
+          "2026-08-09",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-09-01",
+          "2026-09-17",
+          "2026-09-18"
+        ]
+      },
+      {
+        "topic": "台风",
+        "count": 7,
+        "days": [
+          "2026-08-07",
+          "2026-08-09",
           "2026-08-10",
           "2026-08-11",
-          "2026-08-28",
-          "2026-09-01",
+          "2026-08-12",
           "2026-09-05",
-          "2026-09-08"
+          "2026-09-21"
+        ]
+      },
+      {
+        "topic": "中美贸易",
+        "count": 7,
+        "days": [
+          "2026-08-08",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-16",
+          "2026-08-30",
+          "2026-09-09",
+          "2026-09-21"
         ]
       },
       {
@@ -59416,6 +62379,18 @@
         ]
       },
       {
+        "topic": "网络安全",
+        "count": 6,
+        "days": [
+          "2026-08-07",
+          "2026-08-29",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-10",
+          "2026-09-16"
+        ]
+      },
+      {
         "topic": "中美科技战",
         "count": 6,
         "days": [
@@ -59425,18 +62400,6 @@
           "2026-09-04",
           "2026-09-05",
           "2026-09-10"
-        ]
-      },
-      {
-        "topic": "华为",
-        "count": 6,
-        "days": [
-          "2026-08-07",
-          "2026-08-09",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-09-01",
-          "2026-09-18"
         ]
       },
       {
@@ -59452,27 +62415,15 @@
         ]
       },
       {
-        "topic": "台风",
-        "count": 6,
-        "days": [
-          "2026-08-07",
-          "2026-08-09",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-09-05"
-        ]
-      },
-      {
-        "topic": "中美贸易",
+        "topic": "央行",
         "count": 6,
         "days": [
           "2026-08-08",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-16",
-          "2026-08-30",
-          "2026-09-09"
+          "2026-08-10",
+          "2026-08-13",
+          "2026-08-25",
+          "2026-09-18",
+          "2026-09-20"
         ]
       },
       {
@@ -59485,6 +62436,18 @@
           "2026-08-22",
           "2026-08-25",
           "2026-09-18"
+        ]
+      },
+      {
+        "topic": "通胀",
+        "count": 6,
+        "days": [
+          "2026-08-09",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-27",
+          "2026-09-09",
+          "2026-09-17"
         ]
       },
       {
@@ -59524,6 +62487,18 @@
         ]
       },
       {
+        "topic": "芯片",
+        "count": 6,
+        "days": [
+          "2026-08-11",
+          "2026-08-17",
+          "2026-08-22",
+          "2026-08-25",
+          "2026-09-18",
+          "2026-09-21"
+        ]
+      },
+      {
         "topic": "比亚迪",
         "count": 6,
         "days": [
@@ -59533,6 +62508,30 @@
           "2026-08-28",
           "2026-09-08",
           "2026-09-18"
+        ]
+      },
+      {
+        "topic": "关键矿产",
+        "count": 6,
+        "days": [
+          "2026-08-15",
+          "2026-08-16",
+          "2026-08-23",
+          "2026-08-26",
+          "2026-09-05",
+          "2026-09-16"
+        ]
+      },
+      {
+        "topic": "习近平",
+        "count": 6,
+        "days": [
+          "2026-08-15",
+          "2026-08-17",
+          "2026-09-17",
+          "2026-09-18",
+          "2026-09-20",
+          "2026-09-21"
         ]
       },
       {
@@ -59591,17 +62590,6 @@
         ]
       },
       {
-        "topic": "网络安全",
-        "count": 5,
-        "days": [
-          "2026-08-07",
-          "2026-08-29",
-          "2026-09-04",
-          "2026-09-05",
-          "2026-09-10"
-        ]
-      },
-      {
         "topic": "金融",
         "count": 5,
         "days": [
@@ -59613,25 +62601,14 @@
         ]
       },
       {
-        "topic": "央行",
+        "topic": "中东",
         "count": 5,
         "days": [
-          "2026-08-08",
-          "2026-08-10",
-          "2026-08-13",
-          "2026-08-25",
-          "2026-09-18"
-        ]
-      },
-      {
-        "topic": "通胀",
-        "count": 5,
-        "days": [
-          "2026-08-09",
-          "2026-08-10",
-          "2026-08-11",
+          "2026-08-07",
           "2026-08-27",
-          "2026-09-09"
+          "2026-09-02",
+          "2026-09-16",
+          "2026-09-18"
         ]
       },
       {
@@ -59646,6 +62623,17 @@
         ]
       },
       {
+        "topic": "经贸",
+        "count": 5,
+        "days": [
+          "2026-08-09",
+          "2026-08-15",
+          "2026-08-23",
+          "2026-08-24",
+          "2026-09-21"
+        ]
+      },
+      {
         "topic": "苹果",
         "count": 5,
         "days": [
@@ -59654,6 +62642,17 @@
           "2026-08-11",
           "2026-08-14",
           "2026-08-15"
+        ]
+      },
+      {
+        "topic": "欧盟",
+        "count": 5,
+        "days": [
+          "2026-08-09",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-09-16",
+          "2026-09-21"
         ]
       },
       {
@@ -59676,17 +62675,6 @@
           "2026-08-19",
           "2026-09-02",
           "2026-09-10"
-        ]
-      },
-      {
-        "topic": "芯片",
-        "count": 5,
-        "days": [
-          "2026-08-11",
-          "2026-08-17",
-          "2026-08-22",
-          "2026-08-25",
-          "2026-09-18"
         ]
       },
       {
@@ -59734,14 +62722,25 @@
         ]
       },
       {
-        "topic": "关键矿产",
+        "topic": "美联储",
         "count": 5,
         "days": [
-          "2026-08-15",
-          "2026-08-16",
-          "2026-08-23",
-          "2026-08-26",
-          "2026-09-05"
+          "2026-08-11",
+          "2026-08-17",
+          "2026-08-27",
+          "2026-09-04",
+          "2026-09-17"
+        ]
+      },
+      {
+        "topic": "特朗普",
+        "count": 5,
+        "days": [
+          "2026-08-12",
+          "2026-09-17",
+          "2026-09-18",
+          "2026-09-20",
+          "2026-09-21"
         ]
       },
       {
@@ -59753,6 +62752,17 @@
           "2026-08-18",
           "2026-08-19",
           "2026-08-20"
+        ]
+      },
+      {
+        "topic": "美国",
+        "count": 5,
+        "days": [
+          "2026-08-17",
+          "2026-08-20",
+          "2026-08-22",
+          "2026-09-17",
+          "2026-09-21"
         ]
       },
       {
@@ -59822,6 +62832,26 @@
         ]
       },
       {
+        "topic": "产业政策",
+        "count": 4,
+        "days": [
+          "2026-08-04",
+          "2026-08-25",
+          "2026-08-27",
+          "2026-09-17"
+        ]
+      },
+      {
+        "topic": "制裁",
+        "count": 4,
+        "days": [
+          "2026-08-04",
+          "2026-08-09",
+          "2026-09-19",
+          "2026-09-21"
+        ]
+      },
+      {
         "topic": "中东局势",
         "count": 4,
         "days": [
@@ -59852,6 +62882,16 @@
         ]
       },
       {
+        "topic": "俄罗斯",
+        "count": 4,
+        "days": [
+          "2026-08-06",
+          "2026-08-16",
+          "2026-09-19",
+          "2026-09-21"
+        ]
+      },
+      {
         "topic": "汽车",
         "count": 4,
         "days": [
@@ -59872,16 +62912,6 @@
         ]
       },
       {
-        "topic": "中东",
-        "count": 4,
-        "days": [
-          "2026-08-07",
-          "2026-08-27",
-          "2026-09-02",
-          "2026-09-18"
-        ]
-      },
-      {
         "topic": "北京",
         "count": 4,
         "days": [
@@ -59889,6 +62919,16 @@
           "2026-08-10",
           "2026-08-12",
           "2026-09-18"
+        ]
+      },
+      {
+        "topic": "峰会",
+        "count": 4,
+        "days": [
+          "2026-08-08",
+          "2026-09-17",
+          "2026-09-20",
+          "2026-09-21"
         ]
       },
       {
@@ -59912,13 +62952,13 @@
         ]
       },
       {
-        "topic": "经贸",
+        "topic": "财政",
         "count": 4,
         "days": [
           "2026-08-09",
-          "2026-08-15",
-          "2026-08-23",
-          "2026-08-24"
+          "2026-08-22",
+          "2026-09-18",
+          "2026-09-21"
         ]
       },
       {
@@ -59942,13 +62982,23 @@
         ]
       },
       {
-        "topic": "美联储",
+        "topic": "算力",
+        "count": 4,
+        "days": [
+          "2026-08-10",
+          "2026-08-24",
+          "2026-09-08",
+          "2026-09-17"
+        ]
+      },
+      {
+        "topic": "反倾销",
         "count": 4,
         "days": [
           "2026-08-11",
-          "2026-08-17",
-          "2026-08-27",
-          "2026-09-04"
+          "2026-08-13",
+          "2026-08-14",
+          "2026-09-16"
         ]
       },
       {
@@ -60002,16 +63052,6 @@
         ]
       },
       {
-        "topic": "习近平",
-        "count": 4,
-        "days": [
-          "2026-08-15",
-          "2026-08-17",
-          "2026-09-18",
-          "2026-09-20"
-        ]
-      },
-      {
         "topic": "信贷",
         "count": 4,
         "days": [
@@ -60052,6 +63092,16 @@
         ]
       },
       {
+        "topic": "美元",
+        "count": 4,
+        "days": [
+          "2026-08-17",
+          "2026-09-16",
+          "2026-09-18",
+          "2026-09-20"
+        ]
+      },
+      {
         "topic": "中概股",
         "count": 4,
         "days": [
@@ -60059,6 +63109,16 @@
           "2026-08-24",
           "2026-08-25",
           "2026-08-26"
+        ]
+      },
+      {
+        "topic": "LPR",
+        "count": 4,
+        "days": [
+          "2026-08-21",
+          "2026-08-27",
+          "2026-09-18",
+          "2026-09-20"
         ]
       },
       {
@@ -60092,6 +63152,16 @@
         ]
       },
       {
+        "topic": "全球利率",
+        "count": 4,
+        "days": [
+          "2026-08-27",
+          "2026-09-02",
+          "2026-09-03",
+          "2026-09-17"
+        ]
+      },
+      {
         "topic": "中尼关系",
         "count": 4,
         "days": [
@@ -60112,21 +63182,23 @@
         ]
       },
       {
-        "topic": "产业政策",
-        "count": 3,
+        "topic": "大模型",
+        "count": 4,
         "days": [
-          "2026-08-04",
-          "2026-08-25",
-          "2026-08-27"
+          "2026-08-28",
+          "2026-08-30",
+          "2026-09-04",
+          "2026-09-17"
         ]
       },
       {
-        "topic": "制裁",
-        "count": 3,
+        "topic": "资本流动",
+        "count": 4,
         "days": [
-          "2026-08-04",
-          "2026-08-09",
-          "2026-09-19"
+          "2026-09-02",
+          "2026-09-03",
+          "2026-09-16",
+          "2026-09-20"
         ]
       },
       {
@@ -60220,15 +63292,6 @@
         ]
       },
       {
-        "topic": "俄罗斯",
-        "count": 3,
-        "days": [
-          "2026-08-06",
-          "2026-08-16",
-          "2026-09-19"
-        ]
-      },
-      {
         "topic": "朝鲜",
         "count": 3,
         "days": [
@@ -60301,15 +63364,6 @@
         ]
       },
       {
-        "topic": "财政",
-        "count": 3,
-        "days": [
-          "2026-08-09",
-          "2026-08-22",
-          "2026-09-18"
-        ]
-      },
-      {
         "topic": "上海",
         "count": 3,
         "days": [
@@ -60320,15 +63374,6 @@
       },
       {
         "topic": "福建",
-        "count": 3,
-        "days": [
-          "2026-08-09",
-          "2026-08-13",
-          "2026-08-14"
-        ]
-      },
-      {
-        "topic": "欧盟",
         "count": 3,
         "days": [
           "2026-08-09",
@@ -60364,6 +63409,15 @@
         ]
       },
       {
+        "topic": "越南",
+        "count": 3,
+        "days": [
+          "2026-08-10",
+          "2026-08-30",
+          "2026-09-16"
+        ]
+      },
+      {
         "topic": "长鑫CXMT",
         "count": 3,
         "days": [
@@ -60373,12 +63427,12 @@
         ]
       },
       {
-        "topic": "算力",
+        "topic": "贸易逆差",
         "count": 3,
         "days": [
-          "2026-08-10",
-          "2026-08-24",
-          "2026-09-08"
+          "2026-08-11",
+          "2026-09-04",
+          "2026-09-16"
         ]
       },
       {
@@ -60388,24 +63442,6 @@
           "2026-08-11",
           "2026-08-15",
           "2026-08-27"
-        ]
-      },
-      {
-        "topic": "反倾销",
-        "count": 3,
-        "days": [
-          "2026-08-11",
-          "2026-08-13",
-          "2026-08-14"
-        ]
-      },
-      {
-        "topic": "特朗普",
-        "count": 3,
-        "days": [
-          "2026-08-12",
-          "2026-09-18",
-          "2026-09-20"
         ]
       },
       {
@@ -60508,12 +63544,12 @@
         ]
       },
       {
-        "topic": "美国",
+        "topic": "中欧贸易",
         "count": 3,
         "days": [
           "2026-08-17",
-          "2026-08-20",
-          "2026-08-22"
+          "2026-08-19",
+          "2026-09-16"
         ]
       },
       {
@@ -60526,21 +63562,30 @@
         ]
       },
       {
-        "topic": "美元",
-        "count": 3,
-        "days": [
-          "2026-08-17",
-          "2026-09-18",
-          "2026-09-20"
-        ]
-      },
-      {
         "topic": "通义千问",
         "count": 3,
         "days": [
           "2026-08-17",
           "2026-08-18",
           "2026-09-20"
+        ]
+      },
+      {
+        "topic": "中国外交",
+        "count": 3,
+        "days": [
+          "2026-08-18",
+          "2026-09-16",
+          "2026-09-18"
+        ]
+      },
+      {
+        "topic": "反补贴",
+        "count": 3,
+        "days": [
+          "2026-08-19",
+          "2026-09-16",
+          "2026-09-21"
         ]
       },
       {
@@ -60553,21 +63598,21 @@
         ]
       },
       {
+        "topic": "王毅",
+        "count": 3,
+        "days": [
+          "2026-08-19",
+          "2026-09-16",
+          "2026-09-18"
+        ]
+      },
+      {
         "topic": "美妆",
         "count": 3,
         "days": [
           "2026-08-19",
           "2026-08-20",
           "2026-09-01"
-        ]
-      },
-      {
-        "topic": "LPR",
-        "count": 3,
-        "days": [
-          "2026-08-21",
-          "2026-08-27",
-          "2026-09-18"
         ]
       },
       {
@@ -60607,24 +63652,6 @@
         ]
       },
       {
-        "topic": "全球利率",
-        "count": 3,
-        "days": [
-          "2026-08-27",
-          "2026-09-02",
-          "2026-09-03"
-        ]
-      },
-      {
-        "topic": "大模型",
-        "count": 3,
-        "days": [
-          "2026-08-28",
-          "2026-08-30",
-          "2026-09-04"
-        ]
-      },
-      {
         "topic": "财政政策",
         "count": 3,
         "days": [
@@ -60661,21 +63688,21 @@
         ]
       },
       {
-        "topic": "资本流动",
-        "count": 3,
-        "days": [
-          "2026-09-02",
-          "2026-09-03",
-          "2026-09-20"
-        ]
-      },
-      {
         "topic": "AI安全",
         "count": 3,
         "days": [
           "2026-09-04",
           "2026-09-05",
           "2026-09-19"
+        ]
+      },
+      {
+        "topic": "全球外交",
+        "count": 3,
+        "days": [
+          "2026-09-16",
+          "2026-09-17",
+          "2026-09-21"
         ]
       },
       {
@@ -60903,14 +63930,6 @@
         ]
       },
       {
-        "topic": "峰会",
-        "count": 2,
-        "days": [
-          "2026-08-08",
-          "2026-09-20"
-        ]
-      },
-      {
         "topic": "大宗商品",
         "count": 2,
         "days": [
@@ -60951,6 +63970,14 @@
         ]
       },
       {
+        "topic": "数字经济",
+        "count": 2,
+        "days": [
+          "2026-08-09",
+          "2026-09-17"
+        ]
+      },
+      {
         "topic": "新兴市场",
         "count": 2,
         "days": [
@@ -60975,14 +64002,6 @@
         ]
       },
       {
-        "topic": "越南",
-        "count": 2,
-        "days": [
-          "2026-08-10",
-          "2026-08-30"
-        ]
-      },
-      {
         "topic": "军事演习",
         "count": 2,
         "days": [
@@ -60996,6 +64015,14 @@
         "days": [
           "2026-08-10",
           "2026-08-11"
+        ]
+      },
+      {
+        "topic": "政策",
+        "count": 2,
+        "days": [
+          "2026-08-10",
+          "2026-09-17"
         ]
       },
       {
@@ -61028,14 +64055,6 @@
         "days": [
           "2026-08-11",
           "2026-08-16"
-        ]
-      },
-      {
-        "topic": "贸易逆差",
-        "count": 2,
-        "days": [
-          "2026-08-11",
-          "2026-09-04"
         ]
       },
       {
@@ -61375,27 +64394,11 @@
         ]
       },
       {
-        "topic": "中欧贸易",
-        "count": 2,
-        "days": [
-          "2026-08-17",
-          "2026-08-19"
-        ]
-      },
-      {
         "topic": "中国金融",
         "count": 2,
         "days": [
           "2026-08-17",
           "2026-08-18"
-        ]
-      },
-      {
-        "topic": "中国外交",
-        "count": 2,
-        "days": [
-          "2026-08-18",
-          "2026-09-18"
         ]
       },
       {
@@ -61444,14 +64447,6 @@
         "days": [
           "2026-08-19",
           "2026-09-10"
-        ]
-      },
-      {
-        "topic": "王毅",
-        "count": 2,
-        "days": [
-          "2026-08-19",
-          "2026-09-18"
         ]
       },
       {
@@ -61647,6 +64642,14 @@
         ]
       },
       {
+        "topic": "军售",
+        "count": 2,
+        "days": [
+          "2026-08-26",
+          "2026-09-17"
+        ]
+      },
+      {
         "topic": "债务重组",
         "count": 2,
         "days": [
@@ -61660,6 +64663,14 @@
         "days": [
           "2026-08-27",
           "2026-09-01"
+        ]
+      },
+      {
+        "topic": "美国经济",
+        "count": 2,
+        "days": [
+          "2026-08-27",
+          "2026-09-17"
         ]
       },
       {
@@ -61767,6 +64778,14 @@
         ]
       },
       {
+        "topic": "利率",
+        "count": 2,
+        "days": [
+          "2026-09-02",
+          "2026-09-17"
+        ]
+      },
+      {
         "topic": "科技治理",
         "count": 2,
         "days": [
@@ -61791,6 +64810,14 @@
         ]
       },
       {
+        "topic": "钢铁",
+        "count": 2,
+        "days": [
+          "2026-09-05",
+          "2026-09-16"
+        ]
+      },
+      {
         "topic": "商务部",
         "count": 2,
         "days": [
@@ -61807,15 +64834,87 @@
         ]
       },
       {
+        "topic": "汽车出口",
+        "count": 2,
+        "days": [
+          "2026-09-11",
+          "2026-09-21"
+        ]
+      },
+      {
+        "topic": "在岸",
+        "count": 2,
+        "days": [
+          "2026-09-16",
+          "2026-09-20"
+        ]
+      },
+      {
+        "topic": "离岸",
+        "count": 2,
+        "days": [
+          "2026-09-16",
+          "2026-09-20"
+        ]
+      },
+      {
+        "topic": "贸易壁垒",
+        "count": 2,
+        "days": [
+          "2026-09-16",
+          "2026-09-21"
+        ]
+      },
+      {
+        "topic": "周边安全",
+        "count": 2,
+        "days": [
+          "2026-09-16",
+          "2026-09-17"
+        ]
+      },
+      {
+        "topic": "主权争议",
+        "count": 2,
+        "days": [
+          "2026-09-16",
+          "2026-09-18"
+        ]
+      },
+      {
         "topic": "特朗普—习近平峰会",
         "count": 2,
         "days": [
           "2026-09-18",
           "2026-09-19"
         ]
+      },
+      {
+        "topic": "税收",
+        "count": 2,
+        "days": [
+          "2026-09-18",
+          "2026-09-21"
+        ]
       }
     ],
     "important_negatives": [
+      {
+        "id": "r4",
+        "date": "2026-09-21",
+        "media": "路透社",
+        "title_zh": "商务部：中方坚决反对欧盟要求中国“自愿限制”汽车出口，称严重违反WTO规则",
+        "importance": "high",
+        "day": "2026-09-21"
+      },
+      {
+        "id": "r5",
+        "date": "2026-09-21",
+        "media": "路透社",
+        "title_zh": "商务部回应特朗普签署针对俄伊的制裁法案：中方反对非法单边制裁",
+        "importance": "medium",
+        "day": "2026-09-21"
+      },
       {
         "id": "b5",
         "date": "2026-09-19",
@@ -61823,6 +64922,38 @@
         "title_zh": "大众下调全年利润指引：中国市场滑坡叠加保时捷60亿欧元减值，经营利润率预期砍至最高1%",
         "importance": "high",
         "day": "2026-09-20"
+      },
+      {
+        "id": "r6",
+        "date": "2026-09-17",
+        "media": "路透社",
+        "title_zh": "路透：美盟友担忧特朗普在峰会上对台“手软”；PLA单日19架次、17架越中线，140亿美元军售待批",
+        "importance": "high",
+        "day": "2026-09-17"
+      },
+      {
+        "id": "r4",
+        "date": "2026-09-16",
+        "media": "路透社",
+        "title_zh": "澳大利亚对中国轻型钢螺柱和轨道作出反倾销终裁：税率33.3%—37.8%",
+        "importance": "medium",
+        "day": "2026-09-16"
+      },
+      {
+        "id": "r5",
+        "date": "2026-09-16",
+        "media": "路透社",
+        "title_zh": "国台办回应台“资通电军”言论：挑衅滋事、纯属不自量力",
+        "importance": "medium",
+        "day": "2026-09-16"
+      },
+      {
+        "id": "r6",
+        "date": "2026-09-16",
+        "media": "路透社",
+        "title_zh": "国台办：日本议员窜访中国台湾地区、鼓噪所谓“防卫合作”，坚决反对",
+        "importance": "medium",
+        "day": "2026-09-16"
       },
       {
         "id": "r3",
@@ -63314,14 +66445,23 @@
       }
     ],
     "penetration": {
-      "运行天数": 40,
-      "累计报道": 580,
-      "覆盖议题": 997,
-      "覆盖信源": 1316,
-      "负面累计": 187,
-      "谋题累计": 45
+      "运行天数": 43,
+      "累计报道": 606,
+      "覆盖议题": 1027,
+      "覆盖信源": 1358,
+      "负面累计": 193,
+      "谋题累计": 54
     },
     "questions_timeline": [
+      {
+        "day": "2026-09-21",
+        "count": 3,
+        "titles": [
+          "长鑫科技第五代DRAM工艺平台量产：24GB LPDDR5X展出，逼近全球顶尖（约11.95纳米级）",
+          "何立峰率团赴美经贸磋商（9/19—23）：为特朗普—习近平峰会做最后铺垫",
+          "商务部反对欧盟「自愿限制」汽车出口：称严重违反WTO规则，中欧汽车博弈升级"
+        ]
+      },
       {
         "day": "2026-09-20",
         "count": 3,
@@ -63347,6 +66487,24 @@
           "比亚迪大规模召回逾18万辆：中国电动车质量与出海声誉的警示",
           "财政8月“收多支少”：广义支出降幅扩大，内需疲弱下的刺激两难",
           "PE据报考虑新出价恒大物业：出清地产风险资产的最后博弈"
+        ]
+      },
+      {
+        "day": "2026-09-17",
+        "count": 3,
+        "titles": [
+          "华为发布昇腾960超节点：NPO近封装光学、4096卡，960DT提前三季至2027Q1",
+          "中美纽约经贸磋商为峰会铺路：关税休战、稀土、AI护栏在列",
+          "台海：美盟友忧特朗普对台「手软」，PLA单日17架次越中线、140亿美元军售待批"
+        ]
+      },
+      {
+        "day": "2026-09-16",
+        "count": 3,
+        "titles": [
+          "冯德莱恩盟情咨文点名对华：每日10亿欧元逆差+关键矿产依赖，欧盟「去风险」具象化",
+          "关税套利褪色、订单产线回流中国：越南限电成拐点，「中国+1」遭反噬",
+          "台海：国台办回应「资通电军」与日本议员窜台，网络与外部介入对抗升温"
         ]
       },
       {
@@ -63460,11 +66618,11 @@
     ]
   },
   "stats": {
-    "total": 580,
-    "days": 40,
-    "negatives": 187,
-    "with_author": 355,
-    "with_body": 164,
-    "with_sources": 518
+    "total": 606,
+    "days": 43,
+    "negatives": 193,
+    "with_author": 357,
+    "with_body": 190,
+    "with_sources": 544
   }
 }

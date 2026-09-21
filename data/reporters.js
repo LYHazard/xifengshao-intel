@@ -1764,4 +1764,44 @@ window.__XFS_REPORTERS__ = [
     handles: { x: "—", linkedin: "—", email: "—" },
     sources: ["https://www.envoy.cirrus.bloomberg.com/news/newsletters/2026-08-31/volkswagen-ceo-blume-risks-losing-the-locker-room", "https://news.bloombergtax.com/international-trade/vw-eyes-cutting-100-000-jobs-and-closing-plants-report-says-2"]
   }
+,
+  {
+    id: "roger-tung", name: "Roger Tung", name_zh: "董永年",
+    gender: "男(推测)",
+    nationality: "中国台湾",
+    ethnic_chinese: "是",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "路透台北分社经济/央行记者", title_en: "Taipei Correspondent, Economics & Central Bank",
+    beat: "驻台北，覆盖台湾经济、央行货币政策（利率、汇率）与宏观金融数据，常涉两岸经贸与金融市场议题。",
+    base: "台北", base_en: "Taipei",
+    background: "路透台北分社记者，2026-09-17 署名报道台湾央行「连10冻」维持重贴现率2%、总裁杨金龙称货币政策「走自己的路」。公开履历与毕业院校未独立核实，本档不编造。",
+    education: "未公开检索到（依署名回溯新增，未独立核实）",
+    career: ["路透 台北经济/央行记者（依署名回溯）"],
+    focus: ["台湾", "货币政策", "央行", "利率", "汇率"],
+    recent: [
+      { t: "Taiwan's central bank holds rate for 10th straight quarter as inflation eases", d: "2026-09-17", n: "台湾央行连10冻（重贴现率2%）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "roger.tung@thomsonreuters.com" },
+    sources: ["https://www.reuters.com/world/china/taiwan-central-bank-holds-rate-10th-quarter-2026-09-17/"]
+  }
+,
+  {
+    id: "john-geddie", name: "John Geddie", name_zh: "—",
+    gender: "男(推测)",
+    nationality: "待定(推测)",
+    ethnic_chinese: "否",
+    org: "Reuters", org_unit: "Reuters", role: "reporter",
+    title: "路透新加坡宏观/市场记者", title_en: "Singapore Correspondent, Macro & Markets",
+    beat: "驻新加坡，覆盖东南亚宏观、市场与央行（含台湾相关市场与区域安全议题），常涉美中博弈、区域安全与市场交叉报道。",
+    base: "新加坡", base_en: "Singapore",
+    background: "路透新加坡分社记者，2026-09-17 与 Ben Blanchard 等合署报道「美盟友担忧特朗普在峰会上对台手软」及 PLA 绕台动态。公开履历与毕业院校未独立核实，本档不编造。",
+    education: "未公开检索到（依署名回溯新增，未独立核实）",
+    career: ["路透 新加坡宏观/市场记者（依署名回溯）"],
+    focus: ["东南亚", "宏观", "市场", "央行", "区域安全"],
+    recent: [
+      { t: "US allies fret over how Trump might play his Taiwan hand with Xi at summit", d: "2026-09-17", n: "合著（与 Ben Blanchard 等）" }
+    ],
+    handles: { x: "—", linkedin: "—", email: "—" },
+    sources: ["https://www.reuters.com/world/china/us-allies-fret-trump-taiwan-hand-xi-summit-2026-09-17/"]
+  }
 ];
