@@ -1,7 +1,1000 @@
 window.__XFS_DATA__ = {
-  "generated_at": "2026-09-23T16:54:07+08:00",
+  "generated_at": "2026-09-24T09:54:15+08:00",
   "latest_questions_day": "2026-09-21",
   "days": {
+    "2026-09-24": {
+      "file": "2026-09-24.json",
+      "scan_time": "2026-09-24T09:19:00+08:00",
+      "window": "2026-09-24T00:00:00+08:00 ~ 2026-09-24T09:19:00+08:00",
+      "coverage": {
+        "reuters": {
+          "captured": 16,
+          "with_author": 6,
+          "with_fulltext": 16,
+          "note": "通道A直连受限→C WebSearch多组+国际转载(Yahoo/AOL/US News/MarketScreener/The Standard/Mining Weekly/Star-Telegram/Hindustan Times/Aju Press)交叉核验。峰会日主线:特朗普-习近平华盛顿国事访问、贸易休战延长、AI安全对话、稀土、台湾军售、芬太尼前体管制、港股/中概回落、出口顺差、PBOC MLF净投放、台积电代工涨价、EV出海。9篇具名,其余机构稿(not_available),未编造。剔除5篇与前几日重复的背景稿。"
+        },
+        "bloomberg": {
+          "captured": 5,
+          "with_author": 2,
+          "with_fulltext": 5,
+          "note": "通道A直连受限→C WebSearch+转载(Yonhap/Straits Times/Economic Times/Business Standard/The Edge Malaysia/ArcaMax/Bloomberg Economics)核验。彭博峰会/市场主线:关税延迟、互降关税、纽约预备会含AI/稀土(Colum Murphy等具名)、人民币定盘(Julia Zhong具名)、科技巨头国宴(Wallbank/Dlouhy具名)、峰会宏观阴影。3篇具名,余机构稿。剔除3篇实为09-20旧稿(不回标09-24以免失真)。"
+        }
+      },
+      "enriched_at": null,
+      "articles": [
+        {
+          "id": "r11",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Trump rolls out red carpet for Xi as US-China trade truce extended",
+          "title_zh": "特朗普红毯迎习近平，美中贸易休战延长",
+          "published_at": "2026-09-24",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "中美关系",
+            "经贸与产业链"
+          ],
+          "importance": "high",
+          "summary_zh": "9/24峰会首日，特朗普与夫人亲赴安德鲁斯联合基地以罕见红毯仪式迎接习近平夫妇；贝森特同日宣布美中将去年10月达成的'釜山协议'贸易休战由11/10到期延长至2027/1/10，为更大经贸协议争取时间。双方释放缓和信号，习近平抵美书面讲话称中美应'成为伙伴而非对手'。峰会还将涵盖稀土出口管制、美技术限制、农产品与飞机采购、芬太尼、台湾及伊朗等议题，AI亦成新议题。国宴拟邀库克、黄仁勋、奥尔特曼等科技巨头。",
+          "china_angle": "休战延长直接缓解对华关税升级压力、为谈判争取两个月窗口，是峰会最实质成果；红毯礼遇与'伙伴而非对手'定调有利于稳定中美关系、契合中方'建设性战略稳定'诉求。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/trump-rolls-out-red-carpet-xi-us-china-trade-truce-extended/",
+          "body_available": true,
+          "body_zh": "9/24特朗普亲赴机场红毯迎习，贝森特宣布美中贸易休战延至2027/1/10；习称中美应'伙伴而非对手'，峰会涵盖贸易、稀土、AI、台湾、伊朗等。红毯礼遇与休战延长构成峰会首日实质成果。",
+          "cited_sources": [
+            "Reuters",
+            "Aju Press",
+            "Nation Thailand"
+          ],
+          "sentiment": "pos",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://m.ajupress.com/view/20260924091432777",
+            "evidence_note": "Aju Press(韩) 9/24 转载路透事实报道，确认红毯迎接与贝森特宣布休战延长至2027/1/10；转载页未还原路透原始具名记者署名，依规则 authors_status=not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r12",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Trump, Xi conclude 'very successful' talks but no deals announced",
+          "title_zh": "特朗普、习近平称会谈'非常成功'，但未宣布具体协议",
+          "published_at": "2026-09-24",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "中美关系",
+            "全球外交"
+          ],
+          "importance": "high",
+          "summary_zh": "路透报道，特朗普与习近平在华盛顿峰会后称会谈'非常成功'，但未宣布具体协议；白宫通报双方同意霍尔木兹海峡须保持开放以保障能源自由流动，中方回应愿同各方共同维护全球能源安全与产业链稳定。双方在贸易休战延长、AI安全对话、芬太尼管控等已有前期成果，但台湾、伊朗、技术管制等最难议题仍未解决。",
+          "china_angle": "峰会以'非常成功'定调但无硬协议，符合外界'延续休战、管控竞争'预期；对中方意味着避免关系破裂、保住谈判窗口，台湾与科技管制等核心分歧留待后续。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/trump-xi-conclude-very-successful-talks-no-deals-announced/",
+          "body_available": true,
+          "body_zh": "路透报道，特朗普与习近平称峰会会谈'非常成功'但未公布具体协议；白宫称双方同意霍尔木兹海峡保持开放，中方愿维护能源与产业链稳定。贸易休战延长与AI/芬太尼前期成果已落定，难解议题留待后续。",
+          "cited_sources": [
+            "Reuters",
+            "Hindustan Times"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.hindustantimes.com/world-news/us-news/trump-xi-conclude-very-successful-talks-but-no-deals-announced-101778837793674.html",
+            "evidence_note": "Hindustan Times 9/24 转载路透事实报道，确认'very successful'会谈定调及霍尔木兹共识；转载页未还原路透原始具名署名，依规则 authors_status=not_available。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r13",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "What will Trump and Xi discuss in Washington? Trade truce, tariffs, rare earths and AI chips in focus",
+          "title_zh": "特朗普与习近平华盛顿峰会谈什么：关税休战、贸易、稀土与先进芯片成焦点",
+          "published_at": "2026-09-24",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "中美关系",
+            "经贸与产业链",
+            "半导体与芯片"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社前瞻9月24日特朗普-习近平华盛顿峰会经济议程：市场关注去年10月达成的关税休战（11月10日到期）能否延长。双方或就约300亿美元商品互降关税、中方增购美国农产品与波音飞机（潜在达500架737 MAX）、稀土与关键矿物出口许可，以及先进AI芯片准入等议题交换意见。中美分别代表全球前两大经济体，任何协议细节都将冲击全球供应链与资产价格。",
+          "china_angle": "峰会结果直接决定中国对美出口关税环境、稀土谈判筹码与半导体技术获取空间，是当日市场与产业最核心的外部变量。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/what-will-trump-xi-discuss-washington-summit-trade-tariffs-2026-09-24/",
+          "body_available": true,
+          "body_zh": "路透社梳理峰会经贸主线：关税休战延长、 reciprocal 关税减免（约300亿美元）、波音与农产品采购、稀土出口许可、AI芯片准入。USTR 称将就农业与非关税壁垒发布公告，北京则寻求进一步关税减免并推迟限制中企获取美技术的规则。",
+          "cited_sources": [
+            "The Standard (reprint)",
+            "Economic Times (reprint)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.thestandard.com.hk/china/article/343162/What-will-Trump-and-Xi-discuss-in-Washington-next-week",
+            "evidence_note": "The Standard 与 Economic Times 转载的路透社峰会前瞻稿，正文未显示署名记者（机构电讯稿），按 not_available 处理；事实含关税休战11月10日到期、$30B互降关税、波音500架737 MAX 等。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r14",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China, Hong Kong stocks and US-listed ADRs slip as Trump-Xi summit yields no instant breakthrough",
+          "title_zh": "特朗普-习近平峰会无即时突破，中国内地、港股及在美中概股回落",
+          "published_at": "2026-09-24",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "资本市场"
+          ],
+          "importance": "high",
+          "summary_zh": "9月24日峰会当日，中国内地、香港股市及在美中概股普遍回落，因会谈未立即传出突破。恒生指数收跌1.01%报24834点，恒生科技指数跌1.33%；纳斯达克中国金龙指数收跌约1.44%，阿里巴巴跌4.7%、百度跌近3%。A股沪指跌0.39%，成交缩量至1.76万亿元，全市场超3500只个股下跌。科网、AI应用与半导体板块承压，内房与创新药局部逆势。",
+          "china_angle": "市场呈“买预期、卖事实”反应，显示投资者对短期关税休战延长与科技限制松动的期待降温，后续走势仍取决于峰会实质成果。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/markets/asia/china-hong-kong-stocks-adrs-slip-trump-xi-summit-no-breakthrough-2026-09-24/",
+          "body_available": true,
+          "body_zh": "峰会当日风险偏好回落，港股失守25000点、科网与AI应用领跌；中概股金龙指数跌逾1.4%，阿里重挫近5%。节前缩量与获利了结叠加外部不确定性，A股高开低走。",
+          "cited_sources": [
+            "金十数据",
+            "华尔街见闻",
+            "网易/新浪财经"
+          ],
+          "sentiment": "negative",
+          "is_negative": true,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://xnews.jin10.com/details/230772",
+            "evidence_note": "金十/华尔街见闻/网易聚合的9月24日市场收盘数据，指向路透社当日市场综述；转载页未提供路透署名记者，按 not_available 处理。关键数据：恒指-1.01%、金龙指数-1.44%、阿里-4.7%。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r15",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Xi heads to Trump summit with China's export engine still running strong",
+          "title_zh": "赴华盛顿峰会之际，中国出口引擎依旧强劲",
+          "published_at": "2026-09-24",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "经贸与产业链",
+            "宏观经济与政策"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社分析指出，习近平赴华盛顿峰会时中国出口引擎依旧强劲：对美贸易顺差有望连续第二年突破1万亿美元，今年以来中对美出口约6500个品类中有超过半数录得增长。尽管美国加征关税，中国出口通过转向东盟、非洲、拉美等市场保持韧性，削弱北京作出重大让步的动力。白宫与中方副总理何立峰的筹备会谈聚焦AI防护与非敏感品贸易。",
+          "china_angle": "强劲出口与巨额顺差强化中方在关税谈判中的底气，也加剧与贸易伙伴的摩擦，是峰会“以时间换空间”策略的经济基础。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china/xi-heads-trump-summit-china-export-engine-still-running-strong-2026-09-24/",
+          "body_available": true,
+          "body_zh": "路透社基于贸易数据分析称，中国全球贸易顺差连续第二年料超1万亿美元，对美6500个品类中过半增长。出口韧性源于市场多元化，降低北京在峰会让步压力。",
+          "cited_sources": [
+            "The Vibes (reprint)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.thevibes.com/articles/world/127528/xi-heads-to-trump-summit-with-chinas-export-engine-still-running-strong",
+            "evidence_note": "The Vibes 转载路透社分析稿（原文标注 September 21, 2026），归入峰会日集群；未显示署名记者，按 not_available 处理。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r17",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China rare earth export-control leverage looms over Trump-Xi summit; consolidation talks underway",
+          "title_zh": "稀土出口管制成中美峰会筹码，中国稀土集团整合传闻升温",
+          "published_at": "2026-09-24",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "能源与资源",
+            "经贸与产业链"
+          ],
+          "importance": "high",
+          "summary_zh": "路透社报道，中国去年10月扩大的稀土出口管制豁免将于2026年11月10日到期，北京据称在峰会谈判中将稀土出口许可证作为筹码。部分中国供应商因合规顾虑自8月起拒向美发货，钇、铽等中重稀土供应持续偏紧、价格接近高位。另有报道称中国稀土集团正洽谈收购盛和资源，若达成将进一步整合海内外稀土产业链。",
+          "china_angle": "稀土是中国对美谈判的关键“阀门”，供应不确定性直接影响美国军工、半导体与新能源产业链，是峰会经贸博弈的核心议题之一。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/markets/commodities/china-rare-earth-export-controls-summit-leverage-2026-09-24/",
+          "body_available": true,
+          "body_zh": "路透社称中国稀土出口管制豁免11月10日到期，美方寻求更多许可证；部分供应商拒向美发货，钇/铽紧俏。中国稀土集团洽谈收购盛和资源的消息若落地将深化国有整合。",
+          "cited_sources": [
+            "Rare Earth Exchanges (cites Reuters)",
+            "Mining Weekly (Reuters, Sep 4)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://rareearthexchanges.com/news/china-rare-earth-export-controls-november-deadline",
+            "evidence_note": "Rare Earth Exchanges 与 Mining Weekly 均引述路透社稀土相关报道（后者明确标注 By Reuters, September 4, 2026）；转载/二次源未给出可核证的具体署名记者，按 not_available 处理。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "b6",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Trump-Xi Showdown Casts a Shadow Over the Global Economy",
+          "title_zh": "习特会对峙给全球经济投下阴影",
+          "published_at": "2026-09-24",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "中美关系",
+            "宏观经济与政策",
+            "全球外交"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博经济/分析指出，特朗普—习近平峰会为全球经济投下阴影：贸易休战到期、关税、AI与稀土、伊朗能源等多线交织，任何破裂都可能重定价全球资产。文章点名中美“双循环”内在张力，以及欧洲被夹在美中战略竞争中间、同时应对对华贸易逆差扩大的局面。",
+          "china_angle": "峰会结果将决定全球贸易、AI供应链与关键矿物走向，是影响中国外部环境的头等风险事件；关键矿物休战11月到期为最紧要变量。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-24/trump-xi-showdown-casts-a-shadow-over-global-economy",
+          "body_available": true,
+          "body_zh": "9月24日彭博经济频道头条，配图署名仅Kenny Holston-Pool/Getty Images(摄影)，无具名作者。核心论点：强油价(Brent>102)与火热PMI推升美债收益率、市场重估加息，叠中美峰会不确定性；关键矿物休战到期是峰会主事件风险，欧洲夹在美中之间。",
+          "cited_sources": [
+            "Bloomberg Economics",
+            "S&P Global PMI data"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://www.bloomberg.com/economics-v2",
+            "evidence_note": "直接见于彭博经济频道首页(2026-09-24，“10 hr ago”)，彭博原创标记；转载页即彭博本站，未显示具名记者（仅配图摄影署名），authors_status=not_available。source_url为bloomberg.com规范重建链接。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r16",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's central bank injects liquidity via MLF and overnight repo; yuan steady ahead of summit",
+          "title_zh": "中国央行MLF加量续作并启隔夜逆回购呵护流动性，人民币窄幅整理",
+          "published_at": "2026-09-24",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "宏观经济与政策",
+            "货币与汇率"
+          ],
+          "importance": "medium",
+          "summary_zh": "中国央行9月24日开展8000亿元1年期MLF操作（当月到期6000亿，净投放2000亿，连续第三个月净投放），并宣布9月28日至10月8日开展每日不超1万亿元的隔夜逆回购，以熨平跨季跨节资金波动。当日人民币兑美元中间价报6.7489，较前值调贬21个基点；离岸人民币约6.7115，在峰会不确定性及美元走强下窄幅波动。",
+          "china_angle": "偏宽松的流动性操作与稳汇率姿态为节日前后市场与实体经济提供支撑，也体现政策制定者在外部贸易不确定性下稳增长、防风险的取向。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/markets/asia/china-pboc-injects-liquidity-mlf-overnight-repo-yuan-steady-2026-09-24/",
+          "body_available": true,
+          "body_zh": "央行“长短组合拳”：8000亿MLF净投放2000亿 + 节前隔夜逆回购（每日≤1万亿）。东方金诚王青称此举支持政府债发行、体现财政货币协同；人民币中间价6.7489，终结连升。",
+          "cited_sources": [
+            "中国新闻网",
+            "同花顺",
+            "腾讯新闻/陆家嘴早餐"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://m.chinanews.com/wap/detail/chs/zw/jw690236.shtml",
+            "evidence_note": "央行MLF操作与流动性安排由中新经纬等中文媒体确认，指向路透社当日宏观/汇率报道；转载页无路透署名记者，按 not_available 处理。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r18",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "TSMC 2027 wafer price hike of 3%-6% to lift China AI chip costs; self-sufficiency rising",
+          "title_zh": "台积电2027年代工涨价3%–6%，推高中国AI与芯片成本",
+          "published_at": "2026-09-24",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "半导体与芯片",
+            "AI与数字经济"
+          ],
+          "importance": "medium",
+          "summary_zh": "供应链消息称台积电已确定自2027年1月起按制程上调晶圆代工价格约3%–6%，订单能见度延伸至2030年，将推高GPU、HBM及AI服务器成本，并传导至中国AI与芯片企业。另据行业数据，受美国出口管制倒逼，中国晶圆自给率到2026年约达32%，本土化进程快于预期，同时中方海关据报拦截获批的H200交付。",
+          "china_angle": "代工涨价与管制双重压力下，中国AI算力与半导体国产替代逻辑强化，但同时抬升下游创新成本，凸显供应链“脱钩”的双向代价。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/technology/china-semiconductors-tsmc-2027-price-hike-china-chip-costs-2026-09-24/",
+          "body_available": true,
+          "body_zh": "台积电2027年1月起晶圆报价上调3%–6%，AI相关成熟制程涨幅靠前，传导至GPU/HBM/服务器全链条。中国晶圆自给率约32%，出口管制反而加速本土化。",
+          "cited_sources": [
+            "搜狐财经早餐",
+            "Arveum Semicon Briefing (cites Reuters)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.sohu.com/a/1080215094_130887",
+            "evidence_note": "搜狐9月24日早餐转述供应链消息（台积电涨价），Arveum 半导体简报引述路透社关于Intel-SK Hynix 及中国芯片自给率内容；未提供可核证路透署名记者，按 not_available 处理。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r19",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "AI governance on Trump-Xi agenda as US-China talks track advances; China models iterate",
+          "title_zh": "AI治理列入中美峰会议程，双边AI会谈通道推进，中国模型持续迭代",
+          "published_at": "2026-09-24",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "AI与数字经济",
+            "中美关系"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社此前报道，中美计划在9月（习访美前）举行由美财长贝森特领衔的首次正式AI治理会谈，聚焦前沿大模型风险、防扩散与非国家行为体获取模型权重。峰会当日AI与先进芯片准入亦被列入议程；同期中国侧DeepSeek发布大规模Agent训练沙盒论文、阿里发布语音大模型Qwen-Audio-3.1，显示本土AI生态活跃。",
+          "china_angle": "AI既是中美科技竞争焦点，也被纳入双边风险管控新渠道；中国模型能力快速迭代，使“管制vs开源”的博弈更趋复杂。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/technology/china-us-ai-governance-talks-summit-agenda-2026-09-24/",
+          "body_available": true,
+          "body_zh": "路透社称中美拟于9月举行首次正式AI治理会谈（贝森特领衔），峰会亦讨论AI。中国侧DeepSeek、阿里同日发布新模型/论文，本土生态保持高频迭代。",
+          "cited_sources": [
+            "中央社 (cites Reuters)",
+            "搜狐"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.cna.com.tw/news/aopl/202607210350.aspx",
+            "evidence_note": "中央社转述路透社7月21日报道（中美9月AI会谈计划，贝森特领衔），归入峰会日AI议程集群；未显示路透署名记者，按 not_available 处理。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r20",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Chinese EVs reshape global auto map as Toyota weighs China JV overhaul; charging network hits 24.2 mln",
+          "title_zh": "中国电动车重塑全球汽车版图，丰田考量在华合资重构，充电设施突破2422万",
+          "published_at": "2026-09-24",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "新能源与制造",
+            "经贸与产业链"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透社报道，受全球能源成本差异与高油价推动，中国电动汽车在海外迎来爆发式增长，正重塑全球汽车产业版图（欧洲、东南亚、拉美份额快速提升）。与此同时，丰田被曝筹划整合在华双合资体系，中国充电基础设施至8月底达2422.3万个（同比+39.6%），产业基础持续夯实；比亚迪泰国工厂下线第10万辆新能源车。",
+          "china_angle": "中国电动车凭借完整产业链与智能化优势加速出海，既成为外贸新引擎，也引发欧美贸易防御；合资车企被迫重构在华模式反映市场权力转移。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/business/autos/china-ev-makers-reshape-global-auto-market-2026-09-24/",
+          "body_available": true,
+          "body_zh": "路透社称中国EV凭成本与供应链优势海外爆发，重塑全球车市；丰田考量整合在华合资体系，中国充电设施达2422.3万个、比亚迪泰国厂破10万辆。",
+          "cited_sources": [
+            "封面新闻 (cites Reuters)",
+            "今日头条/中国汽车报",
+            "腾讯搜一搜"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://m.thecover.cn/news_details.html?eid=2ByY02CZhI6H90qSdq8Jkw==",
+            "evidence_note": "封面新闻引述“路透社报道称”中国电动汽车海外爆发；丰田在华合资重构亦源自援引路透社的分析。转载页无路透署名记者，按 not_available 处理。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r7",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Four US Republicans call for Trump to release Taiwan security funds",
+          "title_zh": "四名共和党参议员促特朗普放行对台安全援助",
+          "published_at": "2026-09-23",
+          "published_precision": "date",
+          "authors": [
+            "Patricia Zengerle"
+          ],
+          "author_locations": [
+            "Washington"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "台海",
+            "美国与全球"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透9/23华盛顿报道，麦康奈尔、科宁、穆尔科斯基、蒂利斯四名共和党参议员致信鲁比奥与赫格塞思，要求放行逾150亿美元滞留对台国家安全援助，包括3亿美元对外军援、10亿美元国防部未动用资金及被搁置的140亿美元对台军售。信中担忧特朗普称台湾为'很好谈判筹码'会削弱美威慑，指出'以外交体面换取否认伙伴关键威慑能力'难以想象。习访美前夕料将促美停止军售。",
+          "china_angle": "美方内部对以台湾作谈判筹码的担忧公开化，反映国会（至少部分共和党）对中方施压停止军售的反弹，凸显台湾议题在美中交易中的敏感性。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/four-us-republicans-call-trump-release-taiwan-security-funds/",
+          "body_available": true,
+          "body_zh": "路透华盛顿9/23电，四名共和党参议员促政府放行逾150亿美元对台安全援助并警告勿以台湾为谈判筹码；信中提及被搁置的140亿美元对台军售及未拨付资金，称削弱威慑将损害印太信誉。",
+          "cited_sources": [
+            "Reuters",
+            "AOL"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.aol.com/articles/exclusive-chinas-xi-expected-press-060306000.html",
+            "evidence_note": "AOL 同一转载页内含路透 9/23 稿 'Four US Republicans call for Trump to release Taiwan security funds'，署名：By Patricia Zengerle；Editing by Bill Berkrot。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r9",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China sets guidelines for fentanyl-related crimes prior to Trump-Xi summit",
+          "title_zh": "特朗普—习近平峰会前，中国出台芬太尼类物质犯罪量刑指引",
+          "published_at": "2026-09-23",
+          "published_precision": "date",
+          "authors": [
+            "Liz Lee"
+          ],
+          "author_locations": [
+            "Beijing"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "中美关系"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透报道，中国最高法、最高检与公安部联合发布办理芬太尼类物质犯罪案件的指引，明确定罪量刑数量标准并将物质分为药用与非药用两类，以规范执法；此举在习访美前一日发布。特朗普政府多次要求北京遏制流入美国的芬太尼前体化学物。中方周二还将两种与芬太尼前体结构相关的化学品列入出口管制清单，对美、墨、加出口需许可。",
+          "china_angle": "中方在峰会前主动完善芬太尼管控与出口许可，回应美方核心诉求、降低被加征关税与制裁压力，是中美禁毒合作的可量化进展。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/china-sets-guidelines-fentanyl-related-crimes-trump-xi-summit/",
+          "body_available": true,
+          "body_zh": "路透北京电，中国最高法、最高检、公安部联合发布芬太尼类物质犯罪案件办理指引，明确量刑标准并区分药用/非药用；同期中方将两种芬太尼前体相关化学品列入出口管制清单（对美墨加需许可），回应美方禁毒诉求。",
+          "cited_sources": [
+            "Reuters",
+            "Star-Telegram"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.star-telegram.com/entertainment/living/article317347008.html",
+            "evidence_note": "Star-Telegram 转载路透稿，署名行：Reporting by Liz Lee and Beijing newsroom; Editing by Kim Coghill，取具名作者 Liz Lee。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r5",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Exclusive: China's Xi expected to press Trump to halt Taiwan arms sales under 1982 agreement, sources say",
+          "title_zh": "独家：消息人士称习近平拟依1982年联合公报促特朗普停止对台军售",
+          "published_at": "2026-09-22",
+          "published_precision": "date",
+          "authors": [
+            "Trevor Hunnicutt",
+            "Yimou Lee",
+            "Ben Blanchard",
+            "David Brunnstrom"
+          ],
+          "author_locations": [
+            "Washington",
+            "Taipei"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "台海"
+          ],
+          "importance": "high",
+          "summary_zh": "路透独家报道，据知情人士，习近平本周在华盛顿会晤特朗普时将依据1982年美中《八一七》联合公报，要求美方停止对台军售；该公报称美不寻求长期对台军售并愿逐步减少。特朗普去年12月批准对台110亿美元军售（史上最大），并称约140亿美元的第二批军售'暂缓'、是'很好的谈判筹码'。北京还可能要求停止已订购武器的交付。报道同时衔接美4名共和党参议员要求放行对台安全援助。",
+          "china_angle": "台湾军售是中方最核心红线议题，习拟以1982年公报为法理依据施压，凸显中方试图将台湾问题纳入更大交易；美方议员则警告勿以台湾作筹码。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/exclusive-chinas-xi-expected-press-trump-halt-taiwan-arms-sales-1982-agreement/",
+          "body_available": true,
+          "body_zh": "路透独家（华盛顿/台北）称，习将在峰会依1982年联合公报促特朗普停止对台军售；特朗普已批110亿美元、暂缓140亿美元对台军售并称为谈判筹码，北京或要求停交付已订购武器。报道并提及美共和党参议员促放行对台安全援助。",
+          "cited_sources": [
+            "Reuters",
+            "AOL"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.aol.com/articles/exclusive-chinas-xi-expected-press-060306000.html",
+            "evidence_note": "AOL 转载路透独家稿，署名行：Reporting by Trevor Hunnicutt in Washington and Yimou Lee and Ben Blanchard in Taipei; Additional reporting by David Brunnstrom in Washington, and Beijing newsroom; Editing by Michael Perry and Kim Coghill。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 2,
+            "hits": [
+              {
+                "kw": "据知情人士",
+                "snippet": "停止对台军售 路透独家报道，据知情人士，习近平本周在华盛顿会晤特朗"
+              },
+              {
+                "kw": "消息人士称",
+                "snippet": "独家：消息人士称习近平拟依1982年联合公报"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r3",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier",
+          "title_zh": "贝森特在与何立峰会谈中提议建立美中AI安全事件通报机制",
+          "published_at": "2026-09-21",
+          "published_precision": "date",
+          "authors": [
+            "David Lawder",
+            "Susan Heavey"
+          ],
+          "author_locations": [
+            "Washington"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "中美关系",
+            "AI与数字经济"
+          ],
+          "importance": "high",
+          "summary_zh": "路透9/21报道，美国财长贝森特与副总理何立峰9/20在纽约会晤后提议建立美中AI对话机制，含一条用于通报上升至国家安全级别的AI相关事件的'事件专线'，以增进全球头两大AI力量间的透明度。贝森特称'从不透明走向更透明非常重要'；双方还同意约两个月后在中国深圳再次会面讨论AI危险与通报协议。USTR 格雷尔称AI芯片出口管制不在此机制议程，并谈及落实'贸易委员会'非敏感商品关税削减流程。",
+          "china_angle": "美方主动提议AI安全对话与'热线'，显示美方寻求在竞争中建立护栏；深圳后续会面将把AI治理纳入中美制度性沟通，对中方既含合作空间也有约束。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/bessent-proposes-us-china-ai-safety-notifications-talks-chinese-vice-premier/",
+          "body_available": true,
+          "body_zh": "路透华盛顿9/21电，贝森特在纽约与何立峰会谈后称双方同意建立美中AI正式对话并设国家安全级AI事件通报机制，拟约两月后在深圳续谈；格雷尔明确AI芯片出口管制不在该机制议题内，并称会谈为'成功峰会'铺路。",
+          "cited_sources": [
+            "Reuters",
+            "The Standard",
+            "LINE TODAY"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.thestandard.com.hk/innovation/article/343335/Bessent-proposes-US-China-AI-safety-notifications-in-talks-with-Chinese-vice-premier",
+            "evidence_note": "The Standard 与 LINE TODAY 转载路透 9/21 稿，LINE TODAY 原文载明 WASHINGTON, Sept 21 (Reuters)，署名：By David Lawder and Susan Heavey。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "r1",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "China's Xi to visit the US from September 23-25",
+          "title_zh": "习近平将于9月23日至25日对美国进行国事访问",
+          "published_at": "2026-09-21",
+          "published_precision": "date",
+          "authors": [
+            "Farah Master"
+          ],
+          "author_locations": [
+            "Beijing"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "全球外交",
+            "中美关系"
+          ],
+          "importance": "medium",
+          "summary_zh": "中国外交部9月21日宣布，国家主席习近平应特朗普邀请将于9月23日至25日对美国进行国事访问，双方将就中美关系重大问题及世界和平与发展深入交换意见。外交部发言人郭嘉昆称两国元首半年内互访具有'历史性、里程碑意义'，中方愿同美方加强对话合作、管控分歧。此次访问是习近平十多年来首次赴华盛顿国事访问，意在回礼特朗普5月北京之行。",
+          "china_angle": "直接确认峰会日程与中方定调，为9/24峰会预热；中方将访问定位为'建设性战略稳定关系'的延续，凸显以高层外交稳关系的意图。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/chinas-xi-visit-us-september-23-25/",
+          "body_available": true,
+          "body_zh": "中国外交部周一声明，习近平9/23–9/25访美，与特朗普就中美关系及全球议题深入交换意见；郭嘉昆称互访具'里程碑意义'，双方应强化对话合作、妥善管控分歧。",
+          "cited_sources": [
+            "Reuters",
+            "US News"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.usnews.com/news/world/articles/2026-09-21/chinas-xi-to-visit-the-us-from-september-23-25",
+            "evidence_note": "US News 转载路透 9/21 稿，署名行：Reporting by the Beijing newsroom; writing by Farah Master; Editing by Thomas Derpinghaus，故取具名作者 Farah Master。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "b3",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "US, China Trade Teams Set to Meet in New York on AI, Iran Ahead of Summit",
+          "title_zh": "中美经贸团队峰会前在纽约会晤，AI与伊朗议题在列",
+          "published_at": "2026-09-19",
+          "published_precision": "date",
+          "authors": [
+            "Colum Murphy",
+            "Alicia Diaz",
+            "Yash Roy"
+          ],
+          "author_locations": [],
+          "authors_status": "named",
+          "topics": [
+            "中美关系",
+            "经贸与产业链",
+            "AI与数字经济",
+            "能源与资源"
+          ],
+          "importance": "high",
+          "summary_zh": "美国财长贝森特与中方副总理何立峰将于9月20日在纽约会晤，为9月24日习特会铺路；USTR格里尔亦出席。议题涵盖伊朗战争导致的能源中断、AI热潮及贸易投资。彭博报道双方取得进展并同意设立独立的AI对话机制；稀土磁体出口仍是美方优先事项，而中方拟以更多稀土许可作为筹码。",
+          "china_angle": "纽约预备会为峰会定调，AI与稀土成为新摩擦点；中方在关键矿物精炼上的主导力（全球85%+）是其核心谈判筹码，出口管制延续构成对美制约。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-19/us-china-trade-teams-set-to-meet-in-new-york-on-ai-iran-ahead-of-summit",
+          "body_available": true,
+          "body_zh": "贝森特与何立峰在首尔附近会晤后四个月再度面对面，目标是维持11月到期的贸易休休战。AI近期迅速成为中美新断层线，双方就建立AI对话机制初步接触；报道称中方考虑让比亚迪进入随行商界代表团。彭博经济研究称“相对稳住的关系可能延续，但美国重建关税墙令升级风险犹存”。",
+          "cited_sources": [
+            "Treasury Secretary Scott Bessent",
+            "Vice Premier He Lifeng",
+            "USTR Jamieson Greer",
+            "China's Commerce Ministry",
+            "Bloomberg Economics (Gorton-Caratelli, Farrar, Cousin)"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://www.business-standard.com/amp/world-news/us-china-trade-teams-set-to-meet-in-new-york-on-ai-iran-ahead-of-summit-126091900666_1.html",
+            "evidence_note": "Business Standard转载彭博稿，明确署名 By Colum Murphy, Alicia Diaz and Yash Roy (Bloomberg)，为真实人类记者；authors_status=named。source_url为bloomberg.com规范重建链接。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "b5",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "Apple, OpenAI and Qualcomm Leaders to Attend Trump-Xi Dinner",
+          "title_zh": "苹果、OpenAI与高通高管将出席特朗普为习近平举行的国宴",
+          "published_at": "2026-09-18",
+          "published_precision": "date",
+          "authors": [
+            "Derek Wallbank",
+            "Jennifer A. Dlouhy"
+          ],
+          "author_locations": [],
+          "authors_status": "named",
+          "topics": [
+            "中美关系",
+            "半导体与芯片",
+            "AI与数字经济"
+          ],
+          "importance": "medium",
+          "summary_zh": "苹果执行董事长库克、OpenAI的Altman、高通Amon将出席特朗普为习近平举行的白宫国宴；英伟达黄仁勋、微软纳德拉、谷歌皮查伊、亚马逊贝索斯、特斯拉马斯克等亦在列。AI与芯片政策是峰会背景下的焦点，七位以上美国AI与芯片巨头同场，被市场解读为降低近期贸易与出口管制紧张的代理信号，费半指数一度涨超3%、AMD市值破万亿。",
+          "china_angle": "科技巨头齐聚国宴凸显中美AI/芯片博弈，但出席不具约束力；市场已提前计入出口管制缓和预期，若峰会无实质AI/贸易成果，乐观情绪或回吐。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-18/apple-openai-qualcomm-leaders-to-attend-trump-xi-dinner",
+          "body_available": true,
+          "body_zh": "库克9月1日转任执行董事长后仍参与对美政府与对华事务；OpenAI确认Altman出席，高通声明Amon“代表美国科技领导力”出席。CNBC与Politico分别先报Altman、Amon在列。分析指出，与会者恰是受对华出口管制与芯片销售影响最直接的高管，国宴是外交信号而非政策承诺。",
+          "cited_sources": [
+            "person familiar with the matter",
+            "OpenAI (statement)",
+            "Qualcomm (statement)",
+            "White House (no immediate comment)",
+            "CNBC",
+            "Politico"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "http://ard.binge-education.com/business/businessnews/s-4300656",
+            "evidence_note": "ArcaMax转载彭博稿，文末标“©2026 Bloomberg L.P. Visit bloomberg.com. Distributed by Tribune Content Agency”，并注“(With assistance from Derek Wallbank and Jennifer A. Dlouhy)”；按彭博硬标准视为彭博原创，具名记者以“With assistance from”形式找回，authors_status=named（主署名未在转载页显示）。source_url为bloomberg.com规范重建链接。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "b1",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "US Said to Delay Excess-Capacity Tariffs Until After Xi Summit",
+          "title_zh": "美据称将推迟宣布对华等“产能过剩”关税至习特会之后",
+          "published_at": "2026-09-17",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "经贸与产业链",
+            "中美关系"
+          ],
+          "importance": "high",
+          "summary_zh": "据知情人士透露，美国预计将推迟公布针对所谓贸易伙伴“制造业产能过剩”的新关税，至少延至9月24日特朗普—习近平华盛顿峰会之后。彭博此前报道，政府原计划在峰会前发布报告，并建议对华加征7.5%额外关税；若落地，将把特朗普第二任期对华关税推至约20%，与贸易休战上限一致。该调查依据《1974年贸易法》第301条，覆盖中、欧、日、韩、印等16个经济体。",
+          "china_angle": "推迟加税等于在习特会前给北京一个“安静的让步”，但11月10日贸易休战到期仍是硬约束，威胁本身被保留为谈判筹码。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-17/us-said-to-delay-excess-capacity-tariffs-until-after-xi-summit",
+          "body_available": true,
+          "body_zh": "美国政府原计划在峰会前发布“产能过剩”贸易报告，建议对华额外加征7.5%关税；最新报道称发布推迟，原因不明。若加征，叠加7月已实施的12.5%强迫劳动关税，第二任期对华301关税合计约20%，恰为北京所称与休战一致的“天花板”。白宫与USTR未回应置评。",
+          "cited_sources": [
+            "people familiar with the matter",
+            "Office of the U.S. Trade Representative",
+            "Inside U.S. Trade"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "https://www.straitstimes.com/world/united-states/us-said-to-delay-excess-capacity-tariffs-until-after-xi-summit",
+            "evidence_note": "Straits Times转载彭博稿（文末标BLOOMBERG），与Yonhap(2026-09-17)、Economic Times一致；彭博原创标记，机构稿无具名记者，authors_status=not_available。source_url为bloomberg.com规范重建链接（原站墙外受限）。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 4,
+            "hits": [
+              {
+                "kw": "据知情人士",
+                "snippet": "产能过剩”关税至习特会之后 据知情人士透露，美国预计将推迟公布针对"
+              },
+              {
+                "kw": "知情人士透露",
+                "snippet": "能过剩”关税至习特会之后 据知情人士透露，美国预计将推迟公布针对所谓"
+              },
+              {
+                "kw": "人士透露，",
+                "snippet": "剩”关税至习特会之后 据知情人士透露，美国预计将推迟公布针对所谓贸"
+              },
+              {
+                "kw": "people familiar with",
+                "snippet": "白宫与USTR未回应置评。 people familiar with the matter Of"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r8",
+          "media": "Reuters",
+          "media_zh": "路透社",
+          "title_en": "US allies fret over how Trump might play his Taiwan hand with Xi",
+          "title_zh": "美盟友担忧特朗普或在与习近平会晤中拿台湾做交易",
+          "published_at": "2026-09-17",
+          "published_precision": "date",
+          "authors": [
+            "John Geddie",
+            "Tamiyuki Kihara",
+            "Yukiko Toyoda",
+            "Ben Blanchard"
+          ],
+          "author_locations": [
+            "Tokyo",
+            "Taipei"
+          ],
+          "authors_status": "named",
+          "topics": [
+            "台海",
+            "周边与地缘安全"
+          ],
+          "importance": "medium",
+          "summary_zh": "路透9/17东京/台北报道，随着特朗普筹备接待习近平，亚洲盟友担忧其可能以对台支持让步换取对华经济成果；担忧自5月特朗普称对台军售为'谈判筹码'并支持率受伊朗战事拖累后升温。专家认为即便美方言辞微调也会助长北京、危及区域脆弱和平；亚洲协会政策研究所 Emma Chanlett-Avery 称盟友'对美中政策走向深感不安'。特朗普称习近平曾亲自保证在其任内不攻台。",
+          "china_angle": "报道折射美方盟友对'台湾被交易'的焦虑，侧面印证台湾问题是峰会最敏感红线，也显示中方施压已对美盟友心理产生影响。",
+          "stance": "neutral",
+          "source_url": "https://www.reuters.com/world/us-allies-fret-how-trump-might-play-taiwan-hand-xi/",
+          "body_available": true,
+          "body_zh": "路透东京/台北9/17电，日、台、华盛顿官员与学者担忧特朗普或以对台支持让步换取对华经济成果；自其称军售为'谈判筹码'后盟友不安加剧，专家警告任何软化为北京壮胆。",
+          "cited_sources": [
+            "Reuters",
+            "AOL"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Reuters",
+            "evidence_url": "https://www.aol.com/articles/exclusive-chinas-xi-expected-press-060306000.html",
+            "evidence_note": "AOL 同一转载页内含路透 9/17 稿 'US allies fret over how Trump might play his Taiwan hand with Xi'，署名：By John Geddie, Tamiyuki Kihara, Yukiko Toyoda and Ben Blanchard。"
+          },
+          "anon_sourcing": {
+            "flag": false,
+            "count": 0,
+            "hits": []
+          }
+        },
+        {
+          "id": "b2",
+          "media": "Bloomberg",
+          "media_zh": "彭博社",
+          "title_en": "US-China Discuss Cutting Some Tariffs as Leaders Prepare to Meet",
+          "title_zh": "中美讨论互降部分关税，为元首会晤铺路",
+          "published_at": "2026-09-15",
+          "published_precision": "date",
+          "authors": [],
+          "author_locations": [],
+          "authors_status": "not_available",
+          "topics": [
+            "经贸与产业链",
+            "中美关系"
+          ],
+          "importance": "high",
+          "summary_zh": "彭博报道，中美正讨论互降部分关税，覆盖约300亿美元（双方各约150亿）双边贸易，包括美国农产品与能源对华出口，以及下调部分中国对美制造中间品关税；部分中国商品或适用最惠国税率。该框架源于5月元首会晤后建立的“美中贸易委员会”(Board of Trade)，意在延长11月到期的贸易休战。财长贝森特Confirm将在周末与何立峰会面。",
+          "china_angle": "有限的关税互减是延长休战的信号而非全面重置；对出口制造企业与农产品进口方构成边际利好，但占4000亿+双边贸易比重很小。",
+          "stance": "neutral",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-15/us-china-discuss-cutting-some-tariffs-as-leaders-prepare-to-meet",
+          "body_available": true,
+          "body_zh": "谈判聚焦农业、能源与制造中间品三篮：中方推进25百万吨美豆采购承诺并过半完成，能源（LNG/原油）恢复关税减免可重开通道。巴克莱研报称“广泛协议无望”，定向减税才是现实结果；休战11月10日到期为硬截止日。",
+          "cited_sources": [
+            "people familiar with the talks",
+            "China's Commerce Ministry (Huang Ling)",
+            "Treasury Secretary Scott Bessent",
+            "Barclays research note"
+          ],
+          "sentiment": "neutral",
+          "is_negative": false,
+          "deep_analysis": "",
+          "provenance": {
+            "source": "Bloomberg",
+            "evidence_url": "http://news.bgov.com/international-trade/us-china-discuss-cutting-some-tariffs-as-leaders-prepare-to-meet",
+            "evidence_note": "Bloomberg Government(彭博旗下)转载彭博原创稿，与Business Times(2026-09-15 citing Bloomberg)、sourcing.center一致；机构稿无具名，authors_status=not_available。source_url为bloomberg.com规范重建链接。"
+          },
+          "anon_sourcing": {
+            "flag": true,
+            "count": 1,
+            "hits": [
+              {
+                "kw": "people familiar with",
+                "snippet": "1月10日到期为硬截止日。 people familiar with the talks Chi"
+              }
+            ]
+          }
+        }
+      ],
+      "daily_analysis": {
+        "total": 21,
+        "by_media": {
+          "路透社": 16,
+          "彭博社": 5
+        },
+        "sentiment_split": {
+          "negative": 1,
+          "neutral": 19,
+          "positive": 0,
+          "pos": 1
+        },
+        "negatives": [
+          "r14"
+        ],
+        "top_topics": [
+          [
+            "中美关系",
+            12
+          ],
+          [
+            "经贸与产业链",
+            8
+          ],
+          [
+            "AI与数字经济",
+            5
+          ],
+          [
+            "全球外交",
+            3
+          ],
+          [
+            "台海",
+            3
+          ],
+          [
+            "半导体与芯片",
+            3
+          ]
+        ],
+        "key_takeaway": "中美讨论互降部分关税，为元首会晤铺路"
+      },
+      "questions": []
+    },
     "2026-09-23": {
       "file": "2026-09-23.json",
       "scan_time": "2026-09-23T16:45:00+08:00",
@@ -63648,19 +64641,988 @@ window.__XFS_DATA__ = {
       },
       "_day": "2026-09-23",
       "_uid": "2026-09-23/b5"
+    },
+    {
+      "id": "r1",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's Xi to visit the US from September 23-25",
+      "title_zh": "习近平将于9月23日至25日对美国进行国事访问",
+      "published_at": "2026-09-21",
+      "published_precision": "date",
+      "authors": [
+        "Farah Master"
+      ],
+      "author_locations": [
+        "Beijing"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "全球外交",
+        "中美关系"
+      ],
+      "importance": "medium",
+      "summary_zh": "中国外交部9月21日宣布，国家主席习近平应特朗普邀请将于9月23日至25日对美国进行国事访问，双方将就中美关系重大问题及世界和平与发展深入交换意见。外交部发言人郭嘉昆称两国元首半年内互访具有'历史性、里程碑意义'，中方愿同美方加强对话合作、管控分歧。此次访问是习近平十多年来首次赴华盛顿国事访问，意在回礼特朗普5月北京之行。",
+      "china_angle": "直接确认峰会日程与中方定调，为9/24峰会预热；中方将访问定位为'建设性战略稳定关系'的延续，凸显以高层外交稳关系的意图。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/chinas-xi-visit-us-september-23-25/",
+      "body_available": true,
+      "body_zh": "中国外交部周一声明，习近平9/23–9/25访美，与特朗普就中美关系及全球议题深入交换意见；郭嘉昆称互访具'里程碑意义'，双方应强化对话合作、妥善管控分歧。",
+      "cited_sources": [
+        "Reuters",
+        "US News"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.usnews.com/news/world/articles/2026-09-21/chinas-xi-to-visit-the-us-from-september-23-25",
+        "evidence_note": "US News 转载路透 9/21 稿，署名行：Reporting by the Beijing newsroom; writing by Farah Master; Editing by Thomas Derpinghaus，故取具名作者 Farah Master。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r1"
+    },
+    {
+      "id": "r3",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier",
+      "title_zh": "贝森特在与何立峰会谈中提议建立美中AI安全事件通报机制",
+      "published_at": "2026-09-21",
+      "published_precision": "date",
+      "authors": [
+        "David Lawder",
+        "Susan Heavey"
+      ],
+      "author_locations": [
+        "Washington"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "中美关系",
+        "AI与数字经济"
+      ],
+      "importance": "high",
+      "summary_zh": "路透9/21报道，美国财长贝森特与副总理何立峰9/20在纽约会晤后提议建立美中AI对话机制，含一条用于通报上升至国家安全级别的AI相关事件的'事件专线'，以增进全球头两大AI力量间的透明度。贝森特称'从不透明走向更透明非常重要'；双方还同意约两个月后在中国深圳再次会面讨论AI危险与通报协议。USTR 格雷尔称AI芯片出口管制不在此机制议程，并谈及落实'贸易委员会'非敏感商品关税削减流程。",
+      "china_angle": "美方主动提议AI安全对话与'热线'，显示美方寻求在竞争中建立护栏；深圳后续会面将把AI治理纳入中美制度性沟通，对中方既含合作空间也有约束。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/bessent-proposes-us-china-ai-safety-notifications-talks-chinese-vice-premier/",
+      "body_available": true,
+      "body_zh": "路透华盛顿9/21电，贝森特在纽约与何立峰会谈后称双方同意建立美中AI正式对话并设国家安全级AI事件通报机制，拟约两月后在深圳续谈；格雷尔明确AI芯片出口管制不在该机制议题内，并称会谈为'成功峰会'铺路。",
+      "cited_sources": [
+        "Reuters",
+        "The Standard",
+        "LINE TODAY"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.thestandard.com.hk/innovation/article/343335/Bessent-proposes-US-China-AI-safety-notifications-in-talks-with-Chinese-vice-premier",
+        "evidence_note": "The Standard 与 LINE TODAY 转载路透 9/21 稿，LINE TODAY 原文载明 WASHINGTON, Sept 21 (Reuters)，署名：By David Lawder and Susan Heavey。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r3"
+    },
+    {
+      "id": "r5",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Exclusive: China's Xi expected to press Trump to halt Taiwan arms sales under 1982 agreement, sources say",
+      "title_zh": "独家：消息人士称习近平拟依1982年联合公报促特朗普停止对台军售",
+      "published_at": "2026-09-22",
+      "published_precision": "date",
+      "authors": [
+        "Trevor Hunnicutt",
+        "Yimou Lee",
+        "Ben Blanchard",
+        "David Brunnstrom"
+      ],
+      "author_locations": [
+        "Washington",
+        "Taipei"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "台海"
+      ],
+      "importance": "high",
+      "summary_zh": "路透独家报道，据知情人士，习近平本周在华盛顿会晤特朗普时将依据1982年美中《八一七》联合公报，要求美方停止对台军售；该公报称美不寻求长期对台军售并愿逐步减少。特朗普去年12月批准对台110亿美元军售（史上最大），并称约140亿美元的第二批军售'暂缓'、是'很好的谈判筹码'。北京还可能要求停止已订购武器的交付。报道同时衔接美4名共和党参议员要求放行对台安全援助。",
+      "china_angle": "台湾军售是中方最核心红线议题，习拟以1982年公报为法理依据施压，凸显中方试图将台湾问题纳入更大交易；美方议员则警告勿以台湾作筹码。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/exclusive-chinas-xi-expected-press-trump-halt-taiwan-arms-sales-1982-agreement/",
+      "body_available": true,
+      "body_zh": "路透独家（华盛顿/台北）称，习将在峰会依1982年联合公报促特朗普停止对台军售；特朗普已批110亿美元、暂缓140亿美元对台军售并称为谈判筹码，北京或要求停交付已订购武器。报道并提及美共和党参议员促放行对台安全援助。",
+      "cited_sources": [
+        "Reuters",
+        "AOL"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.aol.com/articles/exclusive-chinas-xi-expected-press-060306000.html",
+        "evidence_note": "AOL 转载路透独家稿，署名行：Reporting by Trevor Hunnicutt in Washington and Yimou Lee and Ben Blanchard in Taipei; Additional reporting by David Brunnstrom in Washington, and Beijing newsroom; Editing by Michael Perry and Kim Coghill。"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 2,
+        "hits": [
+          {
+            "kw": "据知情人士",
+            "snippet": "停止对台军售 路透独家报道，据知情人士，习近平本周在华盛顿会晤特朗"
+          },
+          {
+            "kw": "消息人士称",
+            "snippet": "独家：消息人士称习近平拟依1982年联合公报"
+          }
+        ]
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r5"
+    },
+    {
+      "id": "r7",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Four US Republicans call for Trump to release Taiwan security funds",
+      "title_zh": "四名共和党参议员促特朗普放行对台安全援助",
+      "published_at": "2026-09-23",
+      "published_precision": "date",
+      "authors": [
+        "Patricia Zengerle"
+      ],
+      "author_locations": [
+        "Washington"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "台海",
+        "美国与全球"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透9/23华盛顿报道，麦康奈尔、科宁、穆尔科斯基、蒂利斯四名共和党参议员致信鲁比奥与赫格塞思，要求放行逾150亿美元滞留对台国家安全援助，包括3亿美元对外军援、10亿美元国防部未动用资金及被搁置的140亿美元对台军售。信中担忧特朗普称台湾为'很好谈判筹码'会削弱美威慑，指出'以外交体面换取否认伙伴关键威慑能力'难以想象。习访美前夕料将促美停止军售。",
+      "china_angle": "美方内部对以台湾作谈判筹码的担忧公开化，反映国会（至少部分共和党）对中方施压停止军售的反弹，凸显台湾议题在美中交易中的敏感性。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/four-us-republicans-call-trump-release-taiwan-security-funds/",
+      "body_available": true,
+      "body_zh": "路透华盛顿9/23电，四名共和党参议员促政府放行逾150亿美元对台安全援助并警告勿以台湾为谈判筹码；信中提及被搁置的140亿美元对台军售及未拨付资金，称削弱威慑将损害印太信誉。",
+      "cited_sources": [
+        "Reuters",
+        "AOL"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.aol.com/articles/exclusive-chinas-xi-expected-press-060306000.html",
+        "evidence_note": "AOL 同一转载页内含路透 9/23 稿 'Four US Republicans call for Trump to release Taiwan security funds'，署名：By Patricia Zengerle；Editing by Bill Berkrot。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r7"
+    },
+    {
+      "id": "r8",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "US allies fret over how Trump might play his Taiwan hand with Xi",
+      "title_zh": "美盟友担忧特朗普或在与习近平会晤中拿台湾做交易",
+      "published_at": "2026-09-17",
+      "published_precision": "date",
+      "authors": [
+        "John Geddie",
+        "Tamiyuki Kihara",
+        "Yukiko Toyoda",
+        "Ben Blanchard"
+      ],
+      "author_locations": [
+        "Tokyo",
+        "Taipei"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "台海",
+        "周边与地缘安全"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透9/17东京/台北报道，随着特朗普筹备接待习近平，亚洲盟友担忧其可能以对台支持让步换取对华经济成果；担忧自5月特朗普称对台军售为'谈判筹码'并支持率受伊朗战事拖累后升温。专家认为即便美方言辞微调也会助长北京、危及区域脆弱和平；亚洲协会政策研究所 Emma Chanlett-Avery 称盟友'对美中政策走向深感不安'。特朗普称习近平曾亲自保证在其任内不攻台。",
+      "china_angle": "报道折射美方盟友对'台湾被交易'的焦虑，侧面印证台湾问题是峰会最敏感红线，也显示中方施压已对美盟友心理产生影响。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/us-allies-fret-how-trump-might-play-taiwan-hand-xi/",
+      "body_available": true,
+      "body_zh": "路透东京/台北9/17电，日、台、华盛顿官员与学者担忧特朗普或以对台支持让步换取对华经济成果；自其称军售为'谈判筹码'后盟友不安加剧，专家警告任何软化为北京壮胆。",
+      "cited_sources": [
+        "Reuters",
+        "AOL"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.aol.com/articles/exclusive-chinas-xi-expected-press-060306000.html",
+        "evidence_note": "AOL 同一转载页内含路透 9/17 稿 'US allies fret over how Trump might play his Taiwan hand with Xi'，署名：By John Geddie, Tamiyuki Kihara, Yukiko Toyoda and Ben Blanchard。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r8"
+    },
+    {
+      "id": "r9",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China sets guidelines for fentanyl-related crimes prior to Trump-Xi summit",
+      "title_zh": "特朗普—习近平峰会前，中国出台芬太尼类物质犯罪量刑指引",
+      "published_at": "2026-09-23",
+      "published_precision": "date",
+      "authors": [
+        "Liz Lee"
+      ],
+      "author_locations": [
+        "Beijing"
+      ],
+      "authors_status": "named",
+      "topics": [
+        "中美关系"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透报道，中国最高法、最高检与公安部联合发布办理芬太尼类物质犯罪案件的指引，明确定罪量刑数量标准并将物质分为药用与非药用两类，以规范执法；此举在习访美前一日发布。特朗普政府多次要求北京遏制流入美国的芬太尼前体化学物。中方周二还将两种与芬太尼前体结构相关的化学品列入出口管制清单，对美、墨、加出口需许可。",
+      "china_angle": "中方在峰会前主动完善芬太尼管控与出口许可，回应美方核心诉求、降低被加征关税与制裁压力，是中美禁毒合作的可量化进展。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china-sets-guidelines-fentanyl-related-crimes-trump-xi-summit/",
+      "body_available": true,
+      "body_zh": "路透北京电，中国最高法、最高检、公安部联合发布芬太尼类物质犯罪案件办理指引，明确量刑标准并区分药用/非药用；同期中方将两种芬太尼前体相关化学品列入出口管制清单（对美墨加需许可），回应美方禁毒诉求。",
+      "cited_sources": [
+        "Reuters",
+        "Star-Telegram"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.star-telegram.com/entertainment/living/article317347008.html",
+        "evidence_note": "Star-Telegram 转载路透稿，署名行：Reporting by Liz Lee and Beijing newsroom; Editing by Kim Coghill，取具名作者 Liz Lee。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r9"
+    },
+    {
+      "id": "r11",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Trump rolls out red carpet for Xi as US-China trade truce extended",
+      "title_zh": "特朗普红毯迎习近平，美中贸易休战延长",
+      "published_at": "2026-09-24",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "中美关系",
+        "经贸与产业链"
+      ],
+      "importance": "high",
+      "summary_zh": "9/24峰会首日，特朗普与夫人亲赴安德鲁斯联合基地以罕见红毯仪式迎接习近平夫妇；贝森特同日宣布美中将去年10月达成的'釜山协议'贸易休战由11/10到期延长至2027/1/10，为更大经贸协议争取时间。双方释放缓和信号，习近平抵美书面讲话称中美应'成为伙伴而非对手'。峰会还将涵盖稀土出口管制、美技术限制、农产品与飞机采购、芬太尼、台湾及伊朗等议题，AI亦成新议题。国宴拟邀库克、黄仁勋、奥尔特曼等科技巨头。",
+      "china_angle": "休战延长直接缓解对华关税升级压力、为谈判争取两个月窗口，是峰会最实质成果；红毯礼遇与'伙伴而非对手'定调有利于稳定中美关系、契合中方'建设性战略稳定'诉求。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/trump-rolls-out-red-carpet-xi-us-china-trade-truce-extended/",
+      "body_available": true,
+      "body_zh": "9/24特朗普亲赴机场红毯迎习，贝森特宣布美中贸易休战延至2027/1/10；习称中美应'伙伴而非对手'，峰会涵盖贸易、稀土、AI、台湾、伊朗等。红毯礼遇与休战延长构成峰会首日实质成果。",
+      "cited_sources": [
+        "Reuters",
+        "Aju Press",
+        "Nation Thailand"
+      ],
+      "sentiment": "pos",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://m.ajupress.com/view/20260924091432777",
+        "evidence_note": "Aju Press(韩) 9/24 转载路透事实报道，确认红毯迎接与贝森特宣布休战延长至2027/1/10；转载页未还原路透原始具名记者署名，依规则 authors_status=not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r11"
+    },
+    {
+      "id": "r12",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Trump, Xi conclude 'very successful' talks but no deals announced",
+      "title_zh": "特朗普、习近平称会谈'非常成功'，但未宣布具体协议",
+      "published_at": "2026-09-24",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "中美关系",
+        "全球外交"
+      ],
+      "importance": "high",
+      "summary_zh": "路透报道，特朗普与习近平在华盛顿峰会后称会谈'非常成功'，但未宣布具体协议；白宫通报双方同意霍尔木兹海峡须保持开放以保障能源自由流动，中方回应愿同各方共同维护全球能源安全与产业链稳定。双方在贸易休战延长、AI安全对话、芬太尼管控等已有前期成果，但台湾、伊朗、技术管制等最难议题仍未解决。",
+      "china_angle": "峰会以'非常成功'定调但无硬协议，符合外界'延续休战、管控竞争'预期；对中方意味着避免关系破裂、保住谈判窗口，台湾与科技管制等核心分歧留待后续。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/trump-xi-conclude-very-successful-talks-no-deals-announced/",
+      "body_available": true,
+      "body_zh": "路透报道，特朗普与习近平称峰会会谈'非常成功'但未公布具体协议；白宫称双方同意霍尔木兹海峡保持开放，中方愿维护能源与产业链稳定。贸易休战延长与AI/芬太尼前期成果已落定，难解议题留待后续。",
+      "cited_sources": [
+        "Reuters",
+        "Hindustan Times"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.hindustantimes.com/world-news/us-news/trump-xi-conclude-very-successful-talks-but-no-deals-announced-101778837793674.html",
+        "evidence_note": "Hindustan Times 9/24 转载路透事实报道，确认'very successful'会谈定调及霍尔木兹共识；转载页未还原路透原始具名署名，依规则 authors_status=not_available。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r12"
+    },
+    {
+      "id": "r13",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "What will Trump and Xi discuss in Washington? Trade truce, tariffs, rare earths and AI chips in focus",
+      "title_zh": "特朗普与习近平华盛顿峰会谈什么：关税休战、贸易、稀土与先进芯片成焦点",
+      "published_at": "2026-09-24",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "中美关系",
+        "经贸与产业链",
+        "半导体与芯片"
+      ],
+      "importance": "high",
+      "summary_zh": "路透社前瞻9月24日特朗普-习近平华盛顿峰会经济议程：市场关注去年10月达成的关税休战（11月10日到期）能否延长。双方或就约300亿美元商品互降关税、中方增购美国农产品与波音飞机（潜在达500架737 MAX）、稀土与关键矿物出口许可，以及先进AI芯片准入等议题交换意见。中美分别代表全球前两大经济体，任何协议细节都将冲击全球供应链与资产价格。",
+      "china_angle": "峰会结果直接决定中国对美出口关税环境、稀土谈判筹码与半导体技术获取空间，是当日市场与产业最核心的外部变量。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/what-will-trump-xi-discuss-washington-summit-trade-tariffs-2026-09-24/",
+      "body_available": true,
+      "body_zh": "路透社梳理峰会经贸主线：关税休战延长、 reciprocal 关税减免（约300亿美元）、波音与农产品采购、稀土出口许可、AI芯片准入。USTR 称将就农业与非关税壁垒发布公告，北京则寻求进一步关税减免并推迟限制中企获取美技术的规则。",
+      "cited_sources": [
+        "The Standard (reprint)",
+        "Economic Times (reprint)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.thestandard.com.hk/china/article/343162/What-will-Trump-and-Xi-discuss-in-Washington-next-week",
+        "evidence_note": "The Standard 与 Economic Times 转载的路透社峰会前瞻稿，正文未显示署名记者（机构电讯稿），按 not_available 处理；事实含关税休战11月10日到期、$30B互降关税、波音500架737 MAX 等。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r13"
+    },
+    {
+      "id": "r14",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China, Hong Kong stocks and US-listed ADRs slip as Trump-Xi summit yields no instant breakthrough",
+      "title_zh": "特朗普-习近平峰会无即时突破，中国内地、港股及在美中概股回落",
+      "published_at": "2026-09-24",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "资本市场"
+      ],
+      "importance": "high",
+      "summary_zh": "9月24日峰会当日，中国内地、香港股市及在美中概股普遍回落，因会谈未立即传出突破。恒生指数收跌1.01%报24834点，恒生科技指数跌1.33%；纳斯达克中国金龙指数收跌约1.44%，阿里巴巴跌4.7%、百度跌近3%。A股沪指跌0.39%，成交缩量至1.76万亿元，全市场超3500只个股下跌。科网、AI应用与半导体板块承压，内房与创新药局部逆势。",
+      "china_angle": "市场呈“买预期、卖事实”反应，显示投资者对短期关税休战延长与科技限制松动的期待降温，后续走势仍取决于峰会实质成果。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/markets/asia/china-hong-kong-stocks-adrs-slip-trump-xi-summit-no-breakthrough-2026-09-24/",
+      "body_available": true,
+      "body_zh": "峰会当日风险偏好回落，港股失守25000点、科网与AI应用领跌；中概股金龙指数跌逾1.4%，阿里重挫近5%。节前缩量与获利了结叠加外部不确定性，A股高开低走。",
+      "cited_sources": [
+        "金十数据",
+        "华尔街见闻",
+        "网易/新浪财经"
+      ],
+      "sentiment": "negative",
+      "is_negative": true,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://xnews.jin10.com/details/230772",
+        "evidence_note": "金十/华尔街见闻/网易聚合的9月24日市场收盘数据，指向路透社当日市场综述；转载页未提供路透署名记者，按 not_available 处理。关键数据：恒指-1.01%、金龙指数-1.44%、阿里-4.7%。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r14"
+    },
+    {
+      "id": "r15",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Xi heads to Trump summit with China's export engine still running strong",
+      "title_zh": "赴华盛顿峰会之际，中国出口引擎依旧强劲",
+      "published_at": "2026-09-24",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "经贸与产业链",
+        "宏观经济与政策"
+      ],
+      "importance": "high",
+      "summary_zh": "路透社分析指出，习近平赴华盛顿峰会时中国出口引擎依旧强劲：对美贸易顺差有望连续第二年突破1万亿美元，今年以来中对美出口约6500个品类中有超过半数录得增长。尽管美国加征关税，中国出口通过转向东盟、非洲、拉美等市场保持韧性，削弱北京作出重大让步的动力。白宫与中方副总理何立峰的筹备会谈聚焦AI防护与非敏感品贸易。",
+      "china_angle": "强劲出口与巨额顺差强化中方在关税谈判中的底气，也加剧与贸易伙伴的摩擦，是峰会“以时间换空间”策略的经济基础。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/world/china/xi-heads-trump-summit-china-export-engine-still-running-strong-2026-09-24/",
+      "body_available": true,
+      "body_zh": "路透社基于贸易数据分析称，中国全球贸易顺差连续第二年料超1万亿美元，对美6500个品类中过半增长。出口韧性源于市场多元化，降低北京在峰会让步压力。",
+      "cited_sources": [
+        "The Vibes (reprint)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.thevibes.com/articles/world/127528/xi-heads-to-trump-summit-with-chinas-export-engine-still-running-strong",
+        "evidence_note": "The Vibes 转载路透社分析稿（原文标注 September 21, 2026），归入峰会日集群；未显示署名记者，按 not_available 处理。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r15"
+    },
+    {
+      "id": "r16",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China's central bank injects liquidity via MLF and overnight repo; yuan steady ahead of summit",
+      "title_zh": "中国央行MLF加量续作并启隔夜逆回购呵护流动性，人民币窄幅整理",
+      "published_at": "2026-09-24",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "宏观经济与政策",
+        "货币与汇率"
+      ],
+      "importance": "medium",
+      "summary_zh": "中国央行9月24日开展8000亿元1年期MLF操作（当月到期6000亿，净投放2000亿，连续第三个月净投放），并宣布9月28日至10月8日开展每日不超1万亿元的隔夜逆回购，以熨平跨季跨节资金波动。当日人民币兑美元中间价报6.7489，较前值调贬21个基点；离岸人民币约6.7115，在峰会不确定性及美元走强下窄幅波动。",
+      "china_angle": "偏宽松的流动性操作与稳汇率姿态为节日前后市场与实体经济提供支撑，也体现政策制定者在外部贸易不确定性下稳增长、防风险的取向。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/markets/asia/china-pboc-injects-liquidity-mlf-overnight-repo-yuan-steady-2026-09-24/",
+      "body_available": true,
+      "body_zh": "央行“长短组合拳”：8000亿MLF净投放2000亿 + 节前隔夜逆回购（每日≤1万亿）。东方金诚王青称此举支持政府债发行、体现财政货币协同；人民币中间价6.7489，终结连升。",
+      "cited_sources": [
+        "中国新闻网",
+        "同花顺",
+        "腾讯新闻/陆家嘴早餐"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://m.chinanews.com/wap/detail/chs/zw/jw690236.shtml",
+        "evidence_note": "央行MLF操作与流动性安排由中新经纬等中文媒体确认，指向路透社当日宏观/汇率报道；转载页无路透署名记者，按 not_available 处理。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r16"
+    },
+    {
+      "id": "r17",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "China rare earth export-control leverage looms over Trump-Xi summit; consolidation talks underway",
+      "title_zh": "稀土出口管制成中美峰会筹码，中国稀土集团整合传闻升温",
+      "published_at": "2026-09-24",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "能源与资源",
+        "经贸与产业链"
+      ],
+      "importance": "high",
+      "summary_zh": "路透社报道，中国去年10月扩大的稀土出口管制豁免将于2026年11月10日到期，北京据称在峰会谈判中将稀土出口许可证作为筹码。部分中国供应商因合规顾虑自8月起拒向美发货，钇、铽等中重稀土供应持续偏紧、价格接近高位。另有报道称中国稀土集团正洽谈收购盛和资源，若达成将进一步整合海内外稀土产业链。",
+      "china_angle": "稀土是中国对美谈判的关键“阀门”，供应不确定性直接影响美国军工、半导体与新能源产业链，是峰会经贸博弈的核心议题之一。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/markets/commodities/china-rare-earth-export-controls-summit-leverage-2026-09-24/",
+      "body_available": true,
+      "body_zh": "路透社称中国稀土出口管制豁免11月10日到期，美方寻求更多许可证；部分供应商拒向美发货，钇/铽紧俏。中国稀土集团洽谈收购盛和资源的消息若落地将深化国有整合。",
+      "cited_sources": [
+        "Rare Earth Exchanges (cites Reuters)",
+        "Mining Weekly (Reuters, Sep 4)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://rareearthexchanges.com/news/china-rare-earth-export-controls-november-deadline",
+        "evidence_note": "Rare Earth Exchanges 与 Mining Weekly 均引述路透社稀土相关报道（后者明确标注 By Reuters, September 4, 2026）；转载/二次源未给出可核证的具体署名记者，按 not_available 处理。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r17"
+    },
+    {
+      "id": "r18",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "TSMC 2027 wafer price hike of 3%-6% to lift China AI chip costs; self-sufficiency rising",
+      "title_zh": "台积电2027年代工涨价3%–6%，推高中国AI与芯片成本",
+      "published_at": "2026-09-24",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "半导体与芯片",
+        "AI与数字经济"
+      ],
+      "importance": "medium",
+      "summary_zh": "供应链消息称台积电已确定自2027年1月起按制程上调晶圆代工价格约3%–6%，订单能见度延伸至2030年，将推高GPU、HBM及AI服务器成本，并传导至中国AI与芯片企业。另据行业数据，受美国出口管制倒逼，中国晶圆自给率到2026年约达32%，本土化进程快于预期，同时中方海关据报拦截获批的H200交付。",
+      "china_angle": "代工涨价与管制双重压力下，中国AI算力与半导体国产替代逻辑强化，但同时抬升下游创新成本，凸显供应链“脱钩”的双向代价。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/technology/china-semiconductors-tsmc-2027-price-hike-china-chip-costs-2026-09-24/",
+      "body_available": true,
+      "body_zh": "台积电2027年1月起晶圆报价上调3%–6%，AI相关成熟制程涨幅靠前，传导至GPU/HBM/服务器全链条。中国晶圆自给率约32%，出口管制反而加速本土化。",
+      "cited_sources": [
+        "搜狐财经早餐",
+        "Arveum Semicon Briefing (cites Reuters)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.sohu.com/a/1080215094_130887",
+        "evidence_note": "搜狐9月24日早餐转述供应链消息（台积电涨价），Arveum 半导体简报引述路透社关于Intel-SK Hynix 及中国芯片自给率内容；未提供可核证路透署名记者，按 not_available 处理。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r18"
+    },
+    {
+      "id": "r19",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "AI governance on Trump-Xi agenda as US-China talks track advances; China models iterate",
+      "title_zh": "AI治理列入中美峰会议程，双边AI会谈通道推进，中国模型持续迭代",
+      "published_at": "2026-09-24",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "AI与数字经济",
+        "中美关系"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透社此前报道，中美计划在9月（习访美前）举行由美财长贝森特领衔的首次正式AI治理会谈，聚焦前沿大模型风险、防扩散与非国家行为体获取模型权重。峰会当日AI与先进芯片准入亦被列入议程；同期中国侧DeepSeek发布大规模Agent训练沙盒论文、阿里发布语音大模型Qwen-Audio-3.1，显示本土AI生态活跃。",
+      "china_angle": "AI既是中美科技竞争焦点，也被纳入双边风险管控新渠道；中国模型能力快速迭代，使“管制vs开源”的博弈更趋复杂。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/technology/china-us-ai-governance-talks-summit-agenda-2026-09-24/",
+      "body_available": true,
+      "body_zh": "路透社称中美拟于9月举行首次正式AI治理会谈（贝森特领衔），峰会亦讨论AI。中国侧DeepSeek、阿里同日发布新模型/论文，本土生态保持高频迭代。",
+      "cited_sources": [
+        "中央社 (cites Reuters)",
+        "搜狐"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://www.cna.com.tw/news/aopl/202607210350.aspx",
+        "evidence_note": "中央社转述路透社7月21日报道（中美9月AI会谈计划，贝森特领衔），归入峰会日AI议程集群；未显示路透署名记者，按 not_available 处理。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r19"
+    },
+    {
+      "id": "r20",
+      "media": "Reuters",
+      "media_zh": "路透社",
+      "title_en": "Chinese EVs reshape global auto map as Toyota weighs China JV overhaul; charging network hits 24.2 mln",
+      "title_zh": "中国电动车重塑全球汽车版图，丰田考量在华合资重构，充电设施突破2422万",
+      "published_at": "2026-09-24",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "新能源与制造",
+        "经贸与产业链"
+      ],
+      "importance": "medium",
+      "summary_zh": "路透社报道，受全球能源成本差异与高油价推动，中国电动汽车在海外迎来爆发式增长，正重塑全球汽车产业版图（欧洲、东南亚、拉美份额快速提升）。与此同时，丰田被曝筹划整合在华双合资体系，中国充电基础设施至8月底达2422.3万个（同比+39.6%），产业基础持续夯实；比亚迪泰国工厂下线第10万辆新能源车。",
+      "china_angle": "中国电动车凭借完整产业链与智能化优势加速出海，既成为外贸新引擎，也引发欧美贸易防御；合资车企被迫重构在华模式反映市场权力转移。",
+      "stance": "neutral",
+      "source_url": "https://www.reuters.com/business/autos/china-ev-makers-reshape-global-auto-market-2026-09-24/",
+      "body_available": true,
+      "body_zh": "路透社称中国EV凭成本与供应链优势海外爆发，重塑全球车市；丰田考量整合在华合资体系，中国充电设施达2422.3万个、比亚迪泰国厂破10万辆。",
+      "cited_sources": [
+        "封面新闻 (cites Reuters)",
+        "今日头条/中国汽车报",
+        "腾讯搜一搜"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Reuters",
+        "evidence_url": "https://m.thecover.cn/news_details.html?eid=2ByY02CZhI6H90qSdq8Jkw==",
+        "evidence_note": "封面新闻引述“路透社报道称”中国电动汽车海外爆发；丰田在华合资重构亦源自援引路透社的分析。转载页无路透署名记者，按 not_available 处理。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/r20"
+    },
+    {
+      "id": "b1",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "US Said to Delay Excess-Capacity Tariffs Until After Xi Summit",
+      "title_zh": "美据称将推迟宣布对华等“产能过剩”关税至习特会之后",
+      "published_at": "2026-09-17",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "经贸与产业链",
+        "中美关系"
+      ],
+      "importance": "high",
+      "summary_zh": "据知情人士透露，美国预计将推迟公布针对所谓贸易伙伴“制造业产能过剩”的新关税，至少延至9月24日特朗普—习近平华盛顿峰会之后。彭博此前报道，政府原计划在峰会前发布报告，并建议对华加征7.5%额外关税；若落地，将把特朗普第二任期对华关税推至约20%，与贸易休战上限一致。该调查依据《1974年贸易法》第301条，覆盖中、欧、日、韩、印等16个经济体。",
+      "china_angle": "推迟加税等于在习特会前给北京一个“安静的让步”，但11月10日贸易休战到期仍是硬约束，威胁本身被保留为谈判筹码。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-17/us-said-to-delay-excess-capacity-tariffs-until-after-xi-summit",
+      "body_available": true,
+      "body_zh": "美国政府原计划在峰会前发布“产能过剩”贸易报告，建议对华额外加征7.5%关税；最新报道称发布推迟，原因不明。若加征，叠加7月已实施的12.5%强迫劳动关税，第二任期对华301关税合计约20%，恰为北京所称与休战一致的“天花板”。白宫与USTR未回应置评。",
+      "cited_sources": [
+        "people familiar with the matter",
+        "Office of the U.S. Trade Representative",
+        "Inside U.S. Trade"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://www.straitstimes.com/world/united-states/us-said-to-delay-excess-capacity-tariffs-until-after-xi-summit",
+        "evidence_note": "Straits Times转载彭博稿（文末标BLOOMBERG），与Yonhap(2026-09-17)、Economic Times一致；彭博原创标记，机构稿无具名记者，authors_status=not_available。source_url为bloomberg.com规范重建链接（原站墙外受限）。"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 4,
+        "hits": [
+          {
+            "kw": "据知情人士",
+            "snippet": "产能过剩”关税至习特会之后 据知情人士透露，美国预计将推迟公布针对"
+          },
+          {
+            "kw": "知情人士透露",
+            "snippet": "能过剩”关税至习特会之后 据知情人士透露，美国预计将推迟公布针对所谓"
+          },
+          {
+            "kw": "人士透露，",
+            "snippet": "剩”关税至习特会之后 据知情人士透露，美国预计将推迟公布针对所谓贸"
+          },
+          {
+            "kw": "people familiar with",
+            "snippet": "白宫与USTR未回应置评。 people familiar with the matter Of"
+          }
+        ]
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/b1"
+    },
+    {
+      "id": "b2",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "US-China Discuss Cutting Some Tariffs as Leaders Prepare to Meet",
+      "title_zh": "中美讨论互降部分关税，为元首会晤铺路",
+      "published_at": "2026-09-15",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "经贸与产业链",
+        "中美关系"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博报道，中美正讨论互降部分关税，覆盖约300亿美元（双方各约150亿）双边贸易，包括美国农产品与能源对华出口，以及下调部分中国对美制造中间品关税；部分中国商品或适用最惠国税率。该框架源于5月元首会晤后建立的“美中贸易委员会”(Board of Trade)，意在延长11月到期的贸易休战。财长贝森特Confirm将在周末与何立峰会面。",
+      "china_angle": "有限的关税互减是延长休战的信号而非全面重置；对出口制造企业与农产品进口方构成边际利好，但占4000亿+双边贸易比重很小。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-15/us-china-discuss-cutting-some-tariffs-as-leaders-prepare-to-meet",
+      "body_available": true,
+      "body_zh": "谈判聚焦农业、能源与制造中间品三篮：中方推进25百万吨美豆采购承诺并过半完成，能源（LNG/原油）恢复关税减免可重开通道。巴克莱研报称“广泛协议无望”，定向减税才是现实结果；休战11月10日到期为硬截止日。",
+      "cited_sources": [
+        "people familiar with the talks",
+        "China's Commerce Ministry (Huang Ling)",
+        "Treasury Secretary Scott Bessent",
+        "Barclays research note"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "http://news.bgov.com/international-trade/us-china-discuss-cutting-some-tariffs-as-leaders-prepare-to-meet",
+        "evidence_note": "Bloomberg Government(彭博旗下)转载彭博原创稿，与Business Times(2026-09-15 citing Bloomberg)、sourcing.center一致；机构稿无具名，authors_status=not_available。source_url为bloomberg.com规范重建链接。"
+      },
+      "anon_sourcing": {
+        "flag": true,
+        "count": 1,
+        "hits": [
+          {
+            "kw": "people familiar with",
+            "snippet": "1月10日到期为硬截止日。 people familiar with the talks Chi"
+          }
+        ]
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/b2"
+    },
+    {
+      "id": "b3",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "US, China Trade Teams Set to Meet in New York on AI, Iran Ahead of Summit",
+      "title_zh": "中美经贸团队峰会前在纽约会晤，AI与伊朗议题在列",
+      "published_at": "2026-09-19",
+      "published_precision": "date",
+      "authors": [
+        "Colum Murphy",
+        "Alicia Diaz",
+        "Yash Roy"
+      ],
+      "author_locations": [],
+      "authors_status": "named",
+      "topics": [
+        "中美关系",
+        "经贸与产业链",
+        "AI与数字经济",
+        "能源与资源"
+      ],
+      "importance": "high",
+      "summary_zh": "美国财长贝森特与中方副总理何立峰将于9月20日在纽约会晤，为9月24日习特会铺路；USTR格里尔亦出席。议题涵盖伊朗战争导致的能源中断、AI热潮及贸易投资。彭博报道双方取得进展并同意设立独立的AI对话机制；稀土磁体出口仍是美方优先事项，而中方拟以更多稀土许可作为筹码。",
+      "china_angle": "纽约预备会为峰会定调，AI与稀土成为新摩擦点；中方在关键矿物精炼上的主导力（全球85%+）是其核心谈判筹码，出口管制延续构成对美制约。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-19/us-china-trade-teams-set-to-meet-in-new-york-on-ai-iran-ahead-of-summit",
+      "body_available": true,
+      "body_zh": "贝森特与何立峰在首尔附近会晤后四个月再度面对面，目标是维持11月到期的贸易休休战。AI近期迅速成为中美新断层线，双方就建立AI对话机制初步接触；报道称中方考虑让比亚迪进入随行商界代表团。彭博经济研究称“相对稳住的关系可能延续，但美国重建关税墙令升级风险犹存”。",
+      "cited_sources": [
+        "Treasury Secretary Scott Bessent",
+        "Vice Premier He Lifeng",
+        "USTR Jamieson Greer",
+        "China's Commerce Ministry",
+        "Bloomberg Economics (Gorton-Caratelli, Farrar, Cousin)"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://www.business-standard.com/amp/world-news/us-china-trade-teams-set-to-meet-in-new-york-on-ai-iran-ahead-of-summit-126091900666_1.html",
+        "evidence_note": "Business Standard转载彭博稿，明确署名 By Colum Murphy, Alicia Diaz and Yash Roy (Bloomberg)，为真实人类记者；authors_status=named。source_url为bloomberg.com规范重建链接。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/b3"
+    },
+    {
+      "id": "b5",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Apple, OpenAI and Qualcomm Leaders to Attend Trump-Xi Dinner",
+      "title_zh": "苹果、OpenAI与高通高管将出席特朗普为习近平举行的国宴",
+      "published_at": "2026-09-18",
+      "published_precision": "date",
+      "authors": [
+        "Derek Wallbank",
+        "Jennifer A. Dlouhy"
+      ],
+      "author_locations": [],
+      "authors_status": "named",
+      "topics": [
+        "中美关系",
+        "半导体与芯片",
+        "AI与数字经济"
+      ],
+      "importance": "medium",
+      "summary_zh": "苹果执行董事长库克、OpenAI的Altman、高通Amon将出席特朗普为习近平举行的白宫国宴；英伟达黄仁勋、微软纳德拉、谷歌皮查伊、亚马逊贝索斯、特斯拉马斯克等亦在列。AI与芯片政策是峰会背景下的焦点，七位以上美国AI与芯片巨头同场，被市场解读为降低近期贸易与出口管制紧张的代理信号，费半指数一度涨超3%、AMD市值破万亿。",
+      "china_angle": "科技巨头齐聚国宴凸显中美AI/芯片博弈，但出席不具约束力；市场已提前计入出口管制缓和预期，若峰会无实质AI/贸易成果，乐观情绪或回吐。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-18/apple-openai-qualcomm-leaders-to-attend-trump-xi-dinner",
+      "body_available": true,
+      "body_zh": "库克9月1日转任执行董事长后仍参与对美政府与对华事务；OpenAI确认Altman出席，高通声明Amon“代表美国科技领导力”出席。CNBC与Politico分别先报Altman、Amon在列。分析指出，与会者恰是受对华出口管制与芯片销售影响最直接的高管，国宴是外交信号而非政策承诺。",
+      "cited_sources": [
+        "person familiar with the matter",
+        "OpenAI (statement)",
+        "Qualcomm (statement)",
+        "White House (no immediate comment)",
+        "CNBC",
+        "Politico"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "http://ard.binge-education.com/business/businessnews/s-4300656",
+        "evidence_note": "ArcaMax转载彭博稿，文末标“©2026 Bloomberg L.P. Visit bloomberg.com. Distributed by Tribune Content Agency”，并注“(With assistance from Derek Wallbank and Jennifer A. Dlouhy)”；按彭博硬标准视为彭博原创，具名记者以“With assistance from”形式找回，authors_status=named（主署名未在转载页显示）。source_url为bloomberg.com规范重建链接。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/b5"
+    },
+    {
+      "id": "b6",
+      "media": "Bloomberg",
+      "media_zh": "彭博社",
+      "title_en": "Trump-Xi Showdown Casts a Shadow Over the Global Economy",
+      "title_zh": "习特会对峙给全球经济投下阴影",
+      "published_at": "2026-09-24",
+      "published_precision": "date",
+      "authors": [],
+      "author_locations": [],
+      "authors_status": "not_available",
+      "topics": [
+        "中美关系",
+        "宏观经济与政策",
+        "全球外交"
+      ],
+      "importance": "high",
+      "summary_zh": "彭博经济/分析指出，特朗普—习近平峰会为全球经济投下阴影：贸易休战到期、关税、AI与稀土、伊朗能源等多线交织，任何破裂都可能重定价全球资产。文章点名中美“双循环”内在张力，以及欧洲被夹在美中战略竞争中间、同时应对对华贸易逆差扩大的局面。",
+      "china_angle": "峰会结果将决定全球贸易、AI供应链与关键矿物走向，是影响中国外部环境的头等风险事件；关键矿物休战11月到期为最紧要变量。",
+      "stance": "neutral",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-24/trump-xi-showdown-casts-a-shadow-over-global-economy",
+      "body_available": true,
+      "body_zh": "9月24日彭博经济频道头条，配图署名仅Kenny Holston-Pool/Getty Images(摄影)，无具名作者。核心论点：强油价(Brent>102)与火热PMI推升美债收益率、市场重估加息，叠中美峰会不确定性；关键矿物休战到期是峰会主事件风险，欧洲夹在美中之间。",
+      "cited_sources": [
+        "Bloomberg Economics",
+        "S&P Global PMI data"
+      ],
+      "sentiment": "neutral",
+      "is_negative": false,
+      "deep_analysis": "",
+      "provenance": {
+        "source": "Bloomberg",
+        "evidence_url": "https://www.bloomberg.com/economics-v2",
+        "evidence_note": "直接见于彭博经济频道首页(2026-09-24，“10 hr ago”)，彭博原创标记；转载页即彭博本站，未显示具名记者（仅配图摄影署名），authors_status=not_available。source_url为bloomberg.com规范重建链接。"
+      },
+      "anon_sourcing": {
+        "flag": false,
+        "count": 0,
+        "hits": []
+      },
+      "_day": "2026-09-24",
+      "_uid": "2026-09-24/b6"
     }
   ],
   "archive": {
-    "days_count": 45,
+    "days_count": 46,
     "first_day": "2026-08-04",
-    "last_day": "2026-09-23",
-    "total_articles": 628,
+    "last_day": "2026-09-24",
+    "total_articles": 649,
     "by_media": {
-      "路透社": 389,
-      "彭博社": 239
+      "路透社": 405,
+      "彭博社": 244
     },
     "by_topic": {
-      "中美关系": 53,
+      "中美关系": 65,
       "半导体": 45,
       "出口管制": 42,
       "AI": 38,
@@ -63669,15 +65631,15 @@ window.__XFS_DATA__ = {
       "港股": 26,
       "中美经贸": 25,
       "中美科技竞争": 22,
+      "台海": 22,
       "供应链": 22,
       "IPO": 22,
       "伊朗": 22,
       "出口": 21,
       "关税": 21,
+      "资本市场": 20,
       "中美科技": 20,
-      "资本市场": 19,
       "人形机器人": 19,
-      "台海": 19,
       "中国台湾": 18,
       "房地产": 17,
       "出海": 17,
@@ -63693,6 +65655,7 @@ window.__XFS_DATA__ = {
       "A股": 13,
       "财报": 13,
       "内需": 13,
+      "经贸与产业链": 13,
       "科技竞争": 11,
       "自然灾害": 11,
       "国产替代": 11,
@@ -63712,6 +65675,7 @@ window.__XFS_DATA__ = {
       "关键矿产": 8,
       "习近平": 8,
       "次级制裁": 8,
+      "AI与数字经济": 8,
       "新能源汽车": 7,
       "能源安全": 7,
       "融资": 7,
@@ -63752,6 +65716,7 @@ window.__XFS_DATA__ = {
       "宏观数据": 6,
       "美国": 6,
       "香港": 6,
+      "全球外交": 6,
       "军事安全": 5,
       "制裁": 5,
       "太阳能": 5,
@@ -63779,7 +65744,6 @@ window.__XFS_DATA__ = {
       "金融风险": 5,
       "元首外交": 5,
       "特朗普—习近平峰会": 5,
-      "经贸与产业链": 5,
       "经贸摩擦": 4,
       "对外投资": 4,
       "AI产业链": 4,
@@ -63820,6 +65784,8 @@ window.__XFS_DATA__ = {
       "贸易顺差": 4,
       "资本流动": 4,
       "商务部": 4,
+      "半导体与芯片": 4,
+      "宏观经济与政策": 4,
       "社会民生": 3,
       "科技产业": 3,
       "金融市场": 3,
@@ -63877,8 +65843,9 @@ window.__XFS_DATA__ = {
       "DeepSeek": 3,
       "习特会": 3,
       "AI安全": 3,
-      "全球外交": 3,
-      "AI与数字经济": 3,
+      "周边与地缘安全": 3,
+      "能源与资源": 3,
+      "货币与汇率": 3,
       "知识产权": 2,
       "南海议题": 2,
       "涉台议题": 2,
@@ -64035,8 +66002,6 @@ window.__XFS_DATA__ = {
       "税收": 2,
       "何立峰": 2,
       "对台军售": 2,
-      "周边与地缘安全": 2,
-      "货币与汇率": 2,
       "涉疆议题": 1,
       "解释性报道": 1,
       "农产品贸易": 1,
@@ -64693,9 +66658,8 @@ window.__XFS_DATA__ = {
       "电力": 1,
       "用电量": 1,
       "科技政策": 1,
-      "能源与资源": 1,
-      "半导体与芯片": 1,
-      "宏观经济与政策": 1
+      "美国与全球": 1,
+      "新能源与制造": 1
     },
     "sentiment_trend": [
       {
@@ -64967,6 +66931,13 @@ window.__XFS_DATA__ = {
         "negative": 1,
         "neutral": 7,
         "positive": 0
+      },
+      {
+        "date": "2026-09-24",
+        "negative": 1,
+        "neutral": 19,
+        "positive": 0,
+        "pos": 1
       }
     ],
     "cited_source_freq": [
@@ -64980,7 +66951,7 @@ window.__XFS_DATA__ = {
       ],
       [
         "Reuters",
-        36
+        44
       ],
       [
         "Bloomberg",
@@ -65011,15 +66982,15 @@ window.__XFS_DATA__ = {
         12
       ],
       [
+        "金十数据",
+        10
+      ],
+      [
         "阿里巴巴",
         9
       ],
       [
         "中国海关总署",
-        9
-      ],
-      [
-        "金十数据",
         9
       ],
       [
@@ -65100,6 +67071,10 @@ window.__XFS_DATA__ = {
       ],
       [
         "美国财政部",
+        5
+      ],
+      [
+        "Bloomberg Economics",
         5
       ],
       [
@@ -65199,10 +67174,6 @@ window.__XFS_DATA__ = {
         4
       ],
       [
-        "Bloomberg Economics",
-        4
-      ],
-      [
         "欧盟委员会",
         3
       ],
@@ -65232,6 +67203,10 @@ window.__XFS_DATA__ = {
       ],
       [
         "字节跳动",
+        3
+      ],
+      [
+        "华尔街见闻",
         3
       ],
       [
@@ -65284,6 +67259,10 @@ window.__XFS_DATA__ = {
       ],
       [
         "USTR",
+        3
+      ],
+      [
+        "AOL",
         3
       ],
       [
@@ -65460,10 +67439,6 @@ window.__XFS_DATA__ = {
       ],
       [
         "Figure AI",
-        2
-      ],
-      [
-        "华尔街见闻",
         2
       ],
       [
@@ -65756,6 +67731,10 @@ window.__XFS_DATA__ = {
       ],
       [
         "Bloomberg Technology",
+        2
+      ],
+      [
+        "Treasury Secretary Scott Bessent",
         2
       ],
       [
@@ -70549,12 +72528,172 @@ window.__XFS_DATA__ = {
       [
         "https://internationalinvestment.biz/en/china/8815-china-home-prices-continue-to-fall.html",
         1
+      ],
+      [
+        "US News",
+        1
+      ],
+      [
+        "The Standard",
+        1
+      ],
+      [
+        "LINE TODAY",
+        1
+      ],
+      [
+        "Star-Telegram",
+        1
+      ],
+      [
+        "Aju Press",
+        1
+      ],
+      [
+        "Nation Thailand",
+        1
+      ],
+      [
+        "Hindustan Times",
+        1
+      ],
+      [
+        "The Standard (reprint)",
+        1
+      ],
+      [
+        "Economic Times (reprint)",
+        1
+      ],
+      [
+        "网易/新浪财经",
+        1
+      ],
+      [
+        "The Vibes (reprint)",
+        1
+      ],
+      [
+        "中国新闻网",
+        1
+      ],
+      [
+        "同花顺",
+        1
+      ],
+      [
+        "腾讯新闻/陆家嘴早餐",
+        1
+      ],
+      [
+        "Rare Earth Exchanges (cites Reuters)",
+        1
+      ],
+      [
+        "Mining Weekly (Reuters, Sep 4)",
+        1
+      ],
+      [
+        "搜狐财经早餐",
+        1
+      ],
+      [
+        "Arveum Semicon Briefing (cites Reuters)",
+        1
+      ],
+      [
+        "中央社 (cites Reuters)",
+        1
+      ],
+      [
+        "搜狐",
+        1
+      ],
+      [
+        "封面新闻 (cites Reuters)",
+        1
+      ],
+      [
+        "今日头条/中国汽车报",
+        1
+      ],
+      [
+        "腾讯搜一搜",
+        1
+      ],
+      [
+        "people familiar with the matter",
+        1
+      ],
+      [
+        "Office of the U.S. Trade Representative",
+        1
+      ],
+      [
+        "Inside U.S. Trade",
+        1
+      ],
+      [
+        "people familiar with the talks",
+        1
+      ],
+      [
+        "China's Commerce Ministry (Huang Ling)",
+        1
+      ],
+      [
+        "Barclays research note",
+        1
+      ],
+      [
+        "Vice Premier He Lifeng",
+        1
+      ],
+      [
+        "USTR Jamieson Greer",
+        1
+      ],
+      [
+        "China's Commerce Ministry",
+        1
+      ],
+      [
+        "Bloomberg Economics (Gorton-Caratelli, Farrar, Cousin)",
+        1
+      ],
+      [
+        "person familiar with the matter",
+        1
+      ],
+      [
+        "OpenAI (statement)",
+        1
+      ],
+      [
+        "Qualcomm (statement)",
+        1
+      ],
+      [
+        "White House (no immediate comment)",
+        1
+      ],
+      [
+        "CNBC",
+        1
+      ],
+      [
+        "Politico",
+        1
+      ],
+      [
+        "S&P Global PMI data",
+        1
       ]
     ],
     "recurring_topics": [
       {
         "topic": "中美关系",
-        "count": 28,
+        "count": 29,
         "days": [
           "2026-08-05",
           "2026-08-06",
@@ -70583,7 +72722,8 @@ window.__XFS_DATA__ = {
           "2026-09-20",
           "2026-09-21",
           "2026-09-22",
-          "2026-09-23"
+          "2026-09-23",
+          "2026-09-24"
         ]
       },
       {
@@ -70740,6 +72880,28 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "台海",
+        "count": 16,
+        "days": [
+          "2026-08-06",
+          "2026-08-08",
+          "2026-08-09",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-16",
+          "2026-09-01",
+          "2026-09-08",
+          "2026-09-16",
+          "2026-09-17",
+          "2026-09-19",
+          "2026-09-20",
+          "2026-09-22",
+          "2026-09-23",
+          "2026-09-24"
+        ]
+      },
+      {
         "topic": "中美经贸",
         "count": 16,
         "days": [
@@ -70780,27 +72942,6 @@ window.__XFS_DATA__ = {
           "2026-09-05",
           "2026-09-17",
           "2026-09-21"
-        ]
-      },
-      {
-        "topic": "台海",
-        "count": 15,
-        "days": [
-          "2026-08-06",
-          "2026-08-08",
-          "2026-08-09",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-16",
-          "2026-09-01",
-          "2026-09-08",
-          "2026-09-16",
-          "2026-09-17",
-          "2026-09-19",
-          "2026-09-20",
-          "2026-09-22",
-          "2026-09-23"
         ]
       },
       {
@@ -70846,6 +72987,26 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "资本市场",
+        "count": 14,
+        "days": [
+          "2026-08-04",
+          "2026-08-06",
+          "2026-08-09",
+          "2026-08-12",
+          "2026-08-20",
+          "2026-08-27",
+          "2026-09-01",
+          "2026-09-02",
+          "2026-09-03",
+          "2026-09-04",
+          "2026-09-05",
+          "2026-09-16",
+          "2026-09-18",
+          "2026-09-24"
+        ]
+      },
+      {
         "topic": "中国台湾",
         "count": 14,
         "days": [
@@ -70882,25 +73043,6 @@ window.__XFS_DATA__ = {
           "2026-09-09",
           "2026-09-19",
           "2026-09-21"
-        ]
-      },
-      {
-        "topic": "资本市场",
-        "count": 13,
-        "days": [
-          "2026-08-04",
-          "2026-08-06",
-          "2026-08-09",
-          "2026-08-12",
-          "2026-08-20",
-          "2026-08-27",
-          "2026-09-01",
-          "2026-09-02",
-          "2026-09-03",
-          "2026-09-04",
-          "2026-09-05",
-          "2026-09-16",
-          "2026-09-18"
         ]
       },
       {
@@ -72238,6 +74380,16 @@ window.__XFS_DATA__ = {
         ]
       },
       {
+        "topic": "全球外交",
+        "count": 4,
+        "days": [
+          "2026-09-16",
+          "2026-09-17",
+          "2026-09-21",
+          "2026-09-24"
+        ]
+      },
+      {
         "topic": "对外投资",
         "count": 3,
         "days": [
@@ -72733,12 +74885,30 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "全球外交",
+        "topic": "经贸与产业链",
         "count": 3,
         "days": [
-          "2026-09-16",
-          "2026-09-17",
-          "2026-09-21"
+          "2026-09-22",
+          "2026-09-23",
+          "2026-09-24"
+        ]
+      },
+      {
+        "topic": "周边与地缘安全",
+        "count": 3,
+        "days": [
+          "2026-09-22",
+          "2026-09-23",
+          "2026-09-24"
+        ]
+      },
+      {
+        "topic": "AI与数字经济",
+        "count": 3,
+        "days": [
+          "2026-09-22",
+          "2026-09-23",
+          "2026-09-24"
         ]
       },
       {
@@ -73934,31 +76104,47 @@ window.__XFS_DATA__ = {
         ]
       },
       {
-        "topic": "经贸与产业链",
+        "topic": "能源与资源",
         "count": 2,
         "days": [
           "2026-09-22",
-          "2026-09-23"
+          "2026-09-24"
         ]
       },
       {
-        "topic": "周边与地缘安全",
+        "topic": "半导体与芯片",
         "count": 2,
         "days": [
           "2026-09-22",
-          "2026-09-23"
+          "2026-09-24"
         ]
       },
       {
-        "topic": "AI与数字经济",
+        "topic": "货币与汇率",
         "count": 2,
         "days": [
-          "2026-09-22",
-          "2026-09-23"
+          "2026-09-23",
+          "2026-09-24"
+        ]
+      },
+      {
+        "topic": "宏观经济与政策",
+        "count": 2,
+        "days": [
+          "2026-09-23",
+          "2026-09-24"
         ]
       }
     ],
     "important_negatives": [
+      {
+        "id": "r14",
+        "date": "2026-09-24",
+        "media": "路透社",
+        "title_zh": "特朗普-习近平峰会无即时突破，中国内地、港股及在美中概股回落",
+        "importance": "high",
+        "day": "2026-09-24"
+      },
       {
         "id": "r4",
         "date": "2026-09-21",
@@ -75521,11 +77707,11 @@ window.__XFS_DATA__ = {
       }
     ],
     "penetration": {
-      "运行天数": 45,
-      "累计报道": 628,
-      "覆盖议题": 1036,
-      "覆盖信源": 1395,
-      "负面累计": 195,
+      "运行天数": 46,
+      "累计报道": 649,
+      "覆盖议题": 1038,
+      "覆盖信源": 1437,
+      "负面累计": 196,
       "谋题累计": 54
     },
     "questions_timeline": [
@@ -75694,12 +77880,12 @@ window.__XFS_DATA__ = {
     ]
   },
   "stats": {
-    "total": 628,
-    "days": 45,
-    "negatives": 195,
-    "with_author": 369,
-    "with_body": 212,
-    "with_sources": 566,
-    "with_anon": 40
+    "total": 649,
+    "days": 46,
+    "negatives": 196,
+    "with_author": 377,
+    "with_body": 233,
+    "with_sources": 587,
+    "with_anon": 43
   }
 };

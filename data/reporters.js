@@ -7251,5 +7251,105 @@ window.__XFS_REPORTERS__ = [
       "email": "—"
     },
     "sources": []
+  },
+  {
+    "id": "tamiyuki-kihara",
+    "name": "Tamiyuki Kihara",
+    "name_zh": "—",
+    "gender": "待定",
+    "nationality": "未公开检索到",
+    "ethnic_chinese": "待定",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "—",
+    "title_en": "—",
+    "beat": "—",
+    "base": "—",
+    "base_en": "—",
+    "background": "署名回溯自动补卡（西风哨，2026-09-23）：据 reuters.com/bloomberg.com 转载页署名行核实，未公开检索到详细履历，不编造。",
+    "focus": [],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": []
+  },
+  {
+    "id": "yukiko-toyoda",
+    "name": "Yukiko Toyoda",
+    "name_zh": "—",
+    "gender": "待定",
+    "nationality": "未公开检索到",
+    "ethnic_chinese": "待定",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "—",
+    "title_en": "—",
+    "beat": "—",
+    "base": "—",
+    "base_en": "—",
+    "background": "署名回溯自动补卡（西风哨，2026-09-23）：据 reuters.com/bloomberg.com 转载页署名行核实，未公开检索到详细履历，不编造。",
+    "focus": [],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": []
+  },
+  {
+    "id": "derek-wallbank",
+    "name": "Derek Wallbank",
+    "name_zh": "—",
+    "gender": "待定",
+    "nationality": "未公开检索到",
+    "ethnic_chinese": "待定",
+    "org": "Bloomberg",
+    "org_unit": "Bloomberg",
+    "role": "reporter",
+    "title": "—",
+    "title_en": "—",
+    "beat": "—",
+    "base": "—",
+    "base_en": "—",
+    "background": "署名回溯自动补卡（西风哨，2026-09-23）：据 reuters.com/bloomberg.com 转载页署名行核实，未公开检索到详细履历，不编造。",
+    "focus": [],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": []
+  },
+  {
+    "id": "jennifer-a-dlouhy",
+    "name": "Jennifer A. Dlouhy",
+    "name_zh": "—",
+    "gender": "待定",
+    "nationality": "未公开检索到",
+    "ethnic_chinese": "待定",
+    "org": "Bloomberg",
+    "org_unit": "Bloomberg",
+    "role": "reporter",
+    "title": "—",
+    "title_en": "—",
+    "beat": "—",
+    "base": "—",
+    "base_en": "—",
+    "background": "署名回溯自动补卡（西风哨，2026-09-23）：据 reuters.com/bloomberg.com 转载页署名行核实，未公开检索到详细履历，不编造。",
+    "focus": [],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": []
   }
 ];
