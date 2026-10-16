@@ -8001,5 +8001,645 @@ window.__XFS_REPORTERS__ = [
       "email": "—"
     },
     "sources": []
+  },
+  {
+    "id": "yilei-sun",
+    "name": "Yilei Sun",
+    "name_zh": "—",
+    "gender": "女(推测)",
+    "nationality": "中国(推测)",
+    "ethnic_chinese": "是(推测)",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "中国公司与科技记者",
+    "title_en": "中国公司与科技记者",
+    "beat": "中国公司、汽车与科技（北京）",
+    "base": "北京(推测)",
+    "base_en": "Beijing",
+    "background": "路透社驻北京记者，与 Brenda Goh 合署报道中国跨境汽车数据监管等议题，覆盖中国公司与科技产业链。公开履历(毕业院校与入职路径)未经独立核实。",
+    "focus": [
+      "中国公司",
+      "汽车",
+      "科技"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://worldautoforum.com/china-to-set-assessment-measures-to-regulate-data-sent-abroad-by-cars/"
+    ]
+  },
+  {
+    "id": "liam-mo",
+    "name": "Liam Mo",
+    "name_zh": "—",
+    "gender": "男(推测)",
+    "nationality": "中国(推测)",
+    "ethnic_chinese": "是(推测)",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "中国宏观经济与就业记者",
+    "title_en": "中国宏观经济与就业记者",
+    "beat": "中国宏观经济、就业与服务业政策（北京）",
+    "base": "北京(推测)",
+    "base_en": "Beijing",
+    "background": "路透社驻北京记者，与 Eduardo Baptista 合署报道中国城镇新增就业与服务业就业政策。公开履历未经独立核实。",
+    "focus": [
+      "中国宏观",
+      "就业"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://in.marketscreener.com/news/china-adds-10-52-million-urban-jobs-in-jan-sept-to-roll-out-services-jobs-policy-ce785ddcda8ef520"
+    ]
+  },
+  {
+    "id": "neil-jerome-morales",
+    "name": "Neil Jerome Morales",
+    "name_zh": "—",
+    "gender": "男(推测)",
+    "nationality": "菲律宾(推测)",
+    "ethnic_chinese": "否",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "菲律宾/东南亚地缘政治记者",
+    "title_en": "菲律宾/东南亚地缘政治记者",
+    "beat": "菲律宾、南海争端与东南亚外交（马尼拉）",
+    "base": "马尼拉",
+    "base_en": "Manila",
+    "background": "路透社马尼拉分社记者，报道中菲南海摩擦及菲律宾就中国制裁其防长提出抗议等议题。公开履历未经独立核实。",
+    "focus": [
+      "菲律宾",
+      "南海",
+      "东南亚"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://www.reuters.com/world/philippines-protests-china-sanctions-defense-minister-2026-10-13/"
+    ]
+  },
+  {
+    "id": "ankur-banerjee",
+    "name": "Ankur Banerjee",
+    "name_zh": "—",
+    "gender": "男(推测)",
+    "nationality": "印度(推测)",
+    "ethnic_chinese": "否",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "资本市场/科技融资记者",
+    "title_en": "资本市场/科技融资记者",
+    "beat": "资本市场、科技融资与债券（新加坡）",
+    "base": "新加坡",
+    "base_en": "Singapore",
+    "background": "路透社新加坡分社记者，与 Yantoultra Ngui 合署报道腾讯57亿美元AI债券等科技融资议题。公开履历未经独立核实。",
+    "focus": [
+      "资本市场",
+      "科技融资"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://www.aol.com/news/tencent-raises-5-7-billion-bond-ai-2026-10-13/"
+    ]
+  },
+  {
+    "id": "aditya-soni",
+    "name": "Aditya Soni",
+    "name_zh": "—",
+    "gender": "男(推测)",
+    "nationality": "印度(推测)",
+    "ethnic_chinese": "否",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "科技/AI政策记者",
+    "title_en": "科技/AI政策记者",
+    "beat": "科技、AI政策与产业（班加罗尔）",
+    "base": "班加罗尔",
+    "base_en": "Bengaluru",
+    "background": "路透社班加罗尔分社记者，独家报道中国AI业界对独立安全评审机构的分歧。公开履历未经独立核实。",
+    "focus": [
+      "AI政策",
+      "科技"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://www.news4alpha.com/exclusive-china-ai-safety-review-reuters-2026-10-13/"
+    ]
+  },
+  {
+    "id": "emma-dong",
+    "name": "Emma Dong",
+    "name_zh": "—",
+    "gender": "女(推测)",
+    "nationality": "中国(推测)",
+    "ethnic_chinese": "是(推测)",
+    "org": "Bloomberg",
+    "org_unit": "Bloomberg",
+    "role": "reporter",
+    "title": "中国房地产与宏观经济记者",
+    "title_en": "中国房地产与宏观经济记者",
+    "beat": "中国房地产市场与宏观经济（上海）",
+    "base": "上海(推测)",
+    "base_en": "Shanghai",
+    "background": "彭博社驻上海记者，署名报道中国房价增速放缓等房地产与宏观议题。公开履历未经独立核实。",
+    "focus": [
+      "中国房地产",
+      "宏观经济"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://www.ndtv.com/world-news/china-home-price-growth-slows-bloomberg-emma-dong-2026-10-13/"
+    ]
+  },
+  {
+    "id": "florence-lo",
+    "name": "Florence Lo",
+    "name_zh": "—",
+    "gender": "女(推测)",
+    "nationality": "中国(推测)",
+    "ethnic_chinese": "是(推测)",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "中朝边境/东北亚记者",
+    "title_en": "中朝边境/东北亚记者",
+    "beat": "中朝边境、朝鲜半岛与东北亚（驻丹东）",
+    "base": "丹东",
+    "base_en": "Dandong",
+    "background": "路透社记者，与 Mandy Leong 合署报道中朝新鸭绿江大桥通车等边境经贸议题，驻地丹东。公开履历未经独立核实。",
+    "focus": [
+      "中朝边境",
+      "朝鲜半岛"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://www.yahoo.com/news/world/articles/trucks-line-long-delayed-china-024528400.html"
+    ]
+  },
+  {
+    "id": "mandy-leong",
+    "name": "Mandy Leong",
+    "name_zh": "—",
+    "gender": "女(推测)",
+    "nationality": "未公开检索到(推测)",
+    "ethnic_chinese": "是(推测)",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "中国宏观/边境经贸记者",
+    "title_en": "中国宏观/边境经贸记者",
+    "beat": "中国宏观、消费与边境经贸（驻丹东）",
+    "base": "丹东",
+    "base_en": "Dandong",
+    "background": "路透社记者，与 Florence Lo 合署报道中朝边境经贸议题，驻地丹东。公开履历未经独立核实。",
+    "focus": [
+      "边境经贸",
+      "中国宏观"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://www.yahoo.com/news/world/articles/trucks-line-long-delayed-china-024528400.html"
+    ]
+  },
+  {
+    "id": "jack-kim",
+    "name": "Jack Kim",
+    "name_zh": "—",
+    "gender": "男(推测)",
+    "nationality": "韩国(推测)",
+    "ethnic_chinese": "否",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "朝鲜半岛/东北亚记者",
+    "title_en": "朝鲜半岛/东北亚记者",
+    "beat": "朝鲜半岛、东北亚安全（首尔）",
+    "base": "首尔",
+    "base_en": "Seoul",
+    "background": "路透社首尔分社记者，与 Kyu-seok Shim 合署报道中朝边境与朝鲜半岛议题。公开履历未经独立核实。",
+    "focus": [
+      "朝鲜半岛",
+      "东北亚"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://www.yahoo.com/news/world/articles/trucks-line-long-delayed-china-024528400.html"
+    ]
+  },
+  {
+    "id": "dominique-vidalon",
+    "name": "Dominique Vidalon",
+    "name_zh": "—",
+    "gender": "女(推测)",
+    "nationality": "法国(推测)",
+    "ethnic_chinese": "否",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "欧洲消费品与酒业记者",
+    "title_en": "欧洲消费品与酒业记者",
+    "beat": "欧洲消费品、酒业与法国企业（巴黎）",
+    "base": "巴黎",
+    "base_en": "Paris",
+    "background": "路透社巴黎分社记者，报道保乐力加等欧洲消费品企业业绩。公开履历未经独立核实。",
+    "focus": [
+      "欧洲消费品",
+      "酒业"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://www.marketscreener.com/news/pernod-ricard-first-quarter-sales-fall-less-than-expected-cautious-optimism-on-china-ce785dd3d888f42c"
+    ]
+  },
+  {
+    "id": "daphne-zhang",
+    "name": "Daphne Zhang",
+    "name_zh": "—",
+    "gender": "女(推测)",
+    "nationality": "中国(推测)",
+    "ethnic_chinese": "是(推测)",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "中国经贸/农业出口记者",
+    "title_en": "中国经贸/农业出口记者",
+    "beat": "中国经贸、农业与食品出口（驻山东滕州）",
+    "base": "山东滕州",
+    "base_en": "Tengzhou, Shandong",
+    "background": "路透社记者，与 Ella Cao、Lewis Jackson 合署报道中国蛋白出口等农业经贸议题，驻地山东滕州。公开履历未经独立核实。",
+    "focus": [
+      "农业出口",
+      "经贸"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://finance.yahoo.com/news/chinese-export-boom-really-legs-051526992.html"
+    ]
+  },
+  {
+    "id": "tian-lanqin",
+    "name": "Tian Lanqin",
+    "name_zh": "—",
+    "gender": "女(推测)",
+    "nationality": "中国(推测)",
+    "ethnic_chinese": "是(推测)",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "中国宏观经济/产业记者",
+    "title_en": "中国宏观经济/产业记者",
+    "beat": "中国宏观经济、产业与汽车（北京）",
+    "base": "北京(推测)",
+    "base_en": "Beijing",
+    "background": "路透社驻北京记者，与 Liz Lee 合署报道中汽协对中欧混动/电动车贸易共识的回应。公开履历未经独立核实。",
+    "focus": [
+      "中国宏观",
+      "产业",
+      "汽车"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://au.marketscreener.com/news/china-auto-group-says-china-eu-trade-consensus-aids-industry-stability-ce785dd2db8bf22d"
+    ]
+  },
+  {
+    "id": "james-pomfret",
+    "name": "James Pomfret",
+    "name_zh": "—",
+    "gender": "男(推测)",
+    "nationality": "未公开检索到(推测)",
+    "ethnic_chinese": "否",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "reporter",
+    "title": "大中华区政治/安全记者",
+    "title_en": "大中华区政治/安全记者",
+    "beat": "大中华区政治、安全与两岸（香港/台北）",
+    "base": "香港/台北(推测)",
+    "base_en": "Hong Kong/Taipei",
+    "background": "路透社大中华区记者，署名报道中方制裁台商曹兴诚与立委沈伯洋及环台军演等议题。公开履历未经独立核实。",
+    "focus": [
+      "大中华区",
+      "安全",
+      "两岸"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://www.thisismoney.co.uk/wires/reuters/article-13956567/China-sanctions-Taiwan-businessman-Robert-Tsao-lawmaker-separatist-acts.html"
+    ]
+  },
+  {
+    "id": "jason-zhao",
+    "name": "Jason Zhao",
+    "name_zh": "—",
+    "gender": "男(推测)",
+    "nationality": "未公开检索到(推测)",
+    "ethnic_chinese": "是(推测)",
+    "org": "Bloomberg",
+    "org_unit": "Bloomberg Intelligence",
+    "role": "analyst",
+    "title": "彭博行业研究(BI)汽车分析师",
+    "title_en": "彭博行业研究(BI)汽车分析师",
+    "beat": "汽车、中国电动车与中欧贸易（彭博行业研究）",
+    "base": "香港/新加坡(推测)",
+    "base_en": "Hong Kong/Singapore",
+    "background": "彭博行业研究(Bloomberg Intelligence)汽车分析师，与 Joanna Chen 联名发布关于欧盟对中国混动汽车进口设限的研报。公开履历未经独立核实。",
+    "focus": [
+      "汽车",
+      "中国电动车",
+      "中欧贸易"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://www.thestar.com.my/business/business-news/2026/10/13/eudeal-sees-need-to-build-chinese-cars-in-europe"
+    ]
+  },
+  {
+    "id": "elzio-barreto",
+    "name": "Elzio Barreto",
+    "name_zh": "—",
+    "gender": "男(推测)",
+    "nationality": "巴西(推测)",
+    "ethnic_chinese": "否",
+    "org": "Reuters",
+    "org_unit": "Reuters",
+    "role": "former reporter",
+    "title": "前路透/彭博记者（现任 HKEX 传讯）",
+    "title_en": "前路透/彭博记者（现任 HKEX 传讯）",
+    "beat": "曾覆盖大中华区股本市场、PE、金融科技（香港）",
+    "base": "香港",
+    "base_en": "Hong Kong",
+    "background": "资深财经记者，曾任职路透与彭博，驻香港覆盖大中华区股本资本市场、私募股权与金融科技；2017年转任 Accenture 传讯，后任 EY 亚太传讯策略负责人，现任港交所(HKEX)媒体关系主管。署名见于中国再保险等港股IPO报道。注：已离开新闻业，本卡仅用于历史署名匹配。",
+    "focus": [
+      "股本市场",
+      "PE",
+      "金融科技"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://publicomagazine.com?p=4428/",
+      "https://muckrack.com/reuterslzo/articles"
+    ]
+  },
+  {
+    "id": "michael-deng",
+    "name": "Michael Deng",
+    "name_zh": "—",
+    "gender": "男(推测)",
+    "nationality": "美国(推测)",
+    "ethnic_chinese": "是(推测)",
+    "org": "Bloomberg",
+    "org_unit": "Bloomberg Economics",
+    "role": "analyst",
+    "title": "彭博经济研究(BE)地缘经济/科技分析师",
+    "title_en": "彭博经济研究(BE)地缘经济/科技分析师",
+    "beat": "地缘经济、科技政策与中美AI竞争（彭博经济研究）",
+    "base": "华盛顿(推测)",
+    "base_en": "Washington",
+    "background": "彭博经济研究(Bloomberg Economics)地缘经济与科技分析师，曾任美国商务部 CHIPS Programme Office 政策顾问；参与 Trumponomics 等播客，分析中美AI竞争与半导体管制。公开履历未经独立核实。",
+    "focus": [
+      "地缘经济",
+      "科技政策",
+      "中美AI"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://www.bloomberg.com/news/audio/2026-09-23/trumponomics-trump-xi-summit-s-tough-ai-questions-podcast"
+    ]
+  },
+  {
+    "id": "philip-heijmans",
+    "name": "Philip Heijmans",
+    "name_zh": "—",
+    "gender": "男(推测)",
+    "nationality": "未公开检索到(推测)",
+    "ethnic_chinese": "否",
+    "org": "Bloomberg",
+    "org_unit": "Bloomberg News",
+    "role": "reporter",
+    "title": "东南亚政府记者",
+    "title_en": "东南亚政府记者",
+    "beat": "东南亚政府、政治与地缘（新加坡）",
+    "base": "新加坡",
+    "base_en": "Singapore",
+    "background": "彭博社驻新加坡记者，覆盖东南亚政府与政治，与 Rosalind Mathieson、Simon Marks 合署报道AI催生的诈骗经济等议题。公开履历未经独立核实。",
+    "focus": [
+      "东南亚政府",
+      "政治"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://bloomberg.com/graphics/2026-ai-supercharges-scam-economy"
+    ]
+  },
+  {
+    "id": "rob-lea",
+    "name": "Rob Lea",
+    "name_zh": "—",
+    "gender": "男(推测)",
+    "nationality": "未公开检索到(推测)",
+    "ethnic_chinese": "否",
+    "org": "Bloomberg",
+    "org_unit": "Bloomberg Intelligence",
+    "role": "analyst",
+    "title": "彭博行业研究(BI)资深TMT分析师",
+    "title_en": "彭博行业研究(BI)资深TMT分析师",
+    "beat": "科技、媒体与电信(TMT)、中国汽车（彭博行业研究）",
+    "base": "香港/伦敦(推测)",
+    "base_en": "Hong Kong/London",
+    "background": "彭博行业研究(Bloomberg Intelligence)资深TMT分析师，与 Shery Ahn、Michael Deng 探讨中国AI发展，并与 Joanna Chen、Jason Zhao 合著中欧混动汽车研报。公开履历未经独立核实。",
+    "focus": [
+      "TMT",
+      "中国汽车"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://origin.www.bloomberg.com/news/videos/2026-10-12/how-china-is-changing-ai"
+    ]
+  },
+  {
+    "id": "rosalind-mathieson",
+    "name": "Rosalind Mathieson",
+    "name_zh": "—",
+    "gender": "女(推测)",
+    "nationality": "英国(推测)",
+    "ethnic_chinese": "否",
+    "org": "Bloomberg",
+    "org_unit": "Bloomberg News",
+    "role": "editor",
+    "title": "彭博新闻总监(EMEA)",
+    "title_en": "彭博新闻总监(EMEA)",
+    "beat": "欧洲、中东与非洲新闻编辑管理",
+    "base": "伦敦(推测)",
+    "base_en": "London",
+    "background": "彭博社新闻总监(EMEA)，负责欧洲、中东与非洲地区新闻编辑管理；与 Philip Heijmans、Simon Marks 合署署名报道。公开履历未经独立核实。",
+    "focus": [
+      "新闻编辑管理",
+      "EMEA"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://bloomberg.com/graphics/2026-ai-supercharges-scam-economy"
+    ]
+  },
+  {
+    "id": "shery-ahn",
+    "name": "Shery Ahn",
+    "name_zh": "—",
+    "gender": "女(推测)",
+    "nationality": "韩国/美籍韩裔(推测)",
+    "ethnic_chinese": "否",
+    "org": "Bloomberg",
+    "org_unit": "Bloomberg News",
+    "role": "reporter",
+    "title": "彭博电视主播/编辑",
+    "title_en": "彭博电视主播/编辑",
+    "beat": "亚太市场、科技与地缘政治（彭博电视）",
+    "base": "东京(推测)",
+    "base_en": "Tokyo",
+    "background": "彭博电视主播与编辑，驻东京，主持 Bloomberg Tech: Asia 等节目，对话 Rob Lea、Michael Deng 等分析中国AI发展。公开履历未经独立核实。",
+    "focus": [
+      "亚太市场",
+      "科技",
+      "地缘政治"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://origin.www.bloomberg.com/news/videos/2026-10-12/how-china-is-changing-ai"
+    ]
+  },
+  {
+    "id": "simon-marks",
+    "name": "Simon Marks",
+    "name_zh": "—",
+    "gender": "男(推测)",
+    "nationality": "未公开检索到(推测)",
+    "ethnic_chinese": "否",
+    "org": "Bloomberg",
+    "org_unit": "Bloomberg News",
+    "role": "reporter",
+    "title": "东非记者",
+    "title_en": "东非记者",
+    "beat": "东非、安全与地缘（内罗毕）",
+    "base": "内罗毕(推测)",
+    "base_en": "Nairobi",
+    "background": "彭博社东非记者，驻内罗毕，与 Philip Heijmans、Rosalind Mathieson 合署报道AI催生的诈骗经济等议题。公开履历未经独立核实。",
+    "focus": [
+      "东非",
+      "安全",
+      "地缘"
+    ],
+    "recent": [],
+    "handles": {
+      "x": "—",
+      "linkedin": "—",
+      "email": "—"
+    },
+    "sources": [
+      "https://bloomberg.com/graphics/2026-ai-supercharges-scam-economy"
+    ]
   }
 ];
